@@ -7,8 +7,8 @@ root: readme
 parts:
   - caption: Resources
     chapters:
-    - file: collections/readme
-    - file: videos/readme
+    - file: collection/readme
+    - file: video/readme
     
   - caption: Appendix
     chapters:
