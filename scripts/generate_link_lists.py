@@ -6,12 +6,13 @@ def main():
     directory_path = 'resources/'
     
     # Iterate over all files in the directory and accumulate content
-    content = {}
+    content = {'resources':[]}
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
+            print("Adding", filename)
             new_content = read_yaml_file(directory_path + filename)
-            
-            content.update(new_content)    
+            content['resources'] = content['resources'] + new_content['resources']
+            print(content.keys())
 
     # Go through all supported content types and generate corresponding markdown files
     for supported_type in supported_content_types:
@@ -29,8 +30,10 @@ def read_yaml_file(filename):
 def find_type(content, content_type):
     """Takes a dictionary of resources, searches for resources of a given type and returns them as new dictionary."""
     result = {}
+    print("Searching for", content_type)
     for c in content['resources']:
         if content_type in c['type']:
+            print("* listing", c['name'])
             result[c['name']] = c
     return result
 
