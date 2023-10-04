@@ -23,4 +23,8 @@ resources:
   event_date: September 10-15 2023
   event_location: Heidelberg, Germany
 
-  
+- name: PoL Bio-Image Analysis GPU Accelerated Image Analysis Training School
+  type: 
+  - event
+  - notebook
+  url: https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis
