@@ -10,6 +10,7 @@ def main():
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
             new_content = read_yaml_file(directory_path + filename)
+            
             content.update(new_content)    
 
     # Go through all supported content types and generate corresponding markdown files
@@ -22,12 +23,8 @@ def read_yaml_file(filename):
     """Read a yaml file and return the content as dictionary of dictionaries"""
     import yaml
     with open(filename, 'r') as file:
-        try:
-            data = yaml.safe_load(file)
-            return data
-        except yaml.YAMLError as exc:
-            print(exc)
-            return None
+        data = yaml.safe_load(file)
+        return data
 
 def find_type(content, content_type):
     """Takes a dictionary of resources, searches for resources of a given type and returns them as new dictionary."""
