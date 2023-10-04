@@ -1,4 +1,4 @@
-# Contributing
+# How to contribute
 
 This repository contains lists of training materials. It is extensible using github pull requests. Just go to the list of resources, click the edit button, add a resource you think should be in the list and go ahead and submit it as pull-request. The format for entries in the repository is documented on the next page.
 
