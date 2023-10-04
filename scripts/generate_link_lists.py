@@ -2,7 +2,7 @@ def main():
 
     import os
 
-    supported_content_types = ['collection', 'video', 'slides', 'notebook', 'event', 'blog']
+    supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog']
     directory_path = 'resources/'
     
     # Iterate over all files in the directory and accumulate content
