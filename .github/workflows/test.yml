@@ -1,0 +1,31 @@
+name: test-deploy-book
+
+# Only run this when a pull-request is sent to main
+on:
+  pull_request:
+    branches:
+    - main
+
+# This job installs dependencies, builds the book
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    # Install dependencies
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+
+    # Build the book
+    - name: Build the book
+      run: |
+        python scripts/generate_link_lists.py
+        jupyter-book build docs/
