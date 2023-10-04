@@ -1,0 +1,24 @@
+resources:
+- name: NEUBIAS YouTube Channel
+  type: collection
+  url: https://www.youtube.com/neubias
+- name: RDM4Mic Presentations
+  type: collection
+  url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
+- name: "Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey"
+  type: publication
+  authors: Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
+  url: https://f1000research.com/articles/11-638
+- name: Sharing and licensing material
+  type: slides
+  authors: Robert Haase
+  url: https://f1000research.com/slides/10-519
+- name: Global BioImaging YouTube channel
+  type: 
+  - collection
+  - video
+  url: https://www.youtube.com/GlobalBioImaging
+- name: BioImage Informatics Index Training Materials
+  type: collection
+  url: https://biii.eu/all-content?type=book&field_type_target_id=All
+  
