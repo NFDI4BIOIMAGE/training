@@ -5,7 +5,7 @@ format: jb-book
 root: readme
 
 parts:
-  - caption: Training Resources
+  - caption: by content Type
     chapters:
     - file: blog/readme
     - file: collection/readme
