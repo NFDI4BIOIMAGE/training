@@ -1,0 +1,27 @@
+resources:
+- name: NEUBIAS YouTube Channel
+  type: 
+  - collection
+  - video
+  url: https://www.youtube.com/neubias
+  description: A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
+
+- name: DigitalSreeni YouTube Channel
+  authors: Sreeni Bhattiprolu
+  type: 
+  - collection
+  - video  
+  url: https://www.youtube.com/digitalsreeni
+  description: A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
+
+- name: Global BioImaging YouTube channel
+  type: 
+  - collection
+  - video
+  url: https://www.youtube.com/GlobalBioImaging
+
+- name: Bio Image Analysis Lecture 2020
+  type: 
+  - collection
+  - video
+  url: https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U

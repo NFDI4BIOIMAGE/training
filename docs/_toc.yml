@@ -8,7 +8,11 @@ parts:
   - caption: Resources
     chapters:
     - file: collection/readme
+    - file: event/readme
+    - file: notebook/readme
+    - file: slide/readme
     - file: video/readme
+    # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
     
   - caption: Appendix
     chapters:
