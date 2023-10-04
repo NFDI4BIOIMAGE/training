@@ -2,7 +2,7 @@ def main():
 
     import os
 
-    supported_content_types = ['collection', 'video', 'slides', 'notebook', 'event']
+    supported_content_types = ['collection', 'video', 'slides', 'notebook', 'event', 'blog']
     directory_path = 'resources/'
     
     # Iterate over all files in the directory and accumulate content
@@ -58,6 +58,9 @@ def write_md(resources, content_type_name, filename):
             if 'description' in properties:
                 description = properties['description']
                 file.write(f"{description}\n")
+            if 'tags' in properties:
+                tags = str(properties['tags'])
+                file.write(f"Tags: {tags}\n")
             file.write(f"\n")
 
 if __name__ == "__main__":

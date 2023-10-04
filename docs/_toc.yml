@@ -5,14 +5,19 @@ format: jb-book
 root: readme
 
 parts:
-  - caption: Resources
+  - caption: Training Resources
     chapters:
+    - file: blog/readme
     - file: collection/readme
+    - file: documentation/readme
     - file: event/readme
     - file: notebook/readme
     - file: slide/readme
     - file: video/readme
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
+  - caption: Contributing
+    - file: contributing/readme
+    - file: contributing/format
     
   - caption: Appendix
     chapters:

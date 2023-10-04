@@ -36,7 +36,23 @@ resources:
   type: slide
   url: https://f1000research.com/slides/12-971
 
+- name: MicroscopyDB
+  type: 
+  - collection
+  url: https://microscopydb.io/
 
+- name: OME Documentation
+  type:
+  - documentation
+  url: https://www.openmicroscopy.org/docs/
+  tags: omero
 
+- name: Bio.tools database
+  type: collection
+  url: https://bio.tools/
+  tags: bioinformatics
 
+- name: GerBI Teaching Resources Link List
+  type: collection
+  url: https://gerbi-gmb.de/resources/teaching-resources/
   
