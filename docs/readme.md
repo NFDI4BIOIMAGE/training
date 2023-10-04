@@ -13,7 +13,7 @@ Feedback and contributions are very welcome.
 
 ## How to use this resource
 
-This Jupyter Book can be searched using the search bar on the right:
+This Jupyter Book can be searched using the search bar on the left:
 
 ![search bar](how_to_use.png)
 
