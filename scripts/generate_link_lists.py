@@ -37,7 +37,7 @@ def find_type(content, content_type):
                 print("* listing", c['name'])
                 result[c['name']] = c
         except:
-            raise InputError("Error parsing " + str(c))
+            raise Exception("Error parsing " + str(c))
 
     return result
 
