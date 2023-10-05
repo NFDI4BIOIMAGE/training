@@ -4,7 +4,7 @@ This repository contains lists of training materials. It is extensible using git
 
 ## What to contribute
 
-Consider adding your favorite training materials and resources. In case you know a collection of resources add it but do not add all individual entries of the collection. We [will be working on collecting them automatically](https://github.com/haesleinhuepf/training/issues/2). However, if there are specific entries in such a collection you think are in particlar valuable, feel free to add them now.
+Consider adding your favorite training materials and resources. In case you know a collection of resources add it but do not add all individual entries of the collection. We [will be working on collecting them automatically](https://github.com/NFDI4BIOIMAGE/training/issues/2). However, if there are specific entries in such a collection you think are in particlar valuable, feel free to add them now.
 
 ## Inclusion criteria
 
@@ -30,7 +30,7 @@ We reserve the right to remove and modify entries of this collection at any poin
 
 ## Step-by-step tutorial
 
-If you want to contribute a new link to some training materials, got to the yml file, e.g. to [events.yml](https://github.com/haesleinhuepf/training/blob/main/resources/events.yml) and click the `edit` button.
+If you want to contribute a new link to some training materials, got to the yml file, e.g. to [events.yml](https://github.com/NFDI4BIOIMAGE/training/blob/main/resources/events.yml) and click the `edit` button.
 
 ![Screenshot showing the events.yml file with an arrow pointing at the edit button](how_to_contribute1.png)
 

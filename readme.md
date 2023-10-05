@@ -2,7 +2,7 @@
 
 This repository contains a collection of training materials. The collection can be browsed under this URL:
 
-https://haesleinhuepf.github.io/training
+https://NFDI4BIOIMAGE.github.io/training
 
 It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and build using [Jupyter book](https://jupyterbook.org/intro.html).
 
@@ -13,7 +13,7 @@ pip install jupyterlab
 pip install jupyter-book
 pip install jupyterlab-spellchecker
 
-git clone https://github.com/haesleinhuepf/training
+git clone https://github.com/NFDI4BIOIMAGE/training
 cd training
 jupyter lab
 ```

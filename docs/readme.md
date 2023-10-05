@@ -9,7 +9,7 @@ This is a **preliminary** / **experimental** search index allowing us to explore
 * how we could potentially inject our list of materials into the other resources
 * how to collect links to training materials following the FAIR principles (findable, accessible, interoperable, reusable)
 
-Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/haesleinhuepf/training/issues).
+Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/NFDI4BIOIMAGE/training/issues).
 
 ## How to use this resource
 
