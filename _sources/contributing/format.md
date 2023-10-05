@@ -3,9 +3,12 @@
 In this repository, we store training materials using a simple YML format. These files are structured like this:
 
 ```
-- resources
-  - name: NFDI4BioImageWebsite
-    url: https://nfdi4bioimage.de 
+resources
+- name: NFDI4BioImage Website
+  type:
+  - collection
+  - website
+  url: https://nfdi4bioimage.de 
 ```
 
 These entries can have multiple properties:
