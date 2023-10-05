@@ -32,19 +32,23 @@ def find_type(content, content_type):
     result = {}
     print("Searching for", content_type)
     for c in content['resources']:
-        if content_type in c['type']:
-            print("* listing", c['name'])
-            result[c['name']] = c
+        try:
+            if content_type in c['type']:
+                print("* listing", c['name'])
+                result[c['name']] = c
+        except:
+            print("Error parsing", c)
     return result
 
 def write_md(resources, content_type_name, filename):
     """Turns a list of resources into a markdown file that can be parsed by Jupyter Book"""
     
     with open(filename, 'w') as file:
-
+        print("Printing items of type ", content_type_name)
         file.write("# " + content_type_name + '\n')
         
         for name, properties in resources.items():
+            print("* ", name)
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
