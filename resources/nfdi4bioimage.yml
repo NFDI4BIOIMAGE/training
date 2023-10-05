@@ -1,12 +1,31 @@
 resources
-- name: "Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey"
-  type: publication
-  authors: Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
-  url: https://f1000research.com/articles/11-638
-
 - name: NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
   type: 
   - poster
   - publication
   authors: Schmidt, Christian ; Ferrando-May, Elisa
   url: https://archiv.ub.uni-heidelberg.de/volltextserver/29489/
+  tags:
+  - NFDI4BioImage
+
+- name: "Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey"
+  type: publication
+  authors: Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
+  url: https://f1000research.com/articles/11-638
+  tags:
+  - NFDI4BioImage
+  
+- name: Sharing and licensing material
+  type: slides
+  authors: Robert Haase
+  url: https://f1000research.com/slides/10-519
+  tags:
+  - NFDI4BioImage
+
+- name: Sharing research data with Zenodo
+  authors: Robert Haase
+  type: blog
+  url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
+  tags:
+  - NFDI4BioImage
+  

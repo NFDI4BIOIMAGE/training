@@ -2,12 +2,6 @@ resources:
 - name: RDM4Mic Presentations
   type: collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
-
-
-- name: Sharing and licensing material
-  type: slides
-  authors: Robert Haase
-  url: https://f1000research.com/slides/10-519
   
 - name: BioImage Informatics Index Training Materials
   type: collection
@@ -42,6 +36,10 @@ resources:
   - documentation
   url: https://www.openmicroscopy.org/docs/
   tags: omero
+
+- name: Omero documentation
+  type: documentation
+  url: https://omero.readthedocs.io/en/stable/
 
 - name: Bio.tools database
   type: collection

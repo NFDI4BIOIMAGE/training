@@ -25,3 +25,11 @@ resources:
   - collection
   - video
   url: https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U
+
+- name: Open Microscopy Environment YouTube channel
+  type: 
+  - collection
+  - video
+  url: https://www.youtube.com/OpenMicroscopyEnvironment
+  description: YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+  
