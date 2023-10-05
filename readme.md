@@ -30,9 +30,4 @@ chmod u+x ./clean.sh
 ./clean.sh
 ```
 
-## Acknowledgements
-
-R.H. acknowledges support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden.
-
-
 

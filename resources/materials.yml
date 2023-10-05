@@ -3,10 +3,6 @@ resources:
   type: collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
 
-- name: "Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey"
-  type: publication
-  authors: Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
-  url: https://f1000research.com/articles/11-638
 
 - name: Sharing and licensing material
   type: slides
@@ -55,4 +51,37 @@ resources:
 - name: GerBI Teaching Resources Link List
   type: collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
-  
+  description: List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
+
+- name: Forschungsdaten.info
+  type: collection
+  url: https://forschungsdaten.info/
+  description: Research Data Management Information Portal in German
+
+- name: Forschungsdaten.org
+  type: collection
+  url: https://www.forschungsdaten.org/
+  description: Research Data Management Wiki in German
+
+- name: Train-the-Trainer Concept on Research Data Management
+  authors:  Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
+  type: 
+  - collection
+  - book
+  url: https://zenodo.org/record/4071471
+  description: Collection of training materials for Research Data Management from the FDMentor community.
+
+- name: Efficiently starting institutional research data management
+  authors:  Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
+  type: slide
+  url: https://zenodo.org/record/3490058
+  license: CC-BY 4.0
+  description: Single slide outlining the most important aspect for starting research data management on institutional level.
+
+- name: RDMKit Training Resources
+  type: collection
+  url: https://rdmkit.elixir-europe.org/all_training_resources
+
+- name: TESS training materials
+  type: collection
+  url: https://tess.elixir-europe.org/materials

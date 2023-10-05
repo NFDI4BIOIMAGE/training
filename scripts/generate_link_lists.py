@@ -2,7 +2,7 @@ def main():
 
     import os
 
-    supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog']
+    supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog', 'book', 'publication']
     directory_path = 'resources/'
     
     # Iterate over all files in the directory and accumulate content
@@ -48,19 +48,24 @@ def write_md(resources, content_type_name, filename):
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
-                file.write(f"By: {authors}\n")
+                file.write(f"By {authors}\n")
             if 'publication_date' in properties:
                 publication_date = properties['publication_date']
-                file.write(f"Published {publication_date}\n")
-            if 'url' in properties:
-                url = properties['url']
-                file.write(f"[{url}]({url})\n")
+                file.write(f"Published {publication_date}")
+            if 'license' in properties:
+                license = properties['license']
+                file.write(f"licensed {license}")
+            file.write("\n\n")
             if 'description' in properties:
                 description = properties['description']
-                file.write(f"{description}\n")
+                file.write(f"\n{description}\n")
             if 'tags' in properties:
                 tags = str(properties['tags'])
-                file.write(f"Tags: {tags}\n")
+                file.write(f"\nTags: {tags}\n")
+            if 'url' in properties:
+                url = properties['url']
+                file.write(f"\n[{url}]({url})\n")
+            
             file.write(f"\n")
 
 if __name__ == "__main__":
