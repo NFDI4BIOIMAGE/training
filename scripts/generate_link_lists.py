@@ -60,7 +60,9 @@ def write_md(resources, content_type_name, filename):
                 description = properties['description']
                 file.write(f"\n{description}\n")
             if 'tags' in properties:
-                tags = str(properties['tags'])
+                tags = properties['tags']
+                if type(tags) is list:
+                    tags = ",".join(tags)
                 file.write(f"\nTags: {tags}\n")
             if 'url' in properties:
                 url = properties['url']
