@@ -19,4 +19,4 @@ These entries can have multiple properties:
 * `authors` (optional)
 * `tags` (optional)
 
-This list of meta-data entries is extensible, just let us know using a [github-issue](https://github.com/haesleinhuepf/training/issues) which kind of meta data you would like to add here.
+This list of meta-data entries is extensible, just let us know using a [github-issue](https://github.com/NFDI4BIOIMAGE/training/issues) which kind of meta data you would like to add here.

@@ -6,7 +6,7 @@ By Robert Haase
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: ['NFDI4BioImage']
+Tags: NFDI4BioImage
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 
@@ -17,7 +17,7 @@ By Robert Haase
 
 Blog post about how to share data using zenodo.org
 
-Tags: ['NFDI4BioImage']
+Tags: NFDI4BioImage
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 

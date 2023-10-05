@@ -1,4 +1,11 @@
 # video
+## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
+By Susanne Kunis
+
+
+
+[https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+
 ## NEUBIAS YouTube Channel
 
 
@@ -35,4 +42,10 @@ A collection tutorial videos for using Python in general and for processing imag
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+## Euro-BioImaging Communication YouTube Channel
+
+
+
+[https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
 

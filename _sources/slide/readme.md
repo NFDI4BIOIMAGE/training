@@ -6,7 +6,7 @@ By Robert Haase
 
 Introduction to sharing resources online and licensing
 
-Tags: ['NFDI4BioImage']
+Tags: NFDI4BioImage
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
