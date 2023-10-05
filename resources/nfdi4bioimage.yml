@@ -52,11 +52,20 @@ resources:
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
   description: A use case example from the Münster Imaging Network
   
+- name: Setting up a data management infrastructure for bioimaging
+  authors: Susanne Kunis, Karen Bernhardt and Michael Hensel
+  type: 
+  - publication
+  url: https://doi.org/10.1515/hsz-2022-0304
 
+- name: A Cloud-Optimized Storage for Interactive Access of Large Arrays
+  type: 
+  - publication
+  - conference abstract
+  authors: Josh Moore, Susanne Kunis
+  url: https://doi.org/10.52825/cordi.v1i.285
 
+- name: Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
+  authors: Susanne Kunis
+  url: https://zenodo.org/record/7018929
 
-
-
-
-
-  

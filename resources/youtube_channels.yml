@@ -32,4 +32,10 @@ resources:
   - video
   url: https://www.youtube.com/OpenMicroscopyEnvironment
   description: YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+
+- name: Euro-BioImaging Communication YouTube Channel
+  type: 
+  - collection
+  - video  
+  url: https://www.youtube.com/c/eurobioimagingcommunication
   

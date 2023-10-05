@@ -96,3 +96,12 @@ resources:
   type: collection
   url: https://tess.elixir-europe.org/materials
 
+- name: "I3D:bio list of online training material"
+  type:
+  - collection
+  url: https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/
+  description: "List of links to training materials by the I3D:bio community."
+
+
+
+  
