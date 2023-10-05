@@ -8,10 +8,13 @@ parts:
   - caption: By content type
     chapters:
     - file: blog/readme
+    - file: book/readme
     - file: collection/readme
+    - file: document/readme
     - file: documentation/readme
     - file: event/readme
     - file: notebook/readme
+    - file: publication/readme
     - file: slide/readme
     - file: video/readme
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
