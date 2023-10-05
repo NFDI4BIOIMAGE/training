@@ -17,3 +17,12 @@ Tags: ['NFDI4BioImage']
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
 
+## OMERO for microscopy research data management
+By Thomas Zobel, Sarah Weischner, Jens Wendt
+
+
+
+A use case example from the Münster Imaging Network
+
+[https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+

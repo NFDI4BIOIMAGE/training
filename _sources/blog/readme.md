@@ -26,7 +26,7 @@ By Robert Haase
 
 
 
-Introcution to version control using git for collaborative, reproducible script editing.
+Introduction to version control using git for collaborative, reproducible script editing.
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
