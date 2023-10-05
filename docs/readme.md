@@ -1,15 +1,15 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains links to training materials in the context Bio-image Analysis and Research Data Management for Microscopy Data.
+This Jupyter Book contains links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis.
 
-This is a **preliminary** search index allowing us to explore how such a database could look like. We follow the principle _release early, release often_ and aim at having a functional prototype of the database at any time. We use this resource to 
+This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
 * which other online resources exist providing links to training materials
 * how we can automatically collect links to training materials
 * how we could potentially inject our list of materials into the other resources
 * how to collect links to training materials following the FAIR principles (findable, accessible, interoperable, reusable)
 
-Feedback and contributions are very welcome.
+Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/haesleinhuepf/training/issues).
 
 ## How to use this resource
 
@@ -18,6 +18,8 @@ This Jupyter Book can be searched using the search bar on the left:
 ![search bar](how_to_use.png)
 
 Enter terms such as 'Omero' to find all training materials related to Omero.
+
+
 
 ## Contributing
 

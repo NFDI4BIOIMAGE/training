@@ -1,14 +1,32 @@
 # How to contribute
 
-This repository contains lists of training materials. It is extensible using github pull requests. Just go to the list of resources, click the edit button, add a resource you think should be in the list and go ahead and submit it as pull-request. The format for entries in the repository is documented on the next page.
+This repository contains lists of training materials. It is extensible using github pull requests. You find a how-to guide on the bottom of this page. The format for entries in the repository is documented on the next page.
+
+## What to contribute
+
+Consider adding your favorite training materials and resources. In case you know a collection of resources add it but do not add all individual entries of the collection. We [will be working on collecting them automatically](https://github.com/haesleinhuepf/training/issues/2). However, if there are specific entries in such a collection you think are in particlar valuable, feel free to add them now.
 
 ## Inclusion criteria
 
-We will consider merging links to all materials which are educative. This can be online tutorials like videos, written tutorials, blog posts and publications.
+We will consider merging links to all materials which are educative. This can be online tutorials like videos, written tutorials, blog posts and publications. Relevant topics are:
+* Research Data Management, in particular but not limited to the bio-imaging context
+* Bio-image Analysis
+
+We would like to collect links to resources including various formats / content types:
+* Slides
+* Posters
+* Publications
+* Blog posts
+* Example data
+* ...
 
 ## Exclusion criteria
 
-We will not merge links to materials which are located behind a paywall. We will also not merge links to materials which serve mostly advertising products such as commercial software. However, if there are openly accessible training resources for commercial software, we welcome links to these resources.
+We will only in exceptional cases merge links to materials which are located behind a paywall. We will also not merge links to materials which serve mostly advertising commercial products. However, if there are openly accessible training resources for commercial software, we welcome links to these resources.
+
+## Maintenance of contributions
+
+We reserve the right to remove and modify entries of this collection at any point in time.
 
 ## Step-by-step tutorial
 
