@@ -37,7 +37,8 @@ def find_type(content, content_type):
                 print("* listing", c['name'])
                 result[c['name']] = c
         except:
-            print("Error parsing", c)
+            raise InputError("Error parsing " + str(c))
+
     return result
 
 def write_md(resources, content_type_name, filename):
