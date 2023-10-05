@@ -3,7 +3,13 @@
 
 
 
-[https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis)
+[https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+
+## PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
+
+
+
+[https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
 
 ## BioImage Analysis Notebooks
 By Robert Haase et al.

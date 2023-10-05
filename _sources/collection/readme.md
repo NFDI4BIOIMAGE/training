@@ -17,6 +17,14 @@
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
+## OMERO Workshops
+
+
+
+List of OMERO Workshops
+
+[https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
+
 ## RDM4Mic Presentations
 
 
@@ -48,6 +56,12 @@ By Pete Bankhead
 
 
 [https://microscopydb.io/](https://microscopydb.io/)
+
+## OMERO Guide
+
+
+
+[https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
 
 ## Bio.tools database
 
