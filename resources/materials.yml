@@ -37,10 +37,22 @@ resources:
   url: https://www.openmicroscopy.org/docs/
   tags: omero
 
-- name: Omero documentation
+- name: OMERO documentation
   type: documentation
   url: https://omero.readthedocs.io/en/stable/
 
+- name: OMERO Guide
+  type: collection
+  url: https://omero-guides.readthedocs.io/en/latest/
+
+- name: OMERO walkthrough for facility managers
+  type: document
+  url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
+
+- name: OMERO walkthrough example
+  type: document
+  url: https://omero-guides.readthedocs.io/en/latest/example.html
+  
 - name: Bio.tools database
   type: collection
   url: https://bio.tools/
@@ -71,7 +83,7 @@ resources:
 
 - name: Efficiently starting institutional research data management
   authors:  Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
-  type: slide
+  type: document
   url: https://zenodo.org/record/3490058
   license: CC-BY 4.0
   description: Single slide outlining the most important aspect for starting research data management on institutional level.

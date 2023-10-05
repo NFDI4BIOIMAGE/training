@@ -27,4 +27,21 @@ resources:
   type: 
   - event
   - notebook
-  url: https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis
+  url: https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html
+
+- name: PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
+  type: 
+  - event
+  - notebook
+  url: https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html
+
+- name: OMERO Workshops
+  type:
+  - collection
+  - event
+  url: https://www.openmicroscopy.org/events/
+  description: List of OMERO Workshops
+
+
+
+  

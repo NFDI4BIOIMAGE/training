@@ -16,16 +16,31 @@ resources:
   - NFDI4BioImage
   
 - name: Sharing and licensing material
-  type: slides
+  type: slide
   authors: Robert Haase
   url: https://f1000research.com/slides/10-519
   tags:
   - NFDI4BioImage
+  description: Introduction to sharing resources online and licensing
 
+- name: If you license it, it’ll be harder to steal it. Why we should license our work
+  authors: Robert Haase
+  type: blog
+  url: https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
+  tags:
+  - NFDI4BioImage
+  description: Blog post about why we should license our work and what is important when choosing a license.
+  
 - name: Sharing research data with Zenodo
   authors: Robert Haase
   type: blog
   url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
   tags:
   - NFDI4BioImage
-  
+  description: Blog post about how to share data using zenodo.org
+
+- name: Collaborative bio-image analysis script editing with git
+  authors: Robert Haase
+  type: blog
+  url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
+  description: Introcution to version control using git for collaborative, reproducible script editing.
