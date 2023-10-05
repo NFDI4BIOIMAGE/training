@@ -53,3 +53,5 @@ After submitting the pull-request, wait for a second while the tests are running
 Wait until the tests have passed. If they don't, check the error message and modify the file on your branch again until the tests pass. If the error is not related to your changes, please let us know and we will take care of it.
 
 ![Screenshot of the succeeded tests](how_to_contribute6.png)
+
+If you think your contribution is substantial, feel free to send a pull-request adding yourself to the list of authors [here](https://github.com/NFDI4BIOIMAGE/training/blob/main/docs/_config.yml#L2).
