@@ -124,6 +124,54 @@ List of links to training materials by the I3D:bio community.
 
 [https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/](https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/)
 
+## CellProfiler tutorials
+licensed BSD 3-Clause
+
+
+[https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
+
+## ONBI image analysis
+licensed GPL-2.0
+
+
+[https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
+
+## A Fiji Scripting Tutorial
+licensed Public_domain
+
+
+[https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
+
+## Lecture Applied Bioimage Analysis
+
+
+
+[https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
+
+## Image processing with Python
+licensed MIT
+
+
+[https://github.com/guiwitz/Python_image_processing](https://github.com/guiwitz/Python_image_processing)
+
+## Deep Learning Based Segmentation For Biologists
+licensed AGPL-3.0 license
+
+
+[https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main](https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main)
+
+## Bioimage analysis with Napari
+licensed CC BY-NC-SA 4.0
+
+
+[https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus)
+
+## ZEN & Python workshop
+licensed GPL-3.0
+
+
+[https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
 ## NEUBIAS YouTube Channel
 
 
@@ -166,4 +214,10 @@ YouTube channel collecting videos and webinar recordings about the Open Microsco
 
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
+
+## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
+licensed CC BY-NC-ND 3.0 Deed
+
+
+[https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
 

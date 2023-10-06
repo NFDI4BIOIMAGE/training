@@ -49,3 +49,9 @@ YouTube channel collecting videos and webinar recordings about the Open Microsco
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
 
+## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
+licensed CC BY-NC-ND 3.0 Deed
+
+
+[https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
+
