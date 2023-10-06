@@ -2,21 +2,21 @@ resources:
 - name: RDM4Mic Presentations
   type: collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
-  
+
 - name: BioImage Informatics Index Training Materials
   type: collection
   url: https://biii.eu/all-content?type=book&field_type_target_id=All
 
 - name: BioImage Analysis Notebooks
   authors: Robert Haase et al.
-  type: 
+  type:
   - collection
   - notebook
   url: https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html
 
 - name: Introduction to Bioimage Analysis
   authors: Pete Bankhead
-  type: 
+  type:
   - collection
   - notebook
   url: https://bioimagebook.github.io/index.html
@@ -27,7 +27,7 @@ resources:
   url: https://f1000research.com/slides/12-971
 
 - name: MicroscopyDB
-  type: 
+  type:
   - collection
   url: https://microscopydb.io/
 
@@ -52,7 +52,7 @@ resources:
 - name: OMERO walkthrough example
   type: document
   url: https://omero-guides.readthedocs.io/en/latest/example.html
-  
+
 - name: Bio.tools database
   type: collection
   url: https://bio.tools/
@@ -75,7 +75,7 @@ resources:
 
 - name: Train-the-Trainer Concept on Research Data Management
   authors:  Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
-  type: 
+  type:
   - collection
   - book
   url: https://zenodo.org/record/4071471
@@ -102,6 +102,11 @@ resources:
   url: https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/
   description: "List of links to training materials by the I3D:bio community."
 
+- name: CellProfiler tutorials
+  type:
+  - collection
+  - notebook
+  license: BSD 3-Clause
+  url: https://github.com/CellProfiler/tutorials
 
 
-  
