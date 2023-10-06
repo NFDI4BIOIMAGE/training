@@ -177,3 +177,10 @@ resources:
   - collection
   license: CC BY-NC-SA 4.0
   url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus
+
+- name: ZEN & Python workshop
+  type:
+  - collection
+  - notebook
+  license: GPL-3.0
+  url: https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop
