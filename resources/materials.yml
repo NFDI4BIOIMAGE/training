@@ -5,7 +5,7 @@ resources:
 
 - name: BioImage Informatics Index Training Materials
   type: collection
-  url: https://biii.eu/all-content?type=book&field_type_target_id=All
+  url: https://biii.eu/training-material
 
 - name: BioImage Analysis Notebooks
   authors: Robert Haase et al.
