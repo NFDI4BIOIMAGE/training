@@ -109,4 +109,65 @@ resources:
   license: BSD 3-Clause
   url: https://github.com/CellProfiler/tutorials
 
+- name: ONBI image analysis
+  type:
+  - collection
+  - notebook
+  license: GPL-2.0
+  url: https://github.com/dwaithe/ONBI_image_analysis
 
+- name: A Fiji Scripting Tutorial
+  type:
+  - collection
+  license: Public_domain
+  url: https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/
+
+- name: Lecture Applied Bioimage Analysis
+  type:
+  - collection
+  - slide
+  url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
+
+- name: ImageJ API-beating
+  type:
+  - slide
+  license: BSD 3-Clause
+  url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
+
+- name: Multi-view fusion
+  type:
+  - slide
+  license: BSD 3-Clause
+  url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
+
+- name: Tracking Theory, TrackMate, and Mastodon
+  type:
+  - slide
+  license: BSD 3-Clause
+  url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
+
+- name: Working with pixels
+  type:
+  - slide
+  license: BSD 3-Clause
+  url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
+
+- name: Working with objects in 2D and 3D
+  type:
+  - slide
+  license: BSD 3-Clause
+  url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
+
+- name: Image processing with Python
+  type:
+  - collection
+  - notebook
+  license: MIT
+  url: https://github.com/guiwitz/Python_image_processing
+
+- name: Deep Learning Based Segmentation For Biologists
+  type:
+  - collection
+  - notebook
+  license: AGPL-3.0 license
+  url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main
