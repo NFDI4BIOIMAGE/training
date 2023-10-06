@@ -35,7 +35,7 @@ List of OMERO Workshops
 
 
 
-[https://biii.eu/all-content?type=book&field_type_target_id=All](https://biii.eu/all-content?type=book&field_type_target_id=All)
+[https://biii.eu/training-material](https://biii.eu/training-material)
 
 ## BioImage Analysis Notebooks
 By Robert Haase et al.
