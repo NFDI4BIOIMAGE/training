@@ -171,3 +171,9 @@ resources:
   - notebook
   license: AGPL-3.0 license
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main
+
+- name: Bioimage analysis with Napari
+  type:
+  - collection
+  license: CC BY-NC-SA 4.0
+  url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus
