@@ -53,3 +53,9 @@ licensed BSD 3-Clause
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
+## Research Data Management Seminar - Slides
+
+
+
+[https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
+

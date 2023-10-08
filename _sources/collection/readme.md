@@ -25,6 +25,14 @@ List of OMERO Workshops
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
+## NextFlow core
+
+
+
+nf-core is a community effort to collect a curated set of analysis pipelines built using Nextflow
+
+[https://nf-co.re/](https://nf-co.re/)
+
 ## RDM4Mic Presentations
 
 
@@ -171,6 +179,30 @@ licensed GPL-3.0
 
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+## Research Data Management Seminar - Slides
+
+
+
+[https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
+
+## A biologist’s guide to planning and performing quantitative bioimaging experiments
+
+
+
+[https://doi.org/10.1371/journal.pbio.3002167]https://doi.org/10.1371/journal.pbio.3002167)
+
+[https://www.bioimagingguide.org/]https://www.bioimagingguide.org/)
+
+## Annotated high-throughput microscopy image sets for validation
+
+
+
+Broad Bioimage Benchmark Collection (BBBC)
+
+[https://www.nature.com/articles/nmeth.2083]https://www.nature.com/articles/nmeth.2083)
+
+[https://bbbc.broadinstitute.org/]https://bbbc.broadinstitute.org/)
 
 ## NEUBIAS YouTube Channel
 
