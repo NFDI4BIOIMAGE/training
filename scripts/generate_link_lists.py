@@ -1,6 +1,7 @@
 def main():
 
     import os
+    from datetime import datetime
 
     supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog', 'book', 'publication', 'document', 'documentation']
     directory_path = 'resources/'
@@ -18,6 +19,17 @@ def main():
     for supported_type in supported_content_types:
         all = find_type(content, supported_type)
         write_md(all, supported_type, f"docs/{supported_type}/readme.md")
+
+    # Put summary statistics in the main page
+    last_updated = datetime.now().strftime('%Y-%m-%d')
+    number_of_links = len(content['resources'])
+    readme_file = "docs/readme.md"
+    with open(readme_file, 'r') as file:
+        file_contents = file.read()
+    file_contents = file_contents.replace("{last_updated}", str(last_updated))
+    file_contents = file_contents.replace("{number_of_links}", str(number_of_links))
+    with open(readme_file, 'w') as file:
+        file.write(file_contents)
 
 
 def read_yaml_file(filename):
