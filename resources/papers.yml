@@ -55,3 +55,10 @@ resources:
   author: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
   url: https://link.springer.com/article/10.1007/s00418-023-02203-7
   type: publication
+
+- name: A study on long-term reproducibility of image analysis results on ImageJ and Fiji
+  author: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+  type:
+  - publication
+  - poster
+  url: https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
