@@ -44,6 +44,8 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
   description: Introduction to version control using git for collaborative, reproducible script editing.
+  tags:
+  - NFDI4BioImage
 
 
 - name: OMERO for microscopy research data management
@@ -51,12 +53,16 @@ resources:
   type: publication
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
   description: A use case example from the Münster Imaging Network
+  tags:
+  - NFDI4BioImage
   
 - name: Setting up a data management infrastructure for bioimaging
   authors: Susanne Kunis, Karen Bernhardt and Michael Hensel
   type: 
   - publication
   url: https://doi.org/10.1515/hsz-2022-0304
+  tags:
+  - NFDI4BioImage
 
 - name: A Cloud-Optimized Storage for Interactive Access of Large Arrays
   type: 
@@ -64,10 +70,148 @@ resources:
   - conference abstract
   authors: Josh Moore, Susanne Kunis
   url: https://doi.org/10.52825/cordi.v1i.285
+  tags:
+  - NFDI4BioImage
 
 - name: "Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data"
   type: 
   - video
   authors: Susanne Kunis
   url: https://zenodo.org/record/7018929
+  tags:
+  - NFDI4BioImage
+
+- name: The Fiji Updater
+  author: Robert Haase
+  type: publication
+  url: https://analyticalscience.wiley.com/do/10.1002/was.0004000112/
+  description: Article about the Fiji Updater explaining how it works in the background.
+  tags:
+  - NFDI4BioImage
+
+- name: "CLIJ: GPU-accelerated image processing for everyone"
+  type: publication
+  author: Robert Haase, Loic Royer, et al
+  publication_date: 2020
+  url: https://doi.org/10.1038/s41592-019-0650-1
+  description: CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
+  tags:
+  - NFDI4BioImage
+
+
+- name: "A Hitchhiker's guide through the bio-image analysis software universe"
+  author: Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
+  type: publication
+  url: https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451
+  tags:
+  - NFDI4BioImage
+  description: This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
+
+- name: Challenges and opportunities for bioimage analysis core-facilities
+  type: publication
+  author: Johannes Richard Soltwedel, Robert Haase
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
+  description: This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
+  tags:
+  - NFDI4BioImage
+
+- name: "Open microscopy in the life sciences: quo vadis?"
+  type: publication
+  author: Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash 
+  publication_date: 2022
+  url: https://doi.org/10.1038/s41592-022-01602-3
+  description: This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
+  tags:
+  - NFDI4BioImage
+  
+- name: "Developing open-source software for bioimage analysis: opportunities and challenges"
+  url: https://f1000research.com/articles/10-302
+  author: Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
+  tags:
+  - NFDI4BioImage
+  type: publication
+  description: This article outlines common challenges and practices when developing open-source software for bio-image analysis.
+
+- name: "Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration"
+  author: Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
+  url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
+  type: publication
+  tags:
+  - NFDI4BioImage
+  
+- name: "Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists"
+  author: Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
+  publication_date: 2021
+  url: https://f1000research.com/articles/10-334/v1
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology"
+  author: Ugis Sarkans et al
+  type: publication
+  url: https://www.nature.com/articles/s41592-021-01166-8
+  tags:
+  - NFDI4BioImage
+  
+- name: "MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community"
+  author: Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters 
+  url: https://www.nature.com/articles/s41592-021-01288-z
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy"
+  url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
+  author: Glyn Nelson, Ulrike Boehme, et al
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies"
+  url: https://www.nature.com/articles/s41592-021-01326-w
+  authors: Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow 
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+  
+- name: "NFDI4BIOIMAGE: Perspective for a national bioimaging standard"
+  author: Josh Moore, Susanne Kunis
+  url: https://ceur-ws.org/Vol-3415/paper-27.pdf
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "SpatialData: an open and universal data framework for spatial omics"
+  author: Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
+  type: 
+  - publication
+  - preprint
+  url: https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract
+  tags:
+  - NFDI4BioImage
+
+- name: "Community-developed checklists for publishing images and image analyses"
+  author: Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
+  url: https://www.nature.com/articles/s41592-023-01987-9
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data"
+  author: Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
+  url: https://doi.org/10.1093/bioinformatics/btab106
+  type: publication
+  tags:
+  - NFDI4BioImage
+
+- name: "EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)"
+  author: Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
+  type: 
+  - publication
+  - poster
+  url: https://f1000research.com/posters/9-162
+  tags:
+  - NFDI4BioImage
 
