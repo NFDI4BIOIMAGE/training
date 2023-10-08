@@ -68,6 +68,8 @@ resources:
 - name: NextFlow documentation
   type: documentation
   url: https://www.nextflow.io/
+  tags:
+  - workflow engine
   description: Nextflow enables scalable and reproducible scientific workflows using software containers.
 
 - name: NextFlow core
