@@ -219,6 +219,25 @@ resources:
   - slide
 
 - name: Lund Declaration on Maximising the Benefits of Research Data
-  author: 
   url: https://www.regeringen.se/contentassets/55e7d8fbf6df4a54ac56942b98d94e4f/lund-declaration-on-maximising-the-benefits-of-research-data-pa-engelska.pdf
   type: document
+
+- name: A biologist’s guide to planning and performing quantitative bioimaging experiments
+  author: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
+
+  type: 
+  - collection
+  - publication
+  url: 
+  - https://doi.org/10.1371/journal.pbio.3002167
+  - https://www.bioimagingguide.org/
+
+- name: Annotated high-throughput microscopy image sets for validation
+  author: Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter 
+  type:
+  - collection
+  - data
+  url: 
+  - https://www.nature.com/articles/nmeth.2083
+  - https://bbbc.broadinstitute.org/
+  description: Broad Bioimage Benchmark Collection (BBBC)
