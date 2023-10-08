@@ -224,7 +224,6 @@ resources:
 
 - name: A biologist’s guide to planning and performing quantitative bioimaging experiments
   author: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
-
   type: 
   - collection
   - publication
