@@ -71,7 +71,11 @@ def write_md(resources, content_type_name, filename):
                 file.write(f"\nTags: {tags}\n")
             if 'url' in properties:
                 url = properties['url']
-                file.write(f"\n[{url}]({url})\n")
+                if type(url) is list:
+                    for u in url:
+                        file.write(f"\n[{u}]{u})\n")
+                else:
+                    file.write(f"\n[{url}]({url})\n")
             
             file.write(f"\n")
 
