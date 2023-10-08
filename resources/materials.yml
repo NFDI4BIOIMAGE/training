@@ -210,12 +210,6 @@ resources:
   type: blog
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
 
-- name: TU Delft Research Data Management 101 course
-  authors: Martinez-Lavanchy, P.M.;  van Schöll, Pim;  Zormpa, Eirini; et al
-  url: https://zenodo.org/record/6325919
-  type:  
-  - collection
-  - slide
 
 - name: Research Data Management Seminar - Slides
   author: Della Chiesa, Stefano
@@ -224,9 +218,7 @@ resources:
   - collection
   - slide
 
-- name: 
-  author:
-  url: https://zenodo.org/record/7234562
-  type: 
-  - collection
-  - slide
+- name: Lund Declaration on Maximising the Benefits of Research Data
+  author: 
+  url: https://www.regeringen.se/contentassets/55e7d8fbf6df4a54ac56942b98d94e4f/lund-declaration-on-maximising-the-benefits-of-research-data-pa-engelska.pdf
+  type: document

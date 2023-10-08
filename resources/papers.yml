@@ -24,14 +24,18 @@ resources:
   type: publication
   
 - name: "2020 BioImage Analysis Survey: Community experiences and needs for the future"
-  url: https://doi.org/10.1017/s2633903x21000039
+  url: 
+  - https://doi.org/10.1017/s2633903x21000039
+  - https://github.com/ciminilab/2021_Jamali_BiologicalImaging
   author: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
   publication_date: 2021 
   type: publication
 
 - name: Bridging Imaging Users to Imaging Analysis - A community survey
   author: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
-  url: https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 
+  url:
+  - https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 
+  - https://github.com/COBA-NIH/2023_ImageAnalysisSurvey
   type: 
   - publication
   - preprint
@@ -46,3 +50,8 @@ resources:
   publication_date: 2023
   url: https://arxiv.org/abs/2302.01790v3
   description: This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
+
+- name: Building a FAIR image data ecosystem for microscopy communities
+  author: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
+  url: https://link.springer.com/article/10.1007/s00418-023-02203-7
+  type: publication
