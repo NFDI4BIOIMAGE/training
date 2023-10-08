@@ -5,3 +5,29 @@ resources:
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
 
 
+
+- name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
+  author: Marcelo Zoccoler
+  type: blog
+  url:  https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
+
+- name: Browsing the Open Microscopy Image Data Resource with Python
+  author: Robert Haase
+  type: blog
+  url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
+
+- name: Getting started with Mambaforge and Python
+  type: blog
+  author: Mara Lampert
+  url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
+
+- name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
+  author: Jennifer Waters
+  type: blog
+  url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
+
+- name: Data handling in large-scale electron microscopy
+  author: Job Fermie
+  type: blog
+  url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
+
