@@ -37,9 +37,9 @@ The Snakemake workflow management system is a tool to create reproducible and sc
 
 Tags: workflow engine,python
 
-[https://snakemake.readthedocs.io/en/stable/]https://snakemake.readthedocs.io/en/stable/)
+[https://snakemake.readthedocs.io/en/stable/](https://snakemake.readthedocs.io/en/stable/)
 
-[https://academic.oup.com/bioinformatics/article/28/19/2520/290322]https://academic.oup.com/bioinformatics/article/28/19/2520/290322)
+[https://academic.oup.com/bioinformatics/article/28/19/2520/290322](https://academic.oup.com/bioinformatics/article/28/19/2520/290322)
 
 ## NextFlow documentation
 

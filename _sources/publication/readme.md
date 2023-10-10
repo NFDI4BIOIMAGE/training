@@ -27,17 +27,17 @@ Published 2010
 Published 2021
 
 
-[https://doi.org/10.1017/s2633903x21000039]https://doi.org/10.1017/s2633903x21000039)
+[https://doi.org/10.1017/s2633903x21000039](https://doi.org/10.1017/s2633903x21000039)
 
-[https://github.com/ciminilab/2021_Jamali_BiologicalImaging]https://github.com/ciminilab/2021_Jamali_BiologicalImaging)
+[https://github.com/ciminilab/2021_Jamali_BiologicalImaging](https://github.com/ciminilab/2021_Jamali_BiologicalImaging)
 
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 Published 2023
 
 
-[https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1]https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
+[https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
-[https://github.com/COBA-NIH/2023_ImageAnalysisSurvey]https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
+[https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
 
 ## Understanding metric-related pitfalls in image analysis validation
 Published 2023
@@ -67,9 +67,9 @@ JIPipe is an open-source visual programming language for easy-access pipeline de
 
 Tags: NFDI4BioImage,workflow engine,imagej
 
-[https://www.nature.com/articles/s41592-022-01744-4]https://www.nature.com/articles/s41592-022-01744-4)
+[https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
-[https://jipipe.hki-jena.de/]https://jipipe.hki-jena.de/)
+[https://jipipe.hki-jena.de/](https://jipipe.hki-jena.de/)
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
@@ -79,9 +79,9 @@ The Microscope Image Analysis Toolbox is a toolbox with a collection of algorith
 
 Tags: workflow engine,imagej
 
-[https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103]https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
+[https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
-[https://mitobo.informatik.uni-halle.de/]https://mitobo.informatik.uni-halle.de/)
+[https://mitobo.informatik.uni-halle.de/](https://mitobo.informatik.uni-halle.de/)
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
@@ -91,9 +91,9 @@ ModularImageAnalysis is a Fiji plugin providing a modular framework for assembli
 
 Tags: workflow engine,imagej
 
-[https://doi.org/10.1111/jmi.13227]https://doi.org/10.1111/jmi.13227)
+[https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
-[https://mianalysis.github.io/]https://mianalysis.github.io/)
+[https://mianalysis.github.io/](https://mianalysis.github.io/)
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 By Schmidt, Christian ; Ferrando-May, Elisa
@@ -295,7 +295,7 @@ Tags: NFDI4BioImage
 
 
 
-[https://doi.org/10.1371/journal.pbio.3002167]https://doi.org/10.1371/journal.pbio.3002167)
+[https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
 
-[https://www.bioimagingguide.org/]https://www.bioimagingguide.org/)
+[https://www.bioimagingguide.org/](https://www.bioimagingguide.org/)
 

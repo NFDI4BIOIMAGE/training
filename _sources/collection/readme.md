@@ -216,9 +216,9 @@ Tags: python,napari
 
 
 
-[https://doi.org/10.1371/journal.pbio.3002167]https://doi.org/10.1371/journal.pbio.3002167)
+[https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
 
-[https://www.bioimagingguide.org/]https://www.bioimagingguide.org/)
+[https://www.bioimagingguide.org/](https://www.bioimagingguide.org/)
 
 ## Annotated high-throughput microscopy image sets for validation
 
@@ -226,9 +226,9 @@ Tags: python,napari
 
 Broad Bioimage Benchmark Collection (BBBC)
 
-[https://www.nature.com/articles/nmeth.2083]https://www.nature.com/articles/nmeth.2083)
+[https://www.nature.com/articles/nmeth.2083](https://www.nature.com/articles/nmeth.2083)
 
-[https://bbbc.broadinstitute.org/]https://bbbc.broadinstitute.org/)
+[https://bbbc.broadinstitute.org/](https://bbbc.broadinstitute.org/)
 
 ## NEUBIAS YouTube Channel
 
