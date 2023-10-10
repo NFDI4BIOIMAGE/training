@@ -4,8 +4,6 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
 
-
-
 - name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
   author: Marcelo Zoccoler
   type: blog
@@ -19,6 +17,8 @@ resources:
 - name: Getting started with Mambaforge and Python
   type: blog
   author: Mara Lampert
+  tags:
+  - python
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
