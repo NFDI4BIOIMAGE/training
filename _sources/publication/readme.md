@@ -65,7 +65,7 @@ This article gives a detailed overview about pitfalls when using metric for imag
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: NFDI4BioImage,workflow engine
+Tags: NFDI4BioImage,workflow engine,imagej
 
 [https://www.nature.com/articles/s41592-022-01744-4]https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -77,7 +77,7 @@ Tags: NFDI4BioImage,workflow engine
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: workflow engine
+Tags: workflow engine,imagej
 
 [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103]https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
@@ -89,7 +89,7 @@ Tags: workflow engine
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: workflow engine
+Tags: workflow engine,imagej
 
 [https://doi.org/10.1111/jmi.13227]https://doi.org/10.1111/jmi.13227)
 

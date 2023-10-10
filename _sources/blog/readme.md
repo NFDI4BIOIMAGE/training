@@ -55,6 +55,8 @@ By Elisabeth Kugler
 
 
 
+Tags: python
+
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
@@ -68,4 +70,44 @@ By Elisabeth Kugler
 
 
 [https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy](https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy)
+
+## Tracking in napari
+
+
+
+Tags: python,napari
+
+[https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+
+## Feature extraction in napari
+
+
+
+Tags: python,napari
+
+[https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+
+## Annotating 3D images in napari
+
+
+
+Tags: python
+
+[https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
+
+## Quality assurance of segmentation results
+
+
+
+Tags: python,napari
+
+[https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
+
+## Rescaling images and pixel (an)isotropy
+
+
+
+Tags: python,napari
+
+[https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 

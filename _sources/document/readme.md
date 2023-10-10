@@ -5,6 +5,8 @@
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
+Tags: python
+
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
 
 ## Galaxy Documentation
@@ -23,7 +25,7 @@ Tags: workflow engine
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: workflow engine
+Tags: workflow engine,python,napari
 
 [https://fractal-analytics-platform.github.io/](https://fractal-analytics-platform.github.io/)
 
@@ -33,7 +35,7 @@ Tags: workflow engine
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: workflow engine
+Tags: workflow engine,python
 
 [https://snakemake.readthedocs.io/en/stable/]https://snakemake.readthedocs.io/en/stable/)
 
