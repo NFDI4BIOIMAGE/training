@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains {number_of_links} links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated {last_updated}.
+This Jupyter Book contains 108 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2023-10-13.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials

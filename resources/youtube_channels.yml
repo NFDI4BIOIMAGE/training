@@ -5,6 +5,8 @@ resources:
   - video
   url: https://www.youtube.com/neubias
   description: A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
+  tags:
+  - neubias
 
 - name: DigitalSreeni YouTube Channel
   authors: Sreeni Bhattiprolu
@@ -13,6 +15,8 @@ resources:
   - video
   url: https://www.youtube.com/digitalsreeni
   description: A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
+  tags:
+  - python
 
 - name: Global BioImaging YouTube channel
   type:
@@ -25,6 +29,8 @@ resources:
   - collection
   - video
   url: https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U
+  tags:
+  - bioimage analysis
 
 - name: Open Microscopy Environment YouTube channel
   type:
@@ -32,6 +38,8 @@ resources:
   - video
   url: https://www.youtube.com/OpenMicroscopyEnvironment
   description: YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+  tags:
+  - omero
 
 - name: Euro-BioImaging Communication YouTube Channel
   type:
@@ -45,3 +53,6 @@ resources:
   - video
   license: CC BY-NC-ND 3.0 Deed
   url: https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
+  tags:
+  - bioimage analysis
+  

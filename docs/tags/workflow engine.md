@@ -1,20 +1,4 @@
-# documentation
-## OME Documentation
-
-
-
-Tags: omero
-
-[https://www.openmicroscopy.org/docs/](https://www.openmicroscopy.org/docs/)
-
-## OMERO documentation
-
-
-
-Tags: omero
-
-[https://omero.readthedocs.io/en/stable/](https://omero.readthedocs.io/en/stable/)
-
+# workflow engine
 ## JIPipe: visual batch processing for ImageJ
 By Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
 
