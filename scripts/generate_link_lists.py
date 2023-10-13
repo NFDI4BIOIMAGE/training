@@ -27,7 +27,7 @@ def main():
         type_toc = type_toc + "    - file: " + filename + "\n"
         print("COUNTS", all_content_types[supported_type], len(all))
     replace_in_file(toc_file, "{type_toc}", type_toc)
-    return
+
     # go through all tags and generate corresponding markdown files
     all_tag_counts = collect_all_tags(content)
     tag_toc = ""
