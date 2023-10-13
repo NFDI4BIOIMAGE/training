@@ -1,5 +1,6 @@
 # documentation
 ## JIPipe: visual batch processing for ImageJ
+By Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
 
 
 
@@ -12,6 +13,7 @@ Tags: NFDI4BioImage,workflow engine,imagej
 [https://jipipe.hki-jena.de/](https://jipipe.hki-jena.de/)
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
+By Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
@@ -24,6 +26,7 @@ Tags: workflow engine,imagej
 [https://mitobo.informatik.uni-halle.de/](https://mitobo.informatik.uni-halle.de/)
 
 ## BiaPy: Bioimage analysis pipelines in Python
+By Daniel Franco-Barranco et al
 
 
 
@@ -66,6 +69,7 @@ Tags: workflow engine,python
 [https://academic.oup.com/bioinformatics/article/28/19/2520/290322](https://academic.oup.com/bioinformatics/article/28/19/2520/290322)
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
+By Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 

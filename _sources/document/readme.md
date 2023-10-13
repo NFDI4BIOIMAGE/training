@@ -1,5 +1,6 @@
 # document
 ## BiaPy: Bioimage analysis pipelines in Python
+By Daniel Franco-Barranco et al
 
 
 

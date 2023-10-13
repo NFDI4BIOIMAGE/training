@@ -40,6 +40,7 @@ By Elisabeth Kugler
 [https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/](https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/)
 
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
+By Marcelo Zoccoler
 
 
 
@@ -52,6 +53,7 @@ By Elisabeth Kugler
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
 ## Getting started with Mambaforge and Python
+By Mara Lampert
 
 
 
@@ -66,6 +68,7 @@ Tags: python
 [https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility](https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility)
 
 ## Data handling in large-scale electron microscopy
+By Job Fermie
 
 
 

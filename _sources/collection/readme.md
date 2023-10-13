@@ -207,12 +207,14 @@ Tags: python,napari
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 
 ## Research Data Management Seminar - Slides
+By Della Chiesa, Stefano
 
 
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
+By Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
 
 
 
@@ -221,6 +223,7 @@ Tags: python,napari
 [https://www.bioimagingguide.org/](https://www.bioimagingguide.org/)
 
 ## Annotated high-throughput microscopy image sets for validation
+By Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
 
 
 
