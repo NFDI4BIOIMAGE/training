@@ -86,32 +86,24 @@ def collect_all(content, what_to_collect):
 
 def find_type(content, content_type):
     """Takes a dictionary of resources, searches for resources of a given type and returns them as new dictionary."""
-    result = {}
-    print("Searching for content_type", content_type)
-    for c in content['resources']:
-        if 'type' in c:
-            try:
-                if content_type in c['type']:
-                    print("* listing", c['name'])
-                    result[c['name']] = c
-            except:
-                raise Exception("Error parsing " + str(c))
-
-    return result
+    return find_anything(content, "type", content_type)
 
 def find_tag(content, tag):
     """Takes a dictionary of resources, searches for resources which have a given tag and returns them as new dictionary."""
+    return find_anything(content, "tags", tag)
+
+def find_anything(content, what_to_look_in, what_to_find):
     result = {}
-    print("Searching for tag", tag)
+    print("Searching for", what_to_look_in, "=", what_to_find)
     for c in content['resources']:
-        if 'tags' in c:
+        if what_to_look_in in c:
             try:
-                tags = [str(t).lower() for t in c['tags']]
-                if tag in tags:
+                if what_to_find in c[what_to_look_in]:
                     print("* listing", c['name'])
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
+
     return result
 
 def write_md(resources, title, filename):
