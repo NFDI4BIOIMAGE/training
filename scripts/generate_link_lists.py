@@ -65,7 +65,7 @@ def read_yaml_file(filename):
 
 
 def collect_all_content_types(content):
-    return collect_all(content, "content_type")
+    return collect_all(content, "type")
 
 
 def collect_all_tags(content):
