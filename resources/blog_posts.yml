@@ -4,8 +4,6 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
 
-
-
 - name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
   authors: Marcelo Zoccoler
   type: blog
@@ -19,6 +17,8 @@ resources:
 - name: Getting started with Mambaforge and Python
   type: blog
   authors: Mara Lampert
+  tags:
+  - python
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
@@ -31,3 +31,49 @@ resources:
   type: blog
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
 
+- name: Tracking in napari
+  type: blog
+  author: Mara Lampert
+  tags:
+  - python
+  - napari
+  url: https://focalplane.biologists.com/2023/06/01/tracking-in-napari/
+
+- name: Feature extraction in napari
+  type: blog
+  author: Mara Lampert
+  tags:
+  - python
+  - napari
+  url: https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/
+
+- name: Annotating 3D images in napari
+  type: blog
+  author: Mara Lampert
+  tags:
+  - python
+  - napari
+  url: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
+
+- name: Annotating 3D images in napari
+  type: blog
+  author: Robert Haase
+  tags:
+  - python
+  url: https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
+
+- name: Quality assurance of segmentation results
+  type: blog
+  author: Mara Lampert
+  tags:
+  - python
+  - napari
+  url: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
+
+- name: Rescaling images and pixel (an)isotropy
+  type: blog
+  author: Mara Lampert
+  tags:
+  - python
+  - napari
+  url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/

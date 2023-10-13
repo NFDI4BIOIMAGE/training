@@ -12,6 +12,8 @@ resources:
   type:
   - collection
   - notebook
+  tags:
+  - python
   url: https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html
 
 - name: Introduction to Bioimage Analysis
@@ -19,11 +21,16 @@ resources:
   type:
   - collection
   - notebook
+  tags:
+  - python
+  - imagej
   url: https://bioimagebook.github.io/index.html
 
 - name: Generative artificial intelligence for bio-image analysis
   authors: Robert Haase
   type: slide
+  tags:
+  - python
   url: https://f1000research.com/slides/12-971
 
 - name: MicroscopyDB
@@ -108,54 +115,72 @@ resources:
   - notebook
   license: BSD 3-Clause
   url: https://github.com/CellProfiler/tutorials
+  description: CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
 
 - name: ONBI image analysis
   type:
   - collection
   - notebook
   license: GPL-2.0
+  tags:
+  - python
   url: https://github.com/dwaithe/ONBI_image_analysis
+  description: "This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course."
 
 - name: A Fiji Scripting Tutorial
   type:
   - collection
   license: Public_domain
+  tags:
+  - imagej
   url: https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/
 
 - name: Lecture Applied Bioimage Analysis
   type:
   - collection
   - slide
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
 
 - name: ImageJ API-beating
   type:
   - slide
   license: BSD 3-Clause
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
 
 - name: Multi-view fusion
   type:
   - slide
   license: BSD 3-Clause
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
 
 - name: Tracking Theory, TrackMate, and Mastodon
   type:
   - slide
   license: BSD 3-Clause
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
 
 - name: Working with pixels
   type:
   - slide
   license: BSD 3-Clause
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
 
 - name: Working with objects in 2D and 3D
   type:
   - slide
   license: BSD 3-Clause
+  tags:
+  - imagej
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
 
 - name: Image processing with Python
@@ -163,19 +188,28 @@ resources:
   - collection
   - notebook
   license: MIT
+  tags:
+  - python
   url: https://github.com/guiwitz/Python_image_processing
+  description: "Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package."
 
 - name: Deep Learning Based Segmentation For Biologists
   type:
   - collection
   - notebook
   license: AGPL-3.0 license
+  tags:
+  - python
+  - R
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main
 
 - name: Bioimage analysis with Napari
   type:
   - collection
   license: CC BY-NC-SA 4.0
+  tags:
+  - python
+  - napari
   url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus
 
 - name: ZEN & Python workshop
@@ -183,12 +217,15 @@ resources:
   - collection
   - notebook
   license: GPL-3.0
+  tags:
+  - python
+  - napari
   url: https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop
 
 - name: Research Data Management Seminar - Slides
   authors: Della Chiesa, Stefano
   url: https://zenodo.org/record/6602101
-  type: 
+  type:
   - collection
   - slide
 
@@ -201,7 +238,7 @@ resources:
   type: 
   - collection
   - publication
-  url: 
+  url:
   - https://doi.org/10.1371/journal.pbio.3002167
   - https://www.bioimagingguide.org/
 
@@ -210,7 +247,7 @@ resources:
   type:
   - collection
   - data
-  url: 
+  url:
   - https://www.nature.com/articles/nmeth.2083
   - https://bbbc.broadinstitute.org/
   description: Broad Bioimage Benchmark Collection (BBBC)

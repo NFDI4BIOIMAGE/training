@@ -7,51 +7,58 @@ resources:
   url:
   - https://www.nature.com/articles/s41592-022-01744-4
   - https://jipipe.hki-jena.de/
-  tags: 
+  tags:
   - NFDI4BioImage
   - workflow engine
+  - imagej
   description: JIPipe is an open-source visual programming language for easy-access pipeline development
-  
+
 - name: MiToBo - A Toolbox for Image Processing and Analysis
   authors: Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
   type: 
   - publication
   - documentation
-  url: 
+  url:
   - https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103
   - https://mitobo.informatik.uni-halle.de/
-  tags: 
+  tags:
   - workflow engine
+  - imagej
   description: The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
 - name: "BiaPy: Bioimage analysis pipelines in Python"
   authors: Daniel Franco-Barranco et al
   type: documentation
   url: https://biapy.readthedocs.io/
+  tags:
+  - python
   description: BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
 - name: Galaxy Documentation
   type: documentation
   url: https://usegalaxy.org/
-  tags: 
+  tags:
   - workflow engine
   description: Galaxy is an open source, web-based platform for data intensive biomedical research.
 
 - name: Fractal Documentation
   type: documentation
   url: https://fractal-analytics-platform.github.io/
-  tags: 
+  tags:
   - workflow engine
+  - python
+  - napari
   description: Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
-  
+
 - name: Snakemake Documentation
   type: documentation
-  url: 
+  url:
   - https://snakemake.readthedocs.io/en/stable/
   - https://academic.oup.com/bioinformatics/article/28/19/2520/290322
-  tags: 
+  tags:
   - workflow engine
-  description: The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. 
+  - python
+  description: The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
 - name: "ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ"
   authors: Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
@@ -60,11 +67,12 @@ resources:
   - documentation
   tags:
   - workflow engine
-  url: 
+  - imagej
+  url:
   - https://doi.org/10.1111/jmi.13227
   - https://mianalysis.github.io/
   description: ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
-    
+
 - name: NextFlow documentation
   type: documentation
   url: https://www.nextflow.io/
@@ -75,5 +83,7 @@ resources:
 - name: NextFlow core
   type: collection
   url: https://nf-co.re/
+  tags:
+  - python
   description: nf-core is a community effort to collect a curated set of analysis pipelines built using Nextflow
 

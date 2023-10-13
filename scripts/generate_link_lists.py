@@ -85,7 +85,7 @@ def write_md(resources, content_type_name, filename):
                 url = properties['url']
                 if type(url) is list:
                     for u in url:
-                        file.write(f"\n[{u}]{u})\n")
+                        file.write(f"\n[{u}]({u})\n")
                 else:
                     file.write(f"\n[{url}]({url})\n")
             
