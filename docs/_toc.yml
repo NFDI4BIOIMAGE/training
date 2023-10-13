@@ -7,16 +7,7 @@ root: readme
 parts:
   - caption: By tag
     chapters:
-    - file: docs/tags/research data management
-    - file: docs/tags/python
-    - file: docs/tags/bioimage analysis
-    - file: docs/tags/omero
-    - file: docs/tags/napari
-    - file: docs/tags/imagej
-    - file: docs/tags/nfdi4bioimage
-    - file: docs/tags/meta data
-    - file: docs/tags/workflow engine
-
+{tag_toc}
   - caption: By content type
     chapters:
     - file: blog/readme

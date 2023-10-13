@@ -2,14 +2,10 @@ resources:
 - name: RDM4Mic Presentations
   type: collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
-  tags:
-  - research data management
 
 - name: BioImage Informatics Index Training Materials
   type: collection
   url: https://biii.eu/training-material
-  tags:
-  - bioimage analysis
 
 - name: BioImage Analysis Notebooks
   authors: Robert Haase et al.
@@ -18,7 +14,6 @@ resources:
   - notebook
   tags:
   - python
-  - bioimage analysis
   url: https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html
 
 - name: Introduction to Bioimage Analysis
@@ -29,7 +24,6 @@ resources:
   tags:
   - python
   - imagej
-  - bioimage analysis
   url: https://bioimagebook.github.io/index.html
 
 - name: Generative artificial intelligence for bio-image analysis
@@ -37,8 +31,6 @@ resources:
   type: slide
   tags:
   - python
-  - bioimage analysis
-  - artificial intelligence
   url: https://f1000research.com/slides/12-971
 
 - name: MicroscopyDB
@@ -50,57 +42,43 @@ resources:
   type:
   - documentation
   url: https://www.openmicroscopy.org/docs/
-  tags: 
-  - omero
+  tags: omero
 
 - name: OMERO documentation
   type: documentation
   url: https://omero.readthedocs.io/en/stable/
-  tags:
-  - omero
-  
+
 - name: OMERO Guide
   type: collection
   url: https://omero-guides.readthedocs.io/en/latest/
-  tags:
-  - omero
-  
+
 - name: OMERO walkthrough for facility managers
   type: document
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
-  tags:
-  - omero
-  
+
 - name: OMERO walkthrough example
   type: document
   url: https://omero-guides.readthedocs.io/en/latest/example.html
-  tags:
-  - omero
-  
+
 - name: Bio.tools database
   type: collection
   url: https://bio.tools/
-  tags: 
-  - bioinformatics
+  tags: bioinformatics
 
 - name: GerBI Teaching Resources Link List
   type: collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
   description: List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
-  
+
 - name: Forschungsdaten.info
   type: collection
   url: https://forschungsdaten.info/
   description: Research Data Management Information Portal in German
-  tags:
-  - research data management
-  
+
 - name: Forschungsdaten.org
   type: collection
   url: https://www.forschungsdaten.org/
   description: Research Data Management Wiki in German
-  tags:
-  - research data management
 
 - name: Train-the-Trainer Concept on Research Data Management
   authors:  Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
@@ -109,8 +87,6 @@ resources:
   - book
   url: https://zenodo.org/record/4071471
   description: Collection of training materials for Research Data Management from the FDMentor community.
-  tags:
-  - research data management
 
 - name: Efficiently starting institutional research data management
   authors:  Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
@@ -118,28 +94,20 @@ resources:
   url: https://zenodo.org/record/3490058
   license: CC-BY 4.0
   description: Single slide outlining the most important aspect for starting research data management on institutional level.
-  tags:
-  - research data management
 
 - name: RDMKit Training Resources
   type: collection
   url: https://rdmkit.elixir-europe.org/all_training_resources
-  tags:
-  - research data management
 
 - name: TESS training materials
   type: collection
   url: https://tess.elixir-europe.org/materials
-  tags:
-  - bioinformatics
 
 - name: "I3D:bio list of online training material"
   type:
   - collection
   url: https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/
   description: "List of links to training materials by the I3D:bio community."
-  tags:
-  - research data management
 
 - name: CellProfiler tutorials
   type:
@@ -148,9 +116,6 @@ resources:
   license: BSD 3-Clause
   url: https://github.com/CellProfiler/tutorials
   description: CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
-  tags:
-  - cellprofiler
-  - bioimage analysis
 
 - name: ONBI image analysis
   type:
@@ -159,86 +124,66 @@ resources:
   license: GPL-2.0
   tags:
   - python
-  - bioimage analysis
   url: https://github.com/dwaithe/ONBI_image_analysis
   description: "This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course."
 
 - name: A Fiji Scripting Tutorial
-  authors: Albert Cardona
   type:
   - collection
   license: Public_domain
   tags:
   - imagej
-  - bioimage analysis
   url: https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/
 
-- name: Lecture Applied Bioimage Analysis 2020
-  authors: Robert Haase
+- name: Lecture Applied Bioimage Analysis
   type:
   - collection
   - slide
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
-  description: Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-- name: ImageJ2 API-beating
-  authors: Robert Haase
+- name: ImageJ API-beating
   type:
   - slide
   license: BSD 3-Clause
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
 
 - name: Multi-view fusion
-  authors: Robert Haase
   type:
   - slide
   license: BSD 3-Clause
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
-  description: Lecture slides of a session on Multiview Fusion in Fiji
-  
+
 - name: Tracking Theory, TrackMate, and Mastodon
-  authors: Robert Haase
   type:
   - slide
   license: BSD 3-Clause
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
-  description: Lecture slides of a session on Cell Tracking in Fiji
-  
 
 - name: Working with pixels
-  authors: Robert Haase
   type:
   - slide
   license: BSD 3-Clause
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
 
 - name: Working with objects in 2D and 3D
-  authors: Robert Haase
   type:
   - slide
   license: BSD 3-Clause
   tags:
   - imagej
-  - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
 
 - name: Image processing with Python
-  authors: Guillaume Witz
   type:
   - collection
   - notebook
@@ -256,7 +201,6 @@ resources:
   tags:
   - python
   - R
-  - artificial intelligence
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main
 
 - name: Bioimage analysis with Napari
@@ -266,7 +210,6 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus
 
 - name: ZEN & Python workshop
@@ -277,7 +220,6 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop
 
 - name: Research Data Management Seminar - Slides
@@ -286,14 +228,10 @@ resources:
   type:
   - collection
   - slide
-  tags:
-  - research data management
 
 - name: Lund Declaration on Maximising the Benefits of Research Data
   url: https://www.regeringen.se/contentassets/55e7d8fbf6df4a54ac56942b98d94e4f/lund-declaration-on-maximising-the-benefits-of-research-data-pa-engelska.pdf
   type: document
-  tags:
-  - research data management
 
 - name: A biologist’s guide to planning and performing quantitative bioimaging experiments
   authors: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini

@@ -3,26 +3,16 @@ resources:
   authors: Elisabeth Kugler
   type: blog
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
-  tags:
-  - sharing
-  - research data management
 
 - name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
   authors: Marcelo Zoccoler
   type: blog
   url:  https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
-  tags:
-  - python
-  - artificial intelligence
-  - bioimage analysis
 
 - name: Browsing the Open Microscopy Image Data Resource with Python
   author: Robert Haase
   type: blog
   url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
-  tags:
-  - omero
-  - python
 
 - name: Getting started with Mambaforge and Python
   type: blog
@@ -30,24 +20,16 @@ resources:
   tags:
   - python
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
-  tags:
-  - python
-  - conda
-  - mamba
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
   author: Jennifer Waters
   type: blog
   url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
-  tags:
-  - research data management
 
 - name: Data handling in large-scale electron microscopy
   authors: Job Fermie
   type: blog
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
-  tags:
-  - research data management
 
 - name: Tracking in napari
   type: blog
@@ -55,7 +37,6 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://focalplane.biologists.com/2023/06/01/tracking-in-napari/
 
 - name: Feature extraction in napari
@@ -64,7 +45,6 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/
 
 - name: Annotating 3D images in napari
@@ -73,16 +53,13 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
 
-- name: Managing Scientific Python environments using Conda, Mamba and friends
+- name: Annotating 3D images in napari
   type: blog
   author: Robert Haase
   tags:
   - python
-  - conda
-  - mamba
   url: https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
 
 - name: Quality assurance of segmentation results
@@ -91,7 +68,6 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
 
 - name: Rescaling images and pixel (an)isotropy
@@ -100,5 +76,4 @@ resources:
   tags:
   - python
   - napari
-  - bioimage analysis
   url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/

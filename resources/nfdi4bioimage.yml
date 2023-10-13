@@ -7,7 +7,6 @@ resources:
   url: https://archiv.ub.uni-heidelberg.de/volltextserver/29489/
   tags:
   - NFDI4BioImage
-  - Research Data Management
 
 - name: "Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey"
   type: publication
@@ -15,15 +14,13 @@ resources:
   url: https://f1000research.com/articles/11-638
   tags:
   - NFDI4BioImage
-  - Research Data Management
   
 - name: Sharing and licensing material
   type: slide
   authors: Robert Haase
   url: https://f1000research.com/slides/10-519
   tags:
-  - sharing
-  - research data management
+  - NFDI4BioImage
   description: Introduction to sharing resources online and licensing
 
 - name: If you license it, it’ll be harder to steal it. Why we should license our work
@@ -31,8 +28,7 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
   tags:
-  - licensing
-  - research data management
+  - NFDI4BioImage
   description: Blog post about why we should license our work and what is important when choosing a license.
   
 - name: Sharing research data with Zenodo
@@ -40,8 +36,7 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
   tags:
-  - sharing
-  - research data management
+  - NFDI4BioImage
   description: Blog post about how to share data using zenodo.org
 
 - name: Collaborative bio-image analysis script editing with git
@@ -50,8 +45,8 @@ resources:
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
   description: Introduction to version control using git for collaborative, reproducible script editing.
   tags:
-  - sharing
-  - research data management
+  - NFDI4BioImage
+
 
 - name: OMERO for microscopy research data management
   authors: Thomas Zobel, Sarah Weischner, Jens Wendt
@@ -60,9 +55,7 @@ resources:
   description: A use case example from the Münster Imaging Network
   tags:
   - NFDI4BioImage
-  - omero
-  - research data management
- 
+  
 - name: Setting up a data management infrastructure for bioimaging
   authors: Susanne Kunis, Karen Bernhardt and Michael Hensel
   type: 
@@ -70,7 +63,6 @@ resources:
   url: https://doi.org/10.1515/hsz-2022-0304
   tags:
   - NFDI4BioImage
-  - research data management
 
 - name: A Cloud-Optimized Storage for Interactive Access of Large Arrays
   type: 
@@ -80,7 +72,6 @@ resources:
   url: https://doi.org/10.52825/cordi.v1i.285
   tags:
   - NFDI4BioImage
-  - research data management
 
 - name: "Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data"
   type: 
@@ -89,7 +80,6 @@ resources:
   url: https://zenodo.org/record/7018929
   tags:
   - NFDI4BioImage
-  - research data management
 
 - name: The Fiji Updater
   authors: Robert Haase
@@ -97,7 +87,7 @@ resources:
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000112/
   description: Article about the Fiji Updater explaining how it works in the background.
   tags:
-  - imagej
+  - NFDI4BioImage
 
 - name: "CLIJ: GPU-accelerated image processing for everyone"
   type: publication
@@ -106,15 +96,15 @@ resources:
   url: https://doi.org/10.1038/s41592-019-0650-1
   description: CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
   tags:
-  - imagej
-  - bioimage analysis
+  - NFDI4BioImage
+
 
 - name: "A Hitchhiker's guide through the bio-image analysis software universe"
   authors: Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
   type: publication
   url: https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451
   tags:
-  - bioimage analysis
+  - NFDI4BioImage
   description: This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
 - name: Challenges and opportunities for bioimage analysis core-facilities
@@ -123,8 +113,7 @@ resources:
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
   description: This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
   tags:
-  - bioimage analysis
-  - research data management
+  - NFDI4BioImage
 
 - name: "Open microscopy in the life sciences: quo vadis?"
   type: publication
@@ -132,23 +121,23 @@ resources:
   publication_date: 2022
   url: https://doi.org/10.1038/s41592-022-01602-3
   description: This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
+  tags:
+  - NFDI4BioImage
   
 - name: "Developing open-source software for bioimage analysis: opportunities and challenges"
   url: https://f1000research.com/articles/10-302
   authors: Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
   tags:
-  - bioimage analysis
+  - NFDI4BioImage
   type: publication
   description: This article outlines common challenges and practices when developing open-source software for bio-image analysis.
-  tags:
-  - neubias
 
 - name: "Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration"
   authors: Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
   url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
   type: publication
   tags:
-  - bioimage analysis
+  - NFDI4BioImage
   
 - name: "Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists"
   authors: Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
@@ -156,31 +145,28 @@ resources:
   url: https://f1000research.com/articles/10-334/v1
   type: publication
   tags:
-  - bioimage analysis
-  - neubias
+  - NFDI4BioImage
 
 - name: "REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology"
   authors: Ugis Sarkans et al
   type: publication
   url: https://www.nature.com/articles/s41592-021-01166-8
   tags:
-  - research data management
-  - meta data
+  - NFDI4BioImage
   
 - name: "MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community"
   authors: Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters 
   url: https://www.nature.com/articles/s41592-021-01288-z
   type: publication
   tags:
-  - research data management
-  - meta data
+  - NFDI4BioImage
 
 - name: "QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy"
   url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
   authors: Glyn Nelson, Ulrike Boehme, et al
   type: publication
   tags:
-  - QUAREO-LIMI
+  - NFDI4BioImage
 
 - name: "OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies"
   url: https://www.nature.com/articles/s41592-021-01326-w
@@ -188,7 +174,7 @@ resources:
   type: publication
   tags:
   - NFDI4BioImage
-  - research data management
+
   
 - name: "NFDI4BIOIMAGE: Perspective for a national bioimaging standard"
   authors: Josh Moore, Susanne Kunis
@@ -204,22 +190,21 @@ resources:
   - preprint
   url: https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract
   tags:
-  - python
+  - NFDI4BioImage
 
 - name: "Community-developed checklists for publishing images and image analyses"
   authors: Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
   url: https://www.nature.com/articles/s41592-023-01987-9
   type: publication
   tags:
-  - bioimage analysis
+  - NFDI4BioImage
 
 - name: "BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data"
   authors: Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
   url: https://doi.org/10.1093/bioinformatics/btab106
   type: publication
   tags:
-  - research data management
-  - bioimage analysis
+  - NFDI4BioImage
 
 - name: "EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)"
   authors: Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
@@ -228,5 +213,5 @@ resources:
   - poster
   url: https://f1000research.com/posters/9-162
   tags:
-  - meta data
+  - NFDI4BioImage
 
