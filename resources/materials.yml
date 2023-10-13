@@ -307,3 +307,69 @@ resources:
   - https://www.nature.com/articles/nmeth.2083
   - https://bbbc.broadinstitute.org/
   description: Broad Bioimage Benchmark Collection (BBBC)
+
+- name: Making your project citable
+  url: https://coderefinery.github.io/github-without-command-line/doi/
+  type: tutorial
+  tags:
+  - sharing
+  - citing
+  - research data management
+  description: A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
+
+- name: Software Citation with CITATION.cff
+  url: https://the-turing-way.netlify.app/communication/citable/citable-cff.html
+  type: tutorial
+  tags:
+  - sharing
+  - citing
+  - research data management
+  description: How to make your Github repository citable by adding a citation.cff file.
+
+- name: "The Turing Way: Guide for reproducible research"
+  url: https://the-turing-way.netlify.app/reproducible-research/reproducible-research
+  type: book
+  description: A guide which covers topics related to skills, tools and best practices for research reproducibility.
+
+- name: Basics of Image Processing and Analysis
+  url: https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf
+  authors: Kota Miura
+  type: book
+
+
+- name: Practical Guide to the International Alignment of Research Data Management - Extended Edition
+  url: 
+  - https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/
+  - https://doi.org/10.5281/zenodo.4915861
+  type: book
+
+- name: Cell Tracking Challenge - 2D Datasets
+  url: http://celltrackingchallenge.net/2d-datasets/
+  type:
+  - collection
+  - data
+
+- name: Cell Tracking Challenge - 3D Datasets
+  url: http://celltrackingchallenge.net/3d-datasets/
+  type:
+  - collection
+  - data
+
+- name: microlist
+  url: https://www.microlist.org/
+  type: collection
+  description: A searchable database of resources for light and electron microscopists
+
+- name: Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
+  authors: Robert Haase, Benoit Lombardot
+  url: https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01
+  type: slide
+  tags:
+  - imagej
+
+- name: Introduction to Image Analysis with Fiji
+  authors: Robert Haase, Benoit Lombardot
+  url: https://github.com/mpicbg-scicomp/CourseIntroToIA
+  license: CC-BY-NC 4.0
+  tags:
+  - imagej
