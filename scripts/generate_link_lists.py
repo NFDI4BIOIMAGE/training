@@ -24,7 +24,12 @@ def main():
     MINIMUM_TAG_COUNT = 5
     all_tag_counts = collect_all_tags(content)
     tag_toc = ""
-    for tag, count in all_tag_counts.items():
+
+    tags = list(all_tag_counts.keys())
+    tags.sort()
+    
+    for tag in tags:
+        count = all_tag_counts[tag] 
         if count >= MINIMUM_TAG_COUNT:
             selected_content = find_tag(content, tag)
             filename = "tags/" + tag.replace(" ", "_")
