@@ -4,12 +4,16 @@ resources:
   url: https://www.nature.com/articles/s41592-021-01290-5
   type: 
   - publication
+  tags:
+  - meta data
 
 - name: "Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications"
   authors: Alessandro Rigano et al.
   url: https://doi.org/10.1038/s41592-021-01315-z
   type: 
   - publication
+  tags:
+  - meta data
 
 - name: "Metadata matters: access to image data in the real world"
   authors: Melissa Linkert et al.
@@ -17,11 +21,15 @@ resources:
   url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
   type: 
   - publication
+  tags:
+  - meta data
 
 - name: "A call for public archives for biological image data"
   url: https://www.nature.com/articles/s41592-018-0195-8
   authors: Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney 
   type: publication
+  tags:
+  - research data management
   
 - name: "2020 BioImage Analysis Survey: Community experiences and needs for the future"
   url: 
@@ -30,6 +38,8 @@ resources:
   authors: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
   publication_date: 2021 
   type: publication
+  tags:
+  - bioimage analysis
 
 - name: Bridging Imaging Users to Imaging Analysis - A community survey
   authors: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
@@ -40,6 +50,8 @@ resources:
   - publication
   - preprint
   publication_date: 2023
+  tags:
+  - bioimage analysis
 
 
 - name: Understanding metric-related pitfalls in image analysis validation
@@ -50,11 +62,15 @@ resources:
   publication_date: 2023
   url: https://arxiv.org/abs/2302.01790v3
   description: This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
+  tags:
+  - bioimage analysis
 
 - name: Building a FAIR image data ecosystem for microscopy communities
   authors: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
   url: https://link.springer.com/article/10.1007/s00418-023-02203-7
   type: publication
+  tags:
+  - research data management
 
 - name: A study on long-term reproducibility of image analysis results on ImageJ and Fiji
   authors: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
@@ -62,3 +78,5 @@ resources:
   - publication
   - poster
   url: https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
+  tags:
+  - imagej

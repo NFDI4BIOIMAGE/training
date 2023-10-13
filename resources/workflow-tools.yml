@@ -8,7 +8,6 @@ resources:
   - https://www.nature.com/articles/s41592-022-01744-4
   - https://jipipe.hki-jena.de/
   tags:
-  - NFDI4BioImage
   - workflow engine
   - imagej
   description: JIPipe is an open-source visual programming language for easy-access pipeline development
@@ -31,6 +30,7 @@ resources:
   type: documentation
   url: https://biapy.readthedocs.io/
   tags:
+  - workflow engine
   - python
   description: BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
@@ -47,7 +47,6 @@ resources:
   tags:
   - workflow engine
   - python
-  - napari
   description: Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
 - name: Snakemake Documentation
