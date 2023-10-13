@@ -18,7 +18,7 @@ def main():
             print(content.keys())
 
     # Go through all supported content types and generate corresponding markdown files
-    all_content_types = collect_all_content_types(content)
+    all_content_types = collect_all(content, "type")
     type_toc = ""
     for supported_type in sorted(list(all_content_types.keys())):
         count = all_content_types[supported_type] 
@@ -30,7 +30,7 @@ def main():
     replace_in_file(toc_file, "{type_toc}", type_toc)
 
     # go through all tags and generate corresponding markdown files
-    all_tag_counts = collect_all_tags(content)
+    all_tag_counts = collect_all(content, "tags")
     tag_toc = ""
     for tag in sorted(list(all_tag_counts.keys())):
         count = all_tag_counts[tag] 
@@ -40,6 +40,12 @@ def main():
             write_md(selected_content, tag, "docs/" + filename + ".md")
             tag_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{tag_toc}", tag_toc)
+
+    # go through all urls and detect duplicates
+    all_urls = collect_all(content, "url")
+    for url, count in all_urls.items():
+        if count > 1:
+            raise KeyError(f"Duplicate entry detected: {url}")
     
     # Put summary statistics in the main page
     last_updated = datetime.now().strftime('%Y-%m-%d')
@@ -63,14 +69,6 @@ def read_yaml_file(filename):
     with open(filename, 'r') as file:
         data = yaml.safe_load(file)
         return data
-
-
-def collect_all_content_types(content):
-    return collect_all(content, "type")
-
-
-def collect_all_tags(content):
-    return collect_all(content, "tags")
 
 
 def collect_all(content, what_to_collect):

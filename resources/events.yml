@@ -49,16 +49,7 @@ resources:
   tags:
   - bioimage analysis
   - python
-  
-- name: OMERO Workshops
-  type:
-  - collection
-  - event
-  url: https://www.openmicroscopy.org/events/
-  description: List of OMERO Workshops
-  tags:
-  - omero
-  - research data management
+ 
 
 
   
