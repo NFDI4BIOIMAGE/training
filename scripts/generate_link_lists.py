@@ -55,6 +55,7 @@ def replace_in_file(filename, to_replace, replacement):
     with open(filename, 'w') as file:
         file.write(file_contents)    
 
+
 def read_yaml_file(filename):
     """Read a yaml file and return the content as dictionary of dictionaries"""
     import yaml
@@ -62,17 +63,22 @@ def read_yaml_file(filename):
         data = yaml.safe_load(file)
         return data
 
+
 def collect_all_content_types(content):
     return collect_all(content, "content_type")
 
+
 def collect_all_tags(content):
     return collect_all(content, "tags")
+
 
 def collect_all(content, what_to_collect):
     all_tags = {}
     for c in content['resources']:
         if what_to_collect in c:
             tags = c[what_to_collect]
+            if type(tags) is not list and "," in tags:
+                tags = tags.split(",")
             if type(tags) is not list:
                 tags = [tags]
 
