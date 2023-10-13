@@ -64,6 +64,7 @@ def collect_all_tags(content):
                 tags = [tags]
 
             for tag in tags:
+                tag = tag.lower()
                 if tag not in all_tags.keys():
                     all_tags[tag] = 1
                 else:
