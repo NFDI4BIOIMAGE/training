@@ -159,7 +159,7 @@ def write_md(resources, title, filename):
                 else:
                     file.write(f"\n[{url}]({url})\n")
             
-            file.write(f"---\n")
+            file.write(f"\n\n---\n\n")
 
 if __name__ == "__main__":
     main()
