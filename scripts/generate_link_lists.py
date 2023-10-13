@@ -4,6 +4,9 @@ def main():
     from datetime import datetime
 
     directory_path = 'resources/'
+    toc_file = "docs/_toc.yml"
+    readme_file = "docs/readme.md"
+    MINIMUM_TAG_COUNT = 5
     
     # Iterate over all files in the directory and accumulate content
     content = {'resources':[]}
@@ -26,7 +29,6 @@ def main():
         
 
     # go through all tags and generate corresponding markdown files
-    MINIMUM_TAG_COUNT = 5
     all_tag_counts = collect_all_tags(content)
     tag_toc = ""
     for tag in sorted(list(all_tag_counts.keys())):
@@ -36,13 +38,12 @@ def main():
             filename = "tags/" + tag.replace(" ", "_")
             write_md(selected_content, tag, "docs/" + filename + ".md")
             tag_toc += "    - file: " + filename + "\n"    
-    toc_file = "docs/_toc.yml"
     replace_in_file(toc_file, "{tag_toc}", tag_toc)
     
     # Put summary statistics in the main page
     last_updated = datetime.now().strftime('%Y-%m-%d')
     number_of_links = len(content['resources'])
-    readme_file = "docs/readme.md"
+
     replace_in_file(readme_file, "{last_updated}", str(last_updated))
     replace_in_file(readme_file, "{number_of_links}", str(number_of_links))
 
