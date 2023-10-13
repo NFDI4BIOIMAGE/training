@@ -1,6 +1,6 @@
 resources:
 - name: "JIPipe: visual batch processing for ImageJ"
-  author: Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+  authors: Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
   type: 
   - publication
   - documentation
@@ -13,7 +13,7 @@ resources:
   description: JIPipe is an open-source visual programming language for easy-access pipeline development
   
 - name: MiToBo - A Toolbox for Image Processing and Analysis
-  author: Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
+  authors: Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
   type: 
   - publication
   - documentation
@@ -25,7 +25,7 @@ resources:
   description: The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
 - name: "BiaPy: Bioimage analysis pipelines in Python"
-  author: Daniel Franco-Barranco et al
+  authors: Daniel Franco-Barranco et al
   type: documentation
   url: https://biapy.readthedocs.io/
   description: BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
@@ -54,7 +54,7 @@ resources:
   description: The Snakemake workflow management system is a tool to create reproducible and scalable data analyses. 
 
 - name: "ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ"
-  author: Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+  authors: Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
   type: 
   - publication
   - documentation

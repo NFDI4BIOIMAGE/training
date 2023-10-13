@@ -186,7 +186,7 @@ resources:
   url: https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop
 
 - name: Research Data Management Seminar - Slides
-  author: Della Chiesa, Stefano
+  authors: Della Chiesa, Stefano
   url: https://zenodo.org/record/6602101
   type: 
   - collection
@@ -197,7 +197,7 @@ resources:
   type: document
 
 - name: A biologist’s guide to planning and performing quantitative bioimaging experiments
-  author: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
+  authors: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
   type: 
   - collection
   - publication
@@ -206,7 +206,7 @@ resources:
   - https://www.bioimagingguide.org/
 
 - name: Annotated high-throughput microscopy image sets for validation
-  author: Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter 
+  authors: Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter 
   type:
   - collection
   - data

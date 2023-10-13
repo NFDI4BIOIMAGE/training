@@ -7,7 +7,7 @@ resources:
 
 
 - name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
-  author: Marcelo Zoccoler
+  authors: Marcelo Zoccoler
   type: blog
   url:  https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
 
@@ -18,7 +18,7 @@ resources:
 
 - name: Getting started with Mambaforge and Python
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
@@ -27,7 +27,7 @@ resources:
   url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
 
 - name: Data handling in large-scale electron microscopy
-  author: Job Fermie
+  authors: Job Fermie
   type: blog
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
 

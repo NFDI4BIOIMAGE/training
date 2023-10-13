@@ -1,18 +1,18 @@
 resources:
 - name: "MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text"
-  author: Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown 
+  authors: Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown 
   url: https://www.nature.com/articles/s41592-021-01290-5
   type: 
   - publication
 
 - name: "Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications"
-  author: Alessandro Rigano et al.
+  authors: Alessandro Rigano et al.
   url: https://doi.org/10.1038/s41592-021-01315-z
   type: 
   - publication
 
 - name: "Metadata matters: access to image data in the real world"
-  author: Melissa Linkert et al.
+  authors: Melissa Linkert et al.
   publication_date: 2010
   url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
   type: 
@@ -20,19 +20,19 @@ resources:
 
 - name: "A call for public archives for biological image data"
   url: https://www.nature.com/articles/s41592-018-0195-8
-  author: Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney 
+  authors: Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney 
   type: publication
   
 - name: "2020 BioImage Analysis Survey: Community experiences and needs for the future"
   url: 
   - https://doi.org/10.1017/s2633903x21000039
   - https://github.com/ciminilab/2021_Jamali_BiologicalImaging
-  author: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
+  authors: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
   publication_date: 2021 
   type: publication
 
 - name: Bridging Imaging Users to Imaging Analysis - A community survey
-  author: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
+  authors: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
   url:
   - https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 
   - https://github.com/COBA-NIH/2023_ImageAnalysisSurvey
@@ -43,7 +43,7 @@ resources:
 
 
 - name: Understanding metric-related pitfalls in image analysis validation
-  author: Annika Reinke et al
+  authors: Annika Reinke et al
   type: 
   - publication
   - preprint
@@ -52,12 +52,12 @@ resources:
   description: This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
 
 - name: Building a FAIR image data ecosystem for microscopy communities
-  author: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
+  authors: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
   url: https://link.springer.com/article/10.1007/s00418-023-02203-7
   type: publication
 
 - name: A study on long-term reproducibility of image analysis results on ImageJ and Fiji
-  author: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+  authors: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
   type:
   - publication
   - poster
