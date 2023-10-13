@@ -105,7 +105,10 @@ def write_md(resources, title, filename):
     
     with open(filename, 'w') as file:
         print("Printing items of ", title)
-        file.write("# " + title + '\n')
+
+        num_items = len(resources.keys())
+        
+        file.write(f"# {title} ({num_items})\n")
         
         for name, properties in resources.items():
             print("* ", name)
