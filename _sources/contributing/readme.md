@@ -8,7 +8,7 @@ Consider adding your favorite training materials and resources. In case you know
 
 ## Inclusion criteria
 
-We will consider merging links to all materials which are educative. This can be online tutorials like videos, written tutorials, blog posts and publications. Relevant topics are:
+We will consider merging links to all materials which are educative. Relevant topics are:
 * Research Data Management, in particular but not limited to the bio-imaging context
 * Bio-image Analysis
 
@@ -18,6 +18,7 @@ We would like to collect links to resources including various formats / content 
 * Publications
 * Blog posts
 * Example data
+* Collections (of links to other materials)
 * ...
 
 ## Exclusion criteria
