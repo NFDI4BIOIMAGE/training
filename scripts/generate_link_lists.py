@@ -27,7 +27,7 @@ def main():
     for tag, count in all_tag_counts.items():
         if count >= MINIMUM_TAG_COUNT:
             selected_content = find_tag(content, tag)
-            filename = "tags/" + tag
+            filename = "tags/" + tag.replace(" ", "_")
             write_md(selected_content, tag, filename + ".md")
             tag_toc += "    - file: " + filename + "\n"    
     toc_file = "docs/_toc.yml"
