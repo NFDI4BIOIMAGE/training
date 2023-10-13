@@ -93,8 +93,8 @@ def find_tag(content, tag):
     for c in content['resources']:
         if 'tags' in c:
             try:
-                tags = [str(t).lower for t in c['tags']]
-                if tag in c['tags']:
+                tags = [str(t).lower() for t in c['tags']]
+                if tag in tags:
                     print("* listing", c['name'])
                     result[c['name']] = c
             except:
