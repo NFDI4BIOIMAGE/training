@@ -7,7 +7,7 @@ root: readme
 parts:
   - caption: By tag
     chapters:
-    {tag_toc}
+{tag_toc}
   - caption: By content type
     chapters:
     - file: blog/readme
