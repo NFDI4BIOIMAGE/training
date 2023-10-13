@@ -1,4 +1,4 @@
-# Workflow engine (8)
+# Documentation (10)
 ## BiaPy: Bioimage analysis pipelines in Python
 By Daniel Franco-Barranco et al
 
@@ -78,6 +78,22 @@ Nextflow enables scalable and reproducible scientific workflows using software c
 Tags: workflow engine
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
+
+## OME Documentation
+
+
+
+Tags: omero
+
+[https://www.openmicroscopy.org/docs/](https://www.openmicroscopy.org/docs/)
+
+## OMERO documentation
+
+
+
+Tags: omero
+
+[https://omero.readthedocs.io/en/stable/](https://omero.readthedocs.io/en/stable/)
 
 ## Snakemake Documentation
 
