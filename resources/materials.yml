@@ -254,6 +254,7 @@ resources:
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/
 
 - name: Bioimage analysis with Napari
+  authors: Fabrizio Musacchio
   type:
   - collection
   license: CC BY-NC-SA 4.0
@@ -261,7 +262,7 @@ resources:
   - python
   - napari
   - bioimage analysis
-  url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus
+  url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/
 
 - name: ZEN & Python workshop
   type:
@@ -289,7 +290,7 @@ resources:
   - research data management
 
 - name: A biologist’s guide to planning and performing quantitative bioimaging experiments
-  authors: Rebecca A. Senft ,Barbara Diaz-Rohrer ,Pina Colarusso,Lucy Swift,Nasim Jamali,Helena Jambor,Thomas Pengo,Craig Brideau,Paula Montero Llopis,Virginie Uhlmann,Jason Kirk,Kevin Andrew Gonzales,Peter Bankhead,Edward L. Evans III,Kevin W. Eliceiri,Beth A. Cimini
+  authors: Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
   type: 
   - collection
   - publication
