@@ -19,10 +19,10 @@ def main():
     type_toc = ""
     for supported_type in sorted(list(all_content_types.keys())):
         all = find_type(content, supported_type)
-
         filename = "content_types/" + supported_type
         write_md(all, supported_type, "docs/" + filename + ".md")
         type_toc = type_toc + "    - file: " + filename + "\n"
+    replace_in_file(toc_file, "{type_toc}", type_toc)
         
 
     # go through all tags and generate corresponding markdown files
