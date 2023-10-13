@@ -14,7 +14,7 @@ resources:
 - name: BioImage Analysis Notebooks
   authors: Robert Haase et al.
   type:
-  - collection
+  - book
   - notebook
   tags:
   - python
@@ -24,7 +24,7 @@ resources:
 - name: Introduction to Bioimage Analysis
   authors: Pete Bankhead
   type:
-  - collection
+  - book
   - notebook
   tags:
   - python
@@ -105,7 +105,6 @@ resources:
 - name: Train-the-Trainer Concept on Research Data Management
   authors:  Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
   type:
-  - collection
   - book
   url: https://zenodo.org/record/4071471
   description: Collection of training materials for Research Data Management from the FDMentor community.
@@ -143,7 +142,6 @@ resources:
 
 - name: CellProfiler tutorials
   type:
-  - collection
   - notebook
   license: BSD 3-Clause
   url: https://github.com/CellProfiler/tutorials
@@ -154,7 +152,6 @@ resources:
 
 - name: ONBI image analysis
   type:
-  - collection
   - notebook
   license: GPL-2.0
   tags:
@@ -166,7 +163,7 @@ resources:
 - name: A Fiji Scripting Tutorial
   authors: Albert Cardona
   type:
-  - collection
+  - notebook
   license: Public_domain
   tags:
   - imagej
@@ -176,7 +173,6 @@ resources:
 - name: Lecture Applied Bioimage Analysis 2020
   authors: Robert Haase
   type:
-  - collection
   - slide
   tags:
   - imagej
@@ -240,7 +236,6 @@ resources:
 - name: Image processing with Python
   authors: Guillaume Witz
   type:
-  - collection
   - notebook
   license: MIT
   tags:
@@ -250,14 +245,13 @@ resources:
 
 - name: Deep Learning Based Segmentation For Biologists
   type:
-  - collection
   - notebook
   license: AGPL-3.0 license
   tags:
   - python
   - R
   - artificial intelligence
-  url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main
+  url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/
 
 - name: Bioimage analysis with Napari
   type:
@@ -284,7 +278,6 @@ resources:
   authors: Della Chiesa, Stefano
   url: https://zenodo.org/record/6602101
   type:
-  - collection
   - slide
   tags:
   - research data management
