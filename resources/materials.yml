@@ -359,3 +359,17 @@ resources:
   url: https://www.microlist.org/
   type: collection
   description: A searchable database of resources for light and electron microscopists
+
+- name: Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
+  authors: Robert Haase, Benoit Lombardot
+  url: https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01
+  type: slide
+  tags:
+  - imagej
+
+- name: Introduction to Image Analysis with Fiji
+  authors: Robert Haase, Benoit Lombardot
+  url: https://github.com/mpicbg-scicomp/CourseIntroToIA
+  license: CC-BY-NC 4.0
+  tags:
+  - imagej
