@@ -15,7 +15,7 @@ These entries can have multiple properties:
 
 * `name` (mandatory): A descriptive title of the resource
 * `url` (mandatory): Resources must be available on the internet using a URL or DOI-URL.
-* `type` (mandatory): Content types such as `video`, `collection`, `blog post` etc. Resources can have multiple content types.
+* `type` (mandatory): Content types such as `video`, `collection`, `blog post` etc. Resources can have multiple content types. Collections are lists of links, which could potentially contain more entries.
 * `license` (optional, recommended)
 * `description` (optional)
 * `publication_date` (optional)
