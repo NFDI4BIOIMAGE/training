@@ -164,7 +164,7 @@ resources:
   authors: Albert Cardona
   type:
   - notebook
-  license: Public_domain
+  license: Public domain
   tags:
   - imagej
   - bioimage analysis
