@@ -25,8 +25,8 @@ def main():
         filename = "content_types/" + supported_type
         write_md(all, supported_type, "docs/" + filename + ".md")
         type_toc = type_toc + "    - file: " + filename + "\n"
+        print("COUNTS", all_content_types[supported_type], len(all))
     replace_in_file(toc_file, "{type_toc}", type_toc)
-        
 
     # go through all tags and generate corresponding markdown files
     all_tag_counts = collect_all_tags(content)
@@ -104,7 +104,10 @@ def find_anything(content, what_to_look_in, what_to_find):
     for c in content['resources']:
         if what_to_look_in in c:
             try:
-                if what_to_find in c[what_to_look_in]:
+                list_to_look_at = c[what_to_look_in]
+                if type(list_to_look_at) is not list:
+                    list_to_look_at = [list_to_look_at]
+                if what_to_find in list_to_look_at:
                     print("* listing", c['name'])
                     result[c['name']] = c
             except:
