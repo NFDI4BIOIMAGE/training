@@ -134,13 +134,13 @@ def write_md(resources, title, filename):
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
-                file.write(f"By {authors}\n")
+                file.write(f"\nBy {authors}\n")
             if 'publication_date' in properties:
                 publication_date = properties['publication_date']
-                file.write(f"Published {publication_date}")
+                file.write(f"\nPublished {publication_date}\n")
             if 'license' in properties:
                 license = properties['license']
-                file.write(f"licensed {license}")
+                file.write(f"\nLicensed {license}\n")
             file.write("\n\n")
             if 'description' in properties:
                 description = properties['description']
@@ -148,8 +148,8 @@ def write_md(resources, title, filename):
             if 'tags' in properties:
                 tags = properties['tags']
                 if type(tags) is list:
-                    tags = ",".join(tags)
-                file.write(f"\nTags: {tags}\n")
+                    tags = ", ".join(tags)
+                file.write(f"Tags: {tags}\n")
             if 'url' in properties:
                 url = properties['url']
                 if type(url) is list:
@@ -158,7 +158,7 @@ def write_md(resources, title, filename):
                 else:
                     file.write(f"\n[{url}]({url})\n")
             
-            file.write(f"\n")
+            file.write(f"---\n")
 
 if __name__ == "__main__":
     main()
