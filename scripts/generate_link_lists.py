@@ -106,6 +106,8 @@ def find_anything(content, what_to_look_in, what_to_find):
                 list_to_look_at = c[what_to_look_in]
                 if type(list_to_look_at) is not list:
                     list_to_look_at = [list_to_look_at]
+
+                list_to_look_at = [str(i).lower() for i in list_to_look_at]
                 if what_to_find in list_to_look_at:
                     print("* listing", c['name'])
                     result[c['name']] = c
