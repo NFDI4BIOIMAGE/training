@@ -1,4 +1,4 @@
-# Slide (9)
+# Slide (10)
 ## Generative artificial intelligence for bio-image analysis
 
 By Robert Haase
@@ -21,6 +21,18 @@ Licensed BSD 3-Clause
 Tags: imagej, bioimage analysis
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
+
+
+---
+
+## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
+
+By Robert Haase, Benoit Lombardot
+
+
+Tags: imagej
+
+[https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
 
 ---

@@ -1,4 +1,4 @@
-# Collection (26)
+# Collection (29)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 By Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -67,6 +67,24 @@ Licensed CC BY-NC-SA 4.0
 Tags: python, napari, bioimage analysis
 
 [https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/)
+
+
+---
+
+## Cell Tracking Challenge - 2D Datasets
+
+
+
+[http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
+
+
+---
+
+## Cell Tracking Challenge - 3D Datasets
+
+
+
+[http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
 
 
 ---
@@ -285,6 +303,17 @@ Licensed GPL-3.0
 Tags: python, napari, bioimage analysis
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## microlist
+
+
+
+A searchable database of resources for light and electron microscopists
+
+[https://www.microlist.org/](https://www.microlist.org/)
 
 
 ---

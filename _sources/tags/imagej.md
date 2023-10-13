@@ -1,4 +1,4 @@
-# Imagej (14)
+# Imagej (16)
 ## A Fiji Scripting Tutorial
 
 By Albert Cardona
@@ -63,6 +63,32 @@ By Pete Bankhead
 Tags: python, imagej, bioimage analysis
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Introduction to Image Analysis with Fiji
+
+By Robert Haase, Benoit Lombardot
+
+Licensed CC-BY-NC 4.0
+
+
+Tags: imagej
+
+[https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
+
+
+---
+
+## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
+
+By Robert Haase, Benoit Lombardot
+
+
+Tags: imagej
+
+[https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
 
 ---

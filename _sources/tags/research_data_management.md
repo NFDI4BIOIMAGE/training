@@ -1,4 +1,4 @@
-# Research data management (29)
+# Research data management (31)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 By Josh Moore, Susanne Kunis
@@ -175,6 +175,18 @@ Tags: research data management, meta data
 
 ---
 
+## Making your project citable
+
+
+
+A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
+Tags: sharing, citing, research data management
+
+[https://coderefinery.github.io/github-without-command-line/doi/](https://coderefinery.github.io/github-without-command-line/doi/)
+
+
+---
+
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
 By Schmidt, Christian ; Ferrando-May, Elisa
@@ -327,6 +339,18 @@ Blog post about how to share data using zenodo.org
 Tags: sharing, research data management
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Software Citation with CITATION.cff
+
+
+
+How to make your Github repository citable by adding a citation.cff file.
+Tags: sharing, citing, research data management
+
+[https://the-turing-way.netlify.app/communication/citable/citable-cff.html](https://the-turing-way.netlify.app/communication/citable/citable-cff.html)
 
 
 ---
