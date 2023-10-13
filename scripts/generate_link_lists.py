@@ -24,13 +24,17 @@ def main():
     last_updated = datetime.now().strftime('%Y-%m-%d')
     number_of_links = len(content['resources'])
     readme_file = "docs/readme.md"
+
+    replace_in_file(readme_file, "{last_updated}", str(last_updated))
+    replace_in_file(readme_file, "{number_of_links}", str(number_of_links))
+
+
+def replace_in_file(filename, to_replace, replacement):
     with open(readme_file, 'r') as file:
         file_contents = file.read()
-    file_contents = file_contents.replace("{last_updated}", str(last_updated))
-    file_contents = file_contents.replace("{number_of_links}", str(number_of_links))
+    file_contents = file_contents.replace(to_replace, replacement)
     with open(readme_file, 'w') as file:
-        file.write(file_contents)
-
+        file.write(file_contents)    
 
 def read_yaml_file(filename):
     """Read a yaml file and return the content as dictionary of dictionaries"""
@@ -53,12 +57,12 @@ def find_type(content, content_type):
 
     return result
 
-def write_md(resources, content_type_name, filename):
+def write_md(resources, title, filename):
     """Turns a list of resources into a markdown file that can be parsed by Jupyter Book"""
     
     with open(filename, 'w') as file:
-        print("Printing items of type ", content_type_name)
-        file.write("# " + content_type_name + '\n')
+        print("Printing items of ", title)
+        file.write("# " + title + '\n')
         
         for name, properties in resources.items():
             print("* ", name)
