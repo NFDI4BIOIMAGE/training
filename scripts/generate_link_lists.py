@@ -6,7 +6,7 @@ def main():
     directory_path = 'resources/'
     toc_file = "docs/_toc.yml"
     readme_file = "docs/readme.md"
-    MINIMUM_TAG_COUNT = 5
+    MINIMUM_ITEM_COUNT = 5
     
     # Iterate over all files in the directory and accumulate content
     content = {'resources':[]}
@@ -21,11 +21,12 @@ def main():
     all_content_types = collect_all_content_types(content)
     type_toc = ""
     for supported_type in sorted(list(all_content_types.keys())):
-        all = find_type(content, supported_type)
-        filename = "content_types/" + supported_type
-        write_md(all, supported_type, "docs/" + filename + ".md")
-        type_toc = type_toc + "    - file: " + filename + "\n"
-        print("COUNTS", all_content_types[supported_type], len(all))
+        count = all_content_types[supported_type] 
+        if count >= MINIMUM_ITEM_COUNT:
+            all = find_type(content, supported_type)
+            filename = "content_types/" + supported_type
+            write_md(all, supported_type, "docs/" + filename + ".md")
+            type_toc = type_toc + "    - file: " + filename + "\n"
     replace_in_file(toc_file, "{type_toc}", type_toc)
 
     # go through all tags and generate corresponding markdown files
@@ -33,7 +34,7 @@ def main():
     tag_toc = ""
     for tag in sorted(list(all_tag_counts.keys())):
         count = all_tag_counts[tag] 
-        if count >= MINIMUM_TAG_COUNT:
+        if count >= MINIMUM_ITEM_COUNT:
             selected_content = find_tag(content, tag)
             filename = "tags/" + tag.replace(" ", "_")
             write_md(selected_content, tag, "docs/" + filename + ".md")
