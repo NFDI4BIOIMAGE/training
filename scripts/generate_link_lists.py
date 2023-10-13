@@ -113,7 +113,7 @@ def write_md(resources, title, filename):
         
         file.write(f"# {title} ({num_items})\n")
 
-        names = resources.keys()
+        names = list(resources.keys())
         names.sort()
         
         for name in names:
