@@ -1,8 +1,10 @@
-# publication
+# publication (35)
 ## MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text
 By Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown
 
 
+
+Tags: meta data
 
 [https://www.nature.com/articles/s41592-021-01290-5](https://www.nature.com/articles/s41592-021-01290-5)
 
@@ -11,12 +13,16 @@ By Alessandro Rigano et al.
 
 
 
+Tags: meta data
+
 [https://doi.org/10.1038/s41592-021-01315-z](https://doi.org/10.1038/s41592-021-01315-z)
 
 ## Metadata matters: access to image data in the real world
 By Melissa Linkert et al.
 Published 2010
 
+
+Tags: meta data
 
 [https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real](https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real)
 
@@ -25,12 +31,16 @@ By Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, 
 
 
 
+Tags: research data management
+
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
 
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 By Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
 Published 2021
 
+
+Tags: bioimage analysis
 
 [https://doi.org/10.1017/s2633903x21000039](https://doi.org/10.1017/s2633903x21000039)
 
@@ -40,6 +50,8 @@ Published 2021
 By Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
 Published 2023
 
+
+Tags: bioimage analysis
 
 [https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
@@ -52,6 +64,8 @@ Published 2023
 
 This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
 
+Tags: bioimage analysis
+
 [https://arxiv.org/abs/2302.01790v3](https://arxiv.org/abs/2302.01790v3)
 
 ## Building a FAIR image data ecosystem for microscopy communities
@@ -59,12 +73,16 @@ By Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Ö
 
 
 
+Tags: research data management
+
 [https://link.springer.com/article/10.1007/s00418-023-02203-7](https://link.springer.com/article/10.1007/s00418-023-02203-7)
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 By Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
+
+Tags: imagej
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
 
@@ -75,7 +93,7 @@ By Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: NFDI4BioImage,workflow engine,imagej
+Tags: workflow engine,imagej
 
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -112,7 +130,7 @@ By Schmidt, Christian ; Ferrando-May, Elisa
 
 
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,Research Data Management
 
 [https://archiv.ub.uni-heidelberg.de/volltextserver/29489/](https://archiv.ub.uni-heidelberg.de/volltextserver/29489/)
 
@@ -121,7 +139,7 @@ By Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferran
 
 
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,Research Data Management
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
 
@@ -132,7 +150,7 @@ By Thomas Zobel, Sarah Weischner, Jens Wendt
 
 A use case example from the Münster Imaging Network
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,omero,research data management
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
 
@@ -141,7 +159,7 @@ By Susanne Kunis, Karen Bernhardt and Michael Hensel
 
 
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,research data management
 
 [https://doi.org/10.1515/hsz-2022-0304](https://doi.org/10.1515/hsz-2022-0304)
 
@@ -150,7 +168,7 @@ By Josh Moore, Susanne Kunis
 
 
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,research data management
 
 [https://doi.org/10.52825/cordi.v1i.285](https://doi.org/10.52825/cordi.v1i.285)
 
@@ -161,7 +179,7 @@ By Robert Haase
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: NFDI4BioImage
+Tags: imagej
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000112/](https://analyticalscience.wiley.com/do/10.1002/was.0004000112/)
 
@@ -172,7 +190,7 @@ Published 2020
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: NFDI4BioImage
+Tags: imagej,bioimage analysis
 
 [https://doi.org/10.1038/s41592-019-0650-1](https://doi.org/10.1038/s41592-019-0650-1)
 
@@ -183,7 +201,7 @@ By Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya 
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: NFDI4BioImage
+Tags: bioimage analysis
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
 
@@ -194,7 +212,7 @@ By Johannes Richard Soltwedel, Robert Haase
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: NFDI4BioImage
+Tags: bioimage analysis,research data management
 
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192)
 
@@ -205,8 +223,6 @@ Published 2022
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
 
-Tags: NFDI4BioImage
-
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
 
 ## Developing open-source software for bioimage analysis: opportunities and challenges
@@ -216,7 +232,7 @@ By Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bank
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: NFDI4BioImage
+Tags: neubias
 
 [https://f1000research.com/articles/10-302](https://f1000research.com/articles/10-302)
 
@@ -225,7 +241,7 @@ By Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald
 
 
 
-Tags: NFDI4BioImage
+Tags: bioimage analysis
 
 [https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full](https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full)
 
@@ -234,7 +250,7 @@ By Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Ant
 Published 2021
 
 
-Tags: NFDI4BioImage
+Tags: bioimage analysis,neubias
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
 
@@ -243,7 +259,7 @@ By Ugis Sarkans et al
 
 
 
-Tags: NFDI4BioImage
+Tags: research data management,meta data
 
 [https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
 
@@ -252,7 +268,7 @@ By Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina S
 
 
 
-Tags: NFDI4BioImage
+Tags: research data management,meta data
 
 [https://www.nature.com/articles/s41592-021-01288-z](https://www.nature.com/articles/s41592-021-01288-z)
 
@@ -261,7 +277,7 @@ By Glyn Nelson, Ulrike Boehme, et al
 
 
 
-Tags: NFDI4BioImage
+Tags: QUAREO-LIMI
 
 [https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041)
 
@@ -270,7 +286,7 @@ By Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, Davi
 
 
 
-Tags: NFDI4BioImage
+Tags: NFDI4BioImage,research data management
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
 
@@ -288,7 +304,7 @@ By Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidar
 
 
 
-Tags: NFDI4BioImage
+Tags: python
 
 [https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract)
 
@@ -297,7 +313,7 @@ By Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristi
 
 
 
-Tags: NFDI4BioImage
+Tags: bioimage analysis
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
 
@@ -306,7 +322,7 @@ By Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rain
 
 
 
-Tags: NFDI4BioImage
+Tags: research data management,bioimage analysis
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
 
@@ -315,7 +331,7 @@ By Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoj
 
 
 
-Tags: NFDI4BioImage
+Tags: meta data
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
 

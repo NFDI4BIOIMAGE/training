@@ -1,7 +1,9 @@
-# collection
+# collection (37)
 ## TESS Event database
 
 
+
+Tags: bioinformatics
 
 [https://tess.elixir-europe.org/events](https://tess.elixir-europe.org/events)
 
@@ -9,11 +11,15 @@
 
 
 
+Tags: bioimage analysis
+
 [https://globalbioimaging.org/international-training-courses](https://globalbioimaging.org/international-training-courses)
 
 ## OME Event Database
 
 
+
+Tags: omero,reseach data management
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -22,6 +28,8 @@
 
 
 List of OMERO Workshops
+
+Tags: omero,research data management
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -39,11 +47,15 @@ Tags: python
 
 
 
+Tags: research data management
+
 [https://github.com/German-BioImaging/RDM4mic/tree/master/presentations](https://github.com/German-BioImaging/RDM4mic/tree/master/presentations)
 
 ## BioImage Informatics Index Training Materials
 
 
+
+Tags: bioimage analysis
 
 [https://biii.eu/training-material](https://biii.eu/training-material)
 
@@ -52,7 +64,7 @@ By Robert Haase et al.
 
 
 
-Tags: python
+Tags: python,bioimage analysis
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
@@ -61,7 +73,7 @@ By Pete Bankhead
 
 
 
-Tags: python,imagej
+Tags: python,imagej,bioimage analysis
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
 
@@ -74,6 +86,8 @@ Tags: python,imagej
 ## OMERO Guide
 
 
+
+Tags: omero
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
 
@@ -99,6 +113,8 @@ List of training materials by the German BioImaging community provided by facili
 
 Research Data Management Information Portal in German
 
+Tags: research data management
+
 [https://forschungsdaten.info/](https://forschungsdaten.info/)
 
 ## Forschungsdaten.org
@@ -106,6 +122,8 @@ Research Data Management Information Portal in German
 
 
 Research Data Management Wiki in German
+
+Tags: research data management
 
 [https://www.forschungsdaten.org/](https://www.forschungsdaten.org/)
 
@@ -116,17 +134,23 @@ By Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika
 
 Collection of training materials for Research Data Management from the FDMentor community.
 
+Tags: research data management
+
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 
 ## RDMKit Training Resources
 
 
 
+Tags: research data management
+
 [https://rdmkit.elixir-europe.org/all_training_resources](https://rdmkit.elixir-europe.org/all_training_resources)
 
 ## TESS training materials
 
 
+
+Tags: bioinformatics
 
 [https://tess.elixir-europe.org/materials](https://tess.elixir-europe.org/materials)
 
@@ -136,6 +160,8 @@ Collection of training materials for Research Data Management from the FDMentor 
 
 List of links to training materials by the I3D:bio community.
 
+Tags: research data management
+
 [https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/](https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/)
 
 ## CellProfiler tutorials
@@ -143,6 +169,8 @@ licensed BSD 3-Clause
 
 
 CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
+
+Tags: cellprofiler,bioimage analysis
 
 [https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
 
@@ -152,27 +180,32 @@ licensed GPL-2.0
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
 
-Tags: python
+Tags: python,bioimage analysis
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
 
 ## A Fiji Scripting Tutorial
+By Albert Cardona
 licensed Public_domain
 
 
-Tags: imagej
+Tags: imagej,bioimage analysis
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
 
-## Lecture Applied Bioimage Analysis
+## Lecture Applied Bioimage Analysis 2020
+By Robert Haase
 
 
 
-Tags: imagej
+Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
+
+Tags: imagej,bioimage analysis
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
 ## Image processing with Python
+By Guillaume Witz
 licensed MIT
 
 
@@ -186,7 +219,7 @@ Tags: python
 licensed AGPL-3.0 license
 
 
-Tags: python,R
+Tags: python,R,artificial intelligence
 
 [https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main](https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/tree/main)
 
@@ -194,7 +227,7 @@ Tags: python,R
 licensed CC BY-NC-SA 4.0
 
 
-Tags: python,napari
+Tags: python,napari,bioimage analysis
 
 [https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/#syllabus)
 
@@ -202,7 +235,7 @@ Tags: python,napari
 licensed GPL-3.0
 
 
-Tags: python,napari
+Tags: python,napari,bioimage analysis
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 
@@ -210,6 +243,8 @@ Tags: python,napari
 By Della Chiesa, Stefano
 
 
+
+Tags: research data management
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
@@ -239,6 +274,8 @@ Broad Bioimage Benchmark Collection (BBBC)
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 
+Tags: neubias
+
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
 
 ## DigitalSreeni YouTube Channel
@@ -247,6 +284,8 @@ By Sreeni Bhattiprolu
 
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
+
+Tags: python
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
@@ -260,6 +299,8 @@ A collection tutorial videos for using Python in general and for processing imag
 
 
 
+Tags: bioimage analysis
+
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
 
 ## Open Microscopy Environment YouTube channel
@@ -267,6 +308,8 @@ A collection tutorial videos for using Python in general and for processing imag
 
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+
+Tags: omero
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
 
@@ -279,6 +322,8 @@ YouTube channel collecting videos and webinar recordings about the Open Microsco
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 licensed CC BY-NC-ND 3.0 Deed
 
+
+Tags: bioimage analysis
 
 [https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
 
