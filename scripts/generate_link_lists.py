@@ -112,8 +112,13 @@ def write_md(resources, title, filename):
         title = title[0].upper() + title[1:]
         
         file.write(f"# {title} ({num_items})\n")
+
+        names = resources.keys()
+        names.sort()
         
-        for name, properties in resources.items():
+        for name in names:
+            properties = resources[name]
+            
             print("* ", name)
             file.write("## " + name + '\n')
             if 'authors' in properties:
