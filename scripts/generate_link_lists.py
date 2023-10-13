@@ -3,7 +3,6 @@ def main():
     import os
     from datetime import datetime
 
-    supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog', 'book', 'publication', 'document', 'documentation']
     directory_path = 'resources/'
     
     # Iterate over all files in the directory and accumulate content
@@ -16,19 +15,21 @@ def main():
             print(content.keys())
 
     # Go through all supported content types and generate corresponding markdown files
-    for supported_type in supported_content_types:
+    all_content_types = collect_all_content_types(content)
+    type_toc = ""
+    for supported_type in sorted(list(all_content_types.keys())):
         all = find_type(content, supported_type)
-        write_md(all, supported_type, f"docs/{supported_type}/readme.md")
+
+        filename = "content_types/" + supported_type
+        write_md(all, supported_type, "docs/" + filename + ".md")
+        type_toc = type_toc + "    - file: " + filename + "\n"
+        
 
     # go through all tags and generate corresponding markdown files
     MINIMUM_TAG_COUNT = 5
     all_tag_counts = collect_all_tags(content)
     tag_toc = ""
-
-    tags = list(all_tag_counts.keys())
-    tags.sort()
-    
-    for tag in tags:
+    for tag in sorted(list(all_tag_counts.keys())):
         count = all_tag_counts[tag] 
         if count >= MINIMUM_TAG_COUNT:
             selected_content = find_tag(content, tag)
@@ -60,11 +61,17 @@ def read_yaml_file(filename):
         data = yaml.safe_load(file)
         return data
 
+def collect_all_content_types(content):
+    return collect_all(content, "content_type")
+
 def collect_all_tags(content):
+    return collect_all(content, "tags")
+
+def collect_all(content, what_to_collect):
     all_tags = {}
     for c in content['resources']:
-        if 'tags' in c:
-            tags = c['tags']
+        if what_to_collect in c:
+            tags = c[what_to_collect]
             if type(tags) is not list:
                 tags = [tags]
 
@@ -118,10 +125,7 @@ def write_md(resources, title, filename):
         
         file.write(f"# {title} ({num_items})\n")
 
-        names = list(resources.keys())
-        names.sort()
-        
-        for name in names:
+        for name in sorted(list(resources.keys())):
             properties = resources[name]
             
             print("* ", name)
