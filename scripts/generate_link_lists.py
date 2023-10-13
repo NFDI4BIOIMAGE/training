@@ -108,6 +108,8 @@ def write_md(resources, title, filename):
         print("Printing items of ", title)
 
         num_items = len(resources.keys())
+
+        title = title[0].upper() + title[1:]
         
         file.write(f"# {title} ({num_items})\n")
         
