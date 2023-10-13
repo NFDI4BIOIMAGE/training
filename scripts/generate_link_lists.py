@@ -3,8 +3,10 @@ def main():
     import os
     from datetime import datetime
 
-    supported_content_types = ['collection', 'video', 'slide', 'notebook', 'event', 'blog', 'book', 'publication', 'document', 'documentation']
     directory_path = 'resources/'
+    toc_file = "docs/_toc.yml"
+    readme_file = "docs/readme.md"
+    MINIMUM_TAG_COUNT = 5
     
     # Iterate over all files in the directory and accumulate content
     content = {'resources':[]}
@@ -16,27 +18,32 @@ def main():
             print(content.keys())
 
     # Go through all supported content types and generate corresponding markdown files
-    for supported_type in supported_content_types:
+    all_content_types = collect_all_content_types(content)
+    type_toc = ""
+    for supported_type in sorted(list(all_content_types.keys())):
         all = find_type(content, supported_type)
-        write_md(all, supported_type, f"docs/{supported_type}/readme.md")
+        filename = "content_types/" + supported_type
+        write_md(all, supported_type, "docs/" + filename + ".md")
+        type_toc = type_toc + "    - file: " + filename + "\n"
+    replace_in_file(toc_file, "{type_toc}", type_toc)
+        
 
     # go through all tags and generate corresponding markdown files
-    MINIMUM_TAG_COUNT = 5
     all_tag_counts = collect_all_tags(content)
     tag_toc = ""
-    for tag, count in all_tag_counts.items():
+    for tag in sorted(list(all_tag_counts.keys())):
+        count = all_tag_counts[tag] 
         if count >= MINIMUM_TAG_COUNT:
             selected_content = find_tag(content, tag)
             filename = "tags/" + tag.replace(" ", "_")
             write_md(selected_content, tag, "docs/" + filename + ".md")
             tag_toc += "    - file: " + filename + "\n"    
-    toc_file = "docs/_toc.yml"
     replace_in_file(toc_file, "{tag_toc}", tag_toc)
     
     # Put summary statistics in the main page
     last_updated = datetime.now().strftime('%Y-%m-%d')
     number_of_links = len(content['resources'])
-    readme_file = "docs/readme.md"
+
     replace_in_file(readme_file, "{last_updated}", str(last_updated))
     replace_in_file(readme_file, "{number_of_links}", str(number_of_links))
 
@@ -48,6 +55,7 @@ def replace_in_file(filename, to_replace, replacement):
     with open(filename, 'w') as file:
         file.write(file_contents)    
 
+
 def read_yaml_file(filename):
     """Read a yaml file and return the content as dictionary of dictionaries"""
     import yaml
@@ -55,11 +63,22 @@ def read_yaml_file(filename):
         data = yaml.safe_load(file)
         return data
 
+
+def collect_all_content_types(content):
+    return collect_all(content, "type")
+
+
 def collect_all_tags(content):
+    return collect_all(content, "tags")
+
+
+def collect_all(content, what_to_collect):
     all_tags = {}
     for c in content['resources']:
-        if 'tags' in c:
-            tags = c['tags']
+        if what_to_collect in c:
+            tags = c[what_to_collect]
+            if type(tags) is not list and "," in tags:
+                tags = tags.split(",")
             if type(tags) is not list:
                 tags = [tags]
 
@@ -73,32 +92,24 @@ def collect_all_tags(content):
 
 def find_type(content, content_type):
     """Takes a dictionary of resources, searches for resources of a given type and returns them as new dictionary."""
-    result = {}
-    print("Searching for content_type", content_type)
-    for c in content['resources']:
-        if 'type' in c:
-            try:
-                if content_type in c['type']:
-                    print("* listing", c['name'])
-                    result[c['name']] = c
-            except:
-                raise Exception("Error parsing " + str(c))
-
-    return result
+    return find_anything(content, "type", content_type)
 
 def find_tag(content, tag):
     """Takes a dictionary of resources, searches for resources which have a given tag and returns them as new dictionary."""
+    return find_anything(content, "tags", tag)
+
+def find_anything(content, what_to_look_in, what_to_find):
     result = {}
-    print("Searching for tag", tag)
+    print("Searching for", what_to_look_in, "=", what_to_find)
     for c in content['resources']:
-        if 'tags' in c:
+        if what_to_look_in in c:
             try:
-                tags = [str(t).lower() for t in c['tags']]
-                if tag in tags:
+                if what_to_find in c[what_to_look_in]:
                     print("* listing", c['name'])
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
+
     return result
 
 def write_md(resources, title, filename):
@@ -108,10 +119,14 @@ def write_md(resources, title, filename):
         print("Printing items of ", title)
 
         num_items = len(resources.keys())
+
+        title = title[0].upper() + title[1:]
         
         file.write(f"# {title} ({num_items})\n")
-        
-        for name, properties in resources.items():
+
+        for name in sorted(list(resources.keys())):
+            properties = resources[name]
+            
             print("* ", name)
             file.write("## " + name + '\n')
             if 'authors' in properties:
