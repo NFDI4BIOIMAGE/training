@@ -373,3 +373,12 @@ resources:
   license: CC-BY-NC 4.0
   tags:
   - imagej
+
+- name: Image Analysis Training Resources
+  url: https://neubias.github.io/training-resources/
+  tags:
+  - neubias
+  - bioimage analysis
+  content-type:
+  - book
+  license: CC-BY 4.0
