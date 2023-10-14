@@ -135,7 +135,7 @@ def write_md(resources, title, filename):
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
-                file.write(f"\nBy {authors}\n")
+                file.write(f"\n{authors}\n")
             if 'publication_date' in properties:
                 publication_date = properties['publication_date']
                 file.write(f"\nPublished {publication_date}\n")
@@ -150,7 +150,12 @@ def write_md(resources, title, filename):
                 tags = properties['tags']
                 if type(tags) is list:
                     tags = ", ".join(tags)
-                file.write(f"Tags: {tags}\n")
+                file.write(f"\nTags: {tags}\n")
+            if 'type' in properties:
+                content_type = properties['type']
+                if type(content_type) is list:
+                    content_type = ", ".join(content_type)
+                file.write(f"\nContent type: {content_type}\n")
             if 'url' in properties:
                 url = properties['url']
                 if type(url) is list:
