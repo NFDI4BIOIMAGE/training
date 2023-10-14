@@ -1,12 +1,15 @@
 # Workflow engine (8)
 ## BiaPy: Bioimage analysis pipelines in Python
 
-By Daniel Franco-Barranco et al
+Daniel Franco-Barranco et al
 
 
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
+
 Tags: workflow engine, python
+
+Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
 
@@ -18,7 +21,10 @@ Tags: workflow engine, python
 
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
+
 Tags: workflow engine, python
+
+Content type: documentation
 
 [https://fractal-analytics-platform.github.io/](https://fractal-analytics-platform.github.io/)
 
@@ -30,7 +36,10 @@ Tags: workflow engine, python
 
 
 Galaxy is an open source, web-based platform for data intensive biomedical research.
+
 Tags: workflow engine
+
+Content type: documentation
 
 [https://usegalaxy.org/](https://usegalaxy.org/)
 
@@ -39,12 +48,15 @@ Tags: workflow engine
 
 ## JIPipe: visual batch processing for ImageJ
 
-By Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
 
 
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -55,12 +67,15 @@ Tags: workflow engine, imagej
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-By Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
@@ -71,12 +86,15 @@ Tags: workflow engine, imagej
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-By Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
@@ -90,7 +108,10 @@ Tags: workflow engine, imagej
 
 
 Nextflow enables scalable and reproducible scientific workflows using software containers.
+
 Tags: workflow engine
+
+Content type: documentation
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
 
@@ -102,7 +123,10 @@ Tags: workflow engine
 
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+
 Tags: workflow engine, python
+
+Content type: documentation
 
 [https://snakemake.readthedocs.io/en/stable/](https://snakemake.readthedocs.io/en/stable/)
 

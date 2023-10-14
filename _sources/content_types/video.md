@@ -2,7 +2,10 @@
 ## Bio Image Analysis Lecture 2020
 
 
+
 Tags: bioimage analysis
+
+Content type: collection, video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
 
@@ -11,12 +14,15 @@ Tags: bioimage analysis
 
 ## DigitalSreeni YouTube Channel
 
-By Sreeni Bhattiprolu
+Sreeni Bhattiprolu
 
 
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
+
 Tags: python
+
+Content type: collection, video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
@@ -27,6 +33,8 @@ Tags: python
 
 
 
+Content type: collection, video
+
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
 
 
@@ -35,6 +43,8 @@ Tags: python
 ## Global BioImaging YouTube channel
 
 
+
+Content type: collection, video
 
 [https://www.youtube.com/GlobalBioImaging](https://www.youtube.com/GlobalBioImaging)
 
@@ -46,7 +56,10 @@ Tags: python
 Licensed CC BY-NC-ND 3.0 Deed
 
 
+
 Tags: bioimage analysis
+
+Content type: collection, video
 
 [https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
 
@@ -58,7 +71,10 @@ Tags: bioimage analysis
 
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
+
 Tags: neubias
+
+Content type: collection, video
 
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
 
@@ -70,7 +86,10 @@ Tags: neubias
 
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+
 Tags: omero
+
+Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
 
@@ -79,10 +98,13 @@ Tags: omero
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-By Susanne Kunis
+Susanne Kunis
+
 
 
 Tags: NFDI4BioImage, research data management
+
+Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
 

@@ -1,12 +1,15 @@
 # Notebook (10)
 ## A Fiji Scripting Tutorial
 
-By Albert Cardona
+Albert Cardona
 
 Licensed Public domain
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: notebook
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
 
@@ -15,10 +18,13 @@ Tags: imagej, bioimage analysis
 
 ## BioImage Analysis Notebooks
 
-By Robert Haase et al.
+Robert Haase et al.
+
 
 
 Tags: python, bioimage analysis
+
+Content type: book, notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
@@ -32,7 +38,10 @@ Licensed BSD 3-Clause
 
 
 CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
+
 Tags: cellprofiler, bioimage analysis
+
+Content type: notebook
 
 [https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
 
@@ -44,7 +53,10 @@ Tags: cellprofiler, bioimage analysis
 Licensed AGPL-3.0 license
 
 
+
 Tags: python, R, artificial intelligence
+
+Content type: notebook
 
 [https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/](https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/)
 
@@ -53,14 +65,17 @@ Tags: python, R, artificial intelligence
 
 ## Image processing with Python
 
-By Guillaume Witz
+Guillaume Witz
 
 Licensed MIT
 
 
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
+
 Tags: python
+
+Content type: notebook
 
 [https://github.com/guiwitz/Python_image_processing](https://github.com/guiwitz/Python_image_processing)
 
@@ -69,10 +84,13 @@ Tags: python
 
 ## Introduction to Bioimage Analysis
 
-By Pete Bankhead
+Pete Bankhead
+
 
 
 Tags: python, imagej, bioimage analysis
+
+Content type: book, notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
 
@@ -86,7 +104,10 @@ Licensed GPL-2.0
 
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
+
 Tags: python, bioimage analysis
+
+Content type: notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
 
@@ -96,7 +117,10 @@ Tags: python, bioimage analysis
 ## PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
 
 
+
 Tags: bioimage analysis, python
+
+Content type: event, notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
 
@@ -106,7 +130,10 @@ Tags: bioimage analysis, python
 ## PoL Bio-Image Analysis GPU Accelerated Image Analysis Training School
 
 
+
 Tags: bioimage analysis, python
+
+Content type: event, notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
 
@@ -118,7 +145,10 @@ Tags: bioimage analysis, python
 Licensed GPL-3.0
 
 
+
 Tags: python, napari, bioimage analysis
+
+Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 

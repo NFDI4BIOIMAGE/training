@@ -1,12 +1,15 @@
 # Imagej (16)
 ## A Fiji Scripting Tutorial
 
-By Albert Cardona
+Albert Cardona
 
 Licensed Public domain
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: notebook
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
 
@@ -15,10 +18,13 @@ Tags: imagej, bioimage analysis
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-By Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+
 
 
 Tags: imagej
+
+Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
 
@@ -27,14 +33,17 @@ Tags: imagej
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-By Robert Haase, Loic Royer, et al
+Robert Haase, Loic Royer, et al
 
 Published 2020
 
 
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
+
 Tags: imagej, bioimage analysis
+
+Content type: publication
 
 [https://doi.org/10.1038/s41592-019-0650-1](https://doi.org/10.1038/s41592-019-0650-1)
 
@@ -43,12 +52,15 @@ Tags: imagej, bioimage analysis
 
 ## ImageJ2 API-beating
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -57,10 +69,13 @@ Tags: imagej, bioimage analysis
 
 ## Introduction to Bioimage Analysis
 
-By Pete Bankhead
+Pete Bankhead
+
 
 
 Tags: python, imagej, bioimage analysis
+
+Content type: book, notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
 
@@ -69,9 +84,10 @@ Tags: python, imagej, bioimage analysis
 
 ## Introduction to Image Analysis with Fiji
 
-By Robert Haase, Benoit Lombardot
+Robert Haase, Benoit Lombardot
 
 Licensed CC-BY-NC 4.0
+
 
 
 Tags: imagej
@@ -83,10 +99,13 @@ Tags: imagej
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-By Robert Haase, Benoit Lombardot
+Robert Haase, Benoit Lombardot
+
 
 
 Tags: imagej
+
+Content type: slide
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -95,12 +114,15 @@ Tags: imagej
 
 ## JIPipe: visual batch processing for ImageJ
 
-By Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
 
 
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -111,12 +133,15 @@ Tags: workflow engine, imagej
 
 ## Lecture Applied Bioimage Analysis 2020
 
-By Robert Haase
+Robert Haase
 
 
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -125,12 +150,15 @@ Tags: imagej, bioimage analysis
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-By Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
@@ -141,12 +169,15 @@ Tags: workflow engine, imagej
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-By Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
+
 Tags: workflow engine, imagej
+
+Content type: publication, documentation
 
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
@@ -157,14 +188,17 @@ Tags: workflow engine, imagej
 
 ## Multi-view fusion
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
 
 Lecture slides of a session on Multiview Fusion in Fiji
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -173,12 +207,15 @@ Tags: imagej, bioimage analysis
 
 ## The Fiji Updater
 
-By Robert Haase
+Robert Haase
 
 
 
 Article about the Fiji Updater explaining how it works in the background.
+
 Tags: imagej
+
+Content type: publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000112/](https://analyticalscience.wiley.com/do/10.1002/was.0004000112/)
 
@@ -187,14 +224,17 @@ Tags: imagej
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
 
 Lecture slides of a session on Cell Tracking in Fiji
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -203,12 +243,15 @@ Tags: imagej, bioimage analysis
 
 ## Working with objects in 2D and 3D
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -217,12 +260,15 @@ Tags: imagej, bioimage analysis
 
 ## Working with pixels
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 

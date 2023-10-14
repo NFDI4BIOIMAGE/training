@@ -1,10 +1,13 @@
 # Slide (10)
 ## Generative artificial intelligence for bio-image analysis
 
-By Robert Haase
+Robert Haase
+
 
 
 Tags: python, bioimage analysis, artificial intelligence
+
+Content type: slide
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -13,12 +16,15 @@ Tags: python, bioimage analysis, artificial intelligence
 
 ## ImageJ2 API-beating
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -27,10 +33,13 @@ Tags: imagej, bioimage analysis
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-By Robert Haase, Benoit Lombardot
+Robert Haase, Benoit Lombardot
+
 
 
 Tags: imagej
+
+Content type: slide
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -39,12 +48,15 @@ Tags: imagej
 
 ## Lecture Applied Bioimage Analysis 2020
 
-By Robert Haase
+Robert Haase
 
 
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -53,14 +65,17 @@ Tags: imagej, bioimage analysis
 
 ## Multi-view fusion
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
 
 Lecture slides of a session on Multiview Fusion in Fiji
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -69,10 +84,13 @@ Tags: imagej, bioimage analysis
 
 ## Research Data Management Seminar - Slides
 
-By Della Chiesa, Stefano
+Della Chiesa, Stefano
+
 
 
 Tags: research data management
+
+Content type: slide
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
@@ -81,12 +99,15 @@ Tags: research data management
 
 ## Sharing and licensing material
 
-By Robert Haase
+Robert Haase
 
 
 
 Introduction to sharing resources online and licensing
+
 Tags: sharing, research data management
+
+Content type: slide
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -95,14 +116,17 @@ Tags: sharing, research data management
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
 
 Lecture slides of a session on Cell Tracking in Fiji
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -111,12 +135,15 @@ Tags: imagej, bioimage analysis
 
 ## Working with objects in 2D and 3D
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -125,12 +152,15 @@ Tags: imagej, bioimage analysis
 
 ## Working with pixels
 
-By Robert Haase
+Robert Haase
 
 Licensed BSD 3-Clause
 
 
+
 Tags: imagej, bioimage analysis
+
+Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 

@@ -2,7 +2,10 @@
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 
+
 Tags: omero, python
+
+Content type: blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -12,7 +15,10 @@ Tags: omero, python
 ## OME Documentation
 
 
+
 Tags: omero
+
+Content type: documentation
 
 [https://www.openmicroscopy.org/docs/](https://www.openmicroscopy.org/docs/)
 
@@ -22,7 +28,10 @@ Tags: omero
 ## OME Event Database
 
 
+
 Tags: omero, reseach data management
+
+Content type: collection, event
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -32,7 +41,10 @@ Tags: omero, reseach data management
 ## OMERO Guide
 
 
+
 Tags: omero
+
+Content type: collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
 
@@ -42,7 +54,10 @@ Tags: omero
 ## OMERO documentation
 
 
+
 Tags: omero
+
+Content type: documentation
 
 [https://omero.readthedocs.io/en/stable/](https://omero.readthedocs.io/en/stable/)
 
@@ -51,12 +66,15 @@ Tags: omero
 
 ## OMERO for microscopy research data management
 
-By Thomas Zobel, Sarah Weischner, Jens Wendt
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 
 
 A use case example from the Münster Imaging Network
+
 Tags: NFDI4BioImage, omero, research data management
+
+Content type: publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
 
@@ -66,7 +84,10 @@ Tags: NFDI4BioImage, omero, research data management
 ## OMERO walkthrough example
 
 
+
 Tags: omero
+
+Content type: document
 
 [https://omero-guides.readthedocs.io/en/latest/example.html](https://omero-guides.readthedocs.io/en/latest/example.html)
 
@@ -76,7 +97,10 @@ Tags: omero
 ## OMERO walkthrough for facility managers
 
 
+
 Tags: omero
+
+Content type: document
 
 [https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html](https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html)
 
@@ -88,7 +112,10 @@ Tags: omero
 
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
+
 Tags: omero
+
+Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
 
