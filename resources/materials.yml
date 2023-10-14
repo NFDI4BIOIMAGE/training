@@ -379,6 +379,6 @@ resources:
   tags:
   - neubias
   - bioimage analysis
-  content-type:
+  type:
   - book
   license: CC-BY 4.0
