@@ -14,7 +14,7 @@ parts:
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
   - caption: Contributing
     chapters:
-    - file: contributing/readme
+    - file: contributing/index
     - file: contributing/format
     
   - caption: Appendix
