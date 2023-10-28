@@ -432,4 +432,14 @@ resources:
   tags:
   - deployment
   - python
+
+- name: AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+  authors: Caterina Fuster-Barceló
+  url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
+  type: 
+  - documentation
+  tags:
+  - artificial intelligence
+  - workflow engine
+  - bio-image analysis
   
