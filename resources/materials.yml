@@ -409,3 +409,8 @@ resources:
   - data
   - publication
 
+- name: Omero Deployment examples
+  url: https://github.com/ome/omero-deployment-examples
+  type:
+  - collection
+  
