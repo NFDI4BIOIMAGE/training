@@ -230,3 +230,20 @@ resources:
   tags:
   - meta data
 
+- name: Thinking data management on different scales
+  authors: Susanne Kunis
+  url: https://zenodo.org/records/8329306
+  type: slide
+  tags:
+  - research data management
+  - NFDI4BioImage
+
+- name: Challenges and opportunities for bio-image analysis core-facilities
+  authors: Robert Haase
+  url: https://f1000research.com/slides/12-1054
+  type: slide
+  tags:
+  - research data management
+  - bio-image analysis
+  - NFDI4BioImage
+  
