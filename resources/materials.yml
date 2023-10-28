@@ -414,3 +414,12 @@ resources:
   type:
   - collection
   
+- name: BioEngine
+  authors: Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+  url: https://ai4life.eurobioimaging.eu/announcing-bioengine/
+  description: BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+  type: 
+  - publication
+  tags:
+  - artificial intelligence
+  - workflow engine
