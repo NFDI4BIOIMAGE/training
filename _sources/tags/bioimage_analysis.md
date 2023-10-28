@@ -1,4 +1,4 @@
-# Bioimage analysis (37)
+# Bioimage analysis (39)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -117,6 +117,19 @@ Tags: bioimage analysis
 Content type: collection
 
 [https://biii.eu/training-material](https://biii.eu/training-material)
+
+
+---
+
+## Bioimage Model Zoo
+
+
+
+Tags: bioimage analysis, artificial intelligence
+
+Content type: collection
+
+[https://bioimage.io/](https://bioimage.io/)
 
 
 ---
@@ -307,6 +320,21 @@ Tags: bioimage analysis
 Content type: collection, video
 
 [https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
+
+
+---
+
+## Image Analysis Training Resources
+
+Licensed CC-BY 4.0
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: book
+
+[https://neubias.github.io/training-resources/](https://neubias.github.io/training-resources/)
 
 
 ---

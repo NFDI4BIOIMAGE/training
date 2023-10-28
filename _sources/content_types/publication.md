@@ -1,4 +1,4 @@
-# Publication (35)
+# Publication (37)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -106,6 +106,23 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## BioEngine
+
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+
+
+
+BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+
+Tags: artificial intelligence, workflow engine
+
+Content type: publication
+
+[https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
 
 
 ---
@@ -240,6 +257,19 @@ Tags: bioimage analysis, neubias
 Content type: publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
+
+
+---
+
+## Image Data Resources
+
+
+
+Content type: collection, data, publication
+
+[https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+
+[https://www.nature.com/articles/nmeth.4326](https://www.nature.com/articles/nmeth.4326)
 
 
 ---

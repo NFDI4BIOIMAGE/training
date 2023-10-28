@@ -1,4 +1,19 @@
-# Slide (10)
+# Slide (12)
+## Challenges and opportunities for bio-image analysis core-facilities
+
+Robert Haase
+
+
+
+Tags: research data management, bio-image analysis, NFDI4BioImage
+
+Content type: slide
+
+[https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
+
+
+---
+
 ## Generative artificial intelligence for bio-image analysis
 
 Robert Haase
@@ -110,6 +125,21 @@ Tags: sharing, research data management
 Content type: slide
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
+
+
+---
+
+## Thinking data management on different scales
+
+Susanne Kunis
+
+
+
+Tags: research data management, NFDI4BioImage
+
+Content type: slide
+
+[https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
 
 
 ---

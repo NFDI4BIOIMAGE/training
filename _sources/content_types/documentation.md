@@ -1,4 +1,19 @@
-# Documentation (10)
+# Documentation (12)
+## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+
+Caterina Fuster-Barceló
+
+
+
+Tags: artificial intelligence, workflow engine, bio-image analysis
+
+Content type: documentation
+
+[https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
+
+
+---
+
 ## BiaPy: Bioimage analysis pipelines in Python
 
 Daniel Franco-Barranco et al
@@ -61,6 +76,21 @@ Content type: publication, documentation
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
 [https://jipipe.hki-jena.de/](https://jipipe.hki-jena.de/)
+
+
+---
+
+## Making your package available on conda-forge
+
+Kevin Yamauchi
+
+
+
+Tags: deployment, python
+
+Content type: documentation
+
+[https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html](https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html)
 
 
 ---

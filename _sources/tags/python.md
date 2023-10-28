@@ -1,4 +1,4 @@
-# Python (25)
+# Python (26)
 ## Annotating 3D images in napari
 
 
@@ -194,6 +194,21 @@ Tags: python, imagej, bioimage analysis
 Content type: book, notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Making your package available on conda-forge
+
+Kevin Yamauchi
+
+
+
+Tags: deployment, python
+
+Content type: documentation
+
+[https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html](https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html)
 
 
 ---

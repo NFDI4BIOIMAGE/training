@@ -1,4 +1,4 @@
-# Book (6)
+# Book (7)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -23,6 +23,21 @@ Tags: python, bioimage analysis
 Content type: book, notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
+
+
+---
+
+## Image Analysis Training Resources
+
+Licensed CC-BY 4.0
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: book
+
+[https://neubias.github.io/training-resources/](https://neubias.github.io/training-resources/)
 
 
 ---

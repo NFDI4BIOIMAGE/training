@@ -1,4 +1,4 @@
-# Collection (29)
+# Collection (33)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -66,6 +66,32 @@ Tags: bioimage analysis
 Content type: collection
 
 [https://biii.eu/training-material](https://biii.eu/training-material)
+
+
+---
+
+## Bioimage Archive
+
+
+
+Content type: collection, data, publiction
+
+[https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791](https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791)
+
+
+---
+
+## Bioimage Model Zoo
+
+
+
+Tags: bioimage analysis, artificial intelligence
+
+Content type: collection
+
+[https://bioimage.io/](https://bioimage.io/)
 
 
 ---
@@ -234,6 +260,19 @@ Content type: collection, video
 
 ---
 
+## Image Data Resources
+
+
+
+Content type: collection, data, publication
+
+[https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+
+[https://www.nature.com/articles/nmeth.4326](https://www.nature.com/articles/nmeth.4326)
+
+
+---
+
 ## MicroscopyDB
 
 
@@ -297,6 +336,17 @@ Tags: omero
 Content type: collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
+
+
+---
+
+## Omero Deployment examples
+
+
+
+Content type: collection
+
+[https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
 
 
 ---

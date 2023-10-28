@@ -1,4 +1,19 @@
-# Workflow engine (8)
+# Workflow engine (10)
+## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+
+Caterina Fuster-Barceló
+
+
+
+Tags: artificial intelligence, workflow engine, bio-image analysis
+
+Content type: documentation
+
+[https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
+
+
+---
+
 ## BiaPy: Bioimage analysis pipelines in Python
 
 Daniel Franco-Barranco et al
@@ -12,6 +27,23 @@ Tags: workflow engine, python
 Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
+
+
+---
+
+## BioEngine
+
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+
+
+
+BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+
+Tags: artificial intelligence, workflow engine
+
+Content type: publication
+
+[https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
 
 
 ---

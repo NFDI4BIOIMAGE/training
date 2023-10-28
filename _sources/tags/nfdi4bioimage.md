@@ -1,4 +1,4 @@
-# Nfdi4bioimage (8)
+# Nfdi4bioimage (10)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -10,6 +10,21 @@ Tags: NFDI4BioImage, research data management
 Content type: publication, conference abstract
 
 [https://doi.org/10.52825/cordi.v1i.285](https://doi.org/10.52825/cordi.v1i.285)
+
+
+---
+
+## Challenges and opportunities for bio-image analysis core-facilities
+
+Robert Haase
+
+
+
+Tags: research data management, bio-image analysis, NFDI4BioImage
+
+Content type: slide
+
+[https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
 
 ---
@@ -117,6 +132,21 @@ Tags: NFDI4BioImage, research data management
 Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+
+
+---
+
+## Thinking data management on different scales
+
+Susanne Kunis
+
+
+
+Tags: research data management, NFDI4BioImage
+
+Content type: slide
+
+[https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
 
 
 ---
