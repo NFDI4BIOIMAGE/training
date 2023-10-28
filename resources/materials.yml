@@ -373,3 +373,73 @@ resources:
   license: CC-BY-NC 4.0
   tags:
   - imagej
+
+- name: Image Analysis Training Resources
+  url: https://neubias.github.io/training-resources/
+  tags:
+  - neubias
+  - bioimage analysis
+  type:
+  - book
+  license: CC-BY 4.0
+
+- name: Bioimage Model Zoo
+  url: https://bioimage.io/
+  type:
+  - collection
+  tags:
+  - bioimage analysis
+  - artificial intelligence
+
+- name: Bioimage Archive
+  url: 
+  - https://www.ebi.ac.uk/bioimage-archive/
+  - https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791
+  type:
+  - collection
+  - data
+  - publiction
+
+- name: Image Data Resources
+  url: 
+  - https://idr.openmicroscopy.org/
+  - https://www.nature.com/articles/nmeth.4326
+  type:
+  - collection
+  - data
+  - publication
+
+- name: Omero Deployment examples
+  url: https://github.com/ome/omero-deployment-examples
+  type:
+  - collection
+  
+- name: BioEngine
+  authors: Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+  url: https://ai4life.eurobioimaging.eu/announcing-bioengine/
+  description: BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+  type: 
+  - publication
+  tags:
+  - artificial intelligence
+  - workflow engine
+
+- name: Making your package available on conda-forge
+  authors: Kevin Yamauchi
+  url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
+  type: 
+  - documentation
+  tags:
+  - deployment
+  - python
+
+- name: AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+  authors: Caterina Fuster-Barceló
+  url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
+  type: 
+  - documentation
+  tags:
+  - artificial intelligence
+  - workflow engine
+  - bio-image analysis
+  
