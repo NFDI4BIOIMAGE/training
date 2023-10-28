@@ -423,3 +423,13 @@ resources:
   tags:
   - artificial intelligence
   - workflow engine
+
+- name: Making your package available on conda-forge
+  authors: Kevin Yamauchi
+  url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
+  type: 
+  - documentation
+  tags:
+  - deployment
+  - python
+  
