@@ -1003,14 +1003,6 @@ resources:
   - bioimage analysis
   license: unknown
 
-- name: CellProfiler tutorial pipelines and images
-  url: https://github.com/CellProfiler/tutorials
-  type: tutorial
-  tags:
-  - CellProfiler
-  - bioimage analysis
-  license: BSD 3-clause
-
 - name: Machine Learning Workflow for Imaging Flow Cytometry (IFC)
   url: https://github.com/holgerhennig/machine-learning-IFC
   type: tutorial
@@ -1048,4 +1040,26 @@ resources:
   - video
   - slide
   license: CC BY 4.0
+
+- name: Building a Bioimage Analysis Workflow using Deep Learning
+  url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
+  authors: Estibaliz Gómez-de-Mariscal\
+  type:
+  - slide
+  license: unknown
+
+- name: ZIDAS 2020 Introduction to Deep Learning
+  url: https://github.com/esgomezm/zidas2020_intro_DL
+  authors: Estibaliz Gómez-de-Mariscal
+  type:
+  - slide
+  license: unknown
+
+- name: "Machine Learning - Deep Learning. Applications to Bioimage Analysis"
+  url: https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf
+  authors: Estibaliz Gómez-de-Mariscal
+  type:
+  - slide
+  license: unknown
+
   
