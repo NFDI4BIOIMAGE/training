@@ -1,82 +1,84 @@
 resources:
-- name: "MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text"
-  authors: Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown 
+- authors: "Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S.\
+    \ Itano, Lisa A. Cameron, Guillermo Marqu\xE9s, Caterina Strambio-De-Castillia,\
+    \ Mark A. Sanders, Claire M. Brown"
+  name: 'MethodsJ2: a software tool to capture metadata and generate comprehensive
+    microscopy methods text'
+  tags:
+  - meta data
+  type:
+  - publication
   url: https://www.nature.com/articles/s41592-021-01290-5
-  type: 
-  - publication
+- authors: Alessandro Rigano et al.
+  name: 'Micro-Meta App: an interactive tool for collecting microscopy metadata based
+    on community specifications'
   tags:
   - meta data
-
-- name: "Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications"
-  authors: Alessandro Rigano et al.
+  type:
+  - publication
   url: https://doi.org/10.1038/s41592-021-01315-z
-  type: 
-  - publication
-  tags:
-  - meta data
-
-- name: "Metadata matters: access to image data in the real world"
-  authors: Melissa Linkert et al.
+- authors: Melissa Linkert et al.
+  name: 'Metadata matters: access to image data in the real world'
   publication_date: 2010
-  url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
-  type: 
-  - publication
   tags:
   - meta data
-
-- name: "A call for public archives for biological image data"
-  url: https://www.nature.com/articles/s41592-018-0195-8
-  authors: Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney 
-  type: publication
+  type:
+  - publication
+  url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
+- authors: Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans,
+    Ardan Patwardhan, Alvis Brazma, Ewan Birney
+  name: A call for public archives for biological image data
   tags:
   - research data management
-  
-- name: "2020 BioImage Analysis Survey: Community experiences and needs for the future"
-  url: 
+  type: publication
+  url: https://www.nature.com/articles/s41592-018-0195-8
+- authors: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter,
+    Beth A. Cimini
+  name: '2020 BioImage Analysis Survey: Community experiences and needs for the future'
+  publication_date: 2021
+  tags:
+  - bioimage analysis
+  type: publication
+  url:
   - https://doi.org/10.1017/s2633903x21000039
   - https://github.com/ciminilab/2021_Jamali_BiologicalImaging
-  authors: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
-  publication_date: 2021 
-  type: publication
+- authors: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones,
+    David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
+  name: Bridging Imaging Users to Imaging Analysis - A community survey
+  publication_date: 2023
   tags:
   - bioimage analysis
-
-- name: Bridging Imaging Users to Imaging Analysis - A community survey
-  authors: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
+  type:
+  - publication
+  - preprint
   url:
-  - https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 
+  - https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1
   - https://github.com/COBA-NIH/2023_ImageAnalysisSurvey
-  type: 
-  - publication
-  - preprint
+- authors: Annika Reinke et al
+  description: This article gives a detailed overview about pitfalls when using metric
+    for image analysis algorithm validation.
+  name: Understanding metric-related pitfalls in image analysis validation
   publication_date: 2023
   tags:
   - bioimage analysis
-
-
-- name: Understanding metric-related pitfalls in image analysis validation
-  authors: Annika Reinke et al
-  type: 
+  type:
   - publication
   - preprint
-  publication_date: 2023
   url: https://arxiv.org/abs/2302.01790v3
-  description: This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
-  tags:
-  - bioimage analysis
-
-- name: Building a FAIR image data ecosystem for microscopy communities
-  authors: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur 
-  url: https://link.springer.com/article/10.1007/s00418-023-02203-7
-  type: publication
+- authors: "Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bu\u011F\
+    ra \xD6zdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur"
+  name: Building a FAIR image data ecosystem for microscopy communities
   tags:
   - research data management
-
-- name: A study on long-term reproducibility of image analysis results on ImageJ and Fiji
-  authors: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+  type: publication
+  url: https://link.springer.com/article/10.1007/s00418-023-02203-7
+- authors: Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug,
+    Pavel Tomancak, Eugene W. Myers
+  name: A study on long-term reproducibility of image analysis results on ImageJ and
+    Fiji
+  tags:
+  - imagej
   type:
   - publication
   - poster
   url: https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
-  tags:
-  - imagej

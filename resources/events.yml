@@ -1,55 +1,46 @@
 resources:
 - name: TESS Event database
+  tags:
+  - bioinformatics
   type:
   - collection
   - event
   url: https://tess.elixir-europe.org/events
-  tags:
-  - bioinformatics
-
 - name: Global BioImaging Training Database
+  tags:
+  - bioimage analysis
   type:
   - collection
   - event
   url: https://globalbioimaging.org/international-training-courses
-  tags:
-  - bioimage analysis
-  
 - name: OME Event Database
+  tags:
+  - omero
+  - reseach data management
   type:
   - collection
   - event
   url: https://www.openmicroscopy.org/events/
-  tags:
-  - omero
-  - reseach data management
-  
-- name: EMBO Practical Course Advanced methods in bioimage analysis
-  type: event
-  url: https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/
-  event_date: September 10-15 2023
+- event_date: September 10-15 2023
   event_location: Heidelberg, Germany
+  name: EMBO Practical Course Advanced methods in bioimage analysis
   tags:
   - bioimage analysis
-  
+  type: event
+  url: https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/
 - name: PoL Bio-Image Analysis GPU Accelerated Image Analysis Training School
-  type: 
+  tags:
+  - bioimage analysis
+  - python
+  type:
   - event
   - notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html
+- name: PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
   tags:
   - bioimage analysis
   - python
-  
-- name: PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
-  type: 
+  type:
   - event
   - notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html
-  tags:
-  - bioimage analysis
-  - python
- 
-
-
-  
