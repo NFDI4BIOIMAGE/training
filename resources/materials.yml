@@ -1172,3 +1172,9 @@ Community efforts towards FAIR Image Data and Analysis Services"
   authors: Sébastien Tosi, Volker Baecker, Benjamin Pavie
   type: slide
   license: unknown
+
+- name: BioImage Data Analysis
+  url: https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf
+  authors: Kota Miura
+  type: Book
+  license: unknown
