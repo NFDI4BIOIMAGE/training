@@ -53,9 +53,18 @@ def main():
             license_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{license_toc}", license_toc)
 
+    # go through all authors and generate corresponding markdown files
+    all_author_counts = collect_all(content, "authors")
+    author_toc = ""
+    for author in sorted(list(all_author_counts.keys())):
+        count = all_license_counts[author] 
+        if count >= MINIMUM_ITEM_COUNT:
+            selected_content = find_author(content, license)
+            filename = "authors/" + author.replace(" ", "_")
+            write_md(selected_content, author, "docs/" + filename + ".md")
+            author_toc += "    - file: " + filename + "\n"    
+    replace_in_file(toc_file, "{author_toc}", author_toc)
 
-
-    
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
     duplicate_found = False
