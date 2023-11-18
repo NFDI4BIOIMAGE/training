@@ -18,7 +18,7 @@ resources:
   license: CC BY 4.0
 
 - name: Browsing the Open Microscopy Image Data Resource with Python
-  author: Robert Haase
+  authors: Robert Haase
   type: blog
   url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
   tags:
@@ -39,7 +39,7 @@ resources:
   license: CC BY 4.0
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
-  author: Jennifer Waters
+  authors: Jennifer Waters
   type: blog
   url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
   tags:
@@ -54,7 +54,7 @@ resources:
 
 - name: Tracking in napari
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   tags:
   - python
   - napari
@@ -63,7 +63,7 @@ resources:
 
 - name: Feature extraction in napari
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   tags:
   - python
   - napari
@@ -72,7 +72,7 @@ resources:
 
 - name: Annotating 3D images in napari
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   tags:
   - python
   - napari
@@ -81,7 +81,7 @@ resources:
 
 - name: Managing Scientific Python environments using Conda, Mamba and friends
   type: blog
-  author: Robert Haase
+  authors: Robert Haase
   tags:
   - python
   - conda
@@ -91,7 +91,7 @@ resources:
 
 - name: Quality assurance of segmentation results
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   tags:
   - python
   - napari
@@ -100,7 +100,7 @@ resources:
 
 - name: Rescaling images and pixel (an)isotropy
   type: blog
-  author: Mara Lampert
+  authors: Mara Lampert
   tags:
   - python
   - napari

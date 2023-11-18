@@ -109,7 +109,7 @@ resources:
   description: Research Data Management Information Portal in German
   tags:
   - research data management
-  license: CC0
+  license: public domain
   
 - name: Forschungsdaten.org
   type: collection
@@ -208,6 +208,7 @@ resources:
   - slide
   license: BSD 3-Clause
   tags:
+  - neubias
   - imagej
   - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
@@ -218,6 +219,7 @@ resources:
   - slide
   license: BSD 3-Clause
   tags:
+  - neubias
   - imagej
   - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
@@ -229,6 +231,7 @@ resources:
   - slide
   license: BSD 3-Clause
   tags:
+  - neubias
   - imagej
   - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
@@ -241,6 +244,7 @@ resources:
   - slide
   license: BSD 3-Clause
   tags:
+  - neubias
   - imagej
   - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
@@ -251,6 +255,7 @@ resources:
   - slide
   license: BSD 3-Clause
   tags:
+  - neubias
   - imagej
   - bioimage analysis
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
@@ -362,6 +367,8 @@ resources:
   url: https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf
   authors: Kota Miura
   type: book
+  tags:
+  - bioimage analysis
   license: All Rights Reserved
 
 
@@ -377,6 +384,8 @@ resources:
   type:
   - collection
   - data
+  tags:
+  - bioimage analysis
   license: unknown
 
 - name: Cell Tracking Challenge - 3D Datasets
@@ -384,6 +393,8 @@ resources:
   type:
   - collection
   - data
+  tags:
+  - bioimage analysis
   license: unknown
 
 - name: microlist
@@ -398,14 +409,17 @@ resources:
   type: slide
   tags:
   - imagej
+  - bioimage analysis
   license: unknown
 
 - name: Introduction to Image Analysis with Fiji
   authors: Robert Haase, Benoit Lombardot
   url: https://github.com/mpicbg-scicomp/CourseIntroToIA
-  license: CC-BY NC 4.0
+  license: CC BY NC 4.0
   tags:
   - imagej
+  - fiji
+  - bioimage analysis
 
 - name: Image Analysis Training Resources
   url: https://neubias.github.io/training-resources/
@@ -447,6 +461,8 @@ resources:
   url: https://github.com/ome/omero-deployment-examples
   type:
   - collection
+  tags:
+  - omero
   license: BSD 2-clause
   
 - name: BioEngine
@@ -496,6 +512,8 @@ resources:
   tags:
   - omero
   - research data management
+  - nfdi4bioimage
+  - i3dbio
 
 - name: ITKElastix Examples
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
@@ -506,6 +524,8 @@ resources:
 - name: "EPFLx: Image Processing and Analysis for Life Scientists"
   url: https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists
   type: online course
+  tags:
+  - bioimage analysis
   license: All rights reserved
 
 - name: "Standard and Super-Resolution Bioimaging Data Analysis: A Primer"
@@ -515,24 +535,31 @@ resources:
 
 - name: MorphoLibJ documentation
   url: https://imagej.net/plugins/morpholibj
+  tags:
+  - bioimage analysis
   type: document
 
 - name: Analyzing fluorescence microscopy images with ImageJ
   url: https://petebankhead.gitbooks.io/imagej-intro/content/
   authors: Pete Bankhead
+  tags:
+  - ImageJ
+  - bioimage analysis
   license: unknown
 
 - name: IAFIG-RMS Python for Bioimage Analysis Course
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
   authors: Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
   license: GPL-3.0 license
+  tags:
+  - bioimage analysis
   type: notebook
   
 - name: Center for Microscopy and Image Analysis How-to Guides
   url: https://zmb.dozuki.com/c/Image_Analysis
   type: collection
 
-- name: Fundamentals in digital image_processing
+- name: Fundamentals in digital image processing
   url: https://github.com/guiwitz/Fundamentals_image_processing
   license: unknown
   authors: Guillaume Witz
@@ -605,7 +632,7 @@ resources:
 
 - name: Fundamentals of image analysis in Python with scikit-image, napari, and friends
   url: https://github.com/jni/halfway-to-i2k-skimage-napari
-  author: Juan Nunez-Iglesias
+  authors: Juan Nunez-Iglesias
   tags:
   - Python
   - bioimage analysis
@@ -614,7 +641,7 @@ resources:
 
 - name: Image analysis and visualization in Python with scikit-image, napari, and friends
   url: https://github.com/scipy-2023-image-analysis/tutorial
-  author: Juan Nunez-Iglesias
+  authors: Juan Nunez-Iglesias
   tags:
   - Python
   - bioimage analysis
@@ -667,11 +694,15 @@ resources:
   - https://zenodo.org/records/2643411
   authors: Stephen Royle
   license: GPL-3.0
+  tags:
+  - bioimage analysis
   type: code
 
 - name: "The Digital Cell: Cell Biology as a Data Science"
   url: https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282
   authors: Stephen Royle
+  tags:
+  - bioimage analysis
   type: book
 
 - name: NEUBIAS Bioimage Analyst School 2020
@@ -722,10 +753,13 @@ resources:
 
 - name: "EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus"
   url: https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf
-  author: Kota Miura
+  authors: Kota Miura
   type:
   - tutorial
   - book
+  tags:
+  - neubias
+  - bioimage analysis
   publication_date: 2013
   license: unknown
 
@@ -739,12 +773,17 @@ resources:
   url: https://github.com/tischi/presentation-image-analysis
   type: slide
   license: unknown
+  tags:
+  - bioimage analysis
   authors: Christian Tischer
 
 - name: Python BioImage Analysis Tutorial
   authors: Jonas Hartmann
   url: 
   - https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
+  tags:
+  - Python
+  - bioimage analysis
   license: MIT
 
 - name: Materials for EMBL Coding Club Mini-Tutorials
@@ -782,6 +821,10 @@ resources:
   authors: Carolina Wählby, Maxime Bombrun, Christian Tischer
   type: 
   - tutorial
+  tags:
+  - neubias
+  - CellProfiler
+  - bioimage analysis
   license: unknown
 
 - name: i2k-2020-s3-zarr-workshop
@@ -868,11 +911,17 @@ resources:
 - name: Training Deep Learning Models for Vision - Compact Course
   url: https://github.com/constantinpape/training-deep-learning-models-for-vison
   authors:  Constantin Pape, Adrian Wolny
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
 
 - name: Collection of teaching material for deep learning for (biomedical) image analysis
   url: https://github.com/constantinpape/dl-teaching-resources
   authors: Constantin Pape
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: MIT
 
 - name: Nextflow Demo Pipelines for Image Processing
@@ -944,6 +993,7 @@ resources:
   - slide
   - code
   tags:
+  - neubias
   - ImageJ Macro
   - bioimage analysis
   license: unknown
@@ -954,6 +1004,7 @@ resources:
   type:
   - slide
   tags:
+  - neubias
   - CellProfiler
   - bioimage analysis
   license: unknown
@@ -977,6 +1028,7 @@ resources:
   - notebook
   tags:
   - Python
+  - neubias
   - artificial intelligence
   - bioimage analysis
   license: unknown
@@ -1018,6 +1070,8 @@ resources:
   authors: Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
   type: 
   - book
+  tags:
+  - bioimage analysis
   license: pubic domain
 
 - name: DeepProfiler Handbook
@@ -1042,6 +1096,8 @@ resources:
   - online tutorial
   - video
   - slide
+  tags:
+  - bioimage analysis
   license: CC BY 4.0
 
 - name: Building a Bioimage Analysis Workflow using Deep Learning
@@ -1096,6 +1152,9 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.4330625
   authors: Anna Kreshuk, Dominik Kutra
   type: slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: CC BY 4.0
 
 - name: "CZI: Open Science Program Collection"
@@ -1114,6 +1173,8 @@ resources:
   url: https://zenodo.org/records/4328911
   authors: Peter Bankhead
   type: slide
+  tags:
+  - bioimage analysis
   license: CC BY 4.0
 
 - name: Creating open computational curricula
@@ -1126,6 +1187,9 @@ resources:
   url: https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53
   authors: Guillaume Witz
   type: slide
+  tags:
+  - neubias
+  - bioimage analysis
   license: unknown
   
 - name: "Image Data Services at Euro-BioImaging: 
@@ -1139,6 +1203,9 @@ Community efforts towards FAIR Image Data and Analysis Services"
   url: https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0
   authors: Kota Miura
   type: slide
+  tags:
+  - neubias
+  - bioimage analysis
   license: unknown
   
 - name: OME-Zarr course
@@ -1151,6 +1218,10 @@ Community efforts towards FAIR Image Data and Analysis Services"
   url: https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54
   authors: Ignacio Arganda-Carreras
   type: slide
+  tags:
+  - neubias
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
   
 - name: "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing"
@@ -1165,22 +1236,33 @@ Community efforts towards FAIR Image Data and Analysis Services"
   url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
   authors: Beatriz Serrano-Solano, Björn Grüning
   type: slide
+  tags:
+  - bioimage analysis
   license: unknown
 
 - name: Adding a Workflow to BIAFLOWS
   url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
   authors: Sébastien Tosi, Volker Baecker, Benjamin Pavie
   type: slide
+  tags:
+  - neubias
+  - bioimage analysis
   license: unknown
 
 - name: BioImage Data Analysis
   url: https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf
   authors: Kota Miura
   type: Book
+  tags:
+  - neubias
+  - bioimage analysis
   license: All rights reserved
 
 - name: "DEEP NAPARI : Napari as a tool for deep learning project management"
   url: https://github.com/hereariim/DEEP-NAPARI
   authors: Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
   type: notebook
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown

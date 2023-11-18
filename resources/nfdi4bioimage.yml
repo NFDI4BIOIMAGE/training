@@ -27,7 +27,7 @@ resources:
   - sharing
   - research data management
   description: Introduction to sharing resources online and licensing
-  license: CC BY SA 4.0
+  license: CC BY 4.0
 
 - name: If you license it, it’ll be harder to steal it. Why we should license our work
   authors: Robert Haase
