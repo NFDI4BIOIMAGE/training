@@ -1,4 +1,4 @@
-# Neubias (5)
+# Neubias (10)
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
@@ -67,6 +67,74 @@ Content type: notebook
 
 ---
 
+## NEUBIAS Analyst School 2018
+
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
+
+
+---
+
+## NEUBIAS Bioimage Analyst Course 2017
+
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, tutorial
+
+[https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
+
+
+---
+
+## NEUBIAS Bioimage Analyst School 2019
+
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
+
+
+---
+
+## NEUBIAS Bioimage Analyst School 2020
+
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
+
+
+---
+
 ## NEUBIAS YouTube Channel
 
 
@@ -78,6 +146,23 @@ Tags: neubias
 Content type: collection, video
 
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
+
+
+---
+
+## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
+
+Marion Louveaux
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: code
+
+[https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
 
 
 ---

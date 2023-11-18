@@ -1,4 +1,4 @@
-# Cc by 4.0 (39)
+# Cc by 4.0 (50)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -99,6 +99,23 @@ Content type: blog
 
 ---
 
+## CellTrackColab
+
+Guillaume Jacquemet
+
+Licensed ['MIT', 'CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
+
+[https://github.com/guijacquemet/CellTracksColab](https://github.com/guijacquemet/CellTracksColab)
+
+
+---
+
 ## Challenges and opportunities for bio-image analysis core-facilities
 
 Robert Haase
@@ -150,6 +167,49 @@ Tags: sharing, research data management
 Content type: blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
+
+
+---
+
+## Creating open computational curricula
+
+Kari Jordan, Zhian Kamvar, Toby Hodges
+
+Licensed CC BY 4.0
+
+
+
+Content type: slide
+
+[https://zenodo.org/records/4317149](https://zenodo.org/records/4317149)
+
+
+---
+
+## DL4MicEverywhere
+
+Iván Hidalgo, et al.
+
+Licensed ['CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
+
+
+---
+
+## Data Carpentry for Biologists
+
+Licensed ['CC BY 4.0', 'MIT']
+
+
+
+Content type: tutorial, code
+
+[https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
 
 
 ---
@@ -334,6 +394,23 @@ Content type: book
 
 ---
 
+## Image Processing with Python
+
+Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+
+Licensed CC BY 4.0
+
+
+
+Content type: Python, bioimage analysis
+
+[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+
+[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+
+
+---
+
 ## Introduction to Bioimage Analysis
 
 Pete Bankhead
@@ -400,6 +477,25 @@ Content type: publication
 
 ---
 
+## Methods in bioimage analysis
+
+Christian Tischer
+
+Licensed CC BY 4.0
+
+
+
+Content type: online tutorial, video, slide
+
+[https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
+
+[https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1](https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1)
+
+[https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view](https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view)
+
+
+---
+
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
 Josh Moore, Susanne Kunis
@@ -413,6 +509,23 @@ Tags: NFDI4BioImage
 Content type: publication
 
 [https://ceur-ws.org/Vol-3415/paper-27.pdf](https://ceur-ws.org/Vol-3415/paper-27.pdf)
+
+
+---
+
+## Nextflow: Scalable and reproducible scientific workflows
+
+Evan Floden, Paolo Di Tommaso
+
+Licensed CC BY 4.0
+
+
+
+Tags: workflow engine
+
+Content type: slide
+
+[https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
 
 ---
@@ -449,6 +562,23 @@ Content type: publication
 
 ---
 
+## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
+
+Robert Haase
+
+Licensed CC BY 4.0
+
+
+
+Content type: slide
+
+[https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
+
+[https://doi.org/10.7490/f1000research.1119154.1](https://doi.org/10.7490/f1000research.1119154.1)
+
+
+---
+
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
 Licensed CC BY 4.0
@@ -477,6 +607,21 @@ Tags: QUAREO-LIMI
 Content type: publication
 
 [https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041)
+
+
+---
+
+## QuPath: Open source software for analysing (awkward) images
+
+Peter Bankhead
+
+Licensed CC BY 4.0
+
+
+
+Content type: slide
+
+[https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
 
 
 ---
@@ -662,6 +807,40 @@ Tags: research data management
 Content type: book
 
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
+
+
+---
+
+## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
+
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+
+Licensed ['MIT', 'CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
+
+[https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
+
+[https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+
+
+---
+
+## ilastik: interactive machine learning for (bio)image analysis
+
+Anna Kreshuk, Dominik Kutra
+
+Licensed CC BY 4.0
+
+
+
+Content type: slide
+
+[https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 
 
 ---

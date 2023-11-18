@@ -1,9 +1,9 @@
-# Python (36)
+# Python (47)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -95,11 +95,45 @@ Content type: blog
 
 ---
 
+## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
+
+Martin Weigert
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/maweigert/embo_2022](https://github.com/maweigert/embo_2022)
+
+
+---
+
+## CSBDeep and StarDist @ I2K 2020
+
+Martin Weigert, Uwe Schmidt
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
+
+
+---
+
 ## Course on Deep Learning for imaging using PyTorch
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -116,7 +150,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -144,6 +178,23 @@ Content type: notebook
 
 ---
 
+## Deep Vision and Graphics
+
+Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
+
+Licensed MIT
+
+
+
+Tags: Python, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics)
+
+
+---
+
 ## DigitalSreeni YouTube Channel
 
 Sreeni Bhattiprolu
@@ -157,6 +208,57 @@ Tags: python
 Content type: collection, video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
+
+
+---
+
+## EMBL Deep Learning course 2019 exercises and materials
+
+Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/kreshuklab/teaching-dl-course-2019](https://github.com/kreshuklab/teaching-dl-course-2019)
+
+
+---
+
+## EMBL Deep Learning course 2021/22 exercises and materials
+
+Martin Weigert, Constantin Pape
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/kreshuklab/teaching-dl-course-2022](https://github.com/kreshuklab/teaching-dl-course-2022)
+
+
+---
+
+## EMBL Deep Learning course 2023 exercises and materials
+
+Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
 
 
 ---
@@ -253,6 +355,23 @@ Content type: notebook
 
 ---
 
+## Image processing for beginners
+
+Guillaume Witz
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/PyImageCourse_beginner](https://github.com/guiwitz/PyImageCourse_beginner)
+
+
+---
+
 ## Image processing with Python
 
 Guillaume Witz
@@ -321,6 +440,40 @@ Content type: blog
 
 ---
 
+## Materials for EMBL Coding Club Mini-Tutorials
+
+Jonas Hartmann, et al.
+
+Licensed unknown
+
+
+
+Tags: Python
+
+Content type: code, notebook
+
+[https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
+
+
+---
+
+## Metabolic networks modelling with COBRApy
+
+Karin Sasaki, Aleksej Zelezniak
+
+Licensed unknown
+
+
+
+Tags: Python
+
+Content type: notebook
+
+[https://github.com/karinsasaki/metabolic-networks-modelling](https://github.com/karinsasaki/metabolic-networks-modelling)
+
+
+---
+
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
 Licensed bsd 3-clause
@@ -332,6 +485,23 @@ Tags: Python, neubias, bioimage analysis
 Content type: notebook
 
 [https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
+
+
+---
+
+## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
+
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: slide, notebook
+
+[https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
 
 ---
@@ -396,11 +566,28 @@ Content type: event, notebook
 
 ---
 
+## Python Workshop - Image Processing
+
+Karin Sasaki, Jonas Hartmann
+
+Licensed unknown
+
+
+
+Tags: Python
+
+Content type: code, notebook
+
+[https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
+
+
+---
+
 ## Python for Microscopists
 
 Sreenivas Bhattiprolu
 
-Licensed unclear
+Licensed unknown
 
 
 

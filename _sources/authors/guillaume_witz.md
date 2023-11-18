@@ -1,9 +1,9 @@
-# Guillaume witz (6)
+# Guillaume witz (8)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -20,7 +20,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -37,7 +37,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -54,7 +54,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -63,6 +63,23 @@ Tags: bioimage analysis
 Content type: notebook
 
 [https://github.com/guiwitz/Fundamentals_image_processing](https://github.com/guiwitz/Fundamentals_image_processing)
+
+
+---
+
+## Image processing for beginners
+
+Guillaume Witz
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/PyImageCourse_beginner](https://github.com/guiwitz/PyImageCourse_beginner)
 
 
 ---
@@ -82,6 +99,21 @@ Tags: python
 Content type: notebook
 
 [https://github.com/guiwitz/Python_image_processing](https://github.com/guiwitz/Python_image_processing)
+
+
+---
+
+## Jupyter for interactive cloud computing
+
+Guillaume Witz
+
+Licensed unknown
+
+
+
+Content type: slide
+
+[https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
 
 ---

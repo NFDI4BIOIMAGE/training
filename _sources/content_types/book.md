@@ -1,4 +1,4 @@
-# Book (9)
+# Book (14)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -31,6 +31,55 @@ Content type: book, notebook
 
 ---
 
+## BioImage Data Analysis
+
+Kota Miura
+
+Licensed All rights reserved
+
+
+
+Content type: Book
+
+[https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
+
+
+---
+
+## DeepProfiler Handbook
+
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: book
+
+[https://github.com/cytomining/DeepProfiler-handbook](https://github.com/cytomining/DeepProfiler-handbook)
+
+[https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html](https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html)
+
+
+---
+
+## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
+
+Published 2013
+
+Licensed unknown
+
+
+
+Content type: tutorial, book
+
+[https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
 ## Image Analysis Training Resources
 
 Licensed CC BY 4.0
@@ -42,6 +91,23 @@ Tags: neubias, bioimage analysis
 Content type: book
 
 [https://neubias.github.io/training-resources/](https://neubias.github.io/training-resources/)
+
+
+---
+
+## Image-based Profiling Handbook
+
+Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
+
+Licensed pubic domain
+
+
+
+Content type: book
+
+[https://github.com/cytomining/profiling-handbook](https://github.com/cytomining/profiling-handbook)
+
+[https://cytomining.github.io/profiling-handbook/](https://cytomining.github.io/profiling-handbook/)
 
 
 ---
@@ -106,6 +172,19 @@ Ann Wheeler (Editor), Ricardo Henriques (Editor)
 Content type: book
 
 [https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900](https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900)
+
+
+---
+
+## The Digital Cell: Cell Biology as a Data Science
+
+Stephen Royle
+
+
+
+Content type: book
+
+[https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282](https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282)
 
 
 ---

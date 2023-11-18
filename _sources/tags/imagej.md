@@ -105,7 +105,7 @@ Tags: imagej
 
 Robert Haase, Benoit Lombardot
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -120,7 +120,7 @@ Content type: slide
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 

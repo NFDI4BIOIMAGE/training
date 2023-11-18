@@ -188,7 +188,7 @@ Content type: collection
 
 ## I3D:bio list of online training material
 
-Licensed unclear
+Licensed unknown
 
 
 

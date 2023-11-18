@@ -1,4 +1,4 @@
-# Bsd 3-clause (12)
+# Bsd 3-clause (13)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -76,6 +76,23 @@ Tags: Python, bioimage analysis
 Content type: notebook
 
 [https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
+## Image processing for beginners
+
+Guillaume Witz
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/PyImageCourse_beginner](https://github.com/guiwitz/PyImageCourse_beginner)
 
 
 ---

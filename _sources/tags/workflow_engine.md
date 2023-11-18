@@ -1,9 +1,9 @@
-# Workflow engine (10)
+# Workflow engine (11)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -37,7 +37,7 @@ Content type: documentation
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -84,7 +84,7 @@ Content type: documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -150,6 +150,23 @@ Tags: workflow engine
 Content type: documentation
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
+
+
+---
+
+## Nextflow: Scalable and reproducible scientific workflows
+
+Evan Floden, Paolo Di Tommaso
+
+Licensed CC BY 4.0
+
+
+
+Tags: workflow engine
+
+Content type: slide
+
+[https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
 
 ---

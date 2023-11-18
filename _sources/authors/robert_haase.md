@@ -1,4 +1,4 @@
-# Robert haase (24)
+# Robert haase (26)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -236,7 +236,7 @@ Tags: imagej
 
 Robert Haase, Benoit Lombardot
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -302,6 +302,23 @@ Content type: slide
 
 ---
 
+## NEUBIAS Bioimage Analyst School 2019
+
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
+
+
+---
+
 ## Open microscopy in the life sciences: quo vadis?
 
 Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
@@ -317,6 +334,23 @@ This comment article outlines the current state of the art in open hardware publ
 Content type: publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
+
+
+---
+
+## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
+
+Robert Haase
+
+Licensed CC BY 4.0
+
+
+
+Content type: slide
+
+[https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
+
+[https://doi.org/10.7490/f1000research.1119154.1](https://doi.org/10.7490/f1000research.1119154.1)
 
 
 ---

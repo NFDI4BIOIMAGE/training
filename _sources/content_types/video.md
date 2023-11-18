@@ -1,4 +1,4 @@
-# Video (14)
+# Video (17)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -77,6 +77,17 @@ Content type: collection, video
 
 ---
 
+## How to get started with Jupyter and Colab
+
+
+
+Content type: video
+
+[https://www.youtube.com/watch?v=OH3VKI7ErAE](https://www.youtube.com/watch?v=OH3VKI7ErAE)
+
+
+---
+
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -143,6 +154,25 @@ Content type: collection, video
 
 ---
 
+## Methods in bioimage analysis
+
+Christian Tischer
+
+Licensed CC BY 4.0
+
+
+
+Content type: online tutorial, video, slide
+
+[https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
+
+[https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1](https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1)
+
+[https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view](https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view)
+
+
+---
+
 ## NEUBIAS YouTube Channel
 
 
@@ -169,6 +199,17 @@ Tags: omero
 Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## RDMBites BioImage metadata
+
+
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1](https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1)
 
 
 ---

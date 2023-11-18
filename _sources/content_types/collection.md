@@ -1,4 +1,4 @@
-# Collection (40)
+# Collection (45)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -91,7 +91,7 @@ Content type: collection, data, publiction
 
 ## Bioimage Model Zoo
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -134,9 +134,20 @@ Content type: collection, video
 
 ---
 
+## CZI: Open Science Program Collection
+
+
+
+Content type: collection
+
+[https://zenodo.org/communities/eoss](https://zenodo.org/communities/eoss)
+
+
+---
+
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -149,13 +160,30 @@ Content type: collection, data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unclear
+Licensed unknown
 
 
 
 Content type: collection, data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
+## CellTrackColab
+
+Guillaume Jacquemet
+
+Licensed ['MIT', 'CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
+
+[https://github.com/guijacquemet/CellTracksColab](https://github.com/guijacquemet/CellTracksColab)
 
 
 ---
@@ -167,6 +195,21 @@ Content type: collection, data
 Content type: collection
 
 [https://zmb.dozuki.com/c/Image_Analysis](https://zmb.dozuki.com/c/Image_Analysis)
+
+
+---
+
+## DL4MicEverywhere
+
+Iván Hidalgo, et al.
+
+Licensed ['CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
 
 ---
@@ -248,7 +291,7 @@ Content type: collection
 
 ## GerBI Teaching Resources Link List
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -287,7 +330,7 @@ Content type: collection, video
 
 ## I3D:bio list of online training material
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -463,7 +506,7 @@ Content type: collection, video
 
 Sreenivas Bhattiprolu
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -487,6 +530,17 @@ Tags: research data management
 Content type: collection
 
 [https://github.com/German-BioImaging/RDM4mic/tree/master/presentations](https://github.com/German-BioImaging/RDM4mic/tree/master/presentations)
+
+
+---
+
+## RDMBites BioImage metadata
+
+
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1](https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1)
 
 
 ---
@@ -521,7 +575,7 @@ Content type: collection, event
 
 ## TESS training materials
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -545,6 +599,25 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
+
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+
+Licensed ['MIT', 'CC BY 4.0']
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
+
+[https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
+
+[https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (54)
+# Bioimage analysis (72)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -22,7 +22,7 @@ Content type: publication
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -148,7 +148,7 @@ Content type: collection
 
 ## Bioimage Model Zoo
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -197,6 +197,40 @@ Content type: publication, preprint
 
 ---
 
+## Building a Bioimage Analysis Workflow using Deep Learning
+
+Estibaliz Gómez-de-Mariscal\
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
+
+
+---
+
+## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
+
+Martin Weigert
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/maweigert/embo_2022](https://github.com/maweigert/embo_2022)
+
+
+---
+
 ## CLIJ: GPU-accelerated image processing for everyone
 
 Robert Haase, Loic Royer, et al
@@ -227,6 +261,40 @@ Tags: Bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
+## CSBDeep and StarDist @ I2K 2020
+
+Martin Weigert, Uwe Schmidt
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
+
+
+---
+
+## CellProfiler Introduction
+
+Anna Klemm
+
+Licensed unknown
+
+
+
+Tags: CellProfiler, bioimage analysis
+
+Content type: slide
+
+[https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
 
 ---
@@ -288,7 +356,7 @@ Content type: publication
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -301,11 +369,28 @@ Content type: notebook
 
 ---
 
+## DL@MBL 2021 Exercises
+
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide, notebook
+
+[https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
+
+
+---
+
 ## Dask Course
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -314,6 +399,42 @@ Tags: Python, bioimage analysis, big data
 Content type: notebook
 
 [https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
+
+
+---
+
+## Deep Learning for image analysis - Exercises
+
+Martin Weigert
+
+Licensed unknown
+
+
+
+Tags: Fiji, artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/maweigert/zidas_2020_DL_intro_Part_2](https://github.com/maweigert/zidas_2020_DL_intro_Part_2)
+
+
+---
+
+## DeepProfiler Handbook
+
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: book
+
+[https://github.com/cytomining/DeepProfiler-handbook](https://github.com/cytomining/DeepProfiler-handbook)
+
+[https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html](https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html)
 
 
 ---
@@ -361,7 +482,7 @@ Content type: collection, video
 
 Guillaume Witz
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -483,6 +604,40 @@ Content type: notebook
 
 ---
 
+## Image processing for beginners
+
+Guillaume Witz
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/PyImageCourse_beginner](https://github.com/guiwitz/PyImageCourse_beginner)
+
+
+---
+
+## ImageJ Macro Introduction
+
+Anna Klemm
+
+Licensed unknown
+
+
+
+Tags: ImageJ Macro, bioimage analysis
+
+Content type: slide, code
+
+[https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
+
+
+---
+
 ## ImageJ2 API-beating
 
 Robert Haase
@@ -545,6 +700,38 @@ Tags: imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
+
+
+---
+
+## Machine Learning - Deep Learning. Applications to Bioimage Analysis
+
+Estibaliz Gómez-de-Mariscal
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
+
+
+---
+
+## Machine Learning Workflow for Imaging Flow Cytometry (IFC)
+
+Licensed unknown
+
+
+
+Tags: CellProfiler, bioimage analysis
+
+Content type: tutorial
+
+[https://github.com/holgerhennig/machine-learning-IFC](https://github.com/holgerhennig/machine-learning-IFC)
 
 
 ---
@@ -615,6 +802,91 @@ Content type: notebook
 
 ---
 
+## NEUBIAS Analyst School 2018
+
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
+
+
+---
+
+## NEUBIAS Bioimage Analyst Course 2017
+
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, tutorial
+
+[https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
+
+
+---
+
+## NEUBIAS Bioimage Analyst School 2019
+
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
+
+
+---
+
+## NEUBIAS Bioimage Analyst School 2020
+
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide, code, notebook
+
+[https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
+
+
+---
+
+## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
+
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+
+Licensed unknown
+
+
+
+Tags: Python, artificial intelligence, bioimage analysis
+
+Content type: slide, notebook
+
+[https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
+
+
+---
+
 ## ONBI Image Analysis Course
 
 Mark Jenkinson, Jens Rittscher, Dominic Waithe
@@ -664,7 +936,7 @@ Content type: event, notebook
 
 Sreenivas Bhattiprolu
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -716,6 +988,23 @@ Tags: python, artificial intelligence, bioimage analysis
 Content type: blog
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
+
+
+---
+
+## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
+
+Marion Louveaux
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: code
+
+[https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
 
 
 ---
@@ -850,6 +1139,23 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## ZIDAS 2020 Introduction to Deep Learning
+
+Estibaliz Gómez-de-Mariscal
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 
 
 ---

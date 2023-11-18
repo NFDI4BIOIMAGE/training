@@ -80,7 +80,7 @@ Content type: collection
 
 ## OMERO documentation
 
-Licensed unclear
+Licensed unknown
 
 
 

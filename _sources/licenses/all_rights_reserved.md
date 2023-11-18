@@ -1,4 +1,4 @@
-# All rights reserved (13)
+# All rights reserved (14)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -10,6 +10,21 @@ Licensed All Rights Reserved
 Content type: book
 
 [https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
+
+
+---
+
+## BioImage Data Analysis
+
+Kota Miura
+
+Licensed All rights reserved
+
+
+
+Content type: Book
+
+[https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
 
 
 ---

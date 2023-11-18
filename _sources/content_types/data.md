@@ -31,7 +31,7 @@ Content type: collection, data, publiction
 
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -44,7 +44,7 @@ Content type: collection, data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unclear
+Licensed unknown
 
 
 

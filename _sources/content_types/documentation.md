@@ -3,7 +3,7 @@
 
 Caterina Fuster-Barceló
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -65,7 +65,7 @@ Content type: documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -169,7 +169,7 @@ Content type: documentation
 
 ## OMERO documentation
 
-Licensed unclear
+Licensed unknown
 
 
 

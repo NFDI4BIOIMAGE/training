@@ -122,7 +122,7 @@ Content type: publication
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
-Licensed unclear
+Licensed unknown
 
 
 
@@ -298,7 +298,7 @@ Content type: collection, data, publication
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
