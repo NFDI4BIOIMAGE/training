@@ -58,10 +58,13 @@ def main():
     
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
+    duplicate_found = False
     for url, count in all_urls.items():
         if count > 1:
             print(f"Duplicate entry detected: {url}")
-            raise KeyError(f"Duplicate entry detected: {url}")
+            duplicate_found = True
+    if duplicate_found:
+        raise KeyError(f"Duplicate entries detected! Remove them and rebuild the index.")
     
     # Put summary statistics in the main page
     last_updated = datetime.now().strftime('%Y-%m-%d')

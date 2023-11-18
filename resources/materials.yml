@@ -513,12 +513,6 @@ resources:
   authors: Ann Wheeler (Editor), Ricardo Henriques (Editor)
   type: book
 
-- name: Image processing with Python
-  url: https://github.com/guiwitz/Python_image_processing
-  authors: Guillaume Witz
-  type: notebook
-  license: MIT
-
 - name: MorphoLibJ documentation
   url: https://imagej.net/plugins/morpholibj
   type: document
