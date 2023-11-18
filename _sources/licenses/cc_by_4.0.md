@@ -1,4 +1,4 @@
-# Cc by 4.0 (38)
+# Cc by 4.0 (39)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -275,6 +275,27 @@ Tags: bioimage analysis, neubias
 Content type: publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
+
+
+---
+
+## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Licensed CC BY 4.0
+
+
+
+Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
+
+Tags: omero, research data management
+
+Content type: slide, video
+
+[https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 
 ---
