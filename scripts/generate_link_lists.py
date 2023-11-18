@@ -144,12 +144,15 @@ def update_yaml_file(yaml_filename):
         # Check each URL and extract the Zenodo and DOI URLs
         doi_url = None
         zenodo_url = None
+        github_url = None
         for url in urls:
             url = url.strip()
             if url.startswith('https://zenodo.org/'):
                 zenodo_url = url
             if url.startswith('https://doi.org/'):
                 doi_url = url
+            if url.startswith('https://github.com/'):
+                github_url = url
     
         # If Zenodo URL is found, fetch the metadata and update the entry
         if zenodo_url is not None:
@@ -179,7 +182,11 @@ def update_yaml_file(yaml_filename):
             
             if 'stats'  in zenodo_data.keys():
                 entry['num_downloads'] = zenodo_data['stats']['downloads']
-    
+        if github_url is not None:
+            license = read_github_license(github_url)
+            if license is not None:
+                entry['license'] = license
+            
     # Write the modified content back to the YAML file
     write_yaml_file(yaml_filename, content)
     
@@ -196,6 +203,20 @@ def read_doi(doi):
     data = response.json()
     return data
 
+
+def read_github_license(github_url):
+    import requests
+    import json
+    temp = github_url.split("/")
+    organization = temp[3]
+    repository = temp[4]
+
+    url = f"https://api.github.com/repos/{organization}/{repository}/license"
+    response = requests.get(url)
+    data = response.json()
+    if 'license' in data.keys():
+        return data['license']['key'].replace("-").upper()
+    
 
 def read_zenodo(record):
     
