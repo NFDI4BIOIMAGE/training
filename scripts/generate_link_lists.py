@@ -53,9 +53,19 @@ def main():
             license_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{license_toc}", license_toc)
 
+    # go through all authors and generate corresponding markdown files
+    all_author_counts = collect_all(content, "authors")
+    author_toc = ""
+    for author in sorted(list(all_author_counts.keys())):
+        count = all_author_counts[author] 
+        print("AAACC", author, count)
+        if count >= MINIMUM_ITEM_COUNT:
+            selected_content = find_author(content, author)
+            filename = "authors/" + author.replace(" ", "_")
+            write_md(selected_content, author, "docs/" + filename + ".md")
+            author_toc += "    - file: " + filename + "\n"    
+    replace_in_file(toc_file, "{author_toc}", author_toc)
 
-
-    
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
     duplicate_found = False
@@ -97,11 +107,12 @@ def collect_all(content, what_to_collect):
             tags = c[what_to_collect]
             if type(tags) is not list and "," in tags:
                 tags = tags.split(",")
+                tags = [t.strip() for t in tags]
             if type(tags) is not list:
                 tags = [tags]
 
             for tag in tags:
-                tag = tag.lower()
+                tag = tag.lower().strip()
                 if tag not in all_tags.keys():
                     all_tags[tag] = 1
                 else:
@@ -109,6 +120,10 @@ def collect_all(content, what_to_collect):
     return all_tags
 
 
+def find_author(content, author):
+    """Takes a dictionary of resources, searches for resources of a given author and returns them as new dictionary."""
+    return find_anything(content, "authors", author)
+    
 def find_license(content, license):
     """Takes a dictionary of resources, searches for resources of a given license and returns them as new dictionary."""
     return find_anything(content, "license", license)
@@ -128,16 +143,19 @@ def find_anything(content, what_to_look_in, what_to_find):
         if what_to_look_in in c:
             try:
                 list_to_look_at = c[what_to_look_in]
+                if type(list_to_look_at) is not list and "," in list_to_look_at:
+                    list_to_look_at = list_to_look_at.split(",")
+                    list_to_look_at = [t.strip() for t in list_to_look_at]
                 if type(list_to_look_at) is not list:
                     list_to_look_at = [list_to_look_at]
 
-                list_to_look_at = [str(i).lower() for i in list_to_look_at]
+                list_to_look_at = [str(i).lower().strip() for i in list_to_look_at]
                 if what_to_find in list_to_look_at:
                     print("* listing", c['name'])
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
-
+    print(len(result))
     return result
 
 def write_md(resources, title, filename):
