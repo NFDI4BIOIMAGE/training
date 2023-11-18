@@ -575,4 +575,70 @@ resources:
   - neubias
   - bioimage analysis
   license: bsd 3-clause
-  
+
+- name: Python for Microscopists
+  url: https://github.com/bnsreenu/python_for_microscopists
+  type: 
+  - notebook
+  - collection
+  tags:
+  - Python
+  - bioimage analysis
+  authors: Sreenivas Bhattiprolu
+  license: unclear
+
+- name: Setting up a remote desktop to use Napari in a browser
+  authors: Volker Hilsenstein
+  url: https://github.com/VolkerH/Jupyter-Napari-Desktop
+  type:
+  - tutorial
+  license: unclear
+
+- name: Scientific Visualization: Python + Matplotlib
+  authors: Nicolas P. Rougier
+  url: 
+  - https://github.com/rougier/scientific-visualization-book
+  - https://inria.hal.science/hal-03427242/document
+  type: book
+  tags:
+  - Python
+  license: CC BY NC SA 4.0
+
+- name: Teaching Bioimage Analysis with Python
+  authors: Rafael Camacho
+  url: https://github.com/CamachoDejay/teaching-bioimage-analysis-python
+  license: MIT
+  tags:
+  - Python
+  - bioimage analysis
+    type: tutorial
+
+- name: Teaching ImageJ FIJI
+  authors: Rafael Camacho
+  url: https://github.com/CamachoDejay/Teaching-ImageJ-FIJI
+  license: MIT
+  tags:
+  - Fiji
+  - bioimage analysis
+  type: tutorial
+
+- name: Fundamentals of image analysis in Python with scikit-image, napari, and friends
+  url: https://github.com/jni/halfway-to-i2k-skimage-napari
+  author: Juan Nunez-Iglesias
+  tags:
+  - Python
+  - bioimage analysis
+  type: notebook
+  license: BSD 3-clause
+
+- name: Image analysis and visualization in Python with scikit-image, napari, and friends
+  url: https://github.com/scipy-2023-image-analysis/tutorial
+  author: Juan Nunez-Iglesias
+  tags:
+  - Python
+  - bioimage analysis
+  type: notebook
+  license: BSD 3-clause
+
+
+
