@@ -67,7 +67,7 @@ resources:
   url: https://omero.readthedocs.io/en/stable/
   tags:
   - omero
-  license: unclear
+  license: unknown
   
 - name: OMERO Guide
   type: collection
@@ -101,7 +101,7 @@ resources:
   type: collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
   description: List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
-  license: unclear
+  license: unknown
   
 - name: Forschungsdaten.info
   type: collection
@@ -150,7 +150,7 @@ resources:
   url: https://tess.elixir-europe.org/materials
   tags:
   - bioinformatics
-  license: unclear
+  license: unknown
 
 - name: "I3D:bio list of online training material"
   type:
@@ -159,7 +159,7 @@ resources:
   description: "List of links to training materials by the I3D:bio community."
   tags:
   - research data management
-  license: unclear
+  license: unknown
 
 - name: CellProfiler tutorials
   type:
@@ -377,14 +377,14 @@ resources:
   type:
   - collection
   - data
-  license: unclear
+  license: unknown
 
 - name: Cell Tracking Challenge - 3D Datasets
   url: http://celltrackingchallenge.net/3d-datasets/
   type:
   - collection
   - data
-  license: unclear
+  license: unknown
 
 - name: microlist
   url: https://www.microlist.org/
@@ -398,7 +398,7 @@ resources:
   type: slide
   tags:
   - imagej
-  license: unclear
+  license: unknown
 
 - name: Introduction to Image Analysis with Fiji
   authors: Robert Haase, Benoit Lombardot
@@ -423,7 +423,7 @@ resources:
   tags:
   - bioimage analysis
   - artificial intelligence
-  license: unclear
+  license: unknown
 
 - name: Bioimage Archive
   url: 
@@ -458,7 +458,7 @@ resources:
   tags:
   - artificial intelligence
   - workflow engine
-  license: unclear
+  license: unknown
 
 - name: Making your package available on conda-forge
   authors: Kevin Yamauchi
@@ -479,7 +479,7 @@ resources:
   - artificial intelligence
   - workflow engine
   - bio-image analysis
-  license: unclear
+  license: unknown
 
 
 
@@ -520,7 +520,7 @@ resources:
 - name: Analyzing fluorescence microscopy images with ImageJ
   url: https://petebankhead.gitbooks.io/imagej-intro/content/
   authors: Pete Bankhead
-  license: unclear
+  license: unknown
 
 - name: IAFIG-RMS Python for Bioimage Analysis Course
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
@@ -534,7 +534,7 @@ resources:
 
 - name: Fundamentals in digital image_processing
   url: https://github.com/guiwitz/Fundamentals_image_processing
-  license: unclear
+  license: unknown
   authors: Guillaume Witz
   type: notebook
   tags:
@@ -566,14 +566,14 @@ resources:
   - Python
   - bioimage analysis
   authors: Sreenivas Bhattiprolu
-  license: unclear
+  license: unknown
 
 - name: Setting up a remote desktop to use Napari in a browser
   authors: Volker Hilsenstein
   url: https://github.com/VolkerH/Jupyter-Napari-Desktop
   type:
   - tutorial
-  license: unclear
+  license: unknown
 
 - name: "Scientific Visualization: Python + Matplotlib"
   authors: Nicolas P. Rougier
@@ -629,7 +629,7 @@ resources:
   - Python
   - bioimage analysis
   - big data
-  license: unclear
+  license: unknown
 
 - name: Course on Deep Learning for imaging using PyTorch
   url: https://github.com/guiwitz/DLImaging
@@ -639,7 +639,7 @@ resources:
   - Python
   - bioimage analysis
   - artificial intelligence
-  license: unclear
+  license: unknown
 
 - name: 2022 MIC Workshop on Bioimage processing with Python
   url: https://github.com/guiwitz/MICPy_Workshop_2022
@@ -648,9 +648,539 @@ resources:
   tags:
   - Python
   - bioimage analysis
-  license: unclear
+  license: unknown
 
+- name: NEUBIAS Bioimage Analyst Course 2017
+  url: https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017
+  authors: Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+  type:
+  - slide
+  - tutorial
+  tags:
+  - neubias
+  - bioimage analysis
+  license: unknown
+  
+- name: Code associated with The Digital Cell book
+  url: 
+  - https://github.com/quantixed/TheDigitalCell
+  - https://zenodo.org/records/2643411
+  authors: Stephen Royle
+  license: GPL-3.0
+  type: code
 
+- name: "The Digital Cell: Cell Biology as a Data Science"
+  url: https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282
+  authors: Stephen Royle
+  type: book
 
+- name: NEUBIAS Bioimage Analyst School 2020
+  url: https://github.com/miura/NEUBIAS_AnalystSchool2020
+  authors: Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+  type: 
+  - slide
+  - code
+  - notebook
+  tags:
+  - neubias
+  - bioimage analysis
+  license: unknown
 
+- name: NEUBIAS Bioimage Analyst School 2019
+  url: https://github.com/miura/NEUBIAS_AnalystSchool2019
+  authors: Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+  type:
+  - slide
+  - code
+  - notebook
+  tags:
+  - neubias
+  - bioimage analysis
+  license: unknown
 
+- name: NEUBIAS Analyst School 2018
+  url: https://github.com/miura/NEUBIAS_AnalystSchool2018
+  authors: Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+  type:
+  - slide
+  - code
+  - notebook
+  tags:
+  - neubias
+  - bioimage analysis
+  license: unknown
+
+- name: Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
+  url: https://github.com/marionlouveaux/NEUBIAS2018_TS7/
+  authors: Marion Louveaux
+  type:
+  - code
+  tags:
+  - neubias
+  - bioimage analysis
+  license: unknown
+
+- name: "EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus"
+  url: https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf
+  author: Kota Miura
+  type:
+  - tutorial
+  - book
+  publication_date: 2013
+  license: unknown
+
+- name: Analysis of High-Throughput Microscopy Image Data
+  url: https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md
+  authors: Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
+  publication_date: 2014
+  license: unknown
+
+- name: Bio Image Analysis
+  url: https://github.com/tischi/presentation-image-analysis
+  type: slide
+  license: unknown
+  authors: Christian Tischer
+
+- name: Python BioImage Analysis Tutorial
+  authors: Jonas Hartmann
+  url: 
+  - https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
+  license: MIT
+
+- name: Materials for EMBL Coding Club Mini-Tutorials
+  authors: Jonas Hartmann, et al.
+  url: https://github.com/WhoIsJack/EMBL-CodingClub
+  type: 
+  - code
+  - notebook
+  tags:
+  - Python
+  license: unknown
+
+  
+- name: Python Workshop - Image Processing
+  url: https://github.com/karinsasaki/python-workshop-image-processing
+  authors: Karin Sasaki, Jonas Hartmann
+  type: 
+  - code
+  - notebook
+  tags:
+  - Python
+  license: unknown
+
+- name: Metabolic networks modelling with COBRApy
+  url: https://github.com/karinsasaki/metabolic-networks-modelling
+  authors: Karin Sasaki, Aleksej Zelezniak
+  type: 
+  - notebook
+  tags:
+  - Python
+  license: unknown
+
+- name: CellProfiler Practical NeuBIAS Lisbon 2017
+  url: https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017
+  authors: Carolina Wählby, Maxime Bombrun, Christian Tischer
+  type: 
+  - tutorial
+  license: unknown
+
+- name: i2k-2020-s3-zarr-workshop
+  url: https://github.com/tischi/i2k-2020-s3-zarr-workshop
+  authors: Constantin Pape, Christian Tischer
+  type: 
+  - Python
+  - big data
+  license: unknown
+
+- name: Image Processing with Python
+  url: 
+  - https://datacarpentry.org/image-processing/
+  - https://github.com/datacarpentry/image-processing
+  authors: Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+  type: 
+  - Python
+  - bioimage analysis
+  license: CC BY 4.0
+
+- name: Data Carpentry for Biologists
+  url: https://datacarpentry.org/semester-biology/
+  license: 
+  - CC BY 4.0
+  - MIT
+  type: 
+  - tutorial
+  - code
+
+- name: EMBL Deep Learning course 2019 exercises and materials
+  url: https://github.com/kreshuklab/teaching-dl-course-2019
+  authors: Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
+  type: 
+  - notebook
+  tags: 
+  - Python
+  - artificial intelligence
+  license: unknown
+
+- name: EMBL Deep Learning course 2023 exercises and materials
+  url: https://github.com/kreshuklab/teaching-dl-course-2023
+  authors: Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
+  type: 
+  - notebook
+  tags: 
+  - Python
+  - artificial intelligence
+  license: unknown
+
+- name: EMBL Deep Learning course 2021/22 exercises and materials
+  url: https://github.com/kreshuklab/teaching-dl-course-2022
+  authors: Martin Weigert, Constantin Pape
+  type: 
+  - notebook
+  tags: 
+  - Python
+  - artificial intelligence
+  license: unknown
+  
+- name: Deep Vision and Graphics
+  url: https://github.com/yandexdataschool/deep_vision_and_graphics
+  authors: Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina 
+  type: 
+  - notebook
+  tags: 
+  - Python
+  - artificial intelligence
+  license: MIT
+
+- name: "Kreshuk Lab's EMBL EIPP predoc course teaching material"
+  url: https://github.com/kreshuklab/predoc-course
+  authors: Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona
+  type: 
+  - tutorial
+  tags: 
+  - artificial intelligence
+  license: unknown
+
+- name: Models and Applications for BioImage.IO
+  url: https://github.com/imjoy-team/bioimage-io-resources
+  authors: Wei Ouyang, et al.
+  license: unknown
+
+- name: Training Deep Learning Models for Vision - Compact Course
+  url: https://github.com/constantinpape/training-deep-learning-models-for-vison
+  authors:  Constantin Pape, Adrian Wolny
+  license: unknown
+
+- name: Collection of teaching material for deep learning for (biomedical) image analysis
+  url: https://github.com/constantinpape/dl-teaching-resources
+  authors: Constantin Pape
+  license: MIT
+
+- name: Nextflow Demo Pipelines for Image Processing
+  url: https://github.com/JaneliaSciComp/nf-demos
+  type:
+  - code
+  license: unknown
+
+- name: Source Control Using Git and GitHub
+  url: https://github.com/JaneliaSciComp/2020AprilGitCourse
+  type: 
+  - tutorial
+  license: unknown
+
+- name: "ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy"
+  authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+  url: 
+  - https://github.com/HenriquesLab/ZeroCostDL4Mic
+  - https://www.nature.com/articles/s41467-021-22518-0
+  - https://doi.org/10.1038/s41467-021-22518-0
+  type:
+  - notebook
+  - collection
+  license: 
+  - MIT
+  - CC BY 4.0
+
+- name: DL4MicEverywhere
+  url: https://github.com/HenriquesLab/DL4MicEverywhere
+  authors: Iván Hidalgo, et al.
+  type:
+  - notebook
+  - collection
+  license: 
+  - CC BY 4.0
+
+- name: CellTrackColab
+  authors: Guillaume Jacquemet
+  url: 
+  - https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2
+  - https://github.com/guijacquemet/CellTracksColab
+  type:
+  - notebook
+  - collection
+  license: 
+  - MIT
+  - CC BY 4.0
+
+- name: Image analysis course material
+  url: https://github.com/tischi/image-analysis-course-material
+  authors: Christian Tischer
+  license: MIT 
+  description: Training materials about image registration, big warp and elastix
+
+- name: Image processing for beginners
+  url: https://github.com/guiwitz/PyImageCourse_beginner
+  authors: Guillaume Witz
+  type:
+  - notebook
+  tags:
+  - Python
+  - bioimage analysis
+  license: BSD 3-clause
+
+- name: ImageJ Macro Introduction
+  url: https://github.com/ahklemm/ImageJMacro_Introduction
+  authors: Anna Klemm
+  type:
+  - slide
+  - code
+  tags:
+  - ImageJ Macro
+  - bioimage analysis
+  license: unknown
+
+- name: CellProfiler Introduction
+  url: https://github.com/ahklemm/CellProfiler_Introduction
+  authors: Anna Klemm
+  type:
+  - slide
+  tags:
+  - CellProfiler
+  - bioimage analysis
+  license: unknown
+
+- name: CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
+  url: https://github.com/maweigert/embo_2022
+  authors: Martin Weigert
+  type:
+  - notebook
+  tags:
+  - Python
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: "Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist"
+  url: https://github.com/maweigert/neubias_academy_stardist
+  authors: Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+  type:
+  - slide
+  - notebook
+  tags:
+  - Python
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: CSBDeep and StarDist @ I2K 2020
+  url: https://github.com/maweigert/stardist-i2k
+  authors: Martin Weigert, Uwe Schmidt
+  type:
+  - notebook
+  tags:
+  - Python
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: Deep Learning for image analysis - Exercises
+  url: https://github.com/maweigert/zidas_2020_DL_intro_Part_2
+  authors: Martin Weigert
+  type:
+  - notebook
+  tags:
+  - Fiji
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: Machine Learning Workflow for Imaging Flow Cytometry (IFC)
+  url: https://github.com/holgerhennig/machine-learning-IFC
+  type: tutorial
+  tags:
+  - CellProfiler
+  - bioimage analysis
+  license: unknown
+
+- name: Image-based Profiling Handbook
+  url: 
+  - https://github.com/cytomining/profiling-handbook
+  - https://cytomining.github.io/profiling-handbook/
+  authors: Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
+  type: 
+  - book
+  license: pubic domain
+
+- name: DeepProfiler Handbook
+  url:
+  - https://github.com/cytomining/DeepProfiler-handbook
+  - https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html
+  authors: Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
+  type: 
+  - book
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: Methods in bioimage analysis
+  url: 
+  - https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/
+  - https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1
+  - https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view
+  authors: Christian Tischer
+  type:
+  - online tutorial
+  - video
+  - slide
+  license: CC BY 4.0
+
+- name: Building a Bioimage Analysis Workflow using Deep Learning
+  url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
+  authors: Estibaliz Gómez-de-Mariscal\
+  type:
+  - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: ZIDAS 2020 Introduction to Deep Learning
+  url: https://github.com/esgomezm/zidas2020_intro_DL
+  authors: Estibaliz Gómez-de-Mariscal
+  type:
+  - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: "Machine Learning - Deep Learning. Applications to Bioimage Analysis"
+  url: https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf
+  authors: Estibaliz Gómez-de-Mariscal
+  type:
+  - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: DL@MBL 2021 Exercises
+  url: https://github.com/JLrumberger/DL-MBL-2021
+  authors: Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
+  type:
+  - slide
+  - notebook
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
+
+- name: Galaxy Training Material
+  url: https://github.com/galaxyproject/training-material
+  type:
+  - slides
+  - tutorial
+  license: MIT
+
+- name: "ilastik: interactive machine learning for (bio)image analysis" 
+  url: https://zenodo.org/doi/10.5281/zenodo.4330625
+  authors: Anna Kreshuk, Dominik Kutra
+  type: slide
+  license: CC BY 4.0
+
+- name: "CZI: Open Science Program Collection"
+  url: https://zenodo.org/communities/eoss
+  type: collection
+
+- name: "Nextflow: Scalable and reproducible scientific workflows"
+  url: https://zenodo.org/records/4334697
+  authors: Evan Floden, Paolo Di Tommaso
+  tags:
+  - workflow engine
+  type: slide
+  license: CC BY 4.0
+
+- name: "QuPath: Open source software for analysing (awkward) images"
+  url: https://zenodo.org/records/4328911
+  authors: Peter Bankhead
+  type: slide
+  license: CC BY 4.0
+
+- name: Creating open computational curricula
+  url: https://zenodo.org/records/4317149
+  authors: Kari Jordan, Zhian Kamvar, Toby Hodges
+  type: slide
+  license: CC BY 4.0
+
+- name: "Jupyter for interactive cloud computing"
+  url: https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53
+  authors: Guillaume Witz
+  type: slide
+  license: unknown
+  
+- name: "Image Data Services at Euro-BioImaging: 
+Community efforts towards FAIR Image Data and Analysis Services"
+  url: https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1
+  authors: Aastha Mathur
+  type: slide
+  license: unknown
+
+- name: What is Bioimage Analysis? An Introduction
+  url: https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0
+  authors: Kota Miura
+  type: slide
+  license: unknown
+  
+- name: OME-Zarr course
+  url: https://git.embl.de/oezdemir/course_scripts#ome-zarr-course
+  authors: Bugra Oezdemir, Christian Tischer
+  type: tutorial
+  license: unknown
+
+- name: "Machine and Deep Learning on the cloud: Segmentation"
+  url: https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54
+  authors: Ignacio Arganda-Carreras
+  type: slide
+  license: unknown
+  
+- name: "Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing"
+  url: 
+  - https://f1000research.com/slides/11-1171
+  - https://doi.org/10.7490/f1000research.1119154.1
+  authors: Robert Haase
+  type: slide
+  license: CC BY 4.0
+
+- name: Image analysis in Galaxy
+  url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
+  authors: Beatriz Serrano-Solano, Björn Grüning
+  type: slide
+  license: unknown
+
+- name: Adding a Workflow to BIAFLOWS
+  url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
+  authors: Sébastien Tosi, Volker Baecker, Benjamin Pavie
+  type: slide
+  license: unknown
+
+- name: BioImage Data Analysis
+  url: https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf
+  authors: Kota Miura
+  type: Book
+  license: All rights reserved
+
+- name: "DEEP NAPARI : Napari as a tool for deep learning project management"
+  url: https://github.com/hereariim/DEEP-NAPARI
+  authors: Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
+  type: notebook
+  license: unknown

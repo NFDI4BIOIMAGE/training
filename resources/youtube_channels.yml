@@ -98,4 +98,14 @@ resources:
   tags:
   - Bioimage analysis
   license: All rights reserved
-  
+
+- name: RDMBites BioImage metadata
+  url: https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1
+  type:
+  - collection
+  - video
+
+- name: How to get started with Jupyter and Colab
+  url: https://www.youtube.com/watch?v=OH3VKI7ErAE
+  type:
+  - video
