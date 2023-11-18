@@ -502,11 +502,10 @@ resources:
   tags:
   - bio-image analysis
 
-
-- name: EPFLx: Image Processing and Analysis for Life Scientists
+- name: "EPFLx: Image Processing and Analysis for Life Scientists"
   url: https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists
   type: online course
-  license: All rights reserved.
+  license: All rights reserved
 
 - name: Oxford DTC ONBI Image Analysis course
   url: https://github.com/dwaithe/ONBI_image_analysis
@@ -515,7 +514,7 @@ resources:
   type: 
   - notebook
 
-- name: Standard and Super-Resolution Bioimaging Data Analysis: A Primer
+- name: "Standard and Super-Resolution Bioimaging Data Analysis: A Primer"
   url: https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900
   authors: Ann Wheeler (Editor), Ricardo Henriques (Editor)
   type: book
@@ -530,7 +529,7 @@ resources:
   url: https://imagej.net/plugins/morpholibj
   type: document
 
-- name: iBiology Bioimage Analysis Course: The Life Cycle of an Image Data Set
+- name: "iBiology Bioimage Analysis Course: The Life Cycle of an Image Data Set"
   url: https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
   type:
   - video
@@ -567,7 +566,7 @@ resources:
   - Python
   license: bsd 3-clause
 
-- name: NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
+- name: "NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter"
   url: https://github.com/guiwitz/neubias_academy_biapy
   type: notebook
   tags:
@@ -594,7 +593,7 @@ resources:
   - tutorial
   license: unclear
 
-- name: Scientific Visualization: Python + Matplotlib
+- name: "Scientific Visualization: Python + Matplotlib"
   authors: Nicolas P. Rougier
   url: 
   - https://github.com/rougier/scientific-visualization-book
