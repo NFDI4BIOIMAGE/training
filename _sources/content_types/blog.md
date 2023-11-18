@@ -14,6 +14,8 @@ Content type: blog
 
 ## Browsing the Open Microscopy Image Data Resource with Python
 
+Licensed CC BY 4.0
+
 
 
 Tags: omero, python
@@ -28,6 +30,8 @@ Content type: blog
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -74,6 +78,8 @@ Content type: blog
 
 Mara Lampert
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, conda, mamba
@@ -89,6 +95,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Blog post about why we should license our work and what is important when choosing a license.
@@ -103,6 +111,8 @@ Content type: blog
 ---
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
+
+Licensed CC BY 4.0
 
 
 
@@ -158,6 +168,8 @@ Content type: blog
 
 Marcelo Zoccoler
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, artificial intelligence, bioimage analysis
@@ -187,6 +199,8 @@ Content type: blog
 ## Sharing research data with Zenodo
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 

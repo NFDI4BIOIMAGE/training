@@ -22,6 +22,8 @@ Content type: publication
 
 Josh Moore, Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -36,6 +38,8 @@ Content type: publication, conference abstract
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
+
+Licensed CC BY 4.0
 
 
 
@@ -53,6 +57,8 @@ Content type: publication
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
+
+Licensed BSD 3-Clause
 
 
 
@@ -99,6 +105,8 @@ Content type: publication, poster
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management, bioimage analysis
@@ -113,6 +121,8 @@ Content type: publication
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+
+Licensed unclear
 
 
 
@@ -167,6 +177,8 @@ Robert Haase, Loic Royer, et al
 
 Published 2020
 
+Licensed All Rights Reserved
+
 
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
@@ -183,6 +195,8 @@ Content type: publication
 ## Challenges and opportunities for bioimage analysis core-facilities
 
 Johannes Richard Soltwedel, Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -201,6 +215,8 @@ Content type: publication
 
 Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
+Licensed All Rights Reserved
+
 
 
 Tags: bioimage analysis
@@ -215,6 +231,8 @@ Content type: publication
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -233,6 +251,8 @@ Content type: publication
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
+Licensed CC BY 4.0
+
 
 
 Tags: meta data
@@ -249,6 +269,8 @@ Content type: publication, poster
 Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
+
+Licensed CC BY 4.0
 
 
 
@@ -297,6 +319,8 @@ Content type: publication, documentation
 
 Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -311,6 +335,8 @@ Content type: publication
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
+
+Licensed CC BY 4.0
 
 
 
@@ -412,6 +438,8 @@ Content type: publication, documentation
 
 Schmidt, Christian ; Ferrando-May, Elisa
 
+Licensed CC BY SA 4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -426,6 +454,8 @@ Content type: poster, publication
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
 Josh Moore, Susanne Kunis
+
+Licensed CC BY 4.0
 
 
 
@@ -442,6 +472,8 @@ Content type: publication
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -456,6 +488,8 @@ Content type: publication
 ## OMERO for microscopy research data management
 
 Thomas Zobel, Sarah Weischner, Jens Wendt
+
+Licensed All Rights Reserved
 
 
 
@@ -476,6 +510,8 @@ Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, S
 
 Published 2022
 
+Licensed All Rights Reserved
+
 
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
@@ -490,6 +526,8 @@ Content type: publication
 ## QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy
 
 Glyn Nelson, Ulrike Boehme, et al
+
+Licensed CC BY 4.0
 
 
 
@@ -506,6 +544,8 @@ Content type: publication
 
 Ugis Sarkans et al
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -520,6 +560,8 @@ Content type: publication
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
+
+Licensed CC BY 4.0
 
 
 
@@ -536,6 +578,8 @@ Content type: publication
 
 Susanne Kunis, Karen Bernhardt and Michael Hensel
 
+Licensed Unclear
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -551,6 +595,8 @@ Content type: publication
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
+Licensed CC BY 4.0
+
 
 
 Tags: python
@@ -565,6 +611,8 @@ Content type: publication, preprint
 ## The Fiji Updater
 
 Robert Haase
+
+Licensed All Rights Reserved
 
 
 

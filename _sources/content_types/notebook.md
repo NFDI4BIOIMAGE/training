@@ -3,7 +3,7 @@
 
 Albert Cardona
 
-Licensed Public domain
+Licensed CC0
 
 
 
@@ -19,6 +19,8 @@ Content type: notebook
 ## BioImage Analysis Notebooks
 
 Robert Haase et al.
+
+Licensed ['CC BY 4.0', 'BSD 3-clause']
 
 
 
@@ -85,6 +87,8 @@ Content type: notebook
 ## Introduction to Bioimage Analysis
 
 Pete Bankhead
+
+Licensed CC BY 4.0
 
 
 

@@ -3,6 +3,8 @@
 
 Josh Moore, Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -17,6 +19,8 @@ Content type: publication, conference abstract
 ## Challenges and opportunities for bio-image analysis core-facilities
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -33,6 +37,8 @@ Content type: slide
 
 Schmidt, Christian ; Ferrando-May, Elisa
 
+Licensed CC BY SA 4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -47,6 +53,8 @@ Content type: poster, publication
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
 Josh Moore, Susanne Kunis
+
+Licensed CC BY 4.0
 
 
 
@@ -63,6 +71,8 @@ Content type: publication
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -77,6 +87,8 @@ Content type: publication
 ## OMERO for microscopy research data management
 
 Thomas Zobel, Sarah Weischner, Jens Wendt
+
+Licensed All Rights Reserved
 
 
 
@@ -95,6 +107,8 @@ Content type: publication
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -109,6 +123,8 @@ Content type: publication
 ## Setting up a data management infrastructure for bioimaging
 
 Susanne Kunis, Karen Bernhardt and Michael Hensel
+
+Licensed Unclear
 
 
 
@@ -125,6 +141,8 @@ Content type: publication
 
 Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -139,6 +157,8 @@ Content type: video
 ## Thinking data management on different scales
 
 Susanne Kunis
+
+Licensed CC BY 4.0
 
 
 

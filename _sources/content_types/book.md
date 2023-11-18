@@ -3,6 +3,8 @@
 
 Kota Miura
 
+Licensed All Rights Reserved
+
 
 
 Content type: book
@@ -15,6 +17,8 @@ Content type: book
 ## BioImage Analysis Notebooks
 
 Robert Haase et al.
+
+Licensed ['CC BY 4.0', 'BSD 3-clause']
 
 
 
@@ -29,7 +33,7 @@ Content type: book, notebook
 
 ## Image Analysis Training Resources
 
-Licensed CC-BY 4.0
+Licensed CC BY 4.0
 
 
 
@@ -46,6 +50,8 @@ Content type: book
 
 Pete Bankhead
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, imagej, bioimage analysis
@@ -59,6 +65,8 @@ Content type: book, notebook
 
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
+Licensed CC BY 4.0
+
 
 
 Content type: book
@@ -71,6 +79,8 @@ Content type: book
 ---
 
 ## The Turing Way: Guide for reproducible research
+
+Licensed ['CC BY 4.0', 'MIT']
 
 
 
@@ -86,6 +96,8 @@ Content type: book
 ## Train-the-Trainer Concept on Research Data Management
 
 Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
+
+Licensed CC BY 4.0
 
 
 

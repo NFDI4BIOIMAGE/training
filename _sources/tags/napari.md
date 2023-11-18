@@ -16,7 +16,7 @@ Content type: blog
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed CC BY NC SA 4.0
 
 
 

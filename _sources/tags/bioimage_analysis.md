@@ -22,7 +22,7 @@ Content type: publication
 
 Albert Cardona
 
-Licensed Public domain
+Licensed CC0
 
 
 
@@ -38,6 +38,8 @@ Content type: notebook
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
+
+Licensed CC BY 4.0
 
 
 
@@ -69,6 +71,8 @@ Content type: blog
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management, bioimage analysis
@@ -97,6 +101,8 @@ Content type: collection, video
 
 Robert Haase et al.
 
+Licensed ['CC BY 4.0', 'BSD 3-clause']
+
 
 
 Tags: python, bioimage analysis
@@ -110,6 +116,8 @@ Content type: book, notebook
 
 ## BioImage Informatics Index Training Materials
 
+Licensed ODC BY 1.0
+
 
 
 Tags: bioimage analysis
@@ -122,6 +130,8 @@ Content type: collection
 ---
 
 ## Bioimage Model Zoo
+
+Licensed unclear
 
 
 
@@ -138,7 +148,7 @@ Content type: collection
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed CC BY NC SA 4.0
 
 
 
@@ -176,6 +186,8 @@ Robert Haase, Loic Royer, et al
 
 Published 2020
 
+Licensed All Rights Reserved
+
 
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
@@ -210,6 +222,8 @@ Content type: notebook
 
 Johannes Richard Soltwedel, Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
@@ -226,6 +240,8 @@ Content type: publication
 ## Community-developed checklists for publishing images and image analyses
 
 Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
+
+Licensed All Rights Reserved
 
 
 
@@ -268,6 +284,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, bioimage analysis, artificial intelligence
@@ -298,6 +316,8 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
+Licensed CC BY 4.0
+
 
 
 Tags: bioimage analysis, neubias
@@ -326,7 +346,7 @@ Content type: collection, video
 
 ## Image Analysis Training Resources
 
-Licensed CC-BY 4.0
+Licensed CC BY 4.0
 
 
 
@@ -360,6 +380,8 @@ Content type: slide
 
 Pete Bankhead
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, imagej, bioimage analysis
@@ -391,6 +413,8 @@ Content type: slide
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
+
+Licensed CC BY 4.0
 
 
 
@@ -494,6 +518,8 @@ Content type: blog
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
 Marcelo Zoccoler
+
+Licensed CC BY 4.0
 
 
 

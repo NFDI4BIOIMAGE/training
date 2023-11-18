@@ -3,6 +3,8 @@
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
+Licensed CC BY 4.0
+
 
 
 Tags: meta data
@@ -17,6 +19,8 @@ Content type: publication, poster
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
 Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
+
+Licensed All Rights Reserved
 
 
 
@@ -79,6 +83,8 @@ Content type: publication
 ## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
 Ugis Sarkans et al
+
+Licensed All Rights Reserved
 
 
 

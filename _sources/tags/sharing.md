@@ -3,6 +3,8 @@
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Introduction to version control using git for collaborative, reproducible script editing.
@@ -50,6 +52,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed CC BY SA 4.0
+
 
 
 Introduction to sharing resources online and licensing
@@ -66,6 +70,8 @@ Content type: slide
 ## Sharing research data with Zenodo
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 

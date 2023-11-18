@@ -3,6 +3,8 @@
 
 Caterina Fuster-Barceló
 
+Licensed unclear
+
 
 
 Tags: artificial intelligence, workflow engine, bio-image analysis
@@ -84,6 +86,8 @@ Content type: publication, documentation
 
 Kevin Yamauchi
 
+Licensed CC BY 4.0
+
 
 
 Tags: deployment, python
@@ -150,6 +154,8 @@ Content type: documentation
 
 ## OME Documentation
 
+Licensed CC BY 4.0
+
 
 
 Tags: omero
@@ -162,6 +168,8 @@ Content type: documentation
 ---
 
 ## OMERO documentation
+
+Licensed unclear
 
 
 

@@ -3,6 +3,8 @@
 
 Josh Moore, Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -32,6 +34,8 @@ Content type: publication
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
+
+Licensed CC BY 4.0
 
 
 
@@ -63,6 +67,8 @@ Content type: publication
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management, bio-image analysis, NFDI4BioImage
@@ -77,6 +83,8 @@ Content type: slide
 ## Challenges and opportunities for bioimage analysis core-facilities
 
 Johannes Richard Soltwedel, Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -94,6 +102,8 @@ Content type: publication
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -127,7 +137,7 @@ Content type: blog
 
 Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
 
-Licensed CC-BY 4.0
+Licensed CC BY 4.0
 
 
 
@@ -144,6 +154,8 @@ Content type: document
 
 ## Forschungsdaten.info
 
+Licensed CC0
+
 
 
 Research Data Management Information Portal in German
@@ -159,6 +171,8 @@ Content type: collection
 
 ## Forschungsdaten.org
 
+Licensed CC BY 4.0
+
 
 
 Research Data Management Wiki in German
@@ -173,6 +187,8 @@ Content type: collection
 ---
 
 ## I3D:bio list of online training material
+
+Licensed unclear
 
 
 
@@ -190,6 +206,8 @@ Content type: collection
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -221,6 +239,8 @@ Content type: document
 
 Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -251,6 +271,8 @@ Content type: tutorial
 
 Schmidt, Christian ; Ferrando-May, Elisa
 
+Licensed CC BY SA 4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -266,6 +288,8 @@ Content type: poster, publication
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -280,6 +304,8 @@ Content type: publication
 ## OMERO for microscopy research data management
 
 Thomas Zobel, Sarah Weischner, Jens Wendt
+
+Licensed All Rights Reserved
 
 
 
@@ -309,6 +335,8 @@ Content type: blog
 
 ## RDM4Mic Presentations
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management
@@ -321,6 +349,8 @@ Content type: collection
 ---
 
 ## RDMKit Training Resources
+
+Licensed CC BY 4.0
 
 
 
@@ -337,6 +367,8 @@ Content type: collection
 
 Ugis Sarkans et al
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -351,6 +383,8 @@ Content type: publication
 ## Research Data Management Seminar - Slides
 
 Della Chiesa, Stefano
+
+Licensed CC BY 4.0
 
 
 
@@ -367,6 +401,8 @@ Content type: slide
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -381,6 +417,8 @@ Content type: publication
 ## Setting up a data management infrastructure for bioimaging
 
 Susanne Kunis, Karen Bernhardt and Michael Hensel
+
+Licensed Unclear
 
 
 
@@ -412,6 +450,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed CC BY SA 4.0
+
 
 
 Introduction to sharing resources online and licensing
@@ -428,6 +468,8 @@ Content type: slide
 ## Sharing research data with Zenodo
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -461,6 +503,8 @@ Content type: tutorial
 
 Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -476,6 +520,8 @@ Content type: video
 
 Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management, NFDI4BioImage
@@ -490,6 +536,8 @@ Content type: slide
 ## Train-the-Trainer Concept on Research Data Management
 
 Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
+
+Licensed CC BY 4.0
 
 
 

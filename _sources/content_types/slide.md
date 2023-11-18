@@ -3,6 +3,8 @@
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management, bio-image analysis, NFDI4BioImage
@@ -17,6 +19,8 @@ Content type: slide
 ## Generative artificial intelligence for bio-image analysis
 
 Robert Haase
+
+Licensed CC BY 4.0
 
 
 
@@ -49,6 +53,8 @@ Content type: slide
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
 Robert Haase, Benoit Lombardot
+
+Licensed unclear
 
 
 
@@ -101,6 +107,8 @@ Content type: slide
 
 Della Chiesa, Stefano
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management
@@ -115,6 +123,8 @@ Content type: slide
 ## Sharing and licensing material
 
 Robert Haase
+
+Licensed CC BY SA 4.0
 
 
 
@@ -132,6 +142,8 @@ Content type: slide
 ## Thinking data management on different scales
 
 Susanne Kunis
+
+Licensed CC BY 4.0
 
 
 

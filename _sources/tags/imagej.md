@@ -3,7 +3,7 @@
 
 Albert Cardona
 
-Licensed Public domain
+Licensed CC0
 
 
 
@@ -36,6 +36,8 @@ Content type: publication, poster
 Robert Haase, Loic Royer, et al
 
 Published 2020
+
+Licensed All Rights Reserved
 
 
 
@@ -71,6 +73,8 @@ Content type: slide
 
 Pete Bankhead
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, imagej, bioimage analysis
@@ -86,7 +90,7 @@ Content type: book, notebook
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC-BY-NC 4.0
+Licensed CC-BY NC 4.0
 
 
 
@@ -100,6 +104,8 @@ Tags: imagej
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
 Robert Haase, Benoit Lombardot
+
+Licensed unclear
 
 
 
@@ -208,6 +214,8 @@ Content type: slide
 ## The Fiji Updater
 
 Robert Haase
+
+Licensed All Rights Reserved
 
 
 

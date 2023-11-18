@@ -3,6 +3,8 @@
 
 Caterina Fuster-Barceló
 
+Licensed unclear
+
 
 
 Tags: artificial intelligence, workflow engine, bio-image analysis
@@ -18,6 +20,8 @@ Content type: documentation
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
+Licensed unclear
+
 
 
 BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
@@ -32,6 +36,8 @@ Content type: publication
 ---
 
 ## Bioimage Model Zoo
+
+Licensed unclear
 
 
 
@@ -63,6 +69,8 @@ Content type: notebook
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, bioimage analysis, artificial intelligence
@@ -77,6 +85,8 @@ Content type: slide
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
 Marcelo Zoccoler
+
+Licensed CC BY 4.0
 
 
 

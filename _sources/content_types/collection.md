@@ -3,6 +3,8 @@
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
 
+Licensed BSD 3-Clause
+
 
 
 Content type: collection, publication
@@ -46,6 +48,8 @@ Content type: collection, video
 
 ## Bio.tools database
 
+Licensed CC BY 4.0
+
 
 
 Tags: bioinformatics
@@ -58,6 +62,8 @@ Content type: collection
 ---
 
 ## BioImage Informatics Index Training Materials
+
+Licensed ODC BY 1.0
 
 
 
@@ -85,6 +91,8 @@ Content type: collection, data, publiction
 
 ## Bioimage Model Zoo
 
+Licensed unclear
+
 
 
 Tags: bioimage analysis, artificial intelligence
@@ -100,7 +108,7 @@ Content type: collection
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed CC BY NC SA 4.0
 
 
 
@@ -115,6 +123,8 @@ Content type: collection
 
 ## Cell Tracking Challenge - 2D Datasets
 
+Licensed unclear
+
 
 
 Content type: collection, data
@@ -125,6 +135,8 @@ Content type: collection, data
 ---
 
 ## Cell Tracking Challenge - 3D Datasets
+
+Licensed unclear
 
 
 
@@ -165,6 +177,8 @@ Content type: collection, video
 
 ## Forschungsdaten.info
 
+Licensed CC0
+
 
 
 Research Data Management Information Portal in German
@@ -180,6 +194,8 @@ Content type: collection
 
 ## Forschungsdaten.org
 
+Licensed CC BY 4.0
+
 
 
 Research Data Management Wiki in German
@@ -194,6 +210,8 @@ Content type: collection
 ---
 
 ## GerBI Teaching Resources Link List
+
+Licensed unclear
 
 
 
@@ -231,6 +249,8 @@ Content type: collection, video
 ---
 
 ## I3D:bio list of online training material
+
+Licensed unclear
 
 
 
@@ -274,6 +294,8 @@ Content type: collection, data, publication
 ---
 
 ## MicroscopyDB
+
+Licensed All Rights Reserved
 
 
 
@@ -329,6 +351,8 @@ Content type: collection, event
 
 ## OMERO Guide
 
+Licensed BSD 2-clause
+
 
 
 Tags: omero
@@ -341,6 +365,8 @@ Content type: collection
 ---
 
 ## Omero Deployment examples
+
+Licensed BSD 2-clause
 
 
 
@@ -368,6 +394,8 @@ Content type: collection, video
 
 ## RDM4Mic Presentations
 
+Licensed CC BY 4.0
+
 
 
 Tags: research data management
@@ -380,6 +408,8 @@ Content type: collection
 ---
 
 ## RDMKit Training Resources
+
+Licensed CC BY 4.0
 
 
 
@@ -406,6 +436,8 @@ Content type: collection, event
 ---
 
 ## TESS training materials
+
+Licensed unclear
 
 
 
@@ -434,6 +466,8 @@ Content type: collection, notebook
 ---
 
 ## microlist
+
+Licensed All Rights Reserved
 
 
 

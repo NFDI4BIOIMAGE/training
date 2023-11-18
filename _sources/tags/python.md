@@ -33,6 +33,8 @@ Content type: documentation
 
 Robert Haase et al.
 
+Licensed ['CC BY 4.0', 'BSD 3-clause']
+
 
 
 Tags: python, bioimage analysis
@@ -48,7 +50,7 @@ Content type: book, notebook
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed CC BY NC SA 4.0
 
 
 
@@ -62,6 +64,8 @@ Content type: collection
 ---
 
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Licensed CC BY 4.0
 
 
 
@@ -138,6 +142,8 @@ Content type: documentation
 
 Robert Haase
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, bioimage analysis, artificial intelligence
@@ -152,6 +158,8 @@ Content type: slide
 ## Getting started with Mambaforge and Python
 
 Mara Lampert
+
+Licensed CC BY 4.0
 
 
 
@@ -187,6 +195,8 @@ Content type: notebook
 
 Pete Bankhead
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, imagej, bioimage analysis
@@ -202,6 +212,8 @@ Content type: book, notebook
 
 Kevin Yamauchi
 
+Licensed CC BY 4.0
+
 
 
 Tags: deployment, python
@@ -214,6 +226,8 @@ Content type: documentation
 ---
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
+
+Licensed CC BY 4.0
 
 
 
@@ -314,6 +328,8 @@ Content type: blog
 
 Marcelo Zoccoler
 
+Licensed CC BY 4.0
+
 
 
 Tags: python, artificial intelligence, bioimage analysis
@@ -345,6 +361,8 @@ Content type: documentation
 ## SpatialData: an open and universal data framework for spatial omics
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
+
+Licensed CC BY 4.0
 
 
 

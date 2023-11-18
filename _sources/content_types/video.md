@@ -100,6 +100,8 @@ Content type: collection, video
 
 Susanne Kunis
 
+Licensed CC BY 4.0
+
 
 
 Tags: NFDI4BioImage, research data management

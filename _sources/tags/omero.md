@@ -1,6 +1,8 @@
 # Omero (9)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
+Licensed CC BY 4.0
+
 
 
 Tags: omero, python
@@ -13,6 +15,8 @@ Content type: blog
 ---
 
 ## OME Documentation
+
+Licensed CC BY 4.0
 
 
 
@@ -40,6 +44,8 @@ Content type: collection, event
 
 ## OMERO Guide
 
+Licensed BSD 2-clause
+
 
 
 Tags: omero
@@ -52,6 +58,8 @@ Content type: collection
 ---
 
 ## OMERO documentation
+
+Licensed unclear
 
 
 
@@ -68,6 +76,8 @@ Content type: documentation
 
 Thomas Zobel, Sarah Weischner, Jens Wendt
 
+Licensed All Rights Reserved
+
 
 
 A use case example from the Münster Imaging Network
@@ -83,6 +93,8 @@ Content type: publication
 
 ## OMERO walkthrough example
 
+Licensed BSD 2-clause
+
 
 
 Tags: omero
@@ -95,6 +107,8 @@ Content type: document
 ---
 
 ## OMERO walkthrough for facility managers
+
+Licensed BSD 2-clause
 
 
 

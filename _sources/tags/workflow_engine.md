@@ -3,6 +3,8 @@
 
 Caterina Fuster-Barceló
 
+Licensed unclear
+
 
 
 Tags: artificial intelligence, workflow engine, bio-image analysis
@@ -34,6 +36,8 @@ Content type: documentation
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+
+Licensed unclear
 
 
 
