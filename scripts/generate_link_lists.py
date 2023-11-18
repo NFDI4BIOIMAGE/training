@@ -60,6 +60,7 @@ def main():
     all_urls = collect_all(content, "url")
     for url, count in all_urls.items():
         if count > 1:
+            print(f"Duplicate entry detected: {url}")
             raise KeyError(f"Duplicate entry detected: {url}")
     
     # Put summary statistics in the main page
