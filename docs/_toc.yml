@@ -3,8 +3,12 @@
 
 format: jb-book
 root: readme
-
 parts:
+  - caption: Contributing
+    chapters:
+    - file: contributing/index
+    - file: contributing/format
+
   - caption: By tag
     chapters:
 {tag_toc}
@@ -18,10 +22,7 @@ parts:
 {license_toc}
 
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
-  - caption: Contributing
-    chapters:
-    - file: contributing/index
-    - file: contributing/format
+
     
   - caption: Appendix
     chapters:
