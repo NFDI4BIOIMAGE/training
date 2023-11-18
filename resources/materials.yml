@@ -621,5 +621,36 @@ resources:
   type: notebook
   license: BSD 3-clause
 
+- name: Dask Course
+  authors: Guillaume Witz
+  url: https://github.com/guiwitz/DaskCourse
+  type: notebook
+  tags:
+  - Python
+  - bioimage analysis
+  - big data
+  license: unclear
+
+- name: Course on Deep Learning for imaging using PyTorch
+  url: https://github.com/guiwitz/DLImaging
+  authors: Guillaume Witz
+  type: notebook
+  tags:
+  - Python
+  - bioimage analysis
+  - artificial intelligence
+  license: unclear
+
+- name: 2022 MIC Workshop on Bioimage processing with Python
+  url: https://github.com/guiwitz/MICPy_Workshop_2022
+  authors: Guillaume Witz
+  type: notebook
+  tags:
+  - Python
+  - bioimage analysis
+  license: unclear
+
+
+
 
 
