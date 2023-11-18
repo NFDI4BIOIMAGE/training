@@ -542,7 +542,7 @@ resources:
 
 - name: IAFIG-RMS Python for Bioimage Analysis Course
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
-  authors:Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
+  authors: Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
   license: GPL-3.0 license
   type: notebook
   
