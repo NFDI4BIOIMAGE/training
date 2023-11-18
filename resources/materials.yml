@@ -1027,6 +1027,9 @@ resources:
   authors: Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
   type: 
   - book
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
 
 - name: Methods in bioimage analysis
@@ -1046,6 +1049,9 @@ resources:
   authors: Estibaliz Gómez-de-Mariscal\
   type:
   - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
 
 - name: ZIDAS 2020 Introduction to Deep Learning
@@ -1053,6 +1059,9 @@ resources:
   authors: Estibaliz Gómez-de-Mariscal
   type:
   - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
 
 - name: "Machine Learning - Deep Learning. Applications to Bioimage Analysis"
@@ -1060,6 +1069,18 @@ resources:
   authors: Estibaliz Gómez-de-Mariscal
   type:
   - slide
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   license: unknown
 
-  
+- name: DL@MBL 2021 Exercises
+  url: https://github.com/JLrumberger/DL-MBL-2021
+  authors: Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
+  type:
+  - slide
+  - notebook
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  license: unknown
