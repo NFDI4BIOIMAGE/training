@@ -1,4 +1,21 @@
-# Notebook (17)
+# Notebook (20)
+## 2022 MIC Workshop on Bioimage processing with Python
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
+
+
+---
+
 ## A Fiji Scripting Tutorial
 
 Albert Cardona
@@ -46,6 +63,40 @@ Tags: cellprofiler, bioimage analysis
 Content type: notebook
 
 [https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
+
+
+---
+
+## Course on Deep Learning for imaging using PyTorch
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## Dask Course
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, big data
+
+Content type: notebook
+
+[https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
 
 
 ---

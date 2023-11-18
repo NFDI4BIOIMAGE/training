@@ -1,4 +1,21 @@
-# Unclear (15)
+# Unclear (18)
+## 2022 MIC Workshop on Bioimage processing with Python
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
+
+
+---
+
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -85,6 +102,40 @@ Licensed unclear
 Content type: collection, data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
+## Course on Deep Learning for imaging using PyTorch
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## Dask Course
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, big data
+
+Content type: notebook
+
+[https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
 
 
 ---

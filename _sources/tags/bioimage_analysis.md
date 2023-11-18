@@ -1,4 +1,4 @@
-# Bioimage analysis (51)
+# Bioimage analysis (54)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -14,6 +14,23 @@ Content type: publication
 [https://doi.org/10.1017/s2633903x21000039](https://doi.org/10.1017/s2633903x21000039)
 
 [https://github.com/ciminilab/2021_Jamali_BiologicalImaging](https://github.com/ciminilab/2021_Jamali_BiologicalImaging)
+
+
+---
+
+## 2022 MIC Workshop on Bioimage processing with Python
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
 
 
 ---
@@ -263,6 +280,40 @@ Tags: bioimage analysis
 Content type: publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
+
+
+---
+
+## Course on Deep Learning for imaging using PyTorch
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## Dask Course
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, big data
+
+Content type: notebook
+
+[https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
 
 
 ---

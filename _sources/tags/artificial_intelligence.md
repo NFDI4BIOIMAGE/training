@@ -1,4 +1,4 @@
-# Artificial intelligence (6)
+# Artificial intelligence (7)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -46,6 +46,23 @@ Tags: bioimage analysis, artificial intelligence
 Content type: collection
 
 [https://bioimage.io/](https://bioimage.io/)
+
+
+---
+
+## Course on Deep Learning for imaging using PyTorch
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
 
 
 ---

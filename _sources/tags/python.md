@@ -1,4 +1,21 @@
-# Python (33)
+# Python (36)
+## 2022 MIC Workshop on Bioimage processing with Python
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
+
+
+---
+
 ## Annotating 3D images in napari
 
 
@@ -74,6 +91,40 @@ Tags: omero, python
 Content type: blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
+
+
+---
+
+## Course on Deep Learning for imaging using PyTorch
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, artificial intelligence
+
+Content type: notebook
+
+[https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## Dask Course
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis, big data
+
+Content type: notebook
+
+[https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
 
 
 ---
