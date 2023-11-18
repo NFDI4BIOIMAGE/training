@@ -1,5 +1,7 @@
-# Omero (10)
+# Omero (11)
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
 
 Licensed CC BY 4.0
 
@@ -24,7 +26,7 @@ Licensed CC BY 4.0
 
 Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
 
-Tags: omero, research data management
+Tags: omero, research data management, nfdi4bioimage, i3dbio
 
 Content type: slide, video
 
@@ -138,6 +140,21 @@ Tags: omero
 Content type: document
 
 [https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html](https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html)
+
+
+---
+
+## Omero Deployment examples
+
+Licensed BSD 2-clause
+
+
+
+Tags: omero
+
+Content type: collection
+
+[https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
 
 
 ---

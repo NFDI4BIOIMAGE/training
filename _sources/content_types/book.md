@@ -7,6 +7,8 @@ Licensed All Rights Reserved
 
 
 
+Tags: bioimage analysis
+
 Content type: book
 
 [https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
@@ -39,6 +41,8 @@ Licensed All rights reserved
 
 
 
+Tags: neubias, bioimage analysis
+
 Content type: Book
 
 [https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
@@ -67,11 +71,15 @@ Content type: book
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
+Kota Miura
+
 Published 2013
 
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: tutorial, book
 
@@ -102,6 +110,8 @@ Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Trom
 Licensed pubic domain
 
 
+
+Tags: bioimage analysis
 
 Content type: book
 
@@ -181,6 +191,8 @@ Content type: book
 Stephen Royle
 
 
+
+Tags: bioimage analysis
 
 Content type: book
 

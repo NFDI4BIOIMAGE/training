@@ -143,6 +143,8 @@ Licensed unknown
 
 
 
+Tags: artificial intelligence, bioimage analysis
+
 Content type: notebook
 
 [https://github.com/hereariim/DEEP-NAPARI](https://github.com/hereariim/DEEP-NAPARI)
@@ -299,7 +301,7 @@ Content type: notebook
 
 ---
 
-## Fundamentals in digital image_processing
+## Fundamentals in digital image processing
 
 Guillaume Witz
 
@@ -317,6 +319,8 @@ Content type: notebook
 ---
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -339,6 +343,8 @@ Licensed GPL-3.0 license
 
 
 
+Tags: bioimage analysis
+
 Content type: notebook
 
 [https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis)
@@ -347,6 +353,8 @@ Content type: notebook
 ---
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -522,7 +530,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 

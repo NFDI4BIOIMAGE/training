@@ -98,7 +98,7 @@ Licensed CC BY 4.0
 
 Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
 
-Tags: omero, research data management
+Tags: omero, research data management, nfdi4bioimage, i3dbio
 
 Content type: slide, video
 
@@ -161,6 +161,8 @@ Christian Tischer
 Licensed CC BY 4.0
 
 
+
+Tags: bioimage analysis
 
 Content type: online tutorial, video, slide
 

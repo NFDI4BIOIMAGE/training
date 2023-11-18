@@ -41,6 +41,8 @@ Licensed unknown
 
 
 
+Tags: neubias, bioimage analysis
+
 Content type: slide
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
@@ -71,6 +73,8 @@ Licensed unknown
 
 
 
+Tags: ImageJ, bioimage analysis
+
 [https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
 
 
@@ -83,6 +87,8 @@ Christian Tischer
 Licensed unknown
 
 
+
+Tags: bioimage analysis
 
 Content type: slide
 
@@ -182,6 +188,8 @@ Licensed unknown
 
 
 
+Tags: bioimage analysis
+
 Content type: collection, data
 
 [http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
@@ -194,6 +202,8 @@ Content type: collection, data
 Licensed unknown
 
 
+
+Tags: bioimage analysis
 
 Content type: collection, data
 
@@ -210,7 +220,7 @@ Licensed unknown
 
 
 
-Tags: CellProfiler, bioimage analysis
+Tags: neubias, CellProfiler, bioimage analysis
 
 Content type: slide
 
@@ -226,6 +236,8 @@ Carolina Wählby, Maxime Bombrun, Christian Tischer
 Licensed unknown
 
 
+
+Tags: neubias, CellProfiler, bioimage analysis
 
 Content type: tutorial
 
@@ -258,6 +270,8 @@ Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
 Licensed unknown
 
 
+
+Tags: artificial intelligence, bioimage analysis
 
 Content type: notebook
 
@@ -389,11 +403,15 @@ Content type: notebook
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
+Kota Miura
+
 Published 2013
 
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: tutorial, book
 
@@ -402,7 +420,7 @@ Content type: tutorial, book
 
 ---
 
-## Fundamentals in digital image_processing
+## Fundamentals in digital image processing
 
 Guillaume Witz
 
@@ -474,6 +492,8 @@ Licensed unknown
 
 
 
+Tags: bioimage analysis
+
 Content type: slide
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
@@ -489,7 +509,7 @@ Licensed unknown
 
 
 
-Tags: ImageJ Macro, bioimage analysis
+Tags: neubias, ImageJ Macro, bioimage analysis
 
 Content type: slide, code
 
@@ -506,7 +526,7 @@ Licensed unknown
 
 
 
-Tags: imagej
+Tags: imagej, bioimage analysis
 
 Content type: slide
 
@@ -522,6 +542,8 @@ Guillaume Witz
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: slide
 
@@ -586,6 +608,8 @@ Ignacio Arganda-Carreras
 Licensed unknown
 
 
+
+Tags: neubias, artificial intelligence, bioimage analysis
 
 Content type: slide
 
@@ -717,7 +741,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 
@@ -871,6 +895,8 @@ Licensed unknown
 
 
 
+Tags: artificial intelligence, bioimage analysis
+
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 
 
@@ -883,6 +909,8 @@ Kota Miura
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: slide
 

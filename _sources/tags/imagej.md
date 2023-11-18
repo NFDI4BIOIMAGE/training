@@ -1,4 +1,4 @@
-# Imagej (16)
+# Imagej (17)
 ## A Fiji Scripting Tutorial
 
 Albert Cardona
@@ -27,6 +27,21 @@ Tags: imagej
 Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## Analyzing fluorescence microscopy images with ImageJ
+
+Pete Bankhead
+
+Licensed unknown
+
+
+
+Tags: ImageJ, bioimage analysis
+
+[https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
 
 
 ---
@@ -60,7 +75,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -90,11 +105,11 @@ Content type: book, notebook
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC-BY NC 4.0
+Licensed CC BY NC 4.0
 
 
 
-Tags: imagej
+Tags: imagej, fiji, bioimage analysis
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -109,7 +124,7 @@ Licensed unknown
 
 
 
-Tags: imagej
+Tags: imagej, bioimage analysis
 
 Content type: slide
 
@@ -202,7 +217,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -240,7 +255,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -257,7 +272,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -274,7 +289,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 

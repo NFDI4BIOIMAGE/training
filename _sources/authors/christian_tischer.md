@@ -58,6 +58,8 @@ Licensed unknown
 
 
 
+Tags: bioimage analysis
+
 Content type: slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
@@ -72,6 +74,8 @@ Carolina Wählby, Maxime Bombrun, Christian Tischer
 Licensed unknown
 
 
+
+Tags: neubias, CellProfiler, bioimage analysis
 
 Content type: tutorial
 
@@ -119,6 +123,8 @@ Christian Tischer
 Licensed CC BY 4.0
 
 
+
+Tags: bioimage analysis
 
 Content type: online tutorial, video, slide
 

@@ -7,6 +7,8 @@ Licensed unknown
 
 
 
+Tags: neubias, CellProfiler, bioimage analysis
+
 Content type: tutorial
 
 [https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
@@ -29,11 +31,15 @@ Content type: tutorial, code
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
+Kota Miura
+
 Published 2013
 
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: tutorial, book
 

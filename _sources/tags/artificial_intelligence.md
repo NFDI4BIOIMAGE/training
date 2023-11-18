@@ -1,4 +1,4 @@
-# Artificial intelligence (21)
+# Artificial intelligence (26)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -101,6 +101,21 @@ Content type: notebook
 
 ---
 
+## Collection of teaching material for deep learning for (biomedical) image analysis
+
+Constantin Pape
+
+Licensed MIT
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+[https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
+
+
+---
+
 ## Course on Deep Learning for imaging using PyTorch
 
 Guillaume Witz
@@ -114,6 +129,23 @@ Tags: Python, bioimage analysis, artificial intelligence
 Content type: notebook
 
 [https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## DEEP NAPARI : Napari as a tool for deep learning project management
+
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/hereariim/DEEP-NAPARI](https://github.com/hereariim/DEEP-NAPARI)
 
 
 ---
@@ -305,6 +337,23 @@ Content type: slide
 
 ---
 
+## Machine and Deep Learning on the cloud: Segmentation
+
+Ignacio Arganda-Carreras
+
+Licensed unknown
+
+
+
+Tags: neubias, artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
+
+
+---
+
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
 Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
@@ -313,7 +362,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 
@@ -339,6 +388,21 @@ Content type: blog
 
 ---
 
+## Training Deep Learning Models for Vision - Compact Course
+
+Constantin Pape, Adrian Wolny
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+[https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
 ## ZIDAS 2020 Introduction to Deep Learning
 
 Estibaliz Gómez-de-Mariscal
@@ -352,6 +416,23 @@ Tags: artificial intelligence, bioimage analysis
 Content type: slide
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## ilastik: interactive machine learning for (bio)image analysis
+
+Anna Kreshuk, Dominik Kutra
+
+Licensed CC BY 4.0
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 
 
 ---

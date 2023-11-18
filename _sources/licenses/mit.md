@@ -24,6 +24,8 @@ Licensed MIT
 
 
 
+Tags: artificial intelligence, bioimage analysis
+
 [https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
 
 
@@ -113,6 +115,8 @@ Jonas Hartmann
 Licensed MIT
 
 
+
+Tags: Python, bioimage analysis
 
 [https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
 

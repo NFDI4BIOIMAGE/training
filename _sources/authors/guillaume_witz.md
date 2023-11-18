@@ -50,7 +50,7 @@ Content type: notebook
 
 ---
 
-## Fundamentals in digital image_processing
+## Fundamentals in digital image processing
 
 Guillaume Witz
 
@@ -110,6 +110,8 @@ Guillaume Witz
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: slide
 

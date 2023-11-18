@@ -154,7 +154,7 @@ Content type: document
 
 ## Forschungsdaten.info
 
-Licensed CC0
+Licensed public domain
 
 
 
@@ -213,7 +213,7 @@ Licensed CC BY 4.0
 
 Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
 
-Tags: omero, research data management
+Tags: omero, research data management, nfdi4bioimage, i3dbio
 
 Content type: slide, video
 
@@ -343,6 +343,8 @@ Content type: publication
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
 
+Jennifer Waters
+
 
 
 Tags: research data management
@@ -471,7 +473,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY SA 4.0
+Licensed CC BY 4.0
 
 
 

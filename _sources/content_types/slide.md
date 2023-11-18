@@ -7,6 +7,8 @@ Licensed unknown
 
 
 
+Tags: neubias, bioimage analysis
+
 Content type: slide
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
@@ -21,6 +23,8 @@ Christian Tischer
 Licensed unknown
 
 
+
+Tags: bioimage analysis
 
 Content type: slide
 
@@ -54,7 +58,7 @@ Licensed unknown
 
 
 
-Tags: CellProfiler, bioimage analysis
+Tags: neubias, CellProfiler, bioimage analysis
 
 Content type: slide
 
@@ -139,7 +143,7 @@ Licensed CC BY 4.0
 
 Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
 
-Tags: omero, research data management
+Tags: omero, research data management, nfdi4bioimage, i3dbio
 
 Content type: slide, video
 
@@ -173,6 +177,8 @@ Licensed unknown
 
 
 
+Tags: bioimage analysis
+
 Content type: slide
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
@@ -188,7 +194,7 @@ Licensed unknown
 
 
 
-Tags: ImageJ Macro, bioimage analysis
+Tags: neubias, ImageJ Macro, bioimage analysis
 
 Content type: slide, code
 
@@ -205,7 +211,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -222,7 +228,7 @@ Licensed unknown
 
 
 
-Tags: imagej
+Tags: imagej, bioimage analysis
 
 Content type: slide
 
@@ -238,6 +244,8 @@ Guillaume Witz
 Licensed unknown
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: slide
 
@@ -288,6 +296,8 @@ Licensed unknown
 
 
 
+Tags: neubias, artificial intelligence, bioimage analysis
+
 Content type: slide
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
@@ -302,6 +312,8 @@ Christian Tischer
 Licensed CC BY 4.0
 
 
+
+Tags: bioimage analysis
 
 Content type: online tutorial, video, slide
 
@@ -324,7 +336,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -409,7 +421,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 
@@ -460,6 +472,8 @@ Licensed CC BY 4.0
 
 
 
+Tags: bioimage analysis
+
 Content type: slide
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
@@ -488,7 +502,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY SA 4.0
+Licensed CC BY 4.0
 
 
 
@@ -530,7 +544,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -547,6 +561,8 @@ Licensed unknown
 
 
 
+Tags: neubias, bioimage analysis
+
 Content type: slide
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
@@ -562,7 +578,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -579,7 +595,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -612,6 +628,8 @@ Anna Kreshuk, Dominik Kutra
 Licensed CC BY 4.0
 
 
+
+Tags: artificial intelligence, bioimage analysis
 
 Content type: slide
 

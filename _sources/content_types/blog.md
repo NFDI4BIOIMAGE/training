@@ -1,6 +1,8 @@
 # Blog (15)
 ## Annotating 3D images in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -13,6 +15,8 @@ Content type: blog
 ---
 
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
 
 Licensed CC BY 4.0
 
@@ -63,6 +67,8 @@ Content type: blog
 
 ## Feature extraction in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -112,6 +118,8 @@ Content type: blog
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
+Robert Haase
+
 Licensed CC BY 4.0
 
 
@@ -127,6 +135,8 @@ Content type: blog
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
 
+Jennifer Waters
+
 
 
 Tags: research data management
@@ -140,6 +150,8 @@ Content type: blog
 
 ## Quality assurance of segmentation results
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -152,6 +164,8 @@ Content type: blog
 ---
 
 ## Rescaling images and pixel (an)isotropy
+
+Mara Lampert
 
 
 
@@ -216,6 +230,8 @@ Content type: blog
 ---
 
 ## Tracking in napari
+
+Mara Lampert
 
 
 

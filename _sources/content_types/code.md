@@ -7,6 +7,8 @@ Licensed GPL-3.0
 
 
 
+Tags: bioimage analysis
+
 Content type: code
 
 [https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
@@ -37,7 +39,7 @@ Licensed unknown
 
 
 
-Tags: ImageJ Macro, bioimage analysis
+Tags: neubias, ImageJ Macro, bioimage analysis
 
 Content type: slide, code
 

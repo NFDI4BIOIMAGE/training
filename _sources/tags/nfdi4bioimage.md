@@ -1,4 +1,4 @@
-# Nfdi4bioimage (10)
+# Nfdi4bioimage (11)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -29,6 +29,27 @@ Tags: research data management, bio-image analysis, NFDI4BioImage
 Content type: slide
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
+
+
+---
+
+## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Licensed CC BY 4.0
+
+
+
+Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
+
+Tags: omero, research data management, nfdi4bioimage, i3dbio
+
+Content type: slide, video
+
+[https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 
 ---

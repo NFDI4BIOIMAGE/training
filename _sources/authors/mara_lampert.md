@@ -1,4 +1,4 @@
-# Napari (7)
+# Mara lampert (6)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -14,23 +14,6 @@ Content type: blog
 
 ---
 
-## Bioimage analysis with Napari
-
-Fabrizio Musacchio
-
-Licensed CC BY NC SA 4.0
-
-
-
-Tags: python, napari, bioimage analysis
-
-Content type: collection
-
-[https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/)
-
-
----
-
 ## Feature extraction in napari
 
 Mara Lampert
@@ -42,6 +25,23 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+
+
+---
+
+## Getting started with Mambaforge and Python
+
+Mara Lampert
+
+Licensed CC BY 4.0
+
+
+
+Tags: python, conda, mamba
+
+Content type: blog
+
+[https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
 
 ---
@@ -87,21 +87,6 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
-
-
----
-
-## ZEN & Python workshop
-
-Licensed GPL-3.0
-
-
-
-Tags: python, napari, bioimage analysis
-
-Content type: collection, notebook
-
-[https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 
 
 ---

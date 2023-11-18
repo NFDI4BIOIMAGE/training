@@ -7,6 +7,8 @@ Licensed All Rights Reserved
 
 
 
+Tags: bioimage analysis
+
 Content type: book
 
 [https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
@@ -21,6 +23,8 @@ Kota Miura
 Licensed All rights reserved
 
 
+
+Tags: neubias, bioimage analysis
 
 Content type: Book
 
@@ -72,6 +76,8 @@ Content type: publication
 Licensed All rights reserved
 
 
+
+Tags: bioimage analysis
 
 Content type: online course
 

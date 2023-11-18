@@ -1,4 +1,4 @@
-# Robert haase (26)
+# Robert haase (28)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -29,6 +29,23 @@ Tags: imagej
 Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
+
+Licensed CC BY 4.0
+
+
+
+Tags: omero, python
+
+Content type: blog
+
+[https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
 
 ---
@@ -208,7 +225,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -221,11 +238,11 @@ Content type: slide
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC-BY NC 4.0
+Licensed CC BY NC 4.0
 
 
 
-Tags: imagej
+Tags: imagej, fiji, bioimage analysis
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -240,7 +257,7 @@ Licensed unknown
 
 
 
-Tags: imagej
+Tags: imagej, bioimage analysis
 
 Content type: slide
 
@@ -262,6 +279,23 @@ Tags: imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
+
+
+---
+
+## Managing Scientific Python environments using Conda, Mamba and friends
+
+Robert Haase
+
+Licensed CC BY 4.0
+
+
+
+Tags: python, conda, mamba
+
+Content type: blog
+
+[https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
 
 
 ---
@@ -293,7 +327,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -359,7 +393,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY SA 4.0
+Licensed CC BY 4.0
 
 
 
@@ -422,7 +456,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -439,7 +473,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -456,7 +490,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 

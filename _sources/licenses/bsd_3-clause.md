@@ -52,6 +52,8 @@ Content type: notebook
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
+Juan Nunez-Iglesias
+
 Licensed BSD 3-clause
 
 
@@ -66,6 +68,8 @@ Content type: notebook
 ---
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -105,7 +109,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -124,7 +128,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -158,7 +162,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -175,7 +179,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -192,7 +196,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 

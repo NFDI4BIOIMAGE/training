@@ -1,4 +1,4 @@
-# Bioimage analysis (72)
+# Bioimage analysis (100)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -71,7 +71,41 @@ Content type: publication
 
 ---
 
+## Adding a Workflow to BIAFLOWS
+
+Sébastien Tosi, Volker Baecker, Benjamin Pavie
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide
+
+[https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
+
+
+---
+
+## Analyzing fluorescence microscopy images with ImageJ
+
+Pete Bankhead
+
+Licensed unknown
+
+
+
+Tags: ImageJ, bioimage analysis
+
+[https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
+
+
+---
+
 ## Annotating 3D images in napari
+
+Mara Lampert
 
 
 
@@ -80,6 +114,23 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## Basics of Image Processing and Analysis
+
+Kota Miura
+
+Licensed All Rights Reserved
+
+
+
+Tags: bioimage analysis
+
+Content type: book
+
+[https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
 
 
 ---
@@ -97,6 +148,23 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio Image Analysis
+
+Christian Tischer
+
+Licensed unknown
+
+
+
+Tags: bioimage analysis
+
+Content type: slide
+
+[https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
 
 
 ---
@@ -127,6 +195,23 @@ Tags: python, bioimage analysis
 Content type: book, notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
+
+
+---
+
+## BioImage Data Analysis
+
+Kota Miura
+
+Licensed All rights reserved
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: Book
+
+[https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
 
 
 ---
@@ -282,6 +367,36 @@ Content type: notebook
 
 ---
 
+## Cell Tracking Challenge - 2D Datasets
+
+Licensed unknown
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
+
+
+---
+
+## Cell Tracking Challenge - 3D Datasets
+
+Licensed unknown
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
 ## CellProfiler Introduction
 
 Anna Klemm
@@ -290,11 +405,28 @@ Licensed unknown
 
 
 
-Tags: CellProfiler, bioimage analysis
+Tags: neubias, CellProfiler, bioimage analysis
 
 Content type: slide
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
+
+
+---
+
+## CellProfiler Practical NeuBIAS Lisbon 2017
+
+Carolina Wählby, Maxime Bombrun, Christian Tischer
+
+Licensed unknown
+
+
+
+Tags: neubias, CellProfiler, bioimage analysis
+
+Content type: tutorial
+
+[https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
 
 
 ---
@@ -335,6 +467,40 @@ Content type: publication
 
 ---
 
+## Code associated with The Digital Cell book
+
+Stephen Royle
+
+Licensed GPL-3.0
+
+
+
+Tags: bioimage analysis
+
+Content type: code
+
+[https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
+
+[https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
+
+
+---
+
+## Collection of teaching material for deep learning for (biomedical) image analysis
+
+Constantin Pape
+
+Licensed MIT
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+[https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
+
+
+---
+
 ## Community-developed checklists for publishing images and image analyses
 
 Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
@@ -365,6 +531,23 @@ Tags: Python, bioimage analysis, artificial intelligence
 Content type: notebook
 
 [https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## DEEP NAPARI : Napari as a tool for deep learning project management
+
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/hereariim/DEEP-NAPARI](https://github.com/hereariim/DEEP-NAPARI)
 
 
 ---
@@ -452,7 +635,43 @@ Content type: event
 
 ---
 
+## EPFLx: Image Processing and Analysis for Life Scientists
+
+Licensed All rights reserved
+
+
+
+Tags: bioimage analysis
+
+Content type: online course
+
+[https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
+
+
+---
+
+## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
+
+Kota Miura
+
+Published 2013
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: tutorial, book
+
+[https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
 ## Feature extraction in napari
+
+Mara Lampert
 
 
 
@@ -478,7 +697,7 @@ Content type: collection, video
 
 ---
 
-## Fundamentals in digital image_processing
+## Fundamentals in digital image processing
 
 Guillaume Witz
 
@@ -496,6 +715,8 @@ Content type: notebook
 ---
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -559,6 +780,23 @@ Content type: publication
 
 ---
 
+## IAFIG-RMS Python for Bioimage Analysis Course
+
+Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
+
+Licensed GPL-3.0 license
+
+
+
+Tags: bioimage analysis
+
+Content type: notebook
+
+[https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis)
+
+
+---
+
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 
 Licensed CC BY-NC-ND 3.0 Deed
@@ -591,6 +829,8 @@ Content type: book
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
+Juan Nunez-Iglesias
+
 Licensed BSD 3-clause
 
 
@@ -600,6 +840,23 @@ Tags: Python, bioimage analysis
 Content type: notebook
 
 [https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
+## Image analysis in Galaxy
+
+Beatriz Serrano-Solano, Björn Grüning
+
+Licensed unknown
+
+
+
+Tags: bioimage analysis
+
+Content type: slide
+
+[https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
 
 
 ---
@@ -621,6 +878,25 @@ Content type: notebook
 
 ---
 
+## Image-based Profiling Handbook
+
+Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
+
+Licensed pubic domain
+
+
+
+Tags: bioimage analysis
+
+Content type: book
+
+[https://github.com/cytomining/profiling-handbook](https://github.com/cytomining/profiling-handbook)
+
+[https://cytomining.github.io/profiling-handbook/](https://cytomining.github.io/profiling-handbook/)
+
+
+---
+
 ## ImageJ Macro Introduction
 
 Anna Klemm
@@ -629,7 +905,7 @@ Licensed unknown
 
 
 
-Tags: ImageJ Macro, bioimage analysis
+Tags: neubias, ImageJ Macro, bioimage analysis
 
 Content type: slide, code
 
@@ -646,7 +922,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -683,6 +959,55 @@ Tags: python, imagej, bioimage analysis
 Content type: book, notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Introduction to Image Analysis with Fiji
+
+Robert Haase, Benoit Lombardot
+
+Licensed CC BY NC 4.0
+
+
+
+Tags: imagej, fiji, bioimage analysis
+
+[https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
+
+
+---
+
+## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
+
+Robert Haase, Benoit Lombardot
+
+Licensed unknown
+
+
+
+Tags: imagej, bioimage analysis
+
+Content type: slide
+
+[https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
+
+
+---
+
+## Jupyter for interactive cloud computing
+
+Guillaume Witz
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide
+
+[https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
 
 ---
@@ -736,6 +1061,23 @@ Content type: tutorial
 
 ---
 
+## Machine and Deep Learning on the cloud: Segmentation
+
+Ignacio Arganda-Carreras
+
+Licensed unknown
+
+
+
+Tags: neubias, artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
+
+
+---
+
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
@@ -768,6 +1110,40 @@ Content type: collection, video
 
 ---
 
+## Methods in bioimage analysis
+
+Christian Tischer
+
+Licensed CC BY 4.0
+
+
+
+Tags: bioimage analysis
+
+Content type: online tutorial, video, slide
+
+[https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
+
+[https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1](https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1)
+
+[https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view](https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view)
+
+
+---
+
+## MorphoLibJ documentation
+
+
+
+Tags: bioimage analysis
+
+Content type: document
+
+[https://imagej.net/plugins/morpholibj](https://imagej.net/plugins/morpholibj)
+
+
+---
+
 ## Multi-view fusion
 
 Robert Haase
@@ -778,7 +1154,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -878,7 +1254,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 
@@ -932,6 +1308,21 @@ Content type: event, notebook
 
 ---
 
+## Python BioImage Analysis Tutorial
+
+Jonas Hartmann
+
+Licensed MIT
+
+
+
+Tags: Python, bioimage analysis
+
+[https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
+
+
+---
+
 ## Python for Microscopists
 
 Sreenivas Bhattiprolu
@@ -949,7 +1340,26 @@ Content type: notebook, collection
 
 ---
 
+## QuPath: Open source software for analysing (awkward) images
+
+Peter Bankhead
+
+Licensed CC BY 4.0
+
+
+
+Tags: bioimage analysis
+
+Content type: slide
+
+[https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
+
+
+---
+
 ## Quality assurance of segmentation results
+
+Mara Lampert
 
 
 
@@ -963,6 +1373,8 @@ Content type: blog
 ---
 
 ## Rescaling images and pixel (an)isotropy
+
+Mara Lampert
 
 
 
@@ -1043,6 +1455,21 @@ Content type: tutorial
 
 ---
 
+## The Digital Cell: Cell Biology as a Data Science
+
+Stephen Royle
+
+
+
+Tags: bioimage analysis
+
+Content type: book
+
+[https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282](https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282)
+
+
+---
+
 ## Tracking Theory, TrackMate, and Mastodon
 
 Robert Haase
@@ -1053,7 +1480,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -1064,6 +1491,8 @@ Content type: slide
 
 ## Tracking in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -1071,6 +1500,21 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+
+
+---
+
+## Training Deep Learning Models for Vision - Compact Course
+
+Constantin Pape, Adrian Wolny
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+[https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 
 
 ---
@@ -1094,6 +1538,23 @@ Content type: publication, preprint
 
 ---
 
+## What is Bioimage Analysis? An Introduction
+
+Kota Miura
+
+Licensed unknown
+
+
+
+Tags: neubias, bioimage analysis
+
+Content type: slide
+
+[https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
+
+
+---
+
 ## Working with objects in 2D and 3D
 
 Robert Haase
@@ -1102,7 +1563,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -1119,7 +1580,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -1171,6 +1632,23 @@ Tags: Bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
+
+
+---
+
+## ilastik: interactive machine learning for (bio)image analysis
+
+Anna Kreshuk, Dominik Kutra
+
+Licensed CC BY 4.0
+
+
+
+Tags: artificial intelligence, bioimage analysis
+
+Content type: slide
+
+[https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 
 
 ---

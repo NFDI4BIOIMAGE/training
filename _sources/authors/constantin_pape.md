@@ -7,6 +7,8 @@ Licensed MIT
 
 
 
+Tags: artificial intelligence, bioimage analysis
+
 [https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
 
 
@@ -70,6 +72,8 @@ Constantin Pape, Adrian Wolny
 Licensed unknown
 
 
+
+Tags: artificial intelligence, bioimage analysis
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 

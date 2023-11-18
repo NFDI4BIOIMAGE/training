@@ -1,4 +1,4 @@
-# Cc by 4.0 (50)
+# Cc by 4.0 (51)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -85,6 +85,8 @@ Content type: book, notebook
 ---
 
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
 
 Licensed CC BY 4.0
 
@@ -349,7 +351,7 @@ Licensed CC BY 4.0
 
 Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
 
-Tags: omero, research data management
+Tags: omero, research data management, nfdi4bioimage, i3dbio
 
 Content type: slide, video
 
@@ -447,6 +449,8 @@ Content type: documentation
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
+Robert Haase
+
 Licensed CC BY 4.0
 
 
@@ -484,6 +488,8 @@ Christian Tischer
 Licensed CC BY 4.0
 
 
+
+Tags: bioimage analysis
 
 Content type: online tutorial, video, slide
 
@@ -619,6 +625,8 @@ Licensed CC BY 4.0
 
 
 
+Tags: bioimage analysis
+
 Content type: slide
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
@@ -703,6 +711,25 @@ Tags: python, artificial intelligence, bioimage analysis
 Content type: blog
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
+
+
+---
+
+## Sharing and licensing material
+
+Robert Haase
+
+Licensed CC BY 4.0
+
+
+
+Introduction to sharing resources online and licensing
+
+Tags: sharing, research data management
+
+Content type: slide
+
+[https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
 
 ---
@@ -837,6 +864,8 @@ Anna Kreshuk, Dominik Kutra
 Licensed CC BY 4.0
 
 
+
+Tags: artificial intelligence, bioimage analysis
 
 Content type: slide
 

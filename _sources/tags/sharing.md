@@ -52,7 +52,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY SA 4.0
+Licensed CC BY 4.0
 
 
 

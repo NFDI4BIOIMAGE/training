@@ -1,4 +1,4 @@
-# Python (47)
+# Python (48)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -17,6 +17,8 @@ Content type: notebook
 ---
 
 ## Annotating 3D images in napari
+
+Mara Lampert
 
 
 
@@ -81,6 +83,8 @@ Content type: collection
 ---
 
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
 
 Licensed CC BY 4.0
 
@@ -265,6 +269,8 @@ Content type: notebook
 
 ## Feature extraction in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -292,6 +298,8 @@ Content type: documentation
 ---
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -341,6 +349,8 @@ Content type: blog
 ---
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Juan Nunez-Iglesias
 
 Licensed BSD 3-clause
 
@@ -427,6 +437,8 @@ Content type: documentation
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
+Robert Haase
+
 Licensed CC BY 4.0
 
 
@@ -497,7 +509,7 @@ Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, neubias, artificial intelligence, bioimage analysis
 
 Content type: slide, notebook
 
@@ -566,6 +578,21 @@ Content type: event, notebook
 
 ---
 
+## Python BioImage Analysis Tutorial
+
+Jonas Hartmann
+
+Licensed MIT
+
+
+
+Tags: Python, bioimage analysis
+
+[https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
+
+
+---
+
 ## Python Workshop - Image Processing
 
 Karin Sasaki, Jonas Hartmann
@@ -602,6 +629,8 @@ Content type: notebook, collection
 
 ## Quality assurance of segmentation results
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -614,6 +643,8 @@ Content type: blog
 ---
 
 ## Rescaling images and pixel (an)isotropy
+
+Mara Lampert
 
 
 
@@ -714,6 +745,8 @@ Content type: tutorial
 ---
 
 ## Tracking in napari
+
+Mara Lampert
 
 
 
