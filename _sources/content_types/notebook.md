@@ -1,4 +1,4 @@
-# Notebook (10)
+# Notebook (17)
 ## A Fiji Scripting Tutorial
 
 Albert Cardona
@@ -65,6 +65,68 @@ Content type: notebook
 
 ---
 
+## Fundamentals in digital image_processing
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/Fundamentals_image_processing](https://github.com/guiwitz/Fundamentals_image_processing)
+
+
+---
+
+## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
+## IAFIG-RMS Python for Bioimage Analysis Course
+
+Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
+
+Licensed GPL-3.0 license
+
+
+
+Content type: notebook
+
+[https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis)
+
+
+---
+
+## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
 ## Image processing with Python
 
 Guillaume Witz
@@ -101,7 +163,24 @@ Content type: book, notebook
 
 ---
 
-## ONBI image analysis
+## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python, neubias, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
+
+
+---
+
+## ONBI Image Analysis Course
+
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -144,6 +223,23 @@ Content type: event, notebook
 
 ---
 
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
 ## ZEN & Python workshop
 
 Licensed GPL-3.0
@@ -155,6 +251,23 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## numpy pandas course
+
+Guillaume Witz
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python
+
+Content type: notebook
+
+[https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
 
 
 ---

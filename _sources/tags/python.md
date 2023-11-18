@@ -1,4 +1,4 @@
-# Python (26)
+# Python (33)
 ## Annotating 3D images in napari
 
 
@@ -138,6 +138,21 @@ Content type: documentation
 
 ---
 
+## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
 ## Generative artificial intelligence for bio-image analysis
 
 Robert Haase
@@ -168,6 +183,21 @@ Tags: python, conda, mamba
 Content type: blog
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
+
+
+---
+
+## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
 
 
 ---
@@ -240,6 +270,21 @@ Content type: blog
 
 ---
 
+## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python, neubias, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
+
+
+---
+
 ## NextFlow core
 
 
@@ -255,7 +300,9 @@ Content type: collection
 
 ---
 
-## ONBI image analysis
+## ONBI Image Analysis Course
+
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -294,6 +341,23 @@ Tags: bioimage analysis, python
 Content type: event, notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+
+
+---
+
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
 
 ---
@@ -341,6 +405,25 @@ Content type: blog
 
 ---
 
+## Scientific Visualization: Python + Matplotlib
+
+Nicolas P. Rougier
+
+Licensed CC BY NC SA 4.0
+
+
+
+Tags: Python
+
+Content type: book
+
+[https://github.com/rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+
+[https://inria.hal.science/hal-03427242/document](https://inria.hal.science/hal-03427242/document)
+
+
+---
+
 ## Snakemake Documentation
 
 
@@ -375,6 +458,23 @@ Content type: publication, preprint
 
 ---
 
+## Teaching Bioimage Analysis with Python
+
+Rafael Camacho
+
+Licensed MIT
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: tutorial
+
+[https://github.com/CamachoDejay/teaching-bioimage-analysis-python](https://github.com/CamachoDejay/teaching-bioimage-analysis-python)
+
+
+---
+
 ## Tracking in napari
 
 
@@ -399,6 +499,23 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## numpy pandas course
+
+Guillaume Witz
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python
+
+Content type: notebook
+
+[https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
 
 
 ---

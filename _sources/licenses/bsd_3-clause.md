@@ -1,4 +1,4 @@
-# Bsd 3-clause (8)
+# Bsd 3-clause (12)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -50,6 +50,36 @@ Content type: notebook
 
 ---
 
+## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
+## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
 ## ImageJ2 API-beating
 
 Robert Haase
@@ -82,6 +112,21 @@ Tags: imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
+
+
+---
+
+## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python, neubias, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
 
 
 ---
@@ -135,6 +180,23 @@ Tags: imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
+
+
+---
+
+## numpy pandas course
+
+Guillaume Witz
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python
+
+Content type: notebook
+
+[https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
 
 
 ---

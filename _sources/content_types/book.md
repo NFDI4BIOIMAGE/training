@@ -1,4 +1,4 @@
-# Book (7)
+# Book (9)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -74,6 +74,38 @@ Content type: book
 [https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
 
 [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861)
+
+
+---
+
+## Scientific Visualization: Python + Matplotlib
+
+Nicolas P. Rougier
+
+Licensed CC BY NC SA 4.0
+
+
+
+Tags: Python
+
+Content type: book
+
+[https://github.com/rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+
+[https://inria.hal.science/hal-03427242/document](https://inria.hal.science/hal-03427242/document)
+
+
+---
+
+## Standard and Super-Resolution Bioimaging Data Analysis: A Primer
+
+Ann Wheeler (Editor), Ricardo Henriques (Editor)
+
+
+
+Content type: book
+
+[https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900](https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900)
 
 
 ---

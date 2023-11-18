@@ -1,4 +1,4 @@
-# All rights reserved (10)
+# All rights reserved (13)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -48,6 +48,34 @@ Tags: bioimage analysis
 Content type: publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
+
+
+---
+
+## EPFLx: Image Processing and Analysis for Life Scientists
+
+Licensed All rights reserved
+
+
+
+Content type: online course
+
+[https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
+
+
+---
+
+## Imaris Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
 
 
 ---
@@ -152,6 +180,21 @@ Tags: imagej
 Content type: publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000112/](https://analyticalscience.wiley.com/do/10.1002/was.0004000112/)
+
+
+---
+
+## arivis Vision4D Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
 
 
 ---

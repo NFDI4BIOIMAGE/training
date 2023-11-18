@@ -1,4 +1,4 @@
-# Video (9)
+# Video (14)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -8,6 +8,19 @@ Tags: bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
+
+
+---
+
+## COBA: Center for Open Bioimage Analysis YouTube Channel
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
 
 
 ---
@@ -36,6 +49,19 @@ Content type: collection, video
 Content type: collection, video
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
+
+
+---
+
+## Fiji Is Just ImageJ Tutorials
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
 
 
 ---
@@ -87,6 +113,36 @@ Content type: collection, video
 
 ---
 
+## Imaris Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
+
+
+---
+
+## Melbourne Advanced Microscopy Facility
+
+
+
+Collection of tutorial videos for Fiji users
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
+
+
+---
+
 ## NEUBIAS YouTube Channel
 
 
@@ -130,6 +186,21 @@ Tags: NFDI4BioImage, research data management
 Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+
+
+---
+
+## arivis Vision4D Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
 
 
 ---

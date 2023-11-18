@@ -1,4 +1,4 @@
-# Bioimage analysis (39)
+# Bioimage analysis (51)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -201,6 +201,19 @@ Content type: publication
 
 ---
 
+## COBA: Center for Open Bioimage Analysis YouTube Channel
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
 ## CellProfiler tutorials
 
 Licensed BSD 3-Clause
@@ -276,6 +289,51 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+
+
+---
+
+## Fiji Is Just ImageJ Tutorials
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
+
+
+---
+
+## Fundamentals in digital image_processing
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/Fundamentals_image_processing](https://github.com/guiwitz/Fundamentals_image_processing)
+
+
+---
+
+## Fundamentals of image analysis in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
 
 
 ---
@@ -359,6 +417,21 @@ Content type: book
 
 ---
 
+## Image analysis and visualization in Python with scikit-image, napari, and friends
+
+Licensed BSD 3-clause
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
 ## ImageJ2 API-beating
 
 Robert Haase
@@ -372,6 +445,21 @@ Tags: imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
+
+
+---
+
+## Imaris Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
 
 
 ---
@@ -427,6 +515,21 @@ Content type: publication
 
 ---
 
+## Melbourne Advanced Microscopy Facility
+
+
+
+Collection of tutorial videos for Fiji users
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
+
+
+---
+
 ## Multi-view fusion
 
 Robert Haase
@@ -446,7 +549,24 @@ Content type: slide
 
 ---
 
-## ONBI image analysis
+## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
+
+Licensed bsd 3-clause
+
+
+
+Tags: Python, neubias, bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
+
+
+---
+
+## ONBI Image Analysis Course
+
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -485,6 +605,23 @@ Tags: bioimage analysis, python
 Content type: event, notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+
+
+---
+
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
 
 ---
@@ -528,6 +665,40 @@ Tags: python, artificial intelligence, bioimage analysis
 Content type: blog
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
+
+
+---
+
+## Teaching Bioimage Analysis with Python
+
+Rafael Camacho
+
+Licensed MIT
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: tutorial
+
+[https://github.com/CamachoDejay/teaching-bioimage-analysis-python](https://github.com/CamachoDejay/teaching-bioimage-analysis-python)
+
+
+---
+
+## Teaching ImageJ FIJI
+
+Rafael Camacho
+
+Licensed MIT
+
+
+
+Tags: Fiji, bioimage analysis
+
+Content type: tutorial
+
+[https://github.com/CamachoDejay/Teaching-ImageJ-FIJI](https://github.com/CamachoDejay/Teaching-ImageJ-FIJI)
 
 
 ---
@@ -628,6 +799,21 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## arivis Vision4D Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
 
 
 ---

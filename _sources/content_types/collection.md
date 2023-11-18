@@ -1,4 +1,4 @@
-# Collection (33)
+# Collection (40)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -121,6 +121,19 @@ Content type: collection
 
 ---
 
+## COBA: Center for Open Bioimage Analysis YouTube Channel
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
 ## Cell Tracking Challenge - 2D Datasets
 
 Licensed unclear
@@ -143,6 +156,17 @@ Licensed unclear
 Content type: collection, data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
+## Center for Microscopy and Image Analysis How-to Guides
+
+
+
+Content type: collection
+
+[https://zmb.dozuki.com/c/Image_Analysis](https://zmb.dozuki.com/c/Image_Analysis)
 
 
 ---
@@ -171,6 +195,19 @@ Content type: collection, video
 Content type: collection, video
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
+
+
+---
+
+## Fiji Is Just ImageJ Tutorials
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
 
 
 ---
@@ -293,6 +330,36 @@ Content type: collection, data, publication
 
 ---
 
+## Imaris Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
+
+
+---
+
+## Melbourne Advanced Microscopy Facility
+
+
+
+Collection of tutorial videos for Fiji users
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
+
+
+---
+
 ## MicroscopyDB
 
 Licensed All Rights Reserved
@@ -392,6 +459,23 @@ Content type: collection, video
 
 ---
 
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
 ## RDM4Mic Presentations
 
 Licensed CC BY 4.0
@@ -461,6 +545,21 @@ Tags: python, napari, bioimage analysis
 Content type: collection, notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## arivis Vision4D Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
 
 
 ---

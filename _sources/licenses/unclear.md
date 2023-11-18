@@ -1,4 +1,4 @@
-# Unclear (11)
+# Unclear (15)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -12,6 +12,19 @@ Tags: artificial intelligence, workflow engine, bio-image analysis
 Content type: documentation
 
 [https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
+
+
+---
+
+## Analyzing fluorescence microscopy images with ImageJ
+
+Pete Bankhead
+
+Licensed unclear
+
+
+
+[https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
 
 
 ---
@@ -72,6 +85,23 @@ Licensed unclear
 Content type: collection, data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
+## Fundamentals in digital image_processing
+
+Guillaume Witz
+
+Licensed unclear
+
+
+
+Tags: bioimage analysis
+
+Content type: notebook
+
+[https://github.com/guiwitz/Fundamentals_image_processing](https://github.com/guiwitz/Fundamentals_image_processing)
 
 
 ---
@@ -140,6 +170,23 @@ Content type: documentation
 
 ---
 
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unclear
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
 ## Setting up a data management infrastructure for bioimaging
 
 Susanne Kunis, Karen Bernhardt and Michael Hensel
@@ -153,6 +200,21 @@ Tags: NFDI4BioImage, research data management
 Content type: publication
 
 [https://doi.org/10.1515/hsz-2022-0304](https://doi.org/10.1515/hsz-2022-0304)
+
+
+---
+
+## Setting up a remote desktop to use Napari in a browser
+
+Volker Hilsenstein
+
+Licensed unclear
+
+
+
+Content type: tutorial
+
+[https://github.com/VolkerH/Jupyter-Napari-Desktop](https://github.com/VolkerH/Jupyter-Napari-Desktop)
 
 
 ---
