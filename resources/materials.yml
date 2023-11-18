@@ -567,11 +567,12 @@ resources:
   - Python
   license: bsd 3-clause
 
-- name:
+- name: NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
   url: https://github.com/guiwitz/neubias_academy_biapy
-  license: bsd 3-clause
   type: notebook
   tags:
   - Python
   - neubias
-  - bioim
+  - bioimage analysis
+  license: bsd 3-clause
+  
