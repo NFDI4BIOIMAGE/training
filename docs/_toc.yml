@@ -17,10 +17,6 @@ parts:
     chapters:
 {license_toc}
 
-  - caption: By author
-    chapters:
-{author_toc}
-
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
   - caption: Contributing
     chapters:
