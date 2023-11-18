@@ -610,7 +610,7 @@ resources:
   tags:
   - Python
   - bioimage analysis
-    type: tutorial
+  type: tutorial
 
 - name: Teaching ImageJ FIJI
   authors: Rafael Camacho
