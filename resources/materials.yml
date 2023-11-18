@@ -545,8 +545,33 @@ resources:
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
   authors:Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
   license: GPL-3.0 license
+  type: notebook
   
 - name: Center for Microscopy and Image Analysis How-to Guides
   url: https://zmb.dozuki.com/c/Image_Analysis
   type: collection
-  
+
+- name: Fundamentals in digital image_processing
+  url: https://github.com/guiwitz/Fundamentals_image_processing
+  license: unclear
+  authors: Guillaume Witz
+  type: notebook
+  tags:
+  - bioimage analysis
+
+- name: numpy pandas course
+  url: https://github.com/guiwitz/NumpyPandas_course
+  authors: Guillaume Witz
+  type: notebook
+  tags:
+  - Python
+  license: bsd 3-clause
+
+- name:
+  url: https://github.com/guiwitz/neubias_academy_biapy
+  license: bsd 3-clause
+  type: notebook
+  tags:
+  - Python
+  - neubias
+  - bioim
