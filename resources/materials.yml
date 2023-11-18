@@ -479,4 +479,22 @@ resources:
   - workflow engine
   - bio-image analysis
   license: unclear
+
+
+
+- name: "I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training"
+  authors: Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+  type:
+  - slide
+  - video
+  url:
+  - https://zenodo.org/records/8323588
+  - https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU
+  license: CC BY 4.0
+  description: Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
+  tags:
+  - omero
+  - research data management
+  
+
   
