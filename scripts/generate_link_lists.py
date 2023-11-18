@@ -9,13 +9,7 @@ def main():
     MINIMUM_ITEM_COUNT = 5
     
     # Iterate over all files in the directory and accumulate content
-    content = {'resources':[]}
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.yml'):
-            print("Adding", filename)
-            new_content = read_yaml_file(directory_path + filename)
-            content['resources'] = content['resources'] + new_content['resources']
-            print(content.keys())
+    content = all_content(directory_path)
 
     # Go through all supported content types and generate corresponding markdown files
     all_content_types = collect_all(content, "type")
@@ -83,6 +77,21 @@ def main():
     replace_in_file(readme_file, "{last_updated}", str(last_updated))
     replace_in_file(readme_file, "{number_of_links}", str(number_of_links))
 
+def all_content(directory_path):
+    import os
+    content = {'resources':[]}
+    for filename in os.listdir(directory_path):
+        if filename.endswith('.yml'):
+            print("Adding", filename)
+            new_content = read_yaml_file(directory_path + filename)
+            content['resources'] = content['resources'] + new_content['resources']
+            # print(content.keys())
+    return content
+
+def load_dataframe(directory_path):
+    import pandas as pd
+    content = all_content(directory_path)
+    return pd.DataFrame(content['resources'])
 
 def replace_in_file(filename, to_replace, replacement):
     with open(filename, 'r') as file:
@@ -95,7 +104,7 @@ def replace_in_file(filename, to_replace, replacement):
 def read_yaml_file(filename):
     """Read a yaml file and return the content as dictionary of dictionaries"""
     import yaml
-    with open(filename, 'r') as file:
+    with open(filename, 'r', encoding="utf8") as file:
         data = yaml.safe_load(file)
         return data
 
