@@ -1,6 +1,6 @@
 resources:
 - name: "JIPipe: visual batch processing for ImageJ"
-  authors: Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+  authors: Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
   type: 
   - publication
   - documentation

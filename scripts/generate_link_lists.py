@@ -155,7 +155,7 @@ def find_anything(content, what_to_look_in, what_to_find):
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
-    print(len(result))
+
     return result
 
 def write_md(resources, title, filename):
