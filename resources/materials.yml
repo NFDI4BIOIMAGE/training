@@ -67,7 +67,7 @@ resources:
   url: https://omero.readthedocs.io/en/stable/
   tags:
   - omero
-  license: unclear
+  license: unknown
   
 - name: OMERO Guide
   type: collection
@@ -101,7 +101,7 @@ resources:
   type: collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
   description: List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
-  license: unclear
+  license: unknown
   
 - name: Forschungsdaten.info
   type: collection
@@ -150,7 +150,7 @@ resources:
   url: https://tess.elixir-europe.org/materials
   tags:
   - bioinformatics
-  license: unclear
+  license: unknown
 
 - name: "I3D:bio list of online training material"
   type:
@@ -159,7 +159,7 @@ resources:
   description: "List of links to training materials by the I3D:bio community."
   tags:
   - research data management
-  license: unclear
+  license: unknown
 
 - name: CellProfiler tutorials
   type:
@@ -377,14 +377,14 @@ resources:
   type:
   - collection
   - data
-  license: unclear
+  license: unknown
 
 - name: Cell Tracking Challenge - 3D Datasets
   url: http://celltrackingchallenge.net/3d-datasets/
   type:
   - collection
   - data
-  license: unclear
+  license: unknown
 
 - name: microlist
   url: https://www.microlist.org/
@@ -398,7 +398,7 @@ resources:
   type: slide
   tags:
   - imagej
-  license: unclear
+  license: unknown
 
 - name: Introduction to Image Analysis with Fiji
   authors: Robert Haase, Benoit Lombardot
@@ -423,7 +423,7 @@ resources:
   tags:
   - bioimage analysis
   - artificial intelligence
-  license: unclear
+  license: unknown
 
 - name: Bioimage Archive
   url: 
@@ -458,7 +458,7 @@ resources:
   tags:
   - artificial intelligence
   - workflow engine
-  license: unclear
+  license: unknown
 
 - name: Making your package available on conda-forge
   authors: Kevin Yamauchi
@@ -479,7 +479,7 @@ resources:
   - artificial intelligence
   - workflow engine
   - bio-image analysis
-  license: unclear
+  license: unknown
 
 
 
@@ -520,7 +520,7 @@ resources:
 - name: Analyzing fluorescence microscopy images with ImageJ
   url: https://petebankhead.gitbooks.io/imagej-intro/content/
   authors: Pete Bankhead
-  license: unclear
+  license: unknown
 
 - name: IAFIG-RMS Python for Bioimage Analysis Course
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
@@ -534,7 +534,7 @@ resources:
 
 - name: Fundamentals in digital image_processing
   url: https://github.com/guiwitz/Fundamentals_image_processing
-  license: unclear
+  license: unknown
   authors: Guillaume Witz
   type: notebook
   tags:
@@ -566,14 +566,14 @@ resources:
   - Python
   - bioimage analysis
   authors: Sreenivas Bhattiprolu
-  license: unclear
+  license: unknown
 
 - name: Setting up a remote desktop to use Napari in a browser
   authors: Volker Hilsenstein
   url: https://github.com/VolkerH/Jupyter-Napari-Desktop
   type:
   - tutorial
-  license: unclear
+  license: unknown
 
 - name: "Scientific Visualization: Python + Matplotlib"
   authors: Nicolas P. Rougier
@@ -629,7 +629,7 @@ resources:
   - Python
   - bioimage analysis
   - big data
-  license: unclear
+  license: unknown
 
 - name: Course on Deep Learning for imaging using PyTorch
   url: https://github.com/guiwitz/DLImaging
@@ -639,7 +639,7 @@ resources:
   - Python
   - bioimage analysis
   - artificial intelligence
-  license: unclear
+  license: unknown
 
 - name: 2022 MIC Workshop on Bioimage processing with Python
   url: https://github.com/guiwitz/MICPy_Workshop_2022
@@ -648,7 +648,7 @@ resources:
   tags:
   - Python
   - bioimage analysis
-  license: unclear
+  license: unknown
 
 - name: NEUBIAS Bioimage Analyst Course 2017
   url: https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017
