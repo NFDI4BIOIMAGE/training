@@ -8,9 +8,15 @@ parts:
   - caption: By tag
     chapters:
 {tag_toc}
+
   - caption: By content type
     chapters:
 {type_toc}
+
+  - caption: By license
+    chapters:
+{license_toc}
+
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
   - caption: Contributing
     chapters:

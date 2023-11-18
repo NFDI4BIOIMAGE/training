@@ -15,6 +15,7 @@ resources:
   - python
   - artificial intelligence
   - bioimage analysis
+  license: CC BY 4.0
 
 - name: Browsing the Open Microscopy Image Data Resource with Python
   author: Robert Haase
@@ -23,6 +24,7 @@ resources:
   tags:
   - omero
   - python
+  license: CC BY 4.0
 
 - name: Getting started with Mambaforge and Python
   type: blog
@@ -34,6 +36,7 @@ resources:
   - python
   - conda
   - mamba
+  license: CC BY 4.0
 
 - name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
   author: Jennifer Waters
@@ -84,6 +87,7 @@ resources:
   - conda
   - mamba
   url: https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
+  license: CC BY 4.0
 
 - name: Quality assurance of segmentation results
   type: blog

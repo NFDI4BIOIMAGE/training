@@ -41,6 +41,21 @@ def main():
             tag_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{tag_toc}", tag_toc)
 
+    # go through all licenses and generate corresponding markdown files
+    all_license_counts = collect_all(content, "license")
+    license_toc = ""
+    for license in sorted(list(all_license_counts.keys())):
+        count = all_license_counts[license] 
+        if count >= MINIMUM_ITEM_COUNT:
+            selected_content = find_license(content, license)
+            filename = "licenses/" + license.replace(" ", "_")
+            write_md(selected_content, license, "docs/" + filename + ".md")
+            license_toc += "    - file: " + filename + "\n"    
+    replace_in_file(toc_file, "{license_toc}", license_toc)
+
+
+
+    
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
     for url, count in all_urls.items():
@@ -88,6 +103,11 @@ def collect_all(content, what_to_collect):
                 else:
                     all_tags[tag] += 1
     return all_tags
+
+
+def find_license(content, license):
+    """Takes a dictionary of resources, searches for resources of a given license and returns them as new dictionary."""
+    return find_anything(content, "license", license)
 
 def find_type(content, content_type):
     """Takes a dictionary of resources, searches for resources of a given type and returns them as new dictionary."""
