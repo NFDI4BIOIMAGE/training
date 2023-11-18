@@ -750,7 +750,7 @@ resources:
 - name: Materials for EMBL Coding Club Mini-Tutorials
   authors: Jonas Hartmann, et al.
   url: https://github.com/WhoIsJack/EMBL-CodingClub
-   type: 
+  type: 
   - code
   - notebook
   tags:
@@ -1003,6 +1003,49 @@ resources:
   - bioimage analysis
   license: unknown
 
+- name: CellProfiler tutorial pipelines and images
+  url: https://github.com/CellProfiler/tutorials
+  type: tutorial
+  tags:
+  - CellProfiler
+  - bioimage analysis
+  license: BSD 3-clause
 
+- name: Machine Learning Workflow for Imaging Flow Cytometry (IFC)
+  url: https://github.com/holgerhennig/machine-learning-IFC
+  type: tutorial
+  tags:
+  - CellProfiler
+  - bioimage analysis
+  license: unknown
 
+- name: Image-based Profiling Handbook
+  url: 
+  - https://github.com/cytomining/profiling-handbook
+  - https://cytomining.github.io/profiling-handbook/
+  authors: Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
+  type: 
+  - book
+  license: pubic domain
+
+- name: DeepProfiler Handbook
+  url:
+  - https://github.com/cytomining/DeepProfiler-handbook
+  - https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html
+  authors: Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
+  type: 
+  - book
+  license: unknown
+
+- name: Methods in bioimage analysis
+  url: 
+  - https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/
+  - https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1
+  - https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view
+  authors: Christian Tischer
+  type:
+  - online tutorial
+  - video
+  - slide
+  license: CC BY 4.0
   
