@@ -1084,3 +1084,11 @@ resources:
   - artificial intelligence
   - bioimage analysis
   license: unknown
+
+- name: Galaxy Training Material
+  url: https://github.com/galaxyproject/training-material
+  type:
+  - slides
+  - tutorial
+  license: MIT
+  
