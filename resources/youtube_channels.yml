@@ -56,7 +56,7 @@ resources:
   tags:
   - bioimage analysis
 
-- name: COBA: Center for Open Bioimage Analysis YouTube Channel
+- name: "COBA: Center for Open Bioimage Analysis YouTube Channel"
   url: https://www.youtube.com/@cobacenterforopenbioimagea1864
   type:
   - collection
@@ -73,4 +73,29 @@ resources:
   tags:
   - Bioimage analysis
 
+- name: Fiji Is Just ImageJ Tutorials
+  url: https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
+  type:
+  - collection
+  - video
+  tags:
+  - Bioimage analysis
+  
+- name: Imaris Tutorials
+  url: https://imaris.oxinst.com/tutorials
+  type:
+  - collection
+  - video
+  tags:
+  - Bioimage analysis
+  license: All rights reserved
 
+- name: arivis Vision4D Tutorials
+  url: https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0
+  type:
+  - collection
+  - video
+  tags:
+  - Bioimage analysis
+  license: All rights reserved
+  
