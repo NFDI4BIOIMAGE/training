@@ -55,4 +55,22 @@ resources:
   url: https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
   tags:
   - bioimage analysis
-  
+
+- name: COBA: Center for Open Bioimage Analysis YouTube Channel
+  url: https://www.youtube.com/@cobacenterforopenbioimagea1864
+  type:
+  - collection
+  - video
+  tags:
+  - Bioimage analysis
+
+- name: Melbourne Advanced Microscopy Facility
+  url: https://www.youtube.com/@melbourneadvancedmicroscop2617
+  type:
+  - collection
+  - video
+  description: Collection of tutorial videos for Fiji users
+  tags:
+  - Bioimage analysis
+
+

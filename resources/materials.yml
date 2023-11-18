@@ -495,6 +495,58 @@ resources:
   tags:
   - omero
   - research data management
-  
 
+- name: ITKElastix Examples
+  url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
+  license: Apache 2.0
+  tags:
+  - bio-image analysis
+
+
+- name: EPFLx: Image Processing and Analysis for Life Scientists
+  url: https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists
+  type: online course
+  license: All rights reserved.
+
+- name: Oxford DTC ONBI Image Analysis course
+  url: https://github.com/dwaithe/ONBI_image_analysis
+  authors: Mark Jenkinson, Jens Rittscher, Dominic Waithe
+  license: GPL-2.0 license
+  type: 
+  - notebook
+
+- name: Standard and Super-Resolution Bioimaging Data Analysis: A Primer
+  url: https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900
+  authors: Ann Wheeler (Editor), Ricardo Henriques (Editor)
+  type: book
+
+- name: Image processing with Python
+  url: https://github.com/guiwitz/Python_image_processing
+  authors: Guillaume Witz
+  type: notebook
+  license: MIT
+
+- name: MorphoLibJ documentation
+  url: https://imagej.net/plugins/morpholibj
+  type: document
+
+- name: iBiology Bioimage Analysis Course: The Life Cycle of an Image Data Set
+  url: https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
+  type:
+  - video
+  - collection
+
+- name: Analyzing fluorescence microscopy images with ImageJ
+  url: https://petebankhead.gitbooks.io/imagej-intro/content/
+  authors: Pete Bankhead
+  license: unclear
+
+- name: IAFIG-RMS Python for Bioimage Analysis Course
+  url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
+  authors:Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
+  license: GPL-3.0 license
+  
+- name: Center for Microscopy and Image Analysis How-to Guides
+  url: https://zmb.dozuki.com/c/Image_Analysis
+  type: collection
   
