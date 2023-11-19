@@ -34,6 +34,7 @@ resources:
   url: https://www.nature.com/articles/s41592-018-0195-8
 - authors: Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter,
     Beth A. Cimini
+  license: bsd-3-clause
   name: '2020 BioImage Analysis Survey: Community experiences and needs for the future'
   publication_date: 2021
   tags:
@@ -44,6 +45,7 @@ resources:
   - https://github.com/ciminilab/2021_Jamali_BiologicalImaging
 - authors: Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones,
     David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
+  license: bsd-3-clause
   name: Bridging Imaging Users to Imaging Analysis - A community survey
   publication_date: 2023
   tags:

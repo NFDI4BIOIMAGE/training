@@ -123,7 +123,7 @@ def update_all_yaml_files(directory_path):
             update_yaml_file(directory_path + filename)
 
 
-def update_yaml_file(yaml_filename):
+def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
     """
     Update the YAML file with Zenodo metadata and statistics.
     
@@ -155,7 +155,7 @@ def update_yaml_file(yaml_filename):
                 github_url = url
     
         # If Zenodo URL is found, fetch the metadata and update the entry
-        if zenodo_url is not None:
+        if zenodo_url is not None and use_zenodo:
             zenodo_data = read_zenodo(zenodo_url)
 
             if 'doi_url' in zenodo_data.keys():
@@ -178,18 +178,37 @@ def update_yaml_file(yaml_filename):
                     creators = metadata['creators']
                     entry['authors'] = ", ".join([c['name'] for c in creators])
                 if 'license' in metadata.keys():
-                    entry['license'] = metadata['license']['id'].replace("-", " ")
+                    entry['license'] = metadata['license']['id']
             
             if 'stats'  in zenodo_data.keys():
                 entry['num_downloads'] = zenodo_data['stats']['downloads']
-        if github_url is not None:
+                
+        if github_url is not None and use_github:
             license = read_github_license(github_url)
             if license is not None:
                 entry['license'] = license
+
+        if 'license' in entry.keys():
+            entry['license'] = clean_license(entry['license'])
             
     # Write the modified content back to the YAML file
     write_yaml_file(yaml_filename, content)
+
+def clean_license(license):
+    if license == "CC BY 4.0":
+        return "cc-by-4.0"
+    if license == "CC BY SA 4.0":
+        return "cc-by-sa-4.0"
+    if license == "CC BY NC 4.0":
+        return "cc-by-nc-4.0"
+    if license == "CC BY ND 4.0":
+        return "cc-by-nd-4.0"
+    if license == "CC BY NC SA 4.0":
+        return "cc-by-nd-sa-4.0"
+    if license == "CC BY NC ND 4.0":
+        return "cc-by-nd-nd-4.0"
     
+    return license
 
 def read_doi(doi):
     import requests
@@ -206,17 +225,30 @@ def read_doi(doi):
 
 def read_github_license(github_url):
     import requests
+    import os
     import json
     temp = github_url.split("/")
     organization = temp[3]
     repository = temp[4]
 
     url = f"https://api.github.com/repos/{organization}/{repository}/license"
-    response = requests.get(url)
+    GITHUB_API_KEY = os.environ.get('GITHUB_API_KEY')
+    
+    # Set up authentication headers to have a higher API rate limit
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "Authorization": f"Bearer {GITHUB_API_KEY}",
+        "X-GitHub-Api-Version": "2022-11-28"
+    }
+    
+    response = requests.get(url, headers=headers)
     data = response.json()
     if 'license' in data.keys():
-        return data['license']['key'].replace("-").upper()
-    
+        license = data['license']['key']
+        if "other" not in license:
+            return license
+
+
 
 def read_zenodo(record):
     

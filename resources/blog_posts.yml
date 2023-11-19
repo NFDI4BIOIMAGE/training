@@ -7,7 +7,7 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
 - authors: Marcelo Zoccoler
-  license: CC BY 4.0
+  license: cc-by-4.0
   name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
   tags:
   - python
@@ -16,7 +16,7 @@ resources:
   type: blog
   url: https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
 - authors: Robert Haase
-  license: CC BY 4.0
+  license: cc-by-4.0
   name: Browsing the Open Microscopy Image Data Resource with Python
   tags:
   - omero
@@ -24,7 +24,7 @@ resources:
   type: blog
   url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
 - authors: Mara Lampert
-  license: CC BY 4.0
+  license: cc-by-4.0
   name: Getting started with Mambaforge and Python
   tags:
   - python
@@ -70,7 +70,7 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
 - authors: Robert Haase
-  license: CC BY 4.0
+  license: cc-by-4.0
   name: Managing Scientific Python environments using Conda, Mamba and friends
   tags:
   - python
