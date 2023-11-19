@@ -5,7 +5,7 @@ resources:
   - research data management
   type: collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
-- license: ODC BY 1.0
+- license: odc-by-1.0
   name: BioImage Informatics Index Training Materials
   tags:
   - bioimage analysis
@@ -13,8 +13,8 @@ resources:
   url: https://biii.eu/training-material
 - authors: Robert Haase et al.
   license:
-  - CC BY 4.0
-  - BSD 3-clause
+  - cc-by-4.0
+  - bsd-3-clause
   name: BioImage Analysis Notebooks
   tags:
   - python
@@ -43,7 +43,7 @@ resources:
   - artificial intelligence
   type: slide
   url: https://f1000research.com/slides/12-971
-- license: All Rights Reserved
+- license: all rights reserved
   name: MicroscopyDB
   type:
   - collection
@@ -61,19 +61,19 @@ resources:
   - omero
   type: documentation
   url: https://omero.readthedocs.io/en/stable/
-- license: BSD 2-clause
+- license: bsd-2-clause
   name: OMERO Guide
   tags:
   - omero
   type: collection
   url: https://omero-guides.readthedocs.io/en/latest/
-- license: BSD 2-clause
+- license: bsd-2-clause
   name: OMERO walkthrough for facility managers
   tags:
   - omero
   type: document
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
-- license: BSD 2-clause
+- license: bsd-2-clause
   name: OMERO walkthrough example
   tags:
   - omero
@@ -167,7 +167,7 @@ resources:
   - notebook
   url: https://github.com/dwaithe/ONBI_image_analysis
 - authors: Albert Cardona
-  license: CC0
+  license: cc0
   name: A Fiji Scripting Tutorial
   tags:
   - imagej
@@ -186,7 +186,7 @@ resources:
   - slide
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
 - authors: Robert Haase
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: ImageJ2 API-beating
   tags:
   - neubias
@@ -197,7 +197,7 @@ resources:
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
 - authors: Robert Haase
   description: Lecture slides of a session on Multiview Fusion in Fiji
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: Multi-view fusion
   tags:
   - neubias
@@ -208,7 +208,7 @@ resources:
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
 - authors: Robert Haase
   description: Lecture slides of a session on Cell Tracking in Fiji
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: Tracking Theory, TrackMate, and Mastodon
   tags:
   - neubias
@@ -218,7 +218,7 @@ resources:
   - slide
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
 - authors: Robert Haase
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: Working with pixels
   tags:
   - neubias
@@ -228,7 +228,7 @@ resources:
   - slide
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
 - authors: Robert Haase
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: Working with objects in 2D and 3D
   tags:
   - neubias
@@ -294,7 +294,7 @@ resources:
     Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie
     Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III,
     Kevin W. Eliceiri, Beth A. Cimini
-  license: BSD 3-Clause
+  license: bsd-3-clause
   name: "A biologist\u2019s guide to planning and performing quantitative bioimaging\
     \ experiments"
   type:
@@ -333,13 +333,13 @@ resources:
 - description: A guide which covers topics related to skills, tools and best practices
     for research reproducibility.
   license:
-  - CC BY 4.0
-  - MIT
+  - cc-by-4.0
+  - mit
   name: 'The Turing Way: Guide for reproducible research'
   type: book
   url: https://the-turing-way.netlify.app/reproducible-research/reproducible-research
 - authors: Kota Miura
-  license: All Rights Reserved
+  license: all rights reserved
   name: Basics of Image Processing and Analysis
   tags:
   - bioimage analysis
@@ -369,7 +369,7 @@ resources:
   - data
   url: http://celltrackingchallenge.net/3d-datasets/
 - description: A searchable database of resources for light and electron microscopists
-  license: All Rights Reserved
+  license: all rights reserved
   name: microlist
   type: collection
   url: https://www.microlist.org/
@@ -501,7 +501,7 @@ resources:
   tags:
   - bio-image analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
-- license: All rights reserved
+- license: all rights reserved
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
   tags:
   - bioimage analysis
@@ -548,7 +548,7 @@ resources:
   - Python
   type: notebook
   url: https://github.com/guiwitz/NumpyPandas_course
-- license: bsd 3-clause
+- license: bsd-3-clause
   name: 'NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter'
   tags:
   - Python
@@ -801,8 +801,8 @@ resources:
   - https://datacarpentry.org/image-processing/
   - https://github.com/datacarpentry/image-processing
 - license:
-  - CC BY 4.0
-  - MIT
+  - cc-by-4.0
+  - mit
   name: Data Carpentry for Biologists
   type:
   - tutorial
@@ -918,7 +918,7 @@ resources:
   name: Image analysis course material
   url: https://github.com/tischi/image-analysis-course-material
 - authors: Guillaume Witz
-  license: BSD 3-clause
+  license: bsd-3-clause
   name: Image processing for beginners
   tags:
   - Python
@@ -1190,7 +1190,7 @@ resources:
   type: slide
   url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
 - authors: Kota Miura
-  license: All rights reserved
+  license: all rights reserved
   name: BioImage Data Analysis
   tags:
   - neubias

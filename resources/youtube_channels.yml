@@ -45,7 +45,7 @@ resources:
   - collection
   - video
   url: https://www.youtube.com/c/eurobioimagingcommunication
-- license: CC BY-NC-ND 3.0 Deed
+- license: cc-by-nc-nd-3.0
   name: Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
   tags:
   - bioimage analysis
@@ -75,7 +75,7 @@ resources:
   - collection
   - video
   url: https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
-- license: All rights reserved
+- license: all rights reserved
   name: Imaris Tutorials
   tags:
   - Bioimage analysis
@@ -83,7 +83,7 @@ resources:
   - collection
   - video
   url: https://imaris.oxinst.com/tutorials
-- license: All rights reserved
+- license: all rights reserved
   name: arivis Vision4D Tutorials
   tags:
   - Bioimage analysis

@@ -115,15 +115,15 @@ def write_yaml_file(file_path, data):
         yaml.dump(data, file)
 
 
-def update_all_yaml_files(directory_path):
+def update_all_yaml_files(directory_path, use_github=False, use_zenodo=False):
     import os
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
             print("updating", filename)
-            update_yaml_file(directory_path + filename)
+            update_yaml_file(directory_path + filename, use_github=use_github, use_zenodo=use_zenodo)
 
 
-def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
+def update_yaml_file(yaml_filename, use_github=False, use_zenodo=False):
     """
     Update the YAML file with Zenodo metadata and statistics.
     
@@ -194,21 +194,36 @@ def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
     # Write the modified content back to the YAML file
     write_yaml_file(yaml_filename, content)
 
-def clean_license(license):
-    if license == "CC BY 4.0":
-        return "cc-by-4.0"
-    if license == "CC BY SA 4.0":
-        return "cc-by-sa-4.0"
-    if license == "CC BY NC 4.0":
-        return "cc-by-nc-4.0"
-    if license == "CC BY ND 4.0":
-        return "cc-by-nd-4.0"
-    if license == "CC BY NC SA 4.0":
-        return "cc-by-nd-sa-4.0"
-    if license == "CC BY NC ND 4.0":
-        return "cc-by-nd-nd-4.0"
+def clean_license(licenses):
+    if not type(licenses) is list:
+        licenses = [licenses]
     
-    return license
+    for i in range(len(licenses)):
+        license = licenses[i]
+        if license == "CC BY 4.0":
+            license = "cc-by-4.0"
+        if license == "CC BY SA 4.0":
+            license = "cc-by-sa-4.0"
+        if license == "CC BY NC 4.0":
+            license = "cc-by-nc-4.0"
+        if license == "CC BY ND 4.0":
+            license = "cc-by-nd-4.0"
+        if license == "CC BY NC SA 4.0":
+            license = "cc-by-nd-sa-4.0"
+        if license == "CC BY NC ND 4.0":
+            license = "cc-by-nd-nd-4.0"
+        if license == "ODC BY 1.0":
+            license = "odc-by-1.0"
+        if license == "CC BY-NC-ND 3.0 Deed":
+            license = "cc-by-nc-nd-3.0"
+        
+        license = license.lower().replace("bsd ", "bsd-")
+        licenses[i]  = license
+    
+    if len(licenses) == 1:
+        licenses = licenses[0]
+        
+    return licenses
 
 def read_doi(doi):
     import requests

@@ -61,7 +61,7 @@ resources:
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
 - authors: Thomas Zobel, Sarah Weischner, Jens Wendt
   description: "A use case example from the M\xFCnster Imaging Network"
-  license: All Rights Reserved
+  license: all rights reserved
   name: OMERO for microscopy research data management
   tags:
   - NFDI4BioImage
@@ -70,7 +70,7 @@ resources:
   type: publication
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
 - authors: Susanne Kunis, Karen Bernhardt and Michael Hensel
-  license: Unclear
+  license: unclear
   name: Setting up a data management infrastructure for bioimaging
   tags:
   - NFDI4BioImage
@@ -100,7 +100,7 @@ resources:
   url: https://zenodo.org/record/7018929
 - authors: Robert Haase
   description: Article about the Fiji Updater explaining how it works in the background.
-  license: All Rights Reserved
+  license: all rights reserved
   name: The Fiji Updater
   tags:
   - imagej
@@ -109,7 +109,7 @@ resources:
 - authors: Robert Haase, Loic Royer, et al
   description: CLIJ is a collection of image processing functions that use graphics
     processing units for accelerated processing.
-  license: All Rights Reserved
+  license: all rights reserved
   name: 'CLIJ: GPU-accelerated image processing for everyone'
   publication_date: 2020
   tags:
@@ -143,7 +143,7 @@ resources:
     \ Reynaud, S\xE9amus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash"
   description: This comment article outlines the current state of the art in open
     hardware publishing in the context of microscopy.
-  license: All Rights Reserved
+  license: all rights reserved
   name: 'Open microscopy in the life sciences: quo vadis?'
   publication_date: 2022
   type: publication
@@ -181,7 +181,7 @@ resources:
   type: publication
   url: https://f1000research.com/articles/10-334/v1
 - authors: Ugis Sarkans et al
-  license: All Rights Reserved
+  license: all rights reserved
   name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
     \ microscopy data in biology"
   tags:
@@ -191,7 +191,7 @@ resources:
   url: https://www.nature.com/articles/s41592-021-01166-8
 - authors: "Susanne Kunis, Sebastian H\xE4nsch, Christian Schmidt, Frances Wong, Caterina\
     \ Strambio-De-Castillia, Stefanie Weidtkamp-Peters"
-  license: All Rights Reserved
+  license: all rights reserved
   name: 'MDEmic: a metadata annotation tool to facilitate management of FAIR image
     data in the bioimaging community'
   tags:
@@ -248,7 +248,7 @@ resources:
     \ Schroth-Diez, Lucas Sch\xFCtz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P\
     \ Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia,\
     \ Douglas Taatjes, Christian Tischer, Helena Klara Jambor"
-  license: All Rights Reserved
+  license: all rights reserved
   name: Community-developed checklists for publishing images and image analyses
   tags:
   - bioimage analysis
