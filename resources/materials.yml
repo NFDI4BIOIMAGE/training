@@ -516,13 +516,6 @@ resources:
   - bioimage analysis
   type: document
   url: https://imagej.net/plugins/morpholibj
-- authors: Pete Bankhead
-  license: unknown
-  name: Analyzing fluorescence microscopy images with ImageJ
-  tags:
-  - ImageJ
-  - bioimage analysis
-  url: https://petebankhead.gitbooks.io/imagej-intro/content/
 - authors: Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska,
     Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
   license: gpl-3.0
