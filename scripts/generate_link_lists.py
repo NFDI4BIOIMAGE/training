@@ -108,6 +108,167 @@ def read_yaml_file(filename):
         data = yaml.safe_load(file)
         return data
 
+def write_yaml_file(file_path, data):
+    """Saves data as yaml file to disk"""
+    import yaml
+    with open(file_path, 'w') as file:
+        yaml.dump(data, file)
+
+
+def update_all_yaml_files(directory_path):
+    import os
+    for filename in os.listdir(directory_path):
+        if filename.endswith('.yml'):
+            print("updating", filename)
+            update_yaml_file(directory_path + filename)
+
+
+def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
+    """
+    Update the YAML file with Zenodo metadata and statistics.
+    
+    Parameters:
+    - yaml_filename : str
+        The filename of the YAML file.
+    """
+    # Read the content from the YAML file
+    content = read_yaml_file(yaml_filename)
+    entries = content['resources']
+    
+    # Iterate over each entry in the YAML file
+    for entry in entries:
+        urls = entry['url']
+        if not type(urls) is list:
+            urls = [urls]
+    
+        # Check each URL and extract the Zenodo and DOI URLs
+        doi_url = None
+        zenodo_url = None
+        github_url = None
+        for url in urls:
+            url = url.strip()
+            if url.startswith('https://zenodo.org/'):
+                zenodo_url = url
+            if url.startswith('https://doi.org/'):
+                doi_url = url
+            if url.startswith('https://github.com/'):
+                github_url = url
+    
+        # If Zenodo URL is found, fetch the metadata and update the entry
+        if zenodo_url is not None and use_zenodo:
+            zenodo_data = read_zenodo(zenodo_url)
+
+            if 'doi_url' in zenodo_data.keys():
+                doi_url = zenodo_data['doi_url']
+                
+                # Add DOI URL to the URLs list if it's not already there
+                if doi_url not in urls:
+                    urls.append(doi_url)
+                    entry['url'] = urls
+                
+            if 'metadata' in zenodo_data.keys():
+                metadata = zenodo_data['metadata']
+                # Update entry with Zenodo metadata and statistics
+                entry['name'] = metadata['title']
+                if 'publication_date' in metadata.keys():
+                    entry['publication_date'] = metadata['publication_date']
+                if 'description' in metadata.keys():
+                    entry['description'] = remove_html_tags(metadata['description'])
+                if 'creators' in metadata.keys():
+                    creators = metadata['creators']
+                    entry['authors'] = ", ".join([c['name'] for c in creators])
+                if 'license' in metadata.keys():
+                    entry['license'] = metadata['license']['id']
+            
+            if 'stats'  in zenodo_data.keys():
+                entry['num_downloads'] = zenodo_data['stats']['downloads']
+                
+        if github_url is not None and use_github:
+            license = read_github_license(github_url)
+            if license is not None:
+                entry['license'] = license
+
+        if 'license' in entry.keys():
+            entry['license'] = clean_license(entry['license'])
+            
+    # Write the modified content back to the YAML file
+    write_yaml_file(yaml_filename, content)
+
+def clean_license(license):
+    if license == "CC BY 4.0":
+        return "cc-by-4.0"
+    if license == "CC BY SA 4.0":
+        return "cc-by-sa-4.0"
+    if license == "CC BY NC 4.0":
+        return "cc-by-nc-4.0"
+    if license == "CC BY ND 4.0":
+        return "cc-by-nd-4.0"
+    if license == "CC BY NC SA 4.0":
+        return "cc-by-nd-sa-4.0"
+    if license == "CC BY NC ND 4.0":
+        return "cc-by-nd-nd-4.0"
+    
+    return license
+
+def read_doi(doi):
+    import requests
+    import json
+
+    doi = doi.replace("https://doi.org/", "")
+    url = "https://doi.org/api/handles/" + doi
+    
+    # Download the file
+    response = requests.get(url)
+    data = response.json()
+    return data
+
+
+def read_github_license(github_url):
+    import requests
+    import os
+    import json
+    temp = github_url.split("/")
+    organization = temp[3]
+    repository = temp[4]
+
+    url = f"https://api.github.com/repos/{organization}/{repository}/license"
+    GITHUB_API_KEY = os.environ.get('GITHUB_API_KEY')
+    
+    # Set up authentication headers to have a higher API rate limit
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "Authorization": f"Bearer {GITHUB_API_KEY}",
+        "X-GitHub-Api-Version": "2022-11-28"
+    }
+    
+    response = requests.get(url, headers=headers)
+    data = response.json()
+    if 'license' in data.keys():
+        license = data['license']['key']
+        if "other" not in license:
+            return license
+
+
+
+def read_zenodo(record):
+    
+    import requests
+    import json
+
+    record = record.replace("https://zenodo.org/", "")
+    url = "https://zenodo.org/api/" + record
+    
+    # Download the file
+    response = requests.get(url)
+    data = response.json()
+    return data
+
+
+def remove_html_tags(text):
+    import re
+    cleaned_text = re.sub('<.*?>', '', text)
+    return cleaned_text
+    
 
 def collect_all(content, what_to_collect):
     all_tags = {}

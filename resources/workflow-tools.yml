@@ -1,88 +1,89 @@
 resources:
-- name: "JIPipe: visual batch processing for ImageJ"
-  authors: Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
-  type: 
+- authors: "Ruman Gerst, Zolt\xE1n Cseresny\xE9s, Marc Thilo Figge"
+  description: JIPipe is an open-source visual programming language for easy-access
+    pipeline development
+  name: 'JIPipe: visual batch processing for ImageJ'
+  tags:
+  - workflow engine
+  - imagej
+  type:
   - publication
   - documentation
   url:
   - https://www.nature.com/articles/s41592-022-01744-4
   - https://jipipe.hki-jena.de/
+- authors: "Birgit M\xF6ller, Markus Gla\xDF, Danny Misiak, Stefan Posch"
+  description: The Microscope Image Analysis Toolbox is a toolbox with a collection
+    of algorithms for processing and analyzing digital images.
+  name: MiToBo - A Toolbox for Image Processing and Analysis
   tags:
   - workflow engine
   - imagej
-  description: JIPipe is an open-source visual programming language for easy-access pipeline development
-
-- name: MiToBo - A Toolbox for Image Processing and Analysis
-  authors: Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
-  type: 
+  type:
   - publication
   - documentation
   url:
   - https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103
   - https://mitobo.informatik.uni-halle.de/
+- authors: Daniel Franco-Barranco et al
+  description: BiaPy is an open source Python library for building bioimage analysis
+    pipelines, also called workflows.
+  name: 'BiaPy: Bioimage analysis pipelines in Python'
   tags:
   - workflow engine
-  - imagej
-  description: The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
-
-- name: "BiaPy: Bioimage analysis pipelines in Python"
-  authors: Daniel Franco-Barranco et al
+  - python
   type: documentation
   url: https://biapy.readthedocs.io/
+- description: Galaxy is an open source, web-based platform for data intensive biomedical
+    research.
+  name: Galaxy Documentation
   tags:
   - workflow engine
-  - python
-  description: BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
-
-- name: Galaxy Documentation
   type: documentation
   url: https://usegalaxy.org/
-  tags:
-  - workflow engine
-  description: Galaxy is an open source, web-based platform for data intensive biomedical research.
-
-- name: Fractal Documentation
-  type: documentation
-  url: https://fractal-analytics-platform.github.io/
+- description: Fractal is a framework to process high-content imaging data at scale
+    and prepare it for interactive visualization.
+  name: Fractal Documentation
   tags:
   - workflow engine
   - python
-  description: Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
-
-- name: Snakemake Documentation
+  type: documentation
+  url: https://fractal-analytics-platform.github.io/
+- description: The Snakemake workflow management system is a tool to create reproducible
+    and scalable data analyses.
+  name: Snakemake Documentation
+  tags:
+  - workflow engine
+  - python
   type: documentation
   url:
   - https://snakemake.readthedocs.io/en/stable/
   - https://academic.oup.com/bioinformatics/article/28/19/2520/290322
-  tags:
-  - workflow engine
-  - python
-  description: The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
-
-- name: "ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ"
-  authors: Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
-  type: 
-  - publication
-  - documentation
+- authors: Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+  description: ModularImageAnalysis is a Fiji plugin providing a modular framework
+    for assembling image and object analysis workflows
+  name: 'ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis
+    workflows in ImageJ'
   tags:
   - workflow engine
   - imagej
+  type:
+  - publication
+  - documentation
   url:
   - https://doi.org/10.1111/jmi.13227
   - https://mianalysis.github.io/
-  description: ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
-
-- name: NextFlow documentation
-  type: documentation
-  url: https://www.nextflow.io/
+- description: Nextflow enables scalable and reproducible scientific workflows using
+    software containers.
+  name: NextFlow documentation
   tags:
   - workflow engine
-  description: Nextflow enables scalable and reproducible scientific workflows using software containers.
-
-- name: NextFlow core
-  type: collection
-  url: https://nf-co.re/
+  type: documentation
+  url: https://www.nextflow.io/
+- description: nf-core is a community effort to collect a curated set of analysis
+    pipelines built using Nextflow
+  name: NextFlow core
   tags:
   - python
-  description: nf-core is a community effort to collect a curated set of analysis pipelines built using Nextflow
-
+  type: collection
+  url: https://nf-co.re/
