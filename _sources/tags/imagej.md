@@ -1,4 +1,4 @@
-# Imagej (17)
+# Imagej (16)
 ## A Fiji Scripting Tutorial
 
 Albert Cardona
@@ -27,21 +27,6 @@ Tags: imagej
 Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
-
-
----
-
-## Analyzing fluorescence microscopy images with ImageJ
-
-Pete Bankhead
-
-Licensed unknown
-
-
-
-Tags: ImageJ, bioimage analysis
-
-[https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
 
 
 ---

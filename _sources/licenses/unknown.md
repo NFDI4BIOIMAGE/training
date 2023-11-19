@@ -1,4 +1,4 @@
-# Unknown (57)
+# Unknown (56)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -44,21 +44,6 @@ Licensed unknown
 
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
-
-
----
-
-## Analyzing fluorescence microscopy images with ImageJ
-
-Pete Bankhead
-
-Licensed unknown
-
-
-
-Tags: ImageJ, bioimage analysis
-
-[https://petebankhead.gitbooks.io/imagej-intro/content/](https://petebankhead.gitbooks.io/imagej-intro/content/)
 
 
 ---
