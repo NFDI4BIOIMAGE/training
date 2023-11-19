@@ -5,6 +5,8 @@ Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. 
 
 Published 2021
 
+Licensed bsd-3-clause
+
 
 
 Tags: bioimage analysis
@@ -22,7 +24,7 @@ Content type: publication
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -39,7 +41,7 @@ Content type: publication, conference abstract
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -105,7 +107,7 @@ Content type: publication, poster
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -142,6 +144,8 @@ Content type: publication
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
+
+Licensed bsd-3-clause
 
 
 
@@ -196,7 +200,7 @@ Content type: publication
 
 Johannes Richard Soltwedel, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -232,7 +236,7 @@ Content type: publication
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -251,7 +255,7 @@ Content type: publication
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -270,7 +274,7 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -336,7 +340,7 @@ Content type: publication
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -438,7 +442,7 @@ Content type: publication, documentation
 
 Schmidt, Christian ; Ferrando-May, Elisa
 
-Licensed CC BY SA 4.0
+Licensed cc-by-sa-4.0
 
 
 
@@ -455,7 +459,7 @@ Content type: poster, publication
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -472,7 +476,7 @@ Content type: publication
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -527,7 +531,7 @@ Content type: publication
 
 Glyn Nelson, Ulrike Boehme, et al
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -561,7 +565,7 @@ Content type: publication
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -595,7 +599,7 @@ Content type: publication
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

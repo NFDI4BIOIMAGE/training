@@ -1,9 +1,9 @@
-# Susanne kunis (7)
+# Susanne kunis (5)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -12,27 +12,6 @@ Tags: NFDI4BioImage, research data management
 Content type: publication, conference abstract
 
 [https://doi.org/10.52825/cordi.v1i.285](https://doi.org/10.52825/cordi.v1i.285)
-
-
----
-
-## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
-
-Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
-
-Licensed CC BY 4.0
-
-
-
-Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
-
-Tags: omero, research data management, nfdi4bioimage, i3dbio
-
-Content type: slide, video
-
-[https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
-
-[https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 
 ---
@@ -58,7 +37,7 @@ Content type: publication
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -92,7 +71,7 @@ Content type: publication
 
 Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -101,23 +80,6 @@ Tags: NFDI4BioImage, research data management
 Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
-
-
----
-
-## Thinking data management on different scales
-
-Susanne Kunis
-
-Licensed CC BY 4.0
-
-
-
-Tags: research data management, NFDI4BioImage
-
-Content type: slide
-
-[https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
 
 
 ---

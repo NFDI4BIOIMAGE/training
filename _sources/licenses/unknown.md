@@ -1,4 +1,4 @@
-# Unknown (58)
+# Unknown (57)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -29,23 +29,6 @@ Tags: artificial intelligence, workflow engine, bio-image analysis
 Content type: documentation
 
 [https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
-
-
----
-
-## Adding a Workflow to BIAFLOWS
-
-Sébastien Tosi, Volker Baecker, Benjamin Pavie
-
-Licensed unknown
-
-
-
-Tags: neubias, bioimage analysis
-
-Content type: slide
-
-[https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
 
 ---

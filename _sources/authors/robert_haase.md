@@ -3,7 +3,7 @@
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -37,7 +37,7 @@ Content type: publication, poster
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -75,7 +75,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -92,7 +92,7 @@ Content type: slide
 
 Johannes Richard Soltwedel, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -111,7 +111,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -130,7 +130,7 @@ Content type: blog
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -149,7 +149,7 @@ Content type: publication
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -166,7 +166,7 @@ Content type: publication, poster
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -185,7 +185,7 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -202,7 +202,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -238,7 +238,7 @@ Content type: slide
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC BY NC 4.0
+Licensed cc-by-nc-4.0
 
 
 
@@ -287,7 +287,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -304,7 +304,7 @@ Content type: blog
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -376,7 +376,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -393,7 +393,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -412,7 +412,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

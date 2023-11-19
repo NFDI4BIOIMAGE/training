@@ -88,7 +88,7 @@ Content type: slide
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -105,7 +105,7 @@ Content type: book, notebook
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC BY NC 4.0
+Licensed cc-by-nc-4.0
 
 
 

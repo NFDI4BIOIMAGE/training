@@ -86,7 +86,7 @@ Content type: notebook
 
 ## CellProfiler tutorials
 
-Licensed BSD 3-Clause
+Licensed bsd-3-clause
 
 
 
@@ -105,7 +105,7 @@ Content type: notebook
 
 Guillaume Jacquemet
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 
@@ -156,7 +156,7 @@ Content type: notebook
 
 Iván Hidalgo, et al.
 
-Licensed ['CC BY 4.0']
+Licensed cc-by-4.0
 
 
 
@@ -203,7 +203,7 @@ Content type: notebook
 
 ## Deep Learning Based Segmentation For Biologists
 
-Licensed AGPL-3.0 license
+Licensed agpl-3.0
 
 
 
@@ -237,7 +237,7 @@ Content type: notebook
 
 Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -322,7 +322,7 @@ Content type: notebook
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -339,7 +339,7 @@ Content type: notebook
 
 Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
 
-Licensed GPL-3.0 license
+Licensed gpl-3.0
 
 
 
@@ -356,7 +356,7 @@ Content type: notebook
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -390,7 +390,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -409,7 +409,7 @@ Content type: notebook
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -543,7 +543,7 @@ Content type: slide, notebook
 
 Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
-Licensed GPL-2.0
+Licensed gpl-2.0
 
 
 
@@ -620,7 +620,7 @@ Content type: notebook, collection
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
@@ -637,7 +637,7 @@ Content type: collection, notebook
 
 Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 
@@ -656,7 +656,7 @@ Content type: notebook, collection
 
 Guillaume Witz
 
-Licensed bsd 3-clause
+Licensed bsd-3-clause
 
 
 

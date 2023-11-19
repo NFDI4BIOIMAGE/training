@@ -88,7 +88,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -124,7 +124,7 @@ Content type: slide
 
 Guillaume Witz
 
-Licensed bsd 3-clause
+Licensed bsd-3-clause
 
 
 

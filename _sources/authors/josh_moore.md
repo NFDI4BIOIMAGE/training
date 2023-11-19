@@ -3,7 +3,7 @@
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -20,7 +20,7 @@ Content type: publication, conference abstract
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -37,7 +37,7 @@ Content type: publication, poster
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -54,7 +54,7 @@ Content type: publication
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -71,7 +71,7 @@ Content type: publication
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -88,7 +88,7 @@ Content type: publication
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

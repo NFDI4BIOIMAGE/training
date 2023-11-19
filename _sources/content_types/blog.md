@@ -18,7 +18,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -35,7 +35,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -84,7 +84,7 @@ Content type: blog
 
 Mara Lampert
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -101,7 +101,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -120,7 +120,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -182,7 +182,7 @@ Content type: blog
 
 Marcelo Zoccoler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -214,7 +214,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

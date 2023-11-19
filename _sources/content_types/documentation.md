@@ -86,7 +86,7 @@ Content type: publication, documentation
 
 Kevin Yamauchi
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -154,7 +154,7 @@ Content type: documentation
 
 ## OME Documentation
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

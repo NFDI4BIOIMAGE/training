@@ -156,17 +156,23 @@ Content type: documentation
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-Evan Floden, Paolo Di Tommaso
+Floden, Evan, Di Tommaso, Paolo
 
-Licensed CC BY 4.0
+Published 2020-12-17
+
+Licensed cc-by-4.0
 
 
+
+Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
 Tags: workflow engine
 
 Content type: slide
 
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
+
+[https://doi.org/10.5281/zenodo.4334697](https://doi.org/10.5281/zenodo.4334697)
 
 
 ---

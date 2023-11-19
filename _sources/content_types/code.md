@@ -1,23 +1,4 @@
 # Code (10)
-## Code associated with The Digital Cell book
-
-Stephen Royle
-
-Licensed GPL-3.0
-
-
-
-Tags: bioimage analysis
-
-Content type: code
-
-[https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
-
-[https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
-
-
----
-
 ## Data Carpentry for Biologists
 
 Licensed ['CC BY 4.0', 'MIT']
@@ -159,6 +140,31 @@ Tags: neubias, bioimage analysis
 Content type: code
 
 [https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
+
+
+---
+
+## quantixed/TheDigitalCell: First complete code set
+
+Stephen Royle
+
+Published 2019-04-17
+
+Licensed gpl-3.0
+
+
+
+First complete code set for The Digital Cell book.
+
+Tags: bioimage analysis
+
+Content type: code
+
+[https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
+
+[https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
+
+[https://doi.org/10.5281/zenodo.2643411](https://doi.org/10.5281/zenodo.2643411)
 
 
 ---

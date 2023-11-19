@@ -50,7 +50,7 @@ Content type: tutorial, book
 
 ## Galaxy Training Material
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -187,7 +187,7 @@ Content type: tutorial
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -204,7 +204,7 @@ Content type: tutorial
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 

@@ -3,7 +3,7 @@
 
 Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

@@ -1,9 +1,9 @@
-# Cc by 4.0 (51)
+# Cc-by-4.0 (46)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -20,7 +20,7 @@ Content type: publication, conference abstract
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -39,7 +39,7 @@ Content type: publication
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -54,7 +54,7 @@ Content type: publication
 
 ## Bio.tools database
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -67,28 +67,11 @@ Content type: collection
 
 ---
 
-## BioImage Analysis Notebooks
-
-Robert Haase et al.
-
-Licensed ['CC BY 4.0', 'BSD 3-clause']
-
-
-
-Tags: python, bioimage analysis
-
-Content type: book, notebook
-
-[https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
-
-
----
-
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -101,28 +84,11 @@ Content type: blog
 
 ---
 
-## CellTrackColab
-
-Guillaume Jacquemet
-
-Licensed ['MIT', 'CC BY 4.0']
-
-
-
-Content type: notebook, collection
-
-[https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
-
-[https://github.com/guijacquemet/CellTracksColab](https://github.com/guijacquemet/CellTracksColab)
-
-
----
-
 ## Challenges and opportunities for bio-image analysis core-facilities
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -139,7 +105,7 @@ Content type: slide
 
 Johannes Richard Soltwedel, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -158,7 +124,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -175,15 +141,21 @@ Content type: blog
 
 ## Creating open computational curricula
 
-Kari Jordan, Zhian Kamvar, Toby Hodges
+Jordan, Kari, Kamvar, Zhian, Hodges, Toby
 
-Licensed CC BY 4.0
+Published 2020-12-11
+
+Licensed cc-by-4.0
 
 
+
+In this interactive session, Carpentries team members will guide attendees through three stages of the backward design process to create a lesson development plan for the open source tool of their choosing. Attendees will leave having identified what practical skills they aim to teach (learning objectives), an approach for designing challenge questions (formative assessment), and mechanisms to give and receive feedback.
 
 Content type: slide
 
 [https://zenodo.org/records/4317149](https://zenodo.org/records/4317149)
+
+[https://doi.org/10.5281/zenodo.4317149](https://doi.org/10.5281/zenodo.4317149)
 
 
 ---
@@ -192,7 +164,7 @@ Content type: slide
 
 Iván Hidalgo, et al.
 
-Licensed ['CC BY 4.0']
+Licensed cc-by-4.0
 
 
 
@@ -203,24 +175,11 @@ Content type: notebook, collection
 
 ---
 
-## Data Carpentry for Biologists
-
-Licensed ['CC BY 4.0', 'MIT']
-
-
-
-Content type: tutorial, code
-
-[https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
-
-
----
-
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -239,7 +198,7 @@ Content type: publication
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -256,7 +215,7 @@ Content type: publication, poster
 
 Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -273,7 +232,7 @@ Content type: document
 
 ## Forschungsdaten.org
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -292,7 +251,7 @@ Content type: collection
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -309,7 +268,7 @@ Content type: slide
 
 Mara Lampert
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -328,7 +287,7 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -343,13 +302,15 @@ Content type: publication
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+Schmidt, Christian, Bortolomeazzi, Michele, Boissonnet, Tom, Fortmann-Grote, Carsten, Dohle, Julia, Zentis, Peter, Kandpal, Niraj, Kunis, Susanne, Zobel, Thomas, Weidtkamp-Peters, Stefanie, Ferrando-May, Elisa
 
-Licensed CC BY 4.0
+Published 2023-11-13
+
+Licensed cc-by-4.0
 
 
 
-Omero Training materials from the Information Infrastructure for BioImage Data (I3D:bio).
+The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
 Tags: omero, research data management, nfdi4bioimage, i3dbio
 
@@ -359,6 +320,8 @@ Content type: slide, video
 
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
+[https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
 
 ---
 
@@ -366,7 +329,7 @@ Content type: slide, video
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -383,7 +346,7 @@ Content type: blog
 
 ## Image Analysis Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -400,7 +363,7 @@ Content type: book
 
 Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -417,7 +380,7 @@ Content type: Python, bioimage analysis
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -434,7 +397,7 @@ Content type: book, notebook
 
 Kevin Yamauchi
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -451,7 +414,7 @@ Content type: documentation
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -468,7 +431,7 @@ Content type: blog
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -485,7 +448,7 @@ Content type: publication
 
 Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -506,7 +469,7 @@ Content type: online tutorial, video, slide
 
 Josh Moore, Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -521,11 +484,15 @@ Content type: publication
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-Evan Floden, Paolo Di Tommaso
+Floden, Evan, Di Tommaso, Paolo
 
-Licensed CC BY 4.0
+Published 2020-12-17
+
+Licensed cc-by-4.0
 
 
+
+Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
 Tags: workflow engine
 
@@ -533,12 +500,14 @@ Content type: slide
 
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
+[https://doi.org/10.5281/zenodo.4334697](https://doi.org/10.5281/zenodo.4334697)
+
 
 ---
 
 ## OME Documentation
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -555,7 +524,7 @@ Content type: documentation
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -572,7 +541,7 @@ Content type: publication
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -587,7 +556,7 @@ Content type: slide
 
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -604,7 +573,7 @@ Content type: book
 
 Glyn Nelson, Ulrike Boehme, et al
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -619,11 +588,15 @@ Content type: publication
 
 ## QuPath: Open source software for analysing (awkward) images
 
-Peter Bankhead
+Bankhead, Peter
 
-Licensed CC BY 4.0
+Published 2020-12-16
+
+Licensed cc-by-4.0
 
 
+
+Slides from the CZI/EOSS online meeting in December 2020.
 
 Tags: bioimage analysis
 
@@ -631,12 +604,14 @@ Content type: slide
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
 
+[https://doi.org/10.5281/zenodo.4328911](https://doi.org/10.5281/zenodo.4328911)
+
 
 ---
 
 ## RDM4Mic Presentations
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -651,7 +626,7 @@ Content type: collection
 
 ## RDMKit Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -668,7 +643,7 @@ Content type: collection
 
 Della Chiesa, Stefano
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -685,7 +660,7 @@ Content type: slide
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -702,7 +677,7 @@ Content type: publication
 
 Marcelo Zoccoler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -719,7 +694,7 @@ Content type: blog
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -738,7 +713,7 @@ Content type: slide
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -757,7 +732,7 @@ Content type: blog
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -774,7 +749,7 @@ Content type: publication, preprint
 
 Susanne Kunis
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -787,34 +762,25 @@ Content type: video
 
 ---
 
-## The Turing Way: Guide for reproducible research
-
-Licensed ['CC BY 4.0', 'MIT']
-
-
-
-A guide which covers topics related to skills, tools and best practices for research reproducibility.
-
-Content type: book
-
-[https://the-turing-way.netlify.app/reproducible-research/reproducible-research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
-
-
----
-
 ## Thinking data management on different scales
 
-Susanne Kunis
+Kunis, Susanne
 
-Licensed CC BY 4.0
+Published 2023-08-31
+
+Licensed cc-by-4.0
 
 
+
+Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
 Tags: research data management, NFDI4BioImage
 
 Content type: slide
 
 [https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
+
+[https://doi.org/10.5281/zenodo.8329306](https://doi.org/10.5281/zenodo.8329306)
 
 
 ---
@@ -823,7 +789,7 @@ Content type: slide
 
 Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -838,30 +804,11 @@ Content type: book
 
 ---
 
-## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
-
-Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
-
-Licensed ['MIT', 'CC BY 4.0']
-
-
-
-Content type: notebook, collection
-
-[https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
-
-[https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
-
-[https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
-
-
----
-
 ## ilastik: interactive machine learning for (bio)image analysis
 
 Anna Kreshuk, Dominik Kutra
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

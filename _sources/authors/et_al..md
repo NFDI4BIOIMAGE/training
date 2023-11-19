@@ -3,7 +3,7 @@
 
 Iván Hidalgo, et al.
 
-Licensed ['CC BY 4.0']
+Licensed cc-by-4.0
 
 
 
@@ -18,7 +18,7 @@ Content type: notebook, collection
 
 Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

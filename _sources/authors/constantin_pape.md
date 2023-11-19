@@ -3,7 +3,7 @@
 
 Constantin Pape
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -52,7 +52,7 @@ Content type: notebook
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

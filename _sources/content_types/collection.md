@@ -48,7 +48,7 @@ Content type: collection, video
 
 ## Bio.tools database
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -108,7 +108,7 @@ Content type: collection
 
 Fabrizio Musacchio
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -179,7 +179,7 @@ Content type: collection, data
 
 Guillaume Jacquemet
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 
@@ -207,7 +207,7 @@ Content type: collection
 
 Iván Hidalgo, et al.
 
-Licensed ['CC BY 4.0']
+Licensed cc-by-4.0
 
 
 
@@ -278,7 +278,7 @@ Content type: collection
 
 ## Forschungsdaten.org
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -480,7 +480,7 @@ Content type: collection
 
 ## Omero Deployment examples
 
-Licensed BSD 2-clause
+Licensed bsd-2-clause
 
 
 
@@ -527,7 +527,7 @@ Content type: notebook, collection
 
 ## RDM4Mic Presentations
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -553,7 +553,7 @@ Content type: collection, video
 
 ## RDMKit Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -596,7 +596,7 @@ Content type: collection
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
@@ -613,7 +613,7 @@ Content type: collection, notebook
 
 Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 

@@ -69,7 +69,7 @@ Content type: book, notebook
 
 Fabrizio Musacchio
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -86,7 +86,7 @@ Content type: collection
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -169,7 +169,7 @@ Content type: notebook
 
 ## Deep Learning Based Segmentation For Biologists
 
-Licensed AGPL-3.0 license
+Licensed agpl-3.0
 
 
 
@@ -186,7 +186,7 @@ Content type: notebook
 
 Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -301,7 +301,7 @@ Content type: documentation
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -318,7 +318,7 @@ Content type: notebook
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -335,7 +335,7 @@ Content type: slide
 
 Mara Lampert
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -352,7 +352,7 @@ Content type: blog
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -386,7 +386,7 @@ Content type: notebook
 
 Guillaume Witz
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -405,7 +405,7 @@ Content type: notebook
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -422,7 +422,7 @@ Content type: book, notebook
 
 Kevin Yamauchi
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -439,7 +439,7 @@ Content type: documentation
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -537,7 +537,7 @@ Content type: collection
 
 Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
-Licensed GPL-2.0
+Licensed gpl-2.0
 
 
 
@@ -582,7 +582,7 @@ Content type: event, notebook
 
 Jonas Hartmann
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -661,7 +661,7 @@ Content type: blog
 
 Marcelo Zoccoler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -678,7 +678,7 @@ Content type: blog
 
 Nicolas P. Rougier
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -714,7 +714,7 @@ Content type: documentation
 
 Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -731,7 +731,7 @@ Content type: publication, preprint
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -761,7 +761,7 @@ Content type: blog
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
@@ -778,7 +778,7 @@ Content type: collection, notebook
 
 Guillaume Witz
 
-Licensed bsd 3-clause
+Licensed bsd-3-clause
 
 
 

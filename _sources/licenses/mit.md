@@ -3,7 +3,7 @@
 
 Guillaume Jacquemet
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 
@@ -20,7 +20,7 @@ Content type: notebook, collection
 
 Constantin Pape
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -48,7 +48,7 @@ Content type: tutorial, code
 
 Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -63,7 +63,7 @@ Content type: notebook
 
 ## Galaxy Training Material
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -78,7 +78,7 @@ Content type: slides, tutorial
 
 Christian Tischer
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -93,7 +93,7 @@ Training materials about image registration, big warp and elastix
 
 Guillaume Witz
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -112,7 +112,7 @@ Content type: notebook
 
 Jonas Hartmann
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -127,7 +127,7 @@ Tags: Python, bioimage analysis
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -144,7 +144,7 @@ Content type: tutorial
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -176,7 +176,7 @@ Content type: book
 
 Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
-Licensed ['MIT', 'CC BY 4.0']
+Licensed mit
 
 
 

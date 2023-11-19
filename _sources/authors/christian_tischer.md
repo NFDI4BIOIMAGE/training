@@ -3,7 +3,7 @@
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -37,7 +37,7 @@ Licensed unknown
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -105,7 +105,7 @@ Content type: publication
 
 Christian Tischer
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -120,7 +120,7 @@ Training materials about image registration, big warp and elastix
 
 Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -141,7 +141,7 @@ Content type: online tutorial, video, slide
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

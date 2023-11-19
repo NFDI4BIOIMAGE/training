@@ -5,6 +5,8 @@ Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. 
 
 Published 2021
 
+Licensed bsd-3-clause
+
 
 
 Tags: bioimage analysis
@@ -56,7 +58,7 @@ Content type: notebook
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -75,7 +77,7 @@ Content type: publication
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
-Licensed unknown
+Licensed bsd-2-clause
 
 
 
@@ -139,7 +141,7 @@ Content type: book
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -250,7 +252,7 @@ Content type: collection
 
 Fabrizio Musacchio
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -268,6 +270,8 @@ Content type: collection
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater,  Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
+
+Licensed bsd-3-clause
 
 
 
@@ -433,7 +437,7 @@ Content type: tutorial
 
 ## CellProfiler tutorials
 
-Licensed BSD 3-Clause
+Licensed bsd-3-clause
 
 
 
@@ -452,7 +456,7 @@ Content type: notebook
 
 Johannes Richard Soltwedel, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -467,30 +471,11 @@ Content type: publication
 
 ---
 
-## Code associated with The Digital Cell book
-
-Stephen Royle
-
-Licensed GPL-3.0
-
-
-
-Tags: bioimage analysis
-
-Content type: code
-
-[https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
-
-[https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
-
-
----
-
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
 Constantin Pape
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -718,7 +703,7 @@ Content type: notebook
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -735,7 +720,7 @@ Content type: notebook
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -767,7 +752,7 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -784,7 +769,7 @@ Content type: publication
 
 Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
 
-Licensed GPL-3.0 license
+Licensed gpl-3.0
 
 
 
@@ -814,7 +799,7 @@ Content type: collection, video
 
 ## Image Analysis Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -831,7 +816,7 @@ Content type: book
 
 Juan Nunez-Iglesias
 
-Licensed BSD 3-clause
+Licensed bsd-3-clause
 
 
 
@@ -882,7 +867,7 @@ Content type: notebook
 
 Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
 
-Licensed pubic domain
+Licensed cc0-1.0
 
 
 
@@ -950,7 +935,7 @@ Content type: collection, video
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -967,7 +952,7 @@ Content type: book, notebook
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC BY NC 4.0
+Licensed cc-by-nc-4.0
 
 
 
@@ -1082,7 +1067,7 @@ Content type: slide
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -1114,7 +1099,7 @@ Content type: collection, video
 
 Christian Tischer
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -1267,7 +1252,7 @@ Content type: slide, notebook
 
 Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
-Licensed GPL-2.0
+Licensed gpl-2.0
 
 
 
@@ -1312,7 +1297,7 @@ Content type: event, notebook
 
 Jonas Hartmann
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -1342,17 +1327,23 @@ Content type: notebook, collection
 
 ## QuPath: Open source software for analysing (awkward) images
 
-Peter Bankhead
+Bankhead, Peter
 
-Licensed CC BY 4.0
+Published 2020-12-16
+
+Licensed cc-by-4.0
 
 
+
+Slides from the CZI/EOSS online meeting in December 2020.
 
 Tags: bioimage analysis
 
 Content type: slide
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
+
+[https://doi.org/10.5281/zenodo.4328911](https://doi.org/10.5281/zenodo.4328911)
 
 
 ---
@@ -1391,7 +1382,7 @@ Content type: blog
 
 Marcelo Zoccoler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -1425,7 +1416,7 @@ Content type: code
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -1442,7 +1433,7 @@ Content type: tutorial
 
 Rafael Camacho
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -1591,7 +1582,7 @@ Content type: slide
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
@@ -1640,7 +1631,7 @@ Content type: collection, video
 
 Anna Kreshuk, Dominik Kutra
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -1649,6 +1640,31 @@ Tags: artificial intelligence, bioimage analysis
 Content type: slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## quantixed/TheDigitalCell: First complete code set
+
+Stephen Royle
+
+Published 2019-04-17
+
+Licensed gpl-3.0
+
+
+
+First complete code set for The Digital Cell book.
+
+Tags: bioimage analysis
+
+Content type: code
+
+[https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
+
+[https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
+
+[https://doi.org/10.5281/zenodo.2643411](https://doi.org/10.5281/zenodo.2643411)
 
 
 ---

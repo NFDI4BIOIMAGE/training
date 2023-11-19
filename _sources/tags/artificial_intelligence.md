@@ -105,7 +105,7 @@ Content type: notebook
 
 Constantin Pape
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -169,7 +169,7 @@ Content type: slide, notebook
 
 ## Deep Learning Based Segmentation For Biologists
 
-Licensed AGPL-3.0 license
+Licensed agpl-3.0
 
 
 
@@ -203,7 +203,7 @@ Content type: notebook
 
 Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
-Licensed MIT
+Licensed mit
 
 
 
@@ -290,7 +290,7 @@ Content type: notebook
 
 Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -375,7 +375,7 @@ Content type: slide, notebook
 
 Marcelo Zoccoler
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -424,7 +424,7 @@ Content type: slide
 
 Anna Kreshuk, Dominik Kutra
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

@@ -3,7 +3,7 @@
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
-Licensed unknown
+Licensed bsd-2-clause
 
 
 
@@ -71,7 +71,7 @@ Content type: tutorial
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -111,7 +111,7 @@ Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuon
 
 Published 2021
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -126,7 +126,7 @@ Content type: publication
 
 ## Image Analysis Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

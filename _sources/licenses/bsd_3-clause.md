@@ -1,4 +1,4 @@
-# Bsd 3-clause (13)
+# Bsd 3-clause (9)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -29,57 +29,6 @@ Tags: python, bioimage analysis
 Content type: book, notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
-
-
----
-
-## CellProfiler tutorials
-
-Licensed BSD 3-Clause
-
-
-
-CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
-
-Tags: cellprofiler, bioimage analysis
-
-Content type: notebook
-
-[https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
-
-
----
-
-## Fundamentals of image analysis in Python with scikit-image, napari, and friends
-
-Juan Nunez-Iglesias
-
-Licensed BSD 3-clause
-
-
-
-Tags: Python, bioimage analysis
-
-Content type: notebook
-
-[https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
-
-
----
-
-## Image analysis and visualization in Python with scikit-image, napari, and friends
-
-Juan Nunez-Iglesias
-
-Licensed BSD 3-clause
-
-
-
-Tags: Python, bioimage analysis
-
-Content type: notebook
-
-[https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
 
 
 ---
@@ -201,23 +150,6 @@ Tags: neubias, imagej, bioimage analysis
 Content type: slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
-
-
----
-
-## numpy pandas course
-
-Guillaume Witz
-
-Licensed bsd 3-clause
-
-
-
-Tags: Python
-
-Content type: notebook
-
-[https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
 
 
 ---

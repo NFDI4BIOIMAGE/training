@@ -90,7 +90,7 @@ Content type: tutorial, book
 
 ## Image Analysis Training Resources
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -107,7 +107,7 @@ Content type: book
 
 Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
 
-Licensed pubic domain
+Licensed cc0-1.0
 
 
 
@@ -126,7 +126,7 @@ Content type: book
 
 Pete Bankhead
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -141,7 +141,7 @@ Content type: book, notebook
 
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -158,7 +158,7 @@ Content type: book
 
 Nicolas P. Rougier
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -220,7 +220,7 @@ Content type: book
 
 Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
 
-Licensed CC BY 4.0
+Licensed cc-by-4.0
 
 
 

@@ -18,7 +18,7 @@ Content type: blog
 
 Fabrizio Musacchio
 
-Licensed CC BY NC SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -93,7 +93,7 @@ Content type: blog
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
