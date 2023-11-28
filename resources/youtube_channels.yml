@@ -101,7 +101,7 @@ resources:
   - video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
 - name: Chris Halvin YouTube channel
-license: unknown
+  license: unknown
   type:
   - collection
   - video
