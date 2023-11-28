@@ -100,3 +100,15 @@ resources:
   type:
   - video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
+- name: Chris Halvin YouTube channel
+license: unknown
+  type:
+  - collection
+  - video
+  tags:
+  - napari
+  - python
+  - Bioimage analysis
+  url:
+  - https://www.youtube.com/@chrishavlin
+  - https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1
