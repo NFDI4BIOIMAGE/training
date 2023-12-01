@@ -1,4 +1,4 @@
-# Slide (37)
+# Slide (38)
 ## Adding a Workflow to BIAFLOWS
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
@@ -29,6 +29,25 @@ Tags: bioimage analysis
 Content type: slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
+
+
+---
+
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+
+Cornelia Wetzker
+
+Licensed cc-by-4.0
+
+
+
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---

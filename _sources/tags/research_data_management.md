@@ -1,4 +1,4 @@
-# Research data management (35)
+# Research data management (36)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -44,6 +44,25 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+
+Cornelia Wetzker
+
+Licensed cc-by-4.0
+
+
+
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---

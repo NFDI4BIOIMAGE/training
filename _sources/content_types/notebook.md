@@ -1,4 +1,4 @@
-# Notebook (42)
+# Notebook (41)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -29,23 +29,6 @@ Tags: imagej, bioimage analysis
 Content type: notebook
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
-
-
----
-
-## Bio-image analysis, biostatistics, programming and machine learning for computational biology
-
-Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
-
-Licensed cc-by-4.0
-
-
-
-Tags: python, bioimage analysis, napari
-
-Content type: notebook
-
-[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---

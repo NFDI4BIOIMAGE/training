@@ -52,19 +52,21 @@ Content type: publication
 
 ---
 
-## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+Cornelia Wetzker
 
 Licensed cc-by-4.0
 
 
 
-Tags: python, bioimage analysis, napari
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
 
-Content type: notebook
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
 
-[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---
