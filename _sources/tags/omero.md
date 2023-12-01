@@ -1,4 +1,4 @@
-# Omero (11)
+# Omero (12)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -174,6 +174,21 @@ Tags: omero
 Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## User friendly Image metadata annotation tool/workflow for OMERO
+
+Jens Wendt
+
+
+
+Tags: metadata, workflow, OMERO
+
+Content type: forum post
+
+[https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1](https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1)
 
 
 ---
