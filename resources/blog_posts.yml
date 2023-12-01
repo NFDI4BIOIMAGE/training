@@ -103,3 +103,12 @@ resources:
   - OMERO
   type: forum post
   url: https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1
+
+- authors: Robert Haase
+  name: Collaborative bio-image analysis script editing with git
+  description: focalplane.biologists blog post that extensively describes various aspects of collaborative image analysis including code sharing, repositories, forking, cloning and pull request in GitHub, as well as GitHub Desktop, Jupyter notebooks, minimal work examples and the image.sc forum 
+  tags:
+  - bioimage analysis
+  - GitHub
+  type: blog
+  url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
