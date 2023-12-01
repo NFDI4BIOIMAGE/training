@@ -748,7 +748,9 @@ resources:
   type:
   - code
   - notebook
-  url: https://github.com/WhoIsJack/EMBL-CodingClub
+  url:
+  - https://github.com/WhoIsJack/EMBL-CodingClub
+  - https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/
 - authors: Karin Sasaki, Jonas Hartmann
   license: unknown
   name: Python Workshop - Image Processing
@@ -1198,3 +1200,26 @@ resources:
   - bioimage analysis
   type: notebook
   url: https://github.com/hereariim/DEEP-NAPARI
+- authors: Kevin Yamauchi
+  license: cc-by-4.0
+  name: Open Image Data Handbook
+  tags:
+  - neubias
+  - research data management
+  - napari
+  - python
+  - bioimage analysis
+  type:
+  - book
+  - notebook
+  url: https://kevinyamauchi.github.io/open-image-data/intro.html
+- authors: Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+  license: cc-by-4.0
+  name: Bio-image analysis, biostatistics, programming and machine learning for computational biology
+  tags:
+  - python
+  - bioimage analysis
+  - napari
+  type:
+  - notebook
+  url: https://github.com/BiAPoL/Bio-image_Analysis_with_Python

@@ -84,3 +84,10 @@ resources:
   - publication
   - poster
   url: https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
+- authors: Joachim Goedhart
+  name: Studentsourcing - aggregating and re-using data from a practical cell biology course
+  tags:
+  - sharing
+  type:
+  - preprint
+  url: https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1
