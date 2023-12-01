@@ -1223,3 +1223,15 @@ resources:
   type:
   - notebook
   url: https://github.com/BiAPoL/Bio-image_Analysis_with_Python
+
+  authors: Cornelia Wetzker
+  license: cc-by-4.0
+  name: Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+  description: short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+  tags: 
+  - research data management
+  - TU Dresden
+  - bioimage data
+  - NFDI4BIOIMAGE
+  type: slide
+  url: https://zenodo.org/records/10083555
