@@ -1,4 +1,4 @@
-# Research data management (34)
+# Research data management (35)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -341,6 +341,23 @@ Tags: NFDI4BioImage, omero, research data management
 Content type: publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

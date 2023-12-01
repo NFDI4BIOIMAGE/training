@@ -1,4 +1,4 @@
-# Sharing (6)
+# Sharing (7)
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
@@ -97,6 +97,21 @@ Tags: sharing, citing, research data management
 Content type: tutorial
 
 [https://the-turing-way.netlify.app/communication/citable/citable-cff.html](https://the-turing-way.netlify.app/communication/citable/citable-cff.html)
+
+
+---
+
+## Studentsourcing - aggregating and re-using data from a practical cell biology course
+
+Joachim Goedhart
+
+
+
+Tags: sharing
+
+Content type: preprint
+
+[https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1](https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1)
 
 
 ---

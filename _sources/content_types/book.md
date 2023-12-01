@@ -1,4 +1,4 @@
-# Book (14)
+# Book (15)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -135,6 +135,23 @@ Tags: python, imagej, bioimage analysis
 Content type: book, notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

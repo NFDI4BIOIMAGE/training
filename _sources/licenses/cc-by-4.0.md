@@ -1,4 +1,4 @@
-# Cc-by-4.0 (46)
+# Cc-by-4.0 (48)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -48,6 +48,23 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -533,6 +550,23 @@ Tags: NFDI4BioImage, research data management
 Content type: publication
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

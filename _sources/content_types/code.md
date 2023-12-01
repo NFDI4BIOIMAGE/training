@@ -43,6 +43,8 @@ Content type: code, notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
+[https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/](https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/)
+
 
 ---
 

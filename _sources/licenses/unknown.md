@@ -1,4 +1,4 @@
-# Unknown (56)
+# Unknown (57)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -210,6 +210,23 @@ Tags: neubias, CellProfiler, bioimage analysis
 Content type: tutorial
 
 [https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---
@@ -599,6 +616,8 @@ Tags: Python
 Content type: code, notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
+
+[https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/](https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/)
 
 
 ---

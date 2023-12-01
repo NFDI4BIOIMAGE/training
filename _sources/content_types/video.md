@@ -1,4 +1,4 @@
-# Video (17)
+# Video (18)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -21,6 +21,23 @@ Tags: Bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---

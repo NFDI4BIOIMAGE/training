@@ -1,4 +1,4 @@
-# Bioimage analysis (99)
+# Bioimage analysis (102)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -165,6 +165,23 @@ Tags: bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -452,6 +469,23 @@ Tags: bioimage analysis, research data management
 Content type: publication
 
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---
@@ -1248,6 +1282,23 @@ Tags: python, bioimage analysis
 Content type: notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

@@ -1,4 +1,4 @@
-# Neubias (25)
+# Neubias (26)
 ## Adding a Workflow to BIAFLOWS
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
@@ -337,6 +337,23 @@ Tags: Python, neubias, artificial intelligence, bioimage analysis
 Content type: slide, notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

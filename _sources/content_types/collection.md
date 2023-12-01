@@ -1,4 +1,4 @@
-# Collection (45)
+# Collection (46)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -199,6 +199,23 @@ Content type: notebook, collection
 Content type: collection
 
 [https://zmb.dozuki.com/c/Image_Analysis](https://zmb.dozuki.com/c/Image_Analysis)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---

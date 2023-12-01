@@ -1,4 +1,4 @@
-# Python (48)
+# Python (51)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -44,6 +44,23 @@ Tags: workflow engine, python
 Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -129,6 +146,23 @@ Tags: Python, artificial intelligence, bioimage analysis
 Content type: notebook
 
 [https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---
@@ -466,6 +500,8 @@ Content type: code, notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
+[https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/](https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/)
+
 
 ---
 
@@ -548,6 +584,23 @@ Tags: python, bioimage analysis
 Content type: notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---
