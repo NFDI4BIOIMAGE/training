@@ -471,7 +471,7 @@ Content type: collection
 
 
 
-Tags: omero, reseach data management
+Tags: omero, research data management
 
 Content type: collection, event
 

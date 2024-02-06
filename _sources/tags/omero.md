@@ -1,4 +1,4 @@
-# Omero (12)
+# Omero (13)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -41,6 +41,23 @@ Content type: slide, video
 
 ---
 
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
+
+
+---
+
 ## OME Documentation
 
 Licensed cc-by-4.0
@@ -60,7 +77,7 @@ Content type: documentation
 
 
 
-Tags: omero, reseach data management
+Tags: omero, research data management
 
 Content type: collection, event
 

@@ -1,4 +1,4 @@
-# Event (6)
+# Event (7)
 ## EMBO Practical Course Advanced methods in bioimage analysis
 
 
@@ -25,11 +25,28 @@ Content type: collection, event
 
 ---
 
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
+
+
+---
+
 ## OME Event Database
 
 
 
-Tags: omero, reseach data management
+Tags: omero, research data management
 
 Content type: collection, event
 

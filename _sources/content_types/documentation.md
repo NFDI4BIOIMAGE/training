@@ -1,4 +1,4 @@
-# Documentation (12)
+# Documentation (13)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -133,6 +133,23 @@ Content type: publication, documentation
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
 [https://mianalysis.github.io/](https://mianalysis.github.io/)
+
+
+---
+
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
 
 ---
