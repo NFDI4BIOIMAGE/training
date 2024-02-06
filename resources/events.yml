@@ -16,7 +16,7 @@ resources:
 - name: OME Event Database
   tags:
   - omero
-  - reseach data management
+  - research data management
   type:
   - collection
   - event
