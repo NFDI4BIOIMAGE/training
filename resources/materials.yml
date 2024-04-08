@@ -1310,8 +1310,7 @@ resources:
 - authors: Elnaz Fazeli 
   license: cc-by-4.0
   name: My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
-  description: In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material.
-  I have an overview of different training formats and comparing these for different audiences. 
+  description: In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences. 
   tags: 
   - teaching
   type:
