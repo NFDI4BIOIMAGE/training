@@ -1223,3 +1223,125 @@ resources:
   type:
   - notebook
   url: https://github.com/BiAPoL/Bio-image_Analysis_with_Python
+
+- authors: Cornelia Wetzker
+  license: cc-by-4.0
+  name: Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+  description: short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+  tags: 
+  - research data management
+  - TU Dresden
+  - bioimage data
+  - NFDI4BIOIMAGE
+  type: slide
+  url: https://zenodo.org/records/10083555
+
+- authors: Robert Haase
+  license: cc-by-4.0
+  name: Bio-image Analysis with the Help of Large Language Models
+  description: Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can
+  generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt
+  engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges
+  are ahead for the bio-image analysis community.
+  tags: 
+  - Large Language Models
+  - python
+  type: slide
+  url: https://zenodo.org/records/10815329
+
+- authors: Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert and Robert Haase
+  license: cc-by-4.0
+  name: PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
+  description: This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
+  tags: 
+  - GPU
+  - clesperanto
+  - dask
+  - python
+  type:
+  - notebook
+  url: https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/
+
+- authors: Robert Haase, ScaDS.AI Dresden/Leipzig
+  license: cc-by-4.0
+  name: Bio-image Data Science
+  description: This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+  tags: 
+  - Image Data Management
+  - Deep Learning
+  - Microscopy image analysis
+  - python
+  type:
+  - notebook
+  url: https://github.com/ScaDS/BIDS-lecture-2024
+
+- authors: Costantin Pape, computational-cell-analytics
+  license: MIT License
+  name: Introduction to Deep Learning for Microscopy
+  description: This course consists of lectures and exercises that teach the background of deep learning for image analysis
+  and show applications to classification and segmentation analysis problems.
+  tags: 
+  - Deep Learning
+  - Pytorch
+  - segmentation
+  - python
+  type:
+  - notebook
+  url: https://github.com/computational-cell-analytics/dl-for-micro
+
+- authors: Marcelo Leomil Zoccoler
+  license: cc-by-4.0
+  name: QM Course Lectures on Bio-Image Analysis with napari 2024
+  description: In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software.
+  The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins
+  as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
+  tags: 
+  - napari
+  - python
+  type:
+  - notebook
+  url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202
+
+- authors: Beth Cimini, Florian Jug, QI 2024
+  license: cc-by-4.0
+  name: QI 2024 Analysis Lab Manual
+  description: This book contains the quantitative analysis labs for the QI CSHL course, 2024
+  tags: 
+  - segmentation
+  - python
+  type:
+  - notebook
+  url: https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html
+
+- authors: Elnaz Fazeli 
+  license: cc-by-4.0
+  name: My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
+  description: In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material.
+  I have an overview of different training formats and comparing these for different audiences. 
+  tags: 
+  - teaching
+  type:
+  - slides
+  url: https://zenodo.org/records/10679054
+
+- authors: Robert Haase
+  license: cc-by-4.0
+  name: Cultivating Open Training
+  description: In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis.
+  In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare.
+  Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+  tags: 
+  - teaching
+  type:
+  - slides
+  url: https://zenodo.org/records/10654775
+
+- authors: Josh Moore
+  license: cc-by-4.0
+  name: [N4BI AHM] Welcome to BioImage Town
+  description: Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
+  tags:
+  - research data management
+  type:
+  - slides
+  url: https://zenodo.org/records/10008465

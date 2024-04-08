@@ -17,7 +17,9 @@ resources:
   type:
   - collection
   - video
-  url: https://www.youtube.com/digitalsreeni
+  url:
+  - https://www.youtube.com/digitalsreeni
+  - https://www.youtube.com/watch?v=A4po9z61TME
 - name: Global BioImaging YouTube channel
   type:
   - collection
@@ -112,3 +114,13 @@ resources:
   url:
   - https://www.youtube.com/@chrishavlin
   - https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1
+- name: RDM4mic
+  license: unknown
+  type:
+  - collection
+  - video
+  tags:
+  - research data management
+  - omero
+  url:
+  - https://www.youtube.com/@RDM4mic
