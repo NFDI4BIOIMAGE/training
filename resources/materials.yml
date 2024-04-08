@@ -1239,10 +1239,7 @@ resources:
 - authors: Robert Haase
   license: cc-by-4.0
   name: Bio-image Analysis with the Help of Large Language Models
-  description: Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can
-  generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt
-  engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges
-  are ahead for the bio-image analysis community.
+  description: Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
   tags: 
   - Large Language Models
   - python
