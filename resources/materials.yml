@@ -1275,8 +1275,7 @@ resources:
 - authors: Costantin Pape, computational-cell-analytics
   license: MIT License
   name: Introduction to Deep Learning for Microscopy
-  description: This course consists of lectures and exercises that teach the background of deep learning for image analysis
-  and show applications to classification and segmentation analysis problems.
+  description: This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
   tags: 
   - Deep Learning
   - Pytorch
