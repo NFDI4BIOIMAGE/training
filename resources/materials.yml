@@ -1288,9 +1288,7 @@ resources:
 - authors: Marcelo Leomil Zoccoler
   license: cc-by-4.0
   name: QM Course Lectures on Bio-Image Analysis with napari 2024
-  description: In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software.
-  The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins
-  as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
+  description: In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
   tags: 
   - napari
   - python
