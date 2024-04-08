@@ -304,3 +304,22 @@ resources:
   - NFDI4BioImage
   type: slide
   url: https://f1000research.com/slides/12-1054
+- authors: Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+  doi: 10.5281/zenodo.10609770
+  event_date: November 29 - December 01 2023
+  event_location: CECAD, University of Cologne, Cologne, Germany
+  license: CC-BY-4.0
+  name: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+  tags:
+  - arc
+  - DataPLANT
+  - hackathon
+  - NFDI4Bioimage
+  - omero
+  - python
+  - research data management
+  type: 
+  - event
+  - publication
+  - documentation
+  url: https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
