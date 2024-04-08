@@ -1320,9 +1320,7 @@ resources:
 - authors: Robert Haase
   license: cc-by-4.0
   name: Cultivating Open Training
-  description: In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis.
-  In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare.
-  Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+  description: In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
   tags: 
   - teaching
   type:
