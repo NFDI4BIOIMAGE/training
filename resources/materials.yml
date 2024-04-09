@@ -1329,7 +1329,7 @@ resources:
 
 - authors: Josh Moore
   license: cc-by-4.0
-  name: [N4BI AHM] Welcome to BioImage Town
+  name: "[N4BI AHM] Welcome to BioImage Town"
   description: Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
   tags:
   - research data management
