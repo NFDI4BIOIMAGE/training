@@ -1,4 +1,4 @@
-# Slide (38)
+# Slide (39)
 ## Adding a Workflow to BIAFLOWS
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
@@ -48,6 +48,25 @@ Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
 Content type: slide
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
+
+
+---
+
+## Bio-image Analysis with the Help of Large Language Models
+
+Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
+
+Tags: Large Language Models, python
+
+Content type: slide
+
+[https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
 
 
 ---

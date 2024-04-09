@@ -1,4 +1,4 @@
-# Josh moore (6)
+# Josh moore (7)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -97,6 +97,25 @@ Tags: python
 Content type: publication, preprint
 
 [https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract)
+
+
+---
+
+## [N4BI AHM] Welcome to BioImage Town
+
+Josh Moore
+
+Licensed cc-by-4.0
+
+
+
+Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
+
+Tags: research data management
+
+Content type: slides
+
+[https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
 
 
 ---

@@ -1,4 +1,4 @@
-# Robert haase (28)
+# Robert haase (32)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -29,6 +29,61 @@ Tags: imagej
 Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## Bio-image Analysis with the Help of Large Language Models
+
+Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
+
+Tags: Large Language Models, python
+
+Content type: slide
+
+[https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
+
+
+---
+
+## Bio-image Data Science
+
+Robert Haase, ScaDS.AI Dresden/Leipzig
+
+Licensed cc-by-4.0
+
+
+
+This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+
+Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
+
+Content type: notebook
+
+[https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -122,6 +177,25 @@ Tags: sharing, research data management
 Content type: blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
+
+
+---
+
+## Cultivating Open Training
+
+Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+
+Tags: teaching
+
+Content type: slides
+
+[https://zenodo.org/records/10654775](https://zenodo.org/records/10654775)
 
 
 ---

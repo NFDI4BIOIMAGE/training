@@ -1,4 +1,4 @@
-# Python (51)
+# Python (58)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -44,6 +44,61 @@ Tags: workflow engine, python
 Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
+
+
+---
+
+## Bio-image Analysis with the Help of Large Language Models
+
+Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
+
+Tags: Large Language Models, python
+
+Content type: slide
+
+[https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
+
+
+---
+
+## Bio-image Data Science
+
+Robert Haase, ScaDS.AI Dresden/Leipzig
+
+Licensed cc-by-4.0
+
+
+
+This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+
+Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
+
+Content type: notebook
+
+[https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -229,6 +284,8 @@ Tags: python
 Content type: collection, video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
+
+[https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
 
 
 ---
@@ -435,6 +492,25 @@ Content type: book, notebook
 
 ---
 
+## Introduction to Deep Learning for Microscopy
+
+Costantin Pape, computational-cell-analytics
+
+Licensed MIT License
+
+
+
+This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
+
+Tags: Deep Learning, Pytorch, segmentation, python
+
+Content type: notebook
+
+[https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
 ## Making your package available on conda-forge
 
 Kevin Yamauchi
@@ -631,6 +707,25 @@ Content type: event, notebook
 
 ---
 
+## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
+
+Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert and Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
+
+Tags: GPU, clesperanto, dask, python
+
+Content type: notebook
+
+[https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/)
+
+
+---
+
 ## Python BioImage Analysis Tutorial
 
 Jonas Hartmann
@@ -676,6 +771,44 @@ Tags: Python, bioimage analysis
 Content type: notebook, collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
+## QI 2024 Analysis Lab Manual
+
+Beth Cimini, Florian Jug, QI 2024
+
+Licensed cc-by-4.0
+
+
+
+This book contains the quantitative analysis labs for the QI CSHL course, 2024
+
+Tags: segmentation, python
+
+Content type: notebook
+
+[https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html](https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html)
+
+
+---
+
+## QM Course Lectures on Bio-Image Analysis with napari 2024
+
+Marcelo Leomil Zoccoler
+
+Licensed cc-by-4.0
+
+
+
+In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
+
+Tags: napari, python
+
+Content type: notebook
+
+[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202)
 
 
 ---

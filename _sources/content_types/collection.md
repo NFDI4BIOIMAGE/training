@@ -1,4 +1,4 @@
-# Collection (46)
+# Collection (47)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -248,6 +248,8 @@ Tags: python
 Content type: collection, video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
+
+[https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
 
 
 ---
@@ -553,6 +555,21 @@ Tags: research data management
 Content type: collection
 
 [https://github.com/German-BioImaging/RDM4mic/tree/master/presentations](https://github.com/German-BioImaging/RDM4mic/tree/master/presentations)
+
+
+---
+
+## RDM4mic
+
+Licensed unknown
+
+
+
+Tags: research data management, omero
+
+Content type: collection, video
+
+[https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
 
 ---

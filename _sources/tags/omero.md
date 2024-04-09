@@ -1,4 +1,4 @@
-# Omero (13)
+# Omero (14)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -191,6 +191,21 @@ Tags: omero
 Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## RDM4mic
+
+Licensed unknown
+
+
+
+Tags: research data management, omero
+
+Content type: collection, video
+
+[https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
 
 ---

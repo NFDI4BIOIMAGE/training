@@ -1,4 +1,4 @@
-# Napari (9)
+# Napari (11)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -10,6 +10,23 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## Bio-image analysis, biostatistics, programming and machine learning for computational biology
+
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: python, bioimage analysis, napari
+
+Content type: notebook
+
+[https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
 
 ---
@@ -76,6 +93,25 @@ Tags: neubias, research data management, napari, python, bioimage analysis
 Content type: book, notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
+
+
+---
+
+## QM Course Lectures on Bio-Image Analysis with napari 2024
+
+Marcelo Leomil Zoccoler
+
+Licensed cc-by-4.0
+
+
+
+In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
+
+Tags: napari, python
+
+Content type: notebook
+
+[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202)
 
 
 ---

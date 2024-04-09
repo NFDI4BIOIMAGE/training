@@ -1,4 +1,4 @@
-# Research data management (38)
+# Research data management (40)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -441,6 +441,21 @@ Content type: collection
 
 ---
 
+## RDM4mic
+
+Licensed unknown
+
+
+
+Tags: research data management, omero
+
+Content type: collection, video
+
+[https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
+
+
+---
+
 ## RDMKit Training Resources
 
 Licensed cc-by-4.0
@@ -647,6 +662,25 @@ Tags: research data management
 Content type: book
 
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
+
+
+---
+
+## [N4BI AHM] Welcome to BioImage Town
+
+Josh Moore
+
+Licensed cc-by-4.0
+
+
+
+Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
+
+Tags: research data management
+
+Content type: slides
+
+[https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
 
 
 ---

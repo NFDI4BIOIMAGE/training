@@ -1,4 +1,4 @@
-# Unknown (57)
+# Unknown (58)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -810,6 +810,21 @@ Tags: Python, bioimage analysis
 Content type: notebook, collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
+## RDM4mic
+
+Licensed unknown
+
+
+
+Tags: research data management, omero
+
+Content type: collection, video
+
+[https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
 
 ---

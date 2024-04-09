@@ -1,4 +1,4 @@
-# Video (18)
+# Video (19)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -55,6 +55,8 @@ Tags: python
 Content type: collection, video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
+
+[https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
 
 
 ---
@@ -222,6 +224,21 @@ Tags: omero
 Content type: collection, video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## RDM4mic
+
+Licensed unknown
+
+
+
+Tags: research data management, omero
+
+Content type: collection, video
+
+[https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
 
 ---

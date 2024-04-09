@@ -1,4 +1,4 @@
-# Publication (38)
+# Publication (39)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -540,6 +540,23 @@ This comment article outlines the current state of the art in open hardware publ
 Content type: publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
+
+
+---
+
+## Plants & Python - A series of lessons in coding, plant biology, computation, and bioinformatics
+
+Dan Chitwood, Sourabh Palande
+
+
+
+Tags: notebook
+
+Content type: publication
+
+[https://academic.oup.com/plcell/article/34/7/e1/6628764](https://academic.oup.com/plcell/article/34/7/e1/6628764)
+
+[https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html)
 
 
 ---
