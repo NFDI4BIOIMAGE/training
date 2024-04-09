@@ -91,3 +91,12 @@ resources:
   type:
   - preprint
   url: https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1
+- authors: Dan Chitwood, Sourabh Palande
+  name: Plants & Python - A series of lessons in coding, plant biology, computation, and bioinformatics
+  tags:
+  - notebook
+  type:
+  - publication
+  url:
+  - https://academic.oup.com/plcell/article/34/7/e1/6628764
+  - https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html
