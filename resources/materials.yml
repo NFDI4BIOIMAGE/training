@@ -1420,3 +1420,16 @@ resources:
   - slides
   url: https://zenodo.org/records/10970869
 
+- authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Cultivating Open Training to advance Bio-image Analysis"
+  description: Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+  tags:
+  - research data management
+  - Licensing
+  - FAIR-principles
+  type:
+  - slides
+  url: https://zenodo.org/records/11066250
+
+
