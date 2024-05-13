@@ -1432,4 +1432,16 @@ resources:
   - slides
   url: https://zenodo.org/records/11066250
 
+- authors: Estibaliz Gómez de Mariscal
+  license: CC-BY 4.0
+  name: "FAIRy deep-learning for bioImage analysis"
+  description: Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
+  tags:
+  - deep learning
+  - FAIR-principles
+  - microscopy image analysis
+  type:
+  - slides
+  url: https://f1000research.com/slides/13-147 
+
 
