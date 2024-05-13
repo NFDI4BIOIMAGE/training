@@ -1359,7 +1359,7 @@ resources:
   - slides
   url: https://thejacksonlaboratory.github.io/intro-napari-slides/#/section 
 
-  - authors: Gaelle Letort
+- authors: Gaelle Letort
   license: BSD-3-Clause license
   name: "NeubiasPasteur2023_AdvancedCellPose"
   description: Tutorial for running CellPose advanced functions
@@ -1370,52 +1370,5 @@ resources:
   - github repository
   url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose 
 
-   authors: Robert Haase
-  license: CC-BY 4.0
-  name: "Kollaboratives Arbeiten und Versionskontrolle mit Git"
-  description: Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
-  tags:
-  - research data management
-  - FAIR-principles
-  - git
-  - zenodo
-  type:
-  - slides
-  url: https://zenodo.org/records/10972692 
-
-- authors: Robert Haase 
-  license: CC-BY 4.0
-  name: "Open Science, Sharing & Licensing"
-  description: Introduction to Open Science, Open Access, FAIR-principles and Licensing
-  tags:
-  - research data management
-  - Open Access
-  - FAIR-principles
-  - licensing
-  type:
-  - slides
-  url: https://zenodo.org/records/10990107 
-
-- authors: Robert Haase
-  license: CC-BY 4.0
-  name: "Datenmanagement"
-  description: Introduction to data management and how to write a data management plan
-  tags:
-  - research data management
-  type:
-  - slides
-  url: https://zenodo.org/records/10970869
-
-- authors: Robert Haase
-  license: CC-BY 4.0
-  name: "Cultivating Open Training to advance Bio-image Analysis"
-  description: Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
-  tags:
-  - research data management
-  - Licensing
-  - FAIR-principles
-  type:
-  - slides
-  url: https://zenodo.org/records/11066250
 
 
