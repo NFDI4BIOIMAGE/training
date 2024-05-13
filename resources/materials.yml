@@ -1383,4 +1383,39 @@ resources:
   - slides
   url: https://zenodo.org/records/10972692 
 
+- authors: Robert Haase 
+  license: CC-BY 4.0
+  name: "Open Science, Sharing & Licensing"
+  description: Introduction to Open Science, Open Access, FAIR-principles and Licensing
+  tags:
+  - research data management
+  - Open Access
+  - FAIR-principles
+  - licensing
+  type:
+  - slides
+  url: https://zenodo.org/records/10990107 
+
+- authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Datenmanagement"
+  description: Introduction to data management and how to write a data management plan
+  tags:
+  - research data management
+  type:
+  - slides
+  url: https://zenodo.org/records/10970869
+
+- authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Cultivating Open Training to advance Bio-image Analysis"
+  description: Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+  tags:
+  - research data management
+  - Licensing
+  - FAIR-principles
+  type:
+  - slides
+  url: https://zenodo.org/records/11066250
+
 
