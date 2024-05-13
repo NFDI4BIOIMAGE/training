@@ -1370,5 +1370,19 @@ resources:
   - github repository
   url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose 
 
+- authors: Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+  license: CC-BY 4.0
+  name: "Microscopy data analysis: machine learning and the BioImage Archive"
+  description: The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023. 
+  tags:
+  - microscopy image analysis
+  - python 
+  - deep learning
+  type:
+  - videos
+  - practicals
+  - slides
+  url: https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/
+
 
 
