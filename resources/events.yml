@@ -44,3 +44,12 @@ resources:
   - event
   - notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html
+- name: "FAIR data handling for microscopy: Structured metadata annotation in OMERO"
+  tags:
+  - research data management
+  - omero
+  type: 
+  - workshop
+  - slides
+  - dataset
+  url: https://zenodo.org/records/11109616 
