@@ -1349,3 +1349,25 @@ resources:
   - Jupyter book
   url: https://m-albert.github.io/elastix_tutorial/intro.html 
 
+- authors: Peter Sobolewski
+  license: MIT License
+  name: "Intro napari slides"
+  description: Introduction to napari workshop run at JAX (Spring 2024).
+  tags: 
+  - napari
+  type:
+  - slides
+  url: https://thejacksonlaboratory.github.io/intro-napari-slides/#/section 
+
+  - authors: Gaelle Letort
+  license: BSD-3-Clause license
+  name: "NeubiasPasteur2023_AdvancedCellPose"
+  description: Tutorial for running CellPose advanced functions
+  tags:
+  - CellPose
+  - segmentation
+  type:
+  - github repository
+  url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose 
+
+
