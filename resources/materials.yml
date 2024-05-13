@@ -1384,5 +1384,39 @@ resources:
   - slides
   url: https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/
 
+- authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Kollaboratives Arbeiten und Versionskontrolle mit Git"
+  description: Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+  tags:
+  - research data management
+  - FAIR-principles
+  - git
+  - zenodo
+  type:
+  - slides
+  url: https://zenodo.org/records/10972692 
 
+- authors: Robert Haase 
+  license: CC-BY 4.0
+  name: "Open Science, Sharing & Licensing"
+  description: Introduction to Open Science, Open Access, FAIR-principles and Licensing
+  tags:
+  - research data management
+  - Open Access
+  - FAIR-principles
+  - licensing
+  type:
+  - slides
+  url: https://zenodo.org/records/10990107 
+
+- authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Datenmanagement"
+  description: Introduction to data management and how to write a data management plan
+  tags:
+  - research data management
+  type:
+  - slides
+  url: https://zenodo.org/records/10970869
 
