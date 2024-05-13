@@ -1370,4 +1370,17 @@ resources:
   - github repository
   url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose 
 
+   authors: Robert Haase
+  license: CC-BY 4.0
+  name: "Kollaboratives Arbeiten und Versionskontrolle mit Git"
+  description: Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+  tags:
+  - research data management
+  - FAIR-principles
+  - git
+  - zenodo
+  type:
+  - slides
+  url: https://zenodo.org/records/10972692 
+
 
