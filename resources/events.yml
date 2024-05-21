@@ -53,3 +53,11 @@ resources:
   - slides
   - dataset
   url: https://zenodo.org/records/11109616 
+- name: "Bring your own data workshops"
+  tags:
+  - bioimage analysis
+  - research data management
+  type:
+  - workshop
+  url: https://www.dtls.nl/fair-data/byod/ 
+
