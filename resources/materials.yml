@@ -1444,4 +1444,33 @@ resources:
   - slides
   url: https://f1000research.com/slides/13-147 
 
+- license: CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+  name: "BioImage Archive AI Gallery"
+  tags:
+  - bioimage analysis
+  - deep learning
+  type:
+  - collection
+  - data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html
+
+- license: CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+  name: "BioImage Archive Visual Gallery"
+  tags:
+  - bioimage analysis
+  type:
+  - collection
+  - data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html
+
+- license: CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+  name: "BioImage Archive Volume EM Gallery"
+  tags:
+  - bioimage analysis
+  type:
+  - collection
+  - data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html 
+ 
+
 
