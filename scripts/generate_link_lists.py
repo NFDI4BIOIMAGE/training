@@ -1,5 +1,8 @@
 def main():
-
+    """
+    When called from the terminal, this script goes through our yml files and generates .md files. 
+    This is done in the github CI before the website is regenerated, after every modification on the main branch.
+    """
     import os
     from datetime import datetime
 
@@ -78,6 +81,9 @@ def main():
     replace_in_file(readme_file, "{number_of_links}", str(number_of_links))
 
 def all_content(directory_path):
+    """
+    Go through all folders and yml files, and collect all content in a list of dictionaries.
+    """
     import os
     content = {'resources':[]}
     for filename in os.listdir(directory_path):
@@ -89,11 +95,18 @@ def all_content(directory_path):
     return content
 
 def load_dataframe(directory_path):
+    """
+    Returns all contents (collected from all yml files) in a pandas DataFrame
+    """
     import pandas as pd
     content = all_content(directory_path)
     return pd.DataFrame(content['resources'])
 
 def replace_in_file(filename, to_replace, replacement):
+    """
+    Opens a file, searches for some text, replaces it as specified and saves the file again.
+    This is helpful to replace placeholders with text, e.g. the number of entries in our resource.
+    """
     with open(filename, 'r') as file:
         file_contents = file.read()
     file_contents = file_contents.replace(to_replace, replacement)
@@ -115,7 +128,11 @@ def write_yaml_file(file_path, data):
         yaml.dump(data, file)
 
 
-def update_all_yaml_files(directory_path):
+def update_all_yaml_files(directory_path, use_github=False, use_zenodo=False):
+    """
+    Go through all yml files and check their content regarding consistency. 
+    Updates the files if necessary.
+    """
     import os
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
@@ -125,8 +142,10 @@ def update_all_yaml_files(directory_path):
 
 def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
     """
-    Update the YAML file with Zenodo metadata and statistics.
-    
+    Update the specified yml file with Zenodo metadata and statistics.
+    E.g. if a document description is given on zenodo, replace ours with theirs.
+    Also take the license as specified on zenodo and replace ours.
+
     Parameters:
     - yaml_filename : str
         The filename of the YAML file.
@@ -195,6 +214,9 @@ def update_yaml_file(yaml_filename, use_github=True, use_zenodo=True):
     write_yaml_file(yaml_filename, content)
 
 def clean_license(license):
+    """
+    Standardize license names.
+    """
     if license == "CC BY 4.0":
         return "cc-by-4.0"
     if license == "CC BY SA 4.0":
@@ -211,6 +233,9 @@ def clean_license(license):
     return license
 
 def read_doi(doi):
+    """
+    Read meta-data of a given DOI from doi.org
+    """
     import requests
     import json
 
@@ -224,6 +249,9 @@ def read_doi(doi):
 
 
 def read_github_license(github_url):
+    """
+    Uses the github API to retrieve the license from a given project url.
+    """
     import requests
     import os
     import json
@@ -251,7 +279,9 @@ def read_github_license(github_url):
 
 
 def read_zenodo(record):
-    
+    """
+    Retrieves meta-data from zenodo.org of a specified record.
+    """
     import requests
     import json
 
@@ -265,12 +295,18 @@ def read_zenodo(record):
 
 
 def remove_html_tags(text):
+    """
+    Clean HTML code and turn it into plain text.
+    """
     import re
     cleaned_text = re.sub('<.*?>', '', text)
     return cleaned_text
     
 
 def collect_all(content, what_to_collect):
+    """
+    Searches for all contents of a given type and returns them as a list of dictionaries.
+    """
     all_tags = {}
     for c in content['resources']:
         if what_to_collect in c:
@@ -307,6 +343,9 @@ def find_tag(content, tag):
     return find_anything(content, "tags", tag)
 
 def find_anything(content, what_to_look_in, what_to_find):
+    """
+    Goes through our content (list of dictionaries) and searches for specified entries, e.g. a specified license.
+    """
     result = {}
     print("Searching for", what_to_look_in, "=", what_to_find)
     for c in content['resources']:
