@@ -119,6 +119,10 @@ def read_yaml_file(filename):
     import yaml
     with open(filename, 'r', encoding="utf8") as file:
         data = yaml.safe_load(file)
+        
+        if "url" in data.keys() and "zenodo" in str(data["url"]).lower():
+            data["tags"].append("zenodo")
+        
         return data
 
 def write_yaml_file(file_path, data):
