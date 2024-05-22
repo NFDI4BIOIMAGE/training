@@ -1,4 +1,4 @@
-# Omero (14)
+# Omero (15)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -12,6 +12,19 @@ Tags: omero, python
 Content type: blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
+
+
+---
+
+## FAIR data handling for microscopy: Structured metadata annotation in OMERO
+
+
+
+Tags: research data management, omero
+
+Content type: workshop, slides, dataset
+
+[https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 
 
 ---

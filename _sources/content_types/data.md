@@ -1,4 +1,4 @@
-# Data (5)
+# Data (8)
 ## Annotated high-throughput microscopy image sets for validation
 
 Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
@@ -12,6 +12,51 @@ Content type: collection, data
 [https://www.nature.com/articles/nmeth.2083](https://www.nature.com/articles/nmeth.2083)
 
 [https://bbbc.broadinstitute.org/](https://bbbc.broadinstitute.org/)
+
+
+---
+
+## BioImage Archive AI Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis, deep learning
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
+
+
+---
+
+## BioImage Archive Visual Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html](https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html)
+
+
+---
+
+## BioImage Archive Volume EM Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html](https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html)
 
 
 ---

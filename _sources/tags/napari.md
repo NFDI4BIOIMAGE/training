@@ -1,4 +1,4 @@
-# Napari (11)
+# Napari (12)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -76,6 +76,25 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+
+
+---
+
+## Intro napari slides
+
+Peter Sobolewski
+
+Licensed MIT License
+
+
+
+Introduction to napari workshop run at JAX (Spring 2024).
+
+Tags: napari
+
+Content type: slides
+
+[https://thejacksonlaboratory.github.io/intro-napari-slides/#/section](https://thejacksonlaboratory.github.io/intro-napari-slides/#/section)
 
 
 ---

@@ -1,4 +1,4 @@
-# Research data management (40)
+# Research data management (46)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -63,6 +63,19 @@ Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
 Content type: slide
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
+
+
+---
+
+## Bring your own data workshops
+
+
+
+Tags: bioimage analysis, research data management
+
+Content type: workshop
+
+[https://www.dtls.nl/fair-data/byod/](https://www.dtls.nl/fair-data/byod/)
 
 
 ---
@@ -137,6 +150,25 @@ Content type: blog
 
 ---
 
+## Cultivating Open Training to advance Bio-image Analysis
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+
+Tags: research data management, Licensing, FAIR-principles
+
+Content type: slides
+
+[https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
+
+
+---
+
 ## Data handling in large-scale electron microscopy
 
 Job Fermie
@@ -148,6 +180,25 @@ Tags: research data management
 Content type: blog
 
 [https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy](https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy)
+
+
+---
+
+## Datenmanagement
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to data management and how to write a data management plan
+
+Tags: research data management
+
+Content type: slides
+
+[https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
 
 
 ---
@@ -167,6 +218,19 @@ Tags: research data management
 Content type: document
 
 [https://zenodo.org/record/3490058](https://zenodo.org/record/3490058)
+
+
+---
+
+## FAIR data handling for microscopy: Structured metadata annotation in OMERO
+
+
+
+Tags: research data management, omero
+
+Content type: workshop, slides, dataset
+
+[https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 
 
 ---
@@ -262,6 +326,25 @@ Tags: licensing, research data management
 Content type: blog
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
+
+
+---
+
+## Kollaboratives Arbeiten und Versionskontrolle mit Git
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+
+Tags: research data management, FAIR-principles, git, zenodo
+
+Content type: slides
+
+[https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 
 ---
@@ -407,6 +490,25 @@ Tags: neubias, research data management, napari, python, bioimage analysis
 Content type: book, notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
+
+
+---
+
+## Open Science, Sharing & Licensing
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to Open Science, Open Access, FAIR-principles and Licensing
+
+Tags: research data management, Open Access, FAIR-principles, licensing
+
+Content type: slides
+
+[https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
 
 
 ---

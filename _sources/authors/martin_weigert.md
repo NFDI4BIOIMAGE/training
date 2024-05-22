@@ -1,4 +1,4 @@
-# Martin weigert (7)
+# Martin weigert (8)
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
 Martin Weigert
@@ -97,6 +97,25 @@ Tags: Python, artificial intelligence
 Content type: notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
+
+
+---
+
+## Microscopy data analysis: machine learning and the BioImage Archive
+
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+
+Licensed CC-BY 4.0
+
+
+
+The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
+
+Tags: microscopy image analysis, python, deep learning
+
+Content type: videos, practicals, slides
+
+[https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
 
 ---

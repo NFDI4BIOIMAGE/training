@@ -1,4 +1,4 @@
-# Python (58)
+# Python (60)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -99,6 +99,25 @@ Tags: python, bioimage analysis, napari
 Content type: notebook
 
 [https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
+
+
+---
+
+## BioEngine Documentation
+
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+
+Licensed MIT License
+
+
+
+BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
+
+Tags: workflow engine, deep learning, python
+
+Content type: documentation
+
+[https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
 
 
 ---
@@ -577,6 +596,25 @@ Tags: Python
 Content type: notebook
 
 [https://github.com/karinsasaki/metabolic-networks-modelling](https://github.com/karinsasaki/metabolic-networks-modelling)
+
+
+---
+
+## Microscopy data analysis: machine learning and the BioImage Archive
+
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+
+Licensed CC-BY 4.0
+
+
+
+The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
+
+Tags: microscopy image analysis, python, deep learning
+
+Content type: videos, practicals, slides
+
+[https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
 
 ---

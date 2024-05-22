@@ -1,4 +1,4 @@
-# Bioimage analysis (102)
+# Bioimage analysis (106)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -203,6 +203,51 @@ Content type: book, notebook
 
 ---
 
+## BioImage Archive AI Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis, deep learning
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
+
+
+---
+
+## BioImage Archive Visual Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html](https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html)
+
+
+---
+
+## BioImage Archive Volume EM Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html](https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html)
+
+
+---
+
 ## BioImage Data Analysis
 
 Kota Miura
@@ -284,6 +329,19 @@ Content type: publication, preprint
 [https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
 [https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
+
+
+---
+
+## Bring your own data workshops
+
+
+
+Tags: bioimage analysis, research data management
+
+Content type: workshop
+
+[https://www.dtls.nl/fair-data/byod/](https://www.dtls.nl/fair-data/byod/)
 
 
 ---

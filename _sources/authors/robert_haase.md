@@ -1,4 +1,4 @@
-# Robert haase (32)
+# Robert haase (36)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -200,6 +200,44 @@ Content type: slides
 
 ---
 
+## Cultivating Open Training to advance Bio-image Analysis
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+
+Tags: research data management, Licensing, FAIR-principles
+
+Content type: slides
+
+[https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
+
+
+---
+
+## Datenmanagement
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to data management and how to write a data management plan
+
+Tags: research data management
+
+Content type: slides
+
+[https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
+
+
+---
+
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
@@ -340,6 +378,25 @@ Content type: slide
 
 ---
 
+## Kollaboratives Arbeiten und Versionskontrolle mit Git
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+
+Tags: research data management, FAIR-principles, git, zenodo
+
+Content type: slides
+
+[https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
+
+
+---
+
 ## Lecture Applied Bioimage Analysis 2020
 
 Robert Haase
@@ -423,6 +480,25 @@ Tags: neubias, bioimage analysis
 Content type: slide, code, notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
+
+
+---
+
+## Open Science, Sharing & Licensing
+
+Robert Haase
+
+Licensed CC-BY 4.0
+
+
+
+Introduction to Open Science, Open Access, FAIR-principles and Licensing
+
+Tags: research data management, Open Access, FAIR-principles, licensing
+
+Content type: slides
+
+[https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
 
 
 ---

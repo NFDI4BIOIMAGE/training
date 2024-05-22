@@ -1,4 +1,4 @@
-# Documentation (13)
+# Documentation (14)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -29,6 +29,25 @@ Tags: workflow engine, python
 Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
+
+
+---
+
+## BioEngine Documentation
+
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+
+Licensed MIT License
+
+
+
+BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
+
+Tags: workflow engine, deep learning, python
+
+Content type: documentation
+
+[https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
 
 
 ---

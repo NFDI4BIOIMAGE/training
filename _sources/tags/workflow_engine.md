@@ -1,4 +1,4 @@
-# Workflow engine (11)
+# Workflow engine (12)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló
@@ -48,6 +48,25 @@ Tags: artificial intelligence, workflow engine
 Content type: publication
 
 [https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
+
+
+---
+
+## BioEngine Documentation
+
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+
+Licensed MIT License
+
+
+
+BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
+
+Tags: workflow engine, deep learning, python
+
+Content type: documentation
+
+[https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
 
 
 ---

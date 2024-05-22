@@ -1,4 +1,4 @@
-# Collection (47)
+# Collection (50)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -57,6 +57,51 @@ Tags: bioinformatics
 Content type: collection
 
 [https://bio.tools/](https://bio.tools/)
+
+
+---
+
+## BioImage Archive AI Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis, deep learning
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
+
+
+---
+
+## BioImage Archive Visual Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html](https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html)
+
+
+---
+
+## BioImage Archive Volume EM Gallery
+
+Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+
+
+
+Tags: bioimage analysis
+
+Content type: collection, data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html](https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html)
 
 
 ---
