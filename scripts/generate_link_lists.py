@@ -120,7 +120,7 @@ def read_yaml_file(filename):
     with open(filename, 'r', encoding="utf8") as file:
         data = yaml.safe_load(file)
         
-        if "zenodo" in str(data["url"]).lower():
+        if "url" in data.keys() and "zenodo" in str(data["url"]).lower():
             data["tags"].append("zenodo")
         
         return data
