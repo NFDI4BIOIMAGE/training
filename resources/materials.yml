@@ -1486,5 +1486,15 @@ resources:
   - github repository
   url: https://github.com/rmassei/2024-jn-omero-pipeline
  
-
+- authors: Anirban Ray
+  license: unknown
+  name: Diffusion Models for Image Restoration - An Introduction
+  description: "Presentation given at the EMBO-DL4MIA 2024, Advanced Topic Seminar, May-11-2024"
+  tags: 
+  - bioimage analysis
+  - diffusion models
+  - TU DRESDEN
+  type:
+  - presentation
+  url: https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view
 
