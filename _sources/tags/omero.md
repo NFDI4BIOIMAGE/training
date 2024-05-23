@@ -1,4 +1,4 @@
-# Omero (15)
+# Omero (16)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -95,6 +95,25 @@ Tags: omero, research data management
 Content type: collection, event
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
+
+
+---
+
+## OMERO - HCS analysis pipeline using Jupyter Notebooks
+
+Riccardo Massei
+
+Licensed mit
+
+
+
+Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
+
+Tags: teaching, bioimage analysis, notebooks, python, omero
+
+Content type: github repository
+
+[https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
 
 
 ---
