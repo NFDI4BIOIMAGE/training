@@ -1475,7 +1475,7 @@ resources:
 - authors: Riccardo Massei
   license: mit
   name: OMERO - HCS analysis pipeline using Jupyter Notebooks
-  description: "Material and solutions for the course "Bioimage data management and analysis with OMERO" held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO."
+  description: "Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO."
   tags: 
   - teaching
   - bioimage analysis
