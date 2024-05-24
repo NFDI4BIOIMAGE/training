@@ -1,4 +1,4 @@
-# Publication (39)
+# Publication (40)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -84,6 +84,21 @@ Tags: research data management
 Content type: publication
 
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
+
+
+---
+
+## A practical guide to bioimaging research data management in core facilities
+
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
+
+
+
+Tags: research data management
+
+Content type: publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317)
 
 
 ---

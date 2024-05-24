@@ -1,4 +1,4 @@
-# Susanne kunis (5)
+# Susanne kunis (6)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -12,6 +12,21 @@ Tags: NFDI4BioImage, research data management
 Content type: publication, conference abstract
 
 [https://doi.org/10.52825/cordi.v1i.285](https://doi.org/10.52825/cordi.v1i.285)
+
+
+---
+
+## A practical guide to bioimaging research data management in core facilities
+
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
+
+
+
+Tags: research data management
+
+Content type: publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317)
 
 
 ---

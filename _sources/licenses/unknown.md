@@ -1,4 +1,4 @@
-# Unknown (58)
+# Unknown (59)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -331,6 +331,25 @@ Content type: book
 [https://github.com/cytomining/DeepProfiler-handbook](https://github.com/cytomining/DeepProfiler-handbook)
 
 [https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html](https://cytomining.github.io/DeepProfiler-handbook/docs/00-welcome.html)
+
+
+---
+
+## Diffusion Models for Image Restoration - An Introduction
+
+Anirban Ray
+
+Licensed unknown
+
+
+
+Presentation given at the EMBO-DL4MIA 2024, Advanced Topic Seminar, May-11-2024
+
+Tags: bioimage analysis, diffusion models, TU DRESDEN
+
+Content type: presentation
+
+[https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view](https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view)
 
 
 ---
