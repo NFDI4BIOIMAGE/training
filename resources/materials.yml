@@ -1498,3 +1498,28 @@ resources:
   - presentation
   url: https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view
 
+- authors: Isabel Kemmer
+  license:  Creative Commons Attribution 4.0 International 
+  name: Euro-BioImaging Template for Research Data Management Plans
+  description: "Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging "
+  tags: 
+  - bioimage analysis
+  - FAIR-principles
+  - research data management
+  type:
+  - collection
+  - tutorial
+  url: https://zenodo.org/records/11473803
+  
+- authors: Isabel Kemmer
+  license:  Creative Commons Attribution 4.0 International 
+  name: Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
+  description: "Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024"
+  tags: 
+  - bioimage analysis
+  - FAIR-principles
+  - research data management
+  type:
+  - slides
+  - tutorial
+  url: https://zenodo.org/records/11474407
