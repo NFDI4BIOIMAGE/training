@@ -1,4 +1,4 @@
-# Slides (12)
+# Slides (13)
 ## Cultivating Open Training
 
 Robert Haase
@@ -52,6 +52,25 @@ Tags: research data management
 Content type: slides
 
 [https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
+
+
+---
+
+## Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: slides, tutorial
+
+[https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
 
 
 ---

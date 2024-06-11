@@ -1,4 +1,4 @@
-# Tutorial (14)
+# Tutorial (16)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 Carolina Wählby, Maxime Bombrun, Christian Tischer
@@ -44,6 +44,44 @@ Tags: neubias, bioimage analysis
 Content type: tutorial, book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
+## Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: slides, tutorial
+
+[https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
+
+
+---
+
+## Euro-BioImaging Template for Research Data Management Plans
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: collection, tutorial
+
+[https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 
 ---

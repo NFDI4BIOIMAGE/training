@@ -1,4 +1,4 @@
-# Bioimage analysis (108)
+# Bioimage analysis (111)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -746,6 +746,59 @@ Tags: neubias, bioimage analysis
 Content type: tutorial, book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
+## Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: slides, tutorial
+
+[https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
+
+
+---
+
+## Euro-BioImaging Template for Research Data Management Plans
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: collection, tutorial
+
+[https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
+
+
+---
+
+## FAIR BioImage Data
+
+Licensed Creative Commons / Attribution 4.0 International (CC BY 4.0)
+
+
+
+Tags: research data management, FAIR, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
 
 
 ---

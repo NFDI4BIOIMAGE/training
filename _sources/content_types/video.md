@@ -1,4 +1,4 @@
-# Video (19)
+# Video (20)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -68,6 +68,21 @@ Content type: collection, video
 Content type: collection, video
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
+
+
+---
+
+## FAIR BioImage Data
+
+Licensed Creative Commons / Attribution 4.0 International (CC BY 4.0)
+
+
+
+Tags: research data management, FAIR, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
 
 
 ---

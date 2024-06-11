@@ -1,4 +1,4 @@
-# Collection (50)
+# Collection (52)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -306,6 +306,40 @@ Content type: collection, video
 Content type: collection, video
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
+
+
+---
+
+## Euro-BioImaging Template for Research Data Management Plans
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
+
+Tags: bioimage analysis, FAIR-principles, research data management
+
+Content type: collection, tutorial
+
+[https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
+
+
+---
+
+## FAIR BioImage Data
+
+Licensed Creative Commons / Attribution 4.0 International (CC BY 4.0)
+
+
+
+Tags: research data management, FAIR, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
 
 
 ---
