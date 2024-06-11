@@ -124,3 +124,14 @@ resources:
   - omero
   url:
   - https://www.youtube.com/@RDM4mic
+- name: FAIR BioImage Data
+  license: Creative Commons / Attribution 4.0 International (CC BY 4.0)
+  type:
+  - collection
+  - video
+  tags:
+  - research data management
+  - FAIR
+  - Bioimage analysis
+  url:
+  - https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm
