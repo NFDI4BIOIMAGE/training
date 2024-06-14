@@ -8,7 +8,7 @@ import pandas as pd
 from pathlib import Path
 
 #define directory path
-directory_path = 'resources/'
+directory_path = './resources/'
 
 #directory where the current script is located
 #current_dir = Path(__file__).parent

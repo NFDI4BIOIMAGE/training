@@ -5,7 +5,7 @@ import json
 from generate_link_lists import read_doi, all_content
 
 #define directory path
-directory_path = '../resources/'
+directory_path = './resources/'
 
 #collect all content in a list of dictionaries
 content = all_content(directory_path) 
