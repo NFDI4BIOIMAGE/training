@@ -1613,4 +1613,11 @@ resources:
   license: Creative Commons Attribution 4.0 International
   name: "WS program and campus survey"
   description: "This presentation provides an overview of the WS program and campus survey."
+  tags:
+  - research data management
+  type:
+  - slides
+  fingerprint: md5:907f0466d9ef6977dff5c271c5d8aaf0 
+  url: https://zenodo.org/records/11548617
+  
 
