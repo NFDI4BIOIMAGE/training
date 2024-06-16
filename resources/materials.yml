@@ -1523,3 +1523,94 @@ resources:
   - slides
   - tutorial
   url: https://zenodo.org/records/11474407
+
+- authors: Simon Parker
+  license:  Creative Commons Attribution 4.0 International
+  name: "Reseach Data Protection and Data Sharing via GHGA"
+  description: "When handling research data, one needs to ensure it complies with data protection laws like GDPR. It is important to determine ones role, document processing activities, and consider sharing human omics data via GHGA."
+  tags:
+  - research data management
+  - GDPR
+  - data protection
+  type:
+  - slides
+  fingerprint: md5:4d2d0721fbae0aa1a01e970cb882b5e7 
+  url: https://zenodo.org/records/11548617
+
+- authors: Tom Boissonnet
+  license:  Creative Commons Attribution 4.0 International
+  name: "Day-to-day image data management with OMERO"
+  description: "This presentation provides an overview of the OMERO platform and its use in day-to-day image data management."
+  tags:
+  - research data management
+  - OMERO
+  type:
+  - slides
+  fingerprint: md5:2ee663b558f4434c893105af18ce9a5b
+  url: https://zenodo.org/records/11548617
+
+- authors: Riccardo Massei
+  license:  Creative Commons Attribution 4.0 International
+  name: "Data Management of High Content Screening Data using OMERO"
+  description: "High-content screening (HCS) bioimaging generates extensive data and metadata, requiring automated management and analysis while adhering to FAIR principles; initiatives like NFDI4BIOIMAGE and UFZ are developing solutions for efficient data handling and sharing using (semi)automatic tools."
+  tags:
+  - research data management
+  - OMERO
+  type:
+  - slides
+  fingerprint: md5:db8000a9915dd1634cd76af86ad2bd48 
+  url: https://zenodo.org/records/11548617
+
+- authors: Marcelo Zoccoler
+  license:  Creative Commons Attribution 4.0 International
+  name: "Image Analysis with OMERO"
+  description: "This presentation provides an overview of the OMERO platform and its use in image analysis."
+  tags:
+  - research data management
+  - OMERO
+  type:
+  - slides
+  fingerprint: md5:6e47e55ee449ffe2717f01c9841bb3da
+  url: https://zenodo.org/records/11548617
+
+- authors: Simon Beckemeier
+  license:  Creative Commons Attribution 4.0 International
+  name: "Electronic Lab Notebooks and eLabFTW - an Introduction"
+  description: "This presentation provides an overview of electronic lab notebooks and the eLabFTW platform."
+  tags:
+  - research data management
+  - electronic lab notebooks
+  type:
+  - slides
+  fingerprint: md5:e40546af1b84d2eae1262cf02852d1dc
+  url: https://zenodo.org/records/11548617
+
+- authors: Luca Bertinetti
+  license: Creative Commons Attribution 4.0 International
+  name: "First Steps Towards Effective Data Management in a Multidisciplinary Research Group with eLabFTW"
+  description: "This presentation provides an overview of the eLabFTW platform and its use in a multidisciplinary research group."
+  tags:
+  - research data management
+  - electronic lab notebooks
+  type:
+  - slides
+  fingerprint: md5:1248e2f756fed9958c06a61bcec85778 
+  url: https://zenodo.org/records/11548617
+
+- authors: Marc Gentzel 
+  license: Creative Commons Attribution 4.0 International
+  name: "eLabFTW at a Facility"
+  description: "This presentation provides an overview of the eLabFTW platform and its use in a facility."
+  tags:
+  - research data management
+  - electronic lab notebooks
+  type:
+  - slides
+  fingerprint: md5:61ace3836d28429e6041c6a9c3514d1b
+  url: https://zenodo.org/records/11548617
+
+- authors: Conni Wetzker
+  license: Creative Commons Attribution 4.0 International
+  name: "WS program and campus survey"
+  description: "This presentation provides an overview of the WS program and campus survey."
+
