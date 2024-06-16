@@ -108,3 +108,15 @@ resources:
   - publication
   url:
   - https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317
+
+- authors: Oleg Ryabchykov, Shuxia Guo, Thomas Bocklitz 
+  license: Creative Commons Attribution 4.0 International
+  name: "Photonic data analysis in 2050"
+  description: "Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations."
+  tags:
+  - FAIR-principles
+  - machine learning
+  - research data management
+  type:
+  - publication
+  url: https://doi.org/10.1016/j.vibspec.2024.103685
