@@ -349,24 +349,24 @@ resources:
   url: https://doi.org/10.5281/zenodo.8070038
 
 - authors: 
-  Abdrabbou, Mohamed, 
-  Babaki, Mehrnaz, 
-  Boissonnet, Tom, 
-  Bortolomeazzi, Michele, 
-  Dahms, Eik, 
-  Fuchs, Vanessa A. F.,
-  Hoevels, Moritz,
-  Kandpal, Niraj,
-  Möhl, Christoph,
-  Moore, Joshua A.,
-  Schauss, Astrid,
-  Schrader, Andrea,
-  Stöter, Torsten,
-  Thönnißen, Julia,
-  Valencia-S., Monica,
-  Weil, H. Lukas,
-  Wendt, Jens,
-  Zentis, Peter
+  - Abdrabbou, Mohamed
+  - Babaki, Mehrnaz
+  - Boissonnet, Tom
+  - Bortolomeazzi, Michele
+  - Dahms, Eik
+  - Fuchs, Vanessa A. F.
+  - Hoevels, Moritz
+  - Kandpal, Niraj
+  - Möhl, Christoph
+  - Moore, Joshua A.
+  - Schauss, Astrid
+  - Schrader, Andrea
+  - Stöter, Torsten
+  - Thönnißen, Julia
+  - Valencia-S., Monica
+  - Weil, H. Lukas
+  - Wendt, Jens
+  - Zentis, Peter
   license: Creative Commons Attribution 4.0 International
   name: "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)"
   description: "This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld."
@@ -429,12 +429,12 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8414318 
 
 - authors: 
-  Fuchs, Vanessa Aphaia Fiona,
-  Wendt, Jens,
-  Müller, Maximilian,
-  Ahmadi, Mohsen,
-  Massei, Riccardo,
-  Wetzker, Cornelia
+  - Fuchs, Vanessa Aphaia Fiona
+  - Wendt, Jens
+  - Müller, Maximilian
+  - Ahmadi, Mohsen
+  - Massei, Riccardo
+  - Wetzker, Cornelia
   license: Creative Commons Attribution 4.0 International
   name: "Who you gonna call? - Data Stewards to the rescue"
   description: "The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer."
@@ -474,24 +474,24 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
 
 - authors:
-  Abdrabbou, Mohamed M,
-  Babaki, Mehrnaz,
-  Boissonnet, Tom,
-  Bortolomeazzi, Michele,
-  Dahms, Eik,
-  Fuchs, Vanessa A. F.,
-  Hoevels, Moritz,
-  Kandpal, Niraj ,
-  Möhl, Christoph,
-  Moore, Joshua A.,
-  Schauss, Astrid,
-  Schrader, Andrea,
-  Stöter, Torsten,
-  Thönnißen, Julia,
-  Valencia-S., Monica,
-  Weil, H. Lukas,  
-  Wendt, Jens,
-  Zentis, Peter
+  - Abdrabbou, Mohamed M
+  - Babaki, Mehrnaz
+  - Boissonnet, Tom
+  - Bortolomeazzi, Michele
+  - Dahms, Eik
+  - Fuchs, Vanessa A. F.
+  - Hoevels, Moritz
+  - Kandpal, Niraj
+  - Möhl, Christoph
+  - Moore, Joshua A.
+  - Schauss, Astrid
+  - Schrader, Andrea
+  - Stöter, Torsten
+  - Thönnißen, Julia
+  - Valencia-S., Monica
+  - Weil, H. Lukas
+  - Wendt, Jens
+  - Zentis, Peter
   license: Creative Commons Attribution 4.0 International
   name: "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)"
   description: "The first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon) focused on interoperability and REMBI topics, leading to collaborative efforts with DataPLANT on OMERO-ARC interoperability. The event aimed at documenting outcomes, including use cases, and served as groundwork for subsequent projects, acknowledging contributions and funding from various sources including the German Research Foundation (DFG)."
