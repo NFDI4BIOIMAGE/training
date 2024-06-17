@@ -1907,5 +1907,50 @@ resources:
   - slides
   url: https://zenodo.org/records/11265038 
 
+- authors: Pia Voigt, Carolin Hundt 
+  license: Creative Commons Attribution 4.0 International
+  name: "Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz"
+  description: "Workshop zum Thema „Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz“ auf der Data Week Leipzig. Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den Überblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen möchten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen Lösungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten können."
+  tags:
+  - research data management
+  type:
+  - slides
+  url: https://zenodo.org/records/11107798 
+
+- authors: Stefano Della Chiesa
+  license: Creative Commons Attribution 4.0 International
+  name: "Sustainable Data Stewardship"
+  description: "These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes."
+  tags: 
+  - research data management
+  - data stewardship
+  type:
+  - slides
+  url: https://zenodo.org/records/10942559 
+
+- authors: Robert Haase
+  license: Creative Commons Attribution 4.0 International
+  name: "Cultivating Open Training"
+  description: "In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap."
+  tags:
+  - open science
+  - research data management
+  - FAIR-principles
+  - bio-image analysis
+  - licensing
+  type:
+  - slides
+  url: https://zenodo.org/records/10816895
+
+- authors: Elfi Hesse, Jan-Christoph Deinert, Christian Löschen 
+  license: Creative Commons Attribution 4.0 International
+  name: "ZENODO und Co." Was bringt und wer braucht ein Repositorium?"
+  description: "Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe "Digital Kitchen - Küchengespräche mit SaxFDM" statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erläuterte zunächst Grundsätzliches zum Thema Repositorien. Anschließend teilten Nutzer (Jan Deinert – HZDR) und Anbieter (Christian Löschen – TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns."
+  tags:
+  - research data management
+  type:
+  - slides
+  url: https://zenodo.org/records/4461261 
+
 
 
