@@ -1895,6 +1895,17 @@ resources:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.10793699
 
+- authors: Constantin Pape
+  license: Creative Commons Attribution 4.0 International
+  name: "MicroSam-Talks"
+  description: "Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam. Currently contains slides for two talks: Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024. Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024."
+  tags:
+  - image segmentation
+  - bio-image analysis
+  - deep learning
+  type:
+  - slides
+  url: https://zenodo.org/records/11265038 
 
 
 
