@@ -1719,7 +1719,7 @@ resources:
 - authors: Riccardo Massei
   license: Creative Commons Attribution 4.0 International
   name: "Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy"
-  description: "Results of the project "Conversion of KNIME image analysis workflows to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01 Mar 2024)"
+  description: "Results of the project 'Conversion of KNIME image analysis workflows to Galaxy' during the Hackathon 'Image Analysis in Galaxy' (Freiburg 26 Feb - 01 Mar 2024)"
   tags:
   - research data management
   type:
