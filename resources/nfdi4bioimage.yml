@@ -335,7 +335,7 @@ resources:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.10008464 
 
-  - authors: Stefanie Weidtkamp-Peters
+- authors: Stefanie Weidtkamp-Peters
   license: Creative Commons Attribution 4.0 International
   name: "NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023"
   description: "NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows."
@@ -348,7 +348,7 @@ resources:
   - slides
   url: https://doi.org/10.5281/zenodo.8070038
 
-  - authors: 
+- authors: 
   Abdrabbou, Mohamed, 
   Babaki, Mehrnaz, 
   Boissonnet, Tom, 
@@ -379,7 +379,7 @@ resources:
   - github repository
   url: https://zenodo.org/doi/10.5281/zenodo.10609770 
 
-  - authors: Josh Moore, Susanne Kunis
+- authors: Josh Moore, Susanne Kunis
   license: Creative Commons Attribution 4.0 International
   name: "[ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math"
   description: "Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)"
