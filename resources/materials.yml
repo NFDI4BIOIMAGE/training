@@ -1621,11 +1621,11 @@ resources:
   url: https://zenodo.org/records/11548617
 
 - authors: 
-  Moore, Josh,
-  Waagmeester, Andra,
-  Hettne, Kristina,
-  Wolstencroft, Katherine,
-  Kunis, Susanne
+  - Moore, Josh
+  - Waagmeester, Andra
+  - Hettne, Kristina
+  - Wolstencroft, Katherine
+  - Kunis, Susanne
   license: Creative Commons Attribution 4.0 International
   name: "RDF as a bridge to domain-platforms like OMERO, or There and back again."
   description: "In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism."
@@ -1648,17 +1648,17 @@ resources:
   url: https://doi.org/10.5281/zenodo.8434325
 
 - authors: 
-  Stöter, Torsten,
-  Gottschall, Tobias,
-  Schrader, Andrea,
-  Zentis, Peter,
-  Valencia-Schneider, Monica,
-  Kandpal, Niraj,
-  Zuschratter, Werner,
-  Schauss, Astrid,
-  Dickscheid, Timo,
-  Mühlhaus, Timo,
-  von Suchodoletz, Dirk
+  - Stöter, Torsten
+  - Gottschall, Tobias
+  - Schrader, Andrea
+  - Zentis, Peter
+  - Valencia-Schneider, Monica
+  - Kandpal, Niraj
+  - Zuschratter, Werner
+  - Schauss, Astrid
+  - Dickscheid, Timo
+  - Mühlhaus, Timo
+  - von Suchodoletz, Dirk
   license: Creative Commons Attribution 4.0 International
   name: "Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization"
   description: "Interdisciplinary collaboration and integrating large, diverse datasets are crucial for answering complex research questions, requiring multimodal data analysis and adherence to FAIR principles. To address challenges in capturing the full research cycle and contextualizing data, DataPLANT developed the Annotated Research Context (ARC), while the neuroimaging community extended the Brain Imaging Data Structure (BIDS) for microscopic image data, both providing standardized, file system-based storage structures for organizing and sharing data with metadata."
