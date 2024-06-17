@@ -323,8 +323,7 @@ resources:
   - publication
   - documentation
   url: https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
-
-  - authors: Josh Moore
+- authors: Josh Moore
   license: Creative Commons Attribution 4.0 International
   name: "Welcome to BioImage Town"
   description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023"
