@@ -374,7 +374,7 @@ def find_anything(content, what_to_look_in, what_to_find):
 def write_md(resources, title, filename):
     """Turns a list of resources into a markdown file that can be parsed by Jupyter Book"""
     
-    with open(filename, 'w') as file:
+    with open(filename, 'w', encoding='utf-8') as file:
         print("Printing items of ", title)
 
         num_items = len(resources.keys())
