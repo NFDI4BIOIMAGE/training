@@ -6,6 +6,7 @@ import json
 from generate_link_lists import read_zenodo, read_yaml_file, all_content
 import pandas as pd
 from pathlib import Path
+import datetime
 
 #define directory path
 directory_path = './resources/'
@@ -51,5 +52,11 @@ for entry in content['resources']:
                     download_statistics = pd.concat([download_statistics, df_entry], ignore_index=True)
                     print(download_statistics)
 
+#get current date
+date = datetime.datetime.now().strftime("%Y%m%d")
 
-download_statistics.to_csv('download_statistics.csv', index=False)
+#create filename
+filename = f'download_statistics_{date}.csv'
+
+#save download_statistics to CSV file with the new filename
+download_statistics.to_csv(filename, index=False)
