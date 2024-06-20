@@ -29,7 +29,6 @@ jobs:
     - name: Build the book
       run: |
         python scripts/generate_link_lists.py
-        python scripts/summary_download_statistics.py
         jupyter-book build docs/
 
     # Push the book's HTML to github-pages
