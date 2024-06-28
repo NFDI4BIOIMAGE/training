@@ -60,4 +60,10 @@ resources:
   type:
   - workshop
   url: https://www.dtls.nl/fair-data/byod/ 
-
+- name: "Workshop-June2024-Madrid"
+  tags:
+  - bioimage analysis
+  type:
+  - workshop
+  - collection
+  url: https://github.com/bioimage-io/Workshop-June2024-Madrid 
