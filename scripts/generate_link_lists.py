@@ -290,7 +290,10 @@ def read_zenodo(record):
     import json
 
     record = record.replace("https://zenodo.org/", "")
+    record = record.replace("record/", "records/")
     url = "https://zenodo.org/api/" + record
+
+    print(url)
     
     # Download the file
     response = requests.get(url)
