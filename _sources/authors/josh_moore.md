@@ -1,4 +1,4 @@
-# Josh moore (7)
+# Josh moore (11)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -101,6 +101,63 @@ Content type: publication, preprint
 
 ---
 
+## Welcome to BioImage Town
+
+Josh Moore
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
+
+Tags: omero, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: research data management, bioimage analysis, data science
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
+
+
+---
+
 ## [N4BI AHM] Welcome to BioImage Town
 
 Josh Moore
@@ -116,6 +173,25 @@ Tags: research data management
 Content type: slides
 
 [https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
+
+
+---
+
+## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
+
+Josh Moore, Susanne Kunis
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
+
+Tags: research data management, FAIR-principles, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.7928332](https://zenodo.org/doi/10.5281/zenodo.7928332)
 
 
 ---

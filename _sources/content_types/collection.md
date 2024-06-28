@@ -1,4 +1,4 @@
-# Collection (52)
+# Collection (54)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -430,6 +430,25 @@ Content type: collection, video
 
 ---
 
+## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
+
+Tags: omero, data analysis, bioimage analysis
+
+Content type: collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
+
+
+---
+
 ## I3D:bio list of online training material
 
 Licensed unknown
@@ -703,6 +722,19 @@ Tags: bioinformatics
 Content type: collection
 
 [https://tess.elixir-europe.org/materials](https://tess.elixir-europe.org/materials)
+
+
+---
+
+## Workshop-June2024-Madrid
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (111)
+# Bioimage analysis (126)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -50,6 +50,25 @@ Tags: imagej, bioimage analysis
 Content type: notebook
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
+
+
+---
+
+## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
+
+Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by Anca Margineanu, Chiara Stringari and Conni Wetzker. 
+
+Tags: bioimage analysis, FLIM
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10886749](https://zenodo.org/doi/10.5281/zenodo.10886749)
 
 
 ---
@@ -684,6 +703,25 @@ Content type: book
 
 ---
 
+## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
+
+Massei, Scholz, Busch, Schnike, Bohring, Bumberger
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
+
+Tags: bioimage analysis
+
+Content type: poster
+
+[https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
+
+
+---
+
 ## Diffusion Models for Image Restoration - An Introduction
 
 Anirban Ray
@@ -891,6 +929,25 @@ Tags: bioimage analysis
 Content type: collection, event
 
 [https://globalbioimaging.org/international-training-courses](https://globalbioimaging.org/international-training-courses)
+
+
+---
+
+## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
+
+Tags: omero, data analysis, bioimage analysis
+
+Content type: collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -1380,6 +1437,82 @@ Content type: slide, code, notebook
 
 ---
 
+## NFDI4BIOIMAGE
+
+Carsten Fortmann.Grote
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
+
+Tags: research data management, bioimage analysis, FAIR-principles, Zarr, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.11031746](https://zenodo.org/doi/10.5281/zenodo.11031746)
+
+
+---
+
+## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
+
+Stefanie Weidtkamp-Peters
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
+
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
+
+
+---
+
+## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
+
+Riccardo Massei
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
+
+Tags: research data management, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
+
+['Abdrabbou, Mohamed', 'Babaki, Mehrnaz', 'Boissonnet, Tom', 'Bortolomeazzi, Michele', 'Dahms, Eik', 'Fuchs, Vanessa A. F.', 'Hoevels, Moritz', 'Kandpal, Niraj', 'Möhl, Christoph', 'Moore, Joshua A.', 'Schauss, Astrid', 'Schrader, Andrea', 'Stöter, Torsten', 'Thönnißen, Julia', 'Valencia-S., Monica', 'Weil, H. Lukas', 'Wendt, Jens', 'Zentis, Peter']
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
+
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+
+Content type: github repository
+
+[https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
 Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
@@ -1544,6 +1677,25 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
+
+
+---
+
+## RDF as a bridge to domain-platforms like OMERO, or There and back again.
+
+['Moore, Josh', 'Waagmeester, Andra', 'Hettne, Kristina', 'Wolstencroft, Katherine', 'Kunis, Susanne']
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
+
+Tags: research data management, FAIR-principles, bioimage analysis
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10687658](https://zenodo.org/doi/10.5281/zenodo.10687658)
 
 
 ---
@@ -1714,6 +1866,25 @@ Content type: publication, preprint
 
 ---
 
+## Welcome to BioImage Town
+
+Josh Moore
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
+
+Tags: omero, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
 ## What is Bioimage Analysis? An Introduction
 
 Kota Miura
@@ -1727,6 +1898,25 @@ Tags: neubias, bioimage analysis
 Content type: slide
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
+
+
+---
+
+## Who you gonna call? - Data Stewards to the rescue
+
+['Fuchs, Vanessa Aphaia Fiona', 'Wendt, Jens', 'Müller, Maximilian', 'Ahmadi, Mohsen', 'Massei, Riccardo', 'Wetzker, Cornelia']
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
+
+Tags: research data management, bioimage analysis, data stewardship, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
 
 
 ---
@@ -1765,6 +1955,19 @@ Content type: slide
 
 ---
 
+## Workshop-June2024-Madrid
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
+
+
+---
+
 ## ZEN & Python workshop
 
 Licensed gpl-3.0
@@ -1793,6 +1996,82 @@ Tags: artificial intelligence, bioimage analysis
 Content type: slide
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: research data management, bioimage analysis, data science
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
+
+
+---
+
+## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
+
+Christian Schmidt
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
+
+Tags: research data management, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+
+---
+
+## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
+
+Vanessa Aphaia Fiona Fuchs, Christian Schmidt, Tom Boissonnet
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
+
+Tags: research data management, bioimage analysis, omero
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 
 
 ---

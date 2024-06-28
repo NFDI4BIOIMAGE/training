@@ -1,4 +1,4 @@
-# Publication (40)
+# Publication (41)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -555,6 +555,25 @@ This comment article outlines the current state of the art in open hardware publ
 Content type: publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
+
+
+---
+
+## Photonic data analysis in 2050
+
+Oleg Ryabchykov, Shuxia Guo, Thomas Bocklitz
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
+
+Tags: FAIR-principles, machine learning, research data management
+
+Content type: publication
+
+[https://doi.org/10.1016/j.vibspec.2024.103685](https://doi.org/10.1016/j.vibspec.2024.103685)
 
 
 ---

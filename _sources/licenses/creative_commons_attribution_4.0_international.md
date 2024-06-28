@@ -1,4 +1,4 @@
-# Slides (34)
+# Creative commons attribution 4.0 international (33)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -37,6 +37,25 @@ Content type: slides
 
 ---
 
+## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
+
+['Stöter, Torsten', 'Gottschall, Tobias', 'Schrader, Andrea', 'Zentis, Peter', 'Valencia-Schneider, Monica', 'Kandpal, Niraj', 'Zuschratter, Werner', 'Schauss, Astrid', 'Dickscheid, Timo', 'Mühlhaus, Timo', 'von Suchodoletz, Dirk']
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Interdisciplinary collaboration and integrating large, diverse datasets are crucial for answering complex research questions, requiring multimodal data analysis and adherence to FAIR principles. To address challenges in capturing the full research cycle and contextualizing data, DataPLANT developed the Annotated Research Context (ARC), while the neuroimaging community extended the Brain Imaging Data Structure (BIDS) for microscopic image data, both providing standardized, file system-based storage structures for organizing and sharing data with metadata.
+
+Tags: research data management, FAIR-principles
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.8349562](https://zenodo.org/doi/10.5281/zenodo.8349562)
+
+
+---
+
 ## Crashkurs Forschungsdatenmanagement
 
 Barbara Weiner, Stefan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Eize, Ronny Gey
@@ -71,44 +90,6 @@ Tags: open science, research data management, FAIR-principles, bio-image analysi
 Content type: slides
 
 [https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
-
-
----
-
-## Cultivating Open Training to advance Bio-image Analysis
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
-
-Tags: research data management, Licensing, FAIR-principles
-
-Content type: slides
-
-[https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
-
-
----
-
-## Datenmanagement
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Introduction to data management and how to write a data management plan
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
 
 
 ---
@@ -170,6 +151,25 @@ Content type: slides
 
 ---
 
+## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
+
+Massei, Scholz, Busch, Schnike, Bohring, Bumberger
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
+
+Tags: bioimage analysis
+
+Content type: poster
+
+[https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
+
+
+---
+
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
 Stephan Wünsche, Pia Voigt
@@ -208,47 +208,21 @@ Content type: slides, tutorial
 
 ---
 
-## FAIR data handling for microscopy: Structured metadata annotation in OMERO
+## Euro-BioImaging Template for Research Data Management Plans
+
+Isabel Kemmer
+
+Licensed Creative Commons Attribution 4.0 International
 
 
 
-Tags: research data management, omero
+Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
 
-Content type: workshop, slides, dataset
+Tags: bioimage analysis, FAIR-principles, research data management
 
-[https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
+Content type: collection, tutorial
 
-
----
-
-## FAIRy deep-learning for bioImage analysis
-
-Estibaliz Gómez de Mariscal
-
-Licensed CC-BY 4.0
-
-
-
-Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
-
-Tags: deep learning, FAIR-principles, microscopy image analysis
-
-Content type: slides
-
-[https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
-
-
----
-
-## Galaxy Training Material
-
-Licensed mit
-
-
-
-Content type: slides, tutorial
-
-[https://github.com/galaxyproject/training-material](https://github.com/galaxyproject/training-material)
+[https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 
 ---
@@ -272,40 +246,21 @@ Content type: slides
 
 ---
 
-## Intro napari slides
+## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-Peter Sobolewski
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Licensed MIT License
-
-
-
-Introduction to napari workshop run at JAX (Spring 2024).
-
-Tags: napari
-
-Content type: slides
-
-[https://thejacksonlaboratory.github.io/intro-napari-slides/#/section](https://thejacksonlaboratory.github.io/intro-napari-slides/#/section)
-
-
----
-
-## Kollaboratives Arbeiten und Versionskontrolle mit Git
-
-Robert Haase
-
-Licensed CC-BY 4.0
+Licensed Creative Commons Attribution 4.0 International
 
 
 
-Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: research data management, FAIR-principles, git, zenodo
+Tags: omero, data analysis, bioimage analysis
 
-Content type: slides
+Content type: collection
 
-[https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -325,44 +280,6 @@ Tags: image segmentation, bio-image analysis, deep learning
 Content type: slides
 
 [https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
-
-
----
-
-## Microscopy data analysis: machine learning and the BioImage Archive
-
-Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
-
-Licensed CC-BY 4.0
-
-
-
-The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
-
-Tags: microscopy image analysis, python, deep learning
-
-Content type: videos, practicals, slides
-
-[https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
-
-
----
-
-## My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
-
-Elnaz Fazeli
-
-Licensed cc-by-4.0
-
-
-
-In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences.
-
-Tags: teaching
-
-Content type: slides
-
-[https://zenodo.org/records/10679054](https://zenodo.org/records/10679054)
 
 
 ---
@@ -424,21 +341,40 @@ Content type: slides
 
 ---
 
-## Open Science, Sharing & Licensing
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-Robert Haase
+['Abdrabbou, Mohamed', 'Babaki, Mehrnaz', 'Boissonnet, Tom', 'Bortolomeazzi, Michele', 'Dahms, Eik', 'Fuchs, Vanessa A. F.', 'Hoevels, Moritz', 'Kandpal, Niraj', 'Möhl, Christoph', 'Moore, Joshua A.', 'Schauss, Astrid', 'Schrader, Andrea', 'Stöter, Torsten', 'Thönnißen, Julia', 'Valencia-S., Monica', 'Weil, H. Lukas', 'Wendt, Jens', 'Zentis, Peter']
 
-Licensed CC-BY 4.0
+Licensed Creative Commons Attribution 4.0 International
 
 
 
-Introduction to Open Science, Open Access, FAIR-principles and Licensing
+This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: research data management, Open Access, FAIR-principles, licensing
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
 
-Content type: slides
+Content type: github repository
 
-[https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
+[https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## Photonic data analysis in 2050
+
+Oleg Ryabchykov, Shuxia Guo, Thomas Bocklitz
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
+
+Tags: FAIR-principles, machine learning, research data management
+
+Content type: publication
+
+[https://doi.org/10.1016/j.vibspec.2024.103685](https://doi.org/10.1016/j.vibspec.2024.103685)
 
 
 ---
@@ -557,6 +493,25 @@ Content type: slides
 
 ---
 
+## Who you gonna call? - Data Stewards to the rescue
+
+['Fuchs, Vanessa Aphaia Fiona', 'Wendt, Jens', 'Müller, Maximilian', 'Ahmadi, Mohsen', 'Massei, Riccardo', 'Wetzker, Cornelia']
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
+
+Tags: research data management, bioimage analysis, data stewardship, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
+
+
+---
+
 ## ZENODO und Co. Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -576,21 +531,59 @@ Content type: slides
 
 ---
 
-## [N4BI AHM] Welcome to BioImage Town
+## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore
 
-Licensed cc-by-4.0
+Licensed Creative Commons Attribution 4.0 International
 
 
 
-Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: research data management
+Tags: research data management, bioimage analysis, data science
 
-Content type: slides
+Content type: poster
 
-[https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
+[https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
+
+
+---
+
+## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
+
+Josh Moore, Susanne Kunis
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
+
+Tags: research data management, FAIR-principles, NFDI4BioImage
+
+Content type: poster
+
+[https://zenodo.org/doi/10.5281/zenodo.7928332](https://zenodo.org/doi/10.5281/zenodo.7928332)
 
 
 ---

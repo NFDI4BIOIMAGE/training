@@ -185,17 +185,17 @@ Content type: blog
 
 Robert Haase
 
-Licensed cc-by-4.0
+Licensed Creative Commons Attribution 4.0 International
 
 
 
-In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: teaching
+Tags: open science, research data management, FAIR-principles, bio-image analysis, licensing
 
 Content type: slides
 
-[https://zenodo.org/records/10654775](https://zenodo.org/records/10654775)
+[https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
 
 
 ---

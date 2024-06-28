@@ -1,4 +1,4 @@
-# Omero (16)
+# Omero (19)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -25,6 +25,25 @@ Tags: research data management, omero
 Content type: workshop, slides, dataset
 
 [https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
+
+
+---
+
+## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
+
+Tags: omero, data analysis, bioimage analysis
+
+Content type: collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -253,6 +272,44 @@ Tags: metadata, workflow, OMERO
 Content type: forum post
 
 [https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1](https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1)
+
+
+---
+
+## Welcome to BioImage Town
+
+Josh Moore
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
+
+Tags: omero, bioimage analysis, NFDI4BioImage
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
+
+Vanessa Aphaia Fiona Fuchs, Christian Schmidt, Tom Boissonnet
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
+
+Tags: research data management, bioimage analysis, omero
+
+Content type: slides
+
+[https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 
 
 ---
