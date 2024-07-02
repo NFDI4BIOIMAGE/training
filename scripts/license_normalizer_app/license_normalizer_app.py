@@ -4,8 +4,15 @@ import yaml
 import requests
 
 app = Flask(__name__)
-UPLOAD_FOLDER = 'C:/NFDI4BIOIMAGE/training-clean/resources'
-PROCESSED_FOLDER = 'C:/NFDI4BIOIMAGE/training-clean/scripts/license_normalizer_app/processed'
+
+# Determine the base directory of the script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Set relative paths
+base_dir = os.path.abspath(os.path.join(script_dir, "..", ".."))
+UPLOAD_FOLDER = os.path.join(base_dir, "resources")
+PROCESSED_FOLDER = os.path.join(base_dir, "scripts", "license_normalizer_app", "processed")
+
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 
@@ -49,15 +56,16 @@ def write_data_to_file(data, file_path):
 
 @app.route('/')
 def upload_form():
-    return render_template('upload.html')
+    message = request.args.get('message')
+    return render_template('upload.html', message=message)
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'file' not in request.files:
-        return 'No file part'
+        return redirect(url_for('upload_form', message="No file part"))
     file = request.files['file']
     if file.filename == '':
-        return 'No selected file'
+        return redirect(url_for('upload_form', message="No selected file"))
     if file:
         filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(filename)
@@ -69,7 +77,9 @@ def upload_file():
         processed_filename = os.path.join(app.config['PROCESSED_FOLDER'], f"normalized_{file.filename}")
         write_data_to_file({'resources': normalized_data}, processed_filename)
 
-        return f"File processed and saved as {processed_filename}"
+        # Calculate relative path of the processed file
+        relative_processed_filename = os.path.relpath(processed_filename, base_dir)
+        return redirect(url_for('upload_form', message=f"File processed and saved as {relative_processed_filename}"))
 
 if __name__ == "__main__":
     app.run(debug=True)

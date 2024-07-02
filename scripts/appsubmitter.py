@@ -51,5 +51,7 @@ if submit_button:
     except Exception as e:
         st.error(f"Failed to create issue: {e}")
 
-# cd C:\NFDI4BIOIMAGE\training\scripts
+# To run the script from the correct directory
+# Ensure you are in the correct directory by using the relative path
+# cd ../../scripts
 # streamlit run appsubmitter.py

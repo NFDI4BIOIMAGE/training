@@ -56,8 +56,9 @@ def write_data_to_file(data, file_path):
         yaml.dump(data, file, sort_keys=False)
 
 def main():
-    input_path = "C:/NFDI4BIOIMAGE/training-clean/resources/materials.yml"
-    output_path = "C:/NFDI4BIOIMAGE/training-clean/scripts/normalized_materials.yml"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    input_path = os.path.join(script_dir, "../resources/materials.yml")
+    output_path = os.path.join(script_dir, "normalized_materials.yml")
 
     # Fetch SPDX licenses
     spdx_licenses = fetch_spdx_licenses()
