@@ -32,18 +32,75 @@ def fetch_spdx_licenses():
     else:
         raise Exception("Failed to fetch SPDX licenses")
 
+# Normalize a license name using the SPDX license list
 def normalize_license(license_name, spdx_licenses):
     license_name_lower = license_name.lower().strip().replace(" ", "-")
     return spdx_licenses.get(license_name_lower, license_name_lower)
 
-def normalize_licenses_in_data(data, spdx_licenses):
+# Normalize a single field (authors, tags)
+def normalize_field(field):
+    if isinstance(field, list):
+        return [item.strip().title() for item in field]
+    else:
+        return field.strip().title()
+    
+
+# Create a mapping for items (authors, tags) to a consistent format
+def create_mapping(items):
+    normalized_items = {}
+    for item in items:
+        normalized_item = item.strip()
+        normalized_items[item.lower().strip()] = normalized_item
+    return normalized_items
+
+# Normalize the license names, authors, and tags in the data
+def normalize_data(data, spdx_licenses):
+    all_authors = set()
+    all_tags = set()
+
+    # Collect all authors and tags
     for item in data:
+        if 'authors' in item:
+            if isinstance(item['authors'], list):
+                all_authors.update(item['authors'])
+            else:
+                all_authors.add(item['authors'])
+
+        if 'tags' in item:
+            if isinstance(item['tags'], list):
+                all_tags.update(item['tags'])
+            else:
+                all_tags.add(item['tags'])
+
+    # Create a mapping for authors and tags
+    author_mapping = create_mapping(all_authors)
+    tags_mapping = create_mapping(all_tags)
+
+    # Normalize data
+    for item in data:
+        # Normalize license
         if 'license' in item:
             if isinstance(item['license'], list):
                 item['license'] = [normalize_license(license, spdx_licenses) for license in item['license']]
             else:
                 item['license'] = normalize_license(item['license'], spdx_licenses)
+
+        # Normalize authors
+        if 'authors' in item:
+            if isinstance(item['authors'], list):
+                item['authors'] = [author_mapping[author.lower().strip()] for author in item['authors']]
+            else:
+                item['authors'] = author_mapping[item['authors'].lower().strip()]
+
+        # Normalize tags
+        if 'tags' in item:
+            if isinstance(item['tags'], list):
+                item['tags'] = [normalize_field(tag) for tag in item['tags']]
+            else:
+                item['tags'] = normalize_field(item['tags'])
+
     return data
+    
 
 def read_data_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -73,7 +130,7 @@ def upload_file():
         spdx_licenses = fetch_spdx_licenses()
         data = read_data_from_file(filename)
         resources_data = data.get('resources', [])
-        normalized_data = normalize_licenses_in_data(resources_data, spdx_licenses)
+        normalized_data = normalize_data(resources_data, spdx_licenses)
         processed_filename = os.path.join(app.config['PROCESSED_FOLDER'], f"normalized_{file.filename}")
         write_data_to_file({'resources': normalized_data}, processed_filename)
 
