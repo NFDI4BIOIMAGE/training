@@ -52,6 +52,21 @@ def create_mapping(items):
         normalized_item = item.strip()
         normalized_items[item.lower().strip()] = normalized_item
     return normalized_items
+# Help the function swap the name from "Last,First" to "First Last"
+def normalize_author_name(name):
+    parts = [part.strip() for part in name.split(',')]
+    if len(parts) == 2:
+        return f"{parts[1]} {parts[0]}"
+    return name
+
+def normalize_author_list(authors):
+    normalized_authors = []
+    for author in authors:
+        author_names = author.split(';')
+        for name in author_names:
+            normalized_name = normalize_author_name(name)
+            normalized_authors.append(normalized_name)
+    return normalized_authors
 
 # Normalize the license names, authors, and tags in the data
 def normalize_data(data, spdx_licenses):
@@ -62,9 +77,10 @@ def normalize_data(data, spdx_licenses):
     for item in data:
         if 'authors' in item:
             if isinstance(item['authors'], list):
-                all_authors.update(item['authors'])
+                for author in item['authors']:
+                    all_authors.update([a.strip() for a in author.split(';')])
             else:
-                all_authors.add(item['authors'])
+                all_authors.update([a.strip() for a in item['authors'].split(';')])
 
         if 'tags' in item:
             if isinstance(item['tags'], list):
@@ -88,9 +104,15 @@ def normalize_data(data, spdx_licenses):
         # Normalize authors
         if 'authors' in item:
             if isinstance(item['authors'], list):
-                item['authors'] = [author_mapping[author.lower().strip()] for author in item['authors']]
+                # Flatten and normalize authors list
+                normalized_authors = []
+                for author in item['authors']:
+                    # normalized_authors.extend([author_mapping[a.lower().strip()] for a in author.split(';')])
+                    normalized_authors.extend([normalize_author_name(author_mapping[a.lower().strip()]) for a in author.split(';')])
+                item['authors'] = normalized_authors
             else:
-                item['authors'] = author_mapping[item['authors'].lower().strip()]
+                # item['authors'] = [author_mapping[a.lower().strip()] for a in item['authors'].split(';')]
+                item['authors'] = [normalize_author_name(author_mapping[a.lower().strip()]) for a in item['authors'].split(';')]
 
         # Normalize tags
         if 'tags' in item:
