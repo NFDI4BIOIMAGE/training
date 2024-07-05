@@ -1839,3 +1839,30 @@ resources:
   type:
   - slides
   url: https://zenodo.org/records/3778431 
+
+- authors: Robert Haase
+  license: Creative Commons Attribution 4.0 International
+  name: "Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI"
+  description: "These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024."
+  tags:
+  - bioimage analysis
+  - deep learning
+  - microscopy image analysis
+  - python
+  type:
+  - slides
+  url: https://zenodo.org/records/12623730 
+
+- authors: Robert Haase
+  license: Creative Commons Attribution 4.0 International
+  name: "BIDS-lecture-2024"
+  description: "Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024."
+  tags:
+  - bioimage analysis
+  - deep learning
+  - microscopy image analysis
+  - python
+  type:
+  - github repository
+  url: https://github.com/ScaDS/BIDS-lecture-2024/ 
+  
