@@ -103,3 +103,13 @@ resources:
   - OMERO
   type: forum post
   url: https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1
+
+- authors: Mara Lampert
+  name: How to write a bug report
+  tags:
+  - github
+  - python
+  - science communication
+  type: blog
+  url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/ 
+  
