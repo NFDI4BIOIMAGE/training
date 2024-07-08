@@ -24,8 +24,9 @@ jobs:
         pip install -r requirements.txt
 
 
-    # Build the book
-    - name: Build the book
+    # Build the book and normalize
+    - name: Build the book and normalize it
       run: |
         python scripts/generate_link_lists.py
+        python scripts/data_normalizer.py
         jupyter-book build docs/
