@@ -19,6 +19,7 @@ jupyter lab
 To build the book, you can run this from the same folder (tested on Windows only):
 ```
 python scripts/generate_link_lists.py
+python scripts/export_csv.py
 ```
 
 ```
