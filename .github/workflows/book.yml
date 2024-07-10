@@ -29,6 +29,7 @@ jobs:
     - name: Build the book
       run: |
         python scripts/generate_link_lists.py
+        python scripts/export_csv.py
         jupyter-book build docs/
 
     # Push the book's HTML to github-pages
