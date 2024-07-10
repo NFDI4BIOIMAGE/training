@@ -33,7 +33,6 @@ df = df[df['type'].apply(lambda x: contains_filter_word(x, filter_types))]
 
 # select columns
 df = df[selected_columns]
-df.head(5)
 
 # save selected data
 df.to_csv(destination, index=False)
