@@ -88,16 +88,29 @@ resources:
   - publication
   - conference abstract
   url: https://doi.org/10.52825/cordi.v1i.285
-- authors: Susanne Kunis
+- authors: Kunis, Susanne
+  description: 'guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+
+
+    which provides an overview of contexts, frameworks, and models from the world
+    of bioimage data as well as metadata and the techniques for structuring this data
+    as Linked Data.
+
+
+    You can also watch the video in the browser on the I3D:bio website.'
   license: cc-by-4.0
   name: 'Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions
     in the Context of Linked Data'
+  num_downloads: 26
+  publication_date: '2022-08-24'
   tags:
   - NFDI4BioImage
   - research data management
   type:
   - video
-  url: https://zenodo.org/record/7018929
+  url:
+  - https://zenodo.org/record/7018929
+  - https://doi.org/10.5281/zenodo.7018929
 - authors: Robert Haase
   description: Article about the Fiji Updater explaining how it works in the background.
   license: All Rights Reserved
@@ -286,7 +299,7 @@ resources:
   description: Presentation given at PoL BioImage Analysis Symposium Dresden 2023
   license: cc-by-4.0
   name: Thinking data management on different scales
-  num_downloads: 31
+  num_downloads: 59
   publication_date: '2023-08-31'
   tags:
   - research data management
@@ -304,11 +317,14 @@ resources:
   - NFDI4BioImage
   type: slide
   url: https://f1000research.com/slides/12-1054
-- authors: Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+- authors: "Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi,\
+    \ Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph M\xF6\
+    hl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten St\xF6ter, Julia\
+    \ Th\xF6nni\xDFen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis"
   doi: 10.5281/zenodo.10609770
   event_date: November 29 - December 01 2023
   event_location: CECAD, University of Cologne, Cologne, Germany
-  license: CC-BY-4.0
+  license: cc-by-4.0
   name: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
   tags:
   - arc
@@ -318,27 +334,29 @@ resources:
   - omero
   - python
   - research data management
-  type: 
+  type:
   - event
   - publication
   - documentation
   url: https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
 - authors: Josh Moore
+  description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
+    \ October 16, 2023"
   license: Creative Commons Attribution 4.0 International
-  name: "Welcome to BioImage Town"
-  description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023"
+  name: Welcome to BioImage Town
   tags:
   - omero
   - bioimage analysis
   - NFDI4BioImage
   type:
   - slides
-  url: https://zenodo.org/doi/10.5281/zenodo.10008464 
-
+  url: https://zenodo.org/doi/10.5281/zenodo.10008464
 - authors: Stefanie Weidtkamp-Peters
+  description: NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR
+    bioimage workflows.
   license: Creative Commons Attribution 4.0 International
-  name: "NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023"
-  description: "NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows."
+  name: NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage
+    Analysis - Online Kick-Off 2023
   tags:
   - research data management
   - FAIR-principles
@@ -347,8 +365,7 @@ resources:
   type:
   - slides
   url: https://doi.org/10.5281/zenodo.8070038
-
-- authors: 
+- authors:
   - Abdrabbou, Mohamed
   - Babaki, Mehrnaz
   - Boissonnet, Tom
@@ -357,19 +374,25 @@ resources:
   - Fuchs, Vanessa A. F.
   - Hoevels, Moritz
   - Kandpal, Niraj
-  - Möhl, Christoph
+  - "M\xF6hl, Christoph"
   - Moore, Joshua A.
   - Schauss, Astrid
   - Schrader, Andrea
-  - Stöter, Torsten
-  - Thönnißen, Julia
+  - "St\xF6ter, Torsten"
+  - "Th\xF6nni\xDFen, Julia"
   - Valencia-S., Monica
   - Weil, H. Lukas
   - Wendt, Jens
   - Zentis, Peter
+  description: This repository documents the first NFDI4Bioimage - TA3-Hackathon -
+    UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping',
+    and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions
+    and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT.
+    Funded by various DFG initiatives, this event emphasized documentation and use
+    cases, contributing preparatory work for future interoperability projects at the
+    2nd de.NBI BioHackathon in Bielefeld.
   license: Creative Commons Attribution 4.0 International
-  name: "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)"
-  description: "This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld."
+  name: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
   tags:
   - research data management
   - FAIR-principles
@@ -377,12 +400,13 @@ resources:
   - NFDI4BioImage
   type:
   - github repository
-  url: https://zenodo.org/doi/10.5281/zenodo.10609770 
-
+  url: https://zenodo.org/doi/10.5281/zenodo.10609770
 - authors: Josh Moore, Susanne Kunis
+  description: Poster presented at the European Light Microscopy Initiative meeting
+    in Liverpool (https://www.elmi2024.org/)
   license: Creative Commons Attribution 4.0 International
-  name: "[ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math"
-  description: "Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)"
+  name: '[ELMI 2024] AI''s Dirty Little Secret: Without FAIR Data, It''s Just Fancy
+    Math'
   tags:
   - research data management
   - FAIR-principles
@@ -391,53 +415,60 @@ resources:
   type:
   - poster
   url: https://zenodo.org/doi/10.5281/zenodo.11235512
-
-
 - authors: Susanne Kunis
+  description: Presentation given at PoL BioImage Analysis Symposium Dresden 2023
   license: Creative Commons Attribution 4.0 International
-  name: "Thinking data management on different scales"
-  description: "Presentation given at PoL BioImage Analysis Symposium Dresden 2023"
+  name: Thinking data management on different scales
   tags:
   - research data management
   - NFDI4BioImage
   type:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.8329305
-
 - authors: Josh Moore, Susanne Kunis
+  description: Poster presented at Semantic Web Applications and Tools for Health
+    Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland.
+    NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation
+    of biological imaging data. A key deliverable is the definition of a semantically-compatible
+    FAIR image object integrating RDF metadata with web-compatible storage of large
+    n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration
+    with other endeavors during the soon-to-begin 5 year funding period.
   license: Creative Commons Attribution 4.0 International
-  name: "[SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard"
-  description: "Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period."
+  name: '[SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard'
   tags:
   - research data management
   - FAIR-principles
   - NFDI4BioImage
   type:
   - poster
-  url: https://zenodo.org/doi/10.5281/zenodo.7928332 
-
+  url: https://zenodo.org/doi/10.5281/zenodo.7928332
 - authors: Riccardo Massei
+  description: NFDI4BIOIMAGE is a consortium within the framework of the National
+    Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and
+    the contribution to the work programme by the Helmholtz Centre for Environmental
+    Research (UFZ) in Leipzig are outlined.
   license: Creative Commons Attribution 4.0 International
-  name: "NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]"
-  description: "NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined."
+  name: 'NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and
+    BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz
+    Imaging, 5.10.2023, Hamburg]'
   tags:
   - research data management
   - bioimage analysis
   - NFDI4BioImage
   type:
   - slides
-  url: https://zenodo.org/doi/10.5281/zenodo.8414318 
-
-- authors: 
+  url: https://zenodo.org/doi/10.5281/zenodo.8414318
+- authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
-  - Müller, Maximilian
+  - "M\xFCller, Maximilian"
   - Ahmadi, Mohsen
   - Massei, Riccardo
   - Wetzker, Cornelia
+  description: The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves
+    and the services (including the Helpdesk) that we offer.
   license: Creative Commons Attribution 4.0 International
-  name: "Who you gonna call? - Data Stewards to the rescue"
-  description: "The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer."
+  name: Who you gonna call? - Data Stewards to the rescue
   tags:
   - research data management
   - bioimage analysis
@@ -445,12 +476,13 @@ resources:
   - NFDI4BioImage
   type:
   - poster
-  url: https://zenodo.org/doi/10.5281/zenodo.10730423 
-
+  url: https://zenodo.org/doi/10.5281/zenodo.10730423
 - authors: Christian Schmidt
+  description: "Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM\
+    \ in (Bio-)Medicine Information Event on April 10th, 2024, organized C\xB3RDM\
+    \ & ZB MED."
   license: Creative Commons Attribution 4.0 International
-  name: "[Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure"
-  description: "Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED."
+  name: '[Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure'
   tags:
   - research data management
   - bioimage analysis
@@ -458,11 +490,12 @@ resources:
   type:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.10939519
-
 - authors: Carsten Fortmann.Grote
+  description: Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about
+    e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training
+    (TA5), contributing.
   license: Creative Commons Attribution 4.0 International
-  name: "NFDI4BIOIMAGE"
-  description: "Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing."
+  name: NFDI4BIOIMAGE
   tags:
   - research data management
   - bioimage analysis
@@ -472,4 +505,3 @@ resources:
   type:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
-
