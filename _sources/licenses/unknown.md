@@ -1,4 +1,4 @@
-# Unknown (59)
+# Unknown (58)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -812,23 +812,6 @@ Tags: Python
 Content type: code, notebook
 
 [https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
-
-
----
-
-## Python for Microscopists
-
-Sreenivas Bhattiprolu
-
-Licensed unknown
-
-
-
-Tags: Python, bioimage analysis
-
-Content type: notebook, collection
-
-[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
 
 ---

@@ -1,4 +1,4 @@
-# Susanne kunis (9)
+# Susanne kunis (8)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -78,23 +78,6 @@ Tags: NFDI4BioImage, research data management
 Content type: publication
 
 [https://doi.org/10.1515/hsz-2022-0304](https://doi.org/10.1515/hsz-2022-0304)
-
-
----
-
-## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
-
-Susanne Kunis
-
-Licensed cc-by-4.0
-
-
-
-Tags: NFDI4BioImage, research data management
-
-Content type: video
-
-[https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
 
 
 ---

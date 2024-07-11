@@ -50,7 +50,9 @@ Content type: documentation
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-Robert Haase
+Haase, Robert
+
+Published 2024-03-13
 
 Licensed cc-by-4.0
 
@@ -63,6 +65,8 @@ Tags: Large Language Models, python
 Content type: slide
 
 [https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
+
+[https://doi.org/10.5281/zenodo.10815329](https://doi.org/10.5281/zenodo.10815329)
 
 
 ---
@@ -515,7 +519,7 @@ Content type: book, notebook
 
 Costantin Pape, computational-cell-analytics
 
-Licensed MIT License
+Licensed mit
 
 
 
@@ -638,7 +642,7 @@ Content type: notebook
 
 Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
-Licensed CC-BY-4.0
+Licensed cc-by-4.0
 
 
 
@@ -819,7 +823,7 @@ Content type: code, notebook
 
 Sreenivas Bhattiprolu
 
-Licensed unknown
+Licensed mit
 
 
 

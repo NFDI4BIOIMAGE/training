@@ -1,13 +1,17 @@
 # Licensing (5)
-## Alles meins oder!? Urheberrechte klären für Forschungsdaten
+## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
-Stephan Wünsche
+Wünsche, Stephan
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-06-04
+
+Licensed cc-by-4.0
 
 
 
-Wem gehören Forschungsdaten? Diese Frage stellt sich bei Daten, an deren Entstehung mehrere Personen beteiligt waren, und besonders bei Textdaten, Bildern und Videos. Hier lernen Sie, für Ihr eigenes Forschungsvorhaben zu erkennen, wessen Urheber- und Leistungsschutzrechte zu berücksichtigen sind. Sie erfahren, wie Sie mit Hilfe von Vereinbarungen frühzeitig Rechtssicherheit herstellen, etwa um Daten weitergeben oder publizieren zu können.
+Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten, an deren Entstehung mehrere Personen beteiligt waren, und besonders bei Textdaten, Bildern und Videos. Hier lernen Sie, f&uuml;r Ihr eigenes Forschungsvorhaben zu erkennen, wessen Urheber- und Leistungsschutzrechte zu ber&uuml;cksichtigen sind. Sie erfahren, wie Sie mit Hilfe von Vereinbarungen fr&uuml;hzeitig Rechtssicherheit herstellen, etwa um Daten weitergeben oder publizieren zu k&ouml;nnen.
+&nbsp;
+&nbsp;
 
 Tags: research data management, licensing
 
@@ -15,14 +19,18 @@ Content type: slides
 
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
+[https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
 
 ---
 
 ## Cultivating Open Training
 
-Robert Haase
+Haase, Robert
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-03-14
+
+Licensed cc-by-4.0
 
 
 
@@ -34,24 +42,32 @@ Content type: slides
 
 [https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
 
+[https://doi.org/10.5281/zenodo.10816895](https://doi.org/10.5281/zenodo.10816895)
+
 
 ---
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-Robert Haase
+Haase, Robert
 
-Licensed CC-BY 4.0
+Published 2024-04-25
+
+Licensed cc-by-4.0
 
 
 
-Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+
+These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+
 
 Tags: research data management, Licensing, FAIR-principles
 
 Content type: slides
 
 [https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
+
+[https://doi.org/10.5281/zenodo.11066250](https://doi.org/10.5281/zenodo.11066250)
 
 
 ---
@@ -77,19 +93,23 @@ Content type: blog
 
 ## Open Science, Sharing & Licensing
 
-Robert Haase
+Haase, Robert
 
-Licensed CC-BY 4.0
+Published 2024-04-18
+
+Licensed cc-by-4.0
 
 
 
-Introduction to Open Science, Open Access, FAIR-principles and Licensing
+Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
 Tags: research data management, Open Access, FAIR-principles, licensing
 
 Content type: slides
 
 [https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
+
+[https://doi.org/10.5281/zenodo.10990107](https://doi.org/10.5281/zenodo.10990107)
 
 
 ---

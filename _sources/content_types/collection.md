@@ -310,21 +310,26 @@ Content type: collection, video
 
 ---
 
-## Euro-BioImaging Template for Research Data Management Plans
+## Euro-BioImaging's Template for Research Data Management Plans
 
-Isabel Kemmer
+Kemmer, Isabel, Euro-BioImaging ERIC
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-06-04
+
+Licensed cc-by-4.0
 
 
 
-Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
+Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
+This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
 Tags: bioimage analysis, FAIR-principles, research data management
 
 Content type: collection, tutorial
 
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
+
+[https://doi.org/10.5281/zenodo.11473803](https://doi.org/10.5281/zenodo.11473803)
 
 
 ---
@@ -629,7 +634,7 @@ Content type: collection, video
 
 Sreenivas Bhattiprolu
 
-Licensed unknown
+Licensed mit
 
 
 
@@ -727,6 +732,8 @@ Content type: collection
 ---
 
 ## Workshop-June2024-Madrid
+
+Licensed mit
 
 
 

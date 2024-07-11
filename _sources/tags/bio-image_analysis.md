@@ -35,9 +35,11 @@ Content type: slide
 
 ## Cultivating Open Training
 
-Robert Haase
+Haase, Robert
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-03-14
+
+Licensed cc-by-4.0
 
 
 
@@ -48,6 +50,8 @@ Tags: open science, research data management, FAIR-principles, bio-image analysi
 Content type: slides
 
 [https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
+
+[https://doi.org/10.5281/zenodo.10816895](https://doi.org/10.5281/zenodo.10816895)
 
 
 ---
@@ -67,19 +71,28 @@ Tags: bio-image analysis
 
 ## MicroSam-Talks
 
-Constantin Pape
+Pape, Constantin
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-05-23
+
+Licensed cc-by-4.0
 
 
 
-Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam. Currently contains slides for two talks: Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024. Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024.
+Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam.
+Currently contains slides for two talks:
+
+Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024
+Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
+
 
 Tags: image segmentation, bio-image analysis, deep learning
 
 Content type: slides
 
 [https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
+
+[https://doi.org/10.5281/zenodo.11265038](https://doi.org/10.5281/zenodo.11265038)
 
 
 ---

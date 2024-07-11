@@ -20,9 +20,11 @@ Content type: poster
 
 ## Cultivating Open Training
 
-Robert Haase
+Haase, Robert
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-03-14
+
+Licensed cc-by-4.0
 
 
 
@@ -34,18 +36,24 @@ Content type: slides
 
 [https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
 
+[https://doi.org/10.5281/zenodo.10816895](https://doi.org/10.5281/zenodo.10816895)
+
 
 ---
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-Robert Haase
+Haase, Robert
 
-Licensed CC-BY 4.0
+Published 2024-04-25
+
+Licensed cc-by-4.0
 
 
 
-Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
+
+These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+
 
 Tags: research data management, Licensing, FAIR-principles
 
@@ -53,18 +61,37 @@ Content type: slides
 
 [https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
 
+[https://doi.org/10.5281/zenodo.11066250](https://doi.org/10.5281/zenodo.11066250)
+
 
 ---
 
-## Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
+## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-Isabel Kemmer
+Kemmer, Isabel, Euro-BioImaging ERIC
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-06-04
+
+Licensed cc-by-4.0
 
 
 
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
+Types of tasks included:
+
+FAIR characteristics of a real world dataset
+Data Management Plan (DMP)
+Journal Policies on FAIR data sharing
+Ontology search
+Metadata according to REMBI scheme
+
+(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
+
+
+Matching datasets to bioimage repositories
+Browsing bioimage repositories
+
+&nbsp;
 
 Tags: bioimage analysis, FAIR-principles, research data management
 
@@ -72,24 +99,31 @@ Content type: slides, tutorial
 
 [https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
 
+[https://doi.org/10.5281/zenodo.11474407](https://doi.org/10.5281/zenodo.11474407)
+
 
 ---
 
-## Euro-BioImaging Template for Research Data Management Plans
+## Euro-BioImaging's Template for Research Data Management Plans
 
-Isabel Kemmer
+Kemmer, Isabel, Euro-BioImaging ERIC
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-06-04
+
+Licensed cc-by-4.0
 
 
 
-Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
+Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
+This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
 Tags: bioimage analysis, FAIR-principles, research data management
 
 Content type: collection, tutorial
 
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
+
+[https://doi.org/10.5281/zenodo.11473803](https://doi.org/10.5281/zenodo.11473803)
 
 
 ---
@@ -115,19 +149,30 @@ Content type: slides
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-Robert Haase
+Haase, Robert
 
-Licensed CC-BY 4.0
+Published 2024-04-15
+
+Licensed cc-by-4.0
 
 
 
-Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
+Gemeinsames Arbeiten im Internet stellt uns vor neue Herausforderungen: Wer hat eine Datei wann hochgeladen? Wer hat zum Inhalt beigetragen? Wie kann man Inhalte zusammenfuehren, wenn mehrere Mitarbeiter gleichzeitig Aenderungen gemacht haben? Das Versionskontrollwerkzeug git stellt eine umfassende Loesung fuer solche Fragen bereit. Die Onlineplatform github.com stellt nicht nur Softwareentwicklern weltweit eine git-getriebene Platform zur Verfuegung und erlaubt ihnen effektiv zusammen zu arbeiten. In diesem Workshop lernen wir:
+
+Infuerung in FAIR-Prinzipien im Softwarecontext
+Arbeiten mit git: Pull-requests
+Aufloesen von Merge-Konflikten
+Automatisiertes Archivieren von Inhalten nach Zenodo.org
+Eigene Webseiten auf github.io publizieren
+
 
 Tags: research data management, FAIR-principles, git, zenodo
 
 Content type: slides
 
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
+
+[https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
 
 
 ---
@@ -191,19 +236,23 @@ Content type: github repository
 
 ## Open Science, Sharing & Licensing
 
-Robert Haase
+Haase, Robert
 
-Licensed CC-BY 4.0
+Published 2024-04-18
+
+Licensed cc-by-4.0
 
 
 
-Introduction to Open Science, Open Access, FAIR-principles and Licensing
+Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
 Tags: research data management, Open Access, FAIR-principles, licensing
 
 Content type: slides
 
 [https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
+
+[https://doi.org/10.5281/zenodo.10990107](https://doi.org/10.5281/zenodo.10990107)
 
 
 ---
@@ -248,19 +297,23 @@ Content type: slides
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-Pia Voigt
+Voigt, Pia
 
-Licensed Creative Commons Attribution 4.0 International
+Published 2024-05-30
+
+Licensed cc-by-4.0
 
 
 
-Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen dürfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen müssen erfüllt sein und welche Strategien können angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu können? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.
+Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
 Tags: research data management, data protection, FAIR-principles
 
 Content type: slides
 
 [https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
+
+[https://doi.org/10.5281/zenodo.11396199](https://doi.org/10.5281/zenodo.11396199)
 
 
 ---

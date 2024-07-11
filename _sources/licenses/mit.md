@@ -1,4 +1,4 @@
-# Mit (13)
+# Mit (16)
 ## CellTrackColab
 
 Guillaume Jacquemet
@@ -108,6 +108,25 @@ Content type: notebook
 
 ---
 
+## Introduction to Deep Learning for Microscopy
+
+Costantin Pape, computational-cell-analytics
+
+Licensed mit
+
+
+
+This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
+
+Tags: Deep Learning, Pytorch, segmentation, python
+
+Content type: notebook
+
+[https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
 Riccardo Massei
@@ -138,6 +157,23 @@ Licensed mit
 Tags: Python, bioimage analysis
 
 [https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
+
+
+---
+
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed mit
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
 
 ---
@@ -187,6 +223,21 @@ A guide which covers topics related to skills, tools and best practices for rese
 Content type: book
 
 [https://the-turing-way.netlify.app/reproducible-research/reproducible-research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+
+
+---
+
+## Workshop-June2024-Madrid
+
+Licensed mit
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
 
 
 ---

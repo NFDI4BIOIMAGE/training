@@ -1,4 +1,4 @@
-# Creative commons attribution 4.0 international (33)
+# Creative commons attribution 4.0 international (19)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -14,25 +14,6 @@ Tags: bioimage analysis, FLIM
 Content type: slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10886749](https://zenodo.org/doi/10.5281/zenodo.10886749)
-
-
----
-
-## Alles meins oder!? Urheberrechte klären für Forschungsdaten
-
-Stephan Wünsche
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Wem gehören Forschungsdaten? Diese Frage stellt sich bei Daten, an deren Entstehung mehrere Personen beteiligt waren, und besonders bei Textdaten, Bildern und Videos. Hier lernen Sie, für Ihr eigenes Forschungsvorhaben zu erkennen, wessen Urheber- und Leistungsschutzrechte zu berücksichtigen sind. Sie erfahren, wie Sie mit Hilfe von Vereinbarungen frühzeitig Rechtssicherheit herstellen, etwa um Daten weitergeben oder publizieren zu können.
-
-Tags: research data management, licensing
-
-Content type: slides
-
-[https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 
 ---
@@ -56,101 +37,6 @@ Content type: poster
 
 ---
 
-## Crashkurs Forschungsdatenmanagement
-
-Barbara Weiner, Stefan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Eize, Ronny Gey
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Diese Präsentation bietet einen Einstieg in alle relevanten Bereiche des Forschungsdatenmanagements an der Universität Leipzig. Behandelt werden Grundlagen des Forschungsdatenmanagements, technische, ethische und rechtliche Aspekte sowie die Archivierung und Publikation von Forschungsdaten. Die Präsentation enthält zahlreiche weiterführende Links (rot) und Literaturhinweise. Ergänzend hierzu wird eine Präsentation mit Übungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Auflösung.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/3778431](https://zenodo.org/records/3778431)
-
-
----
-
-## Cultivating Open Training
-
-Robert Haase
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
-
-Tags: open science, research data management, FAIR-principles, bio-image analysis, licensing
-
-Content type: slides
-
-[https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
-
-
----
-
-## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
-
-Pia Voigt, Carolin Hundt
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Workshop zum Thema „Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz“ auf der Data Week Leipzig. Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den Überblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen möchten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen Lösungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten können.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/11107798](https://zenodo.org/records/11107798)
-
-
----
-
-## Datenmanagementpläne erstellen - Teil 1
-
-Pia Voigt, Barbara Weiner
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Ein Datenmanagementplan (DMP) dient dazu, Anforderungen von Forschungsförderern zur Erhebung, Speicherung und Veröffentlichung von Forschungsdaten strukturiert umzusetzen und gleichzeitig die gute wissenschaftliche Praxis zu gewährleisten. Zur Erstellung eines DMPs sollten Sie die spezifischen Vorgaben von DFG, BMBF oder EU beachten, und es gibt verschiedene interaktive Tools sowie aktuelle Hinweise und Links, die dabei unterstützen können, wie in einem Kurs mit theoretischen und praxisorientierten Teilen vermittelt wird.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/4630788](https://zenodo.org/records/4630788)
-
-
----
-
-## Datenmanagementpläne erstellen - Teil 2
-
-Pia Voigt, Barbara Weiner
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Ein Datenmanagementplan (DMP) dient dazu, Anforderungen von Forschungsförderern zur Erhebung, Speicherung und Veröffentlichung von Forschungsdaten strukturiert umzusetzen und gleichzeitig die gute wissenschaftliche Praxis zu gewährleisten. Zur Erstellung eines DMPs sollten Sie die spezifischen Vorgaben von DFG, BMBF oder EU beachten, und es gibt verschiedene interaktive Tools sowie aktuelle Hinweise und Links, die dabei unterstützen können, wie in einem Kurs mit theoretischen und praxisorientierten Teilen vermittelt wird.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/4748534](https://zenodo.org/records/4748534)
-
-
----
-
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
 Massei, Scholz, Busch, Schnike, Bohring, Bumberger
@@ -166,63 +52,6 @@ Tags: bioimage analysis
 Content type: poster
 
 [https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
-
-
----
-
-## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
-
-Stephan Wünsche, Pia Voigt
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Diese Präsentation wurde im Zuge der digitalen Veranstaltungsreihe 'Einblicke ins Forschungsdatenmanagement' erstellt. Diese findet seit dem SS 2020 an der Universität Leipzig für alle Interessierten zu verschiedenen Themen des Forschungsdatenmanagements statt. Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung für die wissenschaftliche Praxis. Sie finden in der vorliegenden Präsentation einen Überblick über relevante Rechtsbereiche sowie Erläuterungen zum Datenschutz, Urheberrecht und den Grundsätzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
-
-Tags: research data management, data protection
-
-Content type: slides
-
-[https://zenodo.org/records/4748510](https://zenodo.org/records/4748510)
-
-
----
-
-## Euro-BioImaging Guide to FAIR BioImage Data - Practical Tasks
-
-Isabel Kemmer
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop Euro-BioImaging Guide to FAIR BioImage Data 2024
-
-Tags: bioimage analysis, FAIR-principles, research data management
-
-Content type: slides, tutorial
-
-[https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
-
-
----
-
-## Euro-BioImaging Template for Research Data Management Plans
-
-Isabel Kemmer
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Data Management Plan (DMP) template with questions tailored to bioimaging research projects developed by Euro-BioImaging 
-
-Tags: bioimage analysis, FAIR-principles, research data management
-
-Content type: collection, tutorial
-
-[https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 
 ---
@@ -261,25 +90,6 @@ Tags: omero, data analysis, bioimage analysis
 Content type: collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
-
-
----
-
-## MicroSam-Talks
-
-Constantin Pape
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam. Currently contains slides for two talks: Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024. Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024.
-
-Tags: image segmentation, bio-image analysis, deep learning
-
-Content type: slides
-
-[https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
 
 
 ---
@@ -398,44 +208,6 @@ Content type: slides
 
 ---
 
-## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
-
-Pia Voigt
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen dürfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen müssen erfüllt sein und welche Strategien können angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu können? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.
-
-Tags: research data management, data protection, FAIR-principles
-
-Content type: slides
-
-[https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
-
-
----
-
-## Sustainable Data Stewardship
-
-Stefano Della Chiesa
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
-
-Tags: research data management, data stewardship
-
-Content type: slides
-
-[https://zenodo.org/records/10942559](https://zenodo.org/records/10942559)
-
-
----
-
 ## Thinking data management on different scales
 
 Susanne Kunis
@@ -451,25 +223,6 @@ Tags: research data management, NFDI4BioImage
 Content type: slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8329305](https://zenodo.org/doi/10.5281/zenodo.8329305)
-
-
----
-
-## WS program and campus survey
-
-Conni Wetzker
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-This presentation provides an overview of the WS program and campus survey.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/11548617](https://zenodo.org/records/11548617)
 
 
 ---
@@ -508,25 +261,6 @@ Tags: research data management, bioimage analysis, data stewardship, NFDI4BioIma
 Content type: poster
 
 [https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
-
-
----
-
-## ZENODO und Co. Was bringt und wer braucht ein Repositorium?
-
-Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe 'Digital Kitchen - Küchengespräche mit SaxFDM' statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erläuterte zunächst Grundsätzliches zum Thema Repositorien. Anschließend teilten Nutzer (Jan Deinert – HZDR) und Anbieter (Christian Löschen – TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
 
 ---

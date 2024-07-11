@@ -1,4 +1,4 @@
-# Josh moore (11)
+# Josh moore (10)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -154,25 +154,6 @@ Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImag
 Content type: poster
 
 [https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
-
-
----
-
-## [N4BI AHM] Welcome to BioImage Town
-
-Josh Moore
-
-Licensed cc-by-4.0
-
-
-
-Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
 
 
 ---

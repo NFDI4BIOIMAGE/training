@@ -1,4 +1,4 @@
-# Bsd-3-clause (6)
+# Bsd-3-clause (7)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -88,6 +88,25 @@ Tags: Python, bioimage analysis
 Content type: notebook
 
 [https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
+
+
+---
+
+## NeubiasPasteur2023_AdvancedCellPose
+
+Gaelle Letort
+
+Licensed bsd-3-clause
+
+
+
+Tutorial for running CellPose advanced functions
+
+Tags: CellPose, segmentation
+
+Content type: github repository
+
+[https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose](https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose)
 
 
 ---

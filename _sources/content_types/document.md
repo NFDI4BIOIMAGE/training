@@ -1,19 +1,24 @@
 # Document (5)
 ## Efficiently starting institutional research data management
 
-Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
+Biernacka, Katarzyna, Cortez, Katrin, Helbig, Kerstin
+
+Published 2019-10-15
 
 Licensed cc-by-4.0
 
 
 
-Single slide outlining the most important aspect for starting research data management on institutional level.
+Researchers are increasingly often confronted with research data management (RDM) topics during their work. Higher education institutions therefore begin to offer services for RDM at some point to give support and advice. However, many groundbreaking decisions have to be made at the very beginning of RDM services. Priorities must be set and policies formulated. Likewise, the staff must first be qualified in order to provide advice and adequately deal with the manifold problems awaiting.
+The FDMentor project has therefore bundled the expertise of five German universities with different experiences and levels of RDM knowledge to jointly develop strategies, roadmaps, guidelines, and open access training material. Humboldt-Universit&auml;t zu Berlin, Freie Universit&auml;t Berlin, Technische Universit&auml;t Berlin, University of Potsdam, and European University Viadrina Frankfurt (Oder) have worked together on common solutions that are easy to adapt. With funding of the German Federal Ministry of Education and Research, the collaborative project addressed four problem areas: strategy development, legal issues, policy development, and competence enhancement. The aim of the project outcomes is to provide other higher education institutions with the best possible support for the efficient introduction of research data management. Therefore, all project results are freely accessible under the CC-BY 4.0 international license. The early involvement of the community in the form of workshops and the collection of feedback has proven its worth: the FDMentor strategies, roadmaps, guidelines, and training materials are applied and adapted beyond the partner universities.
 
 Tags: research data management
 
 Content type: document
 
 [https://zenodo.org/record/3490058](https://zenodo.org/record/3490058)
+
+[https://doi.org/10.5281/zenodo.3490058](https://doi.org/10.5281/zenodo.3490058)
 
 
 ---

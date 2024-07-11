@@ -235,19 +235,25 @@ Content type: book
 
 ## Train-the-Trainer Concept on Research Data Management
 
-Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
+Biernacka, Katarzyna, Bierwirth, Maik, Buchholz, Petra, Dolzycka, Dominika, Helbig, Kerstin, Neumann, Janna, Odebrecht, Carolin, Wiljes, Cord, Wuttke, Ulrike
+
+Published 2020-11-04
 
 Licensed cc-by-4.0
 
 
 
-Collection of training materials for Research Data Management from the FDMentor community.
+Within the project FDMentor, a German Train-the-Trainer Programme on Research Data Management (RDM) was developed and piloted in a series of workshops. The topics cover many aspects of research data management, such as data management plans and the publication of research data, as well as didactic units on learning concepts, workshop design and a range of didactic methods.
+
+After the end of the project, the concept was supplemented and updated by members of the Sub-Working Group Training/Further Education (UAG Schulungen/Fortbildungen) of the DINI/nestor Working Group Research Data (DINI/nestor-AG Forschungsdaten). The newly published English version of the Train-the-Trainer Concept contains the translated concept, the materials and all methods of the Train-the-Trainer Programme. Furthermore, additional English references and materials complement this version.
 
 Tags: research data management
 
 Content type: book
 
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
+
+[https://doi.org/10.5281/zenodo.4071471](https://doi.org/10.5281/zenodo.4071471)
 
 
 ---

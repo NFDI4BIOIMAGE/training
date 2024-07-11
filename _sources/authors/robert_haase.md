@@ -1,4 +1,4 @@
-# Robert haase (36)
+# Robert haase (30)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -29,25 +29,6 @@ Tags: imagej
 Content type: publication, poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
-
-
----
-
-## Bio-image Analysis with the Help of Large Language Models
-
-Robert Haase
-
-Licensed cc-by-4.0
-
-
-
-Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
-
-Tags: Large Language Models, python
-
-Content type: slide
-
-[https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
 
 
 ---
@@ -177,63 +158,6 @@ Tags: sharing, research data management
 Content type: blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
-
-
----
-
-## Cultivating Open Training
-
-Robert Haase
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
-
-Tags: open science, research data management, FAIR-principles, bio-image analysis, licensing
-
-Content type: slides
-
-[https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
-
-
----
-
-## Cultivating Open Training to advance Bio-image Analysis
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Overview over current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis
-
-Tags: research data management, Licensing, FAIR-principles
-
-Content type: slides
-
-[https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
-
-
----
-
-## Datenmanagement
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Introduction to data management and how to write a data management plan
-
-Tags: research data management
-
-Content type: slides
-
-[https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
 
 
 ---
@@ -378,25 +302,6 @@ Content type: slide
 
 ---
 
-## Kollaboratives Arbeiten und Versionskontrolle mit Git
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Introduction to FAIR-principles, PRs with git, how-to solve merge conflicts, upload data or slides to zenodo
-
-Tags: research data management, FAIR-principles, git, zenodo
-
-Content type: slides
-
-[https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
-
-
----
-
 ## Lecture Applied Bioimage Analysis 2020
 
 Robert Haase
@@ -480,25 +385,6 @@ Tags: neubias, bioimage analysis
 Content type: slide, code, notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
-
-
----
-
-## Open Science, Sharing & Licensing
-
-Robert Haase
-
-Licensed CC-BY 4.0
-
-
-
-Introduction to Open Science, Open Access, FAIR-principles and Licensing
-
-Tags: research data management, Open Access, FAIR-principles, licensing
-
-Content type: slides
-
-[https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
 
 
 ---

@@ -35,13 +35,15 @@ Content type: slide
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-Cornelia Wetzker
+Wetzker, Cornelia
+
+Published 2023-11-08
 
 Licensed cc-by-4.0
 
 
 
-short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
 Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
 
@@ -49,12 +51,16 @@ Content type: slide
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
+[https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
 
 ---
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-Robert Haase
+Haase, Robert
+
+Published 2024-03-13
 
 Licensed cc-by-4.0
 
@@ -67,6 +73,8 @@ Tags: Large Language Models, python
 Content type: slide
 
 [https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
+
+[https://doi.org/10.5281/zenodo.10815329](https://doi.org/10.5281/zenodo.10815329)
 
 
 ---
@@ -545,15 +553,30 @@ Content type: slide
 
 Della Chiesa, Stefano
 
+Published 2022-05-18
+
 Licensed cc-by-4.0
 
 
+
+This Research Data Management (RDM) Slides introduce to the multidisciplinary knowledge and competencies required to address policy compliance and research data management best practices throughout a project lifecycle, and beyond it.
+
+
+	Module 1 - Introduces the RDM giving its context in the Research Data Governance
+	Module 2 - Illustrates the most important RDM policies and principles
+	Module 3 - Provides the most relevant RDM knowledge bricks
+	Module 4 - Discuss the Data Management Plans (DMPs), examples, templates and guidance
+
+
+&nbsp;
 
 Tags: research data management
 
 Content type: slide
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
+
+[https://doi.org/10.5281/zenodo.6602101](https://doi.org/10.5281/zenodo.6602101)
 
 
 ---

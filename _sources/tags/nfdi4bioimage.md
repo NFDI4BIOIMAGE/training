@@ -18,19 +18,23 @@ Content type: publication, conference abstract
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-Cornelia Wetzker
+Wetzker, Cornelia
+
+Published 2023-11-08
 
 Licensed cc-by-4.0
 
 
 
-short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
 Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
 
 Content type: slide
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
+
+[https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
 
 
 ---
@@ -172,7 +176,7 @@ Content type: publication
 
 Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
-Licensed CC-BY-4.0
+Licensed cc-by-4.0
 
 
 
@@ -276,17 +280,27 @@ Content type: publication
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-Susanne Kunis
+Kunis, Susanne
+
+Published 2022-08-24
 
 Licensed cc-by-4.0
 
 
+
+guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+
+which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+
+You can also watch the video in the browser on the I3D:bio website.
 
 Tags: NFDI4BioImage, research data management
 
 Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+
+[https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
 
 
 ---

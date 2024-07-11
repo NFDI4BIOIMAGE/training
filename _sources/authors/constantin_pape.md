@@ -1,4 +1,4 @@
-# Constantin pape (7)
+# Constantin pape (6)
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
 Constantin Pape
@@ -44,25 +44,6 @@ Tags: Python, artificial intelligence
 Content type: notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2022](https://github.com/kreshuklab/teaching-dl-course-2022)
-
-
----
-
-## MicroSam-Talks
-
-Constantin Pape
-
-Licensed Creative Commons Attribution 4.0 International
-
-
-
-Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam. Currently contains slides for two talks: Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024. Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024.
-
-Tags: image segmentation, bio-image analysis, deep learning
-
-Content type: slides
-
-[https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
 
 
 ---

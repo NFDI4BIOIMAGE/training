@@ -462,7 +462,7 @@ Content type: book, notebook
 
 Costantin Pape, computational-cell-analytics
 
-Licensed MIT License
+Licensed mit
 
 
 
@@ -698,7 +698,7 @@ Content type: code, notebook
 
 Sreenivas Bhattiprolu
 
-Licensed unknown
+Licensed mit
 
 
 

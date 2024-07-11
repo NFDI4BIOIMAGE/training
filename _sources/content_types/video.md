@@ -271,17 +271,27 @@ Content type: collection, video
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-Susanne Kunis
+Kunis, Susanne
+
+Published 2022-08-24
 
 Licensed cc-by-4.0
 
 
+
+guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+
+which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+
+You can also watch the video in the browser on the I3D:bio website.
 
 Tags: NFDI4BioImage, research data management
 
 Content type: video
 
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+
+[https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
 
 
 ---
