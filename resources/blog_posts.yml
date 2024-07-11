@@ -94,7 +94,6 @@ resources:
   - bioimage analysis
   type: blog
   url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/
-
 - authors: Jens Wendt
   name: User friendly Image metadata annotation tool/workflow for OMERO
   tags:
