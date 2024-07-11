@@ -88,13 +88,15 @@ resources:
   type: collection
   url: https://nf-co.re/
 - authors: Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+  description: BioEngine, a Python package designed for flexible deployment and execution
+    of bioimage analysis models and workflows using AI, accessible via HTTP API and
+    RPC.
   license: MIT License
-  name: "BioEngine Documentation"
-  description: BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC. 
+  name: BioEngine Documentation
   tags:
   - workflow engine
   - deep learning
   - python
-  type: 
+  type:
   - documentation
-  url: https://bioimage-io.github.io/bioengine/#/ 
+  url: https://bioimage-io.github.io/bioengine/#/

@@ -102,36 +102,36 @@ resources:
   type:
   - video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
-- name: Chris Halvin YouTube channel
-  license: unknown
-  type:
-  - collection
-  - video
+- license: unknown
+  name: Chris Halvin YouTube channel
   tags:
   - napari
   - python
   - Bioimage analysis
+  type:
+  - collection
+  - video
   url:
   - https://www.youtube.com/@chrishavlin
   - https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1
-- name: RDM4mic
-  license: unknown
-  type:
-  - collection
-  - video
+- license: unknown
+  name: RDM4mic
   tags:
   - research data management
   - omero
-  url:
-  - https://www.youtube.com/@RDM4mic
-- name: FAIR BioImage Data
-  license: Creative Commons / Attribution 4.0 International (CC BY 4.0)
   type:
   - collection
   - video
+  url:
+  - https://www.youtube.com/@RDM4mic
+- license: Creative Commons / Attribution 4.0 International (CC BY 4.0)
+  name: FAIR BioImage Data
   tags:
   - research data management
   - FAIR
   - Bioimage analysis
+  type:
+  - collection
+  - video
   url:
   - https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm
