@@ -50,6 +50,9 @@ Day 2 - April 30th, 2024
 2.15 p.m. to 3.00 p.m.: Discussion, Outlook"
 Bring your own data workshops,nan,https://www.dtls.nl/fair-data/byod/,"bioimage analysis, research data management",nan,
 Workshop-June2024-Madrid,nan,https://github.com/bioimage-io/Workshop-June2024-Madrid,bioimage analysis,mit,
+Bio-image Analysis Workshop Taipei,nan,https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/,bioimage analysis,nan,
+Bio-image Analysis Workshop Kioto and Taipei 23/24,nan,https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24,bioimage analysis,nan,
+Bio-image Analysis ICOB 2023,nan,https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023,bioimage analysis,nan,
 NEUBIAS YouTube Channel,nan,https://www.youtube.com/neubias,neubias,nan,A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 DigitalSreeni YouTube Channel,Sreeni Bhattiprolu,"['https://www.youtube.com/digitalsreeni', 'https://www.youtube.com/watch?v=A4po9z61TME']",python,nan,"A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning"
 Global BioImaging YouTube channel,nan,https://www.youtube.com/GlobalBioImaging,nan,nan,
@@ -160,3 +163,4 @@ Annotating 3D images in napari,Mara Lampert,https://focalplane.biologists.com/20
 "Managing Scientific Python environments using Conda, Mamba and friends",Robert Haase,https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/,"python, conda, mamba",cc-by-4.0,
 Quality assurance of segmentation results,Mara Lampert,https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/,"python, napari, bioimage analysis",nan,
 Rescaling images and pixel (an)isotropy,Mara Lampert,https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/,"python, napari, bioimage analysis",nan,
+How to write a bug report,Mara Lampert,https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/,"github, python, science communication",nan,

@@ -1,4 +1,4 @@
-# Mara lampert (6)
+# Mara lampert (7)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -42,6 +42,21 @@ Tags: python, conda, mamba
 Content type: blog
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
+
+
+---
+
+## How to write a bug report
+
+Mara Lampert
+
+
+
+Tags: github, python, science communication
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 
 
 ---

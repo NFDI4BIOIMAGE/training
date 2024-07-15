@@ -1,4 +1,4 @@
-# Python (61)
+# Python (64)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -27,6 +27,25 @@ Tags: python, napari, bioimage analysis
 Content type: blog
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## BIDS-lecture-2024
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: github repository
+
+[https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
 
 
 ---
@@ -86,6 +105,25 @@ Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
 Content type: notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: slides
+
+[https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
 
 ---
@@ -441,6 +479,21 @@ Tags: python, conda, mamba
 Content type: blog
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
+
+
+---
+
+## How to write a bug report
+
+Mara Lampert
+
+
+
+Tags: github, python, science communication
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Robert haase (30)
+# Robert haase (32)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -33,6 +33,25 @@ Content type: publication, poster
 
 ---
 
+## BIDS-lecture-2024
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: github repository
+
+[https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
 ## Bio-image Data Science
 
 Robert Haase, ScaDS.AI Dresden/Leipzig
@@ -48,6 +67,25 @@ Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
 Content type: notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: slides
+
+[https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
 
 ---

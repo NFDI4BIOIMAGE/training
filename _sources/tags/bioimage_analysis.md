@@ -1,4 +1,4 @@
-# Bioimage analysis (126)
+# Bioimage analysis (131)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -124,6 +124,25 @@ Content type: blog
 
 ---
 
+## BIDS-lecture-2024
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: github repository
+
+[https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -184,6 +203,64 @@ Tags: bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
+
+
+---
+
+## Bio-image Analysis ICOB 2023
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023](https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023)
+
+
+---
+
+## Bio-image Analysis Workshop Kioto and Taipei 23/24
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
+
+
+---
+
+## Bio-image Analysis Workshop Taipei
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/](https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/)
+
+
+---
+
+## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: slides
+
+[https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
 
 ---

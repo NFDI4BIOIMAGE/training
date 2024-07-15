@@ -1,4 +1,4 @@
-# Collection (54)
+# Collection (57)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -42,6 +42,45 @@ Tags: bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
+
+
+---
+
+## Bio-image Analysis ICOB 2023
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023](https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023)
+
+
+---
+
+## Bio-image Analysis Workshop Kioto and Taipei 23/24
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
+
+
+---
+
+## Bio-image Analysis Workshop Taipei
+
+
+
+Tags: bioimage analysis
+
+Content type: workshop, collection
+
+[https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/](https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Slides (33)
+# Slides (34)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Hesse, Elfi, Deinert, Jan-Christoph, Löschen, Christian
@@ -62,6 +62,25 @@ Content type: slides
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 [https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
+
+---
+
+## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: bioimage analysis, deep learning, microscopy image analysis, python
+
+Content type: slides
+
+[https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
 
 ---

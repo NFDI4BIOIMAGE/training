@@ -1,4 +1,4 @@
-# Deep learning (9)
+# Microscopy image analysis (5)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -56,40 +56,6 @@ Content type: slides
 
 ---
 
-## BioEngine Documentation
-
-Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
-
-Licensed MIT License
-
-
-
-BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
-
-Tags: workflow engine, deep learning, python
-
-Content type: documentation
-
-[https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
-
-
----
-
-## BioImage Archive AI Gallery
-
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
-
-
-
-Tags: bioimage analysis, deep learning
-
-Content type: collection, data
-
-[https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
-
-
----
-
 ## FAIRy deep-learning for bioImage analysis
 
 Estibaliz Gómez de Mariscal
@@ -105,53 +71,6 @@ Tags: deep learning, FAIR-principles, microscopy image analysis
 Content type: slides
 
 [https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
-
-
----
-
-## Introduction to Deep Learning for Microscopy
-
-Costantin Pape, computational-cell-analytics
-
-Licensed mit
-
-
-
-This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
-
-Tags: Deep Learning, Pytorch, segmentation, python
-
-Content type: notebook
-
-[https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
-
-
----
-
-## MicroSam-Talks
-
-Pape, Constantin
-
-Published 2024-05-23
-
-Licensed cc-by-4.0
-
-
-
-Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam.
-Currently contains slides for two talks:
-
-Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024
-Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
-
-
-Tags: image segmentation, bio-image analysis, deep learning
-
-Content type: slides
-
-[https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
-
-[https://doi.org/10.5281/zenodo.11265038](https://doi.org/10.5281/zenodo.11265038)
 
 
 ---
