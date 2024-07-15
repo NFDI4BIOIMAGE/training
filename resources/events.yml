@@ -67,3 +67,30 @@ resources:
   - workshop
   - collection
   url: https://github.com/bioimage-io/Workshop-June2024-Madrid 
+
+- name: "Bio-image Analysis Workshop Taipei"
+  tags:
+  - bioimage analysis
+  type:
+  - workshop
+  - collection
+  url: https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/
+
+- name: "Bio-image Analysis Workshop Kioto and Taipei 23/24"
+  tags:
+  - bioimage analysis
+  type:
+  - workshop
+  - collection
+  url: https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24
+
+- name: "Bio-image Analysis ICOB 2023"
+  tags:
+  - bioimage analysis
+  type:
+  - workshop
+  - collection
+  url: https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023 
+
+  
+
