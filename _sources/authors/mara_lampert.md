@@ -1,4 +1,4 @@
-# Mara lampert (7)
+# Mara lampert (8)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -57,6 +57,21 @@ Tags: github, python, science communication
 Content type: blog
 
 [https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
+
+
+---
+
+## Prompt Engineering in Bio-image Analysis
+
+Mara Lampert
+
+
+
+Tags: python, jupyter, bioimage analysis, prompt engineering, biabob
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
 
 ---

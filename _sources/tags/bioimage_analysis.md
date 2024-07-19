@@ -1,4 +1,4 @@
-# Bioimage analysis (131)
+# Bioimage analysis (133)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -970,6 +970,21 @@ Content type: collection, video
 
 ---
 
+## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+
+
+
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
+
+Tags: bioimage analysis, omero, research data management
+
+Content type: workshop
+
+[https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
+
+
+---
+
 ## Fundamentals in digital image processing
 
 Guillaume Witz
@@ -1708,6 +1723,21 @@ Tags: bioimage analysis, python
 Content type: event, notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
+
+
+---
+
+## Prompt Engineering in Bio-image Analysis
+
+Mara Lampert
+
+
+
+Tags: python, jupyter, bioimage analysis, prompt engineering, biabob
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
 
 ---

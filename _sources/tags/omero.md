@@ -1,4 +1,4 @@
-# Omero (18)
+# Omero (19)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 Robert Haase
@@ -12,6 +12,21 @@ Tags: omero, python
 Content type: blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
+
+
+---
+
+## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+
+
+
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
+
+Tags: bioimage analysis, omero, research data management
+
+Content type: workshop
+
+[https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
 
 
 ---

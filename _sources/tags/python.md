@@ -1,4 +1,4 @@
-# Python (64)
+# Python (65)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -840,6 +840,21 @@ Content type: notebook
 
 ---
 
+## Prompt Engineering in Bio-image Analysis
+
+Mara Lampert
+
+
+
+Tags: python, jupyter, bioimage analysis, prompt engineering, biabob
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
+
+
+---
+
 ## Python BioImage Analysis Tutorial
 
 Jonas Hartmann
@@ -922,7 +937,7 @@ Tags: napari, python
 
 Content type: notebook
 
-[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202)
+[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
 
 
 ---

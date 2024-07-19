@@ -744,7 +744,7 @@ Tags: napari, python
 
 Content type: notebook
 
-[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202)
+[https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
 
 
 ---

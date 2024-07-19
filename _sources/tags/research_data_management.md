@@ -1,4 +1,4 @@
-# Research data management (74)
+# Research data management (76)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Hesse, Elfi, Deinert, Jan-Christoph, Löschen, Christian
@@ -18,6 +18,25 @@ Content type: slides
 [https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
 [https://doi.org/10.5281/zenodo.4461261](https://doi.org/10.5281/zenodo.4461261)
+
+
+---
+
+## 6 Steps Towards Reproducible Research
+
+Heidi Seibold
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+A short book with 6 steps that get you closer to making your work reproducible.
+
+Tags: reproducibility, research data management
+
+Content type: book
+
+[https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
 
 
 ---
@@ -559,6 +578,21 @@ Tags: research data management, FAIR, Bioimage analysis
 Content type: collection, video
 
 [https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
+
+
+---
+
+## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+
+
+
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
+
+Tags: bioimage analysis, omero, research data management
+
+Content type: workshop
+
+[https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
 
 
 ---

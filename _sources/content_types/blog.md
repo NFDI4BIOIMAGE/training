@@ -1,4 +1,4 @@
-# Blog (16)
+# Blog (17)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -159,6 +159,21 @@ Tags: research data management
 Content type: blog
 
 [https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility](https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility)
+
+
+---
+
+## Prompt Engineering in Bio-image Analysis
+
+Mara Lampert
+
+
+
+Tags: python, jupyter, bioimage analysis, prompt engineering, biabob
+
+Content type: blog
+
+[https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
 
 ---

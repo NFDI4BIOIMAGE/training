@@ -1,4 +1,4 @@
-# Workshop (6)
+# Workshop (7)
 ## Bio-image Analysis ICOB 2023
 
 
@@ -47,6 +47,21 @@ Tags: bioimage analysis, research data management
 Content type: workshop
 
 [https://www.dtls.nl/fair-data/byod/](https://www.dtls.nl/fair-data/byod/)
+
+
+---
+
+## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+
+
+
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
+
+Tags: bioimage analysis, omero, research data management
+
+Content type: workshop
+
+[https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
 
 
 ---

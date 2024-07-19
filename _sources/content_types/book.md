@@ -1,4 +1,23 @@
-# Book (15)
+# Book (16)
+## 6 Steps Towards Reproducible Research
+
+Heidi Seibold
+
+Licensed Creative Commons Attribution 4.0 International
+
+
+
+A short book with 6 steps that get you closer to making your work reproducible.
+
+Tags: reproducibility, research data management
+
+Content type: book
+
+[https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
+
+
+---
+
 ## Basics of Image Processing and Analysis
 
 Kota Miura
