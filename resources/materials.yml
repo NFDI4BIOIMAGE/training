@@ -1371,7 +1371,7 @@ resources:
   - python
   type:
   - notebook
-  url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_202
+  url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024 
 - authors: Beth Cimini, Florian Jug, QI 2024
   description: This book contains the quantitative analysis labs for the QI CSHL course,
     2024
