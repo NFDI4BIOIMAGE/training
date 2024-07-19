@@ -112,3 +112,15 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/ 
   
+- authors: Mara Lampert
+  name: Prompt Engineering in Bio-image Analysis
+  tags:
+  - python
+  - jupyter 
+  - bioimage analysis
+  - prompt engineering
+  - biabob
+  type: blog 
+  url: https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/
+
+  
