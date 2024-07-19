@@ -30,3 +30,8 @@ jobs:
         python scripts/generate_link_lists.py
         python scripts/export_csv.py
         jupyter-book build docs/
+
+    # Run data normalizer script after builded the book
+    - name: Run data normalizer
+      run: |
+        python scripts/data_normalizer.py
