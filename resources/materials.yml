@@ -2241,4 +2241,17 @@ resources:
   type:
   - github repository
   url: https://github.com/ScaDS/BIDS-lecture-2024/ 
+
+- authors: Kate Hertweck, Carly Strasser, Dario Taraborelli
+  liense: Creative Commons Attribution 4.0 International
+  name: "Insights and Impact From Five Cycles of Essential Open Source Software for Science"
+  description: "Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields."
+  tags: 
+  - open source software
+  - funding
+  - sustainability
+  type:
+  - report
+  url: https://zenodo.org/records/11201216
+
   
