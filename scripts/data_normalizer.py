@@ -46,7 +46,6 @@ def create_mapping(items):
 
 # Normalize author names
 def normalize_author_name(name):
-    # name = name.replace('\xE1', 'á').replace('\xE9', 'é').replace('\xED', 'í').replace('\xF3', 'ó').replace('\xFA', 'ú')  # Handling special characters
     parts = [part.strip() for part in name.split(',')]
     if len(parts) == 2:
         return f"{parts[1]} {parts[0]}"
@@ -88,29 +87,6 @@ def normalize_author_list(authors):
         else:
             # Handle Type 2: "firstname lastname"
             normalized_authors.append(author)
-
-    return normalized_authors
-
-def normalize_author_list(authors):
-    normalized_authors = []
-
-    # Split by semicolon to handle Type 1 and Type 2
-    author_names = authors.split(';') if ';' in authors else [authors]
-
-    for author in author_names:
-        author = author.strip()
-        subparts = [part.strip() for part in author.split(',')]
-        # Handle the clear "Last, First" pairs only when exactly two subparts are present
-        if len(subparts) == 2:
-            first_name, last_name = subparts[1], subparts[0]
-            normalized_authors.append(f"{first_name} {last_name}")
-        elif len(subparts) > 2 and all(len(part.split()) == 1 for part in subparts[::2]):
-            # More complex "Last, First, Last, First" structure
-            pairs = zip(subparts[::2], subparts[1::2])  # Pair as (Last, First)
-            normalized_authors.extend(f"{first} {last}" for last, first in pairs)
-        else:
-            # If not a clear pair or more complex structures fail to meet the criteria, treat as full names
-            normalized_authors.extend(subparts)
 
     return normalized_authors
 
