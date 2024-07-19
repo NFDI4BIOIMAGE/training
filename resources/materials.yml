@@ -2254,6 +2254,16 @@ resources:
   - report
   url: https://zenodo.org/records/11201216
 
-
+- authors: Heidi Seibold
+  license: Creative Commons Attribution 4.0 International
+  name: "6 Steps Towards Reproducible Research"
+  description: "A short book with 6 steps that get you closer to making your work reproducible."
+  tags: 
+  - reproducibility
+  - research data management
+  type:
+  - book
+  url: https://zenodo.org/records/12744715 
+  
 
 
