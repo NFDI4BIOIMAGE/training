@@ -2,6 +2,7 @@ import os
 import streamlit as st
 from github import Github
 import yaml
+import time
 
 # GitHub authentication
 GITHUB_API_KEY = os.getenv('GITHUB_API_KEY')  # Get the API key from environment variable
@@ -27,99 +28,121 @@ Please fill in the details below and click "Submit".
 Steps:
 1. Select the YAML file for the type of training material.
 2. Provide the necessary information.
-3. Submit the form to create an issue and a pull request.
+3. Submit the form to create a pull request.
 
 Thank you for your contribution!
 """)
 
+# List of licenses
+licenses = sorted([
+    "AGPL-3.0", "All-rights-reserved", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "BSD-License", "CC0",
+    "CC0-1.0", "CC0-Licence (with some variations noted in dataset attributes)", "CC-BY-4.0", "CC-BY-NC-4.0",
+    "CC-BY-NC-ND-3.0-DEED", "CC-BY-ND-SA-4.0", "CC-BY-SA-4.0", "GPL-2.0", "GPL-3.0", "MIT", "ODC-By-1.0",
+    "Public-domain"
+])
+licenses.append("Unknown")
+
+# List of tags
+tags_list = sorted([
+    "Arc", "Artificial Intelligence", "Big Data", "Bio-Image Analysis", "Bioimage Analysis", "Bioimage Data",
+    "Bioinformatics", "Cellpose", "Cellprofiler", "Citing", "Clesperanto", "Conda", "Dask", "Data Analysis",
+    "Data Protection", "Data Science", "Data Stewardship", "Dataplant", "Deep Learning", "Deployment", 
+    "Diffusion Models", "Elastix", "Fair", "Fair-Principles", "Fiji", "Flim", "Git", "Github", "Gpu", 
+    "Hackathon", "I3Dbio", "Image Data Management", "Image Registration", "Image Segmentation", "Imagej", 
+    "Imagej Macro", "Itk", "Large Language Models", "Licensing", "Machine Learning", "Mamba", "Meta Data", 
+    "Metadata", "Microscopy Image Analysis", "Napari", "Neubias", "Nfdi4Bioimage", "Notebook", "Notebooks", 
+    "Omero", "Open Access", "Open Science", "Python", "Pytorch", "Quareo-Limi", "R", "Research Data Management", 
+    "Science Communication", "Segmentation", "Sharing", "Teaching", "Tu Dresden", "Workflow", "Workflow Engine", 
+    "Zarr", "Zenodo"
+])
+tags_list.append("Unknown")
+
+# List of types
+types_list = sorted([
+    "Big Data", "Bioimage Analysis", "Blog", "Book", "Code", "Collection", "Conference Abstract", "Data", 
+    "Dataset", "Document", "Documentation", "Event", "Forum Post", "Github Repository", "Jupyter Book", 
+    "Notebook", "Online Course", "Online Tutorial", "Poster", "Practicals", "Preprint", "Presentation", 
+    "Publication", "Publiction", "Python", "Slide", "Slides", "Tutorial", "Video", "Videos", "Workshop"
+])
+types_list.append("Unknown")
+
+# List of YAML files
+yaml_list = sorted([
+    'blog_posts.yml', 'events.yml', 'materials.yml', 'nfdi4bioimage.yml', 'papers.yml', 'workflow-tools.yml', 'youtube_channels.yml'
+])
+
 # Form to collect user input
 with st.form(key='submission_form'):
-    submitter_name = st.text_input("Submitter Name")
     authors = st.text_input("Authors")
-    license = st.text_input("License")
+    license = st.selectbox("License", ["Select a license"] + licenses, index=0)
     name = st.text_input("Name")
     description = st.text_area("Description")
-    tags = st.text_input("Tags (comma-separated)")
-    type_ = st.text_input("Type (comma-separated)")
+    tags = st.multiselect("Tags", tags_list)
+    type_ = st.multiselect("Type", types_list)
     url = st.text_input("URL")
-    yaml_file = st.selectbox("YAML File", [
-        'blog_posts.yml', 'events.yml', 'materials.yml', 'nfdi4bioimage.yml', 'papers.yml', 'workflow-tools.yml', 'youtube_channels.yml'
-    ])
+    yaml_file = st.selectbox("YAML File", ["Select a YAML file"] + yaml_list, index=0)
     submit_button = st.form_submit_button(label='Submit')
 
 # Handle form submission
 if submit_button:
-    # Create GitHub issue
-    issue_title = f"Issue submitted by {submitter_name}"
-    issue_body = (
-        f"- authors: {authors}\n"
-        f"  license: {license}\n"
-        f"  name: {name}\n"
-        f"  description: {description}\n"
-        f"  tags:\n"
-        + ''.join([f"    - {tag.strip()}\n" for tag in tags.split(',')]) +
-        f"  type:\n"
-        + ''.join([f"    - {type_.strip()}\n" for type_ in type_.split(',')]) +
-        f"  url: {url}\n"
-    )
-    # Print the issue body to debug
-    print("Generated issue body:\n", issue_body)
-    
-    try:
-        issue = repo.create_issue(title=issue_title, body=issue_body)
-        st.success(f"Issue created: {issue.html_url}")
-    except Exception as e:
-        st.error(f"Failed to create issue: {e}")
+    if license == "Select a license":
+        st.error("Please select a license.")
+    elif yaml_file == "Select a YAML file":
+        st.error("Please select a YAML file.")
+    elif not tags:
+        st.error("Please select at least one tag.")
+    elif not type_:
+        st.error("Please select at least one type.")
+    else:
+        # Edit YAML file
+        try:
+            # Include the 'resources' directory in the file path
+            file_path = f"resources/{yaml_file}"
+            file_contents = repo.get_contents(file_path)
+            yaml_content = file_contents.decoded_content.decode('utf-8')
 
-    # Edit YAML file
-    try:
-        # Include the 'resources' directory in the file path
-        file_path = f"resources/{yaml_file}"
-        file_contents = repo.get_contents(file_path)
-        yaml_content = file_contents.decoded_content.decode('utf-8')
-        
-        # Display the original YAML content for debugging purposes
-        st.text_area("Original YAML content", yaml_content)
+            yaml_data = yaml.safe_load(yaml_content)
 
-        yaml_data = yaml.safe_load(yaml_content)
+            # Check the structure of the YAML data
+            if 'resources' in yaml_data and isinstance(yaml_data['resources'], list):
+                resources_list = yaml_data['resources']
+            else:
+                st.error("Unexpected YAML structure: Expected a dictionary with a 'resources' key containing a list.")
+                st.stop()
 
-        # Check the structure of the YAML data
-        if 'resources' in yaml_data and isinstance(yaml_data['resources'], list):
-            resources_list = yaml_data['resources']
-        else:
-            st.error("Unexpected YAML structure: Expected a dictionary with a 'resources' key containing a list.")
-            st.stop()
+            new_entry = {
+                'authors': authors,
+                'license': license,
+                'name': name,
+                'description': description,
+                'tags': tags,
+                'type': type_,
+                'url': url
+            }
 
-        new_entry = {
-            'authors': authors,
-            'license': license,
-            'name': name,
-            'description': description,
-            'tags': [tag.strip() for tag in tags.split(',')],
-            'type': [type_.strip() for type_ in type_.split(',')],
-            'url': url
-        }
+            resources_list.append(new_entry)
+            yaml_data['resources'] = resources_list
+            new_yaml_content = yaml.safe_dump(yaml_data, allow_unicode=True, sort_keys=False)
 
-        resources_list.append(new_entry)
-        yaml_data['resources'] = resources_list
-        new_yaml_content = yaml.safe_dump(yaml_data, allow_unicode=True, sort_keys=False)
+            # Create a new branch with a unique name based on the YAML file name and a timestamp
+            base_branch = repo.get_branch("main")
+            timestamp = int(time.time())
+            branch_suffix = f"{yaml_file.split('.')[0]}-{timestamp}"
+            new_branch_name = f"update-{branch_suffix}".replace(' ', '-')
+            repo.create_git_ref(ref=f"refs/heads/{new_branch_name}", sha=base_branch.commit.sha)
 
-        # Create a new branch
-        base_branch = repo.get_branch("main")
-        new_branch_name = f"update-{yaml_file}-{submitter_name}".replace(' ', '-')
-        repo.create_git_ref(ref=f"refs/heads/{new_branch_name}", sha=base_branch.commit.sha)
+            # Commit changes to the new branch
+            repo.update_file(file_path, f"Add new entry", new_yaml_content, file_contents.sha, branch=new_branch_name)
 
-        # Commit changes to the new branch
-        repo.update_file(file_path, f"Add new entry by {submitter_name}", new_yaml_content, file_contents.sha, branch=new_branch_name)
+            # Create pull request with custom title and description
+            pr_title = f"Add new training materials request to {yaml_file}"
+            pr_body = f"Added new training materials to {yaml_file}."
+            pr = repo.create_pull(title=pr_title, body=pr_body, head=new_branch_name, base='main')
+            st.success(f"Pull request created: {pr.html_url}")
+        except Exception as e:
+            st.error(f"Failed to update YAML file and create pull request: {e}")
 
-        # Create pull request with custom title and description
-        pr_title = f"Add new training materials request to {yaml_file}"
-        # pr_body = f"Added new training materials to {yaml_file} by {submitter_name}. Closes #{issue.number}"
-        pr_body = f"Added new training materials to {yaml_file} by {submitter_name}.\n\nThis PR closes #{issue.number}"
-        pr = repo.create_pull(title=pr_title, body=pr_body, head=new_branch_name, base='main')
-        st.success(f"Pull request created: {pr.html_url}")
-    except Exception as e:
-        st.error(f"Failed to update YAML file and create pull request: {e}")
 
 # cd ..\scripts
 # streamlit run appsubmitter.py
+
