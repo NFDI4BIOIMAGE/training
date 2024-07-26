@@ -4,18 +4,96 @@ from github import Github
 import yaml
 import time
 
-# GitHub authentication
-GITHUB_API_KEY = os.getenv('GITHUB_API_KEY')  # Get the API key from environment variable
-if not GITHUB_API_KEY:
-    st.error("GitHub API Key is not set in the environment variables.")
-    st.stop()
+def authenticate_with_github():
+    """
+    Authenticates with GitHub using the provided API key.
 
-try:
-    g = Github(GITHUB_API_KEY)
-    repo = g.get_repo("SeverusYixin/Test_Appsubmitter")  # My GitHub Repositories for test Appsubmitter
-except Exception as e:
-    st.error(f"Failed to authenticate with GitHub: {e}")
-    st.stop()
+    Returns:
+        g (Github): An instance of the Github class.
+        repo (Repository): The repository object for the specified GitHub repository.
+    """
+    GITHUB_API_KEY = os.getenv('GITHUB_API_KEY')  # Get the API key from environment variable
+    if not GITHUB_API_KEY:
+        st.error("GitHub API Key is not set in the environment variables.")
+        st.stop()
+
+    try:
+        g = Github(GITHUB_API_KEY)
+        repo = g.get_repo("NFDI4BIOIMAGE/training")  # GitHub Repositories for Appsubmitter
+    except Exception as e:
+        st.error(f"Failed to authenticate with GitHub: {e}")
+        st.stop()
+
+    return g, repo
+
+def create_pull_request(g, repo, yaml_file, authors, license, name, description, tags, type_, url):
+    """
+    Creates a pull request to add new training materials to the specified YAML file.
+
+    Args:
+        g (Github): An instance of the Github class.
+        repo (Repository): The repository object for the specified GitHub repository.
+        yaml_file (str): The name of the YAML file to update.
+        authors (str): The authors of the training materials.
+        license (str): The license for the training materials.
+        name (str): The name of the training materials.
+        description (str): The description of the training materials.
+        tags (list): The tags associated with the training materials.
+        type_ (list): The type of the training materials.
+        url (str): The URL of the training materials.
+
+    Returns:
+        pr (PullRequest): The created pull request object.
+    """
+    try:
+        # Include the 'resources' directory in the file path
+        file_path = f"resources/{yaml_file}"
+        file_contents = repo.get_contents(file_path)
+        yaml_content = file_contents.decoded_content.decode('utf-8')
+
+        yaml_data = yaml.safe_load(yaml_content)
+
+        # Check the structure of the YAML data
+        if 'resources' in yaml_data and isinstance(yaml_data['resources'], list):
+            resources_list = yaml_data['resources']
+        else:
+            st.error("Unexpected YAML structure: Expected a dictionary with a 'resources' key containing a list.")
+            st.stop()
+
+        new_entry = {
+            'authors': authors,
+            'license': license,
+            'name': name,
+            'description': description,
+            'tags': tags,
+            'type': type_,
+            'url': url
+        }
+
+        resources_list.append(new_entry)
+        yaml_data['resources'] = resources_list
+        new_yaml_content = yaml.safe_dump(yaml_data, allow_unicode=True, sort_keys=False)
+
+        # Create a new branch with a unique name based on the YAML file name and a timestamp
+        base_branch = repo.get_branch("main")
+        timestamp = int(time.time())
+        branch_suffix = f"{yaml_file.split('.')[0]}-{timestamp}"
+        new_branch_name = f"update-{branch_suffix}".replace(' ', '-')
+        repo.create_git_ref(ref=f"refs/heads/{new_branch_name}", sha=base_branch.commit.sha)
+
+        # Commit changes to the new branch
+        repo.update_file(file_path, f"Add new entry", new_yaml_content, file_contents.sha, branch=new_branch_name)
+
+        # Create pull request with custom title and description
+        pr_title = f"Add new training materials request to {yaml_file}"
+        pr_body = f"Added new training materials to {yaml_file}."
+        pr = repo.create_pull(title=pr_title, body=pr_body, head=new_branch_name, base='main')
+        st.success(f"Pull request created: {pr.html_url}")
+    except Exception as e:
+        st.error(f"Failed to update YAML file and create pull request: {e}")
+
+# GitHub authentication
+g, repo = authenticate_with_github()
 
 st.title("GitHub Training Materials Submission")
 
@@ -94,55 +172,5 @@ if submit_button:
     elif not type_:
         st.error("Please select at least one type.")
     else:
-        # Edit YAML file
-        try:
-            # Include the 'resources' directory in the file path
-            file_path = f"resources/{yaml_file}"
-            file_contents = repo.get_contents(file_path)
-            yaml_content = file_contents.decoded_content.decode('utf-8')
-
-            yaml_data = yaml.safe_load(yaml_content)
-
-            # Check the structure of the YAML data
-            if 'resources' in yaml_data and isinstance(yaml_data['resources'], list):
-                resources_list = yaml_data['resources']
-            else:
-                st.error("Unexpected YAML structure: Expected a dictionary with a 'resources' key containing a list.")
-                st.stop()
-
-            new_entry = {
-                'authors': authors,
-                'license': license,
-                'name': name,
-                'description': description,
-                'tags': tags,
-                'type': type_,
-                'url': url
-            }
-
-            resources_list.append(new_entry)
-            yaml_data['resources'] = resources_list
-            new_yaml_content = yaml.safe_dump(yaml_data, allow_unicode=True, sort_keys=False)
-
-            # Create a new branch with a unique name based on the YAML file name and a timestamp
-            base_branch = repo.get_branch("main")
-            timestamp = int(time.time())
-            branch_suffix = f"{yaml_file.split('.')[0]}-{timestamp}"
-            new_branch_name = f"update-{branch_suffix}".replace(' ', '-')
-            repo.create_git_ref(ref=f"refs/heads/{new_branch_name}", sha=base_branch.commit.sha)
-
-            # Commit changes to the new branch
-            repo.update_file(file_path, f"Add new entry", new_yaml_content, file_contents.sha, branch=new_branch_name)
-
-            # Create pull request with custom title and description
-            pr_title = f"Add new training materials request to {yaml_file}"
-            pr_body = f"Added new training materials to {yaml_file}."
-            pr = repo.create_pull(title=pr_title, body=pr_body, head=new_branch_name, base='main')
-            st.success(f"Pull request created: {pr.html_url}")
-        except Exception as e:
-            st.error(f"Failed to update YAML file and create pull request: {e}")
-
-
-# cd ..\scripts
-# streamlit run appsubmitter.py
+        create_pull_request(g, repo, yaml_file, authors, license, name, description, tags, type_, url)
 
