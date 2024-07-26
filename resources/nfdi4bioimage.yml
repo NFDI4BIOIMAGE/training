@@ -33,8 +33,8 @@ resources:
   description: Blog post about why we should license our work and what is important
     when choosing a license.
   license: cc-by-4.0
-  name: "If you license it, it\u2019ll be harder to steal it. Why we should license\
-    \ our work"
+  name: If you license it, it’ll be harder to steal it. Why we should license our
+    work
   tags:
   - licensing
   - research data management
@@ -60,7 +60,7 @@ resources:
   type: blog
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
 - authors: Thomas Zobel, Sarah Weischner, Jens Wendt
-  description: "A use case example from the M\xFCnster Imaging Network"
+  description: A use case example from the Münster Imaging Network
   license: All Rights Reserved
   name: OMERO for microscopy research data management
   tags:
@@ -130,8 +130,8 @@ resources:
   - bioimage analysis
   type: publication
   url: https://doi.org/10.1038/s41592-019-0650-1
-- authors: "Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Si\xE2n Culley,\
-    \ Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer"
+- authors: Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley,
+    Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
   description: This article gives an overview about commonly used bioimage analysis
     software and which aspects to consider when choosing a software for a specific
     project.
@@ -152,8 +152,8 @@ resources:
   - research data management
   type: publication
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
-- authors: "Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G.\
-    \ Reynaud, S\xE9amus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash"
+- authors: Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud,
+    Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
   description: This comment article outlines the current state of the art in open
     hardware publishing in the context of microscopy.
   license: All Rights Reserved
@@ -181,9 +181,9 @@ resources:
   - bioimage analysis
   type: publication
   url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
-- authors: "Gabriel G. Martins, Fabrice P. Cordeli\xE8res, Julien Colombelli, Rocco\
-    \ D\u2019Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion\
-    \ Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura"
+- authors: Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono,
+    Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine
+    Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
   license: cc-by-4.0
   name: 'Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts:
     a success story and key asset for analysts and life scientists'
@@ -195,15 +195,15 @@ resources:
   url: https://f1000research.com/articles/10-334/v1
 - authors: Ugis Sarkans et al
   license: All Rights Reserved
-  name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
-    \ microscopy data in biology"
+  name: 'REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy
+    data in biology'
   tags:
   - research data management
   - meta data
   type: publication
   url: https://www.nature.com/articles/s41592-021-01166-8
-- authors: "Susanne Kunis, Sebastian H\xE4nsch, Christian Schmidt, Frances Wong, Caterina\
-    \ Strambio-De-Castillia, Stefanie Weidtkamp-Peters"
+- authors: Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina
+    Strambio-De-Castillia, Stefanie Weidtkamp-Peters
   license: All Rights Reserved
   name: 'MDEmic: a metadata annotation tool to facilitate management of FAIR image
     data in the bioimaging community'
@@ -220,9 +220,9 @@ resources:
   - QUAREO-LIMI
   type: publication
   url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
-- authors: "Josh Moore, Chris Allan, S\xE9bastien Besson, Jean-Marie Burel, Erin Diel,\
-    \ David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz,\
-    \ Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow"
+- authors: Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel,
+    David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will
+    Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
   license: cc-by-4.0
   name: 'OME-NGFF: a next-generation file format for expanding bioimaging data-access
     strategies'
@@ -238,9 +238,9 @@ resources:
   - NFDI4BioImage
   type: publication
   url: https://ceur-ws.org/Vol-3415/paper-27.pdf
-- authors: "Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas\
-    \ Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald V\xF6hringer, Wolfgang\
-    \ Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle"
+- authors: Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas
+    Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang
+    Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
   license: cc-by-4.0
   name: 'SpatialData: an open and universal data framework for spatial omics'
   tags:
@@ -249,18 +249,18 @@ resources:
   - publication
   - preprint
   url: https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract
-- authors: "Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker,\
-    \ Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho,\
-    \ Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael\
-    \ Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault,\
-    \ Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew\
-    \ Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith\
-    \ Lacoste, Sylvia Le D\xE9v\xE9dec, Sylvie Le Guyader, Penghuan Liu, Gabriel G\
-    \ Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison\
-    \ North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta\
-    \ Schroth-Diez, Lucas Sch\xFCtz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P\
-    \ Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia,\
-    \ Douglas Taatjes, Christian Tischer, Helena Klara Jambor"
+- authors: Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker,
+    Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho,
+    Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael
+    Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault,
+    Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew
+    Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste,
+    Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha
+    Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam
+    C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez,
+    Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler,
+    Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian
+    Tischer, Helena Klara Jambor
   license: All Rights Reserved
   name: Community-developed checklists for publishing images and image analyses
   tags:
@@ -277,15 +277,14 @@ resources:
   - bioimage analysis
   type: publication
   url: https://doi.org/10.1093/bioinformatics/btab106
-- authors: "Mat\xFA\u0161 Kala\u0161, Laure Plantard, Joakim Lindblad, Martin Jones,\
-    \ Nata\u0161a Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne\
-    \ R\xF6ssler, Laura Nicol\xE1s S\xE1enz, Estibaliz G\xF3mez de Mariscal, John\
-    \ Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte\
-    \ Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David H\xF6rl, Lassi\
-    \ Paavolainen, Ivana Vrhovac Maduni\u0107, Dean Karaica, Arrate Mu\xF1oz-Barrutia,\
-    \ Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian\
-    \ Levet, Jon Ison, Alban Gaignard, Herv\xE9 M\xE9nager, Chong Zhang, Kota Miura,\
-    \ Julien Colombelli, Perrine Paul-Gilloteaux"
+- authors: Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje,
+    Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura
+    Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier
+    Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van
+    de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean
+    Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra
+    Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong
+    Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
   license: cc-by-4.0
   name: 'EDAM-bioimaging: The ontology of bioimage informatics operations, topics,
     data, and formats (update 2020)'
@@ -317,10 +316,10 @@ resources:
   - NFDI4BioImage
   type: slide
   url: https://f1000research.com/slides/12-1054
-- authors: "Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi,\
-    \ Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph M\xF6\
-    hl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten St\xF6ter, Julia\
-    \ Th\xF6nni\xDFen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis"
+- authors: Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi,
+    Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl,
+    Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen,
+    Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
   doi: 10.5281/zenodo.10609770
   event_date: November 29 - December 01 2023
   event_location: CECAD, University of Cologne, Cologne, Germany
@@ -340,8 +339,8 @@ resources:
   - documentation
   url: https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
 - authors: Josh Moore
-  description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
-    \ October 16, 2023"
+  description: Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany,
+    October 16, 2023
   license: Creative Commons Attribution 4.0 International
   name: Welcome to BioImage Town
   tags:
@@ -374,12 +373,12 @@ resources:
   - Fuchs, Vanessa A. F.
   - Hoevels, Moritz
   - Kandpal, Niraj
-  - "M\xF6hl, Christoph"
+  - Möhl, Christoph
   - Moore, Joshua A.
   - Schauss, Astrid
   - Schrader, Andrea
-  - "St\xF6ter, Torsten"
-  - "Th\xF6nni\xDFen, Julia"
+  - Stöter, Torsten
+  - Thönnißen, Julia
   - Valencia-S., Monica
   - Weil, H. Lukas
   - Wendt, Jens
@@ -461,7 +460,7 @@ resources:
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
-  - "M\xFCller, Maximilian"
+  - Müller, Maximilian
   - Ahmadi, Mohsen
   - Massei, Riccardo
   - Wetzker, Cornelia
@@ -478,9 +477,9 @@ resources:
   - poster
   url: https://zenodo.org/doi/10.5281/zenodo.10730423
 - authors: Christian Schmidt
-  description: "Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM\
-    \ in (Bio-)Medicine Information Event on April 10th, 2024, organized C\xB3RDM\
-    \ & ZB MED."
+  description: Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM
+    in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB
+    MED.
   license: Creative Commons Attribution 4.0 International
   name: '[Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure'
   tags:
@@ -505,3 +504,17 @@ resources:
   type:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
+- authors: Robert Haase
+  license: CC-BY-4.0
+  name: BIDS-lecture-2024
+  description: Training resources for Students at Uni Leipzig who want to dive into
+    bio-image data science with Python. The material developed here between April
+    and July 2024.
+  tags:
+  - Bioimage Analysis
+  - Deep Learning
+  - Microscopy Image Analysis
+  - Python
+  type:
+  - Github Repository
+  url: https://github.com/ScaDS/BIDS-lecture-2024/
