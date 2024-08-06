@@ -1,13 +1,13 @@
 # Data (8)
 ## Annotated high-throughput microscopy image sets for validation
 
-Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
+['Vebjorn Ljosa', 'Katherine L Sokolnicki', 'Anne E Carpenter']
 
 
 
 Broad Bioimage Benchmark Collection (BBBC)
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.nature.com/articles/nmeth.2083](https://www.nature.com/articles/nmeth.2083)
 
@@ -18,13 +18,13 @@ Content type: collection, data
 
 ## BioImage Archive AI Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis, deep learning
+Tags: Bioimage Analysis, Deep Learning
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
 
@@ -33,13 +33,13 @@ Content type: collection, data
 
 ## BioImage Archive Visual Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html](https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html)
 
@@ -48,13 +48,13 @@ Content type: collection, data
 
 ## BioImage Archive Volume EM Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html](https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html)
 
@@ -65,7 +65,7 @@ Content type: collection, data
 
 
 
-Content type: collection, data, publiction
+Content type: Collection, Data, Publiction
 
 [https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
 
@@ -80,9 +80,9 @@ Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
 
@@ -95,9 +95,9 @@ Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
 
@@ -108,7 +108,7 @@ Content type: collection, data
 
 
 
-Content type: collection, data, publication
+Content type: Collection, Data, Publication
 
 [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 

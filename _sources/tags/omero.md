@@ -1,15 +1,15 @@
 # Omero (19)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: omero, python
+Tags: Omero, Python
 
-Content type: blog
+Content type: Blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -22,9 +22,9 @@ Content type: blog
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: bioimage analysis, omero, research data management
+Tags: Bioimage Analysis, Omero, Research Data Management
 
-Content type: workshop
+Content type: Workshop
 
 [https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
 
@@ -33,17 +33,17 @@ Content type: workshop
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-Sarah Weischer, Jens Wendt, Thomas Zobel
+['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: omero, data analysis, bioimage analysis
+Tags: Omero, Data Analysis, Bioimage Analysis
 
-Content type: collection
+Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
@@ -52,19 +52,19 @@ Content type: collection
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-Schmidt, Christian, Bortolomeazzi, Michele, Boissonnet, Tom, Fortmann-Grote, Carsten, Dohle, Julia, Zentis, Peter, Kandpal, Niraj, Kunis, Susanne, Zobel, Thomas, Weidtkamp-Peters, Stefanie, Ferrando-May, Elisa
+['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
 
 Published 2023-11-13
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: omero, research data management, nfdi4bioimage, i3dbio
+Tags: Omero, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: slide, video
+Content type: Slide, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -77,15 +77,15 @@ Content type: slide, video
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
 
-Content type: event, publication, documentation
+Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
@@ -94,13 +94,13 @@ Content type: event, publication, documentation
 
 ## OME Documentation
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: documentation
+Content type: Documentation
 
 [https://www.openmicroscopy.org/docs/](https://www.openmicroscopy.org/docs/)
 
@@ -111,9 +111,9 @@ Content type: documentation
 
 
 
-Tags: omero, research data management
+Tags: Omero, Research Data Management
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -122,17 +122,17 @@ Content type: collection, event
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-Riccardo Massei
+['Riccardo Massei']
 
-Licensed mit
+Licensed MIT
 
 
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: teaching, bioimage analysis, notebooks, python, omero
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, Omero
 
-Content type: github repository
+Content type: Github Repository
 
 [https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
 
@@ -141,13 +141,13 @@ Content type: github repository
 
 ## OMERO Guide
 
-Licensed BSD 2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: collection
+Content type: Collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
 
@@ -160,9 +160,9 @@ Licensed unknown
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: documentation
+Content type: Documentation
 
 [https://omero.readthedocs.io/en/stable/](https://omero.readthedocs.io/en/stable/)
 
@@ -171,17 +171,17 @@ Content type: documentation
 
 ## OMERO for microscopy research data management
 
-Thomas Zobel, Sarah Weischner, Jens Wendt
+['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
 A use case example from the Münster Imaging Network
 
-Tags: NFDI4BioImage, omero, research data management
+Tags: Nfdi4Bioimage, Omero, Research Data Management
 
-Content type: publication
+Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
 
@@ -190,13 +190,13 @@ Content type: publication
 
 ## OMERO walkthrough example
 
-Licensed BSD 2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: document
+Content type: Document
 
 [https://omero-guides.readthedocs.io/en/latest/example.html](https://omero-guides.readthedocs.io/en/latest/example.html)
 
@@ -205,13 +205,13 @@ Content type: document
 
 ## OMERO walkthrough for facility managers
 
-Licensed BSD 2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: document
+Content type: Document
 
 [https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html](https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html)
 
@@ -220,13 +220,13 @@ Content type: document
 
 ## Omero Deployment examples
 
-Licensed bsd-2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: collection
+Content type: Collection
 
 [https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
 
@@ -239,9 +239,9 @@ Content type: collection
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
-Tags: omero
+Tags: Omero
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
 
@@ -254,9 +254,9 @@ Licensed unknown
 
 
 
-Tags: research data management, omero
+Tags: Research Data Management, Omero
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
@@ -265,13 +265,13 @@ Content type: collection, video
 
 ## User friendly Image metadata annotation tool/workflow for OMERO
 
-Jens Wendt
+['Jens Wendt']
 
 
 
-Tags: metadata, workflow, OMERO
+Tags: Metadata, Workflow, Omero
 
-Content type: forum post
+Content type: Forum Post
 
 [https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1](https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1)
 
@@ -280,17 +280,17 @@ Content type: forum post
 
 ## Welcome to BioImage Town
 
-Josh Moore
+['Josh Moore']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: omero, bioimage analysis, NFDI4BioImage
+Tags: Omero, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
 
@@ -299,17 +299,17 @@ Content type: slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-Vanessa Aphaia Fiona Fuchs, Christian Schmidt, Tom Boissonnet
+['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
 
-Tags: research data management, bioimage analysis, omero
+Tags: Research Data Management, Bioimage Analysis, Omero
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 

@@ -1,17 +1,17 @@
 # Book (16)
 ## 6 Steps Towards Reproducible Research
 
-Heidi Seibold
+['Heidi Seibold']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 A short book with 6 steps that get you closer to making your work reproducible.
 
-Tags: reproducibility, research data management
+Tags: Reproducibility, Research Data Management
 
-Content type: book
+Content type: Book
 
 [https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
 
@@ -20,15 +20,15 @@ Content type: book
 
 ## Basics of Image Processing and Analysis
 
-Kota Miura
+['Kota Miura']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
 
@@ -37,15 +37,15 @@ Content type: book
 
 ## BioImage Analysis Notebooks
 
-Robert Haase et al.
+['Robert Haase et al.']
 
-Licensed ['CC BY 4.0', 'BSD 3-clause']
+Licensed ['CC-BY-4.0', 'BSD-3-Clause']
 
 
 
-Tags: python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
@@ -54,13 +54,13 @@ Content type: book, notebook
 
 ## BioImage Data Analysis
 
-Kota Miura
+['Kota Miura']
 
-Licensed All rights reserved
+Licensed all-rights-reserved
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
 Content type: Book
 
@@ -71,15 +71,15 @@ Content type: Book
 
 ## DeepProfiler Handbook
 
-Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
+['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://github.com/cytomining/DeepProfiler-handbook](https://github.com/cytomining/DeepProfiler-handbook)
 
@@ -90,7 +90,7 @@ Content type: book
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-Kota Miura
+['Kota Miura']
 
 Published 2013
 
@@ -98,9 +98,9 @@ Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: tutorial, book
+Content type: Tutorial, Book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
 
@@ -109,13 +109,13 @@ Content type: tutorial, book
 
 ## Image Analysis Training Resources
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://neubias.github.io/training-resources/](https://neubias.github.io/training-resources/)
 
@@ -124,15 +124,15 @@ Content type: book
 
 ## Image-based Profiling Handbook
 
-Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
+['Beth Cimini', 'Tim Becker', 'Shantanu Singh', 'Gregory Way', 'Hamdah Abbasi', 'Callum Tromans-Coia']
 
-Licensed cc0-1.0
+Licensed CC0-1.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://github.com/cytomining/profiling-handbook](https://github.com/cytomining/profiling-handbook)
 
@@ -143,15 +143,15 @@ Content type: book
 
 ## Introduction to Bioimage Analysis
 
-Pete Bankhead
+['Pete Bankhead']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, imagej, bioimage analysis
+Tags: Python, Imagej, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
 
@@ -160,15 +160,15 @@ Content type: book, notebook
 
 ## Open Image Data Handbook
 
-Kevin Yamauchi
+['Kevin Yamauchi']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: neubias, research data management, napari, python, bioimage analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
@@ -177,11 +177,11 @@ Content type: book, notebook
 
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: book
+Content type: Book
 
 [https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
 
@@ -192,7 +192,7 @@ Content type: book
 
 ## Scientific Visualization: Python + Matplotlib
 
-Nicolas P. Rougier
+['Nicolas P. Rougier']
 
 Licensed cc-by-nd-sa-4.0
 
@@ -200,7 +200,7 @@ Licensed cc-by-nd-sa-4.0
 
 Tags: Python
 
-Content type: book
+Content type: Book
 
 [https://github.com/rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
@@ -211,11 +211,11 @@ Content type: book
 
 ## Standard and Super-Resolution Bioimaging Data Analysis: A Primer
 
-Ann Wheeler (Editor), Ricardo Henriques (Editor)
+['Ann Wheeler (Editor)', 'Ricardo Henriques (Editor)']
 
 
 
-Content type: book
+Content type: Book
 
 [https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900](https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900)
 
@@ -224,13 +224,13 @@ Content type: book
 
 ## The Digital Cell: Cell Biology as a Data Science
 
-Stephen Royle
+['Stephen Royle']
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282](https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282)
 
@@ -239,13 +239,13 @@ Content type: book
 
 ## The Turing Way: Guide for reproducible research
 
-Licensed ['CC BY 4.0', 'MIT']
+Licensed ['CC-BY-4.0', 'MIT']
 
 
 
 A guide which covers topics related to skills, tools and best practices for research reproducibility.
 
-Content type: book
+Content type: Book
 
 [https://the-turing-way.netlify.app/reproducible-research/reproducible-research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
 
@@ -254,11 +254,11 @@ Content type: book
 
 ## Train-the-Trainer Concept on Research Data Management
 
-Biernacka, Katarzyna, Bierwirth, Maik, Buchholz, Petra, Dolzycka, Dominika, Helbig, Kerstin, Neumann, Janna, Odebrecht, Carolin, Wiljes, Cord, Wuttke, Ulrike
+['Katarzyna Biernacka', 'Maik Bierwirth', 'Petra Buchholz', 'Dominika Dolzycka', 'Kerstin Helbig', 'Janna Neumann', 'Carolin Odebrecht', 'Cord Wiljes', 'Ulrike Wuttke']
 
 Published 2020-11-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -266,9 +266,9 @@ Within the project FDMentor, a German Train-the-Trainer Programme on Research Da
 
 After the end of the project, the concept was supplemented and updated by members of the Sub-Working Group Training/Further Education (UAG Schulungen/Fortbildungen) of the DINI/nestor Working Group Research Data (DINI/nestor-AG Forschungsdaten). The newly published English version of the Train-the-Trainer Concept contains the translated concept, the materials and all methods of the Train-the-Trainer Programme. Furthermore, additional English references and materials complement this version.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: book
+Content type: Book
 
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 

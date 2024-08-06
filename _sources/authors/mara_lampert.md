@@ -1,13 +1,13 @@
 # Mara lampert (8)
 ## Annotating 3D images in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 
@@ -16,13 +16,13 @@ Content type: blog
 
 ## Feature extraction in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -31,15 +31,15 @@ Content type: blog
 
 ## Getting started with Mambaforge and Python
 
-Mara Lampert
+['Mara Lampert']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, conda, mamba
+Tags: Python, Conda, Mamba
 
-Content type: blog
+Content type: Blog
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
@@ -48,13 +48,13 @@ Content type: blog
 
 ## How to write a bug report
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: github, python, science communication
+Tags: Github, Python, Science Communication
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 
@@ -63,13 +63,13 @@ Content type: blog
 
 ## Prompt Engineering in Bio-image Analysis
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, jupyter, bioimage analysis, prompt engineering, biabob
+Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
@@ -78,13 +78,13 @@ Content type: blog
 
 ## Quality assurance of segmentation results
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -93,13 +93,13 @@ Content type: blog
 
 ## Rescaling images and pixel (an)isotropy
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -108,13 +108,13 @@ Content type: blog
 
 ## Tracking in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 

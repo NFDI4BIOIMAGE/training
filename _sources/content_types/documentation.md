@@ -1,15 +1,15 @@
 # Documentation (14)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-Caterina Fuster-Barceló
+['Caterina Fuster-Barceló']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, workflow engine, bio-image analysis
+Tags: Artificial Intelligence, Workflow Engine, Bio-Image Analysis
 
-Content type: documentation
+Content type: Documentation
 
 [https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
 
@@ -18,15 +18,15 @@ Content type: documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-Daniel Franco-Barranco et al
+['Daniel Franco-Barranco et al']
 
 
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
 
@@ -35,17 +35,17 @@ Content type: documentation
 
 ## BioEngine Documentation
 
-Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
 
-Licensed MIT License
+Licensed MIT
 
 
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: workflow engine, deep learning, python
+Tags: Workflow Engine, Deep Learning, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
 
@@ -58,9 +58,9 @@ Content type: documentation
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://fractal-analytics-platform.github.io/](https://fractal-analytics-platform.github.io/)
 
@@ -73,9 +73,9 @@ Content type: documentation
 
 Galaxy is an open source, web-based platform for data intensive biomedical research.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: documentation
+Content type: Documentation
 
 [https://usegalaxy.org/](https://usegalaxy.org/)
 
@@ -84,15 +84,15 @@ Content type: documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
+['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
 
 
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -103,15 +103,15 @@ Content type: publication, documentation
 
 ## Making your package available on conda-forge
 
-Kevin Yamauchi
+['Kevin Yamauchi']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: deployment, python
+Tags: Deployment, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html](https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html)
 
@@ -120,15 +120,15 @@ Content type: documentation
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
+['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
 
 
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
@@ -139,15 +139,15 @@ Content type: publication, documentation
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
 
 
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
@@ -158,15 +158,15 @@ Content type: publication, documentation
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
 
-Content type: event, publication, documentation
+Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
@@ -179,9 +179,9 @@ Content type: event, publication, documentation
 
 Nextflow enables scalable and reproducible scientific workflows using software containers.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: documentation
+Content type: Documentation
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
 
@@ -190,13 +190,13 @@ Content type: documentation
 
 ## OME Documentation
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: documentation
+Content type: Documentation
 
 [https://www.openmicroscopy.org/docs/](https://www.openmicroscopy.org/docs/)
 
@@ -209,9 +209,9 @@ Licensed unknown
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: documentation
+Content type: Documentation
 
 [https://omero.readthedocs.io/en/stable/](https://omero.readthedocs.io/en/stable/)
 
@@ -224,9 +224,9 @@ Content type: documentation
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://snakemake.readthedocs.io/en/stable/](https://snakemake.readthedocs.io/en/stable/)
 

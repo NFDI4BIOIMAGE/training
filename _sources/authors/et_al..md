@@ -1,13 +1,13 @@
 # Et al. (7)
 ## DL4MicEverywhere
 
-Iván Hidalgo, et al.
+['Iván Hidalgo', 'et al.']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
@@ -16,13 +16,13 @@ Content type: notebook, collection
 
 ## Image Processing with Python
 
-Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: Python, bioimage analysis
+Content type: Python, Bioimage Analysis
 
 [https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
 
@@ -33,7 +33,7 @@ Content type: Python, bioimage analysis
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-Jonas Hartmann, et al.
+['Jonas Hartmann', 'et al.']
 
 Licensed unknown
 
@@ -41,7 +41,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: code, notebook
+Content type: Code, Notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
@@ -52,7 +52,7 @@ Content type: code, notebook
 
 ## Models and Applications for BioImage.IO
 
-Wei Ouyang, et al.
+['Wei Ouyang', 'et al.']
 
 Licensed unknown
 
@@ -65,15 +65,15 @@ Licensed unknown
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, tutorial
+Content type: Slide, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -82,15 +82,15 @@ Content type: slide, tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -99,15 +99,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 

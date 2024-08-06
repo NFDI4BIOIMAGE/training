@@ -1,15 +1,15 @@
 # Martin weigert (8)
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-Martin Weigert
+['Martin Weigert']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/embo_2022](https://github.com/maweigert/embo_2022)
 
@@ -18,15 +18,15 @@ Content type: notebook
 
 ## CSBDeep and StarDist @ I2K 2020
 
-Martin Weigert, Uwe Schmidt
+['Martin Weigert', 'Uwe Schmidt']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
 
@@ -35,15 +35,15 @@ Content type: notebook
 
 ## Deep Learning for image analysis - Exercises
 
-Martin Weigert
+['Martin Weigert']
 
 Licensed unknown
 
 
 
-Tags: Fiji, artificial intelligence, bioimage analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/zidas_2020_DL_intro_Part_2](https://github.com/maweigert/zidas_2020_DL_intro_Part_2)
 
@@ -52,15 +52,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2019 exercises and materials
 
-Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
+['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2019](https://github.com/kreshuklab/teaching-dl-course-2019)
 
@@ -69,15 +69,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-Martin Weigert, Constantin Pape
+['Martin Weigert', 'Constantin Pape']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2022](https://github.com/kreshuklab/teaching-dl-course-2022)
 
@@ -86,15 +86,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2023 exercises and materials
 
-Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
+['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
 
@@ -103,17 +103,17 @@ Content type: notebook
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
 
-Licensed CC-BY 4.0
+Licensed CC-BY-4.0
 
 
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: microscopy image analysis, python, deep learning
+Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: videos, practicals, slides
+Content type: Videos, Practicals, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
@@ -122,15 +122,15 @@ Content type: videos, practicals, slides
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
 Licensed unknown
 
 
 
-Tags: Python, neubias, artificial intelligence, bioimage analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: slide, notebook
+Content type: Slide, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 

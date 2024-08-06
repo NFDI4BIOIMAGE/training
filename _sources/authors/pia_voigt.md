@@ -1,11 +1,11 @@
-# Pia (6)
+# Pia voigt (6)
 ## Crashkurs Forschungsdatenmanagement
 
-Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann, Clemens, Elze, Romy, Gey, Ronny
+['Barbara Weiner', 'Stephan Wünsche', 'Stefan Kühne', 'Pia Voigt', 'Sebastian Frericks', 'Clemens Hoffmann', 'Romy Elze', 'Ronny Gey']
 
 Published 2020-04-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -13,9 +13,9 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/3778431](https://zenodo.org/records/3778431)
 
@@ -26,11 +26,11 @@ Content type: slides
 
 ## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
 
-Voigt, Pia, Hundt, Carolin
+['Pia Voigt', 'Carolin Hundt']
 
 Published 2024-04-19
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -45,9 +45,9 @@ Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man 
 
 
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11107798](https://zenodo.org/records/11107798)
 
@@ -58,11 +58,11 @@ Content type: slides
 
 ## Datenmanagementpläne erstellen - Teil 1
 
-Voigt, Pia, Weiner, Barbara
+['Pia Voigt', 'Barbara Weiner']
 
 Published 2021-03-23
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -72,9 +72,9 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4630788](https://zenodo.org/records/4630788)
 
@@ -85,11 +85,11 @@ Content type: slides
 
 ## Datenmanagementpläne erstellen - Teil 2
 
-Voigt, Pia, Weiner, Barbara
+['Pia Voigt', 'Barbara Weiner']
 
 Published 2021-03-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -103,9 +103,9 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4748534](https://zenodo.org/records/4748534)
 
@@ -116,11 +116,11 @@ Content type: slides
 
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
-Wünsche, Stephan, Voigt, Pia
+['Stephan Wünsche', 'Pia Voigt']
 
 Published 2021-05-11
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -128,9 +128,9 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: research data management, data protection
+Tags: Research Data Management, Data Protection
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4748510](https://zenodo.org/records/4748510)
 
@@ -141,19 +141,19 @@ Content type: slides
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-Voigt, Pia
+['Pia Voigt']
 
 Published 2024-05-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: research data management, data protection, FAIR-principles
+Tags: Research Data Management, Data Protection, Fair-Principles
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
 

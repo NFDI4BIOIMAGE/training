@@ -3,9 +3,9 @@
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: event
+Content type: Event
 
 [https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/)
 
@@ -16,9 +16,9 @@ Content type: event
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://globalbioimaging.org/international-training-courses](https://globalbioimaging.org/international-training-courses)
 
@@ -27,15 +27,15 @@ Content type: collection, event
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
 
-Content type: event, publication, documentation
+Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
@@ -46,9 +46,9 @@ Content type: event, publication, documentation
 
 
 
-Tags: omero, research data management
+Tags: Omero, Research Data Management
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -59,9 +59,9 @@ Content type: collection, event
 
 
 
-Tags: bioimage analysis, python
+Tags: Bioimage Analysis, Python
 
-Content type: event, notebook
+Content type: Event, Notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
 
@@ -72,9 +72,9 @@ Content type: event, notebook
 
 
 
-Tags: bioimage analysis, python
+Tags: Bioimage Analysis, Python
 
-Content type: event, notebook
+Content type: Event, Notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
 
@@ -85,9 +85,9 @@ Content type: event, notebook
 
 
 
-Tags: bioinformatics
+Tags: Bioinformatics
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://tess.elixir-europe.org/events](https://tess.elixir-europe.org/events)
 

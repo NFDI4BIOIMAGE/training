@@ -1,17 +1,17 @@
 # Christian tischer (11)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
+['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
 
@@ -20,7 +20,7 @@ Content type: publication
 
 ## Analysis of High-Throughput Microscopy Image Data
 
-Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
+['Kota Miura', 'Christoph Schiklenk', 'Clemens Lakner', 'Christian Tischer', 'Aliaksandr Halavatyi']
 
 Published 2014
 
@@ -35,15 +35,15 @@ Licensed unknown
 
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
-Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
+['Christian Tischer', 'Ashis Ravindran', 'Sabine Reither', 'Nicolas Chiaruttini', 'Rainer Pepperkok', 'Nils Norlin']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: research data management, bioimage analysis
+Tags: Research Data Management, Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
 
@@ -52,15 +52,15 @@ Content type: publication
 
 ## Bio Image Analysis
 
-Christian Tischer
+['Christian Tischer']
 
 Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
 
@@ -69,15 +69,15 @@ Content type: slide
 
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-Carolina Wählby, Maxime Bombrun, Christian Tischer
+['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
 Licensed unknown
 
 
 
-Tags: neubias, CellProfiler, bioimage analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
 
@@ -86,15 +86,15 @@ Content type: tutorial
 
 ## Community-developed checklists for publishing images and image analyses
 
-Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
+['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
 
@@ -103,9 +103,9 @@ Content type: publication
 
 ## Image analysis course material
 
-Christian Tischer
+['Christian Tischer']
 
-Licensed mit
+Licensed MIT
 
 
 
@@ -118,15 +118,15 @@ Training materials about image registration, big warp and elastix
 
 ## Methods in bioimage analysis
 
-Christian Tischer
+['Christian Tischer']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: online tutorial, video, slide
+Content type: Online Tutorial, Video, Slide
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -139,15 +139,15 @@ Content type: online tutorial, video, slide
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: NFDI4BioImage, research data management
+Tags: Nfdi4Bioimage, Research Data Management
 
-Content type: publication
+Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
 
@@ -156,13 +156,13 @@ Content type: publication
 
 ## OME-Zarr course
 
-Bugra Oezdemir, Christian Tischer
+['Bugra Oezdemir', 'Christian Tischer']
 
 Licensed unknown
 
 
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://git.embl.de/oezdemir/course_scripts#ome-zarr-course](https://git.embl.de/oezdemir/course_scripts#ome-zarr-course)
 
@@ -171,13 +171,13 @@ Content type: tutorial
 
 ## i2k-2020-s3-zarr-workshop
 
-Constantin Pape, Christian Tischer
+['Constantin Pape', 'Christian Tischer']
 
 Licensed unknown
 
 
 
-Content type: Python, big data
+Content type: Python, Big Data
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
 

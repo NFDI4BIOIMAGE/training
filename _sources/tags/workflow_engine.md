@@ -1,15 +1,15 @@
 # Workflow engine (12)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-Caterina Fuster-Barceló
+['Caterina Fuster-Barceló']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, workflow engine, bio-image analysis
+Tags: Artificial Intelligence, Workflow Engine, Bio-Image Analysis
 
-Content type: documentation
+Content type: Documentation
 
 [https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
 
@@ -18,15 +18,15 @@ Content type: documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-Daniel Franco-Barranco et al
+['Daniel Franco-Barranco et al']
 
 
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
 
@@ -35,7 +35,7 @@ Content type: documentation
 
 ## BioEngine
 
-Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
 
 Licensed unknown
 
@@ -43,9 +43,9 @@ Licensed unknown
 
 BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: artificial intelligence, workflow engine
+Tags: Artificial Intelligence, Workflow Engine
 
-Content type: publication
+Content type: Publication
 
 [https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
 
@@ -54,17 +54,17 @@ Content type: publication
 
 ## BioEngine Documentation
 
-Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
+['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
 
-Licensed MIT License
+Licensed MIT
 
 
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: workflow engine, deep learning, python
+Tags: Workflow Engine, Deep Learning, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
 
@@ -77,9 +77,9 @@ Content type: documentation
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://fractal-analytics-platform.github.io/](https://fractal-analytics-platform.github.io/)
 
@@ -92,9 +92,9 @@ Content type: documentation
 
 Galaxy is an open source, web-based platform for data intensive biomedical research.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: documentation
+Content type: Documentation
 
 [https://usegalaxy.org/](https://usegalaxy.org/)
 
@@ -103,15 +103,15 @@ Content type: documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
+['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
 
 
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
@@ -122,15 +122,15 @@ Content type: publication, documentation
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
+['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
 
 
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103)
 
@@ -141,15 +141,15 @@ Content type: publication, documentation
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
+['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
 
 
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: workflow engine, imagej
+Tags: Workflow Engine, Imagej
 
-Content type: publication, documentation
+Content type: Publication, Documentation
 
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
@@ -164,9 +164,9 @@ Content type: publication, documentation
 
 Nextflow enables scalable and reproducible scientific workflows using software containers.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: documentation
+Content type: Documentation
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
 
@@ -175,19 +175,19 @@ Content type: documentation
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-Floden, Evan, Di Tommaso, Paolo
+['Floden', 'Evan', 'Di Tommaso', 'Paolo']
 
 Published 2020-12-17
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
@@ -202,9 +202,9 @@ Content type: slide
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: workflow engine, python
+Tags: Workflow Engine, Python
 
-Content type: documentation
+Content type: Documentation
 
 [https://snakemake.readthedocs.io/en/stable/](https://snakemake.readthedocs.io/en/stable/)
 

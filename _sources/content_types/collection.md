@@ -1,13 +1,13 @@
 # Collection (57)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
-Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
+['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Content type: collection, publication
+Content type: Collection, Publication
 
 [https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
 
@@ -18,13 +18,13 @@ Content type: collection, publication
 
 ## Annotated high-throughput microscopy image sets for validation
 
-Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
+['Vebjorn Ljosa', 'Katherine L Sokolnicki', 'Anne E Carpenter']
 
 
 
 Broad Bioimage Benchmark Collection (BBBC)
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.nature.com/articles/nmeth.2083](https://www.nature.com/articles/nmeth.2083)
 
@@ -37,9 +37,9 @@ Content type: collection, data
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
 
@@ -50,9 +50,9 @@ Content type: collection, video
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023](https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023)
 
@@ -63,9 +63,9 @@ Content type: workshop, collection
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
 
@@ -76,9 +76,9 @@ Content type: workshop, collection
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/](https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/)
 
@@ -87,13 +87,13 @@ Content type: workshop, collection
 
 ## Bio.tools database
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioinformatics
+Tags: Bioinformatics
 
-Content type: collection
+Content type: Collection
 
 [https://bio.tools/](https://bio.tools/)
 
@@ -102,13 +102,13 @@ Content type: collection
 
 ## BioImage Archive AI Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis, deep learning
+Tags: Bioimage Analysis, Deep Learning
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
 
@@ -117,13 +117,13 @@ Content type: collection, data
 
 ## BioImage Archive Visual Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html](https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html)
 
@@ -132,13 +132,13 @@ Content type: collection, data
 
 ## BioImage Archive Volume EM Gallery
 
-Licensed CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)
+Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html](https://www.ebi.ac.uk/bioimage-archive/galleries/vem.html)
 
@@ -147,13 +147,13 @@ Content type: collection, data
 
 ## BioImage Informatics Index Training Materials
 
-Licensed ODC BY 1.0
+Licensed ODC-By-1.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection
+Content type: Collection
 
 [https://biii.eu/training-material](https://biii.eu/training-material)
 
@@ -164,7 +164,7 @@ Content type: collection
 
 
 
-Content type: collection, data, publiction
+Content type: Collection, Data, Publiction
 
 [https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
 
@@ -179,9 +179,9 @@ Licensed unknown
 
 
 
-Tags: bioimage analysis, artificial intelligence
+Tags: Bioimage Analysis, Artificial Intelligence
 
-Content type: collection
+Content type: Collection
 
 [https://bioimage.io/](https://bioimage.io/)
 
@@ -190,15 +190,15 @@ Content type: collection
 
 ## Bioimage analysis with Napari
 
-Fabrizio Musacchio
+['Fabrizio Musacchio']
 
 Licensed cc-by-nd-sa-4.0
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: collection
+Content type: Collection
 
 [https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/)
 
@@ -209,9 +209,9 @@ Content type: collection
 
 
 
-Tags: Bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
 
@@ -222,7 +222,7 @@ Content type: collection, video
 
 
 
-Content type: collection
+Content type: Collection
 
 [https://zenodo.org/communities/eoss](https://zenodo.org/communities/eoss)
 
@@ -235,9 +235,9 @@ Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [http://celltrackingchallenge.net/2d-datasets/](http://celltrackingchallenge.net/2d-datasets/)
 
@@ -250,9 +250,9 @@ Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, data
+Content type: Collection, Data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
 
@@ -261,13 +261,13 @@ Content type: collection, data
 
 ## CellTrackColab
 
-Guillaume Jacquemet
+['Guillaume Jacquemet']
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
 
@@ -280,7 +280,7 @@ Content type: notebook, collection
 
 
 
-Content type: collection
+Content type: Collection
 
 [https://zmb.dozuki.com/c/Image_Analysis](https://zmb.dozuki.com/c/Image_Analysis)
 
@@ -293,9 +293,9 @@ Licensed unknown
 
 
 
-Tags: napari, python, Bioimage analysis
+Tags: Napari, Python, Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
 
@@ -306,13 +306,13 @@ Content type: collection, video
 
 ## DL4MicEverywhere
 
-Iván Hidalgo, et al.
+['Iván Hidalgo', 'et al.']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
@@ -321,15 +321,15 @@ Content type: notebook, collection
 
 ## DigitalSreeni YouTube Channel
 
-Sreeni Bhattiprolu
+['Sreeni Bhattiprolu']
 
 
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
 
-Tags: python
+Tags: Python
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
@@ -342,7 +342,7 @@ Content type: collection, video
 
 
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/c/eurobioimagingcommunication](https://www.youtube.com/c/eurobioimagingcommunication)
 
@@ -351,20 +351,20 @@ Content type: collection, video
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-Kemmer, Isabel, Euro-BioImaging ERIC
+['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: bioimage analysis, FAIR-principles, research data management
+Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
-Content type: collection, tutorial
+Content type: Collection, Tutorial
 
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
@@ -375,13 +375,13 @@ Content type: collection, tutorial
 
 ## FAIR BioImage Data
 
-Licensed Creative Commons / Attribution 4.0 International (CC BY 4.0)
+Licensed creative-commons-/-attribution-4.0-international-(cc-by-4.0)
 
 
 
-Tags: research data management, FAIR, Bioimage analysis
+Tags: Research Data Management, Fair, Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
 
@@ -392,9 +392,9 @@ Content type: collection, video
 
 
 
-Tags: Bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
 
@@ -403,15 +403,15 @@ Content type: collection, video
 
 ## Forschungsdaten.info
 
-Licensed public domain
+Licensed public-domain
 
 
 
 Research Data Management Information Portal in German
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: collection
+Content type: Collection
 
 [https://forschungsdaten.info/](https://forschungsdaten.info/)
 
@@ -420,15 +420,15 @@ Content type: collection
 
 ## Forschungsdaten.org
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Research Data Management Wiki in German
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: collection
+Content type: Collection
 
 [https://www.forschungsdaten.org/](https://www.forschungsdaten.org/)
 
@@ -443,7 +443,7 @@ Licensed unknown
 
 List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
 
-Content type: collection
+Content type: Collection
 
 [https://gerbi-gmb.de/resources/teaching-resources/](https://gerbi-gmb.de/resources/teaching-resources/)
 
@@ -454,9 +454,9 @@ Content type: collection
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://globalbioimaging.org/international-training-courses](https://globalbioimaging.org/international-training-courses)
 
@@ -467,7 +467,7 @@ Content type: collection, event
 
 
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/GlobalBioImaging](https://www.youtube.com/GlobalBioImaging)
 
@@ -476,17 +476,17 @@ Content type: collection, video
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-Sarah Weischer, Jens Wendt, Thomas Zobel
+['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: omero, data analysis, bioimage analysis
+Tags: Omero, Data Analysis, Bioimage Analysis
 
-Content type: collection
+Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
@@ -501,9 +501,9 @@ Licensed unknown
 
 List of links to training materials by the I3D:bio community.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: collection
+Content type: Collection
 
 [https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/](https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/)
 
@@ -512,13 +512,13 @@ Content type: collection
 
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 
-Licensed CC BY-NC-ND 3.0 Deed
+Licensed cc-by-nc-nd-3.0-deed
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
 
@@ -529,7 +529,7 @@ Content type: collection, video
 
 
 
-Content type: collection, data, publication
+Content type: Collection, Data, Publication
 
 [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 
@@ -540,13 +540,13 @@ Content type: collection, data, publication
 
 ## Imaris Tutorials
 
-Licensed All rights reserved
+Licensed all-rights-reserved
 
 
 
-Tags: Bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
 
@@ -559,9 +559,9 @@ Content type: collection, video
 
 Collection of tutorial videos for Fiji users
 
-Tags: Bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
 
@@ -570,11 +570,11 @@ Content type: collection, video
 
 ## MicroscopyDB
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
-Content type: collection
+Content type: Collection
 
 [https://microscopydb.io/](https://microscopydb.io/)
 
@@ -587,9 +587,9 @@ Content type: collection
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 
-Tags: neubias
+Tags: Neubias
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
 
@@ -602,9 +602,9 @@ Content type: collection, video
 
 nf-core is a community effort to collect a curated set of analysis pipelines built using Nextflow
 
-Tags: python
+Tags: Python
 
-Content type: collection
+Content type: Collection
 
 [https://nf-co.re/](https://nf-co.re/)
 
@@ -615,9 +615,9 @@ Content type: collection
 
 
 
-Tags: omero, research data management
+Tags: Omero, Research Data Management
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
 
@@ -626,13 +626,13 @@ Content type: collection, event
 
 ## OMERO Guide
 
-Licensed BSD 2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: collection
+Content type: Collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
 
@@ -641,13 +641,13 @@ Content type: collection
 
 ## Omero Deployment examples
 
-Licensed bsd-2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: omero
+Tags: Omero
 
-Content type: collection
+Content type: Collection
 
 [https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
 
@@ -660,9 +660,9 @@ Content type: collection
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
-Tags: omero
+Tags: Omero
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
 
@@ -671,15 +671,15 @@ Content type: collection, video
 
 ## Python for Microscopists
 
-Sreenivas Bhattiprolu
+['Sreenivas Bhattiprolu']
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
@@ -688,13 +688,13 @@ Content type: notebook, collection
 
 ## RDM4Mic Presentations
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: collection
+Content type: Collection
 
 [https://github.com/German-BioImaging/RDM4mic/tree/master/presentations](https://github.com/German-BioImaging/RDM4mic/tree/master/presentations)
 
@@ -707,9 +707,9 @@ Licensed unknown
 
 
 
-Tags: research data management, omero
+Tags: Research Data Management, Omero
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
 
@@ -720,7 +720,7 @@ Content type: collection, video
 
 
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1](https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1)
 
@@ -729,13 +729,13 @@ Content type: collection, video
 
 ## RDMKit Training Resources
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: collection
+Content type: Collection
 
 [https://rdmkit.elixir-europe.org/all_training_resources](https://rdmkit.elixir-europe.org/all_training_resources)
 
@@ -746,9 +746,9 @@ Content type: collection
 
 
 
-Tags: bioinformatics
+Tags: Bioinformatics
 
-Content type: collection, event
+Content type: Collection, Event
 
 [https://tess.elixir-europe.org/events](https://tess.elixir-europe.org/events)
 
@@ -761,9 +761,9 @@ Licensed unknown
 
 
 
-Tags: bioinformatics
+Tags: Bioinformatics
 
-Content type: collection
+Content type: Collection
 
 [https://tess.elixir-europe.org/materials](https://tess.elixir-europe.org/materials)
 
@@ -772,13 +772,13 @@ Content type: collection
 
 ## Workshop-June2024-Madrid
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
 
@@ -787,13 +787,13 @@ Content type: workshop, collection
 
 ## ZEN & Python workshop
 
-Licensed gpl-3.0
+Licensed GPL-3.0
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: collection, notebook
+Content type: Collection, Notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 
@@ -802,13 +802,13 @@ Content type: collection, notebook
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 
@@ -821,13 +821,13 @@ Content type: notebook, collection
 
 ## arivis Vision4D Tutorials
 
-Licensed All rights reserved
+Licensed all-rights-reserved
 
 
 
-Tags: Bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
 
@@ -836,13 +836,13 @@ Content type: collection, video
 
 ## microlist
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
 A searchable database of resources for light and electron microscopists
 
-Content type: collection
+Content type: Collection
 
 [https://www.microlist.org/](https://www.microlist.org/)
 

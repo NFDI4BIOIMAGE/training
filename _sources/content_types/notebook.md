@@ -1,15 +1,15 @@
 # Notebook (47)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
-Guillaume Witz
+['Guillaume Witz']
 
 Licensed unknown
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
 
@@ -18,15 +18,15 @@ Content type: notebook
 
 ## A Fiji Scripting Tutorial
 
-Albert Cardona
+['Albert Cardona']
 
-Licensed CC0
+Licensed cc0
 
 
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/](https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/)
 
@@ -35,17 +35,17 @@ Content type: notebook
 
 ## Bio-image Data Science
 
-Robert Haase, ScaDS.AI Dresden/Leipzig
+['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
+Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
 
@@ -54,15 +54,15 @@ Content type: notebook
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, bioimage analysis, napari
+Tags: Python, Bioimage Analysis, Napari
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
@@ -71,15 +71,15 @@ Content type: notebook
 
 ## BioImage Analysis Notebooks
 
-Robert Haase et al.
+['Robert Haase et al.']
 
-Licensed ['CC BY 4.0', 'BSD 3-clause']
+Licensed ['CC-BY-4.0', 'BSD-3-Clause']
 
 
 
-Tags: python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
 
@@ -88,15 +88,15 @@ Content type: book, notebook
 
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-Martin Weigert
+['Martin Weigert']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/embo_2022](https://github.com/maweigert/embo_2022)
 
@@ -105,15 +105,15 @@ Content type: notebook
 
 ## CSBDeep and StarDist @ I2K 2020
 
-Martin Weigert, Uwe Schmidt
+['Martin Weigert', 'Uwe Schmidt']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence, bioimage analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
 
@@ -122,15 +122,15 @@ Content type: notebook
 
 ## CellProfiler tutorials
 
-Licensed bsd-3-clause
+Licensed BSD-3-Clause
 
 
 
 CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
 
-Tags: cellprofiler, bioimage analysis
+Tags: Cellprofiler, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/CellProfiler/tutorials](https://github.com/CellProfiler/tutorials)
 
@@ -139,13 +139,13 @@ Content type: notebook
 
 ## CellTrackColab
 
-Guillaume Jacquemet
+['Guillaume Jacquemet']
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
 
@@ -156,15 +156,15 @@ Content type: notebook, collection
 
 ## Course on Deep Learning for imaging using PyTorch
 
-Guillaume Witz
+['Guillaume Witz']
 
 Licensed unknown
 
 
 
-Tags: Python, bioimage analysis, artificial intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
 
@@ -173,15 +173,15 @@ Content type: notebook
 
 ## DEEP NAPARI : Napari as a tool for deep learning project management
 
-Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
+['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/hereariim/DEEP-NAPARI](https://github.com/hereariim/DEEP-NAPARI)
 
@@ -190,13 +190,13 @@ Content type: notebook
 
 ## DL4MicEverywhere
 
-Iván Hidalgo, et al.
+['Iván Hidalgo', 'et al.']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
@@ -205,15 +205,15 @@ Content type: notebook, collection
 
 ## DL@MBL 2021 Exercises
 
-Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
+['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide, notebook
+Content type: Slide, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -222,15 +222,15 @@ Content type: slide, notebook
 
 ## Dask Course
 
-Guillaume Witz
+['Guillaume Witz']
 
 Licensed unknown
 
 
 
-Tags: Python, bioimage analysis, big data
+Tags: Python, Bioimage Analysis, Big Data
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
 
@@ -239,13 +239,13 @@ Content type: notebook
 
 ## Deep Learning Based Segmentation For Biologists
 
-Licensed agpl-3.0
+Licensed AGPL-3.0
 
 
 
-Tags: python, R, artificial intelligence
+Tags: Python, R, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/](https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/)
 
@@ -254,15 +254,15 @@ Content type: notebook
 
 ## Deep Learning for image analysis - Exercises
 
-Martin Weigert
+['Martin Weigert']
 
 Licensed unknown
 
 
 
-Tags: Fiji, artificial intelligence, bioimage analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/maweigert/zidas_2020_DL_intro_Part_2](https://github.com/maweigert/zidas_2020_DL_intro_Part_2)
 
@@ -271,15 +271,15 @@ Content type: notebook
 
 ## Deep Vision and Graphics
 
-Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
+['Victor Yurchenko', 'Fedor Ratnikov', 'Viktoriia Checkalina']
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics)
 
@@ -288,15 +288,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2019 exercises and materials
 
-Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
+['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2019](https://github.com/kreshuklab/teaching-dl-course-2019)
 
@@ -305,15 +305,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-Martin Weigert, Constantin Pape
+['Martin Weigert', 'Constantin Pape']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2022](https://github.com/kreshuklab/teaching-dl-course-2022)
 
@@ -322,15 +322,15 @@ Content type: notebook
 
 ## EMBL Deep Learning course 2023 exercises and materials
 
-Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
+['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
 Licensed unknown
 
 
 
-Tags: Python, artificial intelligence
+Tags: Python, Artificial Intelligence
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
 
@@ -339,15 +339,15 @@ Content type: notebook
 
 ## Fundamentals in digital image processing
 
-Guillaume Witz
+['Guillaume Witz']
 
 Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/Fundamentals_image_processing](https://github.com/guiwitz/Fundamentals_image_processing)
 
@@ -356,15 +356,15 @@ Content type: notebook
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
-Juan Nunez-Iglesias
+['Juan Nunez-Iglesias']
 
-Licensed bsd-3-clause
+Licensed BSD-3-Clause
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
 
@@ -373,15 +373,15 @@ Content type: notebook
 
 ## IAFIG-RMS Python for Bioimage Analysis Course
 
-Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
+['Aurelien Barbotin', 'Chas Nelson', 'Dominic Waithe', 'Ola (Alexandra) Tarkowska', 'Mikolaj Kundegorski', 'Stephen Cross', 'Todd Fallesen']
 
-Licensed gpl-3.0
+Licensed GPL-3.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis)
 
@@ -390,15 +390,15 @@ Content type: notebook
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
-Juan Nunez-Iglesias
+['Juan Nunez-Iglesias']
 
-Licensed bsd-3-clause
+Licensed BSD-3-Clause
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/scipy-2023-image-analysis/tutorial](https://github.com/scipy-2023-image-analysis/tutorial)
 
@@ -407,15 +407,15 @@ Content type: notebook
 
 ## Image processing for beginners
 
-Guillaume Witz
+['Guillaume Witz']
 
-Licensed BSD 3-clause
+Licensed BSD-3-Clause
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/PyImageCourse_beginner](https://github.com/guiwitz/PyImageCourse_beginner)
 
@@ -424,17 +424,17 @@ Content type: notebook
 
 ## Image processing with Python
 
-Guillaume Witz
+['Guillaume Witz']
 
-Licensed mit
+Licensed MIT
 
 
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
 
-Tags: python
+Tags: Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/Python_image_processing](https://github.com/guiwitz/Python_image_processing)
 
@@ -443,15 +443,15 @@ Content type: notebook
 
 ## Introduction to Bioimage Analysis
 
-Pete Bankhead
+['Pete Bankhead']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, imagej, bioimage analysis
+Tags: Python, Imagej, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
 
@@ -460,17 +460,17 @@ Content type: book, notebook
 
 ## Introduction to Deep Learning for Microscopy
 
-Costantin Pape, computational-cell-analytics
+['Costantin Pape', 'computational-cell-analytics']
 
-Licensed mit
+Licensed MIT
 
 
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Deep Learning, Pytorch, segmentation, python
+Tags: Deep Learning, Pytorch, Segmentation, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
 
@@ -479,7 +479,7 @@ Content type: notebook
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-Jonas Hartmann, et al.
+['Jonas Hartmann', 'et al.']
 
 Licensed unknown
 
@@ -487,7 +487,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: code, notebook
+Content type: Code, Notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
@@ -498,7 +498,7 @@ Content type: code, notebook
 
 ## Metabolic networks modelling with COBRApy
 
-Karin Sasaki, Aleksej Zelezniak
+['Karin Sasaki', 'Aleksej Zelezniak']
 
 Licensed unknown
 
@@ -506,7 +506,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/karinsasaki/metabolic-networks-modelling](https://github.com/karinsasaki/metabolic-networks-modelling)
 
@@ -515,13 +515,13 @@ Content type: notebook
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed bsd 3-clause
+Licensed BSD-3-Clause
 
 
 
-Tags: Python, neubias, bioimage analysis
+Tags: Python, Neubias, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
 
@@ -530,15 +530,15 @@ Content type: notebook
 
 ## NEUBIAS Analyst School 2018
 
-Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -547,15 +547,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -564,15 +564,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -581,15 +581,15 @@ Content type: slide, code, notebook
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
 Licensed unknown
 
 
 
-Tags: Python, neubias, artificial intelligence, bioimage analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: slide, notebook
+Content type: Slide, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -598,17 +598,17 @@ Content type: slide, notebook
 
 ## ONBI Image Analysis Course
 
-Mark Jenkinson, Jens Rittscher, Dominic Waithe
+['Mark Jenkinson', 'Jens Rittscher', 'Dominic Waithe']
 
-Licensed gpl-2.0
+Licensed GPL-2.0
 
 
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
 
-Tags: python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
 
@@ -617,15 +617,15 @@ Content type: notebook
 
 ## Open Image Data Handbook
 
-Kevin Yamauchi
+['Kevin Yamauchi']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: neubias, research data management, napari, python, bioimage analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
@@ -636,9 +636,9 @@ Content type: book, notebook
 
 
 
-Tags: bioimage analysis, python
+Tags: Bioimage Analysis, Python
 
-Content type: event, notebook
+Content type: Event, Notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)
 
@@ -649,9 +649,9 @@ Content type: event, notebook
 
 
 
-Tags: bioimage analysis, python
+Tags: Bioimage Analysis, Python
 
-Content type: event, notebook
+Content type: Event, Notebook
 
 [https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html](https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html)
 
@@ -660,17 +660,17 @@ Content type: event, notebook
 
 ## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
 
-Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert and Robert Haase
+['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert and Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
 
-Tags: GPU, clesperanto, dask, python
+Tags: Gpu, Clesperanto, Dask, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/)
 
@@ -679,7 +679,7 @@ Content type: notebook
 
 ## Python Workshop - Image Processing
 
-Karin Sasaki, Jonas Hartmann
+['Karin Sasaki', 'Jonas Hartmann']
 
 Licensed unknown
 
@@ -687,7 +687,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: code, notebook
+Content type: Code, Notebook
 
 [https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
 
@@ -696,15 +696,15 @@ Content type: code, notebook
 
 ## Python for Microscopists
 
-Sreenivas Bhattiprolu
+['Sreenivas Bhattiprolu']
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
 
@@ -713,17 +713,17 @@ Content type: notebook, collection
 
 ## QI 2024 Analysis Lab Manual
 
-Beth Cimini, Florian Jug, QI 2024
+['Beth Cimini', 'Florian Jug', 'QI 2024']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: segmentation, python
+Tags: Segmentation, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html](https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html)
 
@@ -732,17 +732,17 @@ Content type: notebook
 
 ## QM Course Lectures on Bio-Image Analysis with napari 2024
 
-Marcelo Leomil Zoccoler
+['Marcelo Leomil Zoccoler']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: napari, python
+Tags: Napari, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
 
@@ -751,13 +751,13 @@ Content type: notebook
 
 ## ZEN & Python workshop
 
-Licensed gpl-3.0
+Licensed GPL-3.0
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: collection, notebook
+Content type: Collection, Notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 
@@ -766,13 +766,13 @@ Content type: collection, notebook
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: notebook, collection
+Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 
@@ -785,15 +785,15 @@ Content type: notebook, collection
 
 ## numpy pandas course
 
-Guillaume Witz
+['Guillaume Witz']
 
-Licensed bsd-3-clause
+Licensed BSD-3-Clause
 
 
 
 Tags: Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
 

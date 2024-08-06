@@ -1,11 +1,11 @@
 # Code (10)
 ## Data Carpentry for Biologists
 
-Licensed ['CC BY 4.0', 'MIT']
+Licensed ['CC-BY-4.0', 'MIT']
 
 
 
-Content type: tutorial, code
+Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
 
@@ -14,15 +14,15 @@ Content type: tutorial, code
 
 ## ImageJ Macro Introduction
 
-Anna Klemm
+['Anna Klemm']
 
 Licensed unknown
 
 
 
-Tags: neubias, ImageJ Macro, bioimage analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: slide, code
+Content type: Slide, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -31,7 +31,7 @@ Content type: slide, code
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-Jonas Hartmann, et al.
+['Jonas Hartmann', 'et al.']
 
 Licensed unknown
 
@@ -39,7 +39,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: code, notebook
+Content type: Code, Notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
@@ -50,15 +50,15 @@ Content type: code, notebook
 
 ## NEUBIAS Analyst School 2018
 
-Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -67,15 +67,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -84,15 +84,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -105,7 +105,7 @@ Licensed unknown
 
 
 
-Content type: code
+Content type: Code
 
 [https://github.com/JaneliaSciComp/nf-demos](https://github.com/JaneliaSciComp/nf-demos)
 
@@ -114,7 +114,7 @@ Content type: code
 
 ## Python Workshop - Image Processing
 
-Karin Sasaki, Jonas Hartmann
+['Karin Sasaki', 'Jonas Hartmann']
 
 Licensed unknown
 
@@ -122,7 +122,7 @@ Licensed unknown
 
 Tags: Python
 
-Content type: code, notebook
+Content type: Code, Notebook
 
 [https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
 
@@ -131,15 +131,15 @@ Content type: code, notebook
 
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
-Marion Louveaux
+['Marion Louveaux']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: code
+Content type: Code
 
 [https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
 
@@ -148,19 +148,19 @@ Content type: code
 
 ## quantixed/TheDigitalCell: First complete code set
 
-Stephen Royle
+['Stephen Royle']
 
 Published 2019-04-17
 
-Licensed gpl-3.0
+Licensed GPL-3.0
 
 
 
 First complete code set for The Digital Cell book.
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: code
+Content type: Code
 
 [https://github.com/quantixed/TheDigitalCell](https://github.com/quantixed/TheDigitalCell)
 

@@ -1,19 +1,19 @@
 # Slides (34)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
-Hesse, Elfi, Deinert, Jan-Christoph, Löschen, Christian
+['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
 
 Published 2021-01-25
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum Thema Repositorien. Anschlie&szlig;end teilten Nutzer (Jan Deinert &ndash; HZDR) und Anbieter (Christian L&ouml;schen &ndash; TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
@@ -24,17 +24,17 @@ Content type: slides
 
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
-Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
+['Anca Margineanu', 'Chiara Stringari', 'Marcelo Zoccoler', 'Cornelia Wetzker']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by Anca Margineanu, Chiara Stringari and Conni Wetzker. 
 
-Tags: bioimage analysis, FLIM
+Tags: Bioimage Analysis, Flim
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10886749](https://zenodo.org/doi/10.5281/zenodo.10886749)
 
@@ -43,11 +43,11 @@ Content type: slides
 
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
-Wünsche, Stephan
+['Stephan Wünsche']
 
 Published 2024-06-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -55,9 +55,9 @@ Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten, an deren En
 &nbsp;
 &nbsp;
 
-Tags: research data management, licensing
+Tags: Research Data Management, Licensing
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
@@ -68,17 +68,17 @@ Content type: slides
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-Robert Haase
+['Robert Haase']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: bioimage analysis, deep learning, microscopy image analysis, python
+Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
@@ -87,11 +87,11 @@ Content type: slides
 
 ## Crashkurs Forschungsdatenmanagement
 
-Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann, Clemens, Elze, Romy, Gey, Ronny
+['Barbara Weiner', 'Stephan Wünsche', 'Stefan Kühne', 'Pia Voigt', 'Sebastian Frericks', 'Clemens Hoffmann', 'Romy Elze', 'Ronny Gey']
 
 Published 2020-04-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -99,9 +99,9 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/3778431](https://zenodo.org/records/3778431)
 
@@ -112,19 +112,19 @@ Content type: slides
 
 ## Cultivating Open Training
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-03-14
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: open science, research data management, FAIR-principles, bio-image analysis, licensing
+Tags: Open Science, Research Data Management, Fair-Principles, Bio-Image Analysis, Licensing
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
 
@@ -135,11 +135,11 @@ Content type: slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-04-25
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -147,9 +147,9 @@ Licensed cc-by-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: research data management, Licensing, FAIR-principles
+Tags: Research Data Management, Licensing, Fair-Principles
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
 
@@ -160,19 +160,19 @@ Content type: slides
 
 ## Datenmanagement
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-04-14
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
 
@@ -183,11 +183,11 @@ Content type: slides
 
 ## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
 
-Voigt, Pia, Hundt, Carolin
+['Pia Voigt', 'Carolin Hundt']
 
 Published 2024-04-19
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -202,9 +202,9 @@ Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man 
 
 
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11107798](https://zenodo.org/records/11107798)
 
@@ -215,11 +215,11 @@ Content type: slides
 
 ## Datenmanagementpläne erstellen - Teil 1
 
-Voigt, Pia, Weiner, Barbara
+['Pia Voigt', 'Barbara Weiner']
 
 Published 2021-03-23
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -229,9 +229,9 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4630788](https://zenodo.org/records/4630788)
 
@@ -242,11 +242,11 @@ Content type: slides
 
 ## Datenmanagementpläne erstellen - Teil 2
 
-Voigt, Pia, Weiner, Barbara
+['Pia Voigt', 'Barbara Weiner']
 
 Published 2021-03-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -260,9 +260,9 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4748534](https://zenodo.org/records/4748534)
 
@@ -273,11 +273,11 @@ Content type: slides
 
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
-Wünsche, Stephan, Voigt, Pia
+['Stephan Wünsche', 'Pia Voigt']
 
 Published 2021-05-11
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -285,9 +285,9 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: research data management, data protection
+Tags: Research Data Management, Data Protection
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/4748510](https://zenodo.org/records/4748510)
 
@@ -298,11 +298,11 @@ Content type: slides
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-Kemmer, Isabel, Euro-BioImaging ERIC
+['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -323,9 +323,9 @@ Browsing bioimage repositories
 
 &nbsp;
 
-Tags: bioimage analysis, FAIR-principles, research data management
+Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
-Content type: slides, tutorial
+Content type: Slides, Tutorial
 
 [https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
 
@@ -336,17 +336,17 @@ Content type: slides, tutorial
 
 ## FAIRy deep-learning for bioImage analysis
 
-Estibaliz Gómez de Mariscal
+['Estibaliz Gómez de Mariscal']
 
-Licensed CC-BY 4.0
+Licensed CC-BY-4.0
 
 
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: deep learning, FAIR-principles, microscopy image analysis
+Tags: Deep Learning, Fair-Principles, Microscopy Image Analysis
 
-Content type: slides
+Content type: Slides
 
 [https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
 
@@ -355,11 +355,11 @@ Content type: slides
 
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
-Zoccoler, Marcelo, Bekemeier, Simon, Boissonnet, Tom, Parker, Simon, Bertinetti, Luca, Gentzel, Marc, Massei, Riccardo, Wetzker, Cornelia
+['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
 
 Published 2024-06-10
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -370,9 +370,9 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11548617](https://zenodo.org/records/11548617)
 
@@ -383,11 +383,11 @@ Content type: slides
 
 ## Galaxy Training Material
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: slides, tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/galaxyproject/training-material](https://github.com/galaxyproject/training-material)
 
@@ -396,17 +396,17 @@ Content type: slides, tutorial
 
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
-Riccardo Massei
+['Riccardo Massei']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Results of the project 'Conversion of KNIME image analysis workflows to Galaxy' during the Hackathon 'Image Analysis in Galaxy' (Freiburg 26 Feb - 01 Mar 2024)
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10793699](https://zenodo.org/doi/10.5281/zenodo.10793699)
 
@@ -415,17 +415,17 @@ Content type: slides
 
 ## Intro napari slides
 
-Peter Sobolewski
+['Peter Sobolewski']
 
-Licensed MIT License
+Licensed MIT
 
 
 
 Introduction to napari workshop run at JAX (Spring 2024).
 
-Tags: napari
+Tags: Napari
 
-Content type: slides
+Content type: Slides
 
 [https://thejacksonlaboratory.github.io/intro-napari-slides/#/section](https://thejacksonlaboratory.github.io/intro-napari-slides/#/section)
 
@@ -434,11 +434,11 @@ Content type: slides
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-04-15
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -451,9 +451,9 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: research data management, FAIR-principles, git, zenodo
+Tags: Research Data Management, Fair-Principles, Git, Zenodo
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
@@ -464,11 +464,11 @@ Content type: slides
 
 ## MicroSam-Talks
 
-Pape, Constantin
+['Constantin Pape']
 
 Published 2024-05-23
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -479,9 +479,9 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: image segmentation, bio-image analysis, deep learning
+Tags: Image Segmentation, Bio-Image Analysis, Deep Learning
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
 
@@ -492,17 +492,17 @@ Content type: slides
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
 
-Licensed CC-BY 4.0
+Licensed CC-BY-4.0
 
 
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: microscopy image analysis, python, deep learning
+Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: videos, practicals, slides
+Content type: Videos, Practicals, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
@@ -511,19 +511,19 @@ Content type: videos, practicals, slides
 
 ## My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
 
-Fazeli, Elnaz
+['Elnaz Fazeli']
 
 Published 2024-02-19
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences.&nbsp;
 
-Tags: teaching
+Tags: Teaching
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10679054](https://zenodo.org/records/10679054)
 
@@ -534,17 +534,17 @@ Content type: slides
 
 ## NFDI4BIOIMAGE
 
-Carsten Fortmann.Grote
+['Carsten Fortmann.Grote']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
 
-Tags: research data management, bioimage analysis, FAIR-principles, Zarr, NFDI4BioImage
+Tags: Research Data Management, Bioimage Analysis, Fair-Principles, Zarr, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.11031746](https://zenodo.org/doi/10.5281/zenodo.11031746)
 
@@ -553,17 +553,17 @@ Content type: slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-Stefanie Weidtkamp-Peters
+['Stefanie Weidtkamp-Peters']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: research data management, FAIR-principles, bioimage analysis, NFDI4BioImage
+Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
@@ -572,17 +572,17 @@ Content type: slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-Riccardo Massei
+['Riccardo Massei']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
 
-Tags: research data management, bioimage analysis, NFDI4BioImage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
 
@@ -591,19 +591,19 @@ Content type: slides
 
 ## Open Science, Sharing & Licensing
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-04-18
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: research data management, Open Access, FAIR-principles, licensing
+Tags: Research Data Management, Open Access, Fair-Principles, Licensing
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
 
@@ -614,17 +614,17 @@ Content type: slides
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Moore, Josh', 'Waagmeester, Andra', 'Hettne, Kristina', 'Wolstencroft, Katherine', 'Kunis, Susanne']
+['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: research data management, FAIR-principles, bioimage analysis
+Tags: Research Data Management, Fair-Principles, Bioimage Analysis
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10687658](https://zenodo.org/doi/10.5281/zenodo.10687658)
 
@@ -633,19 +633,19 @@ Content type: slides
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-Voigt, Pia
+['Pia Voigt']
 
 Published 2024-05-30
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: research data management, data protection, FAIR-principles
+Tags: Research Data Management, Data Protection, Fair-Principles
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
 
@@ -656,11 +656,11 @@ Content type: slides
 
 ## Sustainable Data Stewardship
 
-Della Chiesa, Stefano
+['Della Chiesa', 'Stefano']
 
 Published 2024-03-25
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -700,9 +700,9 @@ These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into 
 
 
 
-Tags: research data management, data stewardship
+Tags: Research Data Management, Data Stewardship
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10942559](https://zenodo.org/records/10942559)
 
@@ -713,17 +713,17 @@ Content type: slides
 
 ## Thinking data management on different scales
 
-Susanne Kunis
+['Susanne Kunis']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
-Tags: research data management, NFDI4BioImage
+Tags: Research Data Management, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8329305](https://zenodo.org/doi/10.5281/zenodo.8329305)
 
@@ -732,17 +732,17 @@ Content type: slides
 
 ## Welcome to BioImage Town
 
-Josh Moore
+['Josh Moore']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: omero, bioimage analysis, NFDI4BioImage
+Tags: Omero, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
 
@@ -751,19 +751,19 @@ Content type: slides
 
 ## [N4BI AHM] Welcome to BioImage Town
 
-Moore, Josh
+['Josh Moore']
 
 Published 2023-10-16
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
 
@@ -774,17 +774,17 @@ Content type: slides
 
 ## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
 
-Christian Schmidt
+['Christian Schmidt']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
 
-Tags: research data management, bioimage analysis, NFDI4BioImage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
 
@@ -793,17 +793,17 @@ Content type: slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-Vanessa Aphaia Fiona Fuchs, Christian Schmidt, Tom Boissonnet
+['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
 
-Tags: research data management, bioimage analysis, omero
+Tags: Research Data Management, Bioimage Analysis, Omero
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 

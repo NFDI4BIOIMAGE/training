@@ -1,17 +1,17 @@
-# Robert haase (32)
+# Robert haase (38)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
+['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
 
@@ -20,13 +20,13 @@ Content type: publication
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
+['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
 
 
 
-Tags: imagej
+Tags: Imagej
 
-Content type: publication, poster
+Content type: Publication, Poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
 
@@ -35,36 +35,59 @@ Content type: publication, poster
 
 ## BIDS-lecture-2024
 
-Robert Haase
+['Robert Haase']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: bioimage analysis, deep learning, microscopy image analysis, python
+Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 
-Content type: github repository
+Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
 
 
 ---
 
+## Bio-image Analysis with the Help of Large Language Models
+
+['Robert Haase']
+
+Published 2024-03-13
+
+Licensed CC-BY-4.0
+
+
+
+Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
+
+Tags: Large Language Models, Python
+
+Content type: Slide
+
+[https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
+
+[https://doi.org/10.5281/zenodo.10815329](https://doi.org/10.5281/zenodo.10815329)
+
+
+---
+
 ## Bio-image Data Science
 
-Robert Haase, ScaDS.AI Dresden/Leipzig
+['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy image analysis, python
+Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
 
@@ -73,17 +96,17 @@ Content type: notebook
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-Robert Haase
+['Robert Haase']
 
-Licensed Creative Commons Attribution 4.0 International
+Licensed CC-BY-4.0
 
 
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: bioimage analysis, deep learning, microscopy image analysis, python
+Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 
-Content type: slides
+Content type: Slides
 
 [https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
@@ -92,15 +115,15 @@ Content type: slides
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, bioimage analysis, napari
+Tags: Python, Bioimage Analysis, Napari
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
@@ -109,15 +132,15 @@ Content type: notebook
 
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: omero, python
+Tags: Omero, Python
 
-Content type: blog
+Content type: Blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -126,19 +149,19 @@ Content type: blog
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-Robert Haase, Loic Royer, et al
+['Robert Haase', 'Loic Royer', 'et al']
 
 Published 2020
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://doi.org/10.1038/s41592-019-0650-1](https://doi.org/10.1038/s41592-019-0650-1)
 
@@ -147,15 +170,15 @@ Content type: publication
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: research data management, bio-image analysis, NFDI4BioImage
+Tags: Research Data Management, Bio-Image Analysis, Nfdi4Bioimage
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -164,17 +187,17 @@ Content type: slide
 
 ## Challenges and opportunities for bioimage analysis core-facilities
 
-Johannes Richard Soltwedel, Robert Haase
+['Johannes Richard Soltwedel', 'Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: bioimage analysis, research data management
+Tags: Bioimage Analysis, Research Data Management
 
-Content type: publication
+Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192)
 
@@ -183,36 +206,107 @@ Content type: publication
 
 ## Collaborative bio-image analysis script editing with git
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: sharing, research data management
+Tags: Sharing, Research Data Management
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
 
 ---
 
+## Cultivating Open Training
+
+['Robert Haase']
+
+Published 2024-03-14
+
+Licensed CC-BY-4.0
+
+
+
+In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
+
+Tags: Open Science, Research Data Management, Fair-Principles, Bio-Image Analysis, Licensing
+
+Content type: Slides
+
+[https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
+
+[https://doi.org/10.5281/zenodo.10816895](https://doi.org/10.5281/zenodo.10816895)
+
+
+---
+
+## Cultivating Open Training to advance Bio-image Analysis
+
+['Robert Haase']
+
+Published 2024-04-25
+
+Licensed CC-BY-4.0
+
+
+
+
+These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
+
+
+Tags: Research Data Management, Licensing, Fair-Principles
+
+Content type: Slides
+
+[https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
+
+[https://doi.org/10.5281/zenodo.11066250](https://doi.org/10.5281/zenodo.11066250)
+
+
+---
+
+## Datenmanagement
+
+['Robert Haase']
+
+Published 2024-04-14
+
+Licensed CC-BY-4.0
+
+
+
+In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
+
+Tags: Research Data Management
+
+Content type: Slides
+
+[https://zenodo.org/records/10970869](https://zenodo.org/records/10970869)
+
+[https://doi.org/10.5281/zenodo.10970869](https://doi.org/10.5281/zenodo.10970869)
+
+
+---
+
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
-Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
+['Florian Levet', 'Anne E. Carpenter', 'Kevin W. Eliceiri', 'Anna Kreshuk', 'Peter Bankhead', 'Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: neubias
+Tags: Neubias
 
-Content type: publication
+Content type: Publication
 
 [https://f1000research.com/articles/10-302](https://f1000research.com/articles/10-302)
 
@@ -221,15 +315,15 @@ Content type: publication
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
+['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: meta data
+Tags: Meta Data
 
-Content type: publication, poster
+Content type: Publication, Poster
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
 
@@ -238,15 +332,15 @@ Content type: publication, poster
 
 ## Generative artificial intelligence for bio-image analysis
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, bioimage analysis, artificial intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -255,17 +349,17 @@ Content type: slide
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
+['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
 
 Published 2021
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioimage analysis, neubias
+Tags: Bioimage Analysis, Neubias
 
-Content type: publication
+Content type: Publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
 
@@ -274,17 +368,17 @@ Content type: publication
 
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: licensing, research data management
+Tags: Licensing, Research Data Management
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 
@@ -293,15 +387,15 @@ Content type: blog
 
 ## ImageJ2 API-beating
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -310,13 +404,13 @@ Content type: slide
 
 ## Introduction to Image Analysis with Fiji
 
-Robert Haase, Benoit Lombardot
+['Robert Haase', 'Benoit Lombardot']
 
-Licensed cc-by-nc-4.0
+Licensed CC-BY-NC-4.0
 
 
 
-Tags: imagej, fiji, bioimage analysis
+Tags: Imagej, Fiji, Bioimage Analysis
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -325,32 +419,62 @@ Tags: imagej, fiji, bioimage analysis
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-Robert Haase, Benoit Lombardot
+['Robert Haase', 'Benoit Lombardot']
 
 Licensed unknown
 
 
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
 
 ---
 
+## Kollaboratives Arbeiten und Versionskontrolle mit Git
+
+['Robert Haase']
+
+Published 2024-04-15
+
+Licensed CC-BY-4.0
+
+
+
+Gemeinsames Arbeiten im Internet stellt uns vor neue Herausforderungen: Wer hat eine Datei wann hochgeladen? Wer hat zum Inhalt beigetragen? Wie kann man Inhalte zusammenfuehren, wenn mehrere Mitarbeiter gleichzeitig Aenderungen gemacht haben? Das Versionskontrollwerkzeug git stellt eine umfassende Loesung fuer solche Fragen bereit. Die Onlineplatform github.com stellt nicht nur Softwareentwicklern weltweit eine git-getriebene Platform zur Verfuegung und erlaubt ihnen effektiv zusammen zu arbeiten. In diesem Workshop lernen wir:
+
+Infuerung in FAIR-Prinzipien im Softwarecontext
+Arbeiten mit git: Pull-requests
+Aufloesen von Merge-Konflikten
+Automatisiertes Archivieren von Inhalten nach Zenodo.org
+Eigene Webseiten auf github.io publizieren
+
+
+Tags: Research Data Management, Fair-Principles, Git, Zenodo
+
+Content type: Slides
+
+[https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
+
+[https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
 ## Lecture Applied Bioimage Analysis 2020
 
-Robert Haase
+['Robert Haase']
 
 
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -359,15 +483,15 @@ Content type: slide
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, conda, mamba
+Tags: Python, Conda, Mamba
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
 
@@ -376,15 +500,15 @@ Content type: blog
 
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
-Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
+['Anjalie Schlaeppi', 'Wilson Adams', 'Robert Haase', 'Jan Huisken', 'Ryan B. MacDonald', 'Kevin W. Eliceiri', 'Elisabeth C. Kugler']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full](https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full)
 
@@ -393,17 +517,17 @@ Content type: publication
 
 ## Multi-view fusion
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -412,34 +536,57 @@ Content type: slide
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
 
 ---
 
+## Open Science, Sharing & Licensing
+
+['Robert Haase']
+
+Published 2024-04-18
+
+Licensed CC-BY-4.0
+
+
+
+Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
+
+Tags: Research Data Management, Open Access, Fair-Principles, Licensing
+
+Content type: Slides
+
+[https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
+
+[https://doi.org/10.5281/zenodo.10990107](https://doi.org/10.5281/zenodo.10990107)
+
+
+---
+
 ## Open microscopy in the life sciences: quo vadis?
 
-Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
+['Johannes Hohlbein', 'Benedict Diederich', 'Barbora Marsikova', 'Emmanuel G. Reynaud', 'Séamus Holden', 'Wiebke Jahr', 'Robert Haase', 'Kirti Prakash']
 
 Published 2022
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
 
-Content type: publication
+Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
 
@@ -448,13 +595,13 @@ Content type: publication
 
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
@@ -465,17 +612,17 @@ Content type: slide
 
 ## Sharing and licensing material
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Introduction to sharing resources online and licensing
 
-Tags: sharing, research data management
+Tags: Sharing, Research Data Management
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -484,17 +631,17 @@ Content type: slide
 
 ## Sharing research data with Zenodo
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Blog post about how to share data using zenodo.org
 
-Tags: sharing, research data management
+Tags: Sharing, Research Data Management
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 
@@ -503,17 +650,17 @@ Content type: blog
 
 ## The Fiji Updater
 
-Robert Haase
+['Robert Haase']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: imagej
+Tags: Imagej
 
-Content type: publication
+Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000112/](https://analyticalscience.wiley.com/do/10.1002/was.0004000112/)
 
@@ -522,17 +669,17 @@ Content type: publication
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -541,15 +688,15 @@ Content type: slide
 
 ## Working with objects in 2D and 3D
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -558,15 +705,15 @@ Content type: slide
 
 ## Working with pixels
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 

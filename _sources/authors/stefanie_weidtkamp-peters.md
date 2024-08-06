@@ -1,4 +1,4 @@
-# Christian schmidt (7)
+# Stefanie weidtkamp-peters (5)
 ## A practical guide to bioimaging research data management in core facilities
 
 ['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
@@ -56,19 +56,21 @@ Content type: Publication
 
 ---
 
-## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
+## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+['Stefanie Weidtkamp-Peters']
 
-Licensed CC-BY-SA-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Content type: Poster, Publication
+Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
 
-[https://archiv.ub.uni-heidelberg.de/volltextserver/29489/](https://archiv.ub.uni-heidelberg.de/volltextserver/29489/)
+Content type: Slides
+
+[https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
 
 ---
@@ -86,44 +88,6 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
-
-
----
-
-## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
-
-['Christian Schmidt']
-
-Licensed CC-BY-4.0
-
-
-
-Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
-
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
-
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
-
-
----
-
-## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
-
-['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
-
-Licensed CC-BY-4.0
-
-
-
-How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
-
-Tags: Research Data Management, Bioimage Analysis, Omero
-
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 
 
 ---

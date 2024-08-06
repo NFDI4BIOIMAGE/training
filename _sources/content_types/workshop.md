@@ -3,9 +3,9 @@
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023](https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023)
 
@@ -16,9 +16,9 @@ Content type: workshop, collection
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
 
@@ -29,9 +29,9 @@ Content type: workshop, collection
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/](https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/)
 
@@ -42,9 +42,9 @@ Content type: workshop, collection
 
 
 
-Tags: bioimage analysis, research data management
+Tags: Bioimage Analysis, Research Data Management
 
-Content type: workshop
+Content type: Workshop
 
 [https://www.dtls.nl/fair-data/byod/](https://www.dtls.nl/fair-data/byod/)
 
@@ -57,9 +57,9 @@ Content type: workshop
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: bioimage analysis, omero, research data management
+Tags: Bioimage Analysis, Omero, Research Data Management
 
-Content type: workshop
+Content type: Workshop
 
 [https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
 
@@ -68,13 +68,13 @@ Content type: workshop
 
 ## Workshop-June2024-Madrid
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: workshop, collection
+Content type: Workshop, Collection
 
 [https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
 
@@ -83,11 +83,11 @@ Content type: workshop, collection
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-Fuchs, Vanessa Aphaia Fiona, Schmidt, Christian, Boissonnet, Tom
+['Fuchs', 'Vanessa Aphaia Fiona', 'Schmidt', 'Christian', 'Boissonnet', 'Tom']
 
 Published 2024-05-06
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -131,9 +131,9 @@ Day 2 - April 30th, 2024
 2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
 2.15 p.m. to 3.00 p.m.: Discussion, Outlook
 
-Tags: research data management, omero
+Tags: Research Data Management, Omero
 
-Content type: workshop, slides, dataset
+Content type: Workshop, Slides, Dataset
 
 [https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 

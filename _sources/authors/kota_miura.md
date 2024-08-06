@@ -1,7 +1,7 @@
 # Kota miura (11)
 ## Analysis of High-Throughput Microscopy Image Data
 
-Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
+['Kota Miura', 'Christoph Schiklenk', 'Clemens Lakner', 'Christian Tischer', 'Aliaksandr Halavatyi']
 
 Published 2014
 
@@ -16,15 +16,15 @@ Licensed unknown
 
 ## Basics of Image Processing and Analysis
 
-Kota Miura
+['Kota Miura']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: book
+Content type: Book
 
 [https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
 
@@ -33,13 +33,13 @@ Content type: book
 
 ## BioImage Data Analysis
 
-Kota Miura
+['Kota Miura']
 
-Licensed All rights reserved
+Licensed all-rights-reserved
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
 Content type: Book
 
@@ -50,15 +50,15 @@ Content type: Book
 
 ## Community-developed checklists for publishing images and image analyses
 
-Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
+['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
 
-Licensed All Rights Reserved
+Licensed all-rights-reserved
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: publication
+Content type: Publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
 
@@ -67,15 +67,15 @@ Content type: publication
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
+['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: meta data
+Tags: Meta Data
 
-Content type: publication, poster
+Content type: Publication, Poster
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
 
@@ -84,7 +84,7 @@ Content type: publication, poster
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-Kota Miura
+['Kota Miura']
 
 Published 2013
 
@@ -92,9 +92,9 @@ Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: tutorial, book
+Content type: Tutorial, Book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
 
@@ -103,17 +103,17 @@ Content type: tutorial, book
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
+['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
 
 Published 2021
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioimage analysis, neubias
+Tags: Bioimage Analysis, Neubias
 
-Content type: publication
+Content type: Publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
 
@@ -122,15 +122,15 @@ Content type: publication
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, tutorial
+Content type: Slide, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -139,15 +139,15 @@ Content type: slide, tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -156,15 +156,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -173,15 +173,15 @@ Content type: slide, code, notebook
 
 ## What is Bioimage Analysis? An Introduction
 
-Kota Miura
+['Kota Miura']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 

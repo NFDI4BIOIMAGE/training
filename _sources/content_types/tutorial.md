@@ -1,15 +1,15 @@
 # Tutorial (16)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-Carolina Wählby, Maxime Bombrun, Christian Tischer
+['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
 Licensed unknown
 
 
 
-Tags: neubias, CellProfiler, bioimage analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
 
@@ -18,11 +18,11 @@ Content type: tutorial
 
 ## Data Carpentry for Biologists
 
-Licensed ['CC BY 4.0', 'MIT']
+Licensed ['CC-BY-4.0', 'MIT']
 
 
 
-Content type: tutorial, code
+Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
 
@@ -31,7 +31,7 @@ Content type: tutorial, code
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-Kota Miura
+['Kota Miura']
 
 Published 2013
 
@@ -39,9 +39,9 @@ Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: tutorial, book
+Content type: Tutorial, Book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
 
@@ -50,11 +50,11 @@ Content type: tutorial, book
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-Kemmer, Isabel, Euro-BioImaging ERIC
+['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -75,9 +75,9 @@ Browsing bioimage repositories
 
 &nbsp;
 
-Tags: bioimage analysis, FAIR-principles, research data management
+Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
-Content type: slides, tutorial
+Content type: Slides, Tutorial
 
 [https://zenodo.org/records/11474407](https://zenodo.org/records/11474407)
 
@@ -88,20 +88,20 @@ Content type: slides, tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-Kemmer, Isabel, Euro-BioImaging ERIC
+['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: bioimage analysis, FAIR-principles, research data management
+Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
-Content type: collection, tutorial
+Content type: Collection, Tutorial
 
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
@@ -112,11 +112,11 @@ Content type: collection, tutorial
 
 ## Galaxy Training Material
 
-Licensed mit
+Licensed MIT
 
 
 
-Content type: slides, tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/galaxyproject/training-material](https://github.com/galaxyproject/training-material)
 
@@ -125,15 +125,15 @@ Content type: slides, tutorial
 
 ## Kreshuk Lab's EMBL EIPP predoc course teaching material
 
-Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona
+['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence
+Tags: Artificial Intelligence
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/kreshuklab/predoc-course](https://github.com/kreshuklab/predoc-course)
 
@@ -146,9 +146,9 @@ Licensed unknown
 
 
 
-Tags: CellProfiler, bioimage analysis
+Tags: Cellprofiler, Bioimage Analysis
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/holgerhennig/machine-learning-IFC](https://github.com/holgerhennig/machine-learning-IFC)
 
@@ -161,9 +161,9 @@ Content type: tutorial
 
 A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
 
-Tags: sharing, citing, research data management
+Tags: Sharing, Citing, Research Data Management
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://coderefinery.github.io/github-without-command-line/doi/](https://coderefinery.github.io/github-without-command-line/doi/)
 
@@ -172,15 +172,15 @@ Content type: tutorial
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, tutorial
+Content type: Slide, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -189,13 +189,13 @@ Content type: slide, tutorial
 
 ## OME-Zarr course
 
-Bugra Oezdemir, Christian Tischer
+['Bugra Oezdemir', 'Christian Tischer']
 
 Licensed unknown
 
 
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://git.embl.de/oezdemir/course_scripts#ome-zarr-course](https://git.embl.de/oezdemir/course_scripts#ome-zarr-course)
 
@@ -204,13 +204,13 @@ Content type: tutorial
 
 ## Setting up a remote desktop to use Napari in a browser
 
-Volker Hilsenstein
+['Volker Hilsenstein']
 
 Licensed unknown
 
 
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/VolkerH/Jupyter-Napari-Desktop](https://github.com/VolkerH/Jupyter-Napari-Desktop)
 
@@ -223,9 +223,9 @@ Content type: tutorial
 
 How to make your Github repository citable by adding a citation.cff file.
 
-Tags: sharing, citing, research data management
+Tags: Sharing, Citing, Research Data Management
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://the-turing-way.netlify.app/communication/citable/citable-cff.html](https://the-turing-way.netlify.app/communication/citable/citable-cff.html)
 
@@ -238,7 +238,7 @@ Licensed unknown
 
 
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/JaneliaSciComp/2020AprilGitCourse](https://github.com/JaneliaSciComp/2020AprilGitCourse)
 
@@ -247,15 +247,15 @@ Content type: tutorial
 
 ## Teaching Bioimage Analysis with Python
 
-Rafael Camacho
+['Rafael Camacho']
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: Python, bioimage analysis
+Tags: Python, Bioimage Analysis
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/CamachoDejay/teaching-bioimage-analysis-python](https://github.com/CamachoDejay/teaching-bioimage-analysis-python)
 
@@ -264,15 +264,15 @@ Content type: tutorial
 
 ## Teaching ImageJ FIJI
 
-Rafael Camacho
+['Rafael Camacho']
 
-Licensed mit
+Licensed MIT
 
 
 
-Tags: Fiji, bioimage analysis
+Tags: Fiji, Bioimage Analysis
 
-Content type: tutorial
+Content type: Tutorial
 
 [https://github.com/CamachoDejay/Teaching-ImageJ-FIJI](https://github.com/CamachoDejay/Teaching-ImageJ-FIJI)
 

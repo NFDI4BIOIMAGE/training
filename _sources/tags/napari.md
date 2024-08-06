@@ -1,13 +1,13 @@
 # Napari (12)
 ## Annotating 3D images in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 
@@ -16,15 +16,15 @@ Content type: blog
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
+['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, bioimage analysis, napari
+Tags: Python, Bioimage Analysis, Napari
 
-Content type: notebook
+Content type: Notebook
 
 [https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
 
@@ -33,15 +33,15 @@ Content type: notebook
 
 ## Bioimage analysis with Napari
 
-Fabrizio Musacchio
+['Fabrizio Musacchio']
 
 Licensed cc-by-nd-sa-4.0
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: collection
+Content type: Collection
 
 [https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/](https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/)
 
@@ -54,9 +54,9 @@ Licensed unknown
 
 
 
-Tags: napari, python, Bioimage analysis
+Tags: Napari, Python, Bioimage Analysis
 
-Content type: collection, video
+Content type: Collection, Video
 
 [https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
 
@@ -67,13 +67,13 @@ Content type: collection, video
 
 ## Feature extraction in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -82,17 +82,17 @@ Content type: blog
 
 ## Intro napari slides
 
-Peter Sobolewski
+['Peter Sobolewski']
 
-Licensed MIT License
+Licensed MIT
 
 
 
 Introduction to napari workshop run at JAX (Spring 2024).
 
-Tags: napari
+Tags: Napari
 
-Content type: slides
+Content type: Slides
 
 [https://thejacksonlaboratory.github.io/intro-napari-slides/#/section](https://thejacksonlaboratory.github.io/intro-napari-slides/#/section)
 
@@ -101,15 +101,15 @@ Content type: slides
 
 ## Open Image Data Handbook
 
-Kevin Yamauchi
+['Kevin Yamauchi']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: neubias, research data management, napari, python, bioimage analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
 
-Content type: book, notebook
+Content type: Book, Notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
@@ -118,17 +118,17 @@ Content type: book, notebook
 
 ## QM Course Lectures on Bio-Image Analysis with napari 2024
 
-Marcelo Leomil Zoccoler
+['Marcelo Leomil Zoccoler']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: napari, python
+Tags: Napari, Python
 
-Content type: notebook
+Content type: Notebook
 
 [https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
 
@@ -137,13 +137,13 @@ Content type: notebook
 
 ## Quality assurance of segmentation results
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -152,13 +152,13 @@ Content type: blog
 
 ## Rescaling images and pixel (an)isotropy
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -167,13 +167,13 @@ Content type: blog
 
 ## Tracking in napari
 
-Mara Lampert
+['Mara Lampert']
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: blog
+Content type: Blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 
@@ -182,13 +182,13 @@ Content type: blog
 
 ## ZEN & Python workshop
 
-Licensed gpl-3.0
+Licensed GPL-3.0
 
 
 
-Tags: python, napari, bioimage analysis
+Tags: Python, Napari, Bioimage Analysis
 
-Content type: collection, notebook
+Content type: Collection, Notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
 

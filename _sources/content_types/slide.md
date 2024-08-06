@@ -1,15 +1,15 @@
 # Slide (39)
 ## Adding a Workflow to BIAFLOWS
 
-Sébastien Tosi, Volker Baecker, Benjamin Pavie
+['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
 
-Licensed bsd-2-clause
+Licensed BSD-2-Clause
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
@@ -18,15 +18,15 @@ Content type: slide
 
 ## Bio Image Analysis
 
-Christian Tischer
+['Christian Tischer']
 
 Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
 
@@ -35,19 +35,19 @@ Content type: slide
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-Wetzker, Cornelia
+['Cornelia Wetzker']
 
 Published 2023-11-08
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+Tags: Research Data Management, Tu Dresden, Bioimage Data, Nfdi4Bioimage
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
@@ -58,19 +58,19 @@ Content type: slide
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-Haase, Robert
+['Robert Haase']
 
 Published 2024-03-13
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Large Language Models, python
+Tags: Large Language Models, Python
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
 
@@ -81,15 +81,15 @@ Content type: slide
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-Estibaliz Gómez-de-Mariscal\
+['Estibaliz Gómez-de-Mariscal\\']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
 
@@ -98,15 +98,15 @@ Content type: slide
 
 ## CellProfiler Introduction
 
-Anna Klemm
+['Anna Klemm']
 
 Licensed unknown
 
 
 
-Tags: neubias, CellProfiler, bioimage analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
@@ -115,15 +115,15 @@ Content type: slide
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: research data management, bio-image analysis, NFDI4BioImage
+Tags: Research Data Management, Bio-Image Analysis, Nfdi4Bioimage
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -132,17 +132,17 @@ Content type: slide
 
 ## Creating open computational curricula
 
-Jordan, Kari, Kamvar, Zhian, Hodges, Toby
+['Kari Jordan', 'Zhian Kamvar', 'Toby Hodges']
 
 Published 2020-12-11
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 In this interactive session, Carpentries team members will guide attendees through three stages of the backward design process to create a lesson development plan for the open source tool of their choosing. Attendees will leave having identified what practical skills they aim to teach (learning objectives), an approach for designing challenge questions (formative assessment), and mechanisms to give and receive feedback.
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/4317149](https://zenodo.org/records/4317149)
 
@@ -153,15 +153,15 @@ Content type: slide
 
 ## DL@MBL 2021 Exercises
 
-Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
+['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide, notebook
+Content type: Slide, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -170,15 +170,15 @@ Content type: slide, notebook
 
 ## Generative artificial intelligence for bio-image analysis
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: python, bioimage analysis, artificial intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -187,19 +187,19 @@ Content type: slide
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-Schmidt, Christian, Bortolomeazzi, Michele, Boissonnet, Tom, Fortmann-Grote, Carsten, Dohle, Julia, Zentis, Peter, Kandpal, Niraj, Kunis, Susanne, Zobel, Thomas, Weidtkamp-Peters, Stefanie, Ferrando-May, Elisa
+['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
 
 Published 2023-11-13
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: omero, research data management, nfdi4bioimage, i3dbio
+Tags: Omero, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: slide, video
+Content type: Slide, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -212,13 +212,13 @@ Content type: slide, video
 
 ## Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services
 
-Aastha Mathur
+['Aastha Mathur']
 
 Licensed unknown
 
 
 
-Content type: slide
+Content type: Slide
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
 
@@ -227,15 +227,15 @@ Content type: slide
 
 ## Image analysis in Galaxy
 
-Beatriz Serrano-Solano, Björn Grüning
+['Beatriz Serrano-Solano', 'Björn Grüning']
 
 Licensed unknown
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
 
@@ -244,15 +244,15 @@ Content type: slide
 
 ## ImageJ Macro Introduction
 
-Anna Klemm
+['Anna Klemm']
 
 Licensed unknown
 
 
 
-Tags: neubias, ImageJ Macro, bioimage analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: slide, code
+Content type: Slide, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -261,15 +261,15 @@ Content type: slide, code
 
 ## ImageJ2 API-beating
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -278,15 +278,15 @@ Content type: slide
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-Robert Haase, Benoit Lombardot
+['Robert Haase', 'Benoit Lombardot']
 
 Licensed unknown
 
 
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -295,15 +295,15 @@ Content type: slide
 
 ## Jupyter for interactive cloud computing
 
-Guillaume Witz
+['Guillaume Witz']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
@@ -312,15 +312,15 @@ Content type: slide
 
 ## Lecture Applied Bioimage Analysis 2020
 
-Robert Haase
+['Robert Haase']
 
 
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: imagej, bioimage analysis
+Tags: Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -329,15 +329,15 @@ Content type: slide
 
 ## Machine Learning - Deep Learning. Applications to Bioimage Analysis
 
-Estibaliz Gómez-de-Mariscal
+['Estibaliz Gómez-de-Mariscal']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
 
@@ -346,15 +346,15 @@ Content type: slide
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-Ignacio Arganda-Carreras
+['Ignacio Arganda-Carreras']
 
 Licensed unknown
 
 
 
-Tags: neubias, artificial intelligence, bioimage analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
 
@@ -363,15 +363,15 @@ Content type: slide
 
 ## Methods in bioimage analysis
 
-Christian Tischer
+['Christian Tischer']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: online tutorial, video, slide
+Content type: Online Tutorial, Video, Slide
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -384,17 +384,17 @@ Content type: online tutorial, video, slide
 
 ## Multi-view fusion
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -403,15 +403,15 @@ Content type: slide
 
 ## NEUBIAS Analyst School 2018
 
-Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
+['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -420,15 +420,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
+['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, tutorial
+Content type: Slide, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -437,15 +437,15 @@ Content type: slide, tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
+['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -454,15 +454,15 @@ Content type: slide, code, notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
+['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide, code, notebook
+Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -471,15 +471,15 @@ Content type: slide, code, notebook
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
+['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
 Licensed unknown
 
 
 
-Tags: Python, neubias, artificial intelligence, bioimage analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: slide, notebook
+Content type: Slide, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -488,19 +488,19 @@ Content type: slide, notebook
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-Floden, Evan, Di Tommaso, Paolo
+['Floden', 'Evan', 'Di Tommaso', 'Paolo']
 
 Published 2020-12-17
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
-Tags: workflow engine
+Tags: Workflow Engine
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
@@ -511,13 +511,13 @@ Content type: slide
 
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
@@ -528,19 +528,19 @@ Content type: slide
 
 ## QuPath: Open source software for analysing (awkward) images
 
-Bankhead, Peter
+['Peter Bankhead']
 
 Published 2020-12-16
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Slides from the CZI/EOSS online meeting in December 2020.
 
-Tags: bioimage analysis
+Tags: Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
 
@@ -551,11 +551,11 @@ Content type: slide
 
 ## Research Data Management Seminar - Slides
 
-Della Chiesa, Stefano
+['Della Chiesa', 'Stefano']
 
 Published 2022-05-18
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
@@ -570,9 +570,9 @@ This Research Data Management (RDM) Slides introduce to the multidisciplinary kn
 
 &nbsp;
 
-Tags: research data management
+Tags: Research Data Management
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
@@ -583,17 +583,17 @@ Content type: slide
 
 ## Sharing and licensing material
 
-Robert Haase
+['Robert Haase']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Introduction to sharing resources online and licensing
 
-Tags: sharing, research data management
+Tags: Sharing, Research Data Management
 
-Content type: slide
+Content type: Slide
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -602,19 +602,19 @@ Content type: slide
 
 ## Thinking data management on different scales
 
-Kunis, Susanne
+['Susanne Kunis']
 
 Published 2023-08-31
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
 Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
-Tags: research data management, NFDI4BioImage
+Tags: Research Data Management, Nfdi4Bioimage
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
 
@@ -625,17 +625,17 @@ Content type: slide
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -644,15 +644,15 @@ Content type: slide
 
 ## What is Bioimage Analysis? An Introduction
 
-Kota Miura
+['Kota Miura']
 
 Licensed unknown
 
 
 
-Tags: neubias, bioimage analysis
+Tags: Neubias, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 
@@ -661,15 +661,15 @@ Content type: slide
 
 ## Working with objects in 2D and 3D
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -678,15 +678,15 @@ Content type: slide
 
 ## Working with pixels
 
-Robert Haase
+['Robert Haase']
 
-Licensed BSD 3-Clause
+Licensed BSD-3-Clause
 
 
 
-Tags: neubias, imagej, bioimage analysis
+Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 
@@ -695,15 +695,15 @@ Content type: slide
 
 ## ZIDAS 2020 Introduction to Deep Learning
 
-Estibaliz Gómez-de-Mariscal
+['Estibaliz Gómez-de-Mariscal']
 
 Licensed unknown
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 
@@ -712,15 +712,15 @@ Content type: slide
 
 ## ilastik: interactive machine learning for (bio)image analysis
 
-Anna Kreshuk, Dominik Kutra
+['Anna Kreshuk', 'Dominik Kutra']
 
-Licensed cc-by-4.0
+Licensed CC-BY-4.0
 
 
 
-Tags: artificial intelligence, bioimage analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: slide
+Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 
