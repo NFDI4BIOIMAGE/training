@@ -7,6 +7,7 @@ parts:
   - caption: Contributing
     chapters:
     - file: contributing/index
+    - file: contributing/index_2
     - file: contributing/format
 
   - caption: By tag
