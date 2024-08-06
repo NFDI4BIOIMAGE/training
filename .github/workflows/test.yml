@@ -23,6 +23,10 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    # Run data normalizer
+    - name: Run data normalizer
+      run: |
+        python scripts/data_normalizer.py
 
     # Build the book
     - name: Build the book
@@ -30,3 +34,4 @@ jobs:
         python scripts/generate_link_lists.py
         python scripts/export_csv.py
         jupyter-book build docs/
+
