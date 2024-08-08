@@ -505,3 +505,20 @@ resources:
   type:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
+- authors: Zoccoler, Marcelo
+  description: 'These slides were presented on Day 3 of the &nbsp;BioImage Analysis
+    and Data Processing Workshop 2024, which took place in VMCF Microscopy Facility,
+    Vinicna 7, Prague, Czechia.
+  
+    &nbsp;
+  
+    They introduce napari and explain how to perform a few common bio-image analysis
+    tasks by means of some napari-plugins.'
+  license: cc-by-4.0
+  name: Bio-Image Analysis with napari
+  num_downloads: 26
+  publication_date: '2024-08-08'
+  url:
+  - https://zenodo.org/records/13268811
+  - https://doi.org/10.5281/zenodo.13268811
+  
