@@ -3,3 +3,6 @@ sphinx-book-theme<1.0.0
 matplotlib
 numpy
 pandas
+pygithub
+toolz
+
