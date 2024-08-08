@@ -1,3 +1,6 @@
+# This file contains utility functions using the github API via github-python:
+# https://github.com/PyGithub/PyGithub (licensed LGPL3)
+# Adapted from https://github.com/haesleinhuepf/git-bob/blob/main/src/git_bob/_github_utilities.py 
 import os
 from functools import lru_cache
 
