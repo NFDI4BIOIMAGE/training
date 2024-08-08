@@ -4,7 +4,9 @@ This repository contains lists of training materials. It is extensible using git
 
 # Quick contributing short-cut:
 
-If you're too busy to enter everything in detail yourself, please just create a [github issue](https://github.com/NFDI4BIOIMAGE/training/issues) with a link to the materials you want to include in our list. We can take of all the details.
+If you're too busy to enter everything in detail yourself, please just create a [github issue](https://github.com/NFDI4BIOIMAGE/training/issues) with a link to the materials you want to include in our list. 
+We can take of all the details.
+If it is a link to a zenodo record, please only paste that link into the text field and no additional explanation. These links are processed automatically then.
 
 ## What to contribute
 
