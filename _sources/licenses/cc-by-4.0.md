@@ -1,4 +1,4 @@
-# Cc-by-4.0 (103)
+# Cc-by-4.0 (104)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -2002,6 +2002,25 @@ Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
+
+
+---
+
+## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
+
+['Josh Moore']
+
+Published 2024-05-26
+
+Licensed CC-BY-4.0
+
+
+
+Presentation made to the GBI Image Data Management Working Group during the 7th Exchange of Experience in Uruguay.
+
+[https://zenodo.org/records/11318151](https://zenodo.org/records/11318151)
+
+[https://doi.org/10.5281/zenodo.11318151](https://doi.org/10.5281/zenodo.11318151)
 
 
 ---
