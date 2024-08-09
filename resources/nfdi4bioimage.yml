@@ -581,7 +581,7 @@ resources:
   url:
   - https://zenodo.org/records/13168693
   - https://doi.org/10.5281/zenodo.13168693
-  - authors: Geiger, Jonathan, Steiner, Petra, Desouki, Abdelmoneim Amer, Lange, Frank
+- authors: Geiger, Jonathan, Steiner, Petra, Desouki, Abdelmoneim Amer, Lange, Frank
   description: 'The DALIA (Data Literacy Alliance) project aims to develop a knowledge
     graph for FAIR teaching and learning materials on data literacy, data competencies
     and research data management (RDM) skills within the National Research Data Infrastructure
