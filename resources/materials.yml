@@ -347,8 +347,7 @@ resources:
     Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III,
     Kevin W. Eliceiri, Beth A. Cimini
   license: BSD 3-Clause
-  name: "A biologist\u2019s guide to planning and performing quantitative bioimaging\
-    \ experiments"
+  name: A biologist’s guide to planning and performing quantitative bioimaging experiments
   type:
   - collection
   - publication
@@ -501,7 +500,7 @@ resources:
   type:
   - documentation
   url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
-- authors: "Caterina Fuster-Barcel\xF3"
+- authors: Caterina Fuster-Barceló
   license: unknown
   name: AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
   tags:
@@ -715,8 +714,8 @@ resources:
   - bioimage analysis
   type: book
   url: https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282
-- authors: "Marion Louveaux, St\xE9phane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras,\
-    \ Estibaliz G\xF3mez-de-Mariscal, Kota Miura, et al."
+- authors: Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras,
+    Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
   license: unknown
   name: NEUBIAS Bioimage Analyst School 2020
   tags:
@@ -727,8 +726,8 @@ resources:
   - code
   - notebook
   url: https://github.com/miura/NEUBIAS_AnalystSchool2020
-- authors: "Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein,\
-    \ Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Si\xE2n Culley, et al."
+- authors: Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein,
+    Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
   license: unknown
   name: NEUBIAS Bioimage Analyst School 2019
   tags:
@@ -820,7 +819,7 @@ resources:
   type:
   - notebook
   url: https://github.com/karinsasaki/metabolic-networks-modelling
-- authors: "Carolina W\xE4hlby, Maxime Bombrun, Christian Tischer"
+- authors: Carolina Wählby, Maxime Bombrun, Christian Tischer
   license: unknown
   name: CellProfiler Practical NeuBIAS Lisbon 2017
   tags:
@@ -928,11 +927,11 @@ resources:
   type:
   - tutorial
   url: https://github.com/JaneliaSciComp/2020AprilGitCourse
-- authors: "Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn,\
-    \ Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hern\xE1ndez-p\xE9rez, Pieta\
-    \ Mattila, Eleni Karinou, S\xE9amus Holden, Ahmet Can Solak, Alexander Krull,\
-    \ Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier,\
-    \ Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques"
+- authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
+    Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni
+    Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz,
+    Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian
+    Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
   license: mit
   name: 'ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source
     toolbox for Deep-Learning in microscopy'
@@ -943,7 +942,7 @@ resources:
   - https://github.com/HenriquesLab/ZeroCostDL4Mic
   - https://www.nature.com/articles/s41467-021-22518-0
   - https://doi.org/10.1038/s41467-021-22518-0
-- authors: "Iv\xE1n Hidalgo, et al."
+- authors: Iván Hidalgo, et al.
   license: cc-by-4.0
   name: DL4MicEverywhere
   type:
@@ -996,8 +995,8 @@ resources:
   url: https://github.com/ahklemm/CellProfiler_Introduction
 - authors: Martin Weigert
   license: unknown
-  name: "CARE/Stardist tutorials for EMBO Practical Course \u2014 Computational optical\
-    \ biology 2022"
+  name: CARE/Stardist tutorials for EMBO Practical Course — Computational optical
+    biology 2022
   tags:
   - Python
   - artificial intelligence
@@ -1005,7 +1004,7 @@ resources:
   type:
   - notebook
   url: https://github.com/maweigert/embo_2022
-- authors: "Martin Weigert, Olivier Burri, Si\xE2n Culley, Uwe Schmidt"
+- authors: Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
   license: unknown
   name: 'Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist'
   tags:
@@ -1079,7 +1078,7 @@ resources:
   - https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/
   - https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1
   - https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view
-- authors: "Estibaliz G\xF3mez-de-Mariscal\\"
+- authors: Estibaliz Gómez-de-Mariscal\
   license: unknown
   name: Building a Bioimage Analysis Workflow using Deep Learning
   tags:
@@ -1088,7 +1087,7 @@ resources:
   type:
   - slide
   url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
-- authors: "Estibaliz G\xF3mez-de-Mariscal"
+- authors: Estibaliz Gómez-de-Mariscal
   license: unknown
   name: ZIDAS 2020 Introduction to Deep Learning
   tags:
@@ -1097,7 +1096,7 @@ resources:
   type:
   - slide
   url: https://github.com/esgomezm/zidas2020_intro_DL
-- authors: "Estibaliz G\xF3mez-de-Mariscal"
+- authors: Estibaliz Gómez-de-Mariscal
   license: unknown
   name: Machine Learning - Deep Learning. Applications to Bioimage Analysis
   tags:
@@ -1221,14 +1220,14 @@ resources:
   url:
   - https://f1000research.com/slides/11-1171
   - https://doi.org/10.7490/f1000research.1119154.1
-- authors: "Beatriz Serrano-Solano, Bj\xF6rn Gr\xFCning"
+- authors: Beatriz Serrano-Solano, Björn Grüning
   license: unknown
   name: Image analysis in Galaxy
   tags:
   - bioimage analysis
   type: slide
   url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
-- authors: "Se\u0301bastien Tosi, Volker Baecker, Benjamin Pavie"
+- authors: Sébastien Tosi, Volker Baecker, Benjamin Pavie
   license: bsd-2-clause
   name: Adding a Workflow to BIAFLOWS
   tags:
@@ -1265,8 +1264,8 @@ resources:
   - book
   - notebook
   url: https://kevinyamauchi.github.io/open-image-data/intro.html
-- authors: "Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard\
-    \ M\xFCller, Robert Haase"
+- authors: Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard
+    Müller, Robert Haase
   license: cc-by-4.0
   name: Bio-image analysis, biostatistics, programming and machine learning for computational
     biology
@@ -1371,7 +1370,7 @@ resources:
   - python
   type:
   - notebook
-  url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024 
+  url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024
 - authors: Beth Cimini, Florian Jug, QI 2024
   description: This book contains the quantitative analysis labs for the QI CSHL course,
     2024
@@ -1417,8 +1416,8 @@ resources:
   - https://zenodo.org/records/10654775
   - https://doi.org/10.5281/zenodo.10654775
 - authors: Moore, Josh
-  description: "Keynote at the NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
-    \ October 16, 2023."
+  description: Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany,
+    October 16, 2023.
   license: cc-by-4.0
   name: '[N4BI AHM] Welcome to BioImage Town'
   num_downloads: 96
@@ -1577,7 +1576,7 @@ resources:
   url:
   - https://zenodo.org/records/11066250
   - https://doi.org/10.5281/zenodo.11066250
-- authors: "Estibaliz G\xF3mez de Mariscal"
+- authors: Estibaliz Gómez de Mariscal
   description: Introduction to FAIR deep learning. Furthermore, tools to deploy trained
     DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs)
     ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source
@@ -1795,7 +1794,7 @@ resources:
   - poster
   url: https://doi.org/10.5281/zenodo.8434325
 - authors:
-  - "St\xF6ter, Torsten"
+  - Stöter, Torsten
   - Gottschall, Tobias
   - Schrader, Andrea
   - Zentis, Peter
@@ -1804,7 +1803,7 @@ resources:
   - Zuschratter, Werner
   - Schauss, Astrid
   - Dickscheid, Timo
-  - "M\xFChlhaus, Timo"
+  - Mühlhaus, Timo
   - von Suchodoletz, Dirk
   description: Interdisciplinary collaboration and integrating large, diverse datasets
     are crucial for answering complex research questions, requiring multimodal data
@@ -1823,13 +1822,13 @@ resources:
   - poster
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
 - authors: Josh Moore
-  description: "For decades, the sharing of large N-dimensional datasets has posed\
-    \ issues across multiple domains. Interactively accessing terabyte-scale data\
-    \ has previously required significant server resources to properly prepare cropped\
-    \ or down-sampled representations on the fly. Now, a cloud-native chunked format\
-    \ easing this burden has been adopted in the bioimaging domain for standardization.\
-    \ The format \u2014 Zarr \u2014 is potentially of interest for other consortia\
-    \ and sections of NFDI."
+  description: For decades, the sharing of large N-dimensional datasets has posed
+    issues across multiple domains. Interactively accessing terabyte-scale data has
+    previously required significant server resources to properly prepare cropped or
+    down-sampled representations on the fly. Now, a cloud-native chunked format easing
+    this burden has been adopted in the bioimaging domain for standardization. The
+    format — Zarr — is potentially of interest for other consortia and sections of
+    NFDI.
   license: Creative Commons Attribution 4.0 International
   name: '[CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large
     Arrays'
@@ -1873,11 +1872,11 @@ resources:
   - slides
   url: https://zenodo.org/doi/10.5281/zenodo.11109615
 - authors: Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
-  description: "The presentations introduce open-source software to read in, visualize\
-    \ and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed\
-    \ for life scientists. The slides were presented at German Bioimaging (GerBI)\
-    \ FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M\xFC\
-    nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker. "
+  description: 'The presentations introduce open-source software to read in, visualize
+    and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed
+    for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM
+    Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by
+    Anca Margineanu, Chiara Stringari and Conni Wetzker. '
   license: Creative Commons Attribution 4.0 International
   name: A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and
     napari-flim-phasor-plotter
@@ -2033,7 +2032,7 @@ resources:
   url:
   - https://zenodo.org/records/10816895
   - https://doi.org/10.5281/zenodo.10816895
-- authors: "Hesse, Elfi, Deinert, Jan-Christoph, L\xF6schen, Christian"
+- authors: Hesse, Elfi, Deinert, Jan-Christoph, Löschen, Christian
   description: Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe
     &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin
     Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum
@@ -2051,7 +2050,7 @@ resources:
   url:
   - https://zenodo.org/records/4461261
   - https://doi.org/10.5281/zenodo.4461261
-- authors: "W\xFCnsche, Stephan"
+- authors: Wünsche, Stephan
   description: 'Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten,
     an deren Entstehung mehrere Personen beteiligt waren, und besonders bei Textdaten,
     Bildern und Videos. Hier lernen Sie, f&uuml;r Ihr eigenes Forschungsvorhaben zu
@@ -2063,7 +2062,7 @@ resources:
 
     &nbsp;'
   license: cc-by-4.0
-  name: "Alles meins \u2013 oder!? Urheberrechte kl\xE4ren f\xFCr Forschungsdaten"
+  name: Alles meins – oder!? Urheberrechte klären für Forschungsdaten
   num_downloads: 35
   publication_date: '2024-06-04'
   tags:
@@ -2082,8 +2081,8 @@ resources:
     teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten
     Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;'
   license: cc-by-4.0
-  name: "So geschlossen wie n\xF6tig, so offen wie m\xF6glich - Datenschutz beim Umgang\
-    \ mit Forschungsdaten"
+  name: So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit
+    Forschungsdaten
   num_downloads: 30
   publication_date: '2024-05-30'
   tags:
@@ -2095,7 +2094,7 @@ resources:
   url:
   - https://zenodo.org/records/11396199
   - https://doi.org/10.5281/zenodo.11396199
-- authors: "W\xFCnsche, Stephan, Voigt, Pia"
+- authors: Wünsche, Stephan, Voigt, Pia
   description: 'Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe
     &quot;Einblicke ins Forschungsdatenmanagement&quot; erstellt. Diese findet seit
     dem SS 2020 an der Universit&auml;t Leipzig f&uuml;r alle Interessierten zu verschiedenen
@@ -2108,8 +2107,8 @@ resources:
     Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der
     guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.'
   license: cc-by-4.0
-  name: "Einblicke ins Forschungsdatenmanagement - Darf ich das ver\xF6ffentlichen?\
-    \ Rechtsfragen im Umgang mit Forschungsdaten"
+  name: Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen
+    im Umgang mit Forschungsdaten
   num_downloads: 243
   publication_date: '2021-05-11'
   tags:
@@ -2142,7 +2141,7 @@ resources:
     steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen
     solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.'
   license: cc-by-4.0
-  name: "Datenmanagementpl\xE4ne erstellen - Teil 1"
+  name: Datenmanagementpläne erstellen - Teil 1
   num_downloads: 340
   publication_date: '2021-03-23'
   tags:
@@ -2182,7 +2181,7 @@ resources:
     Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden
     und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.'
   license: cc-by-4.0
-  name: "Datenmanagementpl\xE4ne erstellen - Teil 2"
+  name: Datenmanagementpläne erstellen - Teil 2
   num_downloads: 271
   publication_date: '2021-03-30'
   tags:
@@ -2192,8 +2191,8 @@ resources:
   url:
   - https://zenodo.org/records/4748534
   - https://doi.org/10.5281/zenodo.4748534
-- authors: "Weiner, Barbara, W\xFCnsche, Stephan, K\xFChne, Stefan, Voigt, Pia, Frericks,\
-    \ Sebastian, Hoffmann, Clemens, Elze, Romy, Gey, Ronny"
+- authors: Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks,
+    Sebastian, Hoffmann, Clemens, Elze, Romy, Gey, Ronny
   description: 'Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche
     des Forschungsdatenmanagements an der Universit&auml;t Leipzig. Behandelt werden
     Grundlagen des Forschungsdatenmanagements, technische, ethische und rechtliche
@@ -2215,11 +2214,12 @@ resources:
   url:
   - https://zenodo.org/records/3778431
   - https://doi.org/10.5281/zenodo.3778431
-
 - authors: Robert Haase
   license: Creative Commons Attribution 4.0 International
-  name: "Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI"
-  description: "These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024."
+  name: Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+  description: These are the PPTx training resources for Students at Uni Leipzig who
+    want to dive into bio-image data science with Python. The material developed here
+    between April and July 2024.
   tags:
   - bioimage analysis
   - deep learning
@@ -2227,12 +2227,13 @@ resources:
   - python
   type:
   - slides
-  url: https://zenodo.org/records/12623730 
-
+  url: https://zenodo.org/records/12623730
 - authors: Robert Haase
   license: Creative Commons Attribution 4.0 International
-  name: "BIDS-lecture-2024"
-  description: "Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024."
+  name: BIDS-lecture-2024
+  description: Training resources for Students at Uni Leipzig who want to dive into
+    bio-image data science with Python. The material developed here between April
+    and July 2024.
   tags:
   - bioimage analysis
   - deep learning
@@ -2240,30 +2241,51 @@ resources:
   - python
   type:
   - github repository
-  url: https://github.com/ScaDS/BIDS-lecture-2024/ 
-
+  url: https://github.com/ScaDS/BIDS-lecture-2024/
 - authors: Kate Hertweck, Carly Strasser, Dario Taraborelli
   license: Creative Commons Attribution 4.0 International
-  name: "Insights and Impact From Five Cycles of Essential Open Source Software for Science"
-  description: "Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields."
-  tags: 
+  name: Insights and Impact From Five Cycles of Essential Open Source Software for
+    Science
+  description: Open source software (OSS) is essential for advancing scientific discovery,
+    particularly in biomedical research, yet funding to support these vital tools
+    has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software
+    for Science (EOSS) program has significantly contributed to this field by providing
+    $51.8 million in funding over five years to support the maintenance, growth, and
+    community engagement of critical OSS tools. The program has impacted scientific
+    OSS projects by improving their technical outputs, community building, and sustainability
+    practices, and fostering collaborations within the OSS community. Additionally,
+    EOSS funding has enhanced diversity, equity, and inclusion within the OSS community,
+    although changes in principal investigator demographics were not observed. The
+    funded projects have had a substantial impact on biomedical research by improving
+    the usability and accessibility of scientific software, which has led to increased
+    adoption and advancements in various biomedical fields.
+  tags:
   - open source software
   - funding
   - sustainability
   type:
   - report
   url: https://zenodo.org/records/11201216
-
 - authors: Heidi Seibold
   license: Creative Commons Attribution 4.0 International
-  name: "6 Steps Towards Reproducible Research"
-  description: "A short book with 6 steps that get you closer to making your work reproducible."
-  tags: 
+  name: 6 Steps Towards Reproducible Research
+  description: A short book with 6 steps that get you closer to making your work reproducible.
+  tags:
   - reproducibility
   - research data management
   type:
   - book
-  url: https://zenodo.org/records/12744715 
-  
-
-
+  url: https://zenodo.org/records/12744715
+- authors: Robert Haase
+  license: CC-BY-4.0
+  name: Generative Artificial Intelligence Notebooks
+  description: A collection of Jupyter Notebooks about Generative Artificial Intelligence
+    (GenAI) - focusing on how to use certain techniques using Python. It aims at Python
+    programmers who want to dive into GenAI for generating text, code and images using
+    commerical and open source/weights models.
+  tags:
+  - Artificial Intelligence
+  type:
+  - Collection
+  - Notebook
+  url: https://scads.github.io/generative-ai-notebooks/intro.html
