@@ -521,4 +521,64 @@ resources:
   url:
   - https://zenodo.org/records/13268811
   - https://doi.org/10.5281/zenodo.13268811
+  - authors: "Moore, Joshua, Kunis, Susanne, Gr\xFCning, Bj\xF6rn, Blank-Burian, Markus,\
+    \ Mallm, Jan-Philipp, St\xF6ter, Torsten, Zuschratter, Werner, Figge, Marc Thilo,\
+    \ Kreshuk, Anna, Tischer, Christian, Haase, Robert, Zobel, Thomas, Bauer, Pavol,\
+    \ Svensson, Carl-Magnus, Gerst, Ruman, Hanne, Janina, Schmidt, Christian, Becker,\
+    \ Markus M., Bocklitz, Thomas, Bumberger, Jan, Chalopin, Claire, Chen, Jianxu, Czodrowski,\
+    \ Paul, Dickscheid, Timo, Fortmann-Grote, Carsten, Huisken, Jan, Lohmann, Jan, Schauss,\
+    \ Astrid, Baumann, Martin, Beretta, Carlo, Burel, Jean-Marie, Heuveline, Vincent,\
+    \ Kuner, Rohini, Kuner, Thomas, Landwehr, Matthias, Leibfried, Andrea, Nitschke,\
+    \ Roland, Mittal, Deepti, von Suchodoletz, Dirk, Valencia-Schneider, Monica, Zentis,\
+    \ Peter, Brilhaus, Dominik, Hartley, Matthew, H\xFClsmann, Bastian, Dunker, Susanne,\
+    \ Keppler, Antje, Mathur, Aastha, Meesters, Christian, M\xF6bius, Wiebke, Nahnsen,\
+    \ Sven, Pfander, Claudia, Rehwald, Stephanie, Serrano-Solano, Beatriz, Vilardell\
+    \ Scholten, Laura, Vogl, Raimund, Becks, Lutz, Ferrando-May, Elisa, Weidtkamp-Peters,\
+    \ Stefanie"
+  description: 'Bioimaging refers to a collection of methods to visualize the internal
+    structures and mechanisms of living organisms. The fundamental tool, the microscope,
+    has enabled seminal discoveries like that of the cell as the smallest unit of life,
+    and continues to expand our understanding of biological processes. Today, we can
+    follow the interaction of single molecules within nanoseconds in a living cell,
+    and the development of complete small organisms like fish and flies over several
+    days starting from the fertilized egg. Each image pixel encodes multiple spatiotemporal
+    and spectral dimensions, compounding the massive volume and complexity of bioimage
+    data. Proper handling of this data is indispensable for analysis and its lack has
+    become a growing hindrance for the many disciplines of the life and biomedical sciences
+    relying on bioimaging. No single domain has the expertise to tackle this bottleneck
+    alone.
+  
+    As a method-specific consortium, NFDI4BIOMAGE seeks to address these issues, enabling
+    bioimaging data to be shared and re-used like they are acquired, i.e., independently
+    of disciplinary boundaries. We will provide solutions for exploiting the full information
+    content of bioimage data and enable new discoveries through sharing and re-analysis.
+    Our RDM strategy is based on a robust needs analysis that derives not only from
+    a community survey but also from over a decade of experience in German BioImaging,
+    the German Society for Microscopy and Image Analysis. It considers the entire lifecycle
+    of bioimaging data, from acquisition to archiving, including analysis and enabling
+    re-use. A foundational element of this strategy is the definition of a common, cloud-compatible,
+    and interoperable digital object that bundles binary images with their descriptive
+    and provenance metadata. With members from plant biology to neuroscience, NFDI4BIOIMAGE
+    will champion the standardization of bioimage data to create a framework that answers
+    discipline-specific needs while ensuring communication and interoperability with
+    data types and RDM systems across domains. Integration of bioimage data with, e.g.,
+    omics data as the basis for spatial omics, holds great promise for fields such as
+    cancer medicine. Unlocking the full potential of bioimage data will rely on the
+    development and broad availability of exceptional analysis tools and training sets.
+    NFDI4BIOIMAGE will make these accessible and usable including cutting-edge AI-based
+    methods in scalable cloud environments. NFDI4BIOIMAGE intersects with multiple NFDI
+    consortia, most prominently with GHGA for linking image and genomics data and with
+    DataPLANT on the definition of FAIR data objects. Last but not least, NFDI4BIOIMAGE
+    is internationally well connected and represents the opportunity for German scientists
+    to keep path with and have a voice in several international initiatives focusing
+    on the FAIRification of bioimage data as one of the main challenges for the advancement
+    of knowledge in the life and biomedical sciences.'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and Bioimage
+    Analysis
+  num_downloads: 212
+  publication_date: '2024-08-07'
+  url:
+  - https://zenodo.org/records/13168693
+  - https://doi.org/10.5281/zenodo.13168693
   
