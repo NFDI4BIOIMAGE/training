@@ -1,4 +1,4 @@
-# Cc-by-4.0 (102)
+# Cc-by-4.0 (103)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -153,6 +153,27 @@ Tags: Research Data Management, Bioimage Analysis
 Content type: Publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio-Image Analysis with napari
+
+['Marcelo Zoccoler']
+
+Published 2024-08-08
+
+Licensed CC-BY-4.0
+
+
+
+These slides were presented on Day 3 of the &nbsp;BioImage Analysis and Data Processing Workshop 2024, which took place in VMCF Microscopy Facility, Vinicna 7, Prague, Czechia.
+&nbsp;
+They introduce napari and explain how to perform a few common bio-image analysis tasks by means of some napari-plugins.
+
+[https://zenodo.org/records/13268811](https://zenodo.org/records/13268811)
+
+[https://doi.org/10.5281/zenodo.13268811](https://doi.org/10.5281/zenodo.13268811)
 
 
 ---
