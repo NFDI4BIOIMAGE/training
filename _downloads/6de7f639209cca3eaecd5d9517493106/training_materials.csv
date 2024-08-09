@@ -1,1 +1,168 @@
 name,authors,url,tags,license,description
+"If you license it, it’ll be harder to steal it. Why we should license our work",Robert Haase,https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/,"Licensing, Research Data Management",CC-BY-4.0,Blog post about why we should license our work and what is important when choosing a license.
+Sharing research data with Zenodo,Robert Haase,https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/,"Sharing, Research Data Management",CC-BY-4.0,Blog post about how to share data using zenodo.org
+Collaborative bio-image analysis script editing with git,Robert Haase,https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/,"Sharing, Research Data Management",CC-BY-4.0,"Introduction to version control using git for collaborative, reproducible script editing."
+Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data,Susanne Kunis,"['https://zenodo.org/record/7018929', 'https://doi.org/10.5281/zenodo.7018929']","Nfdi4Bioimage, Research Data Management",CC-BY-4.0,"guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+
+which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+
+You can also watch the video in the browser on the I3D:bio website."
+Sharing Your Poster on Figshare: A Community Guide to How-To and Why,Elisabeth Kugler,https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/,"Sharing, Research Data Management",nan,
+Running Deep-Learning Scripts in the BiA-PoL Omero Server,Marcelo Zoccoler,https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html,"Python, Artificial Intelligence, Bioimage Analysis",CC-BY-4.0,
+Browsing the Open Microscopy Image Data Resource with Python,Robert Haase,https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html,"Omero, Python",CC-BY-4.0,
+Getting started with Mambaforge and Python,Mara Lampert,https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html,"Python, Conda, Mamba",CC-BY-4.0,
+Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility,Jennifer Waters,https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility,Research Data Management,nan,
+Data handling in large-scale electron microscopy,Job Fermie,https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy,Research Data Management,nan,
+Tracking in napari,Mara Lampert,https://focalplane.biologists.com/2023/06/01/tracking-in-napari/,"Python, Napari, Bioimage Analysis",nan,
+Feature extraction in napari,Mara Lampert,https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/,"Python, Napari, Bioimage Analysis",nan,
+Annotating 3D images in napari,Mara Lampert,https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/,"Python, Napari, Bioimage Analysis",nan,
+"Managing Scientific Python environments using Conda, Mamba and friends",Robert Haase,https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/,"Python, Conda, Mamba",CC-BY-4.0,
+Quality assurance of segmentation results,Mara Lampert,https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/,"Python, Napari, Bioimage Analysis",nan,
+Rescaling images and pixel (an)isotropy,Mara Lampert,https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/,"Python, Napari, Bioimage Analysis",nan,
+How to write a bug report,Mara Lampert,https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/,"Github, Python, Science Communication",nan,
+Prompt Engineering in Bio-image Analysis,Mara Lampert,https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/,"Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob",nan,
+BioImage Analysis Notebooks,Robert Haase et al.,https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html,"Python, Bioimage Analysis","CC-BY-4.0, BSD-3-Clause",
+Introduction to Bioimage Analysis,Pete Bankhead,https://bioimagebook.github.io/index.html,"Python, Imagej, Bioimage Analysis",CC-BY-4.0,
+CellProfiler tutorials,nan,https://github.com/CellProfiler/tutorials,"Cellprofiler, Bioimage Analysis",BSD-3-Clause,"CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control"
+ONBI Image Analysis Course,"Mark Jenkinson, Jens Rittscher, Dominic Waithe",https://github.com/dwaithe/ONBI_image_analysis,"Python, Bioimage Analysis",GPL-2.0,This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
+A Fiji Scripting Tutorial,Albert Cardona,https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/,"Imagej, Bioimage Analysis",cc0,
+Image processing with Python,Guillaume Witz,https://github.com/guiwitz/Python_image_processing,Python,MIT,"Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package."
+Deep Learning Based Segmentation For Biologists,nan,https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/,"Python, R, Artificial Intelligence",AGPL-3.0,
+ZEN & Python workshop,nan,https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop,"Python, Napari, Bioimage Analysis",GPL-3.0,
+Making your project citable,nan,https://coderefinery.github.io/github-without-command-line/doi/,"Sharing, Citing, Research Data Management",nan,A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
+Software Citation with CITATION.cff,nan,https://the-turing-way.netlify.app/communication/citable/citable-cff.html,"Sharing, Citing, Research Data Management",nan,How to make your Github repository citable by adding a citation.cff file.
+"I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training","Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May","['https://zenodo.org/records/8323588', 'https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU', 'https://doi.org/10.5281/zenodo.8323588']","Omero, Research Data Management, Nfdi4Bioimage, I3Dbio",CC-BY-4.0,"The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community."
+EPFLx: Image Processing and Analysis for Life Scientists,nan,https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists,Bioimage Analysis,all-rights-reserved,
+IAFIG-RMS Python for Bioimage Analysis Course,"Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen",https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis,Bioimage Analysis,GPL-3.0,
+Fundamentals in digital image processing,Guillaume Witz,https://github.com/guiwitz/Fundamentals_image_processing,Bioimage Analysis,unknown,
+numpy pandas course,Guillaume Witz,https://github.com/guiwitz/NumpyPandas_course,Python,BSD-3-Clause,
+NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter,nan,https://github.com/guiwitz/neubias_academy_biapy,"Python, Neubias, Bioimage Analysis",BSD-3-Clause,
+Python for Microscopists,Sreenivas Bhattiprolu,https://github.com/bnsreenu/python_for_microscopists,"Python, Bioimage Analysis",MIT,
+Setting up a remote desktop to use Napari in a browser,Volker Hilsenstein,https://github.com/VolkerH/Jupyter-Napari-Desktop,nan,unknown,
+Teaching Bioimage Analysis with Python,Rafael Camacho,https://github.com/CamachoDejay/teaching-bioimage-analysis-python,"Python, Bioimage Analysis",MIT,
+Teaching ImageJ FIJI,Rafael Camacho,https://github.com/CamachoDejay/Teaching-ImageJ-FIJI,"Fiji, Bioimage Analysis",MIT,
+"Fundamentals of image analysis in Python with scikit-image, napari, and friends",Juan Nunez-Iglesias,https://github.com/jni/halfway-to-i2k-skimage-napari,"Python, Bioimage Analysis",BSD-3-Clause,
+"Image analysis and visualization in Python with scikit-image, napari, and friends",Juan Nunez-Iglesias,https://github.com/scipy-2023-image-analysis/tutorial,"Python, Bioimage Analysis",BSD-3-Clause,
+Dask Course,Guillaume Witz,https://github.com/guiwitz/DaskCourse,"Python, Bioimage Analysis, Big Data",unknown,
+Course on Deep Learning for imaging using PyTorch,Guillaume Witz,https://github.com/guiwitz/DLImaging,"Python, Bioimage Analysis, Artificial Intelligence",unknown,
+2022 MIC Workshop on Bioimage processing with Python,Guillaume Witz,https://github.com/guiwitz/MICPy_Workshop_2022,"Python, Bioimage Analysis",unknown,
+NEUBIAS Bioimage Analyst Course 2017,"Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.",https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017,"Neubias, Bioimage Analysis",unknown,
+NEUBIAS Bioimage Analyst School 2020,"Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.",https://github.com/miura/NEUBIAS_AnalystSchool2020,"Neubias, Bioimage Analysis",unknown,
+NEUBIAS Bioimage Analyst School 2019,"Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.",https://github.com/miura/NEUBIAS_AnalystSchool2019,"Neubias, Bioimage Analysis",unknown,
+NEUBIAS Analyst School 2018,"Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid",https://github.com/miura/NEUBIAS_AnalystSchool2018,"Neubias, Bioimage Analysis",unknown,
+EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus,Kota Miura,https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf,"Neubias, Bioimage Analysis",unknown,
+Materials for EMBL Coding Club Mini-Tutorials,"Jonas Hartmann, et al.","['https://github.com/WhoIsJack/EMBL-CodingClub', 'https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/']",Python,unknown,
+Python Workshop - Image Processing,"Karin Sasaki, Jonas Hartmann",https://github.com/karinsasaki/python-workshop-image-processing,Python,unknown,
+Metabolic networks modelling with COBRApy,"Karin Sasaki, Aleksej Zelezniak",https://github.com/karinsasaki/metabolic-networks-modelling,Python,unknown,
+CellProfiler Practical NeuBIAS Lisbon 2017,"Carolina Wählby, Maxime Bombrun, Christian Tischer",https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017,"Neubias, Cellprofiler, Bioimage Analysis",unknown,
+Data Carpentry for Biologists,nan,https://datacarpentry.org/semester-biology/,nan,"CC-BY-4.0, MIT",
+EMBL Deep Learning course 2019 exercises and materials,"Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma",https://github.com/kreshuklab/teaching-dl-course-2019,"Python, Artificial Intelligence",unknown,
+EMBL Deep Learning course 2023 exercises and materials,"Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona",https://github.com/kreshuklab/teaching-dl-course-2023,"Python, Artificial Intelligence",unknown,
+EMBL Deep Learning course 2021/22 exercises and materials,"Martin Weigert, Constantin Pape",https://github.com/kreshuklab/teaching-dl-course-2022,"Python, Artificial Intelligence",unknown,
+Deep Vision and Graphics,"Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina",https://github.com/yandexdataschool/deep_vision_and_graphics,"Python, Artificial Intelligence",MIT,
+Kreshuk Lab's EMBL EIPP predoc course teaching material,"Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona",https://github.com/kreshuklab/predoc-course,Artificial Intelligence,unknown,
+Source Control Using Git and GitHub,nan,https://github.com/JaneliaSciComp/2020AprilGitCourse,nan,unknown,
+ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy,"Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques","['https://github.com/HenriquesLab/ZeroCostDL4Mic', 'https://www.nature.com/articles/s41467-021-22518-0', 'https://doi.org/10.1038/s41467-021-22518-0']",nan,MIT,
+DL4MicEverywhere,"Iván Hidalgo, et al.",https://github.com/HenriquesLab/DL4MicEverywhere,nan,CC-BY-4.0,
+CellTrackColab,Guillaume Jacquemet,"['https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2', 'https://github.com/guijacquemet/CellTracksColab']",nan,MIT,
+Image processing for beginners,Guillaume Witz,https://github.com/guiwitz/PyImageCourse_beginner,"Python, Bioimage Analysis",BSD-3-Clause,
+CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022,Martin Weigert,https://github.com/maweigert/embo_2022,"Python, Artificial Intelligence, Bioimage Analysis",unknown,
+Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist,"Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt",https://github.com/maweigert/neubias_academy_stardist,"Python, Neubias, Artificial Intelligence, Bioimage Analysis",unknown,
+CSBDeep and StarDist @ I2K 2020,"Martin Weigert, Uwe Schmidt",https://github.com/maweigert/stardist-i2k,"Python, Artificial Intelligence, Bioimage Analysis",unknown,
+Deep Learning for image analysis - Exercises,Martin Weigert,https://github.com/maweigert/zidas_2020_DL_intro_Part_2,"Fiji, Artificial Intelligence, Bioimage Analysis",unknown,
+Machine Learning Workflow for Imaging Flow Cytometry (IFC),nan,https://github.com/holgerhennig/machine-learning-IFC,"Cellprofiler, Bioimage Analysis",unknown,
+Methods in bioimage analysis,Christian Tischer,"['https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/', 'https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1', 'https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view']",Bioimage Analysis,CC-BY-4.0,
+DL@MBL 2021 Exercises,"Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan",https://github.com/JLrumberger/DL-MBL-2021,"Artificial Intelligence, Bioimage Analysis",unknown,
+Galaxy Training Material,nan,https://github.com/galaxyproject/training-material,nan,MIT,
+OME-Zarr course,"Bugra Oezdemir, Christian Tischer",https://git.embl.de/oezdemir/course_scripts#ome-zarr-course,nan,unknown,
+DEEP NAPARI : Napari as a tool for deep learning project management,"Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet",https://github.com/hereariim/DEEP-NAPARI,"Artificial Intelligence, Bioimage Analysis",unknown,
+Open Image Data Handbook,Kevin Yamauchi,https://kevinyamauchi.github.io/open-image-data/intro.html,"Neubias, Research Data Management, Napari, Python, Bioimage Analysis",CC-BY-4.0,
+"Bio-image analysis, biostatistics, programming and machine learning for computational biology","Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase",https://github.com/BiAPoL/Bio-image_Analysis_with_Python,"Python, Bioimage Analysis, Napari",CC-BY-4.0,
+PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis,"Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert and Robert Haase",https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/,"Gpu, Clesperanto, Dask, Python",CC-BY-4.0,"This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium."
+Bio-image Data Science,"Robert Haase, ScaDS.AI Dresden/Leipzig",https://github.com/ScaDS/BIDS-lecture-2024,"Image Data Management, Deep Learning, Microscopy Image Analysis, Python",CC-BY-4.0,This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+Introduction to Deep Learning for Microscopy,"Costantin Pape, computational-cell-analytics",https://github.com/computational-cell-analytics/dl-for-micro,"Deep Learning, Pytorch, Segmentation, Python",MIT,This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
+QM Course Lectures on Bio-Image Analysis with napari 2024,Marcelo Leomil Zoccoler,https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024,"Napari, Python",CC-BY-4.0,"In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins."
+QI 2024 Analysis Lab Manual,"Beth Cimini, Florian Jug, QI 2024",https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html,"Segmentation, Python",CC-BY-4.0,"This book contains the quantitative analysis labs for the QI CSHL course, 2024"
+Microscopy data analysis: machine learning and the BioImage Archive,"Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans",https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/,"Microscopy Image Analysis, Python, Deep Learning",CC-BY-4.0,"The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023."
+Euro-BioImaging's Template for Research Data Management Plans,"Kemmer, Isabel, Euro-BioImaging ERIC","['https://zenodo.org/records/11473803', 'https://doi.org/10.5281/zenodo.11473803']","Bioimage Analysis, Fair-Principles, Research Data Management",CC-BY-4.0,"Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
+This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;"
+Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks,"Kemmer, Isabel, Euro-BioImaging ERIC","['https://zenodo.org/records/11474407', 'https://doi.org/10.5281/zenodo.11474407']","Bioimage Analysis, Fair-Principles, Research Data Management",CC-BY-4.0,"Hands-on exercises on FAIR Bioimage Data from the interactive online workshop ""Euro-BioImaging's Guide to FAIR BioImage Data 2024"" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
+Types of tasks included:
+
+FAIR characteristics of a real world dataset
+Data Management Plan (DMP)
+Journal Policies on FAIR data sharing
+Ontology search
+Metadata according to REMBI scheme
+
+(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
+
+
+Matching datasets to bioimage repositories
+Browsing bioimage repositories
+
+&nbsp;"
+NEUBIAS YouTube Channel,nan,https://www.youtube.com/neubias,Neubias,nan,A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
+DigitalSreeni YouTube Channel,Sreeni Bhattiprolu,"['https://www.youtube.com/digitalsreeni', 'https://www.youtube.com/watch?v=A4po9z61TME']",Python,nan,"A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning"
+Global BioImaging YouTube channel,nan,https://www.youtube.com/GlobalBioImaging,nan,nan,
+Bio Image Analysis Lecture 2020,nan,https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U,Bioimage Analysis,nan,
+Open Microscopy Environment YouTube channel,nan,https://www.youtube.com/OpenMicroscopyEnvironment,Omero,nan,"YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins."
+Euro-BioImaging Communication YouTube Channel,nan,https://www.youtube.com/c/eurobioimagingcommunication,nan,nan,
+Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set,nan,https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/,Bioimage Analysis,cc-by-nc-nd-3.0-deed,
+COBA: Center for Open Bioimage Analysis YouTube Channel,nan,https://www.youtube.com/@cobacenterforopenbioimagea1864,Bioimage Analysis,nan,
+Melbourne Advanced Microscopy Facility,nan,https://www.youtube.com/@melbourneadvancedmicroscop2617,Bioimage Analysis,nan,Collection of tutorial videos for Fiji users
+Fiji Is Just ImageJ Tutorials,nan,https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb,Bioimage Analysis,nan,
+Imaris Tutorials,nan,https://imaris.oxinst.com/tutorials,Bioimage Analysis,all-rights-reserved,
+arivis Vision4D Tutorials,nan,https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0,Bioimage Analysis,all-rights-reserved,
+RDMBites BioImage metadata,nan,https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1,nan,nan,
+How to get started with Jupyter and Colab,nan,https://www.youtube.com/watch?v=OH3VKI7ErAE,nan,nan,
+Chris Halvin YouTube channel,nan,"['https://www.youtube.com/@chrishavlin', 'https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1']","Napari, Python, Bioimage Analysis",unknown,
+RDM4mic,nan,['https://www.youtube.com/@RDM4mic'],"Research Data Management, Omero",unknown,
+FAIR BioImage Data,nan,['https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm'],"Research Data Management, Fair, Bioimage Analysis",creative-commons-/-attribution-4.0-international-(cc-by-4.0),
+PoL Bio-Image Analysis GPU Accelerated Image Analysis Training School,nan,https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html,"Bioimage Analysis, Python",nan,
+PoL Bio-Image Analysis Early Career Bio-image Analysis Training School,nan,https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html,"Bioimage Analysis, Python",nan,
+[Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO,"Fuchs, Vanessa Aphaia Fiona, Schmidt, Christian, Boissonnet, Tom","['https://zenodo.org/records/11109616', 'https://doi.org/10.5281/zenodo.11109616']","Research Data Management, Omero",CC-BY-4.0,"Description
+Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
+In this workshop, participants learn how to use structured metadata annotations in the image data management platform OMERO (OME Remote Objects) to optimize their data handling. This strategy helps both with organizing data for easier processing and analysis and for the preparation of data publication in journal manuscripts and in public repositories such as the BioImage Archive. Participants learn the principles of leveraging object-oriented data organization in OMERO to enhance findability and usability of their data, also in collaborative settings. The integration of OMERO with image analysis tools, in particular ImageJ/Fiji, will be trained. Moreover, users learn about community-accepted metadata checklists (REMBI) to enrich the value of their data toward reproducibility and reusability. In this workshop, we will provide hands-on training and recommendations on:
+
+Structured metadata annotation features in OMERO and how to use them
+Types of metadata in bioimaging: Technical metadata, sample metadata, analysis metadata
+The use of ontologies and terminologies for metadata annotation
+REMBI, the recommended metadata for biological images
+Metadata-assisted image analysis streamlining
+Tools for metadata annotation in OMERO
+
+The target group for this workshop
+This workshop is directed at researchers at all career levels who have started using OMERO for their microscopy research data management. We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
+Who are the trainers (see trainer description below for more details)
+
+Dr. Vanessa Fuchs (NFDI4BIOIMAGE Data Steward, Center for Advanced Imaging, Heinrich-Heine University of D&uuml;sseldorf)
+Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced Imaging, Heinrich-Heine University of D&uuml;sseldorf)
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg)
+
+Material Description
+Published here are the presentation slides that were used for input from the trainers during the different sessions of the programme. Additionally, a Fiji Macro is published that depends on the OMERO Extensions Plugin by Pouchin et al, 2022, F100Research, https://doi.org/10.12688/f1000research.110385.2&nbsp;
+Programme Overview
+Day 1 - April 29th, 2024&nbsp;09.00 a.m. to 10.00 a.m.: Session 1 - Welcome and Introduction
+10.00 a.m. to 10.30 a.m.:&nbsp; Session 2 - Introduction to the FAIR principles &amp; data annotation
+10:30 a.m. to 10:45 a.m.: Coffee break
+10.45 a.m. to 12.00 a.m.: Session 3 - Data structure (datasets in OMERO) and organization with Tags&nbsp;
+12.00 a.m. to 1.00 p.m.:&nbsp; Lunch Break
+1.00 p.m. to 2.00 p.m.:&nbsp; Session 4 - REMBI, Key-Value pair annotations in bioimaging
+2:00 p.m. to 2.30 p.m.:&nbsp; Session 5 - Ontologies for Key-Value Pairs in OMERO
+2:30 p.m. to 2:45 p.m. Coffee break
+2.45 p.m. to 3.45 p.m.:&nbsp; Wrap-up, discussion, outlook on day 2
+Day 2 - April 30th, 2024
+09.00 a.m. to 09.30 a.m.:&nbsp; Arrival and Start into day 2
+09.30 a.m. to 11.30 a.m.:&nbsp; Session 6 - Hands-on : REMBI-based Key-Value Pair annotation in OMERO
+11.30 a.m. to 12.30 a.m.:&nbsp; Lunch Break
+12.30 a.m. to 1.15 p.m.: Session 7 - OMERO and OMERO.plugins
+1.15 p.m. to 2.00 p.m.: Session 8 - Loading OMERO-hosted data into Fiji
+2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
+2.15 p.m. to 3.00 p.m.: Discussion, Outlook"
+Bring your own data workshops,nan,https://www.dtls.nl/fair-data/byod/,"Bioimage Analysis, Research Data Management",nan,
+Workshop-June2024-Madrid,nan,https://github.com/bioimage-io/Workshop-June2024-Madrid,Bioimage Analysis,MIT,
+Bio-image Analysis Workshop Taipei,nan,https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/,Bioimage Analysis,nan,
+Bio-image Analysis Workshop Kioto and Taipei 23/24,nan,https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24,Bioimage Analysis,nan,
+Bio-image Analysis ICOB 2023,nan,https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023,Bioimage Analysis,nan,
+Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging,nan,https://indico.dkfz.de/event/1022/,"Bioimage Analysis, Omero, Research Data Management",nan,"Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM"
