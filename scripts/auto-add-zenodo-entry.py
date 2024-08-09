@@ -23,7 +23,7 @@ def main():
     
     # read data from zenodo
     zenodo_data_dict = complete_zenodo_data(zenodo_url)
-    zenodo_yml = "- " + yaml.dump(zenodo_data_dict).replace("\n", "\n  ")
+    zenodo_yml = "\n- " + yaml.dump(zenodo_data_dict).replace("\n", "\n  ")
 
     # read "database"
     branch = create_branch(repository)
