@@ -10,27 +10,6 @@ def load_yaml_data(file_path):
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
 
-# Define a normalization mapping for specific terms
-normalization_mapping = {
-    "Bsd 2-Clause": "BSD-2-Clause",
-    "Bsd-2-Clause": "BSD-2-Clause",
-    "Bsd 3-Clause": "BSD-3-Clause",
-    "Bsd-3-Clause": "BSD-3-Clause",
-    "Cc By 4.0": "CC-BY-4.0",
-    "Cc-By 4.0": "CC-BY-4.0",
-    "Cc-By-4.0": "CC-BY-4.0",
-    "Creative Commons / Attribution 4.0 International (Cc By 4.0)": "CC-BY-4.0",
-    "Creative Commons Attribution 4.0 International": "CC-BY-4.0",
-    "Bio-Image Analysis": "Bioimage Analysis",
-    "Unclear": "Unknown"
-    # Add more mappings as needed
-}
-
-# Function to normalize strings using the mapping
-def normalize_string(s):
-    s = s.title()  # Convert to Title Case first
-    return normalization_mapping.get(s, s)  # Replace with mapped value if it exists
-
 # Function to dynamically get unique tags, types, and licenses from YAML files
 def get_unique_values_from_yamls(resources_dir):
     unique_tags = set()
@@ -45,26 +24,23 @@ def get_unique_values_from_yamls(resources_dir):
                 # Handle 'tags'
                 tags = entry.get('tags', [])
                 if isinstance(tags, list):
-                    normalized_tags = [normalize_string(tag) for tag in tags]
-                    unique_tags.update(normalized_tags)
+                    unique_tags.update(tags)
                 else:
-                    unique_tags.add(normalize_string(tags))
+                    unique_tags.add(tags)
 
                 # Handle 'type'
                 type_ = entry.get('type', 'Unknown')
                 if isinstance(type_, list):
-                    normalized_types = [normalize_string(t) for t in type_]
-                    unique_types.update(normalized_types)
+                    unique_types.update(type_)
                 else:
-                    unique_types.add(normalize_string(type_))
+                    unique_types.add(type_)
 
                 # Handle 'license'
                 license_ = entry.get('license', 'Unknown')
                 if isinstance(license_, list):
-                    normalized_licenses = [normalize_string(l) for l in license_]
-                    unique_licenses.update(normalized_licenses)
+                    unique_licenses.update(license_)
                 else:
-                    unique_licenses.add(normalize_string(license_))
+                    unique_licenses.add(license_)
 
     return sorted(unique_tags), sorted(unique_types), sorted(unique_licenses)
 
@@ -157,7 +133,7 @@ with st.form(key='submission_form'):
 if submit_button:
     # Combine the tags from both inputs
     if tags_input:
-        entered_tags = [normalize_string(tag.strip()) for tag in tags_input.split(',') if tag.strip()]
+        entered_tags = [tag.strip() for tag in tags_input.split(',') if tag.strip()]
         tags.extend(entered_tags)
     
     # Ensure all tags are unique and sorted
