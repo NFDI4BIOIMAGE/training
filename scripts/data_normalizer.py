@@ -1,10 +1,26 @@
 import os
+import re
 import yaml
 import requests
 
-
 # URL to fetch license data in JSON format
 SPDX_LICENSE_LIST_URL = "https://spdx.org/licenses/licenses.json"
+
+# Define a normalization mapping for specific terms
+normalization_mapping = {
+    "Bsd 2-Clause": "BSD-2-Clause",
+    "Bsd-2-Clause": "BSD-2-Clause",
+    "Bsd 3-Clause": "BSD-3-Clause",
+    "Bsd-3-Clause": "BSD-3-Clause",
+    "Cc By 4.0": "CC-BY-4.0",
+    "Cc-By 4.0": "CC-BY-4.0",
+    "Cc-By-4.0": "CC-BY-4.0",
+    "Creative Commons / Attribution 4.0 International (Cc By 4.0)": "CC-BY-4.0",
+    "Creative Commons Attribution 4.0 International": "CC-BY-4.0",
+    "Bio-Image Analysis": "Bioimage Analysis",
+    "Unclear": "Unknown"
+    # Add more mappings as needed
+}
 
 def fetch_spdx_licenses():
     """
@@ -19,7 +35,6 @@ def fetch_spdx_licenses():
     Raises:
         Exception: If the licenses cannot be fetched.
     """
-
     response = requests.get(SPDX_LICENSE_LIST_URL)
     if response.status_code == 200:
         spdx_data = response.json()
@@ -40,9 +55,12 @@ def normalize_license(license_name, spdx_licenses):
     Returns:
         str: The normalized license name.
     """
-
+    # Apply the normalization mapping first
+    license_name = normalization_mapping.get(license_name, license_name)
+    
+    # Normalize the license name to match SPDX format
     license_name_lower = license_name.lower().strip().replace(" ", "-")
-    return spdx_licenses.get(license_name_lower, license_name_lower)
+    return spdx_licenses.get(license_name_lower, license_name)
 
 def normalize_field(field):
     """
@@ -166,6 +184,24 @@ def normalize_author_list(authors):
 
     return normalized_authors
 
+def normalize_description_date_time(description):
+    """
+    Normalizes a date/time string by removing unwanted Unicode characters and ensuring the format is correct.
+
+    Args:
+        description (str): The description containing the date/time.
+
+    Returns:
+        str: The normalized date/time string.
+    """
+    # Remove unwanted Unicode characters
+    normalized_description = re.sub(r'\xE2\u20AC\xAF', '', description)
+    
+    # Add a space between time and AM/PM if not present
+    normalized_description = re.sub(r'(\d)(AM|PM)', r'\1 \2', normalized_description)
+
+    return normalized_description 
+
 def normalize_data(data, spdx_licenses):
     """
     Normalizes the license names, authors, type, and tags in the data.
@@ -230,6 +266,9 @@ def normalize_data(data, spdx_licenses):
 
         if 'type' in item:
             item['type'] = normalize_type(item['type'])
+
+        if 'description' in item:
+            item['description'] = normalize_description_date_time(item['description'])
 
     return data
 
