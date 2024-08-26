@@ -28,7 +28,7 @@ df['license'] = df['license'].apply(array_to_string)
 
 # filter type by by
 def contains_filter_word(text, words):
-    return any(word in text for word in words)
+    return any(str(word).lower() in str(text).lower() for word in words)
 df = df[df['type'].apply(lambda x: contains_filter_word(x, filter_types))]
 
 # select columns

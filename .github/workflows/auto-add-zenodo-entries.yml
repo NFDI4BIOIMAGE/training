@@ -1,0 +1,35 @@
+name: auto-add-zenodo-entries
+
+on:
+  issues:
+    types: opened
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Print issue number
+      run: |  
+        echo "Issue Number - ${{ github.event.issue.number }}"
+        echo "Repository Name - ${{ github.repository }}"
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Python
+      env:
+        GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_RUN_ID: "${{ github.run_id }}"
+      run: |
+        python scripts/auto-add-zenodo-entry.py ${{ github.repository }} ${{ github.event.issue.number }}
