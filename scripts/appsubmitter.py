@@ -5,18 +5,35 @@ import yaml
 import time
 from pathlib import Path
 
-# Function to load YAML data from a file
 def load_yaml_data(file_path):
+    """
+    Load YAML data from a file.
+
+    Args:
+        file_path (str): Path to the YAML file.
+
+    Returns:
+        dict: Parsed YAML data.
+    """
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
+    
 
-# Function to dynamically get unique tags, types, and licenses from YAML files
 def get_unique_values_from_yamls(resources_dir):
+
+    """
+    Get unique tags, types, and licenses from YAML files.
+
+    Args:
+        resources_dir (str): Directory containing YAML files.
+
+    Returns:
+        tuple: Sorted lists of unique tags, types, and licenses.
+    """
     unique_tags = set()
     unique_types = set()
     unique_licenses = set()
 
-    # Iterate over all YAML files in the resources directory
     for yaml_file in Path(resources_dir).glob('*.yml'):
         yaml_data = load_yaml_data(yaml_file)
         if 'resources' in yaml_data:
@@ -44,12 +61,29 @@ def get_unique_values_from_yamls(resources_dir):
 
     return sorted(unique_tags), sorted(unique_types), sorted(unique_licenses)
 
-# Function to dynamically list YAML files
+
 def get_yaml_files(resources_dir):
-    yaml_files = sorted([str(yaml_file.name) for yaml_file in Path(resources_dir).glob('*.yml')])
-    return yaml_files
+    """
+    List YAML files in a directory.
+
+    Args:
+        resources_dir (str): Directory containing YAML files.
+
+    Returns:
+        list: Sorted list of YAML file names.
+    """
+    return sorted([str(yaml_file.name) for yaml_file in Path(resources_dir).glob('*.yml')])
 
 def authenticate_with_github():
+    """
+    Authenticate with GitHub using the API key from environment variables.
+
+    Returns:
+        tuple: Authenticated GitHub instance and repository object.
+
+    Raises:
+        Exception: If authentication fails.
+    """
     GITHUB_API_KEY = os.getenv('GITHUB_API_KEY')
     if not GITHUB_API_KEY:
         st.error("GitHub API Key is not set in the environment variables.")
@@ -65,6 +99,24 @@ def authenticate_with_github():
     return g, repo
 
 def create_pull_request(g, repo, yaml_file, authors, license, name, description, tags, type_, url):
+    """
+    Create a pull request to add a new entry to a YAML file on GitHub.
+
+    Args:
+        g (Github): Authenticated GitHub instance.
+        repo (Repository): Repository object.
+        yaml_file (str): YAML file to update.
+        authors (str): Authors of the new entry.
+        license (str): License of the new entry.
+        name (str): Name of the new entry.
+        description (str): Description of the new entry.
+        tags (list): Tags for the new entry.
+        type_ (str): Type of the new entry.
+        url (str): URL of the new entry.
+
+    Raises:
+        Exception: If the pull request creation fails.
+    """
     try:
         file_path = f"resources/{yaml_file}"
         file_contents = repo.get_contents(file_path)
@@ -116,27 +168,23 @@ with st.form(key='submission_form'):
     name = st.text_input("Name")
     description = st.text_area("Description")
     
-    # Existing tags are displayed in a multiselect widget
     tags = st.multiselect("Tags", unique_tags)
     
-    # "Add tags" input is now placed below the "Tags" multiselect
     tags_input = st.text_input("Add tags which are not in the select list (comma separated)", "")
 
     type_ = st.multiselect("Types", unique_types)
     url = st.text_input("URL")
     
-    # Use dynamically retrieved YAML files in the selectbox
+
     yaml_file = st.selectbox("YAML File", ["Select a YAML file"] + yaml_files)
     
     submit_button = st.form_submit_button(label='Submit')
 
 if submit_button:
-    # Combine the tags from both inputs
     if tags_input:
         entered_tags = [tag.strip() for tag in tags_input.split(',') if tag.strip()]
         tags.extend(entered_tags)
     
-    # Ensure all tags are unique and sorted
     tags = sorted(set(tags))
     
     if not license or yaml_file == "Select a YAML file":
