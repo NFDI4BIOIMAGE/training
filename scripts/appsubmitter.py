@@ -1,28 +1,54 @@
-import streamlit as st
 import os
-from github import Github
 import yaml
 import time
+from github import Github
+import streamlit as st
 from pathlib import Path
+import pandas as pd
 
 def load_yaml_data(file_path):
     """
-    Load YAML data from a file.
+    Load YAML data from a file and modify it based on certain conditions.
 
     Args:
         file_path (str): Path to the YAML file.
 
     Returns:
-        dict: Parsed YAML data.
+        dict: Parsed and possibly modified YAML data.
     """
-    with open(file_path, 'r') as file:
-        return yaml.safe_load(file)
+    with open(file_path, 'r', encoding="utf8") as file:
+        data = yaml.safe_load(file)
+        
+        # Check for 'url' in data and append 'zenodo' to tags if the condition is met
+        if "url" in data and "zenodo" in str(data["url"]).lower():
+            if 'tags' in data and isinstance(data['tags'], list):
+                data["tags"].append("zenodo")
+            else:
+                data['tags'] = ["zenodo"]
+        
+        return data
     
 
-def get_unique_values_from_yamls(resources_dir):
-
+def all_content(directory_path):
     """
-    Get unique tags, types, and licenses from YAML files.
+    Load all YAML data from a directory into a list of dictionaries.
+
+    Args:
+        directory_path (str): Path to the directory containing YAML files.
+
+    Returns:
+        list: List of all resources dictionaries from all YAML files.
+    """
+    resources = []
+    for yaml_file in Path(directory_path).glob('*.yml'):
+        yaml_data = load_yaml_data(yaml_file)
+        if 'resources' in yaml_data:
+            resources.extend(yaml_data['resources'])
+    return {'resources': resources}
+
+def get_unique_values_from_yamls(resources_dir):
+    """
+    Get unique tags, types, and licenses from YAML files using pandas for data processing.
 
     Args:
         resources_dir (str): Directory containing YAML files.
@@ -30,36 +56,20 @@ def get_unique_values_from_yamls(resources_dir):
     Returns:
         tuple: Sorted lists of unique tags, types, and licenses.
     """
-    unique_tags = set()
-    unique_types = set()
-    unique_licenses = set()
+    content = all_content(resources_dir)
+    df = pd.DataFrame(content['resources'])
 
-    for yaml_file in Path(resources_dir).glob('*.yml'):
-        yaml_data = load_yaml_data(yaml_file)
-        if 'resources' in yaml_data:
-            for entry in yaml_data['resources']:
-                # Handle 'tags'
-                tags = entry.get('tags', [])
-                if isinstance(tags, list):
-                    unique_tags.update(tags)
-                else:
-                    unique_tags.add(tags)
+    # Handle cases where 'tags', 'type', and 'license' might not be present or not lists
+    df['tags'] = df['tags'].apply(lambda x: x if isinstance(x, list) else [])
+    df['type'] = df['type'].apply(lambda x: [x] if isinstance(x, str) else x if isinstance(x, list) else ['Unknown'])
+    df['license'] = df['license'].apply(lambda x: [x] if isinstance(x, str) else x if isinstance(x, list) else ['Unknown'])
 
-                # Handle 'type'
-                type_ = entry.get('type', 'Unknown')
-                if isinstance(type_, list):
-                    unique_types.update(type_)
-                else:
-                    unique_types.add(type_)
+    # Extract unique values
+    unique_tags = sorted(set(tag for sublist in df['tags'] for tag in sublist))
+    unique_types = sorted(set(t for sublist in df['type'] for t in sublist))
+    unique_licenses = sorted(set(l for sublist in df['license'] for l in sublist))
 
-                # Handle 'license'
-                license_ = entry.get('license', 'Unknown')
-                if isinstance(license_, list):
-                    unique_licenses.update(license_)
-                else:
-                    unique_licenses.add(license_)
-
-    return sorted(unique_tags), sorted(unique_types), sorted(unique_licenses)
+    return unique_tags, unique_types, unique_licenses
 
 
 def get_yaml_files(resources_dir):
@@ -74,36 +84,34 @@ def get_yaml_files(resources_dir):
     """
     return sorted([str(yaml_file.name) for yaml_file in Path(resources_dir).glob('*.yml')])
 
-def authenticate_with_github():
+
+def get_github_repository(repository):
     """
-    Authenticate with GitHub using the API key from environment variables.
+    Get the GitHub repository object.
+
+    Args:
+        repository (str): The full name of the GitHub repository (e.g., "username/repo-name").
 
     Returns:
-        tuple: Authenticated GitHub instance and repository object.
-
-    Raises:
-        Exception: If authentication fails.
+        github.Repository.Repository: The GitHub repository object.
     """
-    GITHUB_API_KEY = os.getenv('GITHUB_API_KEY')
-    if not GITHUB_API_KEY:
-        st.error("GitHub API Key is not set in the environment variables.")
-        st.stop()
+    
+    access_token = os.getenv('GITHUB_API_KEY')
+    
+    if not access_token:
+        raise Exception("GitHub API Key is not set in the environment variables.")
 
-    try:
-        g = Github(GITHUB_API_KEY)
-        repo = g.get_repo("NFDI4BIOIMAGE/training")
-    except Exception as e:
-        st.error(f"Failed to authenticate with GitHub: {e}")
-        st.stop()
+    # Create a PyGithub instance using the access token
+    g = Github(access_token)
 
-    return g, repo
+    # Get and return the repository object
+    return g.get_repo(repository)
 
-def create_pull_request(g, repo, yaml_file, authors, license, name, description, tags, type_, url):
+def create_pull_request(repo, yaml_file, authors, license, name, description, tags, type_, url):
     """
     Create a pull request to add a new entry to a YAML file on GitHub.
 
     Args:
-        g (Github): Authenticated GitHub instance.
         repo (Repository): Repository object.
         yaml_file (str): YAML file to update.
         authors (str): Authors of the new entry.
@@ -148,6 +156,7 @@ def create_pull_request(g, repo, yaml_file, authors, license, name, description,
     except Exception as e:
         st.error(f"Failed to update YAML file and create pull request: {e}")
 
+
 # Path to resources directory
 resources_dir = Path('..') / 'resources'
 
@@ -157,7 +166,8 @@ unique_tags, unique_types, unique_licenses = get_unique_values_from_yamls(resour
 # Get list of YAML files dynamically
 yaml_files = get_yaml_files(resources_dir)
 
-g, repo = authenticate_with_github()
+# Directly get the GitHub repository object
+repo = get_github_repository("NFDI4BIOIMAGE/training")
 
 st.title("GitHub Training Materials Submission")
 st.markdown("Welcome to the GitHub Training Materials Submission app! Please fill in the details below and click 'Submit'. Thank you for your contribution!")
@@ -175,7 +185,6 @@ with st.form(key='submission_form'):
     type_ = st.multiselect("Types", unique_types)
     url = st.text_input("URL")
     
-
     yaml_file = st.selectbox("YAML File", ["Select a YAML file"] + yaml_files)
     
     submit_button = st.form_submit_button(label='Submit')
@@ -190,4 +199,4 @@ if submit_button:
     if not license or yaml_file == "Select a YAML file":
         st.error("Please make sure all selections are made.")
     else:
-        create_pull_request(g, repo, yaml_file, authors, license, name, description, tags, type_, url)
+        create_pull_request(repo, yaml_file, authors, license, name, description, tags, type_, url)
