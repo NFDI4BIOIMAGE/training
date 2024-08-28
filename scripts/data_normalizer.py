@@ -15,8 +15,9 @@ normalization_mapping = {
     "Cc By 4.0": "CC-BY-4.0",
     "Cc-By 4.0": "CC-BY-4.0",
     "Cc-By-4.0": "CC-BY-4.0",
-    "Creative Commons / Attribution 4.0 International (Cc By 4.0)": "CC-BY-4.0",
+    "Creative Commons / Attribution 4.0 International (CC BY 4.0)": "CC-BY-4.0",
     "Creative Commons Attribution 4.0 International": "CC-BY-4.0",
+    "CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)": "CC0",
     "Bio-Image Analysis": "Bioimage Analysis",
     "Unclear": "Unknown"
     # Add more mappings as needed
@@ -46,21 +47,27 @@ def fetch_spdx_licenses():
 
 def normalize_license(license_name, spdx_licenses):
     """
-    Normalizes a license name.
+    Normalizes a license name and converts it to uppercase.
 
     Args:
         license_name (str): The name of the license to be normalized.
         spdx_licenses (dict): A dictionary of available licenses.
 
     Returns:
-        str: The normalized license name.
+        str: The normalized license name in uppercase.
     """
     # Apply the normalization mapping first
     license_name = normalization_mapping.get(license_name, license_name)
     
     # Normalize the license name to match SPDX format
     license_name_lower = license_name.lower().strip().replace(" ", "-")
-    return spdx_licenses.get(license_name_lower, license_name)
+    
+    # Get the normalized license from SPDX list or keep the original
+    normalized_license = spdx_licenses.get(license_name_lower, license_name)
+    
+    # Convert the normalized license to uppercase
+    return normalized_license.upper()
+
 
 def normalize_field(field):
     """
