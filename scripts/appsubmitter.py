@@ -62,7 +62,7 @@ def get_unique_values_from_yamls(resources_dir):
     # Handle cases where 'tags', 'type', and 'license' might not be present or not lists
     df['tags'] = df['tags'].apply(lambda x: x if isinstance(x, list) else [])
     df['type'] = df['type'].apply(lambda x: [x] if isinstance(x, str) else x if isinstance(x, list) else ['Unknown'])
-    df['license'] = df['license'].apply(lambda x: [x] if isinstance(x, str) else x if isinstance(x, list) else ['Unknown'])
+    df['license'] = df['license'].apply(lambda x: [x] if isinstance(x, str) else x if isinstance(x, list) else [])
 
     # Extract unique values
     unique_tags = sorted(set(tag for sublist in df['tags'] for tag in sublist))
@@ -101,10 +101,8 @@ def get_github_repository(repository):
     if not access_token:
         raise Exception("GitHub API Key is not set in the environment variables.")
 
-    # Create a PyGithub instance using the access token
     g = Github(access_token)
 
-    # Get and return the repository object
     return g.get_repo(repository)
 
 def create_pull_request(repo, yaml_file, authors, license, name, description, tags, type_, url):
