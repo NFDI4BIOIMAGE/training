@@ -1,4 +1,4 @@
-# Cc-by-4.0 (104)
+# Cc-by-4.0 (105)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -1901,6 +1901,25 @@ Tags: Research Data Management, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8329305](https://zenodo.org/doi/10.5281/zenodo.8329305)
+
+
+---
+
+## Towards Preservation of Life Science Data with NFDI4BIOIMAGE
+
+['Robert Haase']
+
+Published 2024-08-29
+
+Licensed CC-BY-4.0
+
+
+
+This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
+
+[https://zenodo.org/records/13506641](https://zenodo.org/records/13506641)
+
+[https://doi.org/10.5281/zenodo.13506641](https://doi.org/10.5281/zenodo.13506641)
 
 
 ---
