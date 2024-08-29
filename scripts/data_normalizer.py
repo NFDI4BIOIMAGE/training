@@ -19,7 +19,6 @@ normalization_mapping = {
     "Creative Commons Attribution 4.0 International": "CC-BY-4.0",
     "CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)": "CC0-1.0",
     "CC0": "CC0-1.0",
-    "PUBLIC DOMAIN": "CC0-1.0",
     "Bio-Image Analysis": "Bioimage Analysis",
     "Unclear": "Unknown"
     # Add more mappings as needed
