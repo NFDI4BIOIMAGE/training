@@ -27,4 +27,4 @@ jobs:
         GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
         GITHUB_RUN_ID: "${{ github.run_id }}"
       run: |
-        python scripts/auto-add-download-statistics.py ${{ github.repository }}
+        python scripts/auto-add-download-statistics.py 
