@@ -4,9 +4,11 @@
 
 import sys
 from _github_utilities import create_branch, write_file, send_pull_request
-import yaml 
+import yaml
+import datetime 
 
 def main():
+
     repository = sys.argv[1]
 
     # read "database"
@@ -17,6 +19,9 @@ def main():
 
     # summarize download statistics
     download_statistics = summarize_download_statistics(directory_path)
+
+    #get current date
+    date = datetime.datetime.now().strftime("%Y%m%d")
 
     # save back to github
     write_file(repository, branch, download_statistics, "Add " + f'download_statistics/{date}.csv')
@@ -91,6 +96,8 @@ def summarize_download_statistics(directory_path):
     os.makedirs(directory, exist_ok=True)
 
     download_statistics.to_csv(filename, index=False)
-
     return download_statistics
+
+if __name__ == "__main__":
+    main()
 
