@@ -3583,3 +3583,18 @@ resources:
   - video
   url:
   - https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm
+
+- authors: Haase, Robert
+  description: 'Large Language Models (LLMs) such as ChatGPT are changing the way we
+    interact with computers, including how we analye microscopy imaging data. In this
+    talk I introduce basic concepts of asking LLMs to write code and how to modify the
+    questions to get the best out of it. For trying out these prompt engineering basics
+    there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html'
+  license: cc-by-4.0
+  name: ChatGPT for Image Analysis
+  num_downloads: 434
+  publication_date: '2024-08-25'
+  url:
+  - https://zenodo.org/records/13371196
+  - https://doi.org/10.5281/zenodo.13371196
+  
