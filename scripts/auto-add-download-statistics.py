@@ -92,3 +92,5 @@ def summarize_download_statistics(directory_path):
 
     download_statistics.to_csv(filename, index=False)
 
+    return download_statistics
+
