@@ -1,4 +1,4 @@
-# Cc-by-4.0 (106)
+# Cc-by-4.0 (107)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -1094,6 +1094,25 @@ Content type: Slides
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 [https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
+## Large Language Models: An Introduction for Life Scientists
+
+['Robert Haase']
+
+Published 2024-08-27
+
+Licensed CC-BY-4.0
+
+
+
+Large Language Models (LLMs) are changing the way how humans interact with computers. This has impact on all scientific fields by enabling new ways to achieve for example data analysis goals. In this talk we will go through an introduction to LLMs with respect to applications in the life sciences, focusing on bio-image analysis. We will see how to generate text and images using LLMs and how LLMs can extract information from reproducibly images through code-generation. We will go through selected prompt engineering techniques enabling scientists to tune the output of LLMs towards their scientific goal and how to do quality assurance in this context.
+
+[https://zenodo.org/records/13379394](https://zenodo.org/records/13379394)
+
+[https://doi.org/10.5281/zenodo.13379394](https://doi.org/10.5281/zenodo.13379394)
 
 
 ---
