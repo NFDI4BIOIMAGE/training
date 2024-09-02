@@ -1,4 +1,4 @@
-# Cc-by-4.0 (105)
+# Cc-by-4.0 (106)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -339,6 +339,25 @@ Tags: Bioimage Analysis, Research Data Management
 Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192)
+
+
+---
+
+## ChatGPT for Image Analysis
+
+['Robert Haase']
+
+Published 2024-08-25
+
+Licensed CC-BY-4.0
+
+
+
+Large Language Models (LLMs) such as ChatGPT are changing the way we interact with computers, including how we analye microscopy imaging data. In this talk I introduce basic concepts of asking LLMs to write code and how to modify the questions to get the best out of it. For trying out these prompt engineering basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html
+
+[https://zenodo.org/records/13371196](https://zenodo.org/records/13371196)
+
+[https://doi.org/10.5281/zenodo.13371196](https://doi.org/10.5281/zenodo.13371196)
 
 
 ---
