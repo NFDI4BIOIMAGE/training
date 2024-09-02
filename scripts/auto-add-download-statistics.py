@@ -22,10 +22,11 @@ def main():
 
     #get current date
     date = datetime.datetime.now().strftime("%Y%m%d")
+    filename = f'download_statistics/{date}.csv'
 
     # save back to github
-    write_file(repository, branch, download_statistics, "Add " + f'download_statistics/{date}.csv')
-    res = send_pull_request(repository, branch, "Add " + f'download_statistics/{date}.csv') 
+    write_file(repository, branch, filename, download_statistics, "Add " + filename)
+    res = send_pull_request(repository, branch, f"Add {filename}", "") 
 
     print("Done.", res)
 
@@ -96,7 +97,10 @@ def summarize_download_statistics(directory_path):
     os.makedirs(directory, exist_ok=True)
 
     download_statistics.to_csv(filename, index=False)
-    return download_statistics
+    #return download_statistics
+
+    with open(filename, 'r') as file:
+        return file.read()
 
 if __name__ == "__main__":
     main()
