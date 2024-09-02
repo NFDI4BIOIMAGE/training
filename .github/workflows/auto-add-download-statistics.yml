@@ -1,0 +1,30 @@
+name: Run Weekly Summary Download Statistics
+
+on:
+  schedule:
+    - cron: '0 11 * * 2'  # This runs the job every Tuesday at 11 AM
+
+jobs:
+  run-weekly-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Python
+      env:
+        GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_RUN_ID: "${{ github.run_id }}"
+      run: |
+        python scripts/auto-add-download-statistics.py nfdi4bioimage/training
