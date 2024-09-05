@@ -3,31 +3,14 @@ import yaml
 import time
 from github import Github
 import streamlit as st
-from pathlib import Path
 import pandas as pd
 
-def load_yaml_data(file_path):
-    """
-    Load YAML data from a file and modify it based on certain conditions.
+# Import the functions from other modules in the same folder
+from generate_link_lists import read_yaml_file, load_dataframe
+from _github_utilities import get_github_repository  
 
-    Args:
-        file_path (str): Path to the YAML file.
-
-    Returns:
-        dict: Parsed and possibly modified YAML data.
-    """
-    with open(file_path, 'r', encoding="utf8") as file:
-        data = yaml.safe_load(file)
-        
-        # Check for 'url' in data and append 'zenodo' to tags if the condition is met
-        if "url" in data and "zenodo" in str(data["url"]).lower():
-            if 'tags' in data and isinstance(data['tags'], list):
-                data["tags"].append("zenodo")
-            else:
-                data['tags'] = ["zenodo"]
-        
-        return data
-    
+# Correct the directory path for resources
+directory_path = os.path.join('..', 'resources')
 
 def all_content(directory_path):
     """
@@ -37,13 +20,14 @@ def all_content(directory_path):
         directory_path (str): Path to the directory containing YAML files.
 
     Returns:
-        list: List of all resources dictionaries from all YAML files.
+        dict: Dictionary with a key 'resources' containing a list of all resources from YAML files.
     """
     resources = []
-    for yaml_file in Path(directory_path).glob('*.yml'):
-        yaml_data = load_yaml_data(yaml_file)
-        if 'resources' in yaml_data:
-            resources.extend(yaml_data['resources'])
+    for yaml_file in os.listdir(directory_path):
+        if yaml_file.endswith('.yml'):
+            yaml_data = read_yaml_file(os.path.join(directory_path, yaml_file))
+            if 'resources' in yaml_data:
+                resources.extend(yaml_data['resources'])
     return {'resources': resources}
 
 def get_unique_values_from_yamls(resources_dir):
@@ -56,8 +40,8 @@ def get_unique_values_from_yamls(resources_dir):
     Returns:
         tuple: Sorted lists of unique tags, types, and licenses.
     """
-    content = all_content(resources_dir)
-    df = pd.DataFrame(content['resources'])
+    # Use the imported load_dataframe function to get content in DataFrame format
+    df = load_dataframe(resources_dir)
 
     # Handle cases where 'tags', 'type', and 'license' might not be present or not lists
     df['tags'] = df['tags'].apply(lambda x: x if isinstance(x, list) else [])
@@ -70,40 +54,6 @@ def get_unique_values_from_yamls(resources_dir):
     unique_licenses = sorted(set(l for sublist in df['license'] for l in sublist))
 
     return unique_tags, unique_types, unique_licenses
-
-
-def get_yaml_files(resources_dir):
-    """
-    List YAML files in a directory.
-
-    Args:
-        resources_dir (str): Directory containing YAML files.
-
-    Returns:
-        list: Sorted list of YAML file names.
-    """
-    return sorted([str(yaml_file.name) for yaml_file in Path(resources_dir).glob('*.yml')])
-
-
-def get_github_repository(repository):
-    """
-    Get the GitHub repository object.
-
-    Args:
-        repository (str): The full name of the GitHub repository (e.g., "username/repo-name").
-
-    Returns:
-        github.Repository.Repository: The GitHub repository object.
-    """
-    
-    access_token = os.getenv('GITHUB_API_KEY')
-    
-    if not access_token:
-        raise Exception("GitHub API Key is not set in the environment variables.")
-
-    g = Github(access_token)
-
-    return g.get_repo(repository)
 
 def create_pull_request(repo, yaml_file, authors, license, name, description, tags, type_, url):
     """
@@ -154,15 +104,11 @@ def create_pull_request(repo, yaml_file, authors, license, name, description, ta
     except Exception as e:
         st.error(f"Failed to update YAML file and create pull request: {e}")
 
-
-# Path to resources directory
-resources_dir = Path('..') / 'resources'
-
 # Extract dynamic values from YAML files
-unique_tags, unique_types, unique_licenses = get_unique_values_from_yamls(resources_dir)
+unique_tags, unique_types, unique_licenses = get_unique_values_from_yamls(directory_path)
 
-# Get list of YAML files dynamically
-yaml_files = get_yaml_files(resources_dir)
+# Directly set the path to the single YAML file
+yaml_file = 'nfdi4bioimage.yml'  
 
 # Directly get the GitHub repository object
 repo = get_github_repository("NFDI4BIOIMAGE/training")
@@ -183,8 +129,6 @@ with st.form(key='submission_form'):
     type_ = st.multiselect("Types", unique_types)
     url = st.text_input("URL")
     
-    yaml_file = st.selectbox("YAML File", ["Select a YAML file"] + yaml_files)
-    
     submit_button = st.form_submit_button(label='Submit')
 
 if submit_button:
@@ -194,7 +138,7 @@ if submit_button:
     
     tags = sorted(set(tags))
     
-    if not license or yaml_file == "Select a YAML file":
+    if not license:
         st.error("Please make sure all selections are made.")
     else:
         create_pull_request(repo, yaml_file, authors, license, name, description, tags, type_, url)

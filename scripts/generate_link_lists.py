@@ -89,10 +89,10 @@ def all_content(directory_path):
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
             print("Adding", filename)
-            new_content = read_yaml_file(directory_path + filename)
+            new_content = read_yaml_file(os.path.join(directory_path, filename))  # Corrected line
             content['resources'] = content['resources'] + new_content['resources']
-            # print(content.keys())
     return content
+
 
 def load_dataframe(directory_path):
     """
