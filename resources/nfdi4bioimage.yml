@@ -3632,3 +3632,15 @@ resources:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
   
+- authors: Robert Haase
+  license:
+  - CC-BY-4.0
+  name: test4
+  description: test2
+  tags:
+  - Bioimage Analysis
+  - new-tag
+  type:
+  - Event
+  url: https://haesleinhuepf.github.io
+  
