@@ -27,5 +27,6 @@ parts:
     
   - caption: Appendix
     chapters:
+    - file: statistics/readme
     - file: export/readme
     - file: imprint
