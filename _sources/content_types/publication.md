@@ -650,7 +650,7 @@ Content type: Publication
 
 ['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
 
-Licensed unclear
+Licensed unknown
 
 
 

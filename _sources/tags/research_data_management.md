@@ -586,7 +586,7 @@ Content type: Collection, Video
 
 
 
-Starts Oct 16, 2024, 9:00â€¯AM, Ends Oct 17, 2024, 5:00â€¯PM
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
 Tags: Bioimage Analysis, Omero, Research Data Management
 
@@ -1181,7 +1181,7 @@ Content type: Publication
 
 ['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
 
-Licensed unclear
+Licensed unknown
 
 
 

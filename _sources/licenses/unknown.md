@@ -1,4 +1,4 @@
-# Unknown (58)
+# Unknown (59)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -844,6 +844,23 @@ Tags: Neubias, Bioimage Analysis
 Content type: Code
 
 [https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
+
+
+---
+
+## Setting up a data management infrastructure for bioimaging
+
+['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+
+Licensed unknown
+
+
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+Content type: Publication
+
+[https://doi.org/10.1515/hsz-2022-0304](https://doi.org/10.1515/hsz-2022-0304)
 
 
 ---
