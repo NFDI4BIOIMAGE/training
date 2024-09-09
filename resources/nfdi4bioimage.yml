@@ -197,12 +197,10 @@ resources:
   - Notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html
 - authors:
-  - Fuchs
-  - Vanessa Aphaia Fiona
-  - Schmidt
-  - Christian
-  - Boissonnet
-  - Tom
+  - Vanessa Fuchs
+  - Fiona Aphaia
+  - Christian Schmidt
+  - Tom Boissonnet
   description: 'Description
 
     Microscopy experiments generate information-rich, multi-dimensional data, allowing
@@ -378,7 +376,7 @@ resources:
   type:
   - Collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
-- license: ODC-By-1.0
+- license: ODC-BY-1.0
   name: BioImage Informatics Index Training Materials
   tags:
   - Bioimage Analysis
@@ -389,7 +387,7 @@ resources:
   - Robert Haase et al.
   license:
   - CC-BY-4.0
-  - BSD-3-Clause
+  - BSD-3-CLAUSE
   name: BioImage Analysis Notebooks
   tags:
   - Python
@@ -421,7 +419,7 @@ resources:
   type:
   - Slide
   url: https://f1000research.com/slides/12-971
-- license: All Rights Reserved
+- license: ALL RIGHTS RESERVED
   name: MicroscopyDB
   type:
   - Collection
@@ -433,28 +431,28 @@ resources:
   type:
   - Documentation
   url: https://www.openmicroscopy.org/docs/
-- license: unknown
+- license: UNKNOWN
   name: OMERO documentation
   tags:
   - Omero
   type:
   - Documentation
   url: https://omero.readthedocs.io/en/stable/
-- license: BSD-2-Clause
+- license: BSD-2-CLAUSE
   name: OMERO Guide
   tags:
   - Omero
   type:
   - Collection
   url: https://omero-guides.readthedocs.io/en/latest/
-- license: BSD-2-Clause
+- license: BSD-2-CLAUSE
   name: OMERO walkthrough for facility managers
   tags:
   - Omero
   type:
   - Document
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
-- license: BSD-2-Clause
+- license: BSD-2-CLAUSE
   name: OMERO walkthrough example
   tags:
   - Omero
@@ -470,13 +468,13 @@ resources:
   url: https://bio.tools/
 - description: List of training materials by the German BioImaging community provided
     by facilities, the scientific community, and companies.
-  license: unknown
+  license: UNKNOWN
   name: GerBI Teaching Resources Link List
   type:
   - Collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
 - description: Research Data Management Information Portal in German
-  license: public domain
+  license: PUBLIC DOMAIN
   name: Forschungsdaten.info
   tags:
   - Research Data Management
@@ -571,7 +569,7 @@ resources:
   type:
   - Collection
   url: https://rdmkit.elixir-europe.org/all_training_resources
-- license: unknown
+- license: UNKNOWN
   name: TESS training materials
   tags:
   - Bioinformatics
@@ -579,7 +577,7 @@ resources:
   - Collection
   url: https://tess.elixir-europe.org/materials
 - description: List of links to training materials by the I3D:bio community.
-  license: unknown
+  license: UNKNOWN
   name: I3D:bio list of online training material
   tags:
   - Research Data Management
@@ -588,7 +586,7 @@ resources:
   url: https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/
 - description: CellProfiler tutorials and guided exercises about translocation, segmentation,
     pixel-based classification and quality control
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: CellProfiler tutorials
   tags:
   - Cellprofiler
@@ -612,7 +610,7 @@ resources:
   url: https://github.com/dwaithe/ONBI_image_analysis
 - authors:
   - Albert Cardona
-  license: CC0
+  license: CC0-1.0
   name: A Fiji Scripting Tutorial
   tags:
   - Imagej
@@ -633,7 +631,7 @@ resources:
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
 - authors:
   - Robert Haase
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: ImageJ2 API-beating
   tags:
   - Neubias
@@ -645,7 +643,7 @@ resources:
 - authors:
   - Robert Haase
   description: Lecture slides of a session on Multiview Fusion in Fiji
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Multi-view fusion
   tags:
   - Neubias
@@ -657,7 +655,7 @@ resources:
 - authors:
   - Robert Haase
   description: Lecture slides of a session on Cell Tracking in Fiji
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Tracking Theory, TrackMate, and Mastodon
   tags:
   - Neubias
@@ -668,7 +666,7 @@ resources:
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
 - authors:
   - Robert Haase
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Working with pixels
   tags:
   - Neubias
@@ -679,7 +677,7 @@ resources:
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
 - authors:
   - Robert Haase
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Working with objects in 2D and 3D
   tags:
   - Neubias
@@ -711,7 +709,7 @@ resources:
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/
 - authors:
   - Fabrizio Musacchio
-  license: cc-by-nd-sa-4.0
+  license: CC-BY-ND-SA-4.0
   name: Bioimage analysis with Napari
   tags:
   - Python
@@ -774,7 +772,7 @@ resources:
   - Edward L. Evans III
   - Kevin W. Eliceiri
   - Beth A. Cimini
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: "A biologist\u2019s guide to planning and performing quantitative bioimaging\
     \ experiments"
   type:
@@ -826,7 +824,7 @@ resources:
   url: https://the-turing-way.netlify.app/reproducible-research/reproducible-research
 - authors:
   - Kota Miura
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: Basics of Image Processing and Analysis
   tags:
   - Bioimage Analysis
@@ -841,7 +839,7 @@ resources:
   url:
   - https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/
   - https://doi.org/10.5281/zenodo.4915861
-- license: unknown
+- license: UNKNOWN
   name: Cell Tracking Challenge - 2D Datasets
   tags:
   - Bioimage Analysis
@@ -849,7 +847,7 @@ resources:
   - Collection
   - Data
   url: http://celltrackingchallenge.net/2d-datasets/
-- license: unknown
+- license: UNKNOWN
   name: Cell Tracking Challenge - 3D Datasets
   tags:
   - Bioimage Analysis
@@ -858,7 +856,7 @@ resources:
   - Data
   url: http://celltrackingchallenge.net/3d-datasets/
 - description: A searchable database of resources for light and electron microscopists
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: microlist
   type:
   - Collection
@@ -866,7 +864,7 @@ resources:
 - authors:
   - Robert Haase
   - Benoit Lombardot
-  license: unknown
+  license: UNKNOWN
   name: Introduction to ImageJ macro programming, Scientific Computing Facility, MPI
     CBG Dresden
   tags:
@@ -893,7 +891,7 @@ resources:
   type:
   - Book
   url: https://neubias.github.io/training-resources/
-- license: unknown
+- license: UNKNOWN
   name: Bioimage Model Zoo
   tags:
   - Bioimage Analysis
@@ -917,7 +915,7 @@ resources:
   url:
   - https://idr.openmicroscopy.org/
   - https://www.nature.com/articles/nmeth.4326
-- license: BSD-2-Clause
+- license: BSD-2-CLAUSE
   name: Omero Deployment examples
   tags:
   - Omero
@@ -930,7 +928,7 @@ resources:
   - Wei Ouyang
   description: BioEnging is a cloud infrastructure to run BioImage model zoo based
     workflows in the cloud.
-  license: unknown
+  license: UNKNOWN
   name: BioEngine
   tags:
   - Artificial Intelligence
@@ -950,7 +948,7 @@ resources:
   url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
 - authors:
   - "Caterina Fuster-Barcel\xF3"
-  license: unknown
+  license: UNKNOWN
   name: AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
   tags:
   - Artificial Intelligence
@@ -1005,12 +1003,12 @@ resources:
   - https://zenodo.org/records/8323588
   - https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU
   - https://doi.org/10.5281/zenodo.8323588
-- license: Apache-2.0
+- license: APACHE-2.0
   name: ITKElastix Examples
   tags:
   - Bio-Image Analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
-- license: All rights reserved
+- license: ALL RIGHTS RESERVED
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
   tags:
   - Bioimage Analysis
@@ -1051,7 +1049,7 @@ resources:
   url: https://zmb.dozuki.com/c/Image_Analysis
 - authors:
   - Guillaume Witz
-  license: unknown
+  license: UNKNOWN
   name: Fundamentals in digital image processing
   tags:
   - Bioimage Analysis
@@ -1060,14 +1058,14 @@ resources:
   url: https://github.com/guiwitz/Fundamentals_image_processing
 - authors:
   - Guillaume Witz
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: numpy pandas course
   tags:
   - Python
   type:
   - Notebook
   url: https://github.com/guiwitz/NumpyPandas_course
-- license: BSD-3-Clause
+- license: BSD-3-CLAUSE
   name: 'NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter'
   tags:
   - Python
@@ -1089,14 +1087,14 @@ resources:
   url: https://github.com/bnsreenu/python_for_microscopists
 - authors:
   - Volker Hilsenstein
-  license: unknown
+  license: UNKNOWN
   name: Setting up a remote desktop to use Napari in a browser
   type:
   - Tutorial
   url: https://github.com/VolkerH/Jupyter-Napari-Desktop
 - authors:
   - Nicolas P. Rougier
-  license: cc-by-nd-sa-4.0
+  license: CC-BY-ND-SA-4.0
   name: 'Scientific Visualization: Python + Matplotlib'
   tags:
   - Python
@@ -1127,7 +1125,7 @@ resources:
   url: https://github.com/CamachoDejay/Teaching-ImageJ-FIJI
 - authors:
   - Juan Nunez-Iglesias
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Fundamentals of image analysis in Python with scikit-image, napari, and friends
   tags:
   - Python
@@ -1137,7 +1135,7 @@ resources:
   url: https://github.com/jni/halfway-to-i2k-skimage-napari
 - authors:
   - Juan Nunez-Iglesias
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Image analysis and visualization in Python with scikit-image, napari, and
     friends
   tags:
@@ -1148,7 +1146,7 @@ resources:
   url: https://github.com/scipy-2023-image-analysis/tutorial
 - authors:
   - Guillaume Witz
-  license: unknown
+  license: UNKNOWN
   name: Dask Course
   tags:
   - Python
@@ -1159,7 +1157,7 @@ resources:
   url: https://github.com/guiwitz/DaskCourse
 - authors:
   - Guillaume Witz
-  license: unknown
+  license: UNKNOWN
   name: Course on Deep Learning for imaging using PyTorch
   tags:
   - Python
@@ -1170,7 +1168,7 @@ resources:
   url: https://github.com/guiwitz/DLImaging
 - authors:
   - Guillaume Witz
-  license: unknown
+  license: UNKNOWN
   name: 2022 MIC Workshop on Bioimage processing with Python
   tags:
   - Python
@@ -1189,7 +1187,7 @@ resources:
   - Jean-Yves Tinevez
   - Kota Miura
   - et al.
-  license: unknown
+  license: UNKNOWN
   name: NEUBIAS Bioimage Analyst Course 2017
   tags:
   - Neubias
@@ -1229,7 +1227,7 @@ resources:
   - "Estibaliz G\xF3mez-de-Mariscal"
   - Kota Miura
   - et al.
-  license: unknown
+  license: UNKNOWN
   name: NEUBIAS Bioimage Analyst School 2020
   tags:
   - Neubias
@@ -1250,7 +1248,7 @@ resources:
   - Ignacio Arganda-Carreras
   - "Si\xE2n Culley"
   - et al.
-  license: unknown
+  license: UNKNOWN
   name: NEUBIAS Bioimage Analyst School 2019
   tags:
   - Neubias
@@ -1267,7 +1265,7 @@ resources:
   - Richard Butler
   - Anna Kreshuk
   - Vannary Meas-Yedid
-  license: unknown
+  license: UNKNOWN
   name: NEUBIAS Analyst School 2018
   tags:
   - Neubias
@@ -1279,7 +1277,7 @@ resources:
   url: https://github.com/miura/NEUBIAS_AnalystSchool2018
 - authors:
   - Marion Louveaux
-  license: unknown
+  license: UNKNOWN
   name: Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
   tags:
   - Neubias
@@ -1289,7 +1287,7 @@ resources:
   url: https://github.com/marionlouveaux/NEUBIAS2018_TS7/
 - authors:
   - Kota Miura
-  license: unknown
+  license: UNKNOWN
   name: 'EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus'
   publication_date: 2013
   tags:
@@ -1305,13 +1303,13 @@ resources:
   - Clemens Lakner
   - Christian Tischer
   - Aliaksandr Halavatyi
-  license: unknown
+  license: UNKNOWN
   name: Analysis of High-Throughput Microscopy Image Data
   publication_date: 2014
   url: https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md
 - authors:
   - Christian Tischer
-  license: unknown
+  license: UNKNOWN
   name: Bio Image Analysis
   tags:
   - Bioimage Analysis
@@ -1330,7 +1328,7 @@ resources:
 - authors:
   - Jonas Hartmann
   - et al.
-  license: unknown
+  license: UNKNOWN
   name: Materials for EMBL Coding Club Mini-Tutorials
   tags:
   - Python
@@ -1343,7 +1341,7 @@ resources:
 - authors:
   - Karin Sasaki
   - Jonas Hartmann
-  license: unknown
+  license: UNKNOWN
   name: Python Workshop - Image Processing
   tags:
   - Python
@@ -1354,7 +1352,7 @@ resources:
 - authors:
   - Karin Sasaki
   - Aleksej Zelezniak
-  license: unknown
+  license: UNKNOWN
   name: Metabolic networks modelling with COBRApy
   tags:
   - Python
@@ -1365,7 +1363,7 @@ resources:
   - "Carolina W\xE4hlby"
   - Maxime Bombrun
   - Christian Tischer
-  license: unknown
+  license: UNKNOWN
   name: CellProfiler Practical NeuBIAS Lisbon 2017
   tags:
   - Neubias
@@ -1377,7 +1375,7 @@ resources:
 - authors:
   - Constantin Pape
   - Christian Tischer
-  license: unknown
+  license: UNKNOWN
   name: i2k-2020-s3-zarr-workshop
   type:
   - Python
@@ -1413,7 +1411,7 @@ resources:
   - Pejman Rasti
   - Martin Weigert
   - Szymon Stoma
-  license: unknown
+  license: UNKNOWN
   name: EMBL Deep Learning course 2019 exercises and materials
   tags:
   - Python
@@ -1427,7 +1425,7 @@ resources:
   - Benjamin Gallusser
   - Albert Dominguez Mantes
   - Buglakova Alyona
-  license: unknown
+  license: UNKNOWN
   name: EMBL Deep Learning course 2023 exercises and materials
   tags:
   - Python
@@ -1438,7 +1436,7 @@ resources:
 - authors:
   - Martin Weigert
   - Constantin Pape
-  license: unknown
+  license: UNKNOWN
   name: EMBL Deep Learning course 2021/22 exercises and materials
   tags:
   - Python
@@ -1463,7 +1461,7 @@ resources:
   - Johannes Hugger
   - Qin Yu
   - Buglakova Alyona
-  license: unknown
+  license: UNKNOWN
   name: Kreshuk Lab's EMBL EIPP predoc course teaching material
   tags:
   - Artificial Intelligence
@@ -1473,13 +1471,13 @@ resources:
 - authors:
   - Wei Ouyang
   - et al.
-  license: unknown
+  license: UNKNOWN
   name: Models and Applications for BioImage.IO
   url: https://github.com/imjoy-team/bioimage-io-resources
 - authors:
   - Constantin Pape
   - Adrian Wolny
-  license: unknown
+  license: UNKNOWN
   name: Training Deep Learning Models for Vision - Compact Course
   tags:
   - Artificial Intelligence
@@ -1493,12 +1491,12 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   url: https://github.com/constantinpape/dl-teaching-resources
-- license: unknown
+- license: UNKNOWN
   name: Nextflow Demo Pipelines for Image Processing
   type:
   - Code
   url: https://github.com/JaneliaSciComp/nf-demos
-- license: unknown
+- license: UNKNOWN
   name: Source Control Using Git and GitHub
   type:
   - Tutorial
@@ -1563,7 +1561,7 @@ resources:
   url: https://github.com/tischi/image-analysis-course-material
 - authors:
   - Guillaume Witz
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Image processing for beginners
   tags:
   - Python
@@ -1573,7 +1571,7 @@ resources:
   url: https://github.com/guiwitz/PyImageCourse_beginner
 - authors:
   - Anna Klemm
-  license: unknown
+  license: UNKNOWN
   name: ImageJ Macro Introduction
   tags:
   - Neubias
@@ -1585,7 +1583,7 @@ resources:
   url: https://github.com/ahklemm/ImageJMacro_Introduction
 - authors:
   - Anna Klemm
-  license: unknown
+  license: UNKNOWN
   name: CellProfiler Introduction
   tags:
   - Neubias
@@ -1596,7 +1594,7 @@ resources:
   url: https://github.com/ahklemm/CellProfiler_Introduction
 - authors:
   - Martin Weigert
-  license: unknown
+  license: UNKNOWN
   name: "CARE/Stardist tutorials for EMBO Practical Course \u2014 Computational optical\
     \ biology 2022"
   tags:
@@ -1611,7 +1609,7 @@ resources:
   - Olivier Burri
   - "Si\xE2n Culley"
   - Uwe Schmidt
-  license: unknown
+  license: UNKNOWN
   name: 'Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist'
   tags:
   - Python
@@ -1625,7 +1623,7 @@ resources:
 - authors:
   - Martin Weigert
   - Uwe Schmidt
-  license: unknown
+  license: UNKNOWN
   name: CSBDeep and StarDist @ I2K 2020
   tags:
   - Python
@@ -1636,7 +1634,7 @@ resources:
   url: https://github.com/maweigert/stardist-i2k
 - authors:
   - Martin Weigert
-  license: unknown
+  license: UNKNOWN
   name: Deep Learning for image analysis - Exercises
   tags:
   - Fiji
@@ -1645,7 +1643,7 @@ resources:
   type:
   - Notebook
   url: https://github.com/maweigert/zidas_2020_DL_intro_Part_2
-- license: unknown
+- license: UNKNOWN
   name: Machine Learning Workflow for Imaging Flow Cytometry (IFC)
   tags:
   - Cellprofiler
@@ -1675,7 +1673,7 @@ resources:
   - Yu Han
   - Nikita Moshkov
   - Rebecca Senft
-  license: unknown
+  license: UNKNOWN
   name: DeepProfiler Handbook
   tags:
   - Artificial Intelligence
@@ -1701,7 +1699,7 @@ resources:
   - https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view
 - authors:
   - "Estibaliz G\xF3mez-de-Mariscal\\"
-  license: unknown
+  license: UNKNOWN
   name: Building a Bioimage Analysis Workflow using Deep Learning
   tags:
   - Artificial Intelligence
@@ -1711,7 +1709,7 @@ resources:
   url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
 - authors:
   - "Estibaliz G\xF3mez-de-Mariscal"
-  license: unknown
+  license: UNKNOWN
   name: ZIDAS 2020 Introduction to Deep Learning
   tags:
   - Artificial Intelligence
@@ -1721,7 +1719,7 @@ resources:
   url: https://github.com/esgomezm/zidas2020_intro_DL
 - authors:
   - "Estibaliz G\xF3mez-de-Mariscal"
-  license: unknown
+  license: UNKNOWN
   name: Machine Learning - Deep Learning. Applications to Bioimage Analysis
   tags:
   - Artificial Intelligence
@@ -1734,7 +1732,7 @@ resources:
   - Constantin Pape
   - Morgan Schwartz
   - Xiaoyan
-  license: unknown
+  license: UNKNOWN
   name: DL@MBL 2021 Exercises
   tags:
   - Artificial Intelligence
@@ -1765,10 +1763,8 @@ resources:
   - Collection
   url: https://zenodo.org/communities/eoss
 - authors:
-  - Floden
-  - Evan
-  - Di Tommaso
-  - Paolo
+  - Floden Evan
+  - Di Tommaso Paolo
   description: Nextflow is an open-source workflow management system that prioritizes
     portability and reproducibility. It enables users to develop and seamlessly scale
     genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo;
@@ -1821,7 +1817,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4317149
 - authors:
   - Guillaume Witz
-  license: unknown
+  license: UNKNOWN
   name: Jupyter for interactive cloud computing
   tags:
   - Neubias
@@ -1831,7 +1827,7 @@ resources:
   url: https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53
 - authors:
   - Aastha Mathur
-  license: unknown
+  license: UNKNOWN
   name: 'Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image
     Data and Analysis Services'
   type:
@@ -1839,7 +1835,7 @@ resources:
   url: https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1
 - authors:
   - Kota Miura
-  license: unknown
+  license: UNKNOWN
   name: What is Bioimage Analysis? An Introduction
   tags:
   - Neubias
@@ -1850,14 +1846,14 @@ resources:
 - authors:
   - Bugra Oezdemir
   - Christian Tischer
-  license: unknown
+  license: UNKNOWN
   name: OME-Zarr course
   type:
   - Tutorial
   url: https://git.embl.de/oezdemir/course_scripts#ome-zarr-course
 - authors:
   - Ignacio Arganda-Carreras
-  license: unknown
+  license: UNKNOWN
   name: 'Machine and Deep Learning on the cloud: Segmentation'
   tags:
   - Neubias
@@ -1879,7 +1875,7 @@ resources:
 - authors:
   - Beatriz Serrano-Solano
   - "Bj\xF6rn Gr\xFCning"
-  license: unknown
+  license: UNKNOWN
   name: Image analysis in Galaxy
   tags:
   - Bioimage Analysis
@@ -1890,7 +1886,7 @@ resources:
   - "Se\u0301bastien Tosi"
   - Volker Baecker
   - Benjamin Pavie
-  license: BSD-2-Clause
+  license: BSD-2-CLAUSE
   name: Adding a Workflow to BIAFLOWS
   tags:
   - Neubias
@@ -1900,7 +1896,7 @@ resources:
   url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
 - authors:
   - Kota Miura
-  license: All rights reserved
+  license: ALL RIGHTS RESERVED
   name: BioImage Data Analysis
   tags:
   - Neubias
@@ -1913,7 +1909,7 @@ resources:
   - David Rousseau
   - Pejman Rasti
   - Valentin Gilet
-  license: unknown
+  license: UNKNOWN
   name: 'DEEP NAPARI : Napari as a tool for deep learning project management'
   tags:
   - Artificial Intelligence
@@ -2002,7 +1998,8 @@ resources:
   - Peter Steinbach
   - Sebastian Starke
   - Johannes Soltwedel
-  - Marvin Albert and Robert Haase
+  - Marvin Albert
+  - Robert Haase
   description: This repository hosts notebooks, information and data for the GPU-Accelerated
     Image Analysis Track of the PoL Bio-Image Analysis Symposium.
   license: CC-BY-4.0
@@ -2017,7 +2014,6 @@ resources:
   url: https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/
 - authors:
   - Robert Haase
-  - ScaDS.AI Dresden/Leipzig
   description: This repository contains training resources for Students at Uni Leipzig
     who want to dive into bio-image data science with Python.
   license: CC-BY-4.0
@@ -2032,7 +2028,6 @@ resources:
   url: https://github.com/ScaDS/BIDS-lecture-2024
 - authors:
   - Costantin Pape
-  - computational-cell-analytics
   description: This course consists of lectures and exercises that teach the background
     of deep learning for image analysis and show applications to classification and
     segmentation analysis problems.
@@ -2130,7 +2125,7 @@ resources:
   - Marvin Albert
   description: Tutorial material for teaching the basics of (itk-)elastix for image
     registration in microscopy images.
-  license: BSD License
+  license: BSD LICENSE
   name: Elastix tutorial
   tags:
   - Image Registration
@@ -2152,7 +2147,7 @@ resources:
 - authors:
   - Gaelle Letort
   description: Tutorial for running CellPose advanced functions
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: NeubiasPasteur2023_AdvancedCellPose
   tags:
   - Cellpose
@@ -2310,8 +2305,7 @@ resources:
   type:
   - Slides
   url: https://f1000research.com/slides/13-147
-- license: CC0 licence (some accessions are available under different license, if
-    so the license is indicated as attribute on dataset)
+- license: CC0-1.0
   name: BioImage Archive AI Gallery
   tags:
   - Bioimage Analysis
@@ -2320,8 +2314,7 @@ resources:
   - Collection
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html
-- license: CC0 licence (some accessions are available under different license, if
-    so the license is indicated as attribute on dataset)
+- license: CC0-1.0
   name: BioImage Archive Visual Gallery
   tags:
   - Bioimage Analysis
@@ -2329,8 +2322,7 @@ resources:
   - Collection
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html
-- license: CC0 licence (some accessions are available under different license, if
-    so the license is indicated as attribute on dataset)
+- license: CC0-1.0
   name: BioImage Archive Volume EM Gallery
   tags:
   - Bioimage Analysis
@@ -2361,7 +2353,7 @@ resources:
   - Anirban Ray
   description: Presentation given at the EMBO-DL4MIA 2024, Advanced Topic Seminar,
     May-11-2024
-  license: unknown
+  license: UNKNOWN
   name: Diffusion Models for Image Restoration - An Introduction
   tags:
   - Bioimage Analysis
@@ -2371,8 +2363,7 @@ resources:
   - Presentation
   url: https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view
 - authors:
-  - Kemmer
-  - Isabel
+  - Isabel Kemmer
   - Euro-BioImaging ERIC
   description: 'Euro-BioImaging has developed a Data Management Plan (DMP) template
     with questions tailored to bioimaging research projects. Outlining data management
@@ -2399,38 +2390,16 @@ resources:
   - https://zenodo.org/records/11473803
   - https://doi.org/10.5281/zenodo.11473803
 - authors:
-  - Kemmer
-  - Isabel
+  - Isabel Kemmer
   - Euro-BioImaging ERIC
   description: 'Hands-on exercises on FAIR Bioimage Data from the interactive online
     workshop "Euro-BioImaging''s Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
-
-    Types of tasks included:
-
-
-    FAIR characteristics of a real world dataset
-
-    Data Management Plan (DMP)
-
-    Journal Policies on FAIR data sharing
-
-    Ontology search
-
-    Metadata according to REMBI scheme
-
-
-    (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata
-    for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat
-    Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
-
-
-
-    Matching datasets to bioimage repositories
-
-    Browsing bioimage repositories
-
-
-    &nbsp;'
+    Types of tasks included: FAIR characteristics of a real world dataset Data Management
+    Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according
+    to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI:
+    Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy
+    data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
+    Matching datasets to bioimage repositories Browsing bioimage repositories'
   license: CC-BY-4.0
   name: Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
   num_downloads: 104
@@ -2542,8 +2511,7 @@ resources:
   - Astrid Schauss
   - Timo Dickscheid
   - "Timo M\xFChlhaus"
-  - von Suchodoletz
-  - Dirk
+  - Dirk von Suchodoletz
   description: Interdisciplinary collaboration and integrating large, diverse datasets
     are crucial for answering complex research questions, requiring multimodal data
     analysis and adherence to FAIR principles. To address challenges in capturing
@@ -2598,7 +2566,8 @@ resources:
   - Collection
   url: https://zenodo.org/doi/10.5281/zenodo.8139353
 - authors:
-  - Vanessa Aphaia Fiona Fuchs
+  - Vanessa Fuchs
+  - Fiona Aphaia
   - Christian Schmidt
   - Tom Boissonnet
   description: How to optimize microscopy data management using structured metadata
@@ -2678,24 +2647,14 @@ resources:
 - authors:
   - Pia Voigt
   - Carolin Hundt
-  description: '
-
-
-
-
-    Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien
-    und Datenschutz&ldquo; auf der Data Week Leipzig
+  description: ' Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation,
+    Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 
     Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man
     Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und
     wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam
     mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen
-    aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
-
-
-
-
-    '
+    aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.'
   license: CC-BY-4.0
   name: 'Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz'
   num_downloads: 48
@@ -2708,52 +2667,14 @@ resources:
   - https://zenodo.org/records/11107798
   - https://doi.org/10.5281/zenodo.11107798
 - authors:
-  - Della Chiesa
-  - Stefano
-  description: '
-
-
-
-
-
-
-
-    These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into
-    the strategic integration of Research Data Management (RDM) within research organizations.
-    The Leibniz IOER presented an insightful overview of RDM activities and approaches,
-    emphasizing the criticality of embedding RDM strategically within research institutions.
-    The presentation showcases some best practices in RDM implementation through practical
-    examples, offering valuable insights for optimizing data stewardship processes.
-
-
-
-
-
-    &nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    &nbsp;
-
-
-
-
-
-
-
-    '
+  - Stefano Della Chiesa
+  description: ' These slides were presented at the 2. SaxFDM-Beratungsstammtisch
+    and delve into the strategic integration of Research Data Management (RDM) within
+    research organizations. The Leibniz IOER presented an insightful overview of RDM
+    activities and approaches, emphasizing the criticality of embedding RDM strategically
+    within research institutions. The presentation showcases some best practices in
+    RDM implementation through practical examples, offering valuable insights for
+    optimizing data stewardship processes.'
   license: CC-BY-4.0
   name: Sustainable Data Stewardship
   num_downloads: 38
@@ -3139,7 +3060,7 @@ resources:
   - Sarah Weischner
   - Jens Wendt
   description: "A use case example from the M\xFCnster Imaging Network"
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: OMERO for microscopy research data management
   tags:
   - Nfdi4Bioimage
@@ -3150,8 +3071,9 @@ resources:
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
 - authors:
   - Susanne Kunis
-  - Karen Bernhardt and Michael Hensel
-  license: Unknown
+  - Karen Bernhardt
+  - Michael Hensel
+  license: UNKNOWN
   name: Setting up a data management infrastructure for bioimaging
   tags:
   - Nfdi4Bioimage
@@ -3198,7 +3120,7 @@ resources:
 - authors:
   - Robert Haase
   description: Article about the Fiji Updater explaining how it works in the background.
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: The Fiji Updater
   tags:
   - Imagej
@@ -3208,10 +3130,10 @@ resources:
 - authors:
   - Robert Haase
   - Loic Royer
-  - et al
+  - et al.
   description: CLIJ is a collection of image processing functions that use graphics
     processing units for accelerated processing.
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: 'CLIJ: GPU-accelerated image processing for everyone'
   publication_date: 2020
   tags:
@@ -3266,7 +3188,7 @@ resources:
   - Kirti Prakash
   description: This comment article outlines the current state of the art in open
     hardware publishing in the context of microscopy.
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: 'Open microscopy in the life sciences: quo vadis?'
   publication_date: 2022
   type:
@@ -3329,8 +3251,9 @@ resources:
   - Publication
   url: https://f1000research.com/articles/10-334/v1
 - authors:
-  - Ugis Sarkans et al
-  license: All Rights Reserved
+  - Ugis Sarkans
+  - et al.
+  license: ALL RIGHTS RESERVED
   name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
     \ microscopy data in biology"
   tags:
@@ -3346,7 +3269,7 @@ resources:
   - Frances Wong
   - Caterina Strambio-De-Castillia
   - Stefanie Weidtkamp-Peters
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: 'MDEmic: a metadata annotation tool to facilitate management of FAIR image
     data in the bioimaging community'
   tags:
@@ -3358,7 +3281,7 @@ resources:
 - authors:
   - Glyn Nelson
   - Ulrike Boehme
-  - et al
+  - et al.
   license: CC-BY-4.0
   name: 'QUAREP-LiMi: A community-driven initiative to establish guidelines for quality
     assessment and reproducibility for instruments and images in light microscopy'
@@ -3479,7 +3402,7 @@ resources:
   - Douglas Taatjes
   - Christian Tischer
   - Helena Klara Jambor
-  license: All Rights Reserved
+  license: ALL RIGHTS RESERVED
   name: Community-developed checklists for publishing images and image analyses
   tags:
   - Bioimage Analysis
@@ -3593,7 +3516,6 @@ resources:
   - Monica Valencia-S.
   - H. Lukas Weil
   - Jens Wendt and Peter Zentis
-  doi: 10.5281/zenodo.10609770
   event_date: November 29 - December 01 2023
   event_location: CECAD, University of Cologne, Cologne, Germany
   license: CC-BY-4.0
@@ -3610,7 +3532,9 @@ resources:
   - Event
   - Publication
   - Documentation
-  url: https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
+  url:
+  - https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023
+  - https://doi.org/10.5281/zenodo.10609770
 - authors:
   - Josh Moore
   description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
@@ -3645,20 +3569,17 @@ resources:
   - Tom Boissonnet
   - Michele Bortolomeazzi
   - Eik Dahms
-  - Fuchs
-  - Vanessa A. F.
-  - Moritz Hoevels
+  - Vanessa Fuchs
+  - A. F. Moritz Hoevels
   - Niraj Kandpal
   - "Christoph M\xF6hl"
-  - Moore
-  - Joshua A.
+  - Joshua A. Moore
   - Astrid Schauss
   - Andrea Schrader
   - "Torsten St\xF6ter"
   - "Julia Th\xF6nni\xDFen"
   - Monica Valencia-S.
-  - Weil
-  - H. Lukas
+  - H. Lukas Weil
   - Jens Wendt
   - Peter Zentis
   description: This repository documents the first NFDI4Bioimage - TA3-Hackathon -
@@ -3742,8 +3663,8 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.8414318
 - authors:
-  - Fuchs
-  - Vanessa Aphaia Fiona
+  - Vanessa Fuchs
+  - Aphaia Fiona
   - Jens Wendt
   - "Maximilian M\xFCller"
   - Mohsen Ahmadi
@@ -3853,14 +3774,10 @@ resources:
   - https://zenodo.org/records/11318151
   - https://doi.org/10.5281/zenodo.11318151
 - authors:
-  - Geiger
-  - Jonathan
-  - Steiner
-  - Petra
-  - Desouki
-  - Abdelmoneim Amer
-  - Lange
-  - Frank
+  - Jonathan Geiger
+  - Petra Steiner
+  - Abdelmoneim Amer Desouki
+  - Frank Lange
   description: 'The DALIA (Data Literacy Alliance) project aims to develop a knowledge
     graph for FAIR teaching and learning materials on data literacy, data competencies
     and research data management (RDM) skills within the National Research Data Infrastructure
@@ -3920,7 +3837,8 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01290-5
 - authors:
-  - Alessandro Rigano et al.
+  - Alessandro Rigano
+  - et al.
   name: 'Micro-Meta App: an interactive tool for collecting microscopy metadata based
     on community specifications'
   tags:
@@ -3929,7 +3847,8 @@ resources:
   - Publication
   url: https://doi.org/10.1038/s41592-021-01315-z
 - authors:
-  - Melissa Linkert et al.
+  - Melissa Linkert
+  - et al.
   name: 'Metadata matters: access to image data in the real world'
   publication_date: 2010
   tags:
@@ -3958,7 +3877,7 @@ resources:
   - Kevin W. Eliceiri
   - Anne E. Carpenter
   - Beth A. Cimini
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: '2020 BioImage Analysis Survey: Community experiences and needs for the future'
   publication_date: 2021
   tags:
@@ -3977,7 +3896,7 @@ resources:
   - Thomas J A Slater
   - Kevin W Eliceiri
   - Beth A Cimini
-  license: BSD-3-Clause
+  license: BSD-3-CLAUSE
   name: Bridging Imaging Users to Imaging Analysis - A community survey
   publication_date: 2023
   tags:
@@ -3989,7 +3908,8 @@ resources:
   - https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1
   - https://github.com/COBA-NIH/2023_ImageAnalysisSurvey
 - authors:
-  - Annika Reinke et al
+  - Annika Reinke
+  - et al.
   description: This article gives a detailed overview about pitfalls when using metric
     for image analysis algorithm validation.
   name: Understanding metric-related pitfalls in image analysis validation
@@ -4122,7 +4042,8 @@ resources:
   - https://openresearchsoftware.metajnl.com/articles/10.5334/jors.103
   - https://mitobo.informatik.uni-halle.de/
 - authors:
-  - Daniel Franco-Barranco et al
+  - Daniel Franco-Barranco
+  - et al.
   description: BiaPy is an open source Python library for building bioimage analysis
     pipelines, also called workflows.
   name: 'BiaPy: Bioimage analysis pipelines in Python'
@@ -4259,7 +4180,7 @@ resources:
   - Collection
   - Video
   url: https://www.youtube.com/c/eurobioimagingcommunication
-- license: CC BY-NC-ND 3.0 Deed
+- license: CC BY-NC-ND 3.0 DEED
   name: Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
   tags:
   - Bioimage Analysis
@@ -4289,7 +4210,7 @@ resources:
   - Collection
   - Video
   url: https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
-- license: All rights reserved
+- license: ALL RIGHTS RESERVED
   name: Imaris Tutorials
   tags:
   - Bioimage Analysis
@@ -4297,7 +4218,7 @@ resources:
   - Collection
   - Video
   url: https://imaris.oxinst.com/tutorials
-- license: All rights reserved
+- license: ALL RIGHTS RESERVED
   name: arivis Vision4D Tutorials
   tags:
   - Bioimage Analysis
@@ -4314,7 +4235,7 @@ resources:
   type:
   - Video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
-- license: unknown
+- license: UNKNOWN
   name: Chris Halvin YouTube channel
   tags:
   - Napari
@@ -4326,7 +4247,7 @@ resources:
   url:
   - https://www.youtube.com/@chrishavlin
   - https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1
-- license: unknown
+- license: UNKNOWN
   name: RDM4mic
   tags:
   - Research Data Management
@@ -4336,7 +4257,7 @@ resources:
   - Video
   url:
   - https://www.youtube.com/@RDM4mic
-- license: Creative Commons / Attribution 4.0 International (CC BY 4.0)
+- license: CC-BY-4.0
   name: FAIR BioImage Data
   tags:
   - Research Data Management
@@ -4347,52 +4268,52 @@ resources:
   - Video
   url:
   - https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm
-
-- authors: Haase, Robert
+- authors:
+  - Robert Haase
   description: Large Language Models (LLMs) are changing the way how humans interact
-    with computers. This has impact on all scientific fields by enabling new ways to
-    achieve for example data analysis goals. In this talk we will go through an introduction
-    to LLMs with respect to applications in the life sciences, focusing on bio-image
-    analysis. We will see how to generate text and images using LLMs and how LLMs can
-    extract information from reproducibly images through code-generation. We will go
-    through selected prompt engineering techniques enabling scientists to tune the output
-    of LLMs towards their scientific goal and how to do quality assurance in this context.
-  license: cc-by-4.0
+    with computers. This has impact on all scientific fields by enabling new ways
+    to achieve for example data analysis goals. In this talk we will go through an
+    introduction to LLMs with respect to applications in the life sciences, focusing
+    on bio-image analysis. We will see how to generate text and images using LLMs
+    and how LLMs can extract information from reproducibly images through code-generation.
+    We will go through selected prompt engineering techniques enabling scientists
+    to tune the output of LLMs towards their scientific goal and how to do quality
+    assurance in this context.
+  license: CC-BY-4.0
   name: 'Large Language Models: An Introduction for Life Scientists'
   num_downloads: 259
   publication_date: '2024-08-27'
   url:
   - https://zenodo.org/records/13379394
   - https://doi.org/10.5281/zenodo.13379394
-
-- authors: Haase, Robert
-  description: 'Large Language Models (LLMs) such as ChatGPT are changing the way we
-    interact with computers, including how we analye microscopy imaging data. In this
-    talk I introduce basic concepts of asking LLMs to write code and how to modify the
-    questions to get the best out of it. For trying out these prompt engineering basics
-    there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html'
-  license: cc-by-4.0
+- authors:
+  - Robert Haase
+  description: 'Large Language Models (LLMs) such as ChatGPT are changing the way
+    we interact with computers, including how we analye microscopy imaging data. In
+    this talk I introduce basic concepts of asking LLMs to write code and how to modify
+    the questions to get the best out of it. For trying out these prompt engineering
+    basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html'
+  license: CC-BY-4.0
   name: ChatGPT for Image Analysis
   num_downloads: 434
   publication_date: '2024-08-25'
   url:
   - https://zenodo.org/records/13371196
   - https://doi.org/10.5281/zenodo.13371196
-
-- authors: Haase, Robert
+- authors:
+  - Robert Haase
   description: This talk will present the initiatives of the NFDI4BioImage consortium
-    aimed at the long-term preservation of life science data. We will discuss our efforts
-    to establish metadata standards, which are crucial for ensuring data reusability
+    aimed at the long-term preservation of life science data. We will discuss our
+    efforts to establish metadata standards, which are crucial for ensuring data reusability
     and integrity. The development of sustainable infrastructure is another key focus,
     enabling seamless data integration and analysis in the cloud. We will take a look
     at how we manage training materials and communicate with our community. Through
-    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German
-    researchers, across disciplines and embedded in the international framework.
-  license: cc-by-4.0
+    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for
+    German researchers, across disciplines and embedded in the international framework.
+  license: CC-BY-4.0
   name: Towards Preservation of Life Science Data with NFDI4BIOIMAGE
   num_downloads: 0
   publication_date: '2024-08-29'
   url:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
-  
