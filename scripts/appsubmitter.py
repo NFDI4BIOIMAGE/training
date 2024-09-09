@@ -1,18 +1,14 @@
 import os
 import yaml
 import time
-from github import Github
 import streamlit as st
-import pandas as pd
 
 # Import the functions from other modules in the same folder
-from generate_link_lists import read_yaml_file, load_dataframe
+from generate_link_lists import load_dataframe
 from _github_utilities import get_github_repository  
 
-# Correct the directory path for resources
-directory_path = os.path.join('..', 'resources')
-
-
+# directory path for resources
+directory_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'resources')
 
 def get_unique_values_from_yamls(resources_dir):
     """
@@ -78,9 +74,14 @@ def create_pull_request(repo, yaml_file, authors, license, name, description, ta
         base_branch = repo.get_branch("main")
         timestamp = int(time.time())
         branch_name = f"update-{yaml_file.split('.')[0]}-{timestamp}".replace(' ', '-')
+
+        # create branch
         repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base_branch.commit.sha)
+
+        # modify file on new branch
         repo.update_file(file_path, f"Add new entry", new_yaml_content, file_contents.sha, branch=branch_name)
 
+        # submit pull request
         pr_title = f"Add new training materials request to {yaml_file}"
         pr_body = "Added new training materials."
         pr = repo.create_pull(title=pr_title, body=pr_body, head=branch_name, base='main')
