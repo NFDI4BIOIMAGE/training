@@ -77,7 +77,6 @@ def create_pull_request(repo, yaml_file, authors, license, name, description, ta
         file_path = f"resources/{yaml_file}"
         file_contents = repo.get_contents(file_path)
         yaml_content = file_contents.decoded_content.decode('utf-8')
-        yaml_data = yaml.safe_load(yaml_content)
 
         new_entry = {
             'authors': authors,
@@ -89,13 +88,8 @@ def create_pull_request(repo, yaml_file, authors, license, name, description, ta
             'url': url
         }
 
-        if 'resources' in yaml_data:
-            yaml_data['resources'].append(new_entry)
-        else:
-            yaml_data['resources'] = [new_entry]
-
         # Use allow_unicode=True to ensure proper Unicode handling
-        new_yaml_content = yaml.safe_dump(yaml_data, allow_unicode=True, sort_keys=False)
+        new_yaml_content = yaml_content + "\n- " + yaml.safe_dump(new_entry, allow_unicode=False, sort_keys=False).replace("\n", "\n  ")
 
         base_branch = repo.get_branch("main")
         timestamp = int(time.time())
