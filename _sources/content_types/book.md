@@ -22,7 +22,7 @@ Content type: Book
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -39,7 +39,7 @@ Content type: Book
 
 ['Robert Haase et al.']
 
-Licensed ['CC-BY-4.0', 'BSD-3-Clause']
+Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
@@ -56,7 +56,7 @@ Content type: Book, Notebook
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -73,7 +73,7 @@ Content type: Book
 
 ['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -94,7 +94,7 @@ Content type: Book
 
 Published 2013
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -194,7 +194,7 @@ Content type: Book
 
 ['Nicolas P. Rougier']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 

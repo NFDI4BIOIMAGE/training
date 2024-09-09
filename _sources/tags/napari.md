@@ -35,7 +35,7 @@ Content type: Notebook
 
 ['Fabrizio Musacchio']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 
@@ -50,7 +50,7 @@ Content type: Collection
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

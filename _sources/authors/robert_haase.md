@@ -1,4 +1,4 @@
-# Robert haase (41)
+# Robert haase (42)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -77,7 +77,7 @@ Content type: Slide
 
 ## Bio-image Data Science
 
-['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
+['Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -149,11 +149,11 @@ Content type: Blog
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al']
+['Robert Haase', 'Loic Royer', 'et al.']
 
 Published 2020
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -408,7 +408,7 @@ Content type: Blog
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -440,7 +440,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ['Robert Haase', 'Benoit Lombardot']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -557,7 +557,7 @@ Content type: Publication
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -576,7 +576,7 @@ Content type: Slide
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -618,7 +618,7 @@ Content type: Slides
 
 Published 2022
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -644,6 +644,25 @@ Content type: Slide
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
 [https://doi.org/10.7490/f1000research.1119154.1](https://doi.org/10.7490/f1000research.1119154.1)
+
+
+---
+
+## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
+
+['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert', 'Robert Haase']
+
+Licensed CC-BY-4.0
+
+
+
+This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
+
+Tags: Gpu, Clesperanto, Dask, Python
+
+Content type: Notebook
+
+[https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/)
 
 
 ---
@@ -690,7 +709,7 @@ Content type: Blog
 
 ['Robert Haase']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -728,7 +747,7 @@ This talk will present the initiatives of the NFDI4BioImage consortium aimed at 
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -747,7 +766,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -764,7 +783,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

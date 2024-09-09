@@ -3,7 +3,7 @@
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -102,7 +102,7 @@ Content type: Collection
 
 ## BioImage Archive AI Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -117,7 +117,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Visual Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -132,7 +132,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Volume EM Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -147,7 +147,7 @@ Content type: Collection, Data
 
 ## BioImage Informatics Index Training Materials
 
-Licensed ODC-By-1.0
+Licensed ODC-BY-1.0
 
 
 
@@ -175,7 +175,7 @@ Content type: Collection, Data, Publiction
 
 ## Bioimage Model Zoo
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -192,7 +192,7 @@ Content type: Collection
 
 ['Fabrizio Musacchio']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 
@@ -231,7 +231,7 @@ Content type: Collection
 
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -246,7 +246,7 @@ Content type: Collection, Data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -289,7 +289,7 @@ Content type: Collection
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -351,7 +351,7 @@ Content type: Collection, Video
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -375,7 +375,7 @@ Content type: Collection, Tutorial
 
 ## FAIR BioImage Data
 
-Licensed creative-commons-/-attribution-4.0-international-(cc-by-4.0)
+Licensed CC-BY-4.0
 
 
 
@@ -403,7 +403,7 @@ Content type: Collection, Video
 
 ## Forschungsdaten.info
 
-Licensed public-domain
+Licensed PUBLIC DOMAIN
 
 
 
@@ -437,7 +437,7 @@ Content type: Collection
 
 ## GerBI Teaching Resources Link List
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -495,7 +495,7 @@ Content type: Collection
 
 ## I3D:bio list of online training material
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -512,7 +512,7 @@ Content type: Collection
 
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 
-Licensed cc-by-nc-nd-3.0-deed
+Licensed CC BY-NC-ND 3.0 DEED
 
 
 
@@ -540,7 +540,7 @@ Content type: Collection, Data, Publication
 
 ## Imaris Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -570,7 +570,7 @@ Content type: Collection, Video
 
 ## MicroscopyDB
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -626,7 +626,7 @@ Content type: Collection, Event
 
 ## OMERO Guide
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -641,7 +641,7 @@ Content type: Collection
 
 ## Omero Deployment examples
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -703,7 +703,7 @@ Content type: Collection
 
 ## RDM4mic
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -757,7 +757,7 @@ Content type: Collection, Event
 
 ## TESS training materials
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -821,7 +821,7 @@ Content type: Notebook, Collection
 
 ## arivis Vision4D Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -836,7 +836,7 @@ Content type: Collection, Video
 
 ## microlist
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 

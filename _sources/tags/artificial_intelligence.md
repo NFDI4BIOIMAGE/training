@@ -3,7 +3,7 @@
 
 ['Caterina Fuster-Barceló']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -20,7 +20,7 @@ Content type: Documentation
 
 ['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -37,7 +37,7 @@ Content type: Publication
 
 ## Bioimage Model Zoo
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -54,7 +54,7 @@ Content type: Collection
 
 ['Estibaliz Gómez-de-Mariscal\\']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -71,7 +71,7 @@ Content type: Slide
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -88,7 +88,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -120,7 +120,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -137,7 +137,7 @@ Content type: Notebook
 
 ['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -154,7 +154,7 @@ Content type: Notebook
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -186,7 +186,7 @@ Content type: Notebook
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -220,7 +220,7 @@ Content type: Notebook
 
 ['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -239,7 +239,7 @@ Content type: Book
 
 ['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -256,7 +256,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Constantin Pape']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -273,7 +273,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -307,7 +307,7 @@ Content type: Slide
 
 ['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -324,7 +324,7 @@ Content type: Tutorial
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -341,7 +341,7 @@ Content type: Slide
 
 ['Ignacio Arganda-Carreras']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -358,7 +358,7 @@ Content type: Slide
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -392,7 +392,7 @@ Content type: Blog
 
 ['Constantin Pape', 'Adrian Wolny']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -407,7 +407,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

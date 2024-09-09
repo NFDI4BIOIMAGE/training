@@ -60,7 +60,7 @@ Content type: Slide, Video
 
 ['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -111,9 +111,9 @@ Content type: Slides
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

@@ -16,7 +16,7 @@ Content type: Tutorial, Code
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -33,7 +33,7 @@ Content type: Slide, Code
 
 ['Jonas Hartmann', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -52,7 +52,7 @@ Content type: Code, Notebook
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -69,7 +69,7 @@ Content type: Slide, Code, Notebook
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -86,7 +86,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -101,7 +101,7 @@ Content type: Slide, Code, Notebook
 
 ## Nextflow Demo Pipelines for Image Processing
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -116,7 +116,7 @@ Content type: Code
 
 ['Karin Sasaki', 'Jonas Hartmann']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -133,7 +133,7 @@ Content type: Code, Notebook
 
 ['Marion Louveaux']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

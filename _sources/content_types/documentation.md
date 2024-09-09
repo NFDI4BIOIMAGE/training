@@ -3,7 +3,7 @@
 
 ['Caterina Fuster-Barceló']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -18,7 +18,7 @@ Content type: Documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco et al']
+['Daniel Franco-Barranco', 'et al.']
 
 
 
@@ -170,6 +170,8 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
@@ -205,7 +207,7 @@ Content type: Documentation
 
 ## OMERO documentation
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

@@ -5,7 +5,7 @@
 
 Published 2021
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -24,7 +24,7 @@ Content type: Publication
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -41,7 +41,7 @@ Content type: Notebook
 
 ['Albert Cardona']
 
-Licensed cc0
+Licensed CC0-1.0
 
 
 
@@ -96,7 +96,7 @@ Content type: Publication
 
 ['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -147,7 +147,7 @@ Content type: Github Repository
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -181,7 +181,7 @@ Content type: Publication
 
 ['Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -286,7 +286,7 @@ Content type: Notebook
 
 ['Robert Haase et al.']
 
-Licensed ['CC-BY-4.0', 'BSD-3-Clause']
+Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
@@ -301,7 +301,7 @@ Content type: Book, Notebook
 
 ## BioImage Archive AI Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -316,7 +316,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Visual Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -331,7 +331,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Volume EM Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -348,7 +348,7 @@ Content type: Collection, Data
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -363,7 +363,7 @@ Content type: Book
 
 ## BioImage Informatics Index Training Materials
 
-Licensed ODC-By-1.0
+Licensed ODC-BY-1.0
 
 
 
@@ -378,7 +378,7 @@ Content type: Collection
 
 ## Bioimage Model Zoo
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -395,7 +395,7 @@ Content type: Collection
 
 ['Fabrizio Musacchio']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 
@@ -414,7 +414,7 @@ Content type: Collection
 
 Published 2023
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -446,7 +446,7 @@ Content type: Workshop
 
 ['Estibaliz Gómez-de-Mariscal\\']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -463,7 +463,7 @@ Content type: Slide
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -478,11 +478,11 @@ Content type: Notebook
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al']
+['Robert Haase', 'Loic Royer', 'et al.']
 
 Published 2020
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -514,7 +514,7 @@ Content type: Collection, Video
 
 ['Martin Weigert', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -529,7 +529,7 @@ Content type: Notebook
 
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -544,7 +544,7 @@ Content type: Collection, Data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -561,7 +561,7 @@ Content type: Collection, Data
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -578,7 +578,7 @@ Content type: Slide
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -593,7 +593,7 @@ Content type: Tutorial
 
 ## CellProfiler tutorials
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -629,7 +629,7 @@ Content type: Publication
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -663,7 +663,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -680,7 +680,7 @@ Content type: Publication
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -697,7 +697,7 @@ Content type: Notebook
 
 ['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -714,7 +714,7 @@ Content type: Notebook
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -731,7 +731,7 @@ Content type: Slide, Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -748,7 +748,7 @@ Content type: Notebook
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -765,7 +765,7 @@ Content type: Notebook
 
 ['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -803,7 +803,7 @@ Content type: Poster
 
 ['Anirban Ray']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -833,7 +833,7 @@ Content type: Event
 
 ## EPFLx: Image Processing and Analysis for Life Scientists
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -852,7 +852,7 @@ Content type: Online Course
 
 Published 2013
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -867,7 +867,7 @@ Content type: Tutorial, Book
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -875,22 +875,7 @@ Licensed CC-BY-4.0
 
 
 
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
-Types of tasks included:
-
-FAIR characteristics of a real world dataset
-Data Management Plan (DMP)
-Journal Policies on FAIR data sharing
-Ontology search
-Metadata according to REMBI scheme
-
-(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
-
-
-Matching datasets to bioimage repositories
-Browsing bioimage repositories
-
-&nbsp;
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
 Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
@@ -905,7 +890,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -929,7 +914,7 @@ Content type: Collection, Tutorial
 
 ## FAIR BioImage Data
 
-Licensed creative-commons-/-attribution-4.0-international-(cc-by-4.0)
+Licensed CC-BY-4.0
 
 
 
@@ -989,7 +974,7 @@ Content type: Workshop
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1006,7 +991,7 @@ Content type: Notebook
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1106,7 +1091,7 @@ Content type: Notebook
 
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 
-Licensed cc-by-nc-nd-3.0-deed
+Licensed CC BY-NC-ND 3.0 DEED
 
 
 
@@ -1138,7 +1123,7 @@ Content type: Book
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1155,7 +1140,7 @@ Content type: Notebook
 
 ['Beatriz Serrano-Solano', 'Björn Grüning']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1172,7 +1157,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1208,7 +1193,7 @@ Content type: Book
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1225,7 +1210,7 @@ Content type: Slide, Code
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1240,7 +1225,7 @@ Content type: Slide
 
 ## Imaris Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -1289,7 +1274,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ['Robert Haase', 'Benoit Lombardot']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1306,7 +1291,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1340,7 +1325,7 @@ Content type: Slide
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1355,7 +1340,7 @@ Content type: Slide
 
 ## Machine Learning Workflow for Imaging Flow Cytometry (IFC)
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1372,7 +1357,7 @@ Content type: Tutorial
 
 ['Ignacio Arganda-Carreras']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1455,7 +1440,7 @@ Content type: Document
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1472,7 +1457,7 @@ Content type: Slide
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1489,7 +1474,7 @@ Content type: Notebook
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1506,7 +1491,7 @@ Content type: Slide, Code, Notebook
 
 ['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1523,7 +1508,7 @@ Content type: Slide, Tutorial
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1540,7 +1525,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1612,7 +1597,7 @@ Content type: Slides
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Fuchs', 'Vanessa A. F.', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Moore', 'Joshua A.', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'Weil', 'H. Lukas', 'Jens Wendt', 'Peter Zentis']
+['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
 
 Licensed CC-BY-4.0
 
@@ -1633,7 +1618,7 @@ Content type: Github Repository
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1867,7 +1852,7 @@ Content type: Blog
 
 ['Marion Louveaux']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1933,7 +1918,7 @@ Content type: Book
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -1967,7 +1952,7 @@ Content type: Blog
 
 ['Constantin Pape', 'Adrian Wolny']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1980,7 +1965,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## Understanding metric-related pitfalls in image analysis validation
 
-['Annika Reinke et al']
+['Annika Reinke', 'et al.']
 
 Published 2023
 
@@ -2020,7 +2005,7 @@ Content type: Slides
 
 ['Kota Miura']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -2035,7 +2020,7 @@ Content type: Slide
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Fuchs', 'Vanessa Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
 
 Licensed CC-BY-4.0
 
@@ -2056,7 +2041,7 @@ Content type: Poster
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -2073,7 +2058,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -2120,7 +2105,7 @@ Content type: Collection, Notebook
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -2192,7 +2177,7 @@ Content type: Slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
+['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
 
 Licensed CC-BY-4.0
 
@@ -2211,7 +2196,7 @@ Content type: Slides
 
 ## arivis Vision4D Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 

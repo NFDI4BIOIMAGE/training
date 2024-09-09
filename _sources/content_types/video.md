@@ -27,7 +27,7 @@ Content type: Collection, Video
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -74,7 +74,7 @@ Content type: Collection, Video
 
 ## FAIR BioImage Data
 
-Licensed creative-commons-/-attribution-4.0-international-(cc-by-4.0)
+Licensed CC-BY-4.0
 
 
 
@@ -149,7 +149,7 @@ Content type: Slide, Video
 
 ## Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
 
-Licensed cc-by-nc-nd-3.0-deed
+Licensed CC BY-NC-ND 3.0 DEED
 
 
 
@@ -164,7 +164,7 @@ Content type: Collection, Video
 
 ## Imaris Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -245,7 +245,7 @@ Content type: Collection, Video
 
 ## RDM4mic
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -298,7 +298,7 @@ Content type: Video
 
 ## arivis Vision4D Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 

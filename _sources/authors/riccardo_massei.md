@@ -86,7 +86,7 @@ Content type: Github Repository
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Fuchs', 'Vanessa Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
 
 Licensed CC-BY-4.0
 

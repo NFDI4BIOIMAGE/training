@@ -20,7 +20,7 @@ Content type: Github Repository
 
 ## Bio-image Data Science
 
-['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
+['Robert Haase']
 
 Licensed CC-BY-4.0
 

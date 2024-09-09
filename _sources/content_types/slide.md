@@ -3,7 +3,7 @@
 
 ['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -20,7 +20,7 @@ Content type: Slide
 
 ['Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -83,7 +83,7 @@ Content type: Slide
 
 ['Estibaliz Gómez-de-Mariscal\\']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -100,7 +100,7 @@ Content type: Slide
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -155,7 +155,7 @@ Content type: Slide
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -214,7 +214,7 @@ Content type: Slide, Video
 
 ['Aastha Mathur']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -229,7 +229,7 @@ Content type: Slide
 
 ['Beatriz Serrano-Solano', 'Björn Grüning']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -246,7 +246,7 @@ Content type: Slide
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -263,7 +263,7 @@ Content type: Slide, Code
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -280,7 +280,7 @@ Content type: Slide
 
 ['Robert Haase', 'Benoit Lombardot']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -297,7 +297,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -331,7 +331,7 @@ Content type: Slide
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -348,7 +348,7 @@ Content type: Slide
 
 ['Ignacio Arganda-Carreras']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -386,7 +386,7 @@ Content type: Online Tutorial, Video, Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -405,7 +405,7 @@ Content type: Slide
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -422,7 +422,7 @@ Content type: Slide, Code, Notebook
 
 ['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -439,7 +439,7 @@ Content type: Slide, Tutorial
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -456,7 +456,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -473,7 +473,7 @@ Content type: Slide, Code, Notebook
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -488,7 +488,7 @@ Content type: Slide, Notebook
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-['Floden', 'Evan', 'Di Tommaso', 'Paolo']
+['Floden Evan', 'Di Tommaso Paolo']
 
 Published 2020-12-17
 
@@ -627,7 +627,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -646,7 +646,7 @@ Content type: Slide
 
 ['Kota Miura']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -663,7 +663,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -680,7 +680,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -697,7 +697,7 @@ Content type: Slide
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

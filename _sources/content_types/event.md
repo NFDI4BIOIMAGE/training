@@ -39,6 +39,8 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 

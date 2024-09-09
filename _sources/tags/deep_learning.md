@@ -20,7 +20,7 @@ Content type: Github Repository
 
 ## Bio-image Data Science
 
-['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
+['Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -77,7 +77,7 @@ Content type: Documentation
 
 ## BioImage Archive AI Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -111,7 +111,7 @@ Content type: Slides
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape', 'computational-cell-analytics']
+['Costantin Pape']
 
 Licensed MIT
 

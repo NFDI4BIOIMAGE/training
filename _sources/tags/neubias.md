@@ -3,7 +3,7 @@
 
 ['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -20,7 +20,7 @@ Content type: Slide
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -37,7 +37,7 @@ Content type: Book
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -54,7 +54,7 @@ Content type: Slide
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -92,7 +92,7 @@ Content type: Publication
 
 Published 2013
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -143,7 +143,7 @@ Content type: Book
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -160,7 +160,7 @@ Content type: Slide, Code
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -177,7 +177,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -194,7 +194,7 @@ Content type: Slide
 
 ['Ignacio Arganda-Carreras']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -211,7 +211,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -228,7 +228,7 @@ Content type: Slide
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -245,7 +245,7 @@ Content type: Notebook
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -262,7 +262,7 @@ Content type: Slide, Code, Notebook
 
 ['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -279,7 +279,7 @@ Content type: Slide, Tutorial
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -296,7 +296,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -328,7 +328,7 @@ Content type: Collection, Video
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -362,7 +362,7 @@ Content type: Book, Notebook
 
 ['Marion Louveaux']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -379,7 +379,7 @@ Content type: Code
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -398,7 +398,7 @@ Content type: Slide
 
 ['Kota Miura']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -415,7 +415,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -432,7 +432,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

@@ -3,7 +3,7 @@
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -35,7 +35,7 @@ Content type: Tutorial, Code
 
 Published 2013
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -50,7 +50,7 @@ Content type: Tutorial, Book
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -58,22 +58,7 @@ Licensed CC-BY-4.0
 
 
 
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
-Types of tasks included:
-
-FAIR characteristics of a real world dataset
-Data Management Plan (DMP)
-Journal Policies on FAIR data sharing
-Ontology search
-Metadata according to REMBI scheme
-
-(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
-
-
-Matching datasets to bioimage repositories
-Browsing bioimage repositories
-
-&nbsp;
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
 Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
@@ -88,7 +73,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -127,7 +112,7 @@ Content type: Slides, Tutorial
 
 ['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -142,7 +127,7 @@ Content type: Tutorial
 
 ## Machine Learning Workflow for Imaging Flow Cytometry (IFC)
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -174,7 +159,7 @@ Content type: Tutorial
 
 ['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -191,7 +176,7 @@ Content type: Slide, Tutorial
 
 ['Bugra Oezdemir', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -206,7 +191,7 @@ Content type: Tutorial
 
 ['Volker Hilsenstein']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -234,7 +219,7 @@ Content type: Tutorial
 
 ## Source Control Using Git and GitHub
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

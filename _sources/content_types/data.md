@@ -18,7 +18,7 @@ Content type: Collection, Data
 
 ## BioImage Archive AI Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -33,7 +33,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Visual Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -48,7 +48,7 @@ Content type: Collection, Data
 
 ## BioImage Archive Volume EM Gallery
 
-Licensed cc0-licence-(some-accessions-are-available-under-different-license,-if-so-the-license-is-indicated-as-attribute-on-dataset)
+Licensed CC0-1.0
 
 
 
@@ -76,7 +76,7 @@ Content type: Collection, Data, Publiction
 
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -91,7 +91,7 @@ Content type: Collection, Data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

@@ -238,7 +238,7 @@ Content type: Blog
 
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'von Suchodoletz', 'Dirk']
+['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
 
 Licensed CC-BY-4.0
 
@@ -376,16 +376,8 @@ Licensed CC-BY-4.0
 
 
 
-
-
-
-
-Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
+ Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
-
-
-
-
 
 Tags: Research Data Management
 
@@ -507,7 +499,7 @@ Content type: Slides
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -515,22 +507,7 @@ Licensed CC-BY-4.0
 
 
 
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
-Types of tasks included:
-
-FAIR characteristics of a real world dataset
-Data Management Plan (DMP)
-Journal Policies on FAIR data sharing
-Ontology search
-Metadata according to REMBI scheme
-
-(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
-
-
-Matching datasets to bioimage repositories
-Browsing bioimage repositories
-
-&nbsp;
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
 Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
@@ -545,7 +522,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -569,7 +546,7 @@ Content type: Collection, Tutorial
 
 ## FAIR BioImage Data
 
-Licensed creative-commons-/-attribution-4.0-international-(cc-by-4.0)
+Licensed CC-BY-4.0
 
 
 
@@ -599,7 +576,7 @@ Content type: Workshop
 
 ## Forschungsdaten.info
 
-Licensed public-domain
+Licensed PUBLIC DOMAIN
 
 
 
@@ -680,7 +657,7 @@ Content type: Slides
 
 ## I3D:bio list of online training material
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -786,7 +763,7 @@ Content type: Document
 
 ['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -902,12 +879,14 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Fuchs', 'Vanessa A. F.', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Moore', 'Joshua A.', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'Weil', 'H. Lukas', 'Jens Wendt', 'Peter Zentis']
+['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
 
 Licensed CC-BY-4.0
 
@@ -958,7 +937,7 @@ Content type: Publication
 
 ['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -1083,7 +1062,7 @@ Content type: Collection
 
 ## RDM4mic
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1113,9 +1092,9 @@ Content type: Collection
 
 ## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans et al']
+['Ugis Sarkans', 'et al.']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -1179,9 +1158,9 @@ Content type: Publication
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -1314,7 +1293,7 @@ Content type: Video
 
 ## Sustainable Data Stewardship
 
-['Della Chiesa', 'Stefano']
+['Stefano Della Chiesa']
 
 Published 2024-03-25
 
@@ -1322,41 +1301,7 @@ Licensed CC-BY-4.0
 
 
 
-
-
-
-
-
-
-
-These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
-
-
-
-
-&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;
-
-
-
-
-
-
-
+ These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
 
 Tags: Research Data Management, Data Stewardship
 
@@ -1415,7 +1360,7 @@ Content type: Book
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Fuchs', 'Vanessa Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
 
 Licensed CC-BY-4.0
 
@@ -1533,7 +1478,7 @@ Content type: Slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
+['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
 
 Licensed CC-BY-4.0
 

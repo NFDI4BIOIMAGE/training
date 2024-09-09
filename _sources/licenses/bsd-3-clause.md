@@ -5,7 +5,7 @@
 
 Published 2021
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -24,7 +24,7 @@ Content type: Publication
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -41,7 +41,7 @@ Content type: Collection, Publication
 
 ['Robert Haase et al.']
 
-Licensed ['CC-BY-4.0', 'BSD-3-Clause']
+Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
@@ -60,7 +60,7 @@ Content type: Book, Notebook
 
 Published 2023
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -77,7 +77,7 @@ Content type: Publication, Preprint
 
 ## CellProfiler tutorials
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -96,7 +96,7 @@ Content type: Notebook
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -113,7 +113,7 @@ Content type: Notebook
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -130,7 +130,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -147,7 +147,7 @@ Content type: Notebook
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -164,7 +164,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -181,7 +181,7 @@ Content type: Slide
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -198,7 +198,7 @@ Content type: Notebook
 
 ['Gaelle Letort']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -217,7 +217,7 @@ Content type: Github Repository
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -236,7 +236,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -253,7 +253,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -270,7 +270,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

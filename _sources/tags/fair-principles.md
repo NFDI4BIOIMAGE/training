@@ -1,7 +1,7 @@
 # Fair-principles (16)
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'von Suchodoletz', 'Dirk']
+['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
 
 Licensed CC-BY-4.0
 
@@ -68,7 +68,7 @@ Content type: Slides
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -76,22 +76,7 @@ Licensed CC-BY-4.0
 
 
 
-Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp;
-Types of tasks included:
-
-FAIR characteristics of a real world dataset
-Data Management Plan (DMP)
-Journal Policies on FAIR data sharing
-Ontology search
-Metadata according to REMBI scheme
-
-(Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8)
-
-
-Matching datasets to bioimage repositories
-Browsing bioimage repositories
-
-&nbsp;
+Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
 Tags: Bioimage Analysis, Fair-Principles, Research Data Management
 
@@ -106,7 +91,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Kemmer', 'Isabel', 'Euro-BioImaging ERIC']
+['Isabel Kemmer', 'Euro-BioImaging ERIC']
 
 Published 2024-06-04
 
@@ -217,7 +202,7 @@ Content type: Slides
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Fuchs', 'Vanessa A. F.', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Moore', 'Joshua A.', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'Weil', 'H. Lukas', 'Jens Wendt', 'Peter Zentis']
+['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
 
 Licensed CC-BY-4.0
 

@@ -18,7 +18,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -35,7 +35,7 @@ Content type: Slide, Notebook
 
 ['Martin Weigert', 'Constantin Pape']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -97,7 +97,7 @@ Content type: Publication
 
 ['Constantin Pape', 'Adrian Wolny']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -112,7 +112,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Constantin Pape', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

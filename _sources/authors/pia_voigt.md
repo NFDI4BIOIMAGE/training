@@ -34,16 +34,8 @@ Licensed CC-BY-4.0
 
 
 
-
-
-
-
-Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
+ Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
-
-
-
-
 
 Tags: Research Data Management
 

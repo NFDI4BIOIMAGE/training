@@ -3,7 +3,7 @@
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -52,7 +52,7 @@ Content type: Github Repository
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco et al']
+['Daniel Franco-Barranco', 'et al.']
 
 
 
@@ -92,7 +92,7 @@ Content type: Slide
 
 ## Bio-image Data Science
 
-['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
+['Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -168,7 +168,7 @@ Content type: Documentation
 
 ['Robert Haase et al.']
 
-Licensed ['CC-BY-4.0', 'BSD-3-Clause']
+Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
@@ -185,7 +185,7 @@ Content type: Book, Notebook
 
 ['Fabrizio Musacchio']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 
@@ -219,7 +219,7 @@ Content type: Blog
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -236,7 +236,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -251,7 +251,7 @@ Content type: Notebook
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -270,7 +270,7 @@ Content type: Collection, Video
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -287,7 +287,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -355,7 +355,7 @@ Content type: Collection, Video
 
 ['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -372,7 +372,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Constantin Pape']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -389,7 +389,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -436,7 +436,7 @@ Content type: Documentation
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -502,7 +502,7 @@ Content type: Blog
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -519,7 +519,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -570,7 +570,7 @@ Content type: Book, Notebook
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape', 'computational-cell-analytics']
+['Costantin Pape']
 
 Licensed MIT
 
@@ -625,7 +625,7 @@ Content type: Blog
 
 ['Jonas Hartmann', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -644,7 +644,7 @@ Content type: Code, Notebook
 
 ['Karin Sasaki', 'Aleksej Zelezniak']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -678,7 +678,7 @@ Content type: Videos, Practicals, Slides
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -705,6 +705,8 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
@@ -712,7 +714,7 @@ Content type: Event, Publication, Documentation
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -823,7 +825,7 @@ Content type: Event, Notebook
 
 ## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
 
-['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert and Robert Haase']
+['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert', 'Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -874,7 +876,7 @@ Tags: Python, Bioimage Analysis
 
 ['Karin Sasaki', 'Jonas Hartmann']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -993,7 +995,7 @@ Content type: Blog
 
 ['Nicolas P. Rougier']
 
-Licensed cc-by-nd-sa-4.0
+Licensed CC-BY-ND-SA-4.0
 
 
 
@@ -1093,7 +1095,7 @@ Content type: Collection, Notebook
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

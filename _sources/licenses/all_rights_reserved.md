@@ -1,9 +1,9 @@
-# All-rights-reserved (14)
+# All rights reserved (14)
 ## Basics of Image Processing and Analysis
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -20,7 +20,7 @@ Content type: Book
 
 ['Kota Miura']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -35,11 +35,11 @@ Content type: Book
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al']
+['Robert Haase', 'Loic Royer', 'et al.']
 
 Published 2020
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -58,7 +58,7 @@ Content type: Publication
 
 ['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -73,7 +73,7 @@ Content type: Publication
 
 ## EPFLx: Image Processing and Analysis for Life Scientists
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -88,7 +88,7 @@ Content type: Online Course
 
 ## Imaris Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -105,7 +105,7 @@ Content type: Collection, Video
 
 ['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -120,7 +120,7 @@ Content type: Publication
 
 ## MicroscopyDB
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -135,7 +135,7 @@ Content type: Collection
 
 ['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -156,7 +156,7 @@ Content type: Publication
 
 Published 2022
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -171,9 +171,9 @@ Content type: Publication
 
 ## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans et al']
+['Ugis Sarkans', 'et al.']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -190,7 +190,7 @@ Content type: Publication
 
 ['Robert Haase']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -207,7 +207,7 @@ Content type: Publication
 
 ## arivis Vision4D Tutorials
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -222,7 +222,7 @@ Content type: Collection, Video
 
 ## microlist
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 

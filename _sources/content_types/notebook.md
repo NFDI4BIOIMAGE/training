@@ -3,7 +3,7 @@
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -20,7 +20,7 @@ Content type: Notebook
 
 ['Albert Cardona']
 
-Licensed cc0
+Licensed CC0-1.0
 
 
 
@@ -35,7 +35,7 @@ Content type: Notebook
 
 ## Bio-image Data Science
 
-['Robert Haase', 'ScaDS.AI Dresden/Leipzig']
+['Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -73,7 +73,7 @@ Content type: Notebook
 
 ['Robert Haase et al.']
 
-Licensed ['CC-BY-4.0', 'BSD-3-Clause']
+Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
@@ -90,7 +90,7 @@ Content type: Book, Notebook
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -107,7 +107,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -122,7 +122,7 @@ Content type: Notebook
 
 ## CellProfiler tutorials
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -158,7 +158,7 @@ Content type: Notebook, Collection
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -175,7 +175,7 @@ Content type: Notebook
 
 ['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -207,7 +207,7 @@ Content type: Notebook, Collection
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -224,7 +224,7 @@ Content type: Slide, Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -256,7 +256,7 @@ Content type: Notebook
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -290,7 +290,7 @@ Content type: Notebook
 
 ['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -307,7 +307,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Constantin Pape']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -324,7 +324,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -341,7 +341,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -358,7 +358,7 @@ Content type: Notebook
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -392,7 +392,7 @@ Content type: Notebook
 
 ['Juan Nunez-Iglesias']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -409,7 +409,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -460,7 +460,7 @@ Content type: Book, Notebook
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape', 'computational-cell-analytics']
+['Costantin Pape']
 
 Licensed MIT
 
@@ -481,7 +481,7 @@ Content type: Notebook
 
 ['Jonas Hartmann', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -500,7 +500,7 @@ Content type: Code, Notebook
 
 ['Karin Sasaki', 'Aleksej Zelezniak']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -515,7 +515,7 @@ Content type: Notebook
 
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -532,7 +532,7 @@ Content type: Notebook
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -549,7 +549,7 @@ Content type: Slide, Code, Notebook
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -566,7 +566,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -583,7 +583,7 @@ Content type: Slide, Code, Notebook
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -660,7 +660,7 @@ Content type: Event, Notebook
 
 ## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
 
-['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert and Robert Haase']
+['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert', 'Robert Haase']
 
 Licensed CC-BY-4.0
 
@@ -681,7 +681,7 @@ Content type: Notebook
 
 ['Karin Sasaki', 'Jonas Hartmann']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -787,7 +787,7 @@ Content type: Notebook, Collection
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

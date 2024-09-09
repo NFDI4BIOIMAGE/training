@@ -89,6 +89,8 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
@@ -141,7 +143,7 @@ Content type: Github Repository
 
 ## OMERO Guide
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -156,7 +158,7 @@ Content type: Collection
 
 ## OMERO documentation
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -173,7 +175,7 @@ Content type: Documentation
 
 ['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -190,7 +192,7 @@ Content type: Publication
 
 ## OMERO walkthrough example
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -205,7 +207,7 @@ Content type: Document
 
 ## OMERO walkthrough for facility managers
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -220,7 +222,7 @@ Content type: Document
 
 ## Omero Deployment examples
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -250,7 +252,7 @@ Content type: Collection, Video
 
 ## RDM4mic
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -299,7 +301,7 @@ Content type: Slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Vanessa Aphaia Fiona Fuchs', 'Christian Schmidt', 'Tom Boissonnet']
+['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
 
 Licensed CC-BY-4.0
 

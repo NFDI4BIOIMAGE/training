@@ -3,7 +3,7 @@
 
 ['Albert Cardona']
 
-Licensed cc0
+Licensed CC0-1.0
 
 
 
@@ -33,11 +33,11 @@ Content type: Publication, Poster
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al']
+['Robert Haase', 'Loic Royer', 'et al.']
 
 Published 2020
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -56,7 +56,7 @@ Content type: Publication
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -105,7 +105,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ['Robert Haase', 'Benoit Lombardot']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -196,7 +196,7 @@ Content type: Publication, Documentation
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -215,7 +215,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -234,7 +234,7 @@ Content type: Publication
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -253,7 +253,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -270,7 +270,7 @@ Content type: Slide
 
 ['Robert Haase']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

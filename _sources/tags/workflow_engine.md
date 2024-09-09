@@ -3,7 +3,7 @@
 
 ['Caterina Fuster-Barceló']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -18,7 +18,7 @@ Content type: Documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco et al']
+['Daniel Franco-Barranco', 'et al.']
 
 
 
@@ -37,7 +37,7 @@ Content type: Documentation
 
 ['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -175,7 +175,7 @@ Content type: Documentation
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-['Floden', 'Evan', 'Di Tommaso', 'Paolo']
+['Floden Evan', 'Di Tommaso Paolo']
 
 Published 2020-12-17
 

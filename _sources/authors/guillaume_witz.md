@@ -3,7 +3,7 @@
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -20,7 +20,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -37,7 +37,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -54,7 +54,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -71,7 +71,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -107,7 +107,7 @@ Content type: Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -124,7 +124,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 

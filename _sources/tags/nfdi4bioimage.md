@@ -186,12 +186,14 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Fuchs', 'Vanessa A. F.', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Moore', 'Joshua A.', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'Weil', 'H. Lukas', 'Jens Wendt', 'Peter Zentis']
+['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
 
 Licensed CC-BY-4.0
 
@@ -229,7 +231,7 @@ Content type: Publication
 
 ['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -263,9 +265,9 @@ Content type: Publication
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -345,7 +347,7 @@ Content type: Slides
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Fuchs', 'Vanessa Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
 
 Licensed CC-BY-4.0
 

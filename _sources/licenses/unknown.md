@@ -3,7 +3,7 @@
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -20,7 +20,7 @@ Content type: Notebook
 
 ['Caterina Fuster-Barceló']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -39,7 +39,7 @@ Content type: Documentation
 
 Published 2014
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -52,7 +52,7 @@ Licensed unknown
 
 ['Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -69,7 +69,7 @@ Content type: Slide
 
 ['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -86,7 +86,7 @@ Content type: Publication
 
 ## Bioimage Model Zoo
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -103,7 +103,7 @@ Content type: Collection
 
 ['Estibaliz Gómez-de-Mariscal\\']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -120,7 +120,7 @@ Content type: Slide
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -137,7 +137,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -152,7 +152,7 @@ Content type: Notebook
 
 ## Cell Tracking Challenge - 2D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -167,7 +167,7 @@ Content type: Collection, Data
 
 ## Cell Tracking Challenge - 3D Datasets
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -184,7 +184,7 @@ Content type: Collection, Data
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -201,7 +201,7 @@ Content type: Slide
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -216,7 +216,7 @@ Content type: Tutorial
 
 ## Chris Halvin YouTube channel
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -235,7 +235,7 @@ Content type: Collection, Video
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -252,7 +252,7 @@ Content type: Notebook
 
 ['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -269,7 +269,7 @@ Content type: Notebook
 
 ['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -286,7 +286,7 @@ Content type: Slide, Notebook
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -303,7 +303,7 @@ Content type: Notebook
 
 ['Martin Weigert']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -320,7 +320,7 @@ Content type: Notebook
 
 ['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -339,7 +339,7 @@ Content type: Book
 
 ['Anirban Ray']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -358,7 +358,7 @@ Content type: Presentation
 
 ['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -375,7 +375,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Constantin Pape']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -392,7 +392,7 @@ Content type: Notebook
 
 ['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -411,7 +411,7 @@ Content type: Notebook
 
 Published 2013
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -428,7 +428,7 @@ Content type: Tutorial, Book
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -443,7 +443,7 @@ Content type: Notebook
 
 ## GerBI Teaching Resources Link List
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -458,7 +458,7 @@ Content type: Collection
 
 ## I3D:bio list of online training material
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -477,7 +477,7 @@ Content type: Collection
 
 ['Aastha Mathur']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -492,7 +492,7 @@ Content type: Slide
 
 ['Beatriz Serrano-Solano', 'Björn Grüning']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -509,7 +509,7 @@ Content type: Slide
 
 ['Anna Klemm']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -526,7 +526,7 @@ Content type: Slide, Code
 
 ['Robert Haase', 'Benoit Lombardot']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -543,7 +543,7 @@ Content type: Slide
 
 ['Guillaume Witz']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -560,7 +560,7 @@ Content type: Slide
 
 ['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -577,7 +577,7 @@ Content type: Tutorial
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -592,7 +592,7 @@ Content type: Slide
 
 ## Machine Learning Workflow for Imaging Flow Cytometry (IFC)
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -609,7 +609,7 @@ Content type: Tutorial
 
 ['Ignacio Arganda-Carreras']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -626,7 +626,7 @@ Content type: Slide
 
 ['Jonas Hartmann', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -645,7 +645,7 @@ Content type: Code, Notebook
 
 ['Karin Sasaki', 'Aleksej Zelezniak']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -662,7 +662,7 @@ Content type: Notebook
 
 ['Wei Ouyang', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -675,7 +675,7 @@ Licensed unknown
 
 ['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -692,7 +692,7 @@ Content type: Slide, Code, Notebook
 
 ['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -709,7 +709,7 @@ Content type: Slide, Tutorial
 
 ['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -726,7 +726,7 @@ Content type: Slide, Code, Notebook
 
 ['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -743,7 +743,7 @@ Content type: Slide, Code, Notebook
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -758,7 +758,7 @@ Content type: Slide, Notebook
 
 ## Nextflow Demo Pipelines for Image Processing
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -773,7 +773,7 @@ Content type: Code
 
 ['Bugra Oezdemir', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -786,7 +786,7 @@ Content type: Tutorial
 
 ## OMERO documentation
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -803,7 +803,7 @@ Content type: Documentation
 
 ['Karin Sasaki', 'Jonas Hartmann']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -818,7 +818,7 @@ Content type: Code, Notebook
 
 ## RDM4mic
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -835,7 +835,7 @@ Content type: Collection, Video
 
 ['Marion Louveaux']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -850,9 +850,9 @@ Content type: Code
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -869,7 +869,7 @@ Content type: Publication
 
 ['Volker Hilsenstein']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -882,7 +882,7 @@ Content type: Tutorial
 
 ## Source Control Using Git and GitHub
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -895,7 +895,7 @@ Content type: Tutorial
 
 ## TESS training materials
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -912,7 +912,7 @@ Content type: Collection
 
 ['Constantin Pape', 'Adrian Wolny']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -927,7 +927,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ['Kota Miura']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -944,7 +944,7 @@ Content type: Slide
 
 ['Estibaliz Gómez-de-Mariscal']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -961,7 +961,7 @@ Content type: Slide
 
 ['Constantin Pape', 'Christian Tischer']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 

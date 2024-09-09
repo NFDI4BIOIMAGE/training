@@ -148,7 +148,7 @@ Content type: Slides
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape', 'computational-cell-analytics']
+['Costantin Pape']
 
 Licensed MIT
 

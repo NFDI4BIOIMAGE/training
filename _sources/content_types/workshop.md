@@ -83,7 +83,7 @@ Content type: Workshop, Collection
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Fuchs', 'Vanessa Aphaia Fiona', 'Schmidt', 'Christian', 'Boissonnet', 'Tom']
+['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
 
 Published 2024-05-06
 

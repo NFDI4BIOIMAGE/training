@@ -3,7 +3,7 @@
 
 ['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -18,7 +18,7 @@ Content type: Slide
 
 ## OMERO Guide
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -33,7 +33,7 @@ Content type: Collection
 
 ## OMERO walkthrough example
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -48,7 +48,7 @@ Content type: Document
 
 ## OMERO walkthrough for facility managers
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -63,7 +63,7 @@ Content type: Document
 
 ## Omero Deployment examples
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 

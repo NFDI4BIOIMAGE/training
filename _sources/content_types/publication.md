@@ -5,7 +5,7 @@
 
 Published 2021
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -60,7 +60,7 @@ Content type: Publication
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -139,7 +139,7 @@ Content type: Publication
 
 ['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -160,7 +160,7 @@ Content type: Publication
 
 Published 2023
 
-Licensed BSD-3-Clause
+Licensed BSD-3-CLAUSE
 
 
 
@@ -192,11 +192,11 @@ Content type: Publication
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al']
+['Robert Haase', 'Loic Royer', 'et al.']
 
 Published 2020
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -234,7 +234,7 @@ Content type: Publication
 
 ['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -338,7 +338,7 @@ Content type: Publication, Documentation
 
 ['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -370,7 +370,7 @@ Content type: Publication
 
 ## Metadata matters: access to image data in the real world
 
-['Melissa Linkert et al.']
+['Melissa Linkert', 'et al.']
 
 Published 2010
 
@@ -421,7 +421,7 @@ Content type: Publication, Documentation
 
 ## Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications
 
-['Alessandro Rigano et al.']
+['Alessandro Rigano', 'et al.']
 
 
 
@@ -501,6 +501,8 @@ Content type: Event, Publication, Documentation
 
 [https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
+[https://doi.org/10.5281/zenodo.10609770](https://doi.org/10.5281/zenodo.10609770)
+
 
 ---
 
@@ -525,7 +527,7 @@ Content type: Publication
 
 ['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -546,7 +548,7 @@ Content type: Publication
 
 Published 2022
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -597,7 +599,7 @@ Content type: Publication
 
 ## QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy
 
-['Glyn Nelson', 'Ulrike Boehme', 'et al']
+['Glyn Nelson', 'Ulrike Boehme', 'et al.']
 
 Licensed CC-BY-4.0
 
@@ -614,9 +616,9 @@ Content type: Publication
 
 ## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans et al']
+['Ugis Sarkans', 'et al.']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -648,9 +650,9 @@ Content type: Publication
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt and Michael Hensel']
+['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -684,7 +686,7 @@ Content type: Publication, Preprint
 
 ['Robert Haase']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -701,7 +703,7 @@ Content type: Publication
 
 ## Understanding metric-related pitfalls in image analysis validation
 
-['Annika Reinke et al']
+['Annika Reinke', 'et al.']
 
 Published 2023
 

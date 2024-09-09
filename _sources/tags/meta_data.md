@@ -20,7 +20,7 @@ Content type: Publication, Poster
 
 ['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 
@@ -35,7 +35,7 @@ Content type: Publication
 
 ## Metadata matters: access to image data in the real world
 
-['Melissa Linkert et al.']
+['Melissa Linkert', 'et al.']
 
 Published 2010
 
@@ -67,7 +67,7 @@ Content type: Publication
 
 ## Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications
 
-['Alessandro Rigano et al.']
+['Alessandro Rigano', 'et al.']
 
 
 
@@ -82,9 +82,9 @@ Content type: Publication
 
 ## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans et al']
+['Ugis Sarkans', 'et al.']
 
-Licensed all-rights-reserved
+Licensed ALL RIGHTS RESERVED
 
 
 

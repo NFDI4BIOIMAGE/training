@@ -51,7 +51,7 @@ Content type: Document
 
 ## OMERO walkthrough example
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 
@@ -66,7 +66,7 @@ Content type: Document
 
 ## OMERO walkthrough for facility managers
 
-Licensed BSD-2-Clause
+Licensed BSD-2-CLAUSE
 
 
 

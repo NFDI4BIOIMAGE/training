@@ -3,7 +3,7 @@
 
 ['Caterina Fuster-Barceló']
 
-Licensed unknown
+Licensed UNKNOWN
 
 
 
@@ -58,7 +58,7 @@ Content type: Slides
 
 ## ITKElastix Examples
 
-Licensed Apache-2.0
+Licensed APACHE-2.0
 
 
 
