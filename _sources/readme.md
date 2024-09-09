@@ -19,6 +19,8 @@ This Jupyter Book can be searched using the search bar on the left:
 
 Enter terms such as 'Omero' to find all training materials related to Omero.
 
+
+
 ## Contributing
 
 Contributions are welcome. Consider adding your favorite training resources so that we can make sure that they are findable and reusable.
