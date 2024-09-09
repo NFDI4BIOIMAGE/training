@@ -12,23 +12,7 @@ from _github_utilities import get_github_repository
 # Correct the directory path for resources
 directory_path = os.path.join('..', 'resources')
 
-def all_content(directory_path):
-    """
-    Load all YAML data from a directory into a list of dictionaries.
 
-    Args:
-        directory_path (str): Path to the directory containing YAML files.
-
-    Returns:
-        dict: Dictionary with a key 'resources' containing a list of all resources from YAML files.
-    """
-    resources = []
-    for yaml_file in os.listdir(directory_path):
-        if yaml_file.endswith('.yml'):
-            yaml_data = read_yaml_file(os.path.join(directory_path, yaml_file))
-            if 'resources' in yaml_data:
-                resources.extend(yaml_data['resources'])
-    return {'resources': resources}
 
 def get_unique_values_from_yamls(resources_dir):
     """
