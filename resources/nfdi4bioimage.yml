@@ -612,7 +612,7 @@ resources:
   url: https://github.com/dwaithe/ONBI_image_analysis
 - authors:
   - Albert Cardona
-  license: CC0
+  license: CC0-1.0
   name: A Fiji Scripting Tutorial
   tags:
   - Imagej
@@ -2310,7 +2310,7 @@ resources:
   type:
   - Slides
   url: https://f1000research.com/slides/13-147
-- license: CC0
+- license: CC0-1.0
   name: BioImage Archive AI Gallery
   tags:
   - Bioimage Analysis
@@ -2319,7 +2319,7 @@ resources:
   - Collection
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html
-- license: CC0
+- license: CC0-1.0
   name: BioImage Archive Visual Gallery
   tags:
   - Bioimage Analysis
@@ -2327,7 +2327,7 @@ resources:
   - Collection
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/visualisation.html
-- license: CC0
+- license: CC0-1.0
   name: BioImage Archive Volume EM Gallery
   tags:
   - Bioimage Analysis
@@ -4344,52 +4344,52 @@ resources:
   - Video
   url:
   - https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm
-
-- authors: Haase, Robert
+- authors:
+  - Robert Haase
   description: Large Language Models (LLMs) are changing the way how humans interact
-    with computers. This has impact on all scientific fields by enabling new ways to
-    achieve for example data analysis goals. In this talk we will go through an introduction
-    to LLMs with respect to applications in the life sciences, focusing on bio-image
-    analysis. We will see how to generate text and images using LLMs and how LLMs can
-    extract information from reproducibly images through code-generation. We will go
-    through selected prompt engineering techniques enabling scientists to tune the output
-    of LLMs towards their scientific goal and how to do quality assurance in this context.
-  license: cc-by-4.0
+    with computers. This has impact on all scientific fields by enabling new ways
+    to achieve for example data analysis goals. In this talk we will go through an
+    introduction to LLMs with respect to applications in the life sciences, focusing
+    on bio-image analysis. We will see how to generate text and images using LLMs
+    and how LLMs can extract information from reproducibly images through code-generation.
+    We will go through selected prompt engineering techniques enabling scientists
+    to tune the output of LLMs towards their scientific goal and how to do quality
+    assurance in this context.
+  license: CC-BY-4.0
   name: 'Large Language Models: An Introduction for Life Scientists'
   num_downloads: 259
   publication_date: '2024-08-27'
   url:
   - https://zenodo.org/records/13379394
   - https://doi.org/10.5281/zenodo.13379394
-
-- authors: Haase, Robert
-  description: 'Large Language Models (LLMs) such as ChatGPT are changing the way we
-    interact with computers, including how we analye microscopy imaging data. In this
-    talk I introduce basic concepts of asking LLMs to write code and how to modify the
-    questions to get the best out of it. For trying out these prompt engineering basics
-    there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html'
-  license: cc-by-4.0
+- authors:
+  - Robert Haase
+  description: 'Large Language Models (LLMs) such as ChatGPT are changing the way
+    we interact with computers, including how we analye microscopy imaging data. In
+    this talk I introduce basic concepts of asking LLMs to write code and how to modify
+    the questions to get the best out of it. For trying out these prompt engineering
+    basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html'
+  license: CC-BY-4.0
   name: ChatGPT for Image Analysis
   num_downloads: 434
   publication_date: '2024-08-25'
   url:
   - https://zenodo.org/records/13371196
   - https://doi.org/10.5281/zenodo.13371196
-
-- authors: Haase, Robert
+- authors:
+  - Robert Haase
   description: This talk will present the initiatives of the NFDI4BioImage consortium
-    aimed at the long-term preservation of life science data. We will discuss our efforts
-    to establish metadata standards, which are crucial for ensuring data reusability
+    aimed at the long-term preservation of life science data. We will discuss our
+    efforts to establish metadata standards, which are crucial for ensuring data reusability
     and integrity. The development of sustainable infrastructure is another key focus,
     enabling seamless data integration and analysis in the cloud. We will take a look
     at how we manage training materials and communicate with our community. Through
-    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German
-    researchers, across disciplines and embedded in the international framework.
-  license: cc-by-4.0
+    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for
+    German researchers, across disciplines and embedded in the international framework.
+  license: CC-BY-4.0
   name: Towards Preservation of Life Science Data with NFDI4BIOIMAGE
   num_downloads: 0
   publication_date: '2024-08-29'
   url:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
-  
