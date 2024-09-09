@@ -1,4 +1,3 @@
-# AppSubmitter Guidance
 # Using the AppSubmitter
 
 The AppSubmitter streamlines the process of contributing new training materials to our repository. Follow these steps to use the AppSubmitter:
