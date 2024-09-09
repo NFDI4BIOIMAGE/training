@@ -89,10 +89,10 @@ def all_content(directory_path):
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
             print("Adding", filename)
-            new_content = read_yaml_file(directory_path + filename)
+            new_content = read_yaml_file(os.path.join(directory_path, filename))  # Corrected line
             content['resources'] = content['resources'] + new_content['resources']
-            # print(content.keys())
     return content
+
 
 def load_dataframe(directory_path):
     """
@@ -128,8 +128,9 @@ def read_yaml_file(filename):
 def write_yaml_file(file_path, data):
     """Saves data as yaml file to disk"""
     import yaml
-    with open(file_path, 'w') as file:
-        yaml.dump(data, file)
+    with open(file_path, 'w', encoding='utf-8') as file:
+        yaml.dump(data, file, allow_unicode=True)
+
 
 
 def update_all_yaml_files(directory_path, use_github=False, use_zenodo=False):
