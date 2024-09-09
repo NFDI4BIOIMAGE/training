@@ -117,11 +117,12 @@ st.title("GitHub Training Materials Submission")
 st.markdown("Welcome to the GitHub Training Materials Submission app! Please fill in the details below and click 'Submit'. Thank you for your contribution!")
 
 with st.form(key='submission_form'):
-    authors = st.text_input("Authors")
-    license = st.multiselect("Licenses", unique_licenses)
     name = st.text_input("Name")
     description = st.text_area("Description")
-    
+
+    authors = st.text_input("Authors")
+    license = st.multiselect("Licenses", unique_licenses)
+
     tags = st.multiselect("Tags", unique_tags)
     
     tags_input = st.text_input("Add tags which are not in the select list (comma separated)", "")
