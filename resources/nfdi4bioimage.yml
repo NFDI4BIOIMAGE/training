@@ -197,12 +197,10 @@ resources:
   - Notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html
 - authors:
-  - Fuchs
-  - Vanessa Aphaia Fiona
-  - Schmidt
-  - Christian
-  - Boissonnet
-  - Tom
+  - Vanessa Fuchs
+  - Fiona Aphaia
+  - Christian Schmidt
+  - Tom Boissonnet
   description: 'Description
 
     Microscopy experiments generate information-rich, multi-dimensional data, allowing
@@ -2595,7 +2593,8 @@ resources:
   - Collection
   url: https://zenodo.org/doi/10.5281/zenodo.8139353
 - authors:
-  - Vanessa Aphaia Fiona Fuchs
+  - Vanessa Fuchs
+  - Fiona Aphaia
   - Christian Schmidt
   - Tom Boissonnet
   description: How to optimize microscopy data management using structured metadata
@@ -3642,20 +3641,17 @@ resources:
   - Tom Boissonnet
   - Michele Bortolomeazzi
   - Eik Dahms
-  - Fuchs
-  - Vanessa A. F.
-  - Moritz Hoevels
+  - Vanessa Fuchs
+  - A. F. Moritz Hoevels
   - Niraj Kandpal
   - "Christoph M\xF6hl"
-  - Moore
-  - Joshua A.
+  - Joshua A. Moore
   - Astrid Schauss
   - Andrea Schrader
   - "Torsten St\xF6ter"
   - "Julia Th\xF6nni\xDFen"
   - Monica Valencia-S.
-  - Weil
-  - H. Lukas
+  - H. Lukas Weil
   - Jens Wendt
   - Peter Zentis
   description: This repository documents the first NFDI4Bioimage - TA3-Hackathon -
@@ -3739,8 +3735,8 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.8414318
 - authors:
-  - Fuchs
-  - Vanessa Aphaia Fiona
+  - Vanessa Fuchs
+  - Aphaia Fiona
   - Jens Wendt
   - "Maximilian M\xFCller"
   - Mohsen Ahmadi
