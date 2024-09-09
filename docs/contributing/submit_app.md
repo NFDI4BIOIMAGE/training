@@ -1,6 +1,6 @@
-# Using the AppSubmitter
+# Using the Training Materials Submission App
 
-The AppSubmitter streamlines the process of contributing new training materials to our repository. Follow these steps to use the AppSubmitter:
+The Training Materials Submission App streamlines the process of contributing new training materials to our repository. Follow these steps to use the App:
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Make sure you have set your GitHub API key as an environment variable. Here's ho
     export GITHUB_API_KEY="your_github_api_key" (for macOS)
     ```
 
-## Running the AppSubmitter
+## Running the Training Materials Submission App
 
 Navigate to the `scripts` folder using the following command:
 
@@ -36,7 +36,7 @@ Navigate to the `scripts` folder using the following command:
 cd ../scripts
 ```
 
-Run the AppSubmitter with the following command that you will see the AppSubmitter interface:
+Run the App with the following command that you will see the AppSubmitter interface:
 
 ```
 streamlit run appsubmitter.py

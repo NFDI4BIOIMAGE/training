@@ -98,8 +98,8 @@ yaml_file = 'nfdi4bioimage.yml'
 # Directly get the GitHub repository object
 repo = get_github_repository("NFDI4BIOIMAGE/training")
 
-st.title("GitHub Training Materials Submission")
-st.markdown("Welcome to the GitHub Training Materials Submission app! Please fill in the details below and click 'Submit'. Thank you for your contribution!")
+st.title("Training Materials Submission")
+st.markdown("Welcome to the Training Materials Submission app! Please fill in the details below and click 'Submit'. Thank you for your contribution!")
 
 with st.form(key='submission_form'):
     name = st.text_input("Name")
