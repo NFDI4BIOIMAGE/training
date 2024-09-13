@@ -773,8 +773,7 @@ resources:
   - Kevin W. Eliceiri
   - Beth A. Cimini
   license: BSD-3-CLAUSE
-  name: "A biologist\u2019s guide to planning and performing quantitative bioimaging\
-    \ experiments"
+  name: A biologist’s guide to planning and performing quantitative bioimaging experiments
   type:
   - Collection
   - Publication
@@ -947,7 +946,7 @@ resources:
   - Documentation
   url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
 - authors:
-  - "Caterina Fuster-Barcel\xF3"
+  - Caterina Fuster-Barceló
   license: UNKNOWN
   name: AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
   tags:
@@ -1221,10 +1220,10 @@ resources:
   url: https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282
 - authors:
   - Marion Louveaux
-  - "St\xE9phane Verger"
+  - Stéphane Verger
   - Arianne Bercowsky Rama
   - Ignacio Arganda-Carreras
-  - "Estibaliz G\xF3mez-de-Mariscal"
+  - Estibaliz Gómez-de-Mariscal
   - Kota Miura
   - et al.
   license: UNKNOWN
@@ -1246,7 +1245,7 @@ resources:
   - Pejamn Rasti
   - David Rousseau
   - Ignacio Arganda-Carreras
-  - "Si\xE2n Culley"
+  - Siân Culley
   - et al.
   license: UNKNOWN
   name: NEUBIAS Bioimage Analyst School 2019
@@ -1360,7 +1359,7 @@ resources:
   - Notebook
   url: https://github.com/karinsasaki/metabolic-networks-modelling
 - authors:
-  - "Carolina W\xE4hlby"
+  - Carolina Wählby
   - Maxime Bombrun
   - Christian Tischer
   license: UNKNOWN
@@ -1509,10 +1508,10 @@ resources:
   - Daniel Krentzel
   - Elias Nehme
   - Martina Lerche
-  - "Sara Hern\xE1ndez-p\xE9rez"
+  - Sara Hernández-pérez
   - Pieta Mattila
   - Eleni Karinou
-  - "S\xE9amus Holden"
+  - Séamus Holden
   - Ahmet Can Solak
   - Alexander Krull
   - Tim-Oliver Buchholz
@@ -1535,7 +1534,7 @@ resources:
   - https://www.nature.com/articles/s41467-021-22518-0
   - https://doi.org/10.1038/s41467-021-22518-0
 - authors:
-  - "Iv\xE1n Hidalgo"
+  - Iván Hidalgo
   - et al.
   license: CC-BY-4.0
   name: DL4MicEverywhere
@@ -1595,8 +1594,8 @@ resources:
 - authors:
   - Martin Weigert
   license: UNKNOWN
-  name: "CARE/Stardist tutorials for EMBO Practical Course \u2014 Computational optical\
-    \ biology 2022"
+  name: CARE/Stardist tutorials for EMBO Practical Course — Computational optical
+    biology 2022
   tags:
   - Python
   - Artificial Intelligence
@@ -1607,7 +1606,7 @@ resources:
 - authors:
   - Martin Weigert
   - Olivier Burri
-  - "Si\xE2n Culley"
+  - Siân Culley
   - Uwe Schmidt
   license: UNKNOWN
   name: 'Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist'
@@ -1698,7 +1697,7 @@ resources:
   - https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1
   - https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view
 - authors:
-  - "Estibaliz G\xF3mez-de-Mariscal\\"
+  - Estibaliz Gómez-de-Mariscal\
   license: UNKNOWN
   name: Building a Bioimage Analysis Workflow using Deep Learning
   tags:
@@ -1708,7 +1707,7 @@ resources:
   - Slide
   url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
 - authors:
-  - "Estibaliz G\xF3mez-de-Mariscal"
+  - Estibaliz Gómez-de-Mariscal
   license: UNKNOWN
   name: ZIDAS 2020 Introduction to Deep Learning
   tags:
@@ -1718,7 +1717,7 @@ resources:
   - Slide
   url: https://github.com/esgomezm/zidas2020_intro_DL
 - authors:
-  - "Estibaliz G\xF3mez-de-Mariscal"
+  - Estibaliz Gómez-de-Mariscal
   license: UNKNOWN
   name: Machine Learning - Deep Learning. Applications to Bioimage Analysis
   tags:
@@ -1874,7 +1873,7 @@ resources:
   - https://doi.org/10.7490/f1000research.1119154.1
 - authors:
   - Beatriz Serrano-Solano
-  - "Bj\xF6rn Gr\xFCning"
+  - Björn Grüning
   license: UNKNOWN
   name: Image analysis in Galaxy
   tags:
@@ -1883,7 +1882,7 @@ resources:
   - Slide
   url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
 - authors:
-  - "Se\u0301bastien Tosi"
+  - Sébastien Tosi
   - Volker Baecker
   - Benjamin Pavie
   license: BSD-2-CLAUSE
@@ -1935,7 +1934,7 @@ resources:
   - Anna Poetsch
   - Biotec Dresden
   - Marcelo Leomil Zoccoler
-  - "Johannes Richard M\xFCller"
+  - Johannes Richard Müller
   - Robert Haase
   license: CC-BY-4.0
   name: Bio-image analysis, biostatistics, programming and machine learning for computational
@@ -2108,8 +2107,8 @@ resources:
   - https://doi.org/10.5281/zenodo.10654775
 - authors:
   - Josh Moore
-  description: "Keynote at the NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
-    \ October 16, 2023."
+  description: Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany,
+    October 16, 2023.
   license: CC-BY-4.0
   name: '[N4BI AHM] Welcome to BioImage Town'
   num_downloads: 96
@@ -2291,7 +2290,7 @@ resources:
   - https://zenodo.org/records/11066250
   - https://doi.org/10.5281/zenodo.11066250
 - authors:
-  - "Estibaliz G\xF3mez de Mariscal"
+  - Estibaliz Gómez de Mariscal
   description: Introduction to FAIR deep learning. Furthermore, tools to deploy trained
     DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs)
     ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source
@@ -2501,7 +2500,7 @@ resources:
   - Poster
   url: https://doi.org/10.5281/zenodo.8434325
 - authors:
-  - "Torsten St\xF6ter"
+  - Torsten Stöter
   - Tobias Gottschall
   - Andrea Schrader
   - Peter Zentis
@@ -2510,7 +2509,7 @@ resources:
   - Werner Zuschratter
   - Astrid Schauss
   - Timo Dickscheid
-  - "Timo M\xFChlhaus"
+  - Timo Mühlhaus
   - Dirk von Suchodoletz
   description: Interdisciplinary collaboration and integrating large, diverse datasets
     are crucial for answering complex research questions, requiring multimodal data
@@ -2530,13 +2529,13 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
 - authors:
   - Josh Moore
-  description: "For decades, the sharing of large N-dimensional datasets has posed\
-    \ issues across multiple domains. Interactively accessing terabyte-scale data\
-    \ has previously required significant server resources to properly prepare cropped\
-    \ or down-sampled representations on the fly. Now, a cloud-native chunked format\
-    \ easing this burden has been adopted in the bioimaging domain for standardization.\
-    \ The format \u2014 Zarr \u2014 is potentially of interest for other consortia\
-    \ and sections of NFDI."
+  description: For decades, the sharing of large N-dimensional datasets has posed
+    issues across multiple domains. Interactively accessing terabyte-scale data has
+    previously required significant server resources to properly prepare cropped or
+    down-sampled representations on the fly. Now, a cloud-native chunked format easing
+    this burden has been adopted in the bioimaging domain for standardization. The
+    format — Zarr — is potentially of interest for other consortia and sections of
+    NFDI.
   license: CC-BY-4.0
   name: '[CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large
     Arrays'
@@ -2591,11 +2590,11 @@ resources:
   - Chiara Stringari
   - Marcelo Zoccoler
   - Cornelia Wetzker
-  description: "The presentations introduce open-source software to read in, visualize\
-    \ and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed\
-    \ for life scientists. The slides were presented at German Bioimaging (GerBI)\
-    \ FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M\xFC\
-    nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker. "
+  description: 'The presentations introduce open-source software to read in, visualize
+    and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed
+    for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM
+    Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by
+    Anca Margineanu, Chiara Stringari and Conni Wetzker. '
   license: CC-BY-4.0
   name: A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and
     napari-flim-phasor-plotter
@@ -2713,7 +2712,7 @@ resources:
 - authors:
   - Elfi Hesse
   - Jan-Christoph Deinert
-  - "Christian L\xF6schen"
+  - Christian Löschen
   description: Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe
     &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin
     Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum
@@ -2732,7 +2731,7 @@ resources:
   - https://zenodo.org/records/4461261
   - https://doi.org/10.5281/zenodo.4461261
 - authors:
-  - "Stephan W\xFCnsche"
+  - Stephan Wünsche
   description: 'Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten,
     an deren Entstehung mehrere Personen beteiligt waren, und besonders bei Textdaten,
     Bildern und Videos. Hier lernen Sie, f&uuml;r Ihr eigenes Forschungsvorhaben zu
@@ -2744,7 +2743,7 @@ resources:
 
     &nbsp;'
   license: CC-BY-4.0
-  name: "Alles meins \u2013 oder!? Urheberrechte kl\xE4ren f\xFCr Forschungsdaten"
+  name: Alles meins – oder!? Urheberrechte klären für Forschungsdaten
   num_downloads: 35
   publication_date: '2024-06-04'
   tags:
@@ -2764,8 +2763,8 @@ resources:
     teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten
     Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;'
   license: CC-BY-4.0
-  name: "So geschlossen wie n\xF6tig, so offen wie m\xF6glich - Datenschutz beim Umgang\
-    \ mit Forschungsdaten"
+  name: So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit
+    Forschungsdaten
   num_downloads: 30
   publication_date: '2024-05-30'
   tags:
@@ -2778,7 +2777,7 @@ resources:
   - https://zenodo.org/records/11396199
   - https://doi.org/10.5281/zenodo.11396199
 - authors:
-  - "Stephan W\xFCnsche"
+  - Stephan Wünsche
   - Pia Voigt
   description: 'Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe
     &quot;Einblicke ins Forschungsdatenmanagement&quot; erstellt. Diese findet seit
@@ -2792,8 +2791,8 @@ resources:
     Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der
     guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.'
   license: CC-BY-4.0
-  name: "Einblicke ins Forschungsdatenmanagement - Darf ich das ver\xF6ffentlichen?\
-    \ Rechtsfragen im Umgang mit Forschungsdaten"
+  name: Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen
+    im Umgang mit Forschungsdaten
   num_downloads: 243
   publication_date: '2021-05-11'
   tags:
@@ -2828,7 +2827,7 @@ resources:
     steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen
     solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.'
   license: CC-BY-4.0
-  name: "Datenmanagementpl\xE4ne erstellen - Teil 1"
+  name: Datenmanagementpläne erstellen - Teil 1
   num_downloads: 340
   publication_date: '2021-03-23'
   tags:
@@ -2870,7 +2869,7 @@ resources:
     Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden
     und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.'
   license: CC-BY-4.0
-  name: "Datenmanagementpl\xE4ne erstellen - Teil 2"
+  name: Datenmanagementpläne erstellen - Teil 2
   num_downloads: 271
   publication_date: '2021-03-30'
   tags:
@@ -2882,8 +2881,8 @@ resources:
   - https://doi.org/10.5281/zenodo.4748534
 - authors:
   - Barbara Weiner
-  - "Stephan W\xFCnsche"
-  - "Stefan K\xFChne"
+  - Stephan Wünsche
+  - Stefan Kühne
   - Pia Voigt
   - Sebastian Frericks
   - Clemens Hoffmann
@@ -3024,8 +3023,8 @@ resources:
   description: Blog post about why we should license our work and what is important
     when choosing a license.
   license: CC-BY-4.0
-  name: "If you license it, it\u2019ll be harder to steal it. Why we should license\
-    \ our work"
+  name: If you license it, it’ll be harder to steal it. Why we should license our
+    work
   tags:
   - Licensing
   - Research Data Management
@@ -3059,7 +3058,7 @@ resources:
   - Thomas Zobel
   - Sarah Weischner
   - Jens Wendt
-  description: "A use case example from the M\xFCnster Imaging Network"
+  description: A use case example from the Münster Imaging Network
   license: ALL RIGHTS RESERVED
   name: OMERO for microscopy research data management
   tags:
@@ -3147,7 +3146,7 @@ resources:
   - Elnaz Fazeli
   - David Legland
   - Michael Doube
-  - "Si\xE2n Culley"
+  - Siân Culley
   - Ilya Belevich
   - Eija Jokitalo
   - Martin Schorb
@@ -3182,7 +3181,7 @@ resources:
   - Benedict Diederich
   - Barbora Marsikova
   - Emmanuel G. Reynaud
-  - "S\xE9amus Holden"
+  - Séamus Holden
   - Wiebke Jahr
   - Robert Haase
   - Kirti Prakash
@@ -3229,9 +3228,9 @@ resources:
   url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
 - authors:
   - Gabriel G. Martins
-  - "Fabrice P. Cordeli\xE8res"
+  - Fabrice P. Cordelières
   - Julien Colombelli
-  - "Rocco D\u2019Antuono"
+  - Rocco D’Antuono
   - Ofra Golani
   - Romain Guiet
   - Robert Haase
@@ -3254,8 +3253,8 @@ resources:
   - Ugis Sarkans
   - et al.
   license: ALL RIGHTS RESERVED
-  name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
-    \ microscopy data in biology"
+  name: 'REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy
+    data in biology'
   tags:
   - Research Data Management
   - Meta Data
@@ -3264,7 +3263,7 @@ resources:
   url: https://www.nature.com/articles/s41592-021-01166-8
 - authors:
   - Susanne Kunis
-  - "Sebastian H\xE4nsch"
+  - Sebastian Hänsch
   - Christian Schmidt
   - Frances Wong
   - Caterina Strambio-De-Castillia
@@ -3293,7 +3292,7 @@ resources:
 - authors:
   - Josh Moore
   - Chris Allan
-  - "S\xE9bastien Besson"
+  - Sébastien Besson
   - Jean-Marie Burel
   - Erin Diel
   - David Gault
@@ -3333,7 +3332,7 @@ resources:
   - Tim Treis
   - Marcella Toth
   - Rahul Shrestha
-  - "Harald V\xF6hringer"
+  - Harald Vöhringer
   - Wolfgang Huber
   - Moritz Gerstung
   - Josh Moore
@@ -3377,7 +3376,7 @@ resources:
   - Varun Kapoor
   - Ayse Aslihan Koksoy
   - Judith Lacoste
-  - "Sylvia Le D\xE9v\xE9dec"
+  - Sylvia Le Dévédec
   - Sylvie Le Guyader
   - Penghuan Liu
   - Gabriel G Martins
@@ -3391,7 +3390,7 @@ resources:
   - Laure Plantard
   - Rizwan Ali
   - Britta Schroth-Diez
-  - "Lucas Sch\xFCtz"
+  - Lucas Schütz
   - Ryan T Scott
   - Arne Seitz
   - Olaf Selchow
@@ -3426,17 +3425,17 @@ resources:
   - Publication
   url: https://doi.org/10.1093/bioinformatics/btab106
 - authors:
-  - "Mat\xFA\u0161 Kala\u0161"
+  - Matúš Kalaš
   - Laure Plantard
   - Joakim Lindblad
   - Martin Jones
-  - "Nata\u0161a Sladoje"
+  - Nataša Sladoje
   - Moritz A Kirschmann
   - Anatole Chessel
   - Leandro Scholz
-  - "Fabianne R\xF6ssler"
-  - "Laura Nicol\xE1s S\xE1enz"
-  - "Estibaliz G\xF3mez de Mariscal"
+  - Fabianne Rössler
+  - Laura Nicolás Sáenz
+  - Estibaliz Gómez de Mariscal
   - John Bogovic
   - Alexandre Dufour
   - Xavier Heiligenstein
@@ -3445,11 +3444,11 @@ resources:
   - Matthia Karreman
   - Raf Van de Plas
   - Robert Haase
-  - "David H\xF6rl"
+  - David Hörl
   - Lassi Paavolainen
-  - "Ivana Vrhovac Maduni\u0107"
+  - Ivana Vrhovac Madunić
   - Dean Karaica
-  - "Arrate Mu\xF1oz-Barrutia"
+  - Arrate Muñoz-Barrutia
   - Paula Sampaio
   - Daniel Sage
   - Sebastian Munck
@@ -3458,7 +3457,7 @@ resources:
   - Florian Levet
   - Jon Ison
   - Alban Gaignard
-  - "Herv\xE9 M\xE9nager"
+  - Hervé Ménager
   - Chong Zhang
   - Kota Miura
   - Julien Colombelli
@@ -3507,12 +3506,12 @@ resources:
   - Vanessa A. F. Fuchs
   - Moritz Hoevels
   - Niraj Kandpal
-  - "Christoph M\xF6hl"
+  - Christoph Möhl
   - Joshua A. Moore
   - Astrid Schauss
   - Andrea Schrader
-  - "Torsten St\xF6ter"
-  - "Julia Th\xF6nni\xDFen"
+  - Torsten Stöter
+  - Julia Thönnißen
   - Monica Valencia-S.
   - H. Lukas Weil
   - Jens Wendt and Peter Zentis
@@ -3537,8 +3536,8 @@ resources:
   - https://doi.org/10.5281/zenodo.10609770
 - authors:
   - Josh Moore
-  description: "Welcome at NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
-    \ October 16, 2023"
+  description: Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany,
+    October 16, 2023
   license: CC-BY-4.0
   name: Welcome to BioImage Town
   tags:
@@ -3572,12 +3571,12 @@ resources:
   - Vanessa Fuchs
   - A. F. Moritz Hoevels
   - Niraj Kandpal
-  - "Christoph M\xF6hl"
+  - Christoph Möhl
   - Joshua A. Moore
   - Astrid Schauss
   - Andrea Schrader
-  - "Torsten St\xF6ter"
-  - "Julia Th\xF6nni\xDFen"
+  - Torsten Stöter
+  - Julia Thönnißen
   - Monica Valencia-S.
   - H. Lukas Weil
   - Jens Wendt
@@ -3666,7 +3665,7 @@ resources:
   - Vanessa Fuchs
   - Aphaia Fiona
   - Jens Wendt
-  - "Maximilian M\xFCller"
+  - Maximilian Müller
   - Mohsen Ahmadi
   - Riccardo Massei
   - Cornelia Wetzker
@@ -3684,9 +3683,9 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.10730423
 - authors:
   - Christian Schmidt
-  description: "Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM\
-    \ in (Bio-)Medicine Information Event on April 10th, 2024, organized C\xB3RDM\
-    \ & ZB MED."
+  description: Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM
+    in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB
+    MED.
   license: CC-BY-4.0
   name: '[Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure'
   tags:
@@ -3825,7 +3824,7 @@ resources:
   - Paula Montero Llopis
   - Michelle S. Itano
   - Lisa A. Cameron
-  - "Guillermo Marqu\xE9s"
+  - Guillermo Marqués
   - Caterina Strambio-De-Castillia
   - Mark A. Sanders
   - Claire M. Brown
@@ -3925,7 +3924,7 @@ resources:
   - Antje Keppler
   - Beatriz Serrano-Solano
   - Arina Rybina
-  - "Bu\u011Fra \xD6zdemir"
+  - Buğra Özdemir
   - Johanna Bischof
   - Ayoub El Ghadraoui
   - John E. Eriksson
@@ -4010,7 +4009,7 @@ resources:
   url: https://doi.org/10.1016/j.vibspec.2024.103685
 - authors:
   - Ruman Gerst
-  - "Zolt\xE1n Cseresny\xE9s"
+  - Zoltán Cseresnyés
   - Marc Thilo Figge
   description: JIPipe is an open-source visual programming language for easy-access
     pipeline development
@@ -4025,8 +4024,8 @@ resources:
   - https://www.nature.com/articles/s41592-022-01744-4
   - https://jipipe.hki-jena.de/
 - authors:
-  - "Birgit M\xF6ller"
-  - "Markus Gla\xDF"
+  - Birgit Möller
+  - Markus Glaß
   - Danny Misiak
   - Stefan Posch
   description: The Microscope Image Analysis Toolbox is a toolbox with a collection
@@ -4317,3 +4316,17 @@ resources:
   url:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
+- authors: This is a test again2
+  license:
+  - ALL RIGHTS RESERVED
+  - BSD LICENSE
+  name: Nfdi
+  description: this is a test
+  tags:
+  - Biabob
+  - Bio-Image Analysis
+  - test
+  type:
+  - Blog
+  - Book
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
