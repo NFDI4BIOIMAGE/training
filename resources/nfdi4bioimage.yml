@@ -4426,6 +4426,18 @@ resources:
   type:
   - Github Repository
   url: https://github.com/yandexdataschool/nlp_course
+- authors:
+  - Beth Cimini et al.
+  description: This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+  license: BSD License
+  name: Community-developed checklists for publishing images and image analyses
+  tags:
+  - Bioimage Analysis
+  - Research Data Management
+  type:
+  - Jupyter Book
+  url: https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html 
+
 
 
 
