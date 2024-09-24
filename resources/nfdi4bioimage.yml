@@ -4383,6 +4383,18 @@ resources:
   type:
   - Github Repository
   url: https://github.com/scipy/scipy-cookbook
+- authors:
+  - Ziv Yaniv et al.
+  description: Jupyter notebooks for learning how to use SimpleITK
+  license: Apache-2.0 license
+  name: SimpleITK-Notebooks
+  tags:
+  - Bioimage Analysis
+  - SimpleITK
+  type:
+  - Github Repository
+  url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks 
+
 
 
 
