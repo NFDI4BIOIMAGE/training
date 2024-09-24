@@ -4405,6 +4405,18 @@ resources:
   type:
   - Github Repository
   url: https://github.com/scikit-image/skimage-tutorials
+- authors:
+  - Loïc Estève et al.
+  description: Machine learning in Python with scikit-learn MOOC
+  license: CC-BY-4.0
+  name: scikit-learn MOOC
+  tags:
+  - Bioimage Analysis
+  - Machine Learning
+  type:
+  - Github Repository
+  url: https://github.com/INRIA/scikit-learn-mooc
+  
 
 
 
