@@ -4369,6 +4369,21 @@ resources:
   type:
   - Github Repository
   url: https://github.com/juglab/EmbedSeg
+- authors:
+  - Pauli Virtanen et al.
+  description: This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
+  license:
+  Copyright (c) 2001, 2002 Enthought, Inc.
+  All rights reserved.
+  Copyright (c) 2003-2017 SciPy Developers.
+  All rights reserved.
+  name: Scipy Cookbook
+  tags:
+  - Bioimage Analysis
+  type:
+  - Github Repository
+  url: https://github.com/scipy/scipy-cookbook
+
 
 
 
