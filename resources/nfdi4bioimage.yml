@@ -4355,6 +4355,21 @@ resources:
   type:
   - Github Repository
   url: https://biapol.github.io/omero-tools/ 
+- authors:
+  - Manan Lalit
+  - Joran Deschamps
+  - Florian Jug
+  - Ajinkya Kulkarni
+  description: Code Implementation for EmbedSeg, an Instance Segmentation Method for Microscopy Images
+  license: CC-BY-NC-4.0
+  name: EmbedSeg Repository
+  tags: 
+  - Bioimage Analysis
+  - Instance Segmentation
+  type:
+  - Github Repository
+  url: https://github.com/juglab/EmbedSeg
+
 
 
 
