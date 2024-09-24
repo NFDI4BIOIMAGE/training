@@ -1,4 +1,4 @@
-# Omero (19)
+# Omero (18)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 ['Robert Haase']
@@ -295,25 +295,6 @@ Tags: Omero, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
-
-
----
-
-## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
-
-['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
-
-Licensed CC-BY-4.0
-
-
-
-How to optimize microscopy data management using structured metadata annotations in OMERO, facilitating organization for processing, analysis, and eventual publication. The focus lies on enhancing data findability and usability through object-oriented organization, integrating OMERO with ImageJ/Fiji for image analysis, and implementing community-accepted metadata standards like REMBI to ensure data reproducibility and reusability.
-
-Tags: Research Data Management, Bioimage Analysis, Omero
-
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.11109615](https://zenodo.org/doi/10.5281/zenodo.11109615)
 
 
 ---
