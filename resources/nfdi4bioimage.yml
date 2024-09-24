@@ -4317,3 +4317,17 @@ resources:
   url:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
+- authors: 
+  - Matúš Kalaš et al.
+  description: EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
+  license: CC-BY-4.0
+  name: EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
+  tags:
+  - Ontology
+  - Bioimage Analysis
+  type:
+  - Poster
+  url: https://hal.science/hal-02267597/document 
+
+
+
