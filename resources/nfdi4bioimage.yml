@@ -4394,6 +4394,20 @@ resources:
   type:
   - Github Repository
   url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks 
+- authors:
+  - Juan Nunez-Iglesias et al.
+  description: skimage-tutorials - a collection of tutorials for the scikit-image package.
+  license: CC0 1.0 Universal
+  name: skimage-tutorials
+  tags:
+  - Bioimage Analysis
+  - Scikit-image
+  type:
+  - Github Repository
+  url: https://github.com/scikit-image/skimage-tutorials
+
+
+
 
 
 
