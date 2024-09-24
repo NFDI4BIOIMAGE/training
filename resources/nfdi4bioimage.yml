@@ -4344,6 +4344,18 @@ resources:
   - Publication
   - Preprint
   url: https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1
+- authors:
+  - Johannes Soltwedel
+  description: This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
+  license: CC-BY-4.0
+  name: Omero-tools
+  tags:
+  - OMERO
+  - Bioimage Analysis
+  type:
+  - Github Repository
+  url: https://biapol.github.io/omero-tools/ 
+
 
 
 
