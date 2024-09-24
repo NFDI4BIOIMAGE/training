@@ -4328,6 +4328,23 @@ resources:
   type:
   - Poster
   url: https://hal.science/hal-02267597/document 
+- authors:
+  - Geert van Geest
+  - Yann Haefliger
+  - Monique Zahn-Zabal
+  - Patricia M. Palagi
+  description: Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+  license: CC-BY-4.0
+  name: Using Glittr.org to find, compare and re-use online training materials
+  tags:
+  - Training
+  - Bioimage Analysis
+  - Research Data Management
+  type:
+  - Publication
+  - Preprint
+  url: https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1
+
 
 
 
