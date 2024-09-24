@@ -4437,6 +4437,19 @@ resources:
   type:
   - Jupyter Book
   url: https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html 
+- authors:
+  - EMBL-EBI
+  description: Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
+  license: CC0 (mostly, but can differ depending on resource)
+  name: EMBL-EBI material collection
+  tags:
+  - Bioinformatics
+  - Training
+  type:
+  - Collection
+  url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
+  
+
 
 
 
