@@ -4416,7 +4416,17 @@ resources:
   type:
   - Github Repository
   url: https://github.com/INRIA/scikit-learn-mooc
-  
+- authors:
+  - Yandex School of Data Analysis
+  description: YSDA course in Natural Language Processing
+  license: MIT license
+  name: NLP Course
+  tags:
+  - Natural Language Processing
+  type:
+  - Github Repository
+  url: https://github.com/yandexdataschool/nlp_course
+
 
 
 
