@@ -44,6 +44,7 @@ def summarize_download_statistics(directory_path):
     import os
     from pathlib import Path
     import datetime
+    import re
 
     #collect all content in a list of dictionaries
     content = all_content(directory_path) 
@@ -54,13 +55,21 @@ def summarize_download_statistics(directory_path):
     for entry in content['resources']:
         urls = entry['url']
 
-        #make urls a list if it is not already
-        if not type(urls) is list:
-                urls = [urls]
-        
+        # Ensure 'urls' is a list
+        if not isinstance(urls, list):
+            urls = [urls]
+
         for url in urls:
-            # if zenodo in url
+            # If 'zenodo.org' is in the URL
             if 'zenodo.org' in url:
+                # Check if it's a DOI-based URL
+                if 'doi' in url:
+                    # Extract the Zenodo record ID from the DOI
+                    match = re.search(r'zenodo\.(\d+)', url)
+                    if match:
+                        record_id = match.group(1)
+                        # Change the URL to 'records' format
+                        url = f"https://zenodo.org/records/{record_id}"
 
                 #extract meta data of records in zenodo
                 zenodo = read_zenodo(url)
