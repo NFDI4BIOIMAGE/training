@@ -1,4 +1,4 @@
-# Bioimage analysis (132)
+# Bioimage analysis (140)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -661,17 +661,19 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+['Beth Cimini et al.']
 
-Licensed ALL RIGHTS RESERVED
+Licensed BSD LICENSE
 
 
 
-Tags: Bioimage Analysis
+This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
 
-Content type: Publication
+Tags: Bioimage Analysis, Research Data Management
 
-[https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
+Content type: Jupyter Book
+
+[https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 
 
 ---
@@ -818,6 +820,25 @@ Content type: Presentation
 
 ---
 
+## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
+
+['Matúš Kalaš et al.']
+
+Licensed CC-BY-4.0
+
+
+
+EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
+
+Tags: Ontology, Bioimage Analysis
+
+Content type: Poster
+
+[https://hal.science/hal-02267597/document](https://hal.science/hal-02267597/document)
+
+
+---
+
 ## EMBO Practical Course Advanced methods in bioimage analysis
 
 
@@ -842,6 +863,25 @@ Tags: Bioimage Analysis
 Content type: Online Course
 
 [https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
+
+
+---
+
+## EmbedSeg Repository
+
+['Manan Lalit', 'Joran Deschamps', 'Florian Jug', 'Ajinkya Kulkarni']
+
+Licensed CC-BY-NC-4.0
+
+
+
+Code Implementation for EmbedSeg, an Instance Segmentation Method for Microscopy Images
+
+Tags: Bioimage Analysis, Instance Segmentation
+
+Content type: Github Repository
+
+[https://github.com/juglab/EmbedSeg](https://github.com/juglab/EmbedSeg)
 
 
 ---
@@ -1669,6 +1709,25 @@ Content type: Notebook
 
 ---
 
+## Omero-tools
+
+['Johannes Soltwedel']
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
+
+Tags: Omero, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/omero-tools/](https://biapol.github.io/omero-tools/)
+
+
+---
+
 ## Open Image Data Handbook
 
 ['Kevin Yamauchi']
@@ -1848,6 +1907,25 @@ Content type: Blog
 
 ---
 
+## Scipy Cookbook
+
+['Pauli Virtanen et al.']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook)
+
+
+---
+
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
 ['Marion Louveaux']
@@ -1861,6 +1939,25 @@ Tags: Neubias, Bioimage Analysis
 Content type: Code
 
 [https://github.com/marionlouveaux/NEUBIAS2018_TS7/](https://github.com/marionlouveaux/NEUBIAS2018_TS7/)
+
+
+---
+
+## SimpleITK-Notebooks
+
+['Ziv Yaniv et al.']
+
+Licensed APACHE-2.0 LICENSE
+
+
+
+Jupyter notebooks for learning how to use SimpleITK
+
+Tags: Bioimage Analysis, Simpleitk
+
+Content type: Github Repository
+
+[https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
 
 
 ---
@@ -1978,6 +2075,25 @@ Tags: Bioimage Analysis
 Content type: Publication, Preprint
 
 [https://arxiv.org/abs/2302.01790v3](https://arxiv.org/abs/2302.01790v3)
+
+
+---
+
+## Using Glittr.org to find, compare and re-use online training materials
+
+['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+
+Licensed CC-BY-4.0
+
+
+
+Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+
+Tags: Training, Bioimage Analysis, Research Data Management
+
+Content type: Publication, Preprint
+
+[https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
 
 
 ---
@@ -2228,6 +2344,44 @@ Content type: Code
 [https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
 
 [https://doi.org/10.5281/zenodo.2643411](https://doi.org/10.5281/zenodo.2643411)
+
+
+---
+
+## scikit-learn MOOC
+
+['Loïc Estève et al.']
+
+Licensed CC-BY-4.0
+
+
+
+Machine learning in Python with scikit-learn MOOC
+
+Tags: Bioimage Analysis, Machine Learning
+
+Content type: Github Repository
+
+[https://github.com/INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc)
+
+
+---
+
+## skimage-tutorials
+
+['Juan Nunez-Iglesias et al.']
+
+Licensed CC0 1.0 UNIVERSAL
+
+
+
+skimage-tutorials - a collection of tutorials for the scikit-image package.
+
+Tags: Bioimage Analysis, Scikit-Image
+
+Content type: Github Repository
+
+[https://github.com/scikit-image/skimage-tutorials](https://github.com/scikit-image/skimage-tutorials)
 
 
 ---

@@ -1,4 +1,4 @@
-# Research data management (75)
+# Research data management (77)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -251,6 +251,25 @@ Tags: Research Data Management, Fair-Principles
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8349562](https://zenodo.org/doi/10.5281/zenodo.8349562)
+
+
+---
+
+## Community-developed checklists for publishing images and image analyses
+
+['Beth Cimini et al.']
+
+Licensed BSD LICENSE
+
+
+
+This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+
+Tags: Bioimage Analysis, Research Data Management
+
+Content type: Jupyter Book
+
+[https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 
 
 ---
@@ -1354,6 +1373,25 @@ Content type: Book
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 
 [https://doi.org/10.5281/zenodo.4071471](https://doi.org/10.5281/zenodo.4071471)
+
+
+---
+
+## Using Glittr.org to find, compare and re-use online training materials
+
+['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+
+Licensed CC-BY-4.0
+
+
+
+Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+
+Tags: Training, Bioimage Analysis, Research Data Management
+
+Content type: Publication, Preprint
+
+[https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
 
 
 ---

@@ -1,4 +1,4 @@
-# Mit (18)
+# Mit (19)
 ## BioEngine Documentation
 
 ['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
@@ -161,6 +161,25 @@ Tags: Deep Learning, Pytorch, Segmentation, Python
 Content type: Notebook
 
 [https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
+## NLP Course
+
+['Yandex School of Data Analysis']
+
+Licensed MIT
+
+
+
+YSDA course in Natural Language Processing
+
+Tags: Natural Language Processing
+
+Content type: Github Repository
+
+[https://github.com/yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course)
 
 
 ---

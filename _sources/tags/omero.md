@@ -1,4 +1,4 @@
-# Omero (18)
+# Omero (19)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 ['Robert Haase']
@@ -231,6 +231,25 @@ Tags: Omero
 Content type: Collection
 
 [https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
+
+
+---
+
+## Omero-tools
+
+['Johannes Soltwedel']
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
+
+Tags: Omero, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/omero-tools/](https://biapol.github.io/omero-tools/)
 
 
 ---

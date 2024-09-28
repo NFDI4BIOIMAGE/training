@@ -1,4 +1,4 @@
-# Publication (41)
+# Publication (42)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -716,6 +716,25 @@ Tags: Bioimage Analysis
 Content type: Publication, Preprint
 
 [https://arxiv.org/abs/2302.01790v3](https://arxiv.org/abs/2302.01790v3)
+
+
+---
+
+## Using Glittr.org to find, compare and re-use online training materials
+
+['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+
+Licensed CC-BY-4.0
+
+
+
+Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+
+Tags: Training, Bioimage Analysis, Research Data Management
+
+Content type: Publication, Preprint
+
+[https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
 
 
 ---

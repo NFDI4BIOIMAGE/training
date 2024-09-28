@@ -1,4 +1,4 @@
-# Collection (57)
+# Collection (58)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
@@ -334,6 +334,25 @@ Content type: Collection, Video
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
 [https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
+
+
+---
+
+## EMBL-EBI material collection
+
+['EMBL-EBI']
+
+Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
+
+
+
+Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
+
+Tags: Bioinformatics, Training
+
+Content type: Collection
+
+[https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
 
 
 ---

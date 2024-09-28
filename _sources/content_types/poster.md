@@ -1,4 +1,4 @@
-# Poster (9)
+# Poster (10)
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
 ['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
@@ -48,6 +48,25 @@ Tags: Bioimage Analysis
 Content type: Poster
 
 [https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
+
+
+---
+
+## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
+
+['Matúš Kalaš et al.']
+
+Licensed CC-BY-4.0
+
+
+
+EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
+
+Tags: Ontology, Bioimage Analysis
+
+Content type: Poster
+
+[https://hal.science/hal-02267597/document](https://hal.science/hal-02267597/document)
 
 
 ---

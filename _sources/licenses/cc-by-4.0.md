@@ -1,4 +1,4 @@
-# Cc-by-4.0 (108)
+# Cc-by-4.0 (112)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -661,6 +661,25 @@ Tags: Neubias
 Content type: Publication
 
 [https://f1000research.com/articles/10-302](https://f1000research.com/articles/10-302)
+
+
+---
+
+## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
+
+['Matúš Kalaš et al.']
+
+Licensed CC-BY-4.0
+
+
+
+EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
+
+Tags: Ontology, Bioimage Analysis
+
+Content type: Poster
+
+[https://hal.science/hal-02267597/document](https://hal.science/hal-02267597/document)
 
 
 ---
@@ -1438,6 +1457,25 @@ Content type: Publication
 
 ---
 
+## Omero-tools
+
+['Johannes Soltwedel']
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
+
+Tags: Omero, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/omero-tools/](https://biapol.github.io/omero-tools/)
+
+
+---
+
 ## Open Image Data Handbook
 
 ['Kevin Yamauchi']
@@ -1947,6 +1985,25 @@ Content type: Book
 
 ---
 
+## Using Glittr.org to find, compare and re-use online training materials
+
+['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+
+Licensed CC-BY-4.0
+
+
+
+Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+
+Tags: Training, Bioimage Analysis, Research Data Management
+
+Content type: Publication, Preprint
+
+[https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
+
+
+---
+
 ## Welcome to BioImage Town
 
 ['Josh Moore']
@@ -2173,6 +2230,25 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## scikit-learn MOOC
+
+['Loïc Estève et al.']
+
+Licensed CC-BY-4.0
+
+
+
+Machine learning in Python with scikit-learn MOOC
+
+Tags: Bioimage Analysis, Machine Learning
+
+Content type: Github Repository
+
+[https://github.com/INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bsd-3-clause (16)
+# Bsd-3-clause (17)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -209,6 +209,25 @@ Tags: Cellpose, Segmentation
 Content type: Github Repository
 
 [https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose](https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose)
+
+
+---
+
+## Scipy Cookbook
+
+['Pauli Virtanen et al.']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook)
 
 
 ---
