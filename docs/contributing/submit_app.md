@@ -22,10 +22,13 @@ Make sure you have set your GitHub API key as an environment variable. Here's ho
     ![Screenshot showing how to find the API Token setting on your github](set_api_key_3.png)
     - Under Personal access tokens, click Tokens (classic) to generate your API key.
     ![Screenshot showing how to generate the API Token on your github](set_api_key_4.png)
-4. Once you have your API key, set it as an environment variable using the following command in your terminal:
+4. Once you have your API key, set it as an environment variable using the following command in your terminal, on Windows:
     ```
-    setx GITHUB_API_KEY "your_github_api_key" (for Windows)
-    export GITHUB_API_KEY="your_github_api_key" (for macOS)
+    setx GITHUB_API_KEY "your_github_api_key"
+    ```
+    On MacOS:
+    ```
+    export GITHUB_API_KEY="your_github_api_key"
     ```
 
 ## Running the Training Materials Submission App
