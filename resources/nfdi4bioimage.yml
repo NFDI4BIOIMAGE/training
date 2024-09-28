@@ -4170,6 +4170,134 @@ resources:
   - https://zenodo.org/records/13506641
   - https://doi.org/10.5281/zenodo.13506641
 
+- authors: 
+  - Matúš Kalaš et al.
+  description: EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
+  license: CC-BY-4.0
+  name: EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
+  tags:
+  - Ontology
+  - Bioimage Analysis
+  type:
+  - Poster
+  url: https://hal.science/hal-02267597/document 
+- authors:
+  - Geert van Geest
+  - Yann Haefliger
+  - Monique Zahn-Zabal
+  - Patricia M. Palagi
+  description: Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
+  license: CC-BY-4.0
+  name: Using Glittr.org to find, compare and re-use online training materials
+  tags:
+  - Training
+  - Bioimage Analysis
+  - Research Data Management
+  type:
+  - Publication
+  - Preprint
+  url: https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1
+- authors:
+  - Johannes Soltwedel
+  description: This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
+  license: CC-BY-4.0
+  name: Omero-tools
+  tags:
+  - OMERO
+  - Bioimage Analysis
+  type:
+  - Github Repository
+  url: https://biapol.github.io/omero-tools/ 
+- authors:
+  - Manan Lalit
+  - Joran Deschamps
+  - Florian Jug
+  - Ajinkya Kulkarni
+  description: Code Implementation for EmbedSeg, an Instance Segmentation Method for Microscopy Images
+  license: CC-BY-NC-4.0
+  name: EmbedSeg Repository
+  tags: 
+  - Bioimage Analysis
+  - Instance Segmentation
+  type:
+  - Github Repository
+  url: https://github.com/juglab/EmbedSeg
+- authors:
+  - Pauli Virtanen et al.
+  description: This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
+  license: bsd 3-clause
+  name: Scipy Cookbook
+  tags:
+  - Bioimage Analysis
+  type:
+  - Github Repository
+  url: https://github.com/scipy/scipy-cookbook
+- authors:
+  - Ziv Yaniv et al.
+  description: Jupyter notebooks for learning how to use SimpleITK
+  license: Apache-2.0 license
+  name: SimpleITK-Notebooks
+  tags:
+  - Bioimage Analysis
+  - SimpleITK
+  type:
+  - Github Repository
+  url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks 
+- authors:
+  - Juan Nunez-Iglesias et al.
+  description: skimage-tutorials - a collection of tutorials for the scikit-image package.
+  license: CC0 1.0 Universal
+  name: skimage-tutorials
+  tags:
+  - Bioimage Analysis
+  - Scikit-image
+  type:
+  - Github Repository
+  url: https://github.com/scikit-image/skimage-tutorials
+- authors:
+  - Loïc Estève et al.
+  description: Machine learning in Python with scikit-learn MOOC
+  license: CC-BY-4.0
+  name: scikit-learn MOOC
+  tags:
+  - Bioimage Analysis
+  - Machine Learning
+  type:
+  - Github Repository
+  url: https://github.com/INRIA/scikit-learn-mooc
+- authors:
+  - Yandex School of Data Analysis
+  description: YSDA course in Natural Language Processing
+  license: MIT license
+  name: NLP Course
+  tags:
+  - Natural Language Processing
+  type:
+  - Github Repository
+  url: https://github.com/yandexdataschool/nlp_course
+- authors:
+  - Beth Cimini et al.
+  description: This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+  license: BSD License
+  name: Community-developed checklists for publishing images and image analyses
+  tags:
+  - Bioimage Analysis
+  - Research Data Management
+  type:
+  - Jupyter Book
+  url: https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html 
+- authors:
+  - EMBL-EBI
+  description: Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
+  license: CC0 (mostly, but can differ depending on resource)
+  name: EMBL-EBI material collection
+  tags:
+  - Bioinformatics
+  - Training
+  type:
+  - Collection
+  url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
+  
 - authors: Fuchs, Vanessa Aphaia Fiona, Schmidt, Christian, Boissonnet, Tom
   description: 'Description
   
