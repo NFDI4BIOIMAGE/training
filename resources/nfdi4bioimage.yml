@@ -953,9 +953,9 @@ resources:
   tags:
   - Artificial Intelligence
   - Workflow Engine
-  - Bio-Image Analysis
   type:
   - Documentation
+  - Bio-Image Analysis
   url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
 - authors:
   - Christian Schmidt
@@ -999,14 +999,13 @@ resources:
   type:
   - Slide
   - Video
+  - Bio-Image Analysis
   url:
   - https://zenodo.org/records/8323588
   - https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU
   - https://doi.org/10.5281/zenodo.8323588
 - license: APACHE-2.0
   name: ITKElastix Examples
-  tags:
-  - Bio-Image Analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
 - license: ALL RIGHTS RESERVED
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
@@ -2637,9 +2636,9 @@ resources:
   publication_date: '2024-05-23'
   tags:
   - Image Segmentation
-  - Bio-Image Analysis
   - Deep Learning
   type:
+  - Bio-Image Analysis
   - Slides
   url:
   - https://zenodo.org/records/11265038
@@ -2703,10 +2702,10 @@ resources:
   - Open Science
   - Research Data Management
   - Fair-Principles
-  - Bio-Image Analysis
   - Licensing
   type:
   - Slides
+  - Bio-Image Analysis  
   url:
   - https://zenodo.org/records/10816895
   - https://doi.org/10.5281/zenodo.10816895
@@ -3493,9 +3492,9 @@ resources:
   name: Challenges and opportunities for bio-image analysis core-facilities
   tags:
   - Research Data Management
-  - Bio-Image Analysis
   - Nfdi4Bioimage
   type:
+  - Bio-Image Analysis
   - Slide
   url: https://f1000research.com/slides/12-1054
 - authors:
