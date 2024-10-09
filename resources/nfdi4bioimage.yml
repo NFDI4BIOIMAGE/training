@@ -4426,3 +4426,16 @@ resources:
   - https://zenodo.org/records/13908480
   - https://doi.org/10.5281/zenodo.13908480
   
+- authors: Haase, Robert
+  description: In this presentation I introduce bia-bob, an AI-based code generator
+    that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis
+    Python code. It highlights how to get started with using large language models and
+    prompt engineering to get high-quality bio-image analysis code.
+  license: cc-by-4.0
+  name: Bio-image Analysis Code Generation using bia-bob
+  num_downloads: 101
+  publication_date: '2024-10-09'
+  url:
+  - https://zenodo.org/records/13908108
+  - https://doi.org/10.5281/zenodo.13908108
+  
