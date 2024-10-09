@@ -1,4 +1,4 @@
-# Riccardo massei (5)
+# Riccardo massei (6)
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
 ['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
@@ -23,6 +23,26 @@ Content type: Slides
 [https://zenodo.org/records/11548617](https://zenodo.org/records/11548617)
 
 [https://doi.org/10.5281/zenodo.11548617](https://doi.org/10.5281/zenodo.11548617)
+
+
+---
+
+## Getting started with Python: intro and set-up a conda environment
+
+['Riccardo Massei']
+
+Published 2024-10-09
+
+Licensed CC-BY-4.0
+
+
+
+YMIA python event 2024
+Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment with Dr. Riccardo Massei"
+
+[https://zenodo.org/records/13908480](https://zenodo.org/records/13908480)
+
+[https://doi.org/10.5281/zenodo.13908480](https://doi.org/10.5281/zenodo.13908480)
 
 
 ---
