@@ -1,4 +1,4 @@
-# Robert haase (42)
+# Robert haase (43)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -48,6 +48,25 @@ Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## Bio-image Analysis Code Generation using bia-bob
+
+['Robert Haase']
+
+Published 2024-10-09
+
+Licensed CC-BY-4.0
+
+
+
+In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
+
+[https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
+
+[https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)
 
 
 ---

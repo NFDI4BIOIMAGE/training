@@ -1,4 +1,4 @@
-# Cc-by-4.0 (113)
+# Cc-by-4.0 (114)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -176,6 +176,25 @@ Content type: Slide
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 [https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
+
+---
+
+## Bio-image Analysis Code Generation using bia-bob
+
+['Robert Haase']
+
+Published 2024-10-09
+
+Licensed CC-BY-4.0
+
+
+
+In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
+
+[https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
+
+[https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)
 
 
 ---
