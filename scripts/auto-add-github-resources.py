@@ -12,9 +12,6 @@ def main():
     Arguments:
     - repository (str): GitHub repository name.
     - issue (int): Issue number containing the GitHub link.
-
-    Example:
-    python auto_add_github_entry.py "username/repo" 123
     """
     # Retrieve repository and issue number from command-line arguments
     repository = sys.argv[1]
