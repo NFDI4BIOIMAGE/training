@@ -2,7 +2,7 @@ import sys
 import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
-from github import Github
+from github import Github, GithubException  # Import GithubException directly
 
 def main():
     """
@@ -12,6 +12,10 @@ def main():
     Arguments:
     - repository (str): GitHub repository name.
     - issue (int): Issue number containing the GitHub link.
+
+    Example(local_test):
+    python auto_add_github_entry.py "username/repo" 123
+    python auto-add-github-resources.py "nfdi4bioimage/training" 236
     """
     # Retrieve repository and issue number from command-line arguments
     repository = sys.argv[1]
@@ -57,51 +61,49 @@ def complete_github_data(github_repo_url):
     Returns:
     - entry (dict): A dictionary containing the repository metadata.
     """
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("GITHUB_API_KEY")
     if not token:
-        raise Exception("GitHub token not found in environment. Please set GITHUB_TOKEN.")
+        raise Exception("GitHub API key not found. Please set GITHUB_API_KEY.")
 
     g = Github(token)
     repo_path = github_repo_url.replace("https://github.com/", "")
     repo = g.get_repo(repo_path)
 
-    # Initialize the metadata dictionary
     entry = {}
 
-    # URL of the repository
+    # Repository URL
     entry['url'] = github_repo_url
 
-    # Repository name (used as the title)
-    if repo.name:
-        entry['name'] = repo.name
-    else:
-        entry['name'] = "No name available"
+    # Repository name
+    entry['name'] = repo.name if repo.name else "No name available"
 
     # Repository description
-    if repo.description:
-        entry['description'] = repo.description
-    else:
-        entry['description'] = "No description available"
+    entry['description'] = repo.description if repo.description else "No description available"
 
     # License information (used as "type")
-    if repo.get_license():
-        entry['type'] = repo.get_license().license.name
-    else:
+    try:
+        license_info = repo.get_license()
+        entry['type'] = license_info.license.name if license_info else "No license available"
+    except:
         entry['type'] = "No license available"
 
-    # Authors (collaborators)
-    collaborators = repo.get_collaborators()
-    if collaborators.totalCount > 0:
-        entry['authors'] = ", ".join([collab.login for collab in collaborators])
-    else:
-        entry['authors'] = "No authors available"
+    # Collaborators
+    try:
+        collaborators = repo.get_collaborators()
+        if collaborators.totalCount > 0:
+            entry['authors'] = ", ".join([collab.login for collab in collaborators])
+        else:
+            entry['authors'] = "No authors available"
+    except GithubException as e:  # Correct exception reference
+        if e.status == 403:
+            print(f"403 error: Cannot access collaborators for {repo.full_name}. Skipping this step.")
+            entry['authors'] = "Collaborators not accessible"
+        else:
+            raise e
 
     # Tags (topics)
     topics = repo.get_topics()
-    if topics:
-        entry['tags'] = ", ".join(topics)
-    else:
-        entry['tags'] = "No tags available"
+    entry['tags'] = ", ".join(topics) if topics else "No tags available"
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
