@@ -4425,7 +4425,6 @@ resources:
   url:
   - https://zenodo.org/records/13908480
   - https://doi.org/10.5281/zenodo.13908480
-  
 - authors: Haase, Robert
   description: In this presentation I introduce bia-bob, an AI-based code generator
     that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis
@@ -4438,4 +4437,163 @@ resources:
   url:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
+- authors: University of Ghent
+  description: The website provides resources and guidelines for managing research data efficiently and responsibly. 
+  Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a 
+  research project, and even beyond, in a way that aligns with Open Science principles.
+  license: UNKNOWN
+  name: Ghent University Research Data Management (RDM): policy and support
+  tags:
+  - Research Data Management
+  type: 
+  - Website
+  url: https://www.ugent.be/en/research/openscience/datamanagement
+- authors: GO FAIR
+  description: This page is supposed to serve as a Starter Kit for research data management (RDM). 
+  It lists resources designed to help researchers get started to organize their data.
+  license: cc-by-4.0
+  name: RDM Starter Kit
+  tags:
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.go-fair.org/resources/rdm-starter-kit/
+- authors: Haase, Robert
+  description: Overview about decision making and how to influence decisions in the bio-image analysis software context.
+  license: cc-by-4.0
+  name: Hitchhiking through a diverse Bio-image Analysis Software Universe
+  tags: 
+  - Bioimage Analysis
+  type:
+  - Slide
+  - Presentation
+  num_downloads: 86
+  publication_date: '2022-07-22'
+  url: 
+  - https://f1000research.com/slides/11-746
+  - https://doi.org/10.7490/f1000research.1119026.1
+- authors:  Costantino Thanos
+  description: This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
+  license: cc-by-4.0
+  name: Research Data Reusability: Conceptual Foundations, Barriers and Enabling Technologies 
+  tags:
+  - Research Data Management
+  - Open Science
+  - Data Protection
+  type:
+  - Publication
+  publication_date: '2017-01-09'
+  url: https://www.mdpi.com/2304-6775/5/1/2
+- authors: 
+    - Mark D. Wilkinson
+    - Michel Dumontier
+    - IJsbrand Jan Aalbersberg
+    - Gabrielle Appleton
+    - Myles Axton
+    - et. al
+  description: This Comment is the first formal publication of the FAIR Principles, 
+  and includes the rationale behind them, and some exemplar implementations in the community.
+  license: cc-by-4.0
+  name: The FAIR Guiding Principles for scientific data management and stewardship
+  tags:
+  - Fair-Principles
+  - Research Data Management
+  type:
+  - Publication
+  publication_date: '2016-03-15'
+  url: 
+  - https://www.nature.com/articles/sdata201618
+  - https://doi.org/10.1038/sdata.2016.18
+- authors: GO FAIR
+  description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. 
+  The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. 
+  The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, 
+  and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data 
+  as a result of the increase in volume, complexity, and creation speed of data.
+  license: cc-by-4.0
+  name: FAIR Principles
+  tags:
+  - Fair-Principles
+  type:
+  - Website
+  url: https://www.go-fair.org/fair-principles/ 
+- authors:
+  - Martin Boeckhout
+  - Gerhard A. Zielhuis
+  - Annelien L. Bredenoord 
+  description: The FAIR guiding principles for research data stewardship 
+  (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences.
+  license: cc-by-4.0
+  name: The FAIR guiding principles for data stewardship: fair enough?
+  tags:
+  - Fair-Principles
+  type:
+  - Publication
+  publication_date: '2018-05-17'
+  url: 
+  - https://www.nature.com/articles/s41431-018-0160-0
+  - https://doi.org/10.1038/s41431-018-0160-0
+- authors: 
+  - Mark A Musen
+  - Martin J O'Connor
+  - Erik Schultes
+  - Marcos Martínez-Romero
+  - Josef Hardi
+  - John Graybeal
+  description: The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. 
+  The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist 
+  (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+  license: cc-by-4.0
+  name: Modeling community standards for metadata as templates makes data FAIR
+  tags:
+  - Data Stewardship
+  - Fair-Principles
+  - Meta Data
+  type:
+  - Publication
+  publication_date: '2022-11-12'
+  url: 
+  - https://pubmed.ncbi.nlm.nih.gov/36371407/
+  - https://www.nature.com/articles/s41597-022-01815-3
+- authors: 
+  - Mathias Hammer
+  - Maximiliaan Huisman
+  - Alessandro Rigano
+  - Ulrike Boehm
+  - James J. Chambers
+  - et al.
+  description: Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. 
+  The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, 
+  scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+  license: UNKNOWN
+  name: Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model
+  tags:
+  - Reproducibility
+  - Microscopy Image Analysis
+  - Metadata
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  publication_date: '2022-07-10'
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/
+  
+- authors: 
+  description:
+  license:
+  name: 
+  tags:
+  - 
+  type:
+  - 
+  num_downloads:
+  publication_date:
+  url: 
+
+
+
+
+
+
+
   
