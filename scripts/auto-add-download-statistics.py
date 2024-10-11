@@ -26,9 +26,9 @@ def main():
 
     # save back to github
     write_file(repository, branch, filename, download_statistics, "Add " + filename)
-    res = send_pull_request(repository, branch, f"Add {filename}", "") 
+    pull_request_response = send_pull_request(repository, branch, f"Add {filename}", "") 
 
-    print("Done.", res)
+    print("Done.", pull_request_response)
 
 def summarize_download_statistics(directory_path):
     """
@@ -113,4 +113,3 @@ def summarize_download_statistics(directory_path):
 
 if __name__ == "__main__":
     main()
-
