@@ -59,7 +59,7 @@ def complete_github_data(github_repo_url):
     - github_repo_url (str): The URL of the GitHub repository to retrieve metadata from.
 
     Returns:
-    - entry (dict): A dictionary containing the repository metadata.
+    - entry (dict): A dictionary containing the repository metadata in the correct order.
     """
     token = os.getenv("GITHUB_API_KEY")
     if not token:
@@ -71,14 +71,15 @@ def complete_github_data(github_repo_url):
 
     entry = {}
 
-    # Authors (Contributors)
+    # Contributors (Full name if available, otherwise username)
     try:
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
-            entry['author'] = ", ".join([contrib.login for contrib in contributors])
+            # Use the contributor's full name if available, otherwise use the username
+            entry['author'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
         else:
             entry['author'] = ""
-    except GithubException as e:  # Correct exception reference
+    except GithubException as e:
         if e.status == 403:
             print(f"403 error: Cannot access contributors for {repo.full_name}. Skipping this step.")
             entry['author'] = "Contributors not accessible"
@@ -101,17 +102,18 @@ def complete_github_data(github_repo_url):
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
 
-    # Tags (topics?):So how should we define the tags of the github resource?
+    # Tags (topics): should we use the repository topics or the README.md file?
     topics = repo.get_topics()
     entry['tags'] = ", ".join(topics) if topics else ""
 
-    # Type: So how should we define the type of the github resource?
+    # Type： how should we determine this for a GitHub repository?
     entry['type'] = ""
 
     # Repository URL
     entry['url'] = github_repo_url
 
     return entry
+
 
 
 def get_publication_date(repo):
