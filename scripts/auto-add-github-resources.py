@@ -2,7 +2,7 @@ import sys
 import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
-from github import Github, GithubException  # Import GithubException directly
+from github import Github, GithubException  
 
 def main():
     """
@@ -87,17 +87,17 @@ def complete_github_data(github_repo_url):
     except:
         entry['type'] = "No license available"
 
-    # Collaborators
+    # Contributors
     try:
-        collaborators = repo.get_collaborators()
-        if collaborators.totalCount > 0:
-            entry['authors'] = ", ".join([collab.login for collab in collaborators])
+        contributors = repo.get_contributors()
+        if contributors.totalCount > 0:
+            entry['authors'] = ", ".join([contrib.login for contrib in contributors])
         else:
             entry['authors'] = "No authors available"
     except GithubException as e:  # Correct exception reference
         if e.status == 403:
-            print(f"403 error: Cannot access collaborators for {repo.full_name}. Skipping this step.")
-            entry['authors'] = "Collaborators not accessible"
+            print(f"403 error: Cannot access contributors for {repo.full_name}. Skipping this step.")
+            entry['authors'] = "Contributors not accessible"
         else:
             raise e
 
