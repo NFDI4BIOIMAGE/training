@@ -4439,3 +4439,13 @@ resources:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
   
+- author: rmassei, haesleinhuepf
+  description: This repository offer access to teaching material and useful resources
+    for the YMIA - Python-Based Event Series.
+  license: MIT License
+  name: ymia_python_event_series_material
+  publication_date: '2024-10-09T12:22:31+00:00'
+  tags: ''
+  type: ''
+  url: https://github.com/rmassei/ymia_python_event_series_material
+  
