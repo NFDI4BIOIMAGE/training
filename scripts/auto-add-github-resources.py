@@ -71,45 +71,45 @@ def complete_github_data(github_repo_url):
 
     entry = {}
 
-    # Repository URL
-    entry['url'] = github_repo_url
-
-    # Repository name
-    entry['name'] = repo.name if repo.name else "No name available"
-
-    # Repository description
-    entry['description'] = repo.description if repo.description else "No description available"
-
-    # License information (used as "type")
-    try:
-        license_info = repo.get_license()
-        entry['type'] = license_info.license.name if license_info else "No license available"
-    except:
-        entry['type'] = "No license available"
-
-    # Contributors
+    # Authors (Contributors)
     try:
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
-            entry['authors'] = ", ".join([contrib.login for contrib in contributors])
+            entry['author'] = ", ".join([contrib.login for contrib in contributors])
         else:
-            entry['authors'] = "No authors available"
+            entry['author'] = ""
     except GithubException as e:  # Correct exception reference
         if e.status == 403:
             print(f"403 error: Cannot access contributors for {repo.full_name}. Skipping this step.")
-            entry['authors'] = "Contributors not accessible"
+            entry['author'] = "Contributors not accessible"
         else:
             raise e
 
-    # Tags (topics)
-    topics = repo.get_topics()
-    entry['tags'] = ", ".join(topics) if topics else "No tags available"
+    # Repository description
+    entry['description'] = repo.description if repo.description else ""
+
+    # License information (stored as "license")
+    try:
+        license_info = repo.get_license()
+        entry['license'] = license_info.license.name if license_info else ""
+    except:
+        entry['license'] = ""
+
+    # Repository name
+    entry['name'] = repo.name if repo.name else ""
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
 
-    # Last updated date
-    entry['last_updated'] = repo.updated_at.isoformat() if repo.updated_at else "No update information available"
+    # Tags (topics?):So how should we define the tags of the github resource?
+    topics = repo.get_topics()
+    entry['tags'] = ", ".join(topics) if topics else ""
+
+    # Type: So how should we define the type of the github resource?
+    entry['type'] = ""
+
+    # Repository URL
+    entry['url'] = github_repo_url
 
     return entry
 
@@ -131,7 +131,7 @@ def get_publication_date(repo):
         first_release = releases[0]
         return first_release.created_at.isoformat()
     else:
-        return repo.created_at.isoformat() if repo.created_at else "No creation date available"
+        return repo.created_at.isoformat() if repo.created_at else ""
 
 
 if __name__ == "__main__":
