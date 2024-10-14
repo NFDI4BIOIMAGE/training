@@ -4439,3 +4439,10 @@ resources:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
   
+- authors: Test the normalized problem again
+  description: Test the normalized problem again
+  license: ALL RIGHTS RESERVED
+  name: Test the normalized problem again
+  tags: Arc, Test the normalized problem again
+  type: Bioimage Analysis, Book
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
