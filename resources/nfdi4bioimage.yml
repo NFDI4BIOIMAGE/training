@@ -4439,3 +4439,10 @@ resources:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
   
+- authors: This is a test again
+  description: let me try again
+  license: ALL RIGHTS RESERVED
+  name: Yixin
+  tags: Artificial Intelligence
+  type: Bioimage Analysis
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
