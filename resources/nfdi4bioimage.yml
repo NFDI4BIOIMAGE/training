@@ -1,4 +1,11 @@
 resources:
+- authors: This is a test again
+    license: ALL RIGHTS RESERVED
+    name: "Yixin"
+    description: "let's try again"
+    tags: Artificial Intelligence
+    type: Bioimage Analysis
+    url: "https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now"
 - authors:
   - Elisabeth Kugler
   name: 'Sharing Your Poster on Figshare: A Community Guide to How-To and Why'
