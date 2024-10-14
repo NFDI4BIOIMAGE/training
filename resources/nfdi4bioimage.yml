@@ -4439,3 +4439,11 @@ resources:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
   
+- authors: add date
+  description: add date
+  license: ALL RIGHTS RESERVED
+  name: add date
+  tags: Arc, add date
+  type: Bioimage Analysis
+  submit_date: 2024-10-14
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
