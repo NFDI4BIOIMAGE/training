@@ -50,7 +50,6 @@ def main():
 
     print("Done.", res)
 
-
 def complete_github_data(github_repo_url):
     """
     Retrieves metadata from the specified GitHub repository with checks for missing fields.
@@ -113,8 +112,6 @@ def complete_github_data(github_repo_url):
     entry['url'] = github_repo_url
 
     return entry
-
-
 
 def get_publication_date(repo):
     """
