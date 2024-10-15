@@ -4463,3 +4463,13 @@ resources:
   - https://zenodo.org/records/13928832
   - https://doi.org/10.5281/zenodo.13928832
   
+- authors: is there still a python 3.7 error?
+  description: is there still a python 3.7 error?
+  license: ALL RIGHTS RESERVED
+  name: let's try again
+  num_downloads: 123
+  publication_date: 2023-02-09
+  tags: Artificial Intelligence, is there still a python 3.7 error?
+  type: Bioimage Analysis
+  submit_date: 2024-10-15
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
