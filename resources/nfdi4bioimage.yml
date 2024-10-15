@@ -4463,3 +4463,13 @@ resources:
   - https://zenodo.org/records/13928832
   - https://doi.org/10.5281/zenodo.13928832
   
+- authors: let me try this version
+  description: let me try this version
+  license: APACHE-2.0
+  name: let me try this version
+  num_downloads: 1232
+  publication_date: 2017-05-17
+  tags: Arc, let me try this version
+  type: Bioimage Analysis
+  submit_date: 2024-10-15
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
