@@ -776,7 +776,7 @@ resources:
   type:
   - Collection
   - Data
-  - Publiction
+  - Publication
   url:
   - https://www.ebi.ac.uk/bioimage-archive/
   - https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791
@@ -3110,7 +3110,7 @@ resources:
     \ microscopy data in biology"
   tags:
   - Research Data Management
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01166-8
@@ -3126,7 +3126,7 @@ resources:
     data in the bioimaging community'
   tags:
   - Research Data Management
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01288-z
@@ -3319,7 +3319,7 @@ resources:
   name: 'EDAM-bioimaging: The ontology of bioimage informatics operations, topics,
     data, and formats (update 2020)'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   - Poster
@@ -3684,7 +3684,7 @@ resources:
   name: 'MethodsJ2: a software tool to capture metadata and generate comprehensive
     microscopy methods text'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01290-5
@@ -3694,7 +3694,7 @@ resources:
   name: 'Micro-Meta App: an interactive tool for collecting microscopy metadata based
     on community specifications'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://doi.org/10.1038/s41592-021-01315-z
@@ -3704,7 +3704,7 @@ resources:
   name: 'Metadata matters: access to image data in the real world'
   publication_date: 2010
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
@@ -4548,7 +4548,7 @@ resources:
   tags:
   - Data Stewardship
   - Fair-Principles
-  - Meta Data
+  - Metadata
   type:
   - Publication
   publication_date: '2022-11-12'
@@ -4577,6 +4577,189 @@ resources:
   - Publication
   publication_date: '2022-07-10'
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/
+- authors:
+  - Ugis Sarkans
+  - Wah Chiu
+  - Lucy Collinson
+  - Michele C. Darrow
+  - Jan Ellenberg
+  - David Grunwald
+  - et al.
+  description: Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. 
+  We propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy. 
+  license: UNKNOWN
+  name: REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+  tags:
+  - Metadata
+  - Bioimage Data
+  - Image Data Management
+  - Research Data Management
+  type:
+  - Publication
+  publication_date: '2021-05-21'
+  url: 
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/
+  - https://www.nature.com/articles/s41592-021-01166-8
+  - https://doi.org/10.1038/s41592-021-01166-8
+- authors: 
+  - Philippa C. Griffin
+  - Jyoti Khadake
+  - Kate S. LeMay
+  - Suzanna E. Lewis
+  - Sandra Orchard  
+  - et al.
+  description: The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space 
+  with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. 
+  license: UNKNOWN
+  name: Best practice data life cycle approaches for the life sciences
+  tags:
+  - Bioinformatics
+  - Reproducibility
+  - Research Data Management
+  - Sharing
+  - Open Science
+  type:
+  - Publication
+  num_downloads: 1615
+  publication_date: '2018-06-04'
+  url: https://doi.org/10.12688/f1000research.12344.2
+- authors: 
+  -  Schmidt, Christian
+  - Ferrando-May, Elisa 
+  description: Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
+  license: ccy-by-sa-4.0
+  name:  NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data 
+  tags:
+  - Nfdi4Bioimage
+  - Image Data Management
+  - Bioimage Data
+  - Research Data Management
+  type:
+  - Conference Abstract
+  - Slide
+  publication_date: '2021-04-29' 
+  url: https://doi.org/10.11588/heidok.00029489
+- authors: ELIXIR (2021) Research Data Management Kit
+  description: In this section, information is organised according to the stages of the research data life cycle.
+  license: cc-by-4.0
+  name: Data life cycle
+  tags:
+  - Data life cycle
+  - Research Data Management
+  type:
+  - Collection
+  - Website
+  - Online Tutorial
+  url: https://rdmkit.elixir-europe.org/data_life_cycle
+- license: UNKNOWN
+  name: Tess Search for Data Life Cycle
+  tags:
+  - Data Life Cycle
+  - Research Data Management
+  type:
+  - Collection
+  url: https://tess.elixir-europe.org/search?q=data+life+cycle#materials
+- authors: 
+  - Uli Hahn
+  - Kerstin Helbig
+  - Gerald Jagusch
+  - Jessica Rex
+  description:  Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten 
+  der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+  license: cc-by-4.0
+  name: Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy 
+  tags:
+    - Research Data Management
+  type:
+  - Publication
+  publication_date: ' 2018-10-22' 
+  url: 
+  - https://bausteine-fdm.de/article/view/7945
+  - https://doi.org/10.17192/bfdm.2018.1.7945 
+- authors: 
+  - Bea Hiemenz
+  - Monika Kuberek
+  description: As a methodological approach, research data policies of German universities are collected and evaluated, 
+  and compared to international recommendations on research data policies.
+  license: cc-by-4.0
+  name: Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+  tags:
+  - Research Data Management
+  - Fair-Principles
+  type:
+  - Publication
+  publication_date: '2018-07-13'
+  url: https://www.o-bib.de/bib/article/view/2018H2S1-13
+- description: This document provides the essential elements of a Research Data Management (RDM) Policy and is part 
+  of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+  license: cc-b-4.0
+  name: Guidance for Developing a Research Data Management (RDM) Policy
+  tags:
+  - Research Data Management
+  type:
+  - Book Chapter
+  num_downloads: 545
+  publication_date: '2017'
+  url: 
+  - https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf
+  - https://doi.org/10.14324/000.learn.27
+- description: Leading open-source platform for collaborative and living data management plans.
+  license: UNKOWN
+  name: Data Stewardship Wizard
+  tags:
+  - Data Stewardship
+  - Open Source
+  - Research Data Management
+  - Fair-Principles
+  type:
+  - Website
+  - Online Tutorial
+  url: https://ds-wizard.org/
+- description: Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. 
+  license: UNKNOWN
+  name: RDMO - Research Data Management Organiser
+  tags:
+  - Research Data Management
+  type:
+  - Open Source Software
+  - Website
+  - Online Tutorial
+  url: https://rdmorganiser.github.io/
+- authors: Robert Haase
+  description: In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+  license: cc-by-4.0
+  name: Creating a Research Data Management Plan using chatGPT
+  tags:
+  - Research Data Management
+  - Large Language Models
+  - Artificial Intelligence
+  type:
+  - Blog
+  publication_date: '2023-11-06'
+  url: https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/
+- authors: 
+  - Till Kreutzer
+  - Henning Lahmann
+  description: Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
+  license: cc-by-4.0
+  name:  Rechtsfragen bei Open Science - Ein Leitfaden
+  tags:
+  - Open Science
+  - Open Access
+  - Copyright
+  type:
+  - Book
+  publication_date: '2021-05-25'
+  url: https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205 
+- description: Fiji is a popular free open-source image processing package based on ImageJ.
+  license: BSD-2-CLAUSE
+  name: Fiji
+  tags:
+  - Imagej
+  - OMERO
+  type:
+  - Online Tutorial
+  url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html   
   
 - authors: 
   description:
@@ -4589,7 +4772,6 @@ resources:
   num_downloads:
   publication_date:
   url: 
-
 
 
 
