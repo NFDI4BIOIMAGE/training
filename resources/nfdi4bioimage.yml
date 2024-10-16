@@ -4484,3 +4484,13 @@ resources:
   - https://zenodo.org/records/13331351
   - https://doi.org/10.5281/zenodo.13331351
   
+- authors: This is a test again
+  description: test
+  license: ALL RIGHTS RESERVED
+  name: test
+  num_downloads: 100
+  publication_date: 2024-10-10
+  tags: Arc
+  type: Bioimage Analysis
+  submit_date: 2024-10-16
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
