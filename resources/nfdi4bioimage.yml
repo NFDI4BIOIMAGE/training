@@ -4463,3 +4463,24 @@ resources:
   - https://zenodo.org/records/13928832
   - https://doi.org/10.5281/zenodo.13928832
   
+- authors: Fazeli, Elnaz, Robert, Haase, Michael, Doube, Kota, Miura, David, Legland
+  description: Bioimaging has transformed our understanding of biological processes,
+    yet extracting&nbsp;meaningful information from complex datasets remains a challenge,
+    particularly for&nbsp;early career scientists. This paper proposes a simplified,
+    systematic approach to&nbsp;bioimage analysis, focusing on categorizing commonly
+    observed structures and&nbsp;shapes, and providing relevant analysis methods. Our
+    approach includes illustrative&nbsp;examples and a visual flowchart, enabling researchers
+    to define analysis objectives&nbsp;clearly. By understanding the diversity of bioimage
+    structures and aligning them with&nbsp;appropriate analysis approaches, the framework
+    empowers researchers to navigate&nbsp;bioimage datasets more efficiently. It also
+    aims to foster a common language between&nbsp;researchers and analysts, thereby
+    enhancing mutual understanding and facilitating&nbsp;effective communication.
+  license: cc-by-4.0
+  name: 'From Cells to Pixels: Bridging Biologists and  Image Analysts Through a Common
+    Language'
+  num_downloads: 324
+  publication_date: '2024-08-16'
+  url:
+  - https://zenodo.org/records/13331351
+  - https://doi.org/10.5281/zenodo.13331351
+  
