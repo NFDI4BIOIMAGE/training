@@ -1,4 +1,4 @@
-# Robert haase (43)
+# Robert haase (44)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -758,6 +758,25 @@ This talk will present the initiatives of the NFDI4BioImage consortium aimed at 
 [https://zenodo.org/records/13506641](https://zenodo.org/records/13506641)
 
 [https://doi.org/10.5281/zenodo.13506641](https://doi.org/10.5281/zenodo.13506641)
+
+
+---
+
+## Towards Transparency and Knowledge Exchange in AI-assisted Data Analysis Code Generation
+
+['Robert Haase']
+
+Published 2024-10-14
+
+Licensed CC-BY-4.0
+
+
+
+The integration of Large Language Models (LLMs) in scientific research presents both opportunities and challenges for life scientists. Key challenges include ensuring transparency in AI-generated content and facilitating efficient knowledge exchange among researchers. These issues arise from the in-transparent nature of AI-driven code generation and the informal sharing of AI insights, which may hinder reproducibility and collaboration. This paper introduces git-bob, an innovative AI-assistant designed to address these challenges by fostering an interactive and transparent collaboration platform within GitHub. By enabling seamless dialogue between humans and AI, git-bob ensures that AI contributions are transparent and reproducible. Moreover, it supports collaborative knowledge exchange, enhancing the interdisciplinary dialogue necessary for cutting-edge life sciences research. The open-source nature of git-bob further promotes accessibility and customization, positioning it as a vital tool in employing LLMs responsibly and effectively within scientific communities.
+
+[https://zenodo.org/records/13928832](https://zenodo.org/records/13928832)
+
+[https://doi.org/10.5281/zenodo.13928832](https://doi.org/10.5281/zenodo.13928832)
 
 
 ---

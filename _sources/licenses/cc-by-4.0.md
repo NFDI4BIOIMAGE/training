@@ -1,4 +1,4 @@
-# Cc-by-4.0 (114)
+# Cc-by-4.0 (116)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -863,6 +863,25 @@ Tags: Research Data Management
 Content type: Collection
 
 [https://www.forschungsdaten.org/](https://www.forschungsdaten.org/)
+
+
+---
+
+## From Cells to Pixels: Bridging Biologists and  Image Analysts Through a Common Language
+
+['Elnaz Fazeli', 'Haase Robert', 'Doube Michael', 'Miura Kota', 'Legland David']
+
+Published 2024-08-16
+
+Licensed CC-BY-4.0
+
+
+
+Bioimaging has transformed our understanding of biological processes, yet extracting&nbsp;meaningful information from complex datasets remains a challenge, particularly for&nbsp;early career scientists. This paper proposes a simplified, systematic approach to&nbsp;bioimage analysis, focusing on categorizing commonly observed structures and&nbsp;shapes, and providing relevant analysis methods. Our approach includes illustrative&nbsp;examples and a visual flowchart, enabling researchers to define analysis objectives&nbsp;clearly. By understanding the diversity of bioimage structures and aligning them with&nbsp;appropriate analysis approaches, the framework empowers researchers to navigate&nbsp;bioimage datasets more efficiently. It also aims to foster a common language between&nbsp;researchers and analysts, thereby enhancing mutual understanding and facilitating&nbsp;effective communication.
+
+[https://zenodo.org/records/13331351](https://zenodo.org/records/13331351)
+
+[https://doi.org/10.5281/zenodo.13331351](https://doi.org/10.5281/zenodo.13331351)
 
 
 ---
@@ -1995,6 +2014,25 @@ This talk will present the initiatives of the NFDI4BioImage consortium aimed at 
 [https://zenodo.org/records/13506641](https://zenodo.org/records/13506641)
 
 [https://doi.org/10.5281/zenodo.13506641](https://doi.org/10.5281/zenodo.13506641)
+
+
+---
+
+## Towards Transparency and Knowledge Exchange in AI-assisted Data Analysis Code Generation
+
+['Robert Haase']
+
+Published 2024-10-14
+
+Licensed CC-BY-4.0
+
+
+
+The integration of Large Language Models (LLMs) in scientific research presents both opportunities and challenges for life scientists. Key challenges include ensuring transparency in AI-generated content and facilitating efficient knowledge exchange among researchers. These issues arise from the in-transparent nature of AI-driven code generation and the informal sharing of AI insights, which may hinder reproducibility and collaboration. This paper introduces git-bob, an innovative AI-assistant designed to address these challenges by fostering an interactive and transparent collaboration platform within GitHub. By enabling seamless dialogue between humans and AI, git-bob ensures that AI contributions are transparent and reproducible. Moreover, it supports collaborative knowledge exchange, enhancing the interdisciplinary dialogue necessary for cutting-edge life sciences research. The open-source nature of git-bob further promotes accessibility and customization, positioning it as a vital tool in employing LLMs responsibly and effectively within scientific communities.
+
+[https://zenodo.org/records/13928832](https://zenodo.org/records/13928832)
+
+[https://doi.org/10.5281/zenodo.13928832](https://doi.org/10.5281/zenodo.13928832)
 
 
 ---
