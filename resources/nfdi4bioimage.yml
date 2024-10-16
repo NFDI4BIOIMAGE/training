@@ -4463,3 +4463,16 @@ resources:
   - https://zenodo.org/records/13928832
   - https://doi.org/10.5281/zenodo.13928832
   
+- authors: '456'
+  license:
+  - AGPL-3.0
+  - APACHE-2.0
+  name: '123'
+  description: '456'
+  tags:
+  - Biabob
+  - this is a test3
+  type:
+  - Bioimage Analysis
+  url: https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=machine
+  
