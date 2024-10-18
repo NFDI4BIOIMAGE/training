@@ -4484,3 +4484,18 @@ resources:
   - https://zenodo.org/records/13331351
   - https://doi.org/10.5281/zenodo.13331351
   
+- authors: ''
+  license:
+  - CC-BY-SA-4.0
+  - CC-BY-NC-4.0
+  name: OMERO - QuPath
+  description: OMERO-RAW extension for QuPath allows to directly access to the raw pixels
+    of images. All types of images (RGB, fluorescence, ...) are supported with this
+    extension.
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  type:
+  - Online Tutorial
+  url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
+  
