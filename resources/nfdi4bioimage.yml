@@ -4486,8 +4486,7 @@ resources:
   
 - authors: ''
   license:
-  - CC-BY-SA-4.0
-  - CC-BY-NC-4.0
+  - CC-BY-NC-SA-4.0
   name: OMERO - QuPath
   description: OMERO-RAW extension for QuPath allows to directly access to the raw pixels
     of images. All types of images (RGB, fluorescence, ...) are supported with this
