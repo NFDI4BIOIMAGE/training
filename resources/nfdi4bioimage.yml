@@ -4484,7 +4484,7 @@ resources:
   - https://zenodo.org/records/13331351
   - https://doi.org/10.5281/zenodo.13331351
   
-- authors: ''
+- authors: 'Rémy Jean Daniel Dornier'
   license:
   - CC-BY-NC-SA-4.0
   name: OMERO - QuPath
