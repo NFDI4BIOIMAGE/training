@@ -826,7 +826,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Workflow Engine
-  - Bio-Image Analysis
+  - Bioimage Analysis
   type:
   - Documentation
   url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
@@ -879,7 +879,7 @@ resources:
 - license: APACHE-2.0
   name: ITKElastix Examples
   tags:
-  - Bio-Image Analysis
+  - Bioimage Analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
 - license: ALL RIGHTS RESERVED
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
@@ -2489,7 +2489,7 @@ resources:
   publication_date: '2024-05-23'
   tags:
   - Image Segmentation
-  - Bio-Image Analysis
+  - Bioimage Analysis
   - Deep Learning
   type:
   - Slides
@@ -2555,7 +2555,7 @@ resources:
   - Open Science
   - Research Data Management
   - Fair-Principles
-  - Bio-Image Analysis
+  - Bioimage Analysis
   - Licensing
   type:
   - Slides
@@ -3345,7 +3345,7 @@ resources:
   name: Challenges and opportunities for bio-image analysis core-facilities
   tags:
   - Research Data Management
-  - Bio-Image Analysis
+  - Bioimage Analysis
   - Nfdi4Bioimage
   type:
   - Slide
@@ -4403,7 +4403,7 @@ resources:
     2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
   
     2.15 p.m. to 3.00 p.m.: Discussion, Outlook'
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: '[Workshop] FAIR data handling for microscopy: Structured metadata annotation
     in OMERO'
   num_downloads: 234
@@ -4418,7 +4418,7 @@ resources:
   
     Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment
     with Dr. Riccardo Massei"'
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: 'Getting started with Python: intro and set-up a conda environment'
   num_downloads: 6
   publication_date: '2024-10-09'
@@ -4430,7 +4430,7 @@ resources:
     that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis
     Python code. It highlights how to get started with using large language models and
     prompt engineering to get high-quality bio-image analysis code.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Bio-image Analysis Code Generation using bia-bob
   num_downloads: 101
   publication_date: '2024-10-09'
@@ -4451,7 +4451,7 @@ resources:
 - authors: GO FAIR
   description: This page is supposed to serve as a Starter Kit for research data management (RDM). 
   It lists resources designed to help researchers get started to organize their data.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: RDM Starter Kit
   tags:
   - Research Data Management
@@ -4460,7 +4460,7 @@ resources:
   url: https://www.go-fair.org/resources/rdm-starter-kit/
 - authors: Haase, Robert
   description: Overview about decision making and how to influence decisions in the bio-image analysis software context.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Hitchhiking through a diverse Bio-image Analysis Software Universe
   tags: 
   - Bioimage Analysis
@@ -4474,7 +4474,7 @@ resources:
   - https://doi.org/10.7490/f1000research.1119026.1
 - authors:  Costantino Thanos
   description: This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Research Data Reusability: Conceptual Foundations, Barriers and Enabling Technologies 
   tags:
   - Research Data Management
@@ -4493,7 +4493,7 @@ resources:
     - et. al
   description: This Comment is the first formal publication of the FAIR Principles, 
   and includes the rationale behind them, and some exemplar implementations in the community.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: The FAIR Guiding Principles for scientific data management and stewardship
   tags:
   - Fair-Principles
@@ -4510,7 +4510,7 @@ resources:
   The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, 
   and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data 
   as a result of the increase in volume, complexity, and creation speed of data.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: FAIR Principles
   tags:
   - Fair-Principles
@@ -4523,7 +4523,7 @@ resources:
   - Annelien L. Bredenoord 
   description: The FAIR guiding principles for research data stewardship 
   (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: The FAIR guiding principles for data stewardship: fair enough?
   tags:
   - Fair-Principles
@@ -4543,7 +4543,7 @@ resources:
   description: The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. 
   The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist 
   (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Modeling community standards for metadata as templates makes data FAIR
   tags:
   - Data Stewardship
@@ -4641,7 +4641,7 @@ resources:
   url: https://doi.org/10.11588/heidok.00029489
 - authors: ELIXIR (2021) Research Data Management Kit
   description: In this section, information is organised according to the stages of the research data life cycle.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Data life cycle
   tags:
   - Data life cycle
@@ -4666,7 +4666,7 @@ resources:
   - Jessica Rex
   description:  Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten 
   der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy 
   tags:
     - Research Data Management
@@ -4681,7 +4681,7 @@ resources:
   - Monika Kuberek
   description: As a methodological approach, research data policies of German universities are collected and evaluated, 
   and compared to international recommendations on research data policies.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
   tags:
   - Research Data Management
@@ -4692,7 +4692,7 @@ resources:
   url: https://www.o-bib.de/bib/article/view/2018H2S1-13
 - description: This document provides the essential elements of a Research Data Management (RDM) Policy and is part 
   of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
-  license: cc-b-4.0
+  license: CC-BY-4.0
   name: Guidance for Developing a Research Data Management (RDM) Policy
   tags:
   - Research Data Management
@@ -4727,7 +4727,7 @@ resources:
   url: https://rdmorganiser.github.io/
 - authors: Robert Haase
   description: In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Creating a Research Data Management Plan using chatGPT
   tags:
   - Research Data Management
@@ -4741,7 +4741,7 @@ resources:
   - Till Kreutzer
   - Henning Lahmann
   description: Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name:  Rechtsfragen bei Open Science - Ein Leitfaden
   tags:
   - Open Science
