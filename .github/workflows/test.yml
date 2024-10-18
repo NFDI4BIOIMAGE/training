@@ -15,10 +15,10 @@ jobs:
 
 
     # Install dependencies
-    - name: Set up the latest Python version
+    - name: Set up Python
       uses: actions/setup-python@v4  # Update to the latest version of the action
       with:
-        python-version: '3.x'  # Automatically use the latest Python 3 version
+        python-version: '3.x'  # Automatically use the latest Python 3.x version
 
 
 
