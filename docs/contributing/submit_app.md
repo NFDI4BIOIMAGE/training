@@ -13,8 +13,10 @@ pip install streamlit pygithub pyyaml pandas
 Make sure you have set your GitHub API key as an environment variable. Here's how:
 
 1. Open Command Prompt by pressing Win + R, typing `cmd`, and pressing Enter.
-2. Verify that the environment variable has been set by running `echo %GITHUB_API_KEY%`.
-3. If you don't have your API key, go to your GitHub account settings and follow these steps:
+2. Verify that the environment variable has been set by running
+   - `echo %GITHUB_API_KEY%` on Windows
+   - `echo $GITHUB_API_KEY` on MacOS/Linux
+4. If you don't have your API key, go to your GitHub account settings and follow these steps:
     - Click your profile photo in the upper-right corner of any page on GitHub, then click Settings.
     ![Screenshot showing how to create your API Token on your github](set_api_key_1.png)
     ![Screenshot showing how to create your API Token on your github](set_api_key_2.png)
@@ -22,11 +24,11 @@ Make sure you have set your GitHub API key as an environment variable. Here's ho
     ![Screenshot showing how to find the API Token setting on your github](set_api_key_3.png)
     - Under Personal access tokens, click Tokens (classic) to generate your API key.
     ![Screenshot showing how to generate the API Token on your github](set_api_key_4.png)
-4. Once you have your API key, set it as an environment variable using the following command in your terminal, on Windows:
+5. Once you have your API key, set it as an environment variable using the following command in your terminal, on Windows:
     ```
     setx GITHUB_API_KEY "your_github_api_key"
     ```
-    On MacOS:
+    On MacOS/Linux:
     ```
     export GITHUB_API_KEY="your_github_api_key"
     ```
