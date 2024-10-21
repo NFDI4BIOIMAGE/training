@@ -112,3 +112,4 @@ How to get started with Jupyter and Colab,nan,https://www.youtube.com/watch?v=OH
 Chris Halvin YouTube channel,nan,"['https://www.youtube.com/@chrishavlin', 'https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1']","Napari, Python, Bioimage Analysis",UNKNOWN,
 RDM4mic,nan,['https://www.youtube.com/@RDM4mic'],"Research Data Management, Omero",UNKNOWN,
 FAIR BioImage Data,nan,['https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm'],"Research Data Management, Fair, Bioimage Analysis",CC-BY-4.0,
+OMERO - QuPath,Rémy Jean Daniel Dornier,https://wiki-biop.epfl.ch/en/data-management/omero/qupath,"Bioimage Analysis, Omero",CC-BY-NC-SA-4.0,"OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension."

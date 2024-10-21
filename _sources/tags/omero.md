@@ -1,4 +1,4 @@
-# Omero (19)
+# Omero (20)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 ['Robert Haase']
@@ -137,6 +137,25 @@ Tags: Teaching, Bioimage Analysis, Notebooks, Python, Omero
 Content type: Github Repository
 
 [https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
+
+
+---
+
+## OMERO - QuPath
+
+['Rémy Jean Daniel Dornier']
+
+Licensed ['CC-BY-NC-SA-4.0']
+
+
+
+OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension.
+
+Tags: Bioimage Analysis, Omero
+
+Content type: Online Tutorial
+
+[https://wiki-biop.epfl.ch/en/data-management/omero/qupath](https://wiki-biop.epfl.ch/en/data-management/omero/qupath)
 
 
 ---

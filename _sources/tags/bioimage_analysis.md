@@ -1,4 +1,4 @@
-# Bioimage analysis (140)
+# Bioimage analysis (141)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -1686,6 +1686,25 @@ Tags: Teaching, Bioimage Analysis, Notebooks, Python, Omero
 Content type: Github Repository
 
 [https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
+
+
+---
+
+## OMERO - QuPath
+
+['Rémy Jean Daniel Dornier']
+
+Licensed ['CC-BY-NC-SA-4.0']
+
+
+
+OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension.
+
+Tags: Bioimage Analysis, Omero
+
+Content type: Online Tutorial
+
+[https://wiki-biop.epfl.ch/en/data-management/omero/qupath](https://wiki-biop.epfl.ch/en/data-management/omero/qupath)
 
 
 ---
