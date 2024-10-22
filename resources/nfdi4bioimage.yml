@@ -4498,3 +4498,13 @@ resources:
   - Online Tutorial
   url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
   
+- authors: This is a test again
+  description: test
+  license: ALL RIGHTS RESERVED
+  name: This is a test again
+  num_downloads: 
+  publication_date: 
+  tags: Artificial Intelligence
+  type: Bioimage Analysis
+  submit_date: 2024-10-22
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
