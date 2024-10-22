@@ -4508,11 +4508,7 @@ resources:
   - Jianxu Chen
   license:
   - CC-BY-NC-SA
-  description: Multimodal large language models have been recognized as a historical milestone in 
-  the field of artificial intelligence and have demonstrated revolutionary potentials not only in 
-  commercial applications, but also for many scientific fields. Here we give a brief overview of 
-  multimodal large language models through the lens of bioimage analysis and discuss how we could 
-  build these models as a community to facilitate biology research
+  description: Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
   name: Multimodal large language models for bioimage analysis
   tags:
   - Bioimage Analysis
