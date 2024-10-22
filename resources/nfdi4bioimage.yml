@@ -2357,9 +2357,12 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10687658
 - authors:
-  - Scholz Massei
-  - Schnike Busch
-  - Bumberger Bohring
+  - Riccardo Massei
+  - Stefan Scholz
+  - Wibke Busch
+  - Thomas Schnike
+  - Hannes Bohring
+  - Jan Bumberger
   description: High-content screening (HCS) bioimaging automates the imaging and analysis
     of numerous biological samples, generating extensive metadata that is crucial
     for effective image management and interpretation. Efficiently handling this complex
@@ -3518,7 +3521,7 @@ resources:
   - Vanessa Fuchs
   - Aphaia Fiona
   - Jens Wendt
-  - "Maximilian M\xFCller"
+  - Maximilian Müller
   - Mohsen Ahmadi
   - Riccardo Massei
   - Cornelia Wetzker
@@ -4497,4 +4500,31 @@ resources:
   type:
   - Online Tutorial
   url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
+
+- authors:
+  - Shanghang Zhang
+  - Gaole Dai
+  - Tiejun Huang
+  - Jianxu Chen
+  license:
+  - CC-BY-NC-SA
+  description: Multimodal large language models have been recognized as a historical milestone in 
+  the field of artificial intelligence and have demonstrated revolutionary potentials not only in 
+  commercial applications, but also for many scientific fields. Here we give a brief overview of 
+  multimodal large language models through the lens of bioimage analysis and discuss how we could 
+  build these models as a community to facilitate biology research
+  name: Multimodal large language models for bioimage analysis
+  tags:
+  - Bioimage Analysis
+  - Large Language Models
+  - Fair-Principles
+  - Workflow
+  type:
+  - Publication
+  url:
+  - https://www.nature.com/articles/s41592-024-02334-2
+  - https://arxiv.org/abs/2407.19778
+
+
+
   
