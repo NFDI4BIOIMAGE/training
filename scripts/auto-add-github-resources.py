@@ -101,12 +101,11 @@ def complete_github_data(github_repo_url):
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
 
-    # Tags (topics): should we use the repository topics or the README.md file?
-    topics = repo.get_topics()
-    entry['tags'] = ", ".join(topics) if topics else ""
+    # Tags: always add the message "Dear users, please add tags."
+    entry['tags'] = "Dear users, please add tags."
 
-    # Type： how should we determine this for a GitHub repository?
-    entry['type'] = ""
+    # Type: Always set this field to "GitHub Repository"
+    entry['type'] = "GitHub Repository"
 
     # Repository URL
     entry['url'] = github_repo_url
