@@ -648,7 +648,7 @@ Content type: Slides
 
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
-['Scholz Massei', 'Schnike Busch', 'Bumberger Bohring']
+['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
 
 Licensed CC-BY-4.0
 

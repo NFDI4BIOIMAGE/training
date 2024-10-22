@@ -1,4 +1,4 @@
-# Publication (42)
+# Publication (43)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -449,6 +449,27 @@ Content type: Publication, Documentation
 [https://doi.org/10.1111/jmi.13227](https://doi.org/10.1111/jmi.13227)
 
 [https://mianalysis.github.io/](https://mianalysis.github.io/)
+
+
+---
+
+## Multimodal large language models for bioimage analysis
+
+['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+
+Licensed ['CC-BY-NC-SA']
+
+
+
+Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
+
+Tags: Bioimage Analysis, Large Language Models, Fair-Principles, Workflow
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41592-024-02334-2](https://www.nature.com/articles/s41592-024-02334-2)
+
+[https://arxiv.org/abs/2407.19778](https://arxiv.org/abs/2407.19778)
 
 
 ---

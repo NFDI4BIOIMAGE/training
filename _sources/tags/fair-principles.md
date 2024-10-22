@@ -1,4 +1,4 @@
-# Fair-principles (16)
+# Fair-principles (17)
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
 ['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
@@ -158,6 +158,27 @@ Content type: Slides
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 [https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
+## Multimodal large language models for bioimage analysis
+
+['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+
+Licensed ['CC-BY-NC-SA']
+
+
+
+Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
+
+Tags: Bioimage Analysis, Large Language Models, Fair-Principles, Workflow
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41592-024-02334-2](https://www.nature.com/articles/s41592-024-02334-2)
+
+[https://arxiv.org/abs/2407.19778](https://arxiv.org/abs/2407.19778)
 
 
 ---

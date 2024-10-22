@@ -1,4 +1,23 @@
-# Riccardo massei (6)
+# Riccardo massei (7)
+## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
+
+['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
+
+Licensed CC-BY-4.0
+
+
+
+High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
+
+Tags: Bioimage Analysis
+
+Content type: Poster
+
+[https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
+
+
+---
+
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
 ['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']

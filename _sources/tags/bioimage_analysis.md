@@ -1,4 +1,4 @@
-# Bioimage analysis (141)
+# Bioimage analysis (142)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -784,7 +784,7 @@ Content type: Book
 
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
-['Scholz Massei', 'Schnike Busch', 'Bumberger Bohring']
+['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
 
 Licensed CC-BY-4.0
 
@@ -1491,6 +1491,27 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
+
+
+---
+
+## Multimodal large language models for bioimage analysis
+
+['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+
+Licensed ['CC-BY-NC-SA']
+
+
+
+Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
+
+Tags: Bioimage Analysis, Large Language Models, Fair-Principles, Workflow
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41592-024-02334-2](https://www.nature.com/articles/s41592-024-02334-2)
+
+[https://arxiv.org/abs/2407.19778](https://arxiv.org/abs/2407.19778)
 
 
 ---
