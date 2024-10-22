@@ -4498,3 +4498,13 @@ resources:
   - Online Tutorial
   url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
   
+- author: Riccardo Massei, Robert Haase, ENicolay
+  description: This repository offer access to teaching material and useful resources
+    for the YMIA - Python-Based Event Series.
+  license: MIT License
+  name: ymia_python_event_series_material
+  publication_date: '2024-10-09T12:22:31+00:00'
+  tags: Dear users, please add tags.
+  type: GitHub Repository
+  url: https://github.com/rmassei/ymia_python_event_series_material
+  
