@@ -70,6 +70,54 @@ def download_first_file_from_zenodo(record_id):
     else:
         print(f"Unsupported file type: {file_extension}")
 
+# Define the format of your PNG file
+def get_latest_png_filename():
+    date_str = datetime.now().strftime("%Y%m%d")
+    path_to_png = "../download_statistics/highlights/"
+    return path_to_png + f"{date_str}_first_page.png"
+
+# Function to update README.md
+def update_readme():
+    # Get the latest PNG file name
+    latest_png = get_latest_png_filename()
+
+    # Check if the PNG file exists
+    if not os.path.isfile(latest_png):
+        print(f"Error: {latest_png} does not exist.")
+        return
+
+    # Path to the README file
+    readme_path = "../docs/readme.md"
+    
+    # Read the existing README.md file
+    with open(readme_path, 'r') as file:
+        content = file.readlines()
+
+    # Define the subheading under which the PNG should be added
+    subheading = "## Most downloaded training material in the last week"
+    
+    # Flag to track if the subheading is found
+    subheading_found = False
+    updated_content = []
+    
+    for line in content:
+        updated_content.append(line)
+        
+        # When the subheading is found, insert the latest PNG file reference
+        if line.strip() == subheading:
+            subheading_found = True
+            updated_content.append(f"\n![latest PNG]({latest_png})\n")
+    
+    if not subheading_found:
+        print(f"Subheading '{subheading}' not found in README.md.")
+        return
+
+    # Write the updated content back to the README
+    with open(readme_path, 'w') as file:
+        file.writelines(updated_content)
+    
+    print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
+
 folder = '../download_statistics/'
 
 latest_file, previous_file = get_latest_two_csv_files(folder)
@@ -96,4 +144,9 @@ url = most_downloaded_record['url']
 #extract from url the zenodo id
 record_id = url.split('/')[-1]
 
+# Download the most downloaded file from zenodo and save the first page as PNG in case of PPTX or PDF
 download_first_file_from_zenodo(record_id)
+
+# Run the script
+if __name__ == "__main__":
+    update_readme()

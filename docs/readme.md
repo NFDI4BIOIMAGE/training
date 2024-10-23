@@ -11,6 +11,12 @@ This is a **preliminary** / **experimental** search index allowing us to explore
 
 Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/NFDI4BIOIMAGE/training/issues).
 
+## Most downloaded training material in the last week
+
+The most downloaded resource in the last week was 
+![latest PNG](../download_statistics/highlights/20241023_first_page.png)
+
+
 ## How to use this resource
 
 This Jupyter Book can be searched using the search bar on the left:
