@@ -4768,6 +4768,7 @@ resources:
   - Metadata
   - I3Dbio
   - Research Data Management
+  - Bioimage Data
   type:
   - Collection
   url: 
@@ -4813,6 +4814,7 @@ resources:
   tags:
   - Research Data Management
   - Image Data Management
+  - Bioimage Data
   type:
   - Publication
   num_downloads: 768
@@ -4826,10 +4828,10 @@ resources:
   - Metadata
   - Research Image Management
   - Research Data Management
+  - Bioimage Data
   type:
   - Collection
   url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
-    
 - authors: 
   - Rohola Hosseini
   - Matthijs Vlasveld
@@ -4845,6 +4847,7 @@ resources:
   - Metadata
   - Research Data Management
   - Image Data Management
+  - Bioimage Data
   type:
   - Publication
   publication_date: '2023-07-17'
@@ -4929,17 +4932,264 @@ resources:
   type:
   - Collection
   url: https://www.go-fair.org/fair-principles/
-        
 - description: To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
   license: CC0-1.0
   name: Submitting data to the BioImage Archive
   tags:
-  - 
+  - Research Data Management
+  - Image Data Management
+  - Bioimage Data
   type:
   - Tutorial
   - Video
   url: https://www.ebi.ac.uk/bioimage-archive/submit/
-        
+- authors: 
+  - Matthew Hartley 
+  - Gerard J. Kleywegt 
+  - Ardan Patwardhan 
+  - Ugis Sarkans 
+  - Jason R. Swedlow 
+  - Alvis Brazma 
+  description: The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
+  license: UNKNOWN
+  name: The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+  tags:
+  - Image Data Management
+  - Research Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  publication_date: '2022-06-22'
+  url: 
+  - https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub
+  - https://doi.org/10.1016/j.jmb.2022.167505
+- description: Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
+  license: UNKNOWN
+  name: NFDI - Daten als gemeinsames Gut für exzellente Forschung, organisiert durch die Wissenschaft in Deutschland.
+  tags:
+  - Nfdi4Bioimage
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.nfdi.de/ 
+- authors: 
+  - Leyla Garcia
+  - Bérénice Batut
+  - Melissa L. Burke
+  - Mateusz Kuzak
+  - Fotis Psomopoulos
+  - et al.
+  description: The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+  license: CC-BY-4.0
+  name: Ten simple rules for making training materials FAIR
+  tags:
+  - Metadata
+  - Bioinformatics
+  - FAIR-Principles
+  - Training
+  type:
+  - Publication
+  num_downloads: 4311
+  publication_date: '2020-05-21'
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
+- authors: 
+  - Martin Boeckhout
+  - Gerhard A. Zielhuis
+  - Annelien L. Bredenoord 
+  description: The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
+  license: UNKNOWN
+  name: The FAIR guiding principles for data stewardship: fair enough?
+  tags:
+  - FAIR-Principles
+  - Data Stewardship
+  - Sharing
+  type:
+  - Publication
+  publication_date: '2018-05-17'
+  url: https://www.nature.com/articles/s41431-018-0160-0
+- license: CC-BY-SA-4.0
+  name: Data management at France BioImaging
+  tags:
+  - Research Data Management
+  - Bioimage Analysis
+  - Image Data Management
+  - Open Science
+  type:
+  - Slides
+  - Presentation
+  publication_date: '2023-07-05'
+  url: https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide
+- description: Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
+  license: CC-BY-4.0
+  name: DataPLANT knowledge base
+  tags:
+  - Research Data Management
+  - Training
+  - Dataplant
+  type:
+  - Collection
+  publication_date: '2022-12-14'
+  url: https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html
+- description: An easy to use and open source converter for bioimaging data. NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF.
+  license: GPL-2.0
+  name: NGFF Converter 
+  tags:
+  - Bioimage Data
+  - Open Source Software
+  type:
+  - Application
+  url: https://www.glencoesoftware.com/products/ngff-converter/     
+- authors:
+  - Melissa Linkert
+  - Chris Allan
+  - Josh Moore
+  - Sébastien Besson
+  - David Gault
+  - et al.
+  description: Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
+  license: GPL-2.0
+  name: bioformats2raw Converter
+  tags:
+  - Open Source Software
+  - Bioimage Data
+  type:
+  - Application
+  - Github Repository
+  url: https://github.com/glencoesoftware/bioformats2raw
+- authors:
+  - Melissa Linkert
+  - Chris Allan
+  - Sébastien Besson
+  - Josh Moore
+  description: Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
+  license: GPL-2.0
+  name: raw2ometiff Converter
+  tags:
+  - Open Source Software
+  - Bioimage Data
+  type:
+  - Application
+  - Github Repository
+  url: https://github.com/glencoesoftware/raw2ometiff
+- description: This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
+  license: UNKNOWN
+  name: Reporting and reproducibility in microscopy
+  tags:
+  - Reproducability
+  - Meta Data
+  - Bioimage Data
+  type:
+  - Collection
+  publication_date: '2021-12-03'
+  url: https://www.nature.com/collections/djiciihhjh 
+- authors: Christopher Schmied
+  description: In this paper we introduce two sets of checklists. One is concerned with the publication of images. The other one gives instructions for the publication of image analysis.
+  license: CC0-1.0
+  name: Checklists for publishing images and image analysis
+  tags:
+  - Bioimage Data
+  - Microscopy Image Analysis
+  type:
+  - Forum Post
+  publication_date: '2023-09-14'
+  url: https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304   
+- authors: 
+  - Stian Soiland-Reyes 
+  - Finn Bacall
+  - Bert Droesbeke
+  - Alan R Williams
+  - Johan Gustafsson
+  - et al.
+  description: A registry for describing, sharing and publishing scientific computational workflows.
+  license: BSD-3-CLAUSE
+  name: WorkflowHub
+  tags:
+  - Bioinformatics
+  - Workflow
+  - Workflow Engine
+  - Python
+  - R
+  type:
+  - Collection
+  url: https://workflowhub.eu/             
+- license: CC-BY-4.0
+  name: Creating Workflows and Advanced Workflow Options
+  tags:
+  - Workflow
+  type:
+  - Tutorial
+  - Online Tutorial
+  url: https://galaxyproject.org/learn/advanced-workflow/     
+- description: A workflow is a chain of analysis steps. In Galaxy, we can create a workflow from an existing analysis history, or we can create one visually by adding tools to a canvas. This tutorial covers building a workflow to analyse a bacterial genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
+  license: CC0-1.0
+  name: Galaxy workflows
+  tags:
+  - Workflows
+  type:
+  - Online Tutorial
+  - Tutorial
+  url: https://galaxy-au-training.github.io/tutorials/modules/workflows/         
+- description:  Collection of tutorials developed and maintained by the worldwide Galaxy community.
+  license: CC-BY-4.0
+  name: Galaxy Training
+  tags:
+  - Bioimage Analysis
+  - Data Analysis
+  type:
+  - Collection
+  - Tutorial
+  num_downloads:
+  publication_date:
+  url: https://training.galaxyproject.org/       
+- authors: 
+  description: The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+  license: GPLv3
+  name: KNIME Image Processing
+  tags:
+  - Imagej
+  - OMERO
+  - Bioimage Data
+  - Workflows
+  type:
+  - Tutorial
+  - Online Tutorial
+  - Documentation
+  url: https://www.knime.com/community/image-processing           
+- description: The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
+  license: CC-BY-4.0
+  name: Abstract - NFDI Basic Service for Data Management Plans
+  tags:
+  - Research Data Management
+  type:
+  - Document
+  url: https://base4nfdi.de/images/AbstractDMP4NFDI.pdf
+- description: OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+  license: CC-BY-4.0
+  name: Open Micoscropy Environment (OME) Youtube Channel
+  tags:
+  - Open Source Software
+  - Microscopy Image Analysis
+  - Bioimage Data
+  type:
+  - Youtube Channel
+  num_downloads:
+  publication_date:
+  url: https://www.youtube.com/@OpenMicroscopyEnvironment       
+- authors: 
+  - SciPy
+  - Erick Martins Ratamero
+  license: Youttube Standard License
+  name: Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
+  tags:
+  - Image Data Management
+  - OMERO
+  - Bioimage Analysis
+  type:
+  - Video
+  - Presentation
+  publication_date: '2024-08-19'
+  url: https://www.youtube.com/watch?v=GmhyDNm1RsM
+                
 - authors: 
   description:
   license:
@@ -4950,8 +5200,8 @@ resources:
   - 
   num_downloads:
   publication_date:
-  url: 
-        
+  url:
+                
 - authors: 
   description:
   license:
@@ -4962,8 +5212,8 @@ resources:
   - 
   num_downloads:
   publication_date:
-  url: 
-        
+  url:
+                
 - authors: 
   description:
   license:
@@ -4974,8 +5224,7 @@ resources:
   - 
   num_downloads:
   publication_date:
-  url: 
-
+  url:
 
 
 
