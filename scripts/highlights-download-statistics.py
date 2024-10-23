@@ -46,6 +46,7 @@ def download_first_file_from_zenodo(record_id):
 
     # Check file extension and convert based on that
     file_extension = os.path.splitext(file_name)[1].lower()
+    date = datetime.now().strftime("%Y%m%d")
 
     if file_extension == '.pptx':
         # Convert first slide of PPT to PNG
@@ -54,7 +55,7 @@ def download_first_file_from_zenodo(record_id):
         
         # Placeholder slide-to-image conversion (requires custom handling)
         img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
-        img.save(folder + 'highlights/first_slide.png', 'PNG')
+        img.save(folder + f'highlights/{date}_first_page.png', 'PNG')
         print("First slide of PPT saved as PNG.")
 
     elif file_extension == '.pdf':
@@ -62,7 +63,8 @@ def download_first_file_from_zenodo(record_id):
         pages = convert_from_bytes(file_content.getvalue())  # Use pdf2image with BytesIO
         img = pages[0]
         # save image in folder highlights
-        img.save(folder + 'highlights/first_page.png', 'PNG')
+
+        img.save(folder + f'highlights/{date}_first_page.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
     else:
