@@ -2090,7 +2090,7 @@ resources:
   publication_date: '2024-04-15'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Git
   - Zenodo
   type:
@@ -2113,7 +2113,7 @@ resources:
   tags:
   - Research Data Management
   - Open Access
-  - Fair-Principles
+  - FAIR-Principles
   - Licensing
   type:
   - Slides
@@ -2157,7 +2157,7 @@ resources:
   tags:
   - Research Data Management
   - Licensing
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Slides
   url:
@@ -2173,7 +2173,7 @@ resources:
   name: FAIRy deep-learning for bioImage analysis
   tags:
   - Deep Learning
-  - Fair-Principles
+  - FAIR-Principles
   - Microscopy Image Analysis
   type:
   - Slides
@@ -2254,7 +2254,7 @@ resources:
   publication_date: '2024-06-04'
   tags:
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Research Data Management
   type:
   - Collection
@@ -2279,7 +2279,7 @@ resources:
   publication_date: '2024-06-04'
   tags:
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Research Data Management
   type:
   - Slides
@@ -2351,7 +2351,7 @@ resources:
   name: RDF as a bridge to domain-platforms like OMERO, or There and back again.
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   type:
   - Slides
@@ -2397,7 +2397,7 @@ resources:
     Organization
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
@@ -2554,7 +2554,7 @@ resources:
   tags:
   - Open Science
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Licensing
   type:
@@ -2623,7 +2623,7 @@ resources:
   tags:
   - Research Data Management
   - Data Protection
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Slides
   url:
@@ -3409,7 +3409,7 @@ resources:
     Analysis - Online Kick-Off 2023
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3445,7 +3445,7 @@ resources:
   name: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3461,7 +3461,7 @@ resources:
     Math'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3492,7 +3492,7 @@ resources:
   name: '[SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Nfdi4Bioimage
   type:
   - Poster
@@ -3558,7 +3558,7 @@ resources:
   tags:
   - Research Data Management
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Zarr
   - Nfdi4Bioimage
   type:
@@ -3854,7 +3854,7 @@ resources:
   license: CC-BY-4.0
   name: Photonic data analysis in 2050
   tags:
-  - Fair-Principles
+  - FAIR-Principles
   - Machine Learning
   - Research Data Management
   type:
@@ -4496,7 +4496,7 @@ resources:
   license: CC-BY-4.0
   name: The FAIR Guiding Principles for scientific data management and stewardship
   tags:
-  - Fair-Principles
+  - FAIR-Principles
   - Research Data Management
   type:
   - Publication
@@ -4513,7 +4513,7 @@ resources:
   license: CC-BY-4.0
   name: FAIR Principles
   tags:
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Website
   url: https://www.go-fair.org/fair-principles/ 
@@ -4526,7 +4526,7 @@ resources:
   license: CC-BY-4.0
   name: The FAIR guiding principles for data stewardship: fair enough?
   tags:
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Publication
   publication_date: '2018-05-17'
@@ -4547,7 +4547,7 @@ resources:
   name: Modeling community standards for metadata as templates makes data FAIR
   tags:
   - Data Stewardship
-  - Fair-Principles
+  - FAIR-Principles
   - Metadata
   type:
   - Publication
@@ -4685,7 +4685,7 @@ resources:
   name: Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Publication
   publication_date: '2018-07-13'
@@ -4710,7 +4710,7 @@ resources:
   - Data Stewardship
   - Open Source
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Website
   - Online Tutorial
@@ -4760,7 +4760,210 @@ resources:
   type:
   - Online Tutorial
   url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html   
-  
+- authors: Christian Schmidt
+  description: A Microscopy Research Data Management Resource.
+  license: UNKNOWN
+  name: I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+  tags:
+  - Metadata
+  - I3Dbio
+  - Research Data Management
+  type:
+  - Collection
+  url: 
+  - https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/
+- description: The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+  license: UNKNOWN
+  name: Key-Value pairs scripts
+  tags:
+  - OMERO
+  type:
+  - Documentation
+  - Collection
+  url: https://guide-kvpairs-scripts.readthedocs.io/en/latest/
+- authors: 
+  - Ilya G. Goldberg
+  - Chris Allan
+  - Jean-Marie Burel
+  - Doug Creager
+  - Andrea Falconi
+  - et. al
+  description: The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+  license: CC-BY-4.0
+  name: The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+  tags:
+  - Microscopy Image Analysis
+  - Bioimage Analysis
+  type:
+  - Publication
+  publication_date: '2005-05-03'
+  url: 
+  - https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47
+  - https://doi.org/10.1186/gb-2005-6-5-r47
+- authors:
+  - Marie-Hélène Bourget
+  - Lee Kamentsky
+  - Satrajit S. Ghosh
+  - Giacomo Mazzamuto
+  - Alberto Lazari
+  - et al.
+  description: The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
+  license: CC-BY-4.0
+  name: Microscopy-BIDS: An Extension to the Brain Imaging Data Structure for Microscopy Data
+  tags:
+  - Research Data Management
+  - Image Data Management
+  type:
+  - Publication
+  num_downloads: 768
+  publication_date: '2022-04-19'
+  url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full
+- description: Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
+  license: CC0-1.0
+  name: REMBI Overview
+  tags:
+  - FAIR-Principles
+  - Metadata
+  - Research Image Management
+  - Research Data Management
+  type:
+  - Collection
+  url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
+    
+- authors: 
+  - Rohola Hosseini
+  - Matthijs Vlasveld
+  - Joost Willemse
+  - Bob van de Water
+  - Sylvia E. Le Dévédec 
+  - Katherine J. Wolstencroft 
+  description: The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+  license: CC-BY-4.0
+  name: FAIR High Content Screening in Bioimaging
+  tags:
+  - FAIR Principles
+  - Metadata
+  - Research Data Management
+  - Image Data Management
+  type:
+  - Publication
+  publication_date: '2023-07-17'
+  url: https://www.nature.com/articles/s41597-023-02367-w
+- authors: 
+  - Lienhard Wegewitz
+  - F. Strauß
+  description: Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+  license: AGPL-3.0
+  name: Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+  tags:
+  - Research Data Management
+  type:
+  - Documentation
+  - Document
+  - Tutorial
+  publication_date: '2020-03-23'
+  url: 
+  - https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf
+  - https://www.elabftw.net/
+- authors: 
+  - Daniel Dietrich
+  - Jonathan Gray
+  - Tim McNamara
+  - Antti Poikola
+  - Rufus Pollock
+  - et al.
+  description: This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
+  license: CC-BY-4.0
+  name: What is Open Data?
+  tags:
+  - Open Science
+  type:
+  - Collection
+  url: http://opendatahandbook.org/guide/en/what-is-open-data/
+- description: Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
+  license: UNKNOWN
+  name: Five great reasons to share your research data
+  tags:
+  - Research Data Management
+  - Sharing
+  type:
+  - Blog Post
+  publication_date: '2022-03-18'
+  url: https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
+- description: The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+  license: UNKNOWN
+  name: Research data - what are the key issues to consider when publishing this kind of material?
+  tags:
+  - Research Data Management
+  - FAIR-Principles
+  - Licensing
+  type:
+  - Tutorial
+  url: https://www.publisso.de/en/advice/publishing-advice-faqs/research-data
+- authors: Christian Schmidt
+  description: Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+  license: UNKNOWN
+  name: Finding and Choosing a Data Repository
+  tags:
+  - I3Dbio
+  - Research Data Management
+  type:
+  - Tutorial
+  publication_date: '2023-07-01'
+  url: https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/
+- description: Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
+  license: CC-BY-4.0
+  name: re3data.org - registry of Research Data Repositories
+  tags:
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.re3data.org/
+- description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+  license: CC-BY-4.0
+  name: FAIR Priciples
+  tags:
+  - FAIR-Principles
+  - Data Stewardship
+  - Research Data Management
+  type:
+  - Collection
+  url: https://www.go-fair.org/fair-principles/
+        
+- description: To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
+  license: CC0-1.0
+  name: Submitting data to the BioImage Archive
+  tags:
+  - 
+  type:
+  - Tutorial
+  - Video
+  url: https://www.ebi.ac.uk/bioimage-archive/submit/
+        
+- authors: 
+  description:
+  license:
+  name: 
+  tags:
+  - 
+  type:
+  - 
+  num_downloads:
+  publication_date:
+  url: 
+        
+- authors: 
+  description:
+  license:
+  name: 
+  tags:
+  - 
+  type:
+  - 
+  num_downloads:
+  publication_date:
+  url: 
+        
 - authors: 
   description:
   license:
