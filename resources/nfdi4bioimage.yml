@@ -4524,3 +4524,11 @@ resources:
 
 
   
+- authors: This is a test again
+  description: sss
+  license: Apache-2.0 license
+  name: This is a test again
+  tags: Artificial Intelligence
+  type: Bioimage Analysis
+  submission_date: 2024-10-24
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
