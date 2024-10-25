@@ -5188,46 +5188,131 @@ resources:
   - Video
   - Presentation
   publication_date: '2024-08-19'
-  url: https://www.youtube.com/watch?v=GmhyDNm1RsM
-                
+  url: https://www.youtube.com/watch?v=GmhyDNm1RsM     
 - authors: 
-  description:
-  license:
-  name: 
+  - Pierre Pouchin 
+  - Rdornier # how do we list people who don't have their real names online?
+  - kekunn 
+  - Jean-Marie Burel 
+  description: A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
+  license: GPL-2.0
+  name: Plugin "simple-omero-client" 
   tags:
-  - 
+  - OMERO
+  - Github
+  - Fiji
   type:
-  - 
+  - Github Repository
+  url: https://github.com/GReD-Clermont/simple-omero-client
+- description: An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
+  license: GPL-2.0
+  name: Plugin "omero-batch-plugin"
+  tags:
+  - OMERO
+  - Imagej
+  - Imagej Macro
+  - Github
+  type:
+  - Github Repository
+  url: https://github.com/GReD-Clermont/omero_batch-plugin
+- authors: 
+  - Torec T. Luik
+  - Rodrigo Rosas-Bertolini 
+  - Eric A.J. Reits 
+  - Ron A. Hoebe 
+  - Przemek M. Krawczyk 
+  description: The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+  license: CC-BY-4.0
+  name: BIOMERO: A scalable and extensible image analysis framework
+  tags:
+  - OMERO
+  - Workflow
+  - Bioimage Analysis
+  - Image Data Management
+  type:
+  - Publication
   num_downloads:
   publication_date:
-  url:
-                
+  url: https://doi.org/10.1016/j.patter.2024.101024    
 - authors: 
-  description:
-  license:
-  name: 
+  - Torec Luik
+  - Johannes Soltwedel
+  description: The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
+  license: Apache-2.0
+  name: Biomero
   tags:
-  - 
+  - OMERO
+  - Github
   type:
-  - 
-  num_downloads:
-  publication_date:
-  url:
-                
+  - Github Repository
+  publication_date: '2024-07-24'
+  url: https://github.com/NL-BioImaging/biomero                
 - authors: 
-  description:
-  license:
-  name: 
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Boissonnet, Tom
+  - Fortmann-Grote, Carsten
+  - Dohle, Julia
+  - et al.
+  description: A set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO.
+  license: CC-BY-4.0
+  name: I3D bio's OMERO training material - Re-usable, adjustable, multi-purpose slides for local user training
   tags:
-  - 
+  - OMERO
+  - Training
+  - Teaching
+  - I3Dbio
   type:
-  - 
-  num_downloads:
-  publication_date:
-  url:
-
-
-
+  - Collection
+  - Publication
+  - Slides
+  num_downloads: 3834 
+  publication_date: '2023-11-13'
+  url: 
+  - https://zenodo.org/records/8323588
+  - https://doi.org/10.5281/zenodo.8323588           
+- authors:
+  - Erick Martins Ratamero 
+  - Jean-Marie Burel 
+  - Will Moore 
+  - Guillaume Gay 
+  - Christoph Moehl 
+  - et al.
+  description: An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
+  license: GPL-2.0
+  name: Plugin "omero-cli-transfer"
+  tags:
+  - OMERO
+  type:
+  - Github Repository
+  publication_date: '2024-09-14'
+  url: https://github.com/ome/omero-cli-transfer                     
+- authors: 
+  - Will Moore
+  - Josh Moore
+  - Yaroslav Halchenko
+  - Sébastien Besson
+  description: Web page for validating OME-NGFF files.
+  license: BSD-2-CLAUSE
+  name: ome-ngff-validator
+  tags:
+  - Bioimage Data
+  type:
+  - Github Repository
+  - Application
+  publication_date: '2022-09-29'
+  url: 
+  - https://ome.github.io/ome-ngff-validator/
+  - https://github.com/ome/ome-ngff-validator            
+- description: Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
+  license: CC-BY-4.0
+  name: BioFormats Command line (CLI) tools
+  tags:
+  - Bioimage Data
+  type:
+  - Documentation
+  publication_date: '2024-10-24'
+  url: https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html
 
 
   
