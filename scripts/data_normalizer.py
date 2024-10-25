@@ -20,9 +20,14 @@ normalization_mapping = {
     "CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)": "CC0-1.0",
     "CC0": "CC0-1.0",
     "Bio-Image Analysis": "Bioimage Analysis",
+    "Omero": "OMERO",
+    "Fair-Principles": "FAIR-Principles",
+    "Meta Data": "Metadata",
+    "cc-by-4.0": "CC-BY-4.0",
     "Unclear": "Unknown"
     # Add more mappings as needed
 }
+
 
 def fetch_spdx_licenses():
     """
@@ -72,7 +77,7 @@ def normalize_license(license_name, spdx_licenses):
 
 def normalize_field(field):
     """
-    Normalizes a single field (authors, tags).
+    Normalizes a single field (authors, tags) by applying specific mappings.
 
     Args:
         field (str or list): The field to be normalized.
@@ -81,9 +86,12 @@ def normalize_field(field):
         str or list: The normalized field.
     """
     if isinstance(field, list):
-        return [item.strip().title() for item in field]
+        return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field]
     else:
-        return field.strip().title()
+        return normalization_mapping.get(field.strip().title(), field.strip().title())
+
+# Apply normalize_field to each field in the normalize_data function
+
 
 def normalize_type(type):
     """
