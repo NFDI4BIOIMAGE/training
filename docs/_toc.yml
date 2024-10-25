@@ -6,9 +6,9 @@ root: readme
 parts:
   - caption: Contributing
     chapters:
-    - file: contributing/index
-    - file: contributing/submit_app
-    - file: contributing/format
+      - file: contributing/index
+      - file: contributing/submit_app
+      - file: contributing/format
 
   - caption: By tag
     chapters:
@@ -22,14 +22,12 @@ parts:
     chapters:
 {license_toc}
 
-    # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
-
   - caption: What's New
-  chapters:
+    chapters:
 {date_toc}
-    
+
   - caption: Appendix
     chapters:
-    - file: statistics/readme
-    - file: export/readme
-    - file: imprint
+      - file: statistics/readme
+      - file: export/readme
+      - file: imprint
