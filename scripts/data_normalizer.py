@@ -77,7 +77,7 @@ def normalize_license(license_name, spdx_licenses):
 
 def normalize_field(field):
     """
-    Normalizes a single field (authors, tags) by applying specific mappings.
+    Normalizes a single field (authors, tags).
 
     Args:
         field (str or list): The field to be normalized.
@@ -89,9 +89,6 @@ def normalize_field(field):
         return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field]
     else:
         return normalization_mapping.get(field.strip().title(), field.strip().title())
-
-# Apply normalize_field to each field in the normalize_data function
-
 
 def normalize_type(type):
     """
