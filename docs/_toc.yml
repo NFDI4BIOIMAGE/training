@@ -22,6 +22,8 @@ parts:
     chapters:
 {license_toc}
 
+    # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
+    
   - caption: What's New
     chapters:
 {date_toc}
