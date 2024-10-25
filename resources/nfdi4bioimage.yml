@@ -4438,9 +4438,7 @@ resources:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
 - authors: University of Ghent
-  description: The website provides resources and guidelines for managing research data efficiently and responsibly. 
-  Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a 
-  research project, and even beyond, in a way that aligns with Open Science principles.
+  description: The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
   license: UNKNOWN
   name: Ghent University Research Data Management (RDM): policy and support
   tags:
@@ -4491,8 +4489,7 @@ resources:
     - Gabrielle Appleton
     - Myles Axton
     - et. al
-  description: This Comment is the first formal publication of the FAIR Principles, 
-  and includes the rationale behind them, and some exemplar implementations in the community.
+  description: This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
   license: CC-BY-4.0
   name: The FAIR Guiding Principles for scientific data management and stewardship
   tags:
@@ -4505,11 +4502,8 @@ resources:
   - https://www.nature.com/articles/sdata201618
   - https://doi.org/10.1038/sdata.2016.18
 - authors: GO FAIR
-  description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. 
-  The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. 
-  The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, 
-  and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data 
-  as a result of the increase in volume, complexity, and creation speed of data.
+  description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, 
+  and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
   license: CC-BY-4.0
   name: FAIR Principles
   tags:
@@ -4521,8 +4515,7 @@ resources:
   - Martin Boeckhout
   - Gerhard A. Zielhuis
   - Annelien L. Bredenoord 
-  description: The FAIR guiding principles for research data stewardship 
-  (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences.
+  description: The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences.
   license: CC-BY-4.0
   name: The FAIR guiding principles for data stewardship: fair enough?
   tags:
@@ -4540,9 +4533,7 @@ resources:
   - Marcos Martínez-Romero
   - Josef Hardi
   - John Graybeal
-  description: The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. 
-  The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist 
-  (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+  description: The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
   license: CC-BY-4.0
   name: Modeling community standards for metadata as templates makes data FAIR
   tags:
@@ -4562,9 +4553,7 @@ resources:
   - Ulrike Boehm
   - James J. Chambers
   - et al.
-  description: Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. 
-  The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, 
-  scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+  description: Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
   license: UNKNOWN
   name: Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model
   tags:
@@ -4585,8 +4574,7 @@ resources:
   - Jan Ellenberg
   - David Grunwald
   - et al.
-  description: Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. 
-  We propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy. 
+  description: Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy. 
   license: UNKNOWN
   name: REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
   tags:
@@ -4608,8 +4596,7 @@ resources:
   - Suzanna E. Lewis
   - Sandra Orchard  
   - et al.
-  description: The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space 
-  with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. 
+  description: The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. 
   license: UNKNOWN
   name: Best practice data life cycle approaches for the life sciences
   tags:
@@ -4664,8 +4651,7 @@ resources:
   - Kerstin Helbig
   - Gerald Jagusch
   - Jessica Rex
-  description:  Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten 
-  der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+  description:  Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
   license: CC-BY-4.0
   name: Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy 
   tags:
@@ -4679,8 +4665,7 @@ resources:
 - authors: 
   - Bea Hiemenz
   - Monika Kuberek
-  description: As a methodological approach, research data policies of German universities are collected and evaluated, 
-  and compared to international recommendations on research data policies.
+  description: As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
   license: CC-BY-4.0
   name: Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
   tags:
@@ -4690,8 +4675,7 @@ resources:
   - Publication
   publication_date: '2018-07-13'
   url: https://www.o-bib.de/bib/article/view/2018H2S1-13
-- description: This document provides the essential elements of a Research Data Management (RDM) Policy and is part 
-  of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+- description: This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
   license: CC-BY-4.0
   name: Guidance for Developing a Research Data Management (RDM) Policy
   tags:
