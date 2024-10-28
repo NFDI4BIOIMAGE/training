@@ -92,7 +92,7 @@ def complete_github_data(github_repo_url):
         license_info = repo.get_license()
         entry['license'] = license_info.license.name if license_info else ""
     except:
-        entry['license'] = ""
+        pass
 
     # Repository name
     entry['name'] = repo.name if repo.name else ""
