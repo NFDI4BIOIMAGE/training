@@ -1,4 +1,4 @@
-# Cc-by-4.0 (116)
+# Cc-by-4.0 (117)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -176,6 +176,28 @@ Content type: Slide
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 [https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
+
+---
+
+## Bio-image Analysis Code Generation
+
+['Robert Haase']
+
+Published 2024-10-28
+
+Licensed CC-BY-4.0
+
+
+
+Large Language Models are changing the way we interact with computers, especially how we write code. In this tutorial, we will generate bio-image analysis code using two LLM-based code generators, bia-bob and git-bob.
+https://github.com/haesleinhuepf/bia-bob
+https://github.com/haesleinhuepf/git-bob
+&nbsp;
+
+[https://zenodo.org/records/14001044](https://zenodo.org/records/14001044)
+
+[https://doi.org/10.5281/zenodo.14001044](https://doi.org/10.5281/zenodo.14001044)
 
 
 ---
