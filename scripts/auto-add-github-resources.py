@@ -96,7 +96,7 @@ def complete_github_data(github_repo_url):
         pass
 
     # Repository name
-    entry['name'] = repo.name if repo.name else ""
+    entry['name'] = repo.name
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
