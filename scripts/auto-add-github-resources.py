@@ -45,7 +45,13 @@ def main():
 
     # Save the updated content back to GitHub and create a pull request
     write_file(repository, branch, yml_filename, file_content, "Add " + github_repo_url)
-    res = send_pull_request(repository, branch, "Add " + github_repo_url, f"closes #{issue}")
+    res = send_pull_request(repository, branch, "Add " + github_repo_url, f"""This is an automatically created pull-request. Before merging this, please make sure
+* [ ] has proper `tags` set.
+* [ ] has reasonable content `type` depending on the content of the github repository.
+ [Read more](https://nfdi4bioimage.github.io/training/contributing/format.html) 
+   
+closes #{issue}
+""")
 
     print("Done.", res)
 
