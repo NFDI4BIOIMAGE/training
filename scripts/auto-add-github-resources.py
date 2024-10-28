@@ -90,7 +90,8 @@ def complete_github_data(github_repo_url):
     # License information (stored as "license")
     try:
         license_info = repo.get_license()
-        entry['license'] = license_info.license.name if license_info else ""
+        if license_info is not None:
+            entry['license'] = license_info.license.name
     except:
         pass
 
