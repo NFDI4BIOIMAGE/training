@@ -133,8 +133,8 @@ def get_publication_date(repo):
     if releases.totalCount > 0:
         first_release = releases[0]
         return first_release.created_at.isoformat()
-    else:
-        return repo.created_at.isoformat() if repo.created_at else ""
+    elif repo.created_at is not None:
+        return repo.created_at.isoformat()
 
 
 if __name__ == "__main__":
