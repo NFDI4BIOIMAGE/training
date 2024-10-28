@@ -102,7 +102,12 @@ def complete_github_data(github_repo_url):
     entry['publication_date'] = get_publication_date(repo)
 
     # Tags: always add the message "Dear users, please add tags."
-    entry['tags'] = "Dear users, please add tags."
+    entry['tags'] = """This is an automatically created pull-request. Before merging this, please make sure
+* [ ] has proper `tags` set.
+* [ ] has reasonable content `type` depending on the content of the github repository.
+
+ [Read more](https://nfdi4bioimage.github.io/training/contributing/format.html) 
+    """
 
     # Type: Always set this field to "GitHub Repository"
     entry['type'] = "GitHub Repository"
