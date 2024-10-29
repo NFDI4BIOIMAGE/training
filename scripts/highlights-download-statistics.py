@@ -1,15 +1,5 @@
 # highlights download statistics
-"""
-This script will:
-1. Load the two most recent CSV files from the 'download_statistics' folder.
-2. Compare the download counts between the two weeks.
-3. Identify the record with the highest download difference.
-4. Download the most downloaded file from Zenodo and save the first page as PNG.
-5. Update the README.md file with the most downloaded record and the PNG.
-This is done in the github CI before the website is regenerated, after every modification on the main branch.
-"""
-
-# import statements
+# # import statements
 import os
 import pandas as pd
 from datetime import datetime
@@ -19,6 +9,44 @@ from pdf2image import convert_from_bytes
 from io import BytesIO
 from PIL import Image
 
+def main(): 
+    """
+    This script will:
+    1. Load the two most recent CSV files from the 'download_statistics' folder.
+    2. Compare the download counts between the two weeks.
+    3. Identify the record with the highest download difference.
+    4. Download the most downloaded file from Zenodo and save the first page as PNG.
+    5. Update the README.md file with the most downloaded record and the PNG.
+    This is done in the github CI before the website is regenerated, after every modification on the main branch.
+    """
+    folder = 'download_statistics/'
+
+    latest_file, previous_file = get_latest_two_csv_files(folder)
+
+    # Load the CSV data
+    current_week_data = pd.read_csv(os.path.join(folder, latest_file))
+    previous_week_data = pd.read_csv(os.path.join(folder, previous_file))
+
+    # Merge data on the 'url' column to compare downloads
+    merged_data = pd.merge(current_week_data, previous_week_data, on='url', suffixes=('_current', '_previous'))
+
+    # Calculate the download difference
+    merged_data['download_difference'] = merged_data['downloads_current'] - merged_data['downloads_previous']
+
+    # Find the record with the highest download difference
+    most_downloaded_record = merged_data.loc[merged_data['download_difference'].idxmax()]
+
+    # Print the results
+    print("Most downloaded record in the last week:")
+    print(most_downloaded_record[['url', 'download_difference']])
+
+    url = most_downloaded_record['url']
+
+    #extract from url the zenodo id
+    record_id = url.split('/')[-1]
+
+    # Download the most downloaded file from zenodo and save the first page as PNG in case of PPTX or PDF
+    download_first_file_from_zenodo(record_id)
 
 # functions
 def extract_date_from_filename(filename):
@@ -152,35 +180,6 @@ def update_readme():
         file.writelines(updated_content)
     
     print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
-
-folder = 'download_statistics/'
-
-latest_file, previous_file = get_latest_two_csv_files(folder)
-
-# Load the CSV data
-current_week_data = pd.read_csv(os.path.join(folder, latest_file))
-previous_week_data = pd.read_csv(os.path.join(folder, previous_file))
-
-# Merge data on the 'url' column to compare downloads
-merged_data = pd.merge(current_week_data, previous_week_data, on='url', suffixes=('_current', '_previous'))
-
-# Calculate the download difference
-merged_data['download_difference'] = merged_data['downloads_current'] - merged_data['downloads_previous']
-
-# Find the record with the highest download difference
-most_downloaded_record = merged_data.loc[merged_data['download_difference'].idxmax()]
-
-# Print the results
-print("Most downloaded record in the last week:")
-print(most_downloaded_record[['url', 'download_difference']])
-
-url = most_downloaded_record['url']
-
-#extract from url the zenodo id
-record_id = url.split('/')[-1]
-
-# Download the most downloaded file from zenodo and save the first page as PNG in case of PPTX or PDF
-download_first_file_from_zenodo(record_id)
 
 # Run the script
 if __name__ == "__main__":
