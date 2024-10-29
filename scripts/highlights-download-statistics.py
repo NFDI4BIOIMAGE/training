@@ -1,4 +1,13 @@
 # highlights download statistics
+"""
+This script will:
+1. Load the two most recent CSV files from the 'download_statistics' folder.
+2. Compare the download counts between the two weeks.
+3. Identify the record with the highest download difference.
+4. Download the most downloaded file from Zenodo and save the first page as PNG.
+5. Update the README.md file with the most downloaded record and the PNG.
+This is done in the github CI before the website is regenerated, after every modification on the main branch.
+"""
 
 # import statements
 import os
@@ -13,11 +22,17 @@ from PIL import Image
 
 # functions
 def extract_date_from_filename(filename):
+    """
+    Extract the date from a CSV file name. The date is expected to be in the format YYYYMMDD.
+    """
     basename = os.path.basename(filename)
     date_str = basename.split('.')[0]  # Remove the .csv part
     return datetime.strptime(date_str, '%Y%m%d')
 
 def get_latest_two_csv_files(folder):
+    """
+    Get the two most recent CSV files in the specified folder. 
+    """
     # Get all CSV files in the folder
     csv_files = [f for f in os.listdir(folder) if f.endswith('.csv')]
 
@@ -28,6 +43,9 @@ def get_latest_two_csv_files(folder):
     return csv_files[0], csv_files[1]
 
 def download_first_file_from_zenodo(record_id):
+    """
+    Download the first file from a Zenodo record and save the first page as PNG. This does only work if it is a PPTX or PDF file.
+    """
     # Fetch record metadata
     url = f"https://zenodo.org/api/records/{record_id}"
     response = requests.get(url)
@@ -72,12 +90,18 @@ def download_first_file_from_zenodo(record_id):
 
 # Define the format of your PNG file
 def get_latest_png_filename():
+    """
+    Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
+    """
     date_str = datetime.now().strftime("%Y%m%d")
     path_to_png = "../download_statistics/highlights/"
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
 def update_readme():
+    """
+    Update the README.md file with the most downloaded record and the PNG.
+    """
     # Get the latest PNG file name
     latest_png = get_latest_png_filename()
 
