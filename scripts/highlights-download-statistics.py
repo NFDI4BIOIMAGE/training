@@ -94,7 +94,7 @@ def get_latest_png_filename():
     Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
     """
     date_str = datetime.now().strftime("%Y%m%d")
-    path_to_png = "../download_statistics/highlights/"
+    path_to_png = folder + "highlights/"
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
@@ -116,7 +116,7 @@ def update_readme():
     """
 
     # Path to the README file
-    readme_path = "../docs/readme.md"
+    readme_path = "docs/readme.md"
     
     # Read the existing README.md file
     with open(readme_path, 'r') as file:
@@ -153,7 +153,7 @@ def update_readme():
     
     print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
 
-folder = '../download_statistics/'
+folder = 'download_statistics/'
 
 latest_file, previous_file = get_latest_two_csv_files(folder)
 

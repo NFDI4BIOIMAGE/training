@@ -17,7 +17,7 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
     The most downloaded Zenodo resource in the last week can be found under this link [link](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario".
     
 
-![latest PNG](../download_statistics/highlights/20241029_first_page.png)
+![latest PNG](download_statistics/highlights/20241029_first_page.png)
 ## How to use this resource
 
 This Jupyter Book can be searched using the search bar on the left:
