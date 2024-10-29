@@ -13,10 +13,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 
 ## Most downloaded training material in the last week
 
-The most downloaded resource in the last week was 
-![latest PNG](../download_statistics/highlights/20241023_first_page.png)
 
+    The most downloaded Zenodo resource in the last week can be found under this link [link](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario".
+    
 
+![latest PNG](../download_statistics/highlights/20241029_first_page.png)
 ## How to use this resource
 
 This Jupyter Book can be searched using the search bar on the left:

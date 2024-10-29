@@ -86,6 +86,11 @@ def update_readme():
         print(f"Error: {latest_png} does not exist.")
         return
 
+    # Define Zenodo link and authors markdown text
+    highlight_text = f"""
+    The most downloaded Zenodo resource in the last week can be found under this link [link]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}.
+    """
+
     # Path to the README file
     readme_path = "../docs/readme.md"
     
@@ -97,20 +102,26 @@ def update_readme():
     subheading = "## Most downloaded training material in the last week"
     
     # Flag to track if the subheading is found
-    subheading_found = False
+    under_subheading = False
     updated_content = []
     
     for line in content:
-        updated_content.append(line)
-        
-        # When the subheading is found, insert the latest PNG file reference
+        # Check for the subheading
         if line.strip() == subheading:
-            subheading_found = True
+            under_subheading = True
+            updated_content.append(line)  # Add the subheading itself
+            updated_content.append(f"\n{highlight_text}\n")
             updated_content.append(f"\n![latest PNG]({latest_png})\n")
-    
-    if not subheading_found:
-        print(f"Subheading '{subheading}' not found in README.md.")
-        return
+            continue
+        
+        # Stop removing content after finding the subheading and adding the new content
+        if under_subheading:
+            if line.strip().startswith("## "):  # Assumes the next subheading marks the end of this section
+                under_subheading = False
+
+        # Only add lines if we’re not under the target subheading
+        if not under_subheading:
+            updated_content.append(line)
 
     # Write the updated content back to the README
     with open(readme_path, 'w') as file:
