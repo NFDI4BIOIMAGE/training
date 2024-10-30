@@ -89,7 +89,7 @@ def main():
 
     # Generate the 'What's New' page with content sorted by publication date
     date_toc = "    - file: whats_new"  
-    generate_by_publish_date(content, "docs/whats_new.md")  
+    generate_by_publication_date(content, "docs/whats_new.md")  
     replace_in_file(toc_file, "{date_toc}", date_toc) 
 
     # go through all urls and detect duplicates
