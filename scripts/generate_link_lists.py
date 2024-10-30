@@ -87,7 +87,7 @@ def main():
             author_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{author_toc}", author_toc)
 
-    # Generate the 'What's New' page with content sorted by publish date
+    # Generate the 'What's New' page with content sorted by publication date
     date_toc = "    - file: whats_new"  
     generate_by_publish_date(content, "docs/whats_new.md")  
     replace_in_file(toc_file, "{date_toc}", date_toc) 
