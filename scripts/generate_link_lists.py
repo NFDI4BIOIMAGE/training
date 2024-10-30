@@ -1,4 +1,4 @@
-def generate_by_publish_date(content, output_file):
+def generate_by_publication_date(content, output_file):
     """Generates a markdown file organized by publish date for blog-like content organization."""
     sorted_content = sorted(
         content['resources'], 
