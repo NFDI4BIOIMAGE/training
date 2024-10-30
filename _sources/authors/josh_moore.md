@@ -1,4 +1,4 @@
-# Josh moore (13)
+# Josh moore (14)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 ['Josh Moore', 'Susanne Kunis']
@@ -192,6 +192,27 @@ Presentation made to the GBI Image Data Management Working Group during the 7th 
 [https://zenodo.org/records/11318151](https://zenodo.org/records/11318151)
 
 [https://doi.org/10.5281/zenodo.11318151](https://doi.org/10.5281/zenodo.11318151)
+
+
+---
+
+## [GBI EoE IX] NFDI4BIOIMAGE
+National Research Data Infrastructure 
+for Microscopy and BioImage Analysis
+
+['Josh Moore']
+
+Published 2024-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix in Okazaki, Japan.
+
+[https://zenodo.org/records/14001388](https://zenodo.org/records/14001388)
+
+[https://doi.org/10.5281/zenodo.14001388](https://doi.org/10.5281/zenodo.14001388)
 
 
 ---
