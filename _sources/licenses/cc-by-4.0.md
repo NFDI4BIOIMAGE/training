@@ -1235,7 +1235,7 @@ This document provides the essential elements of a Research Data Management (RDM
 
 Tags: Research Data Management
 
-Content type: Book Chapter
+Content type: Book
 
 [https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf](https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf)
 
@@ -1391,7 +1391,9 @@ Licensed CC-BY-4.0
 
 
 
-Content type: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis
+
+Content type: Collection
 
 [https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
 
@@ -1412,7 +1414,7 @@ Open source software (OSS) is essential for advancing scientific discovery, part
 
 Tags: Open Source Software, Funding, Sustainability
 
-Content type: Report
+Content type: Publication
 
 [https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
 
@@ -1618,7 +1620,7 @@ The Microscopy data analysis: machine learning and the BioImage Archive course, 
 
 Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: Videos, Practicals, Slides
+Content type: Video, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
@@ -1948,7 +1950,7 @@ OME develops open-source software and data format standards for the storage and 
 
 Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
 
-Content type: Youtube Channel
+Content type: Video, Collection
 
 [https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
 

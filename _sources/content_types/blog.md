@@ -1,4 +1,4 @@
-# Blog (18)
+# Blog (19)
 ## Annotating 3D images in napari
 
 ['Mara Lampert']
@@ -97,6 +97,25 @@ Tags: Python, Napari, Bioimage Analysis
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+
+
+---
+
+## Five great reasons to share your research data
+
+Published 2022-03-18
+
+Licensed UNKNOWN
+
+
+
+Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
+
+Tags: Research Data Management, Sharing
+
+Content type: Blog
+
+[https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
 
 ---

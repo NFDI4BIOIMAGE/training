@@ -1,4 +1,4 @@
-# Open source software (6)
+# Open source software (7)
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
 ['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
@@ -11,7 +11,7 @@ Open source software (OSS) is essential for advancing scientific discovery, part
 
 Tags: Open Source Software, Funding, Sustainability
 
-Content type: Report
+Content type: Publication
 
 [https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
 
@@ -47,7 +47,7 @@ OME develops open-source software and data format standards for the storage and 
 
 Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
 
-Content type: Youtube Channel
+Content type: Video, Collection
 
 [https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
 
@@ -68,9 +68,26 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
+
+
+---
+
+## RDMO - Research Data Management Organiser
+
+Licensed UNKNOWN
+
+
+
+Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
+
+Tags: Research Data Management, Open Source Software
+
+Content type: Website, Online Tutorial
+
+[https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
 
 
 ---

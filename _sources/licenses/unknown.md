@@ -478,7 +478,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog Post
+Content type: Blog
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -982,7 +982,7 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
@@ -1012,9 +1012,9 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management
+Tags: Research Data Management, Open Source Software
 
-Content type: Open Source Software, Website, Online Tutorial
+Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
 
@@ -1275,7 +1275,9 @@ Licensed UNKNOWN
 
 
 
-Content type: Python, Big Data
+Tags: Python, Big Data
+
+Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
 

@@ -79,7 +79,7 @@ Licensed ALL RIGHTS RESERVED
 
 Tags: Bioimage Analysis
 
-Content type: Online Course
+Content type: Online Tutorial
 
 [https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
 

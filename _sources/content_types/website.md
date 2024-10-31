@@ -98,9 +98,9 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management
+Tags: Research Data Management, Open Source Software
 
-Content type: Open Source Software, Website, Online Tutorial
+Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
 

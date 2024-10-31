@@ -192,7 +192,7 @@ OME develops open-source software and data format standards for the storage and 
 
 Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
 
-Content type: Youtube Channel
+Content type: Video, Collection
 
 [https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
 

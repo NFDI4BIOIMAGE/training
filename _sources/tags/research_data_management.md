@@ -305,7 +305,7 @@ This book is a companion to the Nature Methods publication Community-developed c
 
 Tags: Bioimage Analysis, Research Data Management
 
-Content type: Jupyter Book
+Content type: Notebook, Collection
 
 [https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 
@@ -841,7 +841,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog Post
+Content type: Blog
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -941,7 +941,7 @@ This document provides the essential elements of a Research Data Management (RDM
 
 Tags: Research Data Management
 
-Content type: Book Chapter
+Content type: Book
 
 [https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf](https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf)
 
@@ -1513,9 +1513,9 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management
+Tags: Research Data Management, Open Source Software
 
-Content type: Open Source Software, Website, Online Tutorial
+Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
 

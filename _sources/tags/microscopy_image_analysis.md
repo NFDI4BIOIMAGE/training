@@ -131,7 +131,7 @@ The Microscopy data analysis: machine learning and the BioImage Archive course, 
 
 Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: Videos, Practicals, Slides
+Content type: Video, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
@@ -171,7 +171,7 @@ OME develops open-source software and data format standards for the storage and 
 
 Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
 
-Content type: Youtube Channel
+Content type: Video, Collection
 
 [https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
 

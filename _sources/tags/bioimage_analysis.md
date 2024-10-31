@@ -1,4 +1,4 @@
-# Bioimage analysis (160)
+# Bioimage analysis (161)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -726,7 +726,7 @@ This book is a companion to the Nature Methods publication Community-developed c
 
 Tags: Bioimage Analysis, Research Data Management
 
-Content type: Jupyter Book
+Content type: Notebook, Collection
 
 [https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 
@@ -955,7 +955,7 @@ Licensed ALL RIGHTS RESERVED
 
 Tags: Bioimage Analysis
 
-Content type: Online Course
+Content type: Online Tutorial
 
 [https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
 
@@ -1385,6 +1385,25 @@ Tags: Neubias, Bioimage Analysis
 Content type: Book
 
 [https://neubias.github.io/training-resources/](https://neubias.github.io/training-resources/)
+
+
+---
+
+## Image Processing with Python
+
+['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Python, Bioimage Analysis
+
+Content type: Collection
+
+[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+
+[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
 
 
 ---
@@ -2172,7 +2191,7 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 

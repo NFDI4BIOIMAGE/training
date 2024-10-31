@@ -81,7 +81,9 @@ Licensed CC-BY-4.0
 
 
 
-Content type: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis
+
+Content type: Collection
 
 [https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
 

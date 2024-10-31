@@ -1,4 +1,4 @@
-# Book (17)
+# Book (18)
 ## 6 Steps Towards Reproducible Research
 
 ['Heidi Seibold']
@@ -103,6 +103,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Tutorial, Book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
+## Guidance for Developing a Research Data Management (RDM) Policy
+
+Published 2017
+
+Licensed CC-BY-4.0
+
+
+
+This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+
+Tags: Research Data Management
+
+Content type: Book
+
+[https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf](https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf)
+
+[https://doi.org/10.14324/000.learn.27](https://doi.org/10.14324/000.learn.27)
 
 
 ---

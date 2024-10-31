@@ -1,4 +1,4 @@
-# Video (22)
+# Video (24)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -232,6 +232,25 @@ Content type: Online Tutorial, Video, Slide
 
 ---
 
+## Microscopy data analysis: machine learning and the BioImage Archive
+
+['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+
+Licensed CC-BY-4.0
+
+
+
+The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
+
+Tags: Microscopy Image Analysis, Python, Deep Learning
+
+Content type: Video, Slides
+
+[https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
 ## NEUBIAS YouTube Channel
 
 
@@ -243,6 +262,25 @@ Tags: Neubias
 Content type: Collection, Video
 
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
+
+
+---
+
+## Open Micoscropy Environment (OME) Youtube Channel
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+
+Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+
+Content type: Video, Collection
+
+[https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
 
 
 ---

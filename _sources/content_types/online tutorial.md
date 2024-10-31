@@ -1,4 +1,4 @@
-# Online tutorial (9)
+# Online tutorial (10)
 ## Creating Workflows and Advanced Workflow Options
 
 Licensed CC-BY-4.0
@@ -46,6 +46,21 @@ Tags: Data Life Cycle, Research Data Management
 Content type: Collection, Website, Online Tutorial
 
 [https://rdmkit.elixir-europe.org/data_life_cycle](https://rdmkit.elixir-europe.org/data_life_cycle)
+
+
+---
+
+## EPFLx: Image Processing and Analysis for Life Scientists
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Online Tutorial
+
+[https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists](https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists)
 
 
 ---
@@ -151,9 +166,9 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management
+Tags: Research Data Management, Open Source Software
 
-Content type: Open Source Software, Website, Online Tutorial
+Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
 

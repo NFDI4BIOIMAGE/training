@@ -1,4 +1,4 @@
-# Github repository (26)
+# Github repository (27)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -348,7 +348,7 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
@@ -427,6 +427,23 @@ Tags: Open Source Software, Bioimage Data
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## i2k-2020-s3-zarr-workshop
+
+['Constantin Pape', 'Christian Tischer']
+
+Licensed UNKNOWN
+
+
+
+Tags: Python, Big Data
+
+Content type: Github Repository
+
+[https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
 
 
 ---

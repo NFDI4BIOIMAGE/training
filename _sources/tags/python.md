@@ -1,4 +1,4 @@
-# Python (67)
+# Python (69)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -498,6 +498,25 @@ Content type: Blog
 
 ---
 
+## Image Processing with Python
+
+['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Python, Bioimage Analysis
+
+Content type: Collection
+
+[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+
+[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+
+
+---
+
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
 ['Juan Nunez-Iglesias']
@@ -669,7 +688,7 @@ The Microscopy data analysis: machine learning and the BioImage Archive course, 
 
 Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: Videos, Practicals, Slides
+Content type: Video, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
@@ -958,7 +977,7 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
@@ -1127,6 +1146,23 @@ Tags: Python, Napari, Bioimage Analysis
 Content type: Collection, Notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## i2k-2020-s3-zarr-workshop
+
+['Constantin Pape', 'Christian Tischer']
+
+Licensed UNKNOWN
+
+
+
+Tags: Python, Big Data
+
+Content type: Github Repository
+
+[https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
 
 
 ---

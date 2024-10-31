@@ -1,4 +1,4 @@
-# Collection (70)
+# Collection (75)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
@@ -304,6 +304,25 @@ Content type: Collection, Video
 
 ---
 
+## Community-developed checklists for publishing images and image analyses
+
+['Beth Cimini et al.']
+
+Licensed BSD LICENSE
+
+
+
+This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+
+Tags: Bioimage Analysis, Research Data Management
+
+Content type: Notebook, Collection
+
+[https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
+
+
+---
+
 ## DL4MicEverywhere
 
 ['Iván Hidalgo', 'et al.']
@@ -391,6 +410,25 @@ Tags: Bioinformatics, Training
 Content type: Collection
 
 [https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
+
+
+---
+
+## Elastix tutorial
+
+['Marvin Albert']
+
+Licensed BSD LICENSE
+
+
+
+Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.
+
+Tags: Image Registration, Itk, Elastix
+
+Content type: Notebook, Collection
+
+[https://m-albert.github.io/elastix_tutorial/intro.html](https://m-albert.github.io/elastix_tutorial/intro.html)
 
 
 ---
@@ -669,6 +707,25 @@ Content type: Collection, Data, Publication
 
 ---
 
+## Image Processing with Python
+
+['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Python, Bioimage Analysis
+
+Content type: Collection
+
+[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+
+[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+
+
+---
+
 ## Imaris Tutorials
 
 Licensed ALL RIGHTS RESERVED
@@ -802,6 +859,25 @@ Content type: Collection
 
 ---
 
+## Open Micoscropy Environment (OME) Youtube Channel
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+
+Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+
+Content type: Video, Collection
+
+[https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
+
+
+---
+
 ## Open Microscopy Environment YouTube channel
 
 
@@ -830,6 +906,27 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook, Collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
+## QuPath for Python programmers
+
+["Alan O'Callaghan", 'Léo Leplat']
+
+Published 2024-10-23
+
+Licensed UNKNOWN
+
+
+
+These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
 
 ---

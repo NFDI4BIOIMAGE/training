@@ -1,4 +1,4 @@
-# Notebook (51)
+# Notebook (53)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -150,6 +150,25 @@ Content type: Notebook, Collection
 [https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
 
 [https://github.com/guijacquemet/CellTracksColab](https://github.com/guijacquemet/CellTracksColab)
+
+
+---
+
+## Community-developed checklists for publishing images and image analyses
+
+['Beth Cimini et al.']
+
+Licensed BSD LICENSE
+
+
+
+This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+
+Tags: Bioimage Analysis, Research Data Management
+
+Content type: Notebook, Collection
+
+[https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 
 
 ---
@@ -333,6 +352,25 @@ Tags: Python, Artificial Intelligence
 Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
+
+
+---
+
+## Elastix tutorial
+
+['Marvin Albert']
+
+Licensed BSD LICENSE
+
+
+
+Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.
+
+Tags: Image Registration, Itk, Elastix
+
+Content type: Notebook, Collection
+
+[https://m-albert.github.io/elastix_tutorial/intro.html](https://m-albert.github.io/elastix_tutorial/intro.html)
 
 
 ---
@@ -822,7 +860,7 @@ These are the notebooks and associated files for the i2k 2024 QuPath for Python 
 
 Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
 
-Content type: Github Repository, Notebook, Jupyter Book
+Content type: Github Repository, Notebook, Collection
 
 [https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 

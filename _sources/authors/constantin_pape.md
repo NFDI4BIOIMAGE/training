@@ -116,7 +116,9 @@ Licensed UNKNOWN
 
 
 
-Content type: Python, Big Data
+Tags: Python, Big Data
+
+Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
 

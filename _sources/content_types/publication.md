@@ -1,4 +1,4 @@
-# Publication (59)
+# Publication (60)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -410,6 +410,25 @@ Content type: Collection, Data, Publication
 [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 
 [https://www.nature.com/articles/nmeth.4326](https://www.nature.com/articles/nmeth.4326)
+
+
+---
+
+## Insights and Impact From Five Cycles of Essential Open Source Software for Science
+
+['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
+
+Licensed CC-BY-4.0
+
+
+
+Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields.
+
+Tags: Open Source Software, Funding, Sustainability
+
+Content type: Publication
+
+[https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
 
 
 ---

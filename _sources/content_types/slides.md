@@ -496,7 +496,7 @@ The Microscopy data analysis: machine learning and the BioImage Archive course, 
 
 Tags: Microscopy Image Analysis, Python, Deep Learning
 
-Content type: Videos, Practicals, Slides
+Content type: Video, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
 
