@@ -4289,7 +4289,11 @@ resources:
   - Collection
   url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
   
-- authors: Fuchs, Vanessa Aphaia Fiona, Schmidt, Christian, Boissonnet, Tom
+- authors:
+  - Vanessa Fuchs
+  - Fiona Aphaia
+  - Christian Schmidt
+  - Tom Boissonnet
   description: 'Description
   
     Microscopy experiments generate information-rich, multi-dimensional data, allowing
