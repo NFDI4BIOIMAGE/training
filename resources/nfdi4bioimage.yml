@@ -4563,6 +4563,9 @@ resources:
   tags: 
   - GPU-acceleration
   - Bio-image Analysis
-  type: GitHub Repository
+  type: 
+  - GitHub Repository
+  - notebook
+  - collection
   url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
   
