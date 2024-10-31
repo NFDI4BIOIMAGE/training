@@ -3106,18 +3106,6 @@ resources:
   - Publication
   url: https://f1000research.com/articles/10-334/v1
 - authors:
-  - Ugis Sarkans
-  - et al.
-  license: ALL RIGHTS RESERVED
-  name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
-    \ microscopy data in biology"
-  tags:
-  - Research Data Management
-  - Metadata
-  type:
-  - Publication
-  url: https://www.nature.com/articles/s41592-021-01166-8
-- authors:
   - Susanne Kunis
   - "Sebastian H\xE4nsch"
   - Christian Schmidt
@@ -4504,15 +4492,6 @@ resources:
   url: 
   - https://www.nature.com/articles/sdata201618
   - https://doi.org/10.1038/sdata.2016.18
-- authors: GO FAIR
-  description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
-  license: CC-BY-4.0
-  name: FAIR Principles
-  tags:
-  - FAIR-Principles
-  type:
-  - Website
-  url: https://www.go-fair.org/fair-principles/ 
 - authors: 
   - Mark A Musen
   - Martin J O'Connor
@@ -5217,31 +5196,7 @@ resources:
   type:
   - Github Repository
   publication_date: '2024-07-24'
-  url: https://github.com/NL-BioImaging/biomero                
-- authors: 
-  - Schmidt, Christian
-  - Bortolomeazzi, Michele
-  - Boissonnet, Tom
-  - Fortmann-Grote, Carsten
-  - Dohle, Julia
-  - et al.
-  description: A set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO.
-  license: CC-BY-4.0
-  name: I3D bio's OMERO training material - Re-usable, adjustable, multi-purpose slides for local user training
-  tags:
-  - OMERO
-  - Training
-  - Teaching
-  - I3Dbio
-  type:
-  - Collection
-  - Publication
-  - Slides
-  num_downloads: 3834 
-  publication_date: '2023-11-13'
-  url: 
-  - https://zenodo.org/records/8323588
-  - https://doi.org/10.5281/zenodo.8323588           
+  url: https://github.com/NL-BioImaging/biomero
 - authors:
   - Erick Martins Ratamero 
   - Jean-Marie Burel 
