@@ -4555,3 +4555,12 @@ resources:
   - https://zenodo.org/records/14001388
   - https://doi.org/10.5281/zenodo.14001388
   
+- author: Stephane Rigaud, Robert Haase
+  description: Course and material for the clesperanto workshop presented at I2K 2024
+  license: BSD 3-Clause "New" or "Revised" License
+  name: clesperanto_workshop_I2K24
+  publication_date: '2024-10-18T08:05:39+00:00'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
+  
