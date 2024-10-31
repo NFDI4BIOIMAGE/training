@@ -2357,9 +2357,12 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10687658
 - authors:
-  - Scholz Massei
-  - Schnike Busch
-  - Bumberger Bohring
+  - Riccardo Massei
+  - Stefan Scholz
+  - Wibke Busch
+  - Thomas Schnike
+  - Hannes Bohring
+  - Jan Bumberger
   description: High-content screening (HCS) bioimaging automates the imaging and analysis
     of numerous biological samples, generating extensive metadata that is crucial
     for effective image management and interpretation. Efficiently handling this complex
@@ -3518,7 +3521,7 @@ resources:
   - Vanessa Fuchs
   - Aphaia Fiona
   - Jens Wendt
-  - "Maximilian M\xFCller"
+  - Maximilian Müller
   - Mohsen Ahmadi
   - Riccardo Massei
   - Cornelia Wetzker
@@ -4411,4 +4414,144 @@ resources:
   url:
   - https://zenodo.org/records/11109616
   - https://doi.org/10.5281/zenodo.11109616
+  
+
+- authors: Massei, Riccardo
+  description: 'YMIA python event 2024
+  
+    Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment
+    with Dr. Riccardo Massei"'
+  license: cc-by-4.0
+  name: 'Getting started with Python: intro and set-up a conda environment'
+  num_downloads: 6
+  publication_date: '2024-10-09'
+  url:
+  - https://zenodo.org/records/13908480
+  - https://doi.org/10.5281/zenodo.13908480
+  
+- authors: Haase, Robert
+  description: In this presentation I introduce bia-bob, an AI-based code generator
+    that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis
+    Python code. It highlights how to get started with using large language models and
+    prompt engineering to get high-quality bio-image analysis code.
+  license: cc-by-4.0
+  name: Bio-image Analysis Code Generation using bia-bob
+  num_downloads: 101
+  publication_date: '2024-10-09'
+  url:
+  - https://zenodo.org/records/13908108
+  - https://doi.org/10.5281/zenodo.13908108
+  
+- authors: Haase, Robert
+  description: The integration of Large Language Models (LLMs) in scientific research
+    presents both opportunities and challenges for life scientists. Key challenges include
+    ensuring transparency in AI-generated content and facilitating efficient knowledge
+    exchange among researchers. These issues arise from the in-transparent nature of
+    AI-driven code generation and the informal sharing of AI insights, which may hinder
+    reproducibility and collaboration. This paper introduces git-bob, an innovative
+    AI-assistant designed to address these challenges by fostering an interactive and
+    transparent collaboration platform within GitHub. By enabling seamless dialogue
+    between humans and AI, git-bob ensures that AI contributions are transparent and
+    reproducible. Moreover, it supports collaborative knowledge exchange, enhancing
+    the interdisciplinary dialogue necessary for cutting-edge life sciences research.
+    The open-source nature of git-bob further promotes accessibility and customization,
+    positioning it as a vital tool in employing LLMs responsibly and effectively within
+    scientific communities.
+  license: cc-by-4.0
+  name: Towards Transparency and Knowledge Exchange in AI-assisted Data Analysis Code
+    Generation
+  num_downloads: 13
+  publication_date: '2024-10-14'
+  url:
+  - https://zenodo.org/records/13928832
+  - https://doi.org/10.5281/zenodo.13928832
+  
+- authors: Fazeli, Elnaz, Robert, Haase, Michael, Doube, Kota, Miura, David, Legland
+  description: Bioimaging has transformed our understanding of biological processes,
+    yet extracting&nbsp;meaningful information from complex datasets remains a challenge,
+    particularly for&nbsp;early career scientists. This paper proposes a simplified,
+    systematic approach to&nbsp;bioimage analysis, focusing on categorizing commonly
+    observed structures and&nbsp;shapes, and providing relevant analysis methods. Our
+    approach includes illustrative&nbsp;examples and a visual flowchart, enabling researchers
+    to define analysis objectives&nbsp;clearly. By understanding the diversity of bioimage
+    structures and aligning them with&nbsp;appropriate analysis approaches, the framework
+    empowers researchers to navigate&nbsp;bioimage datasets more efficiently. It also
+    aims to foster a common language between&nbsp;researchers and analysts, thereby
+    enhancing mutual understanding and facilitating&nbsp;effective communication.
+  license: cc-by-4.0
+  name: 'From Cells to Pixels: Bridging Biologists and  Image Analysts Through a Common
+    Language'
+  num_downloads: 324
+  publication_date: '2024-08-16'
+  url:
+  - https://zenodo.org/records/13331351
+  - https://doi.org/10.5281/zenodo.13331351
+  
+- authors: 'Rémy Jean Daniel Dornier'
+  license:
+  - CC-BY-NC-SA-4.0
+  name: OMERO - QuPath
+  description: OMERO-RAW extension for QuPath allows to directly access to the raw pixels
+    of images. All types of images (RGB, fluorescence, ...) are supported with this
+    extension.
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  type:
+  - Online Tutorial
+  url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
+
+- authors:
+  - Shanghang Zhang
+  - Gaole Dai
+  - Tiejun Huang
+  - Jianxu Chen
+  license:
+  - CC-BY-NC-SA
+  description: Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
+  name: Multimodal large language models for bioimage analysis
+  tags:
+  - Bioimage Analysis
+  - Large Language Models
+  - Fair-Principles
+  - Workflow
+  type:
+  - Publication
+  url:
+  - https://www.nature.com/articles/s41592-024-02334-2
+  - https://arxiv.org/abs/2407.19778
+
+
+
+  
+
+- authors: Haase, Robert
+  description: 'Large Language Models are changing the way we interact with computers,
+    especially how we write code. In this tutorial, we will generate bio-image analysis
+    code using two LLM-based code generators, bia-bob and git-bob.
+  
+    https://github.com/haesleinhuepf/bia-bob
+  
+    https://github.com/haesleinhuepf/git-bob
+  
+    &nbsp;'
+  license: cc-by-4.0
+  name: Bio-image Analysis Code Generation
+  num_downloads: 4
+  publication_date: '2024-10-28'
+  url:
+  - https://zenodo.org/records/14001044
+  - https://doi.org/10.5281/zenodo.14001044
+  
+- authors: Moore, Josh
+  description: Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix
+    in Okazaki, Japan.
+  license: cc-by-4.0
+  name: "[GBI EoE IX] NFDI4BIOIMAGE\nNational Research Data Infrastructure \nfor Microscopy\
+    \ and BioImage Analysis"
+  num_downloads: 23
+  publication_date: '2024-10-29'
+  url:
+  - https://zenodo.org/records/14001388
+  - https://doi.org/10.5281/zenodo.14001388
   
