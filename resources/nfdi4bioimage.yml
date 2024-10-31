@@ -5489,3 +5489,13 @@ resources:
   - https://zenodo.org/records/14001388
   - https://doi.org/10.5281/zenodo.14001388
   
+- authors: Moore, Josh
+  description: Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
+  license: cc-by-4.0
+  name: '[BINA CC] Scalable strategies for a next-generation of FAIR bioimaging'
+  num_downloads: 37
+  publication_date: '2024-09-24'
+  url:
+  - https://zenodo.org/records/13831274
+  - https://doi.org/10.5281/zenodo.13831274
+  
