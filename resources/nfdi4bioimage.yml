@@ -4524,3 +4524,34 @@ resources:
 
 
   
+
+- authors: Haase, Robert
+  description: 'Large Language Models are changing the way we interact with computers,
+    especially how we write code. In this tutorial, we will generate bio-image analysis
+    code using two LLM-based code generators, bia-bob and git-bob.
+  
+    https://github.com/haesleinhuepf/bia-bob
+  
+    https://github.com/haesleinhuepf/git-bob
+  
+    &nbsp;'
+  license: cc-by-4.0
+  name: Bio-image Analysis Code Generation
+  num_downloads: 4
+  publication_date: '2024-10-28'
+  url:
+  - https://zenodo.org/records/14001044
+  - https://doi.org/10.5281/zenodo.14001044
+  
+- authors: Moore, Josh
+  description: Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix
+    in Okazaki, Japan.
+  license: cc-by-4.0
+  name: "[GBI EoE IX] NFDI4BIOIMAGE\nNational Research Data Infrastructure \nfor Microscopy\
+    \ and BioImage Analysis"
+  num_downloads: 23
+  publication_date: '2024-10-29'
+  url:
+  - https://zenodo.org/records/14001388
+  - https://doi.org/10.5281/zenodo.14001388
+  
