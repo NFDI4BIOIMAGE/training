@@ -5499,3 +5499,15 @@ resources:
   - https://zenodo.org/records/13831274
   - https://doi.org/10.5281/zenodo.13831274
   
+- authors: Moore, Josh
+  description: 'or, "OME-Zarr: ''even a talk on formats [can be] interesting''"
+  
+    Presented at https://events.humantechnopole.it/event/1/'
+  license: cc-by-4.0
+  name: '[I2K] Scalable strategies for a next-generation of FAIR bioimaging'
+  num_downloads: 279
+  publication_date: '2024-10-25'
+  url:
+  - https://zenodo.org/records/13991322
+  - https://doi.org/10.5281/zenodo.13991322
+  
