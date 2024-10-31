@@ -1,4 +1,4 @@
-# Bsd-3-clause (18)
+# Bsd-3-clause (21)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -92,6 +92,29 @@ Content type: Notebook
 
 ---
 
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
+
+
+---
+
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
 ['Juan Nunez-Iglesias']
@@ -105,6 +128,44 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024(virtual) - Bio-Image Analysis Code Generation
+
+['Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+
+Tags: Bioimage Analysis, Notebooks, Biabob
+
+Content type: Github Repository, Tutorial, Notebook
+
+[https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
 
 
 ---

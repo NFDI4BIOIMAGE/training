@@ -1,4 +1,4 @@
-# Workflow (7)
+# Workflow (8)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 ['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
@@ -48,6 +48,25 @@ Tags: Workflow
 Content type: Online Tutorial, Tutorial
 
 [https://galaxy-au-training.github.io/tutorials/modules/workflows/](https://galaxy-au-training.github.io/tutorials/modules/workflows/)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (153)
+# Bioimage analysis (160)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -1066,6 +1066,29 @@ Content type: Collection, Tutorial
 
 ---
 
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
+
+
+---
+
 ## FAIR BioImage Data
 
 Licensed CC-BY-4.0
@@ -1264,6 +1287,44 @@ Content type: Slide, Presentation
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
 [https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024(virtual) - Bio-Image Analysis Code Generation
+
+['Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+
+Tags: Bioimage Analysis, Notebooks, Biabob
+
+Content type: Github Repository, Tutorial, Notebook
+
+[https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
 
 
 ---
@@ -1713,6 +1774,27 @@ Content type: Publication
 
 ---
 
+## Multiplexed tissue imaging - tools and approaches
+
+['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+
+Licensed CC-BY-4.0
+
+
+
+Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides, Workshop
+
+[https://github.com/BIIFSweden/I2K2024-MTIWorkshop](https://github.com/BIIFSweden/I2K2024-MTIWorkshop)
+
+[https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1](https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1)
+
+
+---
+
 ## NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter
 
 Licensed BSD-3-CLAUSE
@@ -1946,6 +2028,27 @@ Content type: Notebook
 
 ---
 
+## Object Tracking and Track Analysis using TrackMate and CellTracksColab
+
+['Joanna Pylvänäinen']
+
+Published None
+
+Licensed GPL-3.0
+
+
+
+I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
+
+Tags: Bioimage Analysis, Training
+
+Content type: Github Repository, Tutorial, Workshop, Slides
+
+[https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
+
+
+---
+
 ## Omero-tools
 
 ['Johannes Soltwedel']
@@ -2051,6 +2154,27 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook, Collection
 
 [https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
+## QuPath for Python programmers
+
+["Alan O'Callaghan", 'Léo Leplat']
+
+Published 2024-10-23
+
+Licensed UNKNOWN
+
+
+
+These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+
+Content type: Github Repository, Notebook, Jupyter Book
+
+[https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
 
 ---
@@ -2316,6 +2440,25 @@ Licensed UNKNOWN
 Tags: Artificial Intelligence, Bioimage Analysis
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
+## Ultrack I2K 2024 Workshop Materials
+
+['Jordão Bragantini', 'Teun Huijben']
+
+Licensed BSD3-CLAUSE
+
+
+
+Tags: Segmentation, Bioimage Analysis, Training
+
+Content type: Workshop, Github Repository, Tutorial
+
+[https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
+
+[https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
 
 
 ---

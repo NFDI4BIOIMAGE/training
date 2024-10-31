@@ -1,4 +1,4 @@
-# Documentation (18)
+# Documentation (19)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 ['Caterina Fuster-Barceló']
@@ -90,6 +90,29 @@ Content type: Documentation, Document, Tutorial
 [https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
 
 [https://www.elabftw.net/](https://www.elabftw.net/)
+
+
+---
+
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
 
 
 ---

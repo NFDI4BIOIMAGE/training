@@ -1,4 +1,4 @@
-# Cc-by-4.0 (144)
+# Cc-by-4.0 (145)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -1643,6 +1643,27 @@ Content type: Publication
 [https://pubmed.ncbi.nlm.nih.gov/36371407/](https://pubmed.ncbi.nlm.nih.gov/36371407/)
 
 [https://www.nature.com/articles/s41597-022-01815-3](https://www.nature.com/articles/s41597-022-01815-3)
+
+
+---
+
+## Multiplexed tissue imaging - tools and approaches
+
+['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+
+Licensed CC-BY-4.0
+
+
+
+Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides, Workshop
+
+[https://github.com/BIIFSweden/I2K2024-MTIWorkshop](https://github.com/BIIFSweden/I2K2024-MTIWorkshop)
+
+[https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1](https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1)
 
 
 ---

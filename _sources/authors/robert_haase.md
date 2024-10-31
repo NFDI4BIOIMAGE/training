@@ -1,4 +1,4 @@
-# Robert haase (47)
+# Robert haase (49)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -466,6 +466,44 @@ Content type: Slide, Presentation
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
 [https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024(virtual) - Bio-Image Analysis Code Generation
+
+['Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+
+Tags: Bioimage Analysis, Notebooks, Biabob
+
+Content type: Github Repository, Tutorial, Notebook
+
+[https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
 
 
 ---

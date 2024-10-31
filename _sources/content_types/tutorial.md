@@ -1,4 +1,4 @@
-# Tutorial (24)
+# Tutorial (29)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
@@ -133,6 +133,29 @@ Content type: Collection, Tutorial
 
 ---
 
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
+
+
+---
+
 ## Finding and Choosing a Data Repository
 
 ['Christian Schmidt']
@@ -199,6 +222,44 @@ Tags: Workflow
 Content type: Online Tutorial, Tutorial
 
 [https://galaxy-au-training.github.io/tutorials/modules/workflows/](https://galaxy-au-training.github.io/tutorials/modules/workflows/)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024(virtual) - Bio-Image Analysis Code Generation
+
+['Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+
+Tags: Bioimage Analysis, Notebooks, Biabob
+
+Content type: Github Repository, Tutorial, Notebook
+
+[https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
 
 
 ---
@@ -297,6 +358,27 @@ Licensed UNKNOWN
 Content type: Tutorial
 
 [https://git.embl.de/oezdemir/course_scripts#ome-zarr-course](https://git.embl.de/oezdemir/course_scripts#ome-zarr-course)
+
+
+---
+
+## Object Tracking and Track Analysis using TrackMate and CellTracksColab
+
+['Joanna Pylvänäinen']
+
+Published None
+
+Licensed GPL-3.0
+
+
+
+I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
+
+Tags: Bioimage Analysis, Training
+
+Content type: Github Repository, Tutorial, Workshop, Slides
+
+[https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
 
 
 ---
@@ -408,6 +490,25 @@ Tags: Fiji, Bioimage Analysis
 Content type: Tutorial
 
 [https://github.com/CamachoDejay/Teaching-ImageJ-FIJI](https://github.com/CamachoDejay/Teaching-ImageJ-FIJI)
+
+
+---
+
+## Ultrack I2K 2024 Workshop Materials
+
+['Jordão Bragantini', 'Teun Huijben']
+
+Licensed BSD3-CLAUSE
+
+
+
+Tags: Segmentation, Bioimage Analysis, Training
+
+Content type: Workshop, Github Repository, Tutorial
+
+[https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
+
+[https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Microscopy image analysis (9)
+# Microscopy image analysis (11)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -77,6 +77,29 @@ Content type: Forum Post
 
 ---
 
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
+
+
+---
+
 ## FAIRy deep-learning for bioImage analysis
 
 ['Estibaliz Gómez de Mariscal']
@@ -111,6 +134,27 @@ Tags: Microscopy Image Analysis, Python, Deep Learning
 Content type: Videos, Practicals, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
+## Multiplexed tissue imaging - tools and approaches
+
+['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+
+Licensed CC-BY-4.0
+
+
+
+Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides, Workshop
+
+[https://github.com/BIIFSweden/I2K2024-MTIWorkshop](https://github.com/BIIFSweden/I2K2024-MTIWorkshop)
+
+[https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1](https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1)
 
 
 ---

@@ -1,4 +1,4 @@
-# Workshop (6)
+# Workshop (11)
 ## Bio-image Analysis ICOB 2023
 
 
@@ -62,6 +62,107 @@ Tags: Bioimage Analysis, OMERO, Research Data Management
 Content type: Workshop
 
 [https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
+
+['Stephan Saalfeld', 'Tobias Pietzsch']
+
+Published None
+
+Licensed APACHE-2.0
+
+
+
+Tags: Training
+
+Content type: Workshop, Notebook, Github Repository
+
+[https://saalfeldlab.github.io/i2k2024-lazy-workshop/](https://saalfeldlab.github.io/i2k2024-lazy-workshop/)
+
+[https://github.com/saalfeldlab/i2k2024-lazy-workshop](https://github.com/saalfeldlab/i2k2024-lazy-workshop)
+
+
+---
+
+## Multiplexed tissue imaging - tools and approaches
+
+['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+
+Licensed CC-BY-4.0
+
+
+
+Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides, Workshop
+
+[https://github.com/BIIFSweden/I2K2024-MTIWorkshop](https://github.com/BIIFSweden/I2K2024-MTIWorkshop)
+
+[https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1](https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1)
+
+
+---
+
+## Object Tracking and Track Analysis using TrackMate and CellTracksColab
+
+['Joanna Pylvänäinen']
+
+Published None
+
+Licensed GPL-3.0
+
+
+
+I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
+
+Tags: Bioimage Analysis, Training
+
+Content type: Github Repository, Tutorial, Workshop, Slides
+
+[https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
+
+
+---
+
+## Ultrack I2K 2024 Workshop Materials
+
+['Jordão Bragantini', 'Teun Huijben']
+
+Licensed BSD3-CLAUSE
+
+
+
+Tags: Segmentation, Bioimage Analysis, Training
+
+Content type: Workshop, Github Repository, Tutorial
+
+[https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
+
+[https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
 
 
 ---

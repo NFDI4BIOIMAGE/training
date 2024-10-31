@@ -1,4 +1,4 @@
-# Notebook (47)
+# Notebook (51)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -367,6 +367,65 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
+## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+
+['Stephane Rigaud', 'Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+
+Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+
+Content type: Github Repository, Workshop, Tutorial, Notebook
+
+[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
+
+['Stephan Saalfeld', 'Tobias Pietzsch']
+
+Published None
+
+Licensed APACHE-2.0
+
+
+
+Tags: Training
+
+Content type: Workshop, Notebook, Github Repository
+
+[https://saalfeldlab.github.io/i2k2024-lazy-workshop/](https://saalfeldlab.github.io/i2k2024-lazy-workshop/)
+
+[https://github.com/saalfeldlab/i2k2024-lazy-workshop](https://github.com/saalfeldlab/i2k2024-lazy-workshop)
+
+
+---
+
+## I2K2024(virtual) - Bio-Image Analysis Code Generation
+
+['Robert Haase']
+
+Licensed BSD-3-CLAUSE
+
+
+
+This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+
+Tags: Bioimage Analysis, Notebooks, Biabob
+
+Content type: Github Repository, Tutorial, Notebook
+
+[https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
 
 
 ---
@@ -745,6 +804,27 @@ Tags: Napari, Python
 Content type: Notebook
 
 [https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
+
+
+---
+
+## QuPath for Python programmers
+
+["Alan O'Callaghan", 'Léo Leplat']
+
+Published 2024-10-23
+
+Licensed UNKNOWN
+
+
+
+These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+
+Content type: Github Repository, Notebook, Jupyter Book
+
+[https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
 
 ---

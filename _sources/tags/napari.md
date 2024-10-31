@@ -1,4 +1,4 @@
-# Napari (12)
+# Napari (13)
 ## Annotating 3D images in napari
 
 ['Mara Lampert']
@@ -61,6 +61,29 @@ Content type: Collection, Video
 [https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
 
 [https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
+
+
+---
+
+## Example Pipeline Tutorial
+
+['Tim Monko']
+
+Published 2024-10-28
+
+Licensed BSD-3-CLAUSE
+
+
+
+Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+
+Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Documentation, Github Repository, Tutorial
+
+[https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
+
+[https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
 
 
 ---

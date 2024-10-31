@@ -1,4 +1,4 @@
-# Slides (34)
+# Slides (36)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -503,6 +503,27 @@ Content type: Videos, Practicals, Slides
 
 ---
 
+## Multiplexed tissue imaging - tools and approaches
+
+['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+
+Licensed CC-BY-4.0
+
+
+
+Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides, Workshop
+
+[https://github.com/BIIFSweden/I2K2024-MTIWorkshop](https://github.com/BIIFSweden/I2K2024-MTIWorkshop)
+
+[https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1](https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1)
+
+
+---
+
 ## My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
 
 ['Elnaz Fazeli']
@@ -579,6 +600,27 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## Object Tracking and Track Analysis using TrackMate and CellTracksColab
+
+['Joanna Pylvänäinen']
+
+Published None
+
+Licensed GPL-3.0
+
+
+
+I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
+
+Tags: Bioimage Analysis, Training
+
+Content type: Github Repository, Tutorial, Workshop, Slides
+
+[https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
 
 
 ---

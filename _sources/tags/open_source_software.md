@@ -1,4 +1,4 @@
-# Open source software (5)
+# Open source software (6)
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
 ['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
@@ -50,6 +50,27 @@ Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
 Content type: Youtube Channel
 
 [https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
+
+
+---
+
+## QuPath for Python programmers
+
+["Alan O'Callaghan", 'Léo Leplat']
+
+Published 2024-10-23
+
+Licensed UNKNOWN
+
+
+
+These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+
+Content type: Github Repository, Notebook, Jupyter Book
+
+[https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
 
 ---

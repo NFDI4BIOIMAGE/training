@@ -1,4 +1,4 @@
-# Python (66)
+# Python (67)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -940,6 +940,27 @@ Tags: Napari, Python
 Content type: Notebook
 
 [https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024](https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024)
+
+
+---
+
+## QuPath for Python programmers
+
+["Alan O'Callaghan", 'Léo Leplat']
+
+Published 2024-10-23
+
+Licensed UNKNOWN
+
+
+
+These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+
+Content type: Github Repository, Notebook, Jupyter Book
+
+[https://github.com/qupath/i2k-qupath-for-python-programmers](https://github.com/qupath/i2k-qupath-for-python-programmers)
 
 
 ---
