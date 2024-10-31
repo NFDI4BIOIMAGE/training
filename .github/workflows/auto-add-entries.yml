@@ -27,9 +27,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Python
+    - name: Add zenodo resources
       env:
         GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
         GITHUB_RUN_ID: "${{ github.run_id }}"
       run: |
         python scripts/auto-add-zenodo-entry.py ${{ github.repository }} ${{ github.event.issue.number }}
+
+    - name: Add github resources
+      env:
+        GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_RUN_ID: "${{ github.run_id }}"
+      run: |
+        python scripts/auto-add-github-resources.py ${{ github.repository }} ${{ github.event.issue.number }}

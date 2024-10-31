@@ -319,6 +319,8 @@ def collect_all(content, what_to_collect):
     for c in content['resources']:
         if what_to_collect in c:
             tags = c[what_to_collect]
+            if tags is None:
+                continue
             if type(tags) is not list and "," in tags:
                 tags = tags.split(",")
                 tags = [t.strip() for t in tags]
@@ -360,6 +362,8 @@ def find_anything(content, what_to_look_in, what_to_find):
         if what_to_look_in in c:
             try:
                 list_to_look_at = c[what_to_look_in]
+                if list_to_look_at is None:
+                    continue
                 if type(list_to_look_at) is not list and "," in list_to_look_at:
                     list_to_look_at = list_to_look_at.split(",")
                     list_to_look_at = [t.strip() for t in list_to_look_at]
