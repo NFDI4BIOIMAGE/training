@@ -20,9 +20,14 @@ normalization_mapping = {
     "CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)": "CC0-1.0",
     "CC0": "CC0-1.0",
     "Bio-Image Analysis": "Bioimage Analysis",
+    "Omero": "OMERO",
+    "Fair-Principles": "FAIR-Principles",
+    "Meta Data": "Metadata",
+    "cc-by-4.0": "CC-BY-4.0",
     "Unclear": "Unknown"
     # Add more mappings as needed
 }
+
 
 def fetch_spdx_licenses():
     """
@@ -81,9 +86,9 @@ def normalize_field(field):
         str or list: The normalized field.
     """
     if isinstance(field, list):
-        return [item.strip().title() for item in field]
+        return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field]
     else:
-        return field.strip().title()
+        return normalization_mapping.get(field.strip().title(), field.strip().title())
 
 def normalize_type(type):
     """
@@ -227,20 +232,20 @@ def normalize_data(data, spdx_licenses):
 
     # Collect all unique authors, tags, and types from the dataset
     for item in data:
-        if 'authors' in item:
+        if 'authors' in item and item['authors'] is not None:
             if isinstance(item['authors'], list):
                 for author in item['authors']:
                     all_authors.update([a.strip() for a in author.split(';')])
             else:
                 all_authors.update([a.strip() for a in item['authors'].split(';')])
 
-        if 'tags' in item:
+        if 'tags' in item and item['tags'] is not None:
             if isinstance(item['tags'], list):
                 all_tags.update(item['tags'])
             else:
                 all_tags.add(item['tags'])
 
-        if 'type' in item:
+        if 'type' in item and item['type'] is not None:
             if isinstance(item['type'], list):
                 all_type.update(item['type'])
             else:
@@ -251,31 +256,35 @@ def normalize_data(data, spdx_licenses):
 
     # Normalize each field in the dataset
     for item in data:
-        if 'license' in item:
+        if 'license' in item and item['license'] is not None:
             if isinstance(item['license'], list):
                 item['license'] = [normalize_license(license, spdx_licenses) for license in item['license']]
             else:
                 item['license'] = normalize_license(item['license'], spdx_licenses)
 
-        if 'authors' in item:
+        if 'authors' in item and item['authors'] is not None:
             if isinstance(item['authors'], list):
                 normalized_authors = []
                 for author in item['authors']:
-                    normalized_authors.extend(normalize_author_list(author))
+                    # Use author_mapping for consistency
+                    normalized_author = author_mapping.get(author.lower().strip(), author)
+                    normalized_authors.extend(normalize_author_list(normalized_author))
                 item['authors'] = normalized_authors
             else:
-                item['authors'] = normalize_author_list(item['authors'])
+                # Use author_mapping for single author
+                normalized_author = author_mapping.get(item['authors'].lower().strip(), item['authors'])
+                item['authors'] = normalize_author_list(normalized_author)
 
-        if 'tags' in item:
+        if 'tags' in item and item['tags'] is not None:
             if isinstance(item['tags'], list):
                 item['tags'] = [normalize_field(tag) for tag in item['tags']]
             else:
                 item['tags'] = normalize_field(item['tags'])
 
-        if 'type' in item:
+        if 'type' in item and item['type'] is not None:
             item['type'] = normalize_type(item['type'])
 
-        if 'description' in item:
+        if 'description' in item and item['description'] is not None:
             item['description'] = normalize_description_date_time(item['description'])
 
     return data
@@ -290,7 +299,7 @@ def read_data_from_file(file_path):
     Returns:
         dict: The data read from the file.
     """
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:  
         return yaml.safe_load(file)
 
 def write_data_to_file(data, file_path):
