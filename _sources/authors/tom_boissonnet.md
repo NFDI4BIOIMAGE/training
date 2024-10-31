@@ -1,4 +1,4 @@
-# Tom boissonnet (5)
+# Tom boissonnet (6)
 ## A practical guide to bioimaging research data management in core facilities
 
 ['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
@@ -101,6 +101,63 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
+
+['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
+
+Published 2024-05-06
+
+Licensed CC-BY-4.0
+
+
+
+Description
+Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
+In this workshop, participants learn how to use structured metadata annotations in the image data management platform OMERO (OME Remote Objects) to optimize their data handling. This strategy helps both with organizing data for easier processing and analysis and for the preparation of data publication in journal manuscripts and in public repositories such as the BioImage Archive. Participants learn the principles of leveraging object-oriented data organization in OMERO to enhance findability and usability of their data, also in collaborative settings. The integration of OMERO with image analysis tools, in particular ImageJ/Fiji, will be trained. Moreover, users learn about community-accepted metadata checklists (REMBI) to enrich the value of their data toward reproducibility and reusability. In this workshop, we will provide hands-on training and recommendations on:
+
+Structured metadata annotation features in OMERO and how to use them
+Types of metadata in bioimaging: Technical metadata, sample metadata, analysis metadata
+The use of ontologies and terminologies for metadata annotation
+REMBI, the recommended metadata for biological images
+Metadata-assisted image analysis streamlining
+Tools for metadata annotation in OMERO
+
+The target group for this workshop
+This workshop is directed at researchers at all career levels who have started using OMERO for their microscopy research data management. We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
+Who are the trainers (see trainer description below for more details)
+
+Dr. Vanessa Fuchs (NFDI4BIOIMAGE Data Steward, Center for Advanced Imaging, Heinrich-Heine University of D&uuml;sseldorf)
+Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced Imaging, Heinrich-Heine University of D&uuml;sseldorf)
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg)
+
+Material Description
+Published here are the presentation slides that were used for input from the trainers during the different sessions of the programme. Additionally, a Fiji Macro is published that depends on the OMERO Extensions Plugin by Pouchin et al, 2022, F100Research, https://doi.org/10.12688/f1000research.110385.2&nbsp;
+Programme Overview
+Day 1 - April 29th, 2024&nbsp;09.00 a.m. to 10.00 a.m.: Session 1 - Welcome and Introduction
+10.00 a.m. to 10.30 a.m.:&nbsp; Session 2 - Introduction to the FAIR principles &amp; data annotation
+10:30 a.m. to 10:45 a.m.: Coffee break
+10.45 a.m. to 12.00 a.m.: Session 3 - Data structure (datasets in OMERO) and organization with Tags&nbsp;
+12.00 a.m. to 1.00 p.m.:&nbsp; Lunch Break
+1.00 p.m. to 2.00 p.m.:&nbsp; Session 4 - REMBI, Key-Value pair annotations in bioimaging
+2:00 p.m. to 2.30 p.m.:&nbsp; Session 5 - Ontologies for Key-Value Pairs in OMERO
+2:30 p.m. to 2:45 p.m. Coffee break
+2.45 p.m. to 3.45 p.m.:&nbsp; Wrap-up, discussion, outlook on day 2
+Day 2 - April 30th, 2024
+09.00 a.m. to 09.30 a.m.:&nbsp; Arrival and Start into day 2
+09.30 a.m. to 11.30 a.m.:&nbsp; Session 6 - Hands-on : REMBI-based Key-Value Pair annotation in OMERO
+11.30 a.m. to 12.30 a.m.:&nbsp; Lunch Break
+12.30 a.m. to 1.15 p.m.: Session 7 - OMERO and OMERO.plugins
+1.15 p.m. to 2.00 p.m.: Session 8 - Loading OMERO-hosted data into Fiji
+2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
+2.15 p.m. to 3.00 p.m.: Discussion, Outlook
+
+[https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
+
+[https://doi.org/10.5281/zenodo.11109616](https://doi.org/10.5281/zenodo.11109616)
 
 
 ---
