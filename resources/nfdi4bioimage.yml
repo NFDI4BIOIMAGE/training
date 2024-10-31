@@ -5532,4 +5532,39 @@ resources:
   url:
   - https://zenodo.org/records/14014252
   - https://doi.org/10.5281/zenodo.14014252
+
+- authors:
+  - Chris Allan
+  - Emil Rozbicki
+  description: Example Workflows / usage of the Glencoe Software.
+  tags:
+  - OMERO
+  - Training
+  type:
+  - Videos
+  - Tutorial
+  - Collection
+  license: UNKNOWN
+  name: Glencoe Software Webinars
+  url: https://www.glencoesoftware.com/media/webinars/
+
+- authors:
+  - Christian Schmidt
+  - Janina Hanne
+  - Josh Moore
+  - Christian Meesters
+  - Elisa Ferrando-May
+  - et al.
+  description: As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
+  tags:
+  - Research Data Management
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  license: CC-BY-4.0
+  name: Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
+  num_downloads: 321
+  publication_date: '2022-09-20'
+  url: https://f1000research.com/articles/11-638/v2
   
