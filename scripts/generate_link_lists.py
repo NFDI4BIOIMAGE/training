@@ -319,6 +319,8 @@ def collect_all(content, what_to_collect):
     for c in content['resources']:
         if what_to_collect in c:
             tags = c[what_to_collect]
+            if tags is None:
+                continue
             if type(tags) is not list and "," in tags:
                 tags = tags.split(",")
                 tags = [t.strip() for t in tags]
