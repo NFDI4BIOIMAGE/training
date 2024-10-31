@@ -13,16 +13,23 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+
     # Install dependencies
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.7
+        python-version: '3.x'
+
+
 
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
 
+    # Run data normalizer
+    - name: Run data normalizer
+      run: |
+        python scripts/data_normalizer.py
 
     # Build the book
     - name: Build the book
@@ -30,3 +37,4 @@ jobs:
         python scripts/generate_link_lists.py
         python scripts/export_csv.py
         jupyter-book build docs/
+

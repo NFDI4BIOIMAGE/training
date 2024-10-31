@@ -8,6 +8,7 @@ import pandas as pd
 import os
 from pathlib import Path
 import datetime
+import re
 
 #define directory path
 directory_path = './resources/'
@@ -27,13 +28,21 @@ download_statistics = pd.DataFrame()
 for entry in content['resources']:
     urls = entry['url']
 
-    #make urls a list if it is not already
-    if not type(urls) is list:
-            urls = [urls]
-    
+    # Ensure 'urls' is a list
+    if not isinstance(urls, list):
+        urls = [urls]
+
     for url in urls:
-        # if zenodo in url
+        # If 'zenodo.org' is in the URL
         if 'zenodo.org' in url:
+            # Check if it's a DOI-based URL
+            if 'doi' in url:
+                # Extract the Zenodo record ID from the DOI
+                match = re.search(r'zenodo\.(\d+)', url)
+                if match:
+                    record_id = match.group(1)
+                    # Change the URL to 'records' format
+                    url = f"https://zenodo.org/records/{record_id}"
 
             #extract meta data of records in zenodo
             zenodo = read_zenodo(url)

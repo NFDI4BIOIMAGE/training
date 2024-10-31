@@ -7,6 +7,7 @@ parts:
   - caption: Contributing
     chapters:
     - file: contributing/index
+    - file: contributing/submit_app
     - file: contributing/format
 
   - caption: By tag
@@ -26,5 +27,6 @@ parts:
     
   - caption: Appendix
     chapters:
+    - file: statistics/readme
     - file: export/readme
     - file: imprint
