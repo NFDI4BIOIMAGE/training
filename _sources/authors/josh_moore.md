@@ -1,4 +1,4 @@
-# Josh moore (17)
+# Josh moore (18)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 ['Josh Moore', 'Susanne Kunis']
@@ -135,6 +135,25 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## [BINA CC] Scalable strategies for a next-generation of FAIR bioimaging
+
+['Josh Moore']
+
+Published 2024-09-24
+
+Licensed CC-BY-4.0
+
+
+
+Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
+
+[https://zenodo.org/records/13831274](https://zenodo.org/records/13831274)
+
+[https://doi.org/10.5281/zenodo.13831274](https://doi.org/10.5281/zenodo.13831274)
 
 
 ---

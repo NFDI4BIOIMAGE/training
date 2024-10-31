@@ -1,4 +1,4 @@
-# Cc-by-4.0 (145)
+# Cc-by-4.0 (146)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -2665,6 +2665,25 @@ Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioima
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
+
+
+---
+
+## [BINA CC] Scalable strategies for a next-generation of FAIR bioimaging
+
+['Josh Moore']
+
+Published 2024-09-24
+
+Licensed CC-BY-4.0
+
+
+
+Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
+
+[https://zenodo.org/records/13831274](https://zenodo.org/records/13831274)
+
+[https://doi.org/10.5281/zenodo.13831274](https://doi.org/10.5281/zenodo.13831274)
 
 
 ---
