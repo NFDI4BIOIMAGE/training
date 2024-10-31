@@ -1,4 +1,26 @@
-# Jens wendt (5)
+# Jens wendt (6)
+## Excel template for adding Key-Value Pairs to images
+
+['Thomas Zobel', 'Jens Wendt']
+
+Published 2024-10-30
+
+Licensed CC-BY-4.0
+
+
+
+This Excel Workbook contains some simple Macros to help with the generation of a .csv in the necessary format for Key-Value pair annotations of images in OMERO.
+The format is tailored for the OMERO.web script&nbsp;"KeyVal_from_csv.py"&nbsp; (from the version &lt;=5.8.3 of the core omero-scripts).
+Attached is also a video of Thomas Zobel, the head of the imaging core facility Uni M&uuml;nster, showcasing the use of the Excel workbook.The video uses a slightly older version of the workbook and OMERO, but the core functionality remains unchanged.
+Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from/to .csv files will undergo a major change very soon.This might break the compatibility with the format used now for the generated .csv from the workbook.
+
+[https://zenodo.org/records/14014252](https://zenodo.org/records/14014252)
+
+[https://doi.org/10.5281/zenodo.14014252](https://doi.org/10.5281/zenodo.14014252)
+
+
+---
+
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
 ['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
