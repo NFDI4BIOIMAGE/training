@@ -1,4 +1,4 @@
-# Github repository (11)
+# Github repository (18)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -14,6 +14,27 @@ Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## Biomero
+
+['Torec Luik', 'Johannes Soltwedel']
+
+Published 2024-07-24
+
+Licensed APACHE-2.0
+
+
+
+The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
+
+Tags: OMERO, Github
+
+Content type: Github Repository
+
+[https://github.com/NL-BioImaging/biomero](https://github.com/NL-BioImaging/biomero)
 
 
 ---
@@ -132,6 +153,63 @@ Content type: Github Repository
 
 ---
 
+## Plugin "omero-batch-plugin"
+
+Licensed GPL-2.0
+
+
+
+An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
+
+Tags: OMERO, Imagej, Imagej Macro, Github
+
+Content type: Github Repository
+
+[https://github.com/GReD-Clermont/omero_batch-plugin](https://github.com/GReD-Clermont/omero_batch-plugin)
+
+
+---
+
+## Plugin "omero-cli-transfer"
+
+['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+
+Published 2024-09-14
+
+Licensed GPL-2.0
+
+
+
+An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/ome/omero-cli-transfer](https://github.com/ome/omero-cli-transfer)
+
+
+---
+
+## Plugin "simple-omero-client"
+
+['Pierre Pouchin', 'Rdornier', 'kekunn', 'Jean-Marie Burel']
+
+Licensed GPL-2.0
+
+
+
+A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
+
+Tags: OMERO, Github, Fiji
+
+Content type: Github Repository
+
+[https://github.com/GReD-Clermont/simple-omero-client](https://github.com/GReD-Clermont/simple-omero-client)
+
+
+---
+
 ## Scipy Cookbook
 
 ['Pauli Virtanen et al.']
@@ -166,6 +244,67 @@ Tags: Bioimage Analysis, Simpleitk
 Content type: Github Repository
 
 [https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
+
+
+---
+
+## bioformats2raw Converter
+
+['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+
+Licensed GPL-2.0
+
+
+
+Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
+
+Tags: Open Source Software, Bioimage Data
+
+Content type: Application, Github Repository
+
+[https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## ome-ngff-validator
+
+['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+
+Published 2022-09-29
+
+Licensed BSD-2-CLAUSE
+
+
+
+Web page for validating OME-NGFF files.
+
+Tags: Bioimage Data
+
+Content type: Github Repository, Application
+
+[https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
+
+[https://github.com/ome/ome-ngff-validator](https://github.com/ome/ome-ngff-validator)
+
+
+---
+
+## raw2ometiff Converter
+
+['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+
+Licensed GPL-2.0
+
+
+
+Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
+
+Tags: Open Source Software, Bioimage Data
+
+Content type: Application, Github Repository
+
+[https://github.com/glencoesoftware/raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
 
 
 ---

@@ -1,4 +1,4 @@
-# Blog (17)
+# Blog (18)
 ## Annotating 3D images in napari
 
 ['Mara Lampert']
@@ -46,6 +46,27 @@ Tags: Sharing, Research Data Management
 Content type: Blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
+
+
+---
+
+## Creating a Research Data Management Plan using chatGPT
+
+['Robert Haase']
+
+Published 2023-11-06
+
+Licensed CC-BY-4.0
+
+
+
+In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+
+Tags: Research Data Management, Large Language Models, Artificial Intelligence
+
+Content type: Blog
+
+[https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Slides (33)
+# Slides (34)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -154,6 +154,23 @@ Content type: Slides
 [https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
 
 [https://doi.org/10.5281/zenodo.11066250](https://doi.org/10.5281/zenodo.11066250)
+
+
+---
+
+## Data management at France BioImaging
+
+Published 2023-07-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+
+Content type: Slides, Presentation
+
+[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
 
 
 ---

@@ -1,4 +1,4 @@
-# Nfdi4bioimage (22)
+# Nfdi4bioimage (23)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 ['Josh Moore', 'Susanne Kunis']
@@ -81,6 +81,23 @@ Content type: Slide, Video
 
 ---
 
+## NFDI - Daten als gemeinsames Gut für exzellente Forschung, organisiert durch die Wissenschaft in Deutschland.
+
+Licensed UNKNOWN
+
+
+
+Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+Content type: Website
+
+[https://www.nfdi.de/](https://www.nfdi.de/)
+
+
+---
+
 ## NFDI4BIOIMAGE
 
 ['Carsten Fortmann.Grote']
@@ -104,15 +121,19 @@ Content type: Slides
 
 ['Christian Schmidt', 'Elisa Ferrando-May']
 
-Licensed CC-BY-SA-4.0
+Published 2021-04-29
+
+Licensed CCY-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Content type: Poster, Publication
+Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management
 
-[https://archiv.ub.uni-heidelberg.de/volltextserver/29489/](https://archiv.ub.uni-heidelberg.de/volltextserver/29489/)
+Content type: Conference Abstract, Slide
+
+[https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
 
 
 ---

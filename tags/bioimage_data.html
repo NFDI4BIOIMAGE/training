@@ -1,0 +1,1836 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Bioimage data (19) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+<link href="../_static/styles/bootstrap.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=4ec06e9971c5264fbd345897d5258098f11cc577" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94">
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=8bf782fb4ee92b3d3646425e50f299c4e1fd152d"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'tags/bioimage_data';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Bioinformatics (7)" href="bioinformatics.html" />
+    <link rel="prev" title="Bioimage analysis (153)" href="bioimage_analysis.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="docsearch:language" content="en">
+  </head>
+  
+  
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  
+  <input type="checkbox" class="sidebar-toggle" name="__primary" id="__primary">
+  <label class="overlay overlay-primary" for="__primary"></label>
+
+  
+  <input type="checkbox" class="sidebar-toggle" name="__secondary" id="__secondary">
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+      
+<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+    </div>
+  </div>
+
+  
+  <nav class="bd-header navbar navbar-expand-lg bd-navbar" id="navbar-main"><div class="bd-header__inner bd-page-width">
+  <label class="sidebar-toggle primary-toggle" for="__primary">
+      <span class="fa-solid fa-bars"></span>
+  </label>
+  <div id="navbar-start">
+    
+    
+  
+
+
+<a class="navbar-brand logo" href="../readme.html">
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <img src="../_static/logo.png" class="logo__image only-light" alt="Logo image">
+    <img src="../_static/logo.png" class="logo__image only-dark" alt="Logo image">
+  
+  
+</a>
+    
+  </div>
+
+  
+  <div class="col-lg-9 navbar-header-items">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <nav class="navbar-nav">
+    <p class="sidebar-header-items__title" role="heading" aria-level="1" aria-label="Site Navigation">
+        Site Navigation
+    </p>
+    <ul id="navbar-main-elements" class="navbar-nav">
+        
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/index.html">
+                        How to contribute
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/submit_app.html">
+                        Using the Training Materials Submission App
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/format.html">
+                        YML format
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="artificial_intelligence.html">
+                        Artificial intelligence (27)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="bioimage_analysis.html">
+                        Bioimage analysis (153)
+                      </a>
+                    </li>
+                
+            <div class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    More
+                </button>
+                <div class="dropdown-menu">
+                    
+                    <li class="nav-item current active">
+                      <a class="nav-link nav-internal" href="#">
+                        Bioimage data (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="bioinformatics.html">
+                        Bioinformatics (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="data_stewardship.html">
+                        Data stewardship (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="deep_learning.html">
+                        Deep learning (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="fair-principles.html">
+                        Fair-principles (27)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="image_data_management.html">
+                        Image data management (12)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="imagej.html">
+                        Imagej (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="licensing.html">
+                        Licensing (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="metadata.html">
+                        Metadata (14)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="microscopy_image_analysis.html">
+                        Microscopy image analysis (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="napari.html">
+                        Napari (12)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="neubias.html">
+                        Neubias (26)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="nfdi4bioimage.html">
+                        Nfdi4bioimage (23)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="omero.html">
+                        Omero (29)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="open_science.html">
+                        Open science (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="open_source_software.html">
+                        Open source software (5)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="python.html">
+                        Python (66)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="research_data_management.html">
+                        Research data management (106)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="sharing.html">
+                        Sharing (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="workflow.html">
+                        Workflow (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="workflow_engine.html">
+                        Workflow engine (13)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/blog.html">
+                        Blog (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/book.html">
+                        Book (17)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/code.html">
+                        Code (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/collection.html">
+                        Collection (69)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/data.html">
+                        Data (8)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/document.html">
+                        Document (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/documentation.html">
+                        Documentation (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/event.html">
+                        Event (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/github%20repository.html">
+                        Github repository (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/notebook.html">
+                        Notebook (47)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/online%20tutorial.html">
+                        Online tutorial (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/poster.html">
+                        Poster (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/preprint.html">
+                        Preprint (5)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/publication.html">
+                        Publication (58)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/slide.html">
+                        Slide (41)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/slides.html">
+                        Slides (34)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/tutorial.html">
+                        Tutorial (24)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/video.html">
+                        Video (22)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/website.html">
+                        Website (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/workshop.html">
+                        Workshop (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/all_rights_reserved.html">
+                        All rights reserved (13)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/bsd-2-clause.html">
+                        Bsd-2-clause (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/bsd-3-clause.html">
+                        Bsd-3-clause (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/cc-by-4.0.html">
+                        Cc-by-4.0 (144)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/cc0-1.0.html">
+                        Cc0-1.0 (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/gpl-2.0.html">
+                        Gpl-2.0 (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/mit.html">
+                        Mit (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/unknown.html">
+                        Unknown (73)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../statistics/readme.html">
+                        Statistics
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../export/readme.html">
+                        Open data
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../imprint.html">
+                        Imprint
+                      </a>
+                    </li>
+                
+                </div>
+            </div>
+            
+    </ul>
+</nav>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+        <div class="navbar-end-item navbar-persistent--container">
+          
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
+</button>
+        </div>
+      
+      
+      <div class="navbar-end-item">
+        <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+</button>
+      </div>
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+
+
+  
+  
+    <div class="navbar-persistent--mobile">
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
+</button>
+    </div>
+  
+
+  
+  <label class="sidebar-toggle secondary-toggle" for="__secondary">
+      <span class="fa-solid fa-outdent"></span>
+  </label>
+  
+
+</div>
+  </nav>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+      
+      <div class="navbar-center-item">
+        <nav class="navbar-nav">
+    <p class="sidebar-header-items__title" role="heading" aria-level="1" aria-label="Site Navigation">
+        Site Navigation
+    </p>
+    <ul id="navbar-main-elements" class="navbar-nav">
+        
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/index.html">
+                        How to contribute
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/submit_app.html">
+                        Using the Training Materials Submission App
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../contributing/format.html">
+                        YML format
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="artificial_intelligence.html">
+                        Artificial intelligence (27)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="bioimage_analysis.html">
+                        Bioimage analysis (153)
+                      </a>
+                    </li>
+                
+            <div class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    More
+                </button>
+                <div class="dropdown-menu">
+                    
+                    <li class="nav-item current active">
+                      <a class="nav-link nav-internal" href="#">
+                        Bioimage data (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="bioinformatics.html">
+                        Bioinformatics (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="data_stewardship.html">
+                        Data stewardship (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="deep_learning.html">
+                        Deep learning (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="fair-principles.html">
+                        Fair-principles (27)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="image_data_management.html">
+                        Image data management (12)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="imagej.html">
+                        Imagej (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="licensing.html">
+                        Licensing (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="metadata.html">
+                        Metadata (14)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="microscopy_image_analysis.html">
+                        Microscopy image analysis (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="napari.html">
+                        Napari (12)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="neubias.html">
+                        Neubias (26)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="nfdi4bioimage.html">
+                        Nfdi4bioimage (23)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="omero.html">
+                        Omero (29)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="open_science.html">
+                        Open science (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="open_source_software.html">
+                        Open source software (5)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="python.html">
+                        Python (66)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="research_data_management.html">
+                        Research data management (106)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="sharing.html">
+                        Sharing (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="workflow.html">
+                        Workflow (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="workflow_engine.html">
+                        Workflow engine (13)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/blog.html">
+                        Blog (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/book.html">
+                        Book (17)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/code.html">
+                        Code (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/collection.html">
+                        Collection (69)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/data.html">
+                        Data (8)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/document.html">
+                        Document (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/documentation.html">
+                        Documentation (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/event.html">
+                        Event (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/github%20repository.html">
+                        Github repository (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/notebook.html">
+                        Notebook (47)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/online%20tutorial.html">
+                        Online tutorial (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/poster.html">
+                        Poster (10)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/preprint.html">
+                        Preprint (5)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/publication.html">
+                        Publication (58)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/slide.html">
+                        Slide (41)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/slides.html">
+                        Slides (34)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/tutorial.html">
+                        Tutorial (24)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/video.html">
+                        Video (22)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/website.html">
+                        Website (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../content_types/workshop.html">
+                        Workshop (6)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/all_rights_reserved.html">
+                        All rights reserved (13)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/bsd-2-clause.html">
+                        Bsd-2-clause (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/bsd-3-clause.html">
+                        Bsd-3-clause (18)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/cc-by-4.0.html">
+                        Cc-by-4.0 (144)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/cc0-1.0.html">
+                        Cc0-1.0 (9)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/gpl-2.0.html">
+                        Gpl-2.0 (7)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/mit.html">
+                        Mit (19)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../licenses/unknown.html">
+                        Unknown (73)
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../statistics/readme.html">
+                        Statistics
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../export/readme.html">
+                        Open data
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="../imprint.html">
+                        Imprint
+                      </a>
+                    </li>
+                
+                </div>
+            </div>
+            
+    </ul>
+</nav>
+      </div>
+      
+      </div>
+    
+
+    
+    
+    <div class="sidebar-header-items__end">
+      
+      <div class="navbar-end-item">
+        <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+</button>
+      </div>
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+      </ul>
+      </div>
+      
+    </div>
+    
+  </div>
+
+  
+  <div class="sidebar-start-items sidebar-primary__section">
+    <div class="sidebar-start-items__item">
+  
+
+
+<a class="navbar-brand logo" href="../readme.html">
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <img src="../_static/logo.png" class="logo__image only-light" alt="Logo image">
+    <img src="../_static/logo.png" class="logo__image only-dark" alt="Logo image">
+  
+  
+</a>
+    </div>
+    <div class="sidebar-start-items__item">
+<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+    </div>
+    <div class="sidebar-start-items__item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="artificial_intelligence.html">Artificial intelligence (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="bioimage_analysis.html">Bioimage analysis (153)</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Bioimage data (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="bioinformatics.html">Bioinformatics (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="deep_learning.html">Deep learning (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="image_data_management.html">Image data management (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="imagej.html">Imagej (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="licensing.html">Licensing (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="metadata.html">Metadata (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="microscopy_image_analysis.html">Microscopy image analysis (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="napari.html">Napari (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="neubias.html">Neubias (26)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="nfdi4bioimage.html">Nfdi4bioimage (23)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="omero.html">Omero (29)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="open_science.html">Open science (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="open_source_software.html">Open source software (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="python.html">Python (66)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="research_data_management.html">Research data management (106)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sharing.html">Sharing (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workflow.html">Workflow (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog.html">Blog (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (17)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (69)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (47)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (58)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slide.html">Slide (41)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (34)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (24)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (22)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (6)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (144)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (73)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav>
+    </div>
+  </div>
+  
+
+  
+  <div class="sidebar-end-items sidebar-primary__section">
+    <div class="sidebar-end-items__item">
+    </div>
+  </div>
+
+  
+  <div id="rtd-footer-container"></div>
+
+      </div>
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+        <div class="bd-content">
+          <div class="bd-article-container">
+            
+            <div class="bd-header-article">
+                
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        <label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" data-toggle="tooltip" data-placement="right" title="Toggle primary sidebar">
+            <span class="fa-solid fa-bars"></span>
+        </label>
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<div class="dropdown dropdown-repository-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm dropdown-item"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">repository</span>
+</a>
+</a>
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Ftags/bioimage_data.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm dropdown-item"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">open issue</span>
+</a>
+</a>
+      
+  </ul>
+</div>
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      <li><a href="../_sources/tags/bioimage_data.md" target="_blank"
+   class="btn btn-sm dropdown-item"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</a>
+      
+      <li>
+<button onclick="printPdf(this)"
+  class="btn btn-sm dropdown-item"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</a>
+      
+  </ul>
+</div>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary" data-toggle="tooltip" data-placement="left" title="Toggle secondary sidebar">
+            <span class="fa-solid fa-list"></span>
+        </label>
+    </div>
+</div>
+            </div>
+            
+            
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Bioimage data (19)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bio-image-data-strudel-for-workshop-on-research-data-management-in-tu-dresden-core-facilities">
+   Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bioformats-command-line-cli-tools">
+   BioFormats Command line (CLI) tools
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#checklists-for-publishing-images-and-image-analysis">
+   Checklists for publishing images and image analysis
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fair-high-content-screening-in-bioimaging">
+   FAIR High Content Screening in Bioimaging
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#i3d-bio-information-infrastructure-for-bioimage-data-bioimage-metadata">
+   I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#knime-image-processing">
+   KNIME Image Processing
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#microscopy-bids-an-extension-to-the-brain-imaging-data-structure-for-microscopy-data">
+   Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#nfdi4bioimage-an-initiative-for-a-national-research-data-infrastructure-for-microscopy-data">
+   NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ngff-converter">
+   NGFF Converter
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#open-micoscropy-environment-ome-youtube-channel">
+   Open Micoscropy Environment (OME) Youtube Channel
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#rembi-recommended-metadata-for-biological-imagesenabling-reuse-of-microscopy-data-in-biology">
+   REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#rembi-overview">
+   REMBI Overview
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reporting-and-reproducibility-in-microscopy">
+   Reporting and reproducibility in microscopy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#submitting-data-to-the-bioimage-archive">
+   Submitting data to the BioImage Archive
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-bioimage-archive-building-a-home-for-life-sciences-microscopy-data">
+   The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#towards-community-driven-metadata-standards-for-light-microscopy-tiered-specifications-extending-the-ome-model">
+   Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bioformats2raw-converter">
+   bioformats2raw Converter
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ome-ngff-validator">
+   ome-ngff-validator
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#raw2ometiff-converter">
+   raw2ometiff Converter
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+            <article class="bd-article" role="main">
+              
+  <section class="tex2jax_ignore mathjax_ignore" id="bioimage-data-19">
+<h1>Bioimage data (19)<a class="headerlink" href="#bioimage-data-19" title="Permalink to this heading">#</a></h1>
+<section id="bio-image-data-strudel-for-workshop-on-research-data-management-in-tu-dresden-core-facilities">
+<h2>Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities<a class="headerlink" href="#bio-image-data-strudel-for-workshop-on-research-data-management-in-tu-dresden-core-facilities" title="Permalink to this heading">#</a></h2>
+<p>[‘Cornelia Wetzker’]</p>
+<p>Published 2023-11-08</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German ‘Nationale Forschungsdateninfrastruktur’ (NFDI) and its goals and tools for data management including its current members on TU Dresden campus.  </p>
+<p>Tags: Research Data Management, Tu Dresden, Bioimage Data, Nfdi4Bioimage</p>
+<p>Content type: Slide</p>
+<p><a class="reference external" href="https://zenodo.org/records/10083555">https://zenodo.org/records/10083555</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10083555">https://doi.org/10.5281/zenodo.10083555</a></p>
+</section>
+<hr class="docutils" />
+<section id="bioformats-command-line-cli-tools">
+<h2>BioFormats Command line (CLI) tools<a class="headerlink" href="#bioformats-command-line-cli-tools" title="Permalink to this heading">#</a></h2>
+<p>Published 2024-10-24</p>
+<p>Licensed CC-BY-4.0</p>
+<p>Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.</p>
+<p>Tags: Bioimage Data</p>
+<p>Content type: Documentation</p>
+<p><a class="reference external" href="https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html">https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html</a></p>
+</section>
+<hr class="docutils" />
+<section id="checklists-for-publishing-images-and-image-analysis">
+<h2>Checklists for publishing images and image analysis<a class="headerlink" href="#checklists-for-publishing-images-and-image-analysis" title="Permalink to this heading">#</a></h2>
+<p>[‘Christopher Schmied’]</p>
+<p>Published 2023-09-14</p>
+<p>Licensed CC0-1.0</p>
+<p>In this paper we introduce two sets of checklists. One is concerned with the publication of images. The other one gives instructions for the publication of image analysis.</p>
+<p>Tags: Bioimage Data, Microscopy Image Analysis</p>
+<p>Content type: Forum Post</p>
+<p><a class="reference external" href="https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304">https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304</a></p>
+</section>
+<hr class="docutils" />
+<section id="fair-high-content-screening-in-bioimaging">
+<h2>FAIR High Content Screening in Bioimaging<a class="headerlink" href="#fair-high-content-screening-in-bioimaging" title="Permalink to this heading">#</a></h2>
+<p>[‘Rohola Hosseini’, ‘Matthijs Vlasveld’, ‘Joost Willemse’, ‘Bob van de Water’, ‘Sylvia E. Le Dévédec’, ‘Katherine J. Wolstencroft’]</p>
+<p>Published 2023-07-17</p>
+<p>Licensed CC-BY-4.0</p>
+<p>The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.</p>
+<p>Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.nature.com/articles/s41597-023-02367-w">https://www.nature.com/articles/s41597-023-02367-w</a></p>
+</section>
+<hr class="docutils" />
+<section id="i3d-bio-information-infrastructure-for-bioimage-data-bioimage-metadata">
+<h2>I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata<a class="headerlink" href="#i3d-bio-information-infrastructure-for-bioimage-data-bioimage-metadata" title="Permalink to this heading">#</a></h2>
+<p>[‘Christian Schmidt’]</p>
+<p>Licensed UNKNOWN</p>
+<p>A Microscopy Research Data Management Resource.</p>
+<p>Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data</p>
+<p>Content type: Collection</p>
+<p><a class="reference external" href="https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/">https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/</a></p>
+</section>
+<hr class="docutils" />
+<section id="knime-image-processing">
+<h2>KNIME Image Processing<a class="headerlink" href="#knime-image-processing" title="Permalink to this heading">#</a></h2>
+<p>None</p>
+<p>Licensed GPLV3</p>
+<p>The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.</p>
+<p>Tags: Imagej, OMERO, Bioimage Data, Workflow</p>
+<p>Content type: Tutorial, Online Tutorial, Documentation</p>
+<p><a class="reference external" href="https://www.knime.com/community/image-processing">https://www.knime.com/community/image-processing</a></p>
+</section>
+<hr class="docutils" />
+<section id="microscopy-bids-an-extension-to-the-brain-imaging-data-structure-for-microscopy-data">
+<h2>Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data<a class="headerlink" href="#microscopy-bids-an-extension-to-the-brain-imaging-data-structure-for-microscopy-data" title="Permalink to this heading">#</a></h2>
+<p>[‘Marie-Hélène Bourget’, ‘Lee Kamentsky’, ‘Satrajit S. Ghosh’, ‘Giacomo Mazzamuto’, ‘Alberto Lazari’, ‘et al.’]</p>
+<p>Published 2022-04-19</p>
+<p>Licensed CC-BY-4.0</p>
+<p>The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.</p>
+<p>Tags: Research Data Management, Image Data Management, Bioimage Data</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full">https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full</a></p>
+</section>
+<hr class="docutils" />
+<section id="nfdi4bioimage-an-initiative-for-a-national-research-data-infrastructure-for-microscopy-data">
+<h2>NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data<a class="headerlink" href="#nfdi4bioimage-an-initiative-for-a-national-research-data-infrastructure-for-microscopy-data" title="Permalink to this heading">#</a></h2>
+<p>[‘Christian Schmidt’, ‘Elisa Ferrando-May’]</p>
+<p>Published 2021-04-29</p>
+<p>Licensed CCY-BY-SA-4.0</p>
+<p>Align existing and establish novel services &amp; solutions for data management tasks throughout the bioimage data lifecycle.</p>
+<p>Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management</p>
+<p>Content type: Conference Abstract, Slide</p>
+<p><a class="reference external" href="https://doi.org/10.11588/heidok.00029489">https://doi.org/10.11588/heidok.00029489</a></p>
+</section>
+<hr class="docutils" />
+<section id="ngff-converter">
+<h2>NGFF Converter<a class="headerlink" href="#ngff-converter" title="Permalink to this heading">#</a></h2>
+<p>Licensed GPL-2.0</p>
+<p>An easy to use and open source converter for bioimaging data. NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF.</p>
+<p>Tags: Bioimage Data, Open Source Software</p>
+<p>Content type: Application</p>
+<p><a class="reference external" href="https://www.glencoesoftware.com/products/ngff-converter/">https://www.glencoesoftware.com/products/ngff-converter/</a></p>
+</section>
+<hr class="docutils" />
+<section id="open-micoscropy-environment-ome-youtube-channel">
+<h2>Open Micoscropy Environment (OME) Youtube Channel<a class="headerlink" href="#open-micoscropy-environment-ome-youtube-channel" title="Permalink to this heading">#</a></h2>
+<p>Published None</p>
+<p>Licensed CC-BY-4.0</p>
+<p>OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data</p>
+<p>Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data</p>
+<p>Content type: Youtube Channel</p>
+<p><a class="reference external" href="https://www.youtube.com/&#64;OpenMicroscopyEnvironment">https://www.youtube.com/&#64;OpenMicroscopyEnvironment</a></p>
+</section>
+<hr class="docutils" />
+<section id="rembi-recommended-metadata-for-biological-imagesenabling-reuse-of-microscopy-data-in-biology">
+<h2>REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology<a class="headerlink" href="#rembi-recommended-metadata-for-biological-imagesenabling-reuse-of-microscopy-data-in-biology" title="Permalink to this heading">#</a></h2>
+<p>[‘Ugis Sarkans’, ‘Wah Chiu’, ‘Lucy Collinson’, ‘Michele C. Darrow’, ‘Jan Ellenberg’, ‘David Grunwald’, ‘et al.’]</p>
+<p>Published 2021-05-21</p>
+<p>Licensed UNKNOWN</p>
+<p>Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.</p>
+<p>Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/</a></p>
+<p><a class="reference external" href="https://www.nature.com/articles/s41592-021-01166-8">https://www.nature.com/articles/s41592-021-01166-8</a></p>
+<p><a class="reference external" href="https://doi.org/10.1038/s41592-021-01166-8">https://doi.org/10.1038/s41592-021-01166-8</a></p>
+</section>
+<hr class="docutils" />
+<section id="rembi-overview">
+<h2>REMBI Overview<a class="headerlink" href="#rembi-overview" title="Permalink to this heading">#</a></h2>
+<p>Licensed CC0-1.0</p>
+<p>Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.</p>
+<p>Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data</p>
+<p>Content type: Collection</p>
+<p><a class="reference external" href="https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/">https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/</a></p>
+</section>
+<hr class="docutils" />
+<section id="reporting-and-reproducibility-in-microscopy">
+<h2>Reporting and reproducibility in microscopy<a class="headerlink" href="#reporting-and-reproducibility-in-microscopy" title="Permalink to this heading">#</a></h2>
+<p>Published 2021-12-03</p>
+<p>Licensed UNKNOWN</p>
+<p>This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.</p>
+<p>Tags: Reproducibility, Metadata, Bioimage Data</p>
+<p>Content type: Collection</p>
+<p><a class="reference external" href="https://www.nature.com/collections/djiciihhjh">https://www.nature.com/collections/djiciihhjh</a></p>
+</section>
+<hr class="docutils" />
+<section id="submitting-data-to-the-bioimage-archive">
+<h2>Submitting data to the BioImage Archive<a class="headerlink" href="#submitting-data-to-the-bioimage-archive" title="Permalink to this heading">#</a></h2>
+<p>Licensed CC0-1.0</p>
+<p>To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.</p>
+<p>Tags: Research Data Management, Image Data Management, Bioimage Data</p>
+<p>Content type: Tutorial, Video</p>
+<p><a class="reference external" href="https://www.ebi.ac.uk/bioimage-archive/submit/">https://www.ebi.ac.uk/bioimage-archive/submit/</a></p>
+</section>
+<hr class="docutils" />
+<section id="the-bioimage-archive-building-a-home-for-life-sciences-microscopy-data">
+<h2>The BioImage Archive – Building a Home for Life-Sciences Microscopy Data<a class="headerlink" href="#the-bioimage-archive-building-a-home-for-life-sciences-microscopy-data" title="Permalink to this heading">#</a></h2>
+<p>[‘Matthew Hartley’, ‘Gerard J. Kleywegt’, ‘Ardan Patwardhan’, ‘Ugis Sarkans’, ‘Jason R. Swedlow’, ‘Alvis Brazma’]</p>
+<p>Published 2022-06-22</p>
+<p>Licensed UNKNOWN</p>
+<p>The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).</p>
+<p>Tags: Image Data Management, Research Data Management, Bioimage Data</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub">https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub</a></p>
+<p><a class="reference external" href="https://doi.org/10.1016/j.jmb.2022.167505">https://doi.org/10.1016/j.jmb.2022.167505</a></p>
+</section>
+<hr class="docutils" />
+<section id="towards-community-driven-metadata-standards-for-light-microscopy-tiered-specifications-extending-the-ome-model">
+<h2>Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model<a class="headerlink" href="#towards-community-driven-metadata-standards-for-light-microscopy-tiered-specifications-extending-the-ome-model" title="Permalink to this heading">#</a></h2>
+<p>[‘Mathias Hammer’, ‘Maximiliaan Huisman’, ‘Alessandro Rigano’, ‘Ulrike Boehm’, ‘James J. Chambers’, ‘et al.’]</p>
+<p>Published 2022-07-10</p>
+<p>Licensed UNKNOWN</p>
+<p>Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.</p>
+<p>Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/</a></p>
+</section>
+<hr class="docutils" />
+<section id="bioformats2raw-converter">
+<h2>bioformats2raw Converter<a class="headerlink" href="#bioformats2raw-converter" title="Permalink to this heading">#</a></h2>
+<p>[‘Melissa Linkert’, ‘Chris Allan’, ‘Josh Moore’, ‘Sébastien Besson’, ‘David Gault’, ‘et al.’]</p>
+<p>Licensed GPL-2.0</p>
+<p>Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.</p>
+<p>Tags: Open Source Software, Bioimage Data</p>
+<p>Content type: Application, Github Repository</p>
+<p><a class="github reference external" href="https://github.com/glencoesoftware/bioformats2raw">glencoesoftware/bioformats2raw</a></p>
+</section>
+<hr class="docutils" />
+<section id="ome-ngff-validator">
+<h2>ome-ngff-validator<a class="headerlink" href="#ome-ngff-validator" title="Permalink to this heading">#</a></h2>
+<p>[‘Will Moore’, ‘Josh Moore’, ‘Yaroslav Halchenko’, ‘Sébastien Besson’]</p>
+<p>Published 2022-09-29</p>
+<p>Licensed BSD-2-CLAUSE</p>
+<p>Web page for validating OME-NGFF files.</p>
+<p>Tags: Bioimage Data</p>
+<p>Content type: Github Repository, Application</p>
+<p><a class="reference external" href="https://ome.github.io/ome-ngff-validator/">https://ome.github.io/ome-ngff-validator/</a></p>
+<p><a class="github reference external" href="https://github.com/ome/ome-ngff-validator">ome/ome-ngff-validator</a></p>
+</section>
+<hr class="docutils" />
+<section id="raw2ometiff-converter">
+<h2>raw2ometiff Converter<a class="headerlink" href="#raw2ometiff-converter" title="Permalink to this heading">#</a></h2>
+<p>[‘Melissa Linkert’, ‘Chris Allan’, ‘Sébastien Besson’, ‘Josh Moore’]</p>
+<p>Licensed GPL-2.0</p>
+<p>Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs =&gt; OME-TIFF conversion.</p>
+<p>Tags: Open Source Software, Bioimage Data</p>
+<p>Content type: Application, Github Repository</p>
+<p><a class="github reference external" href="https://github.com/glencoesoftware/raw2ometiff">glencoesoftware/raw2ometiff</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./tags"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+            </article>
+            
+
+            
+            
+            <footer class="bd-footer-article">
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+  <a class='left-prev' id="prev-link" href="bioimage_analysis.html" title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+          <p class="prev-next-subtitle">previous</p>
+          <p class="prev-next-title">Bioimage analysis (153)</p>
+      </div>
+  </a>
+  <a class='right-next' id="next-link" href="bioinformatics.html" title="next page">
+  <div class="prev-next-info">
+      <p class="prev-next-subtitle">next</p>
+      <p class="prev-next-title">Bioinformatics (7)</p>
+  </div>
+  <i class="fa-solid fa-angle-right"></i>
+  </a>
+</div>
+            </footer>
+            
+          </div>
+          
+          
+          
+            <div class="bd-sidebar-secondary bd-toc">
+              
+<div class="toc-item">
+  
+<div class="tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+</div>
+<nav id="bd-toc-nav" class="page-toc">
+    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bio-image-data-strudel-for-workshop-on-research-data-management-in-tu-dresden-core-facilities">
+   Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bioformats-command-line-cli-tools">
+   BioFormats Command line (CLI) tools
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#checklists-for-publishing-images-and-image-analysis">
+   Checklists for publishing images and image analysis
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fair-high-content-screening-in-bioimaging">
+   FAIR High Content Screening in Bioimaging
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#i3d-bio-information-infrastructure-for-bioimage-data-bioimage-metadata">
+   I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#knime-image-processing">
+   KNIME Image Processing
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#microscopy-bids-an-extension-to-the-brain-imaging-data-structure-for-microscopy-data">
+   Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#nfdi4bioimage-an-initiative-for-a-national-research-data-infrastructure-for-microscopy-data">
+   NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ngff-converter">
+   NGFF Converter
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#open-micoscropy-environment-ome-youtube-channel">
+   Open Micoscropy Environment (OME) Youtube Channel
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#rembi-recommended-metadata-for-biological-imagesenabling-reuse-of-microscopy-data-in-biology">
+   REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#rembi-overview">
+   REMBI Overview
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reporting-and-reproducibility-in-microscopy">
+   Reporting and reproducibility in microscopy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#submitting-data-to-the-bioimage-archive">
+   Submitting data to the BioImage Archive
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-bioimage-archive-building-a-home-for-life-sciences-microscopy-data">
+   The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#towards-community-driven-metadata-standards-for-light-microscopy-tiered-specifications-extending-the-ome-model">
+   Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bioformats2raw-converter">
+   bioformats2raw Converter
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ome-ngff-validator">
+   ome-ngff-validator
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#raw2ometiff-converter">
+   raw2ometiff Converter
+  </a>
+ </li>
+</ul>
+
+</nav>
+</div>
+
+            </div>
+          
+          
+        </div>
+        <footer class="bd-footer-content">
+          <div class="bd-footer-content__inner">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+Last updated on 2024-10-31.<br>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </div>
+        </footer>
+        
+
+      </main>
+    </div>
+  </div>
+
+  
+    
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94"></script>
+
+  </body>
+</html>

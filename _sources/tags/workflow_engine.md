@@ -1,4 +1,4 @@
-# Workflow engine (12)
+# Workflow engine (13)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 ['Caterina Fuster-Barceló']
@@ -209,6 +209,25 @@ Content type: Documentation
 [https://snakemake.readthedocs.io/en/stable/](https://snakemake.readthedocs.io/en/stable/)
 
 [https://academic.oup.com/bioinformatics/article/28/19/2520/290322](https://academic.oup.com/bioinformatics/article/28/19/2520/290322)
+
+
+---
+
+## WorkflowHub
+
+['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+
+Licensed BSD-3-CLAUSE
+
+
+
+A registry for describing, sharing and publishing scientific computational workflows.
+
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+
+Content type: Collection
+
+[https://workflowhub.eu/](https://workflowhub.eu/)
 
 
 ---

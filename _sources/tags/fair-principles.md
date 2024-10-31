@@ -1,4 +1,4 @@
-# Fair-principles (17)
+# Fair-principles (27)
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
 ['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
@@ -66,6 +66,23 @@ Content type: Slides
 
 ---
 
+## Data Stewardship Wizard
+
+Licensed UNKOWN
+
+
+
+Leading open-source platform for collaborative and living data management plans.
+
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+
+Content type: Website, Online Tutorial
+
+[https://ds-wizard.org/](https://ds-wizard.org/)
+
+
+---
+
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
 ['Isabel Kemmer', 'Euro-BioImaging ERIC']
@@ -109,6 +126,44 @@ Content type: Collection, Tutorial
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 [https://doi.org/10.5281/zenodo.11473803](https://doi.org/10.5281/zenodo.11473803)
+
+
+---
+
+## FAIR High Content Screening in Bioimaging
+
+['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+
+Published 2023-07-17
+
+Licensed CC-BY-4.0
+
+
+
+The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+
+Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## FAIR Priciples
+
+Licensed CC-BY-4.0
+
+
+
+In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+
+Tags: FAIR-Principles, Data Stewardship, Research Data Management
+
+Content type: Collection
+
+[https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
 
 
 ---
@@ -158,6 +213,50 @@ Content type: Slides
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 [https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
+## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+
+['Bea Hiemenz', 'Monika Kuberek']
+
+Published 2018-07-13
+
+Licensed CC-BY-4.0
+
+
+
+As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
+
+Tags: Research Data Management, FAIR-Principles
+
+Content type: Publication
+
+[https://www.o-bib.de/bib/article/view/2018H2S1-13](https://www.o-bib.de/bib/article/view/2018H2S1-13)
+
+
+---
+
+## Modeling community standards for metadata as templates makes data FAIR
+
+['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+
+Published 2022-11-12
+
+Licensed CC-BY-4.0
+
+
+
+The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+
+Tags: Data Stewardship, FAIR-Principles, Metadata
+
+Content type: Publication
+
+[https://pubmed.ncbi.nlm.nih.gov/36371407/](https://pubmed.ncbi.nlm.nih.gov/36371407/)
+
+[https://www.nature.com/articles/s41597-022-01815-3](https://www.nature.com/articles/s41597-022-01815-3)
 
 
 ---
@@ -301,6 +400,40 @@ Content type: Slides
 
 ---
 
+## REMBI Overview
+
+Licensed CC0-1.0
+
+
+
+Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
+
+Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/](https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/)
+
+
+---
+
+## Research data - what are the key issues to consider when publishing this kind of material?
+
+Licensed UNKNOWN
+
+
+
+The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+
+Tags: Research Data Management, FAIR-Principles, Licensing
+
+Content type: Tutorial
+
+[https://www.publisso.de/en/advice/publishing-advice-faqs/research-data](https://www.publisso.de/en/advice/publishing-advice-faqs/research-data)
+
+
+---
+
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
 ['Pia Voigt']
@@ -320,6 +453,71 @@ Content type: Slides
 [https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
 
 [https://doi.org/10.5281/zenodo.11396199](https://doi.org/10.5281/zenodo.11396199)
+
+
+---
+
+## Ten simple rules for making training materials FAIR
+
+['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+
+Published 2020-05-21
+
+Licensed CC-BY-4.0
+
+
+
+The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+
+Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+
+Content type: Publication
+
+[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
+
+---
+
+## The FAIR Guiding Principles for scientific data management and stewardship
+
+['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+
+Published 2016-03-15
+
+Licensed CC-BY-4.0
+
+
+
+This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
+
+Tags: FAIR-Principles, Research Data Management
+
+Content type: Publication
+
+[https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+
+---
+
+## The FAIR guiding principles for data stewardship - fair enough?
+
+['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+
+Published 2018-05-17
+
+Licensed CC-BY-4.0
+
+
+
+The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
+
+Tags: FAIR-Principles, Data Stewardship, Sharing
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
 
 
 ---

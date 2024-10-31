@@ -1,4 +1,4 @@
-# Python (65)
+# Python (66)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -1072,6 +1072,25 @@ Tags: Python, Napari, Bioimage Analysis
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+
+
+---
+
+## WorkflowHub
+
+['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+
+Licensed BSD-3-CLAUSE
+
+
+
+A registry for describing, sharing and publishing scientific computational workflows.
+
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+
+Content type: Collection
+
+[https://workflowhub.eu/](https://workflowhub.eu/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Video (20)
+# Video (22)
 ## Bio Image Analysis Lecture 2020
 
 
@@ -57,6 +57,25 @@ Content type: Collection, Video
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
 [https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
+
+
+---
+
+## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
+
+['SciPy', 'Erick Martins Ratamero']
+
+Published 2024-08-19
+
+Licensed YOUTTUBE STANDARD LICENSE
+
+
+
+Tags: Image Data Management, OMERO, Bioimage Analysis
+
+Content type: Video, Presentation
+
+[https://www.youtube.com/watch?v=GmhyDNm1RsM](https://www.youtube.com/watch?v=GmhyDNm1RsM)
 
 
 ---
@@ -292,6 +311,23 @@ Content type: Video
 [https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
 
 [https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
+
+
+---
+
+## Submitting data to the BioImage Archive
+
+Licensed CC0-1.0
+
+
+
+To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Tutorial, Video
+
+[https://www.ebi.ac.uk/bioimage-archive/submit/](https://www.ebi.ac.uk/bioimage-archive/submit/)
 
 
 ---

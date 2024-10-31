@@ -1,4 +1,4 @@
-# Publication (43)
+# Publication (58)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -118,6 +118,48 @@ Content type: Publication, Poster
 
 ---
 
+## BIOMERO - A scalable and extensible image analysis framework
+
+['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+
+Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+
+Content type: Publication
+
+[https://doi.org/10.1016/j.patter.2024.101024](https://doi.org/10.1016/j.patter.2024.101024)
+
+
+---
+
+## Best practice data life cycle approaches for the life sciences
+
+['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+
+Published 2018-06-04
+
+Licensed UNKNOWN
+
+
+
+The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
+
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+
+Content type: Publication
+
+[https://doi.org/10.12688/f1000research.12344.2](https://doi.org/10.12688/f1000research.12344.2)
+
+
+---
+
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
 ['Christian Tischer', 'Ashis Ravindran', 'Sabine Reither', 'Nicolas Chiaruttini', 'Rainer Pepperkok', 'Nils Norlin']
@@ -150,6 +192,19 @@ Tags: Artificial Intelligence, Workflow Engine
 Content type: Publication
 
 [https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
+
+
+---
+
+## Bioimage Archive
+
+
+
+Content type: Collection, Data, Publication
+
+[https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791](https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791)
 
 
 ---
@@ -283,6 +338,50 @@ Content type: Publication, Poster
 
 ---
 
+## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
+
+['Uli Hahn', 'Kerstin Helbig', 'Gerald Jagusch', 'Jessica Rex']
+
+Published  2018-10-22
+
+Licensed CC-BY-4.0
+
+
+
+Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://bausteine-fdm.de/article/view/7945](https://bausteine-fdm.de/article/view/7945)
+
+[https://doi.org/10.17192/bfdm.2018.1.7945](https://doi.org/10.17192/bfdm.2018.1.7945)
+
+
+---
+
+## FAIR High Content Screening in Bioimaging
+
+['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+
+Published 2023-07-17
+
+Licensed CC-BY-4.0
+
+
+
+The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+
+Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
 ['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
@@ -330,6 +429,27 @@ Content type: Publication, Documentation
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
 [https://jipipe.hki-jena.de/](https://jipipe.hki-jena.de/)
+
+
+---
+
+## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+
+['Bea Hiemenz', 'Monika Kuberek']
+
+Published 2018-07-13
+
+Licensed CC-BY-4.0
+
+
+
+As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
+
+Tags: Research Data Management, FAIR-Principles
+
+Content type: Publication
+
+[https://www.o-bib.de/bib/article/view/2018H2S1-13](https://www.o-bib.de/bib/article/view/2018H2S1-13)
 
 
 ---
@@ -430,6 +550,50 @@ Tags: Metadata
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-021-01315-z](https://doi.org/10.1038/s41592-021-01315-z)
+
+
+---
+
+## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+
+['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+
+Published 2022-04-19
+
+Licensed CC-BY-4.0
+
+
+
+The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full)
+
+
+---
+
+## Modeling community standards for metadata as templates makes data FAIR
+
+['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+
+Published 2022-11-12
+
+Licensed CC-BY-4.0
+
+
+
+The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+
+Tags: Data Stewardship, FAIR-Principles, Metadata
+
+Content type: Publication
+
+[https://pubmed.ncbi.nlm.nih.gov/36371407/](https://pubmed.ncbi.nlm.nih.gov/36371407/)
+
+[https://www.nature.com/articles/s41597-022-01815-3](https://www.nature.com/articles/s41597-022-01815-3)
 
 
 ---
@@ -635,19 +799,48 @@ Content type: Publication
 
 ---
 
-## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'et al.']
+['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
 
-Licensed ALL RIGHTS RESERVED
+Published 2021-05-21
+
+Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Metadata
+Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
+
+Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
 
 Content type: Publication
 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/)
+
 [https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
+
+[https://doi.org/10.1038/s41592-021-01166-8](https://doi.org/10.1038/s41592-021-01166-8)
+
+
+---
+
+## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
+
+['Costantino Thanos']
+
+Published 2017-01-09
+
+Licensed CC-BY-4.0
+
+
+
+This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
+
+Tags: Research Data Management, Open Science, Data Protection
+
+Content type: Publication
+
+[https://www.mdpi.com/2304-6775/5/1/2](https://www.mdpi.com/2304-6775/5/1/2)
 
 
 ---
@@ -703,6 +896,94 @@ Content type: Publication, Preprint
 
 ---
 
+## Ten simple rules for making training materials FAIR
+
+['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+
+Published 2020-05-21
+
+Licensed CC-BY-4.0
+
+
+
+The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+
+Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+
+Content type: Publication
+
+[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
+
+---
+
+## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+
+['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+
+Published 2022-06-22
+
+Licensed UNKNOWN
+
+
+
+The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
+
+Tags: Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub)
+
+[https://doi.org/10.1016/j.jmb.2022.167505](https://doi.org/10.1016/j.jmb.2022.167505)
+
+
+---
+
+## The FAIR Guiding Principles for scientific data management and stewardship
+
+['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+
+Published 2016-03-15
+
+Licensed CC-BY-4.0
+
+
+
+This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
+
+Tags: FAIR-Principles, Research Data Management
+
+Content type: Publication
+
+[https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+
+---
+
+## The FAIR guiding principles for data stewardship - fair enough?
+
+['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+
+Published 2018-05-17
+
+Licensed CC-BY-4.0
+
+
+
+The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
+
+Tags: FAIR-Principles, Data Stewardship, Sharing
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
+
+
+---
+
 ## The Fiji Updater
 
 ['Robert Haase']
@@ -718,6 +999,50 @@ Tags: Imagej
 Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000112/](https://analyticalscience.wiley.com/do/10.1002/was.0004000112/)
+
+
+---
+
+## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+
+['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+
+Published 2005-05-03
+
+Licensed CC-BY-4.0
+
+
+
+The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+
+Tags: Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Publication
+
+[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
+
+[https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
+## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+
+['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+
+Published 2022-07-10
+
+Licensed UNKNOWN
+
+
+
+Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+
+Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
 
 
 ---

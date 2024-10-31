@@ -1,4 +1,46 @@
-# Omero (20)
+# Omero (29)
+## BIOMERO - A scalable and extensible image analysis framework
+
+['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+
+Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+
+Content type: Publication
+
+[https://doi.org/10.1016/j.patter.2024.101024](https://doi.org/10.1016/j.patter.2024.101024)
+
+
+---
+
+## Biomero
+
+['Torec Luik', 'Johannes Soltwedel']
+
+Published 2024-07-24
+
+Licensed APACHE-2.0
+
+
+
+The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
+
+Tags: OMERO, Github
+
+Content type: Github Repository
+
+[https://github.com/NL-BioImaging/biomero](https://github.com/NL-BioImaging/biomero)
+
+
+---
+
 ## Browsing the Open Microscopy Image Data Resource with Python
 
 ['Robert Haase']
@@ -12,6 +54,42 @@ Tags: OMERO, Python
 Content type: Blog
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
+
+
+---
+
+## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
+
+['SciPy', 'Erick Martins Ratamero']
+
+Published 2024-08-19
+
+Licensed YOUTTUBE STANDARD LICENSE
+
+
+
+Tags: Image Data Management, OMERO, Bioimage Analysis
+
+Content type: Video, Presentation
+
+[https://www.youtube.com/watch?v=GmhyDNm1RsM](https://www.youtube.com/watch?v=GmhyDNm1RsM)
+
+
+---
+
+## Fiji
+
+Licensed BSD-2-CLAUSE
+
+
+
+Fiji is a popular free open-source image processing package based on ImageJ.
+
+Tags: Imagej, OMERO
+
+Content type: Online Tutorial
+
+[https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html](https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html)
 
 
 ---
@@ -71,6 +149,42 @@ Content type: Slide, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## KNIME Image Processing
+
+None
+
+Licensed GPLV3
+
+
+
+The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+
+Tags: Imagej, OMERO, Bioimage Data, Workflow
+
+Content type: Tutorial, Online Tutorial, Documentation
+
+[https://www.knime.com/community/image-processing](https://www.knime.com/community/image-processing)
+
+
+---
+
+## Key-Value pairs scripts
+
+Licensed UNKNOWN
+
+
+
+The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+
+Tags: OMERO
+
+Content type: Documentation, Collection
+
+[https://guide-kvpairs-scripts.readthedocs.io/en/latest/](https://guide-kvpairs-scripts.readthedocs.io/en/latest/)
 
 
 ---
@@ -284,6 +398,63 @@ Tags: OMERO
 Content type: Collection, Video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## Plugin "omero-batch-plugin"
+
+Licensed GPL-2.0
+
+
+
+An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
+
+Tags: OMERO, Imagej, Imagej Macro, Github
+
+Content type: Github Repository
+
+[https://github.com/GReD-Clermont/omero_batch-plugin](https://github.com/GReD-Clermont/omero_batch-plugin)
+
+
+---
+
+## Plugin "omero-cli-transfer"
+
+['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+
+Published 2024-09-14
+
+Licensed GPL-2.0
+
+
+
+An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/ome/omero-cli-transfer](https://github.com/ome/omero-cli-transfer)
+
+
+---
+
+## Plugin "simple-omero-client"
+
+['Pierre Pouchin', 'Rdornier', 'kekunn', 'Jean-Marie Burel']
+
+Licensed GPL-2.0
+
+
+
+A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
+
+Tags: OMERO, Github, Fiji
+
+Content type: Github Repository
+
+[https://github.com/GReD-Clermont/simple-omero-client](https://github.com/GReD-Clermont/simple-omero-client)
 
 
 ---

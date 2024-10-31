@@ -1,4 +1,4 @@
-# Imagej (16)
+# Imagej (19)
 ## A Fiji Scripting Tutorial
 
 ['Albert Cardona']
@@ -48,6 +48,23 @@ Tags: Imagej, Bioimage Analysis
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-019-0650-1](https://doi.org/10.1038/s41592-019-0650-1)
+
+
+---
+
+## Fiji
+
+Licensed BSD-2-CLAUSE
+
+
+
+Fiji is a popular free open-source image processing package based on ImageJ.
+
+Tags: Imagej, OMERO
+
+Content type: Online Tutorial
+
+[https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html](https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html)
 
 
 ---
@@ -137,6 +154,25 @@ Content type: Publication, Documentation
 
 ---
 
+## KNIME Image Processing
+
+None
+
+Licensed GPLV3
+
+
+
+The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+
+Tags: Imagej, OMERO, Bioimage Data, Workflow
+
+Content type: Tutorial, Online Tutorial, Documentation
+
+[https://www.knime.com/community/image-processing](https://www.knime.com/community/image-processing)
+
+
+---
+
 ## Lecture Applied Bioimage Analysis 2020
 
 ['Robert Haase']
@@ -207,6 +243,23 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
+
+
+---
+
+## Plugin "omero-batch-plugin"
+
+Licensed GPL-2.0
+
+
+
+An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
+
+Tags: OMERO, Imagej, Imagej Macro, Github
+
+Content type: Github Repository
+
+[https://github.com/GReD-Clermont/omero_batch-plugin](https://github.com/GReD-Clermont/omero_batch-plugin)
 
 
 ---

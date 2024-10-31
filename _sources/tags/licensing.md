@@ -1,4 +1,4 @@
-# Licensing (5)
+# Licensing (6)
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
 ['Stephan Wünsche']
@@ -110,6 +110,23 @@ Content type: Slides
 [https://zenodo.org/records/10990107](https://zenodo.org/records/10990107)
 
 [https://doi.org/10.5281/zenodo.10990107](https://doi.org/10.5281/zenodo.10990107)
+
+
+---
+
+## Research data - what are the key issues to consider when publishing this kind of material?
+
+Licensed UNKNOWN
+
+
+
+The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+
+Tags: Research Data Management, FAIR-Principles, Licensing
+
+Content type: Tutorial
+
+[https://www.publisso.de/en/advice/publishing-advice-faqs/research-data](https://www.publisso.de/en/advice/publishing-advice-faqs/research-data)
 
 
 ---

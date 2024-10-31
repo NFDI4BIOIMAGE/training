@@ -1,4 +1,4 @@
-# Unknown (59)
+# Unknown (73)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -44,6 +44,27 @@ Licensed UNKNOWN
 
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
+
+
+---
+
+## Best practice data life cycle approaches for the life sciences
+
+['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+
+Published 2018-06-04
+
+Licensed UNKNOWN
+
+
+
+The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
+
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+
+Content type: Publication
+
+[https://doi.org/10.12688/f1000research.12344.2](https://doi.org/10.12688/f1000research.12344.2)
 
 
 ---
@@ -424,6 +445,46 @@ Content type: Tutorial, Book
 
 ---
 
+## Finding and Choosing a Data Repository
+
+['Christian Schmidt']
+
+Published 2023-07-01
+
+Licensed UNKNOWN
+
+
+
+Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+
+Tags: I3Dbio, Research Data Management
+
+Content type: Tutorial
+
+[https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/](https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/)
+
+
+---
+
+## Five great reasons to share your research data
+
+Published 2022-03-18
+
+Licensed UNKNOWN
+
+
+
+Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
+
+Tags: Research Data Management, Sharing
+
+Content type: Blog Post
+
+[https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
+
+
+---
+
 ## Fundamentals in digital image processing
 
 ['Guillaume Witz']
@@ -452,6 +513,44 @@ List of training materials by the German BioImaging community provided by facili
 Content type: Collection
 
 [https://gerbi-gmb.de/resources/teaching-resources/](https://gerbi-gmb.de/resources/teaching-resources/)
+
+
+---
+
+## Ghent University Research Data Management (RDM) - policy and support
+
+['University of Ghent']
+
+Licensed UNKNOWN
+
+
+
+The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.ugent.be/en/research/openscience/datamanagement](https://www.ugent.be/en/research/openscience/datamanagement)
+
+
+---
+
+## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+
+['Christian Schmidt']
+
+Licensed UNKNOWN
+
+
+
+A Microscopy Research Data Management Resource.
+
+Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/](https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/)
 
 
 ---
@@ -552,6 +651,23 @@ Tags: Neubias, Bioimage Analysis
 Content type: Slide
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
+
+
+---
+
+## Key-Value pairs scripts
+
+Licensed UNKNOWN
+
+
+
+The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+
+Tags: OMERO
+
+Content type: Documentation, Collection
+
+[https://guide-kvpairs-scripts.readthedocs.io/en/latest/](https://guide-kvpairs-scripts.readthedocs.io/en/latest/)
 
 
 ---
@@ -739,6 +855,23 @@ Content type: Slide, Code, Notebook
 
 ---
 
+## NFDI - Daten als gemeinsames Gut für exzellente Forschung, organisiert durch die Wissenschaft in Deutschland.
+
+Licensed UNKNOWN
+
+
+
+Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+Content type: Website
+
+[https://www.nfdi.de/](https://www.nfdi.de/)
+
+
+---
+
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
 ['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
@@ -831,6 +964,84 @@ Content type: Collection, Video
 
 ---
 
+## RDMO - Research Data Management Organiser
+
+Licensed UNKNOWN
+
+
+
+Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
+
+Tags: Research Data Management
+
+Content type: Open Source Software, Website, Online Tutorial
+
+[https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
+
+
+---
+
+## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+
+['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+
+Published 2021-05-21
+
+Licensed UNKNOWN
+
+
+
+Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
+
+Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+
+Content type: Publication
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/)
+
+[https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
+
+[https://doi.org/10.1038/s41592-021-01166-8](https://doi.org/10.1038/s41592-021-01166-8)
+
+
+---
+
+## Reporting and reproducibility in microscopy
+
+Published 2021-12-03
+
+Licensed UNKNOWN
+
+
+
+This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
+
+Tags: Reproducibility, Metadata, Bioimage Data
+
+Content type: Collection
+
+[https://www.nature.com/collections/djiciihhjh](https://www.nature.com/collections/djiciihhjh)
+
+
+---
+
+## Research data - what are the key issues to consider when publishing this kind of material?
+
+Licensed UNKNOWN
+
+
+
+The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+
+Tags: Research Data Management, FAIR-Principles, Licensing
+
+Content type: Tutorial
+
+[https://www.publisso.de/en/advice/publishing-advice-faqs/research-data](https://www.publisso.de/en/advice/publishing-advice-faqs/research-data)
+
+
+---
+
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
 ['Marion Louveaux']
@@ -904,6 +1115,65 @@ Tags: Bioinformatics
 Content type: Collection
 
 [https://tess.elixir-europe.org/materials](https://tess.elixir-europe.org/materials)
+
+
+---
+
+## Tess Search for Data Life Cycle
+
+Licensed UNKNOWN
+
+
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection
+
+[https://tess.elixir-europe.org/search?q=data+life+cycle#materials](https://tess.elixir-europe.org/search?q=data+life+cycle#materials)
+
+
+---
+
+## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+
+['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+
+Published 2022-06-22
+
+Licensed UNKNOWN
+
+
+
+The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
+
+Tags: Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub)
+
+[https://doi.org/10.1016/j.jmb.2022.167505](https://doi.org/10.1016/j.jmb.2022.167505)
+
+
+---
+
+## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+
+['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+
+Published 2022-07-10
+
+Licensed UNKNOWN
+
+
+
+Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+
+Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
 
 
 ---

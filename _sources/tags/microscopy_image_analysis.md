@@ -1,4 +1,4 @@
-# Microscopy image analysis (5)
+# Microscopy image analysis (9)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -56,6 +56,27 @@ Content type: Slides
 
 ---
 
+## Checklists for publishing images and image analysis
+
+['Christopher Schmied']
+
+Published 2023-09-14
+
+Licensed CC0-1.0
+
+
+
+In this paper we introduce two sets of checklists. One is concerned with the publication of images. The other one gives instructions for the publication of image analysis.
+
+Tags: Bioimage Data, Microscopy Image Analysis
+
+Content type: Forum Post
+
+[https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304](https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304)
+
+
+---
+
 ## FAIRy deep-learning for bioImage analysis
 
 ['Estibaliz Gómez de Mariscal']
@@ -90,6 +111,69 @@ Tags: Microscopy Image Analysis, Python, Deep Learning
 Content type: Videos, Practicals, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
+## Open Micoscropy Environment (OME) Youtube Channel
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+
+Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
+
+
+---
+
+## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+
+['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+
+Published 2005-05-03
+
+Licensed CC-BY-4.0
+
+
+
+The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+
+Tags: Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Publication
+
+[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
+
+[https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
+## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+
+['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+
+Published 2022-07-10
+
+Licensed UNKNOWN
+
+
+
+Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+
+Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
 
 
 ---

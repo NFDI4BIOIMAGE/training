@@ -1,4 +1,4 @@
-# Tutorial (16)
+# Tutorial (24)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
@@ -16,6 +16,21 @@ Content type: Tutorial
 
 ---
 
+## Creating Workflows and Advanced Workflow Options
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Workflow
+
+Content type: Tutorial, Online Tutorial
+
+[https://galaxyproject.org/learn/advanced-workflow/](https://galaxyproject.org/learn/advanced-workflow/)
+
+
+---
+
 ## Data Carpentry for Biologists
 
 Licensed ['CC-BY-4.0', 'MIT']
@@ -25,6 +40,29 @@ Licensed ['CC-BY-4.0', 'MIT']
 Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
+
+
+---
+
+## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+
+['Lienhard Wegewitz', 'F. Strauß']
+
+Published 2020-03-23
+
+Licensed AGPL-3.0
+
+
+
+Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+
+Tags: Research Data Management
+
+Content type: Documentation, Document, Tutorial
+
+[https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
+
+[https://www.elabftw.net/](https://www.elabftw.net/)
 
 
 ---
@@ -95,6 +133,46 @@ Content type: Collection, Tutorial
 
 ---
 
+## Finding and Choosing a Data Repository
+
+['Christian Schmidt']
+
+Published 2023-07-01
+
+Licensed UNKNOWN
+
+
+
+Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+
+Tags: I3Dbio, Research Data Management
+
+Content type: Tutorial
+
+[https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/](https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/)
+
+
+---
+
+## Galaxy Training
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+Collection of tutorials developed and maintained by the worldwide Galaxy community.
+
+Tags: Bioimage Analysis, Data Analysis
+
+Content type: Collection, Tutorial
+
+[https://training.galaxyproject.org/](https://training.galaxyproject.org/)
+
+
+---
+
 ## Galaxy Training Material
 
 Licensed MIT
@@ -104,6 +182,42 @@ Licensed MIT
 Content type: Slides, Tutorial
 
 [https://github.com/galaxyproject/training-material](https://github.com/galaxyproject/training-material)
+
+
+---
+
+## Galaxy workflows
+
+Licensed CC0-1.0
+
+
+
+A workflow is a chain of analysis steps. In Galaxy, we can create a workflow from an existing analysis history, or we can create one visually by adding tools to a canvas. This tutorial covers building a workflow to analyse a bacterial genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
+
+Tags: Workflow
+
+Content type: Online Tutorial, Tutorial
+
+[https://galaxy-au-training.github.io/tutorials/modules/workflows/](https://galaxy-au-training.github.io/tutorials/modules/workflows/)
+
+
+---
+
+## KNIME Image Processing
+
+None
+
+Licensed GPLV3
+
+
+
+The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+
+Tags: Imagej, OMERO, Bioimage Data, Workflow
+
+Content type: Tutorial, Online Tutorial, Documentation
+
+[https://www.knime.com/community/image-processing](https://www.knime.com/community/image-processing)
 
 
 ---
@@ -187,6 +301,23 @@ Content type: Tutorial
 
 ---
 
+## Research data - what are the key issues to consider when publishing this kind of material?
+
+Licensed UNKNOWN
+
+
+
+The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+
+Tags: Research Data Management, FAIR-Principles, Licensing
+
+Content type: Tutorial
+
+[https://www.publisso.de/en/advice/publishing-advice-faqs/research-data](https://www.publisso.de/en/advice/publishing-advice-faqs/research-data)
+
+
+---
+
 ## Setting up a remote desktop to use Napari in a browser
 
 ['Volker Hilsenstein']
@@ -226,6 +357,23 @@ Licensed UNKNOWN
 Content type: Tutorial
 
 [https://github.com/JaneliaSciComp/2020AprilGitCourse](https://github.com/JaneliaSciComp/2020AprilGitCourse)
+
+
+---
+
+## Submitting data to the BioImage Archive
+
+Licensed CC0-1.0
+
+
+
+To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Tutorial, Video
+
+[https://www.ebi.ac.uk/bioimage-archive/submit/](https://www.ebi.ac.uk/bioimage-archive/submit/)
 
 
 ---

@@ -1,4 +1,4 @@
-# Research data management (77)
+# Research data management (106)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -88,6 +88,23 @@ Content type: Publication
 
 ---
 
+## Abstract - NFDI Basic Service for Data Management Plans
+
+Licensed CC-BY-4.0
+
+
+
+The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
+
+Tags: Research Data Management
+
+Content type: Document
+
+[https://base4nfdi.de/images/AbstractDMP4NFDI.pdf](https://base4nfdi.de/images/AbstractDMP4NFDI.pdf)
+
+
+---
+
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
 ['Stephan Wünsche']
@@ -109,6 +126,27 @@ Content type: Slides
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 [https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
+
+---
+
+## Best practice data life cycle approaches for the life sciences
+
+['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+
+Published 2018-06-04
+
+Licensed UNKNOWN
+
+
+
+The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
+
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+
+Content type: Publication
+
+[https://doi.org/10.12688/f1000research.12344.2](https://doi.org/10.12688/f1000research.12344.2)
 
 
 ---
@@ -299,6 +337,27 @@ Content type: Slides
 
 ---
 
+## Creating a Research Data Management Plan using chatGPT
+
+['Robert Haase']
+
+Published 2023-11-06
+
+Licensed CC-BY-4.0
+
+
+
+In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+
+Tags: Research Data Management, Large Language Models, Artificial Intelligence
+
+Content type: Blog
+
+[https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
 ## Cultivating Open Training
 
 ['Robert Haase']
@@ -347,6 +406,23 @@ Content type: Slides
 
 ---
 
+## Data Stewardship Wizard
+
+Licensed UNKOWN
+
+
+
+Leading open-source platform for collaborative and living data management plans.
+
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+
+Content type: Website, Online Tutorial
+
+[https://ds-wizard.org/](https://ds-wizard.org/)
+
+
+---
+
 ## Data handling in large-scale electron microscopy
 
 ['Job Fermie']
@@ -358,6 +434,61 @@ Tags: Research Data Management
 Content type: Blog
 
 [https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy](https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy)
+
+
+---
+
+## Data life cycle
+
+['ELIXIR (2021) Research Data Management Kit']
+
+Licensed CC-BY-4.0
+
+
+
+In this section, information is organised according to the stages of the research data life cycle.
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection, Website, Online Tutorial
+
+[https://rdmkit.elixir-europe.org/data_life_cycle](https://rdmkit.elixir-europe.org/data_life_cycle)
+
+
+---
+
+## Data management at France BioImaging
+
+Published 2023-07-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+
+Content type: Slides, Presentation
+
+[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+
+
+---
+
+## DataPLANT knowledge base
+
+Published 2022-12-14
+
+Licensed CC-BY-4.0
+
+
+
+Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
+
+Tags: Research Data Management, Training, Dataplant
+
+Content type: Collection
+
+[https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html)
 
 
 ---
@@ -467,6 +598,29 @@ Content type: Slides
 
 ---
 
+## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+
+['Lienhard Wegewitz', 'F. Strauß']
+
+Published 2020-03-23
+
+Licensed AGPL-3.0
+
+
+
+Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+
+Tags: Research Data Management
+
+Content type: Documentation, Document, Tutorial
+
+[https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
+
+[https://www.elabftw.net/](https://www.elabftw.net/)
+
+
+---
+
 ## Efficiently starting institutional research data management
 
 ['Katarzyna Biernacka', 'Katrin Cortez', 'Kerstin Helbig']
@@ -512,6 +666,29 @@ Content type: Slides
 [https://zenodo.org/records/4748510](https://zenodo.org/records/4748510)
 
 [https://doi.org/10.5281/zenodo.4748510](https://doi.org/10.5281/zenodo.4748510)
+
+
+---
+
+## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
+
+['Uli Hahn', 'Kerstin Helbig', 'Gerald Jagusch', 'Jessica Rex']
+
+Published  2018-10-22
+
+Licensed CC-BY-4.0
+
+
+
+Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://bausteine-fdm.de/article/view/7945](https://bausteine-fdm.de/article/view/7945)
+
+[https://doi.org/10.17192/bfdm.2018.1.7945](https://doi.org/10.17192/bfdm.2018.1.7945)
 
 
 ---
@@ -578,6 +755,65 @@ Content type: Collection, Video
 
 ---
 
+## FAIR High Content Screening in Bioimaging
+
+['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+
+Published 2023-07-17
+
+Licensed CC-BY-4.0
+
+
+
+The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+
+Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## FAIR Priciples
+
+Licensed CC-BY-4.0
+
+
+
+In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+
+Tags: FAIR-Principles, Data Stewardship, Research Data Management
+
+Content type: Collection
+
+[https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
+
+
+---
+
+## Finding and Choosing a Data Repository
+
+['Christian Schmidt']
+
+Published 2023-07-01
+
+Licensed UNKNOWN
+
+
+
+Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+
+Tags: I3Dbio, Research Data Management
+
+Content type: Tutorial
+
+[https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/](https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/)
+
+
+---
+
 ## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
 
 
@@ -589,6 +825,25 @@ Tags: Bioimage Analysis, OMERO, Research Data Management
 Content type: Workshop
 
 [https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
+
+
+---
+
+## Five great reasons to share your research data
+
+Published 2022-03-18
+
+Licensed UNKNOWN
+
+
+
+Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
+
+Tags: Research Data Management, Sharing
+
+Content type: Blog Post
+
+[https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
 
 ---
@@ -655,6 +910,46 @@ Content type: Slides
 
 ---
 
+## Ghent University Research Data Management (RDM) - policy and support
+
+['University of Ghent']
+
+Licensed UNKNOWN
+
+
+
+The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.ugent.be/en/research/openscience/datamanagement](https://www.ugent.be/en/research/openscience/datamanagement)
+
+
+---
+
+## Guidance for Developing a Research Data Management (RDM) Policy
+
+Published 2017
+
+Licensed CC-BY-4.0
+
+
+
+This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+
+Tags: Research Data Management
+
+Content type: Book Chapter
+
+[https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf](https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf)
+
+[https://doi.org/10.14324/000.learn.27](https://doi.org/10.14324/000.learn.27)
+
+
+---
+
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
 ['Riccardo Massei']
@@ -670,6 +965,25 @@ Tags: Research Data Management
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10793699](https://zenodo.org/doi/10.5281/zenodo.10793699)
+
+
+---
+
+## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+
+['Christian Schmidt']
+
+Licensed UNKNOWN
+
+
+
+A Microscopy Research Data Management Resource.
+
+Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/](https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/)
 
 
 ---
@@ -765,6 +1079,27 @@ Content type: Slides
 
 ---
 
+## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+
+['Bea Hiemenz', 'Monika Kuberek']
+
+Published 2018-07-13
+
+Licensed CC-BY-4.0
+
+
+
+As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
+
+Tags: Research Data Management, FAIR-Principles
+
+Content type: Publication
+
+[https://www.o-bib.de/bib/article/view/2018H2S1-13](https://www.o-bib.de/bib/article/view/2018H2S1-13)
+
+
+---
+
 ## Lund Declaration on Maximising the Benefits of Research Data
 
 
@@ -810,6 +1145,44 @@ Content type: Tutorial
 
 ---
 
+## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+
+['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+
+Published 2022-04-19
+
+Licensed CC-BY-4.0
+
+
+
+The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full)
+
+
+---
+
+## NFDI - Daten als gemeinsames Gut für exzellente Forschung, organisiert durch die Wissenschaft in Deutschland.
+
+Licensed UNKNOWN
+
+
+
+Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+Content type: Website
+
+[https://www.nfdi.de/](https://www.nfdi.de/)
+
+
+---
+
 ## NFDI4BIOIMAGE
 
 ['Carsten Fortmann.Grote']
@@ -833,15 +1206,19 @@ Content type: Slides
 
 ['Christian Schmidt', 'Elisa Ferrando-May']
 
-Licensed CC-BY-SA-4.0
+Published 2021-04-29
+
+Licensed CCY-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Content type: Poster, Publication
+Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management
 
-[https://archiv.ub.uni-heidelberg.de/volltextserver/29489/](https://archiv.ub.uni-heidelberg.de/volltextserver/29489/)
+Content type: Conference Abstract, Slide
+
+[https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
 
 
 ---
@@ -1064,6 +1441,25 @@ Content type: Slides
 
 ---
 
+## RDM Starter Kit
+
+['GO FAIR']
+
+Licensed CC-BY-4.0
+
+
+
+This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.go-fair.org/resources/rdm-starter-kit/](https://www.go-fair.org/resources/rdm-starter-kit/)
+
+
+---
+
 ## RDM4Mic Presentations
 
 Licensed CC-BY-4.0
@@ -1109,19 +1505,61 @@ Content type: Collection
 
 ---
 
-## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+## RDMO - Research Data Management Organiser
 
-['Ugis Sarkans', 'et al.']
-
-Licensed ALL RIGHTS RESERVED
+Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Metadata
+Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
+
+Tags: Research Data Management
+
+Content type: Open Source Software, Website, Online Tutorial
+
+[https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
+
+
+---
+
+## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+
+['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+
+Published 2021-05-21
+
+Licensed UNKNOWN
+
+
+
+Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
+
+Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
 
 Content type: Publication
 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/)
+
 [https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
+
+[https://doi.org/10.1038/s41592-021-01166-8](https://doi.org/10.1038/s41592-021-01166-8)
+
+
+---
+
+## REMBI Overview
+
+Licensed CC0-1.0
+
+
+
+Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
+
+Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/](https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/)
 
 
 ---
@@ -1154,6 +1592,44 @@ Content type: Slide
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
 [https://doi.org/10.5281/zenodo.6602101](https://doi.org/10.5281/zenodo.6602101)
+
+
+---
+
+## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
+
+['Costantino Thanos']
+
+Published 2017-01-09
+
+Licensed CC-BY-4.0
+
+
+
+This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
+
+Tags: Research Data Management, Open Science, Data Protection
+
+Content type: Publication
+
+[https://www.mdpi.com/2304-6775/5/1/2](https://www.mdpi.com/2304-6775/5/1/2)
+
+
+---
+
+## Research data - what are the key issues to consider when publishing this kind of material?
+
+Licensed UNKNOWN
+
+
+
+The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+
+Tags: Research Data Management, FAIR-Principles, Licensing
+
+Content type: Tutorial
+
+[https://www.publisso.de/en/advice/publishing-advice-faqs/research-data](https://www.publisso.de/en/advice/publishing-advice-faqs/research-data)
 
 
 ---
@@ -1310,6 +1786,23 @@ Content type: Video
 
 ---
 
+## Submitting data to the BioImage Archive
+
+Licensed CC0-1.0
+
+
+
+To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Tutorial, Video
+
+[https://www.ebi.ac.uk/bioimage-archive/submit/](https://www.ebi.ac.uk/bioimage-archive/submit/)
+
+
+---
+
 ## Sustainable Data Stewardship
 
 ['Stefano Della Chiesa']
@@ -1329,6 +1822,67 @@ Content type: Slides
 [https://zenodo.org/records/10942559](https://zenodo.org/records/10942559)
 
 [https://doi.org/10.5281/zenodo.10942559](https://doi.org/10.5281/zenodo.10942559)
+
+
+---
+
+## Tess Search for Data Life Cycle
+
+Licensed UNKNOWN
+
+
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection
+
+[https://tess.elixir-europe.org/search?q=data+life+cycle#materials](https://tess.elixir-europe.org/search?q=data+life+cycle#materials)
+
+
+---
+
+## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+
+['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+
+Published 2022-06-22
+
+Licensed UNKNOWN
+
+
+
+The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
+
+Tags: Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub)
+
+[https://doi.org/10.1016/j.jmb.2022.167505](https://doi.org/10.1016/j.jmb.2022.167505)
+
+
+---
+
+## The FAIR Guiding Principles for scientific data management and stewardship
+
+['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+
+Published 2016-03-15
+
+Licensed CC-BY-4.0
+
+
+
+This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
+
+Tags: FAIR-Principles, Research Data Management
+
+Content type: Publication
+
+[https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
 
 ---
@@ -1510,6 +2064,23 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+
+---
+
+## re3data.org - registry of Research Data Repositories
+
+Licensed CC-BY-4.0
+
+
+
+Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.re3data.org/](https://www.re3data.org/)
 
 
 ---

@@ -65,7 +65,7 @@ Content type: Collection, Data
 
 
 
-Content type: Collection, Data, Publiction
+Content type: Collection, Data, Publication
 
 [https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
 

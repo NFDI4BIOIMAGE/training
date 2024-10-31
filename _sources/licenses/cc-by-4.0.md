@@ -1,4 +1,4 @@
-# Cc-by-4.0 (118)
+# Cc-by-4.0 (144)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -96,6 +96,23 @@ Content type: Publication
 
 ---
 
+## Abstract - NFDI Basic Service for Data Management Plans
+
+Licensed CC-BY-4.0
+
+
+
+The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
+
+Tags: Research Data Management
+
+Content type: Document
+
+[https://base4nfdi.de/images/AbstractDMP4NFDI.pdf](https://base4nfdi.de/images/AbstractDMP4NFDI.pdf)
+
+
+---
+
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
 ['Stephan Wünsche']
@@ -136,6 +153,27 @@ Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## BIOMERO - A scalable and extensible image analysis framework
+
+['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+
+Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+
+Content type: Publication
+
+[https://doi.org/10.1016/j.patter.2024.101024](https://doi.org/10.1016/j.patter.2024.101024)
 
 
 ---
@@ -314,6 +352,25 @@ Content type: Collection
 
 ---
 
+## BioFormats Command line (CLI) tools
+
+Published 2024-10-24
+
+Licensed CC-BY-4.0
+
+
+
+Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
+
+Tags: Bioimage Data
+
+Content type: Documentation
+
+[https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html](https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html)
+
+
+---
+
 ## BioImage Analysis Notebooks
 
 ['Robert Haase et al.']
@@ -466,6 +523,42 @@ Content type: Slides
 
 ---
 
+## Creating Workflows and Advanced Workflow Options
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Workflow
+
+Content type: Tutorial, Online Tutorial
+
+[https://galaxyproject.org/learn/advanced-workflow/](https://galaxyproject.org/learn/advanced-workflow/)
+
+
+---
+
+## Creating a Research Data Management Plan using chatGPT
+
+['Robert Haase']
+
+Published 2023-11-06
+
+Licensed CC-BY-4.0
+
+
+
+In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+
+Tags: Research Data Management, Large Language Models, Artificial Intelligence
+
+Content type: Blog
+
+[https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
 ## Creating open computational curricula
 
 ['Kari Jordan', 'Zhian Kamvar', 'Toby Hodges']
@@ -559,6 +652,44 @@ Licensed ['CC-BY-4.0', 'MIT']
 Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
+
+
+---
+
+## Data life cycle
+
+['ELIXIR (2021) Research Data Management Kit']
+
+Licensed CC-BY-4.0
+
+
+
+In this section, information is organised according to the stages of the research data life cycle.
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection, Website, Online Tutorial
+
+[https://rdmkit.elixir-europe.org/data_life_cycle](https://rdmkit.elixir-europe.org/data_life_cycle)
+
+
+---
+
+## DataPLANT knowledge base
+
+Published 2022-12-14
+
+Licensed CC-BY-4.0
+
+
+
+Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
+
+Tags: Research Data Management, Training, Dataplant
+
+Content type: Collection
+
+[https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html)
 
 
 ---
@@ -791,6 +922,29 @@ Content type: Slides
 
 ---
 
+## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
+
+['Uli Hahn', 'Kerstin Helbig', 'Gerald Jagusch', 'Jessica Rex']
+
+Published  2018-10-22
+
+Licensed CC-BY-4.0
+
+
+
+Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://bausteine-fdm.de/article/view/7945](https://bausteine-fdm.de/article/view/7945)
+
+[https://doi.org/10.17192/bfdm.2018.1.7945](https://doi.org/10.17192/bfdm.2018.1.7945)
+
+
+---
+
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
 ['Isabel Kemmer', 'Euro-BioImaging ERIC']
@@ -849,6 +1003,44 @@ Tags: Research Data Management, Fair, Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm](https://www.youtube.com/watch?v=8zd4KTy-oYI&list=PLW-oxncaXRqU4XqduJzwFHvWLF06PvdVm)
+
+
+---
+
+## FAIR High Content Screening in Bioimaging
+
+['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+
+Published 2023-07-17
+
+Licensed CC-BY-4.0
+
+
+
+The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+
+Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## FAIR Priciples
+
+Licensed CC-BY-4.0
+
+
+
+In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+
+Tags: FAIR-Principles, Data Stewardship, Research Data Management
+
+Content type: Collection
+
+[https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
 
 
 ---
@@ -936,6 +1128,25 @@ Content type: Slides
 
 ---
 
+## Galaxy Training
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+Collection of tutorials developed and maintained by the worldwide Galaxy community.
+
+Tags: Bioimage Analysis, Data Analysis
+
+Content type: Collection, Tutorial
+
+[https://training.galaxyproject.org/](https://training.galaxyproject.org/)
+
+
+---
+
 ## Generative artificial intelligence for bio-image analysis
 
 ['Robert Haase']
@@ -986,6 +1197,27 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 [https://zenodo.org/records/13908480](https://zenodo.org/records/13908480)
 
 [https://doi.org/10.5281/zenodo.13908480](https://doi.org/10.5281/zenodo.13908480)
+
+
+---
+
+## Guidance for Developing a Research Data Management (RDM) Policy
+
+Published 2017
+
+Licensed CC-BY-4.0
+
+
+
+This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+
+Tags: Research Data Management
+
+Content type: Book Chapter
+
+[https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf](https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf)
+
+[https://doi.org/10.14324/000.learn.27](https://doi.org/10.14324/000.learn.27)
 
 
 ---
@@ -1043,6 +1275,29 @@ Tags: Bioimage Analysis, Neubias
 Content type: Publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
+
+
+---
+
+## Hitchhiking through a diverse Bio-image Analysis Software Universe
+
+['Robert Haase']
+
+Published 2022-07-22
+
+Licensed CC-BY-4.0
+
+
+
+Overview about decision making and how to influence decisions in the bio-image analysis software context.
+
+Tags: Bioimage Analysis
+
+Content type: Slide, Presentation
+
+[https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
+
+[https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
 
 
 ---
@@ -1208,6 +1463,27 @@ Large Language Models (LLMs) are changing the way how humans interact with compu
 
 ---
 
+## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+
+['Bea Hiemenz', 'Monika Kuberek']
+
+Published 2018-07-13
+
+Licensed CC-BY-4.0
+
+
+
+As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
+
+Tags: Research Data Management, FAIR-Principles
+
+Content type: Publication
+
+[https://www.o-bib.de/bib/article/view/2018H2S1-13](https://www.o-bib.de/bib/article/view/2018H2S1-13)
+
+
+---
+
 ## Making your package available on conda-forge
 
 ['Kevin Yamauchi']
@@ -1323,6 +1599,50 @@ Tags: Microscopy Image Analysis, Python, Deep Learning
 Content type: Videos, Practicals, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
+## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+
+['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+
+Published 2022-04-19
+
+Licensed CC-BY-4.0
+
+
+
+The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full)
+
+
+---
+
+## Modeling community standards for metadata as templates makes data FAIR
+
+['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+
+Published 2022-11-12
+
+Licensed CC-BY-4.0
+
+
+
+The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+
+Tags: Data Stewardship, FAIR-Principles, Metadata
+
+Content type: Publication
+
+[https://pubmed.ncbi.nlm.nih.gov/36371407/](https://pubmed.ncbi.nlm.nih.gov/36371407/)
+
+[https://www.nature.com/articles/s41597-022-01815-3](https://www.nature.com/articles/s41597-022-01815-3)
 
 
 ---
@@ -1573,6 +1893,25 @@ Content type: Book, Notebook
 
 ---
 
+## Open Micoscropy Environment (OME) Youtube Channel
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+
+Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@OpenMicroscopyEnvironment](https://www.youtube.com/@OpenMicroscopyEnvironment)
+
+
+---
+
 ## Open Science, Sharing & Licensing
 
 ['Robert Haase']
@@ -1763,6 +2102,25 @@ Content type: Slides
 
 ---
 
+## RDM Starter Kit
+
+['GO FAIR']
+
+Licensed CC-BY-4.0
+
+
+
+This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.go-fair.org/resources/rdm-starter-kit/](https://www.go-fair.org/resources/rdm-starter-kit/)
+
+
+---
+
 ## RDM4Mic Presentations
 
 Licensed CC-BY-4.0
@@ -1789,6 +2147,27 @@ Tags: Research Data Management
 Content type: Collection
 
 [https://rdmkit.elixir-europe.org/all_training_resources](https://rdmkit.elixir-europe.org/all_training_resources)
+
+
+---
+
+## Rechtsfragen bei Open Science - Ein Leitfaden
+
+['Till Kreutzer', 'Henning Lahmann']
+
+Published 2021-05-25
+
+Licensed CC-BY-4.0
+
+
+
+Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
+
+Tags: Open Science, Open Access, Copyright
+
+Content type: Book
+
+[https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205](https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205)
 
 
 ---
@@ -1821,6 +2200,27 @@ Content type: Slide
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
 [https://doi.org/10.5281/zenodo.6602101](https://doi.org/10.5281/zenodo.6602101)
+
+
+---
+
+## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
+
+['Costantino Thanos']
+
+Published 2017-01-09
+
+Licensed CC-BY-4.0
+
+
+
+This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
+
+Tags: Research Data Management, Open Science, Data Protection
+
+Content type: Publication
+
+[https://www.mdpi.com/2304-6775/5/1/2](https://www.mdpi.com/2304-6775/5/1/2)
 
 
 ---
@@ -1987,6 +2387,94 @@ Content type: Slides
 
 ---
 
+## Ten simple rules for making training materials FAIR
+
+['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+
+Published 2020-05-21
+
+Licensed CC-BY-4.0
+
+
+
+The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+
+Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+
+Content type: Publication
+
+[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
+
+---
+
+## The FAIR Guiding Principles for scientific data management and stewardship
+
+['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+
+Published 2016-03-15
+
+Licensed CC-BY-4.0
+
+
+
+This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
+
+Tags: FAIR-Principles, Research Data Management
+
+Content type: Publication
+
+[https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+
+---
+
+## The FAIR guiding principles for data stewardship - fair enough?
+
+['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+
+Published 2018-05-17
+
+Licensed CC-BY-4.0
+
+
+
+The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
+
+Tags: FAIR-Principles, Data Stewardship, Sharing
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
+
+
+---
+
+## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+
+['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+
+Published 2005-05-03
+
+Licensed CC-BY-4.0
+
+
+
+The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+
+Tags: Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Publication
+
+[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
+
+[https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
 ## The Turing Way: Guide for reproducible research
 
 Licensed ['CC-BY-4.0', 'MIT']
@@ -2118,6 +2606,25 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## What is Open Data?
+
+['Daniel Dietrich', 'Jonathan Gray', 'Tim McNamara', 'Antti Poikola', 'Rufus Pollock', 'et al.']
+
+Licensed CC-BY-4.0
+
+
+
+This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
+
+Tags: Open Science
+
+Content type: Collection
+
+[http://opendatahandbook.org/guide/en/what-is-open-data/](http://opendatahandbook.org/guide/en/what-is-open-data/)
 
 
 ---
@@ -2350,6 +2857,23 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## re3data.org - registry of Research Data Repositories
+
+Licensed CC-BY-4.0
+
+
+
+Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
+
+Tags: Research Data Management
+
+Content type: Website
+
+[https://www.re3data.org/](https://www.re3data.org/)
 
 
 ---

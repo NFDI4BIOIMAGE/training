@@ -1,4 +1,4 @@
-# Collection (58)
+# Collection (69)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
@@ -164,7 +164,7 @@ Content type: Collection
 
 
 
-Content type: Collection, Data, Publiction
+Content type: Collection, Data, Publication
 
 [https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
 
@@ -319,6 +319,44 @@ Content type: Notebook, Collection
 
 ---
 
+## Data life cycle
+
+['ELIXIR (2021) Research Data Management Kit']
+
+Licensed CC-BY-4.0
+
+
+
+In this section, information is organised according to the stages of the research data life cycle.
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection, Website, Online Tutorial
+
+[https://rdmkit.elixir-europe.org/data_life_cycle](https://rdmkit.elixir-europe.org/data_life_cycle)
+
+
+---
+
+## DataPLANT knowledge base
+
+Published 2022-12-14
+
+Licensed CC-BY-4.0
+
+
+
+Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
+
+Tags: Research Data Management, Training, Dataplant
+
+Content type: Collection
+
+[https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html)
+
+
+---
+
 ## DigitalSreeni YouTube Channel
 
 ['Sreeni Bhattiprolu']
@@ -407,6 +445,23 @@ Content type: Collection, Video
 
 ---
 
+## FAIR Priciples
+
+Licensed CC-BY-4.0
+
+
+
+In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+
+Tags: FAIR-Principles, Data Stewardship, Research Data Management
+
+Content type: Collection
+
+[https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
+
+
+---
+
 ## Fiji Is Just ImageJ Tutorials
 
 
@@ -450,6 +505,25 @@ Tags: Research Data Management
 Content type: Collection
 
 [https://www.forschungsdaten.org/](https://www.forschungsdaten.org/)
+
+
+---
+
+## Galaxy Training
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+Collection of tutorials developed and maintained by the worldwide Galaxy community.
+
+Tags: Bioimage Analysis, Data Analysis
+
+Content type: Collection, Tutorial
+
+[https://training.galaxyproject.org/](https://training.galaxyproject.org/)
 
 
 ---
@@ -512,6 +586,25 @@ Content type: Collection
 
 ---
 
+## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+
+['Christian Schmidt']
+
+Licensed UNKNOWN
+
+
+
+A Microscopy Research Data Management Resource.
+
+Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/](https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/)
+
+
+---
+
 ## I3D:bio list of online training material
 
 Licensed UNKNOWN
@@ -568,6 +661,23 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
+
+
+---
+
+## Key-Value pairs scripts
+
+Licensed UNKNOWN
+
+
+
+The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+
+Tags: OMERO
+
+Content type: Documentation, Collection
+
+[https://guide-kvpairs-scripts.readthedocs.io/en/latest/](https://guide-kvpairs-scripts.readthedocs.io/en/latest/)
 
 
 ---
@@ -761,6 +871,42 @@ Content type: Collection
 
 ---
 
+## REMBI Overview
+
+Licensed CC0-1.0
+
+
+
+Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
+
+Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/](https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/)
+
+
+---
+
+## Reporting and reproducibility in microscopy
+
+Published 2021-12-03
+
+Licensed UNKNOWN
+
+
+
+This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
+
+Tags: Reproducibility, Metadata, Bioimage Data
+
+Content type: Collection
+
+[https://www.nature.com/collections/djiciihhjh](https://www.nature.com/collections/djiciihhjh)
+
+
+---
+
 ## TESS Event database
 
 
@@ -785,6 +931,59 @@ Tags: Bioinformatics
 Content type: Collection
 
 [https://tess.elixir-europe.org/materials](https://tess.elixir-europe.org/materials)
+
+
+---
+
+## Tess Search for Data Life Cycle
+
+Licensed UNKNOWN
+
+
+
+Tags: Data Life Cycle, Research Data Management
+
+Content type: Collection
+
+[https://tess.elixir-europe.org/search?q=data+life+cycle#materials](https://tess.elixir-europe.org/search?q=data+life+cycle#materials)
+
+
+---
+
+## What is Open Data?
+
+['Daniel Dietrich', 'Jonathan Gray', 'Tim McNamara', 'Antti Poikola', 'Rufus Pollock', 'et al.']
+
+Licensed CC-BY-4.0
+
+
+
+This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
+
+Tags: Open Science
+
+Content type: Collection
+
+[http://opendatahandbook.org/guide/en/what-is-open-data/](http://opendatahandbook.org/guide/en/what-is-open-data/)
+
+
+---
+
+## WorkflowHub
+
+['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+
+Licensed BSD-3-CLAUSE
+
+
+
+A registry for describing, sharing and publishing scientific computational workflows.
+
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+
+Content type: Collection
+
+[https://workflowhub.eu/](https://workflowhub.eu/)
 
 
 ---

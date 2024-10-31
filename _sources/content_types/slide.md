@@ -1,4 +1,4 @@
-# Slide (39)
+# Slide (41)
 ## Adding a Workflow to BIAFLOWS
 
 ['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
@@ -181,6 +181,29 @@ Tags: Python, Bioimage Analysis, Artificial Intelligence
 Content type: Slide
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
+
+
+---
+
+## Hitchhiking through a diverse Bio-image Analysis Software Universe
+
+['Robert Haase']
+
+Published 2022-07-22
+
+Licensed CC-BY-4.0
+
+
+
+Overview about decision making and how to influence decisions in the bio-image analysis software context.
+
+Tags: Bioimage Analysis
+
+Content type: Slide, Presentation
+
+[https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
+
+[https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
 
 
 ---
@@ -465,6 +488,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Slide, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
+
+
+---
+
+## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
+
+['Christian Schmidt', 'Elisa Ferrando-May']
+
+Published 2021-04-29
+
+Licensed CCY-BY-SA-4.0
+
+
+
+Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
+
+Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management
+
+Content type: Conference Abstract, Slide
+
+[https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
 
 
 ---

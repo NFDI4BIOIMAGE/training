@@ -1,4 +1,4 @@
-# Documentation (14)
+# Documentation (18)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 ['Caterina Fuster-Barceló']
@@ -52,6 +52,48 @@ Content type: Documentation
 
 ---
 
+## BioFormats Command line (CLI) tools
+
+Published 2024-10-24
+
+Licensed CC-BY-4.0
+
+
+
+Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
+
+Tags: Bioimage Data
+
+Content type: Documentation
+
+[https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html](https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html)
+
+
+---
+
+## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+
+['Lienhard Wegewitz', 'F. Strauß']
+
+Published 2020-03-23
+
+Licensed AGPL-3.0
+
+
+
+Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+
+Tags: Research Data Management
+
+Content type: Documentation, Document, Tutorial
+
+[https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
+
+[https://www.elabftw.net/](https://www.elabftw.net/)
+
+
+---
+
 ## Fractal Documentation
 
 
@@ -97,6 +139,42 @@ Content type: Publication, Documentation
 [https://www.nature.com/articles/s41592-022-01744-4](https://www.nature.com/articles/s41592-022-01744-4)
 
 [https://jipipe.hki-jena.de/](https://jipipe.hki-jena.de/)
+
+
+---
+
+## KNIME Image Processing
+
+None
+
+Licensed GPLV3
+
+
+
+The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+
+Tags: Imagej, OMERO, Bioimage Data, Workflow
+
+Content type: Tutorial, Online Tutorial, Documentation
+
+[https://www.knime.com/community/image-processing](https://www.knime.com/community/image-processing)
+
+
+---
+
+## Key-Value pairs scripts
+
+Licensed UNKNOWN
+
+
+
+The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+
+Tags: OMERO
+
+Content type: Documentation, Collection
+
+[https://guide-kvpairs-scripts.readthedocs.io/en/latest/](https://guide-kvpairs-scripts.readthedocs.io/en/latest/)
 
 
 ---

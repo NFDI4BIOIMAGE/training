@@ -1,4 +1,44 @@
-# Document (5)
+# Document (7)
+## Abstract - NFDI Basic Service for Data Management Plans
+
+Licensed CC-BY-4.0
+
+
+
+The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
+
+Tags: Research Data Management
+
+Content type: Document
+
+[https://base4nfdi.de/images/AbstractDMP4NFDI.pdf](https://base4nfdi.de/images/AbstractDMP4NFDI.pdf)
+
+
+---
+
+## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+
+['Lienhard Wegewitz', 'F. Strauß']
+
+Published 2020-03-23
+
+Licensed AGPL-3.0
+
+
+
+Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+
+Tags: Research Data Management
+
+Content type: Documentation, Document, Tutorial
+
+[https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
+
+[https://www.elabftw.net/](https://www.elabftw.net/)
+
+
+---
+
 ## Efficiently starting institutional research data management
 
 ['Katarzyna Biernacka', 'Katrin Cortez', 'Kerstin Helbig']

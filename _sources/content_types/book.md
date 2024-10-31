@@ -1,4 +1,4 @@
-# Book (16)
+# Book (17)
 ## 6 Steps Towards Reproducible Research
 
 ['Heidi Seibold']
@@ -186,6 +186,27 @@ Content type: Book
 [https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
 
 [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861)
+
+
+---
+
+## Rechtsfragen bei Open Science - Ein Leitfaden
+
+['Till Kreutzer', 'Henning Lahmann']
+
+Published 2021-05-25
+
+Licensed CC-BY-4.0
+
+
+
+Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
+
+Tags: Open Science, Open Access, Copyright
+
+Content type: Book
+
+[https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205](https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205)
 
 
 ---

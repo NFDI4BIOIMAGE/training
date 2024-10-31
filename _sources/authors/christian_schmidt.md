@@ -1,4 +1,4 @@
-# Christian schmidt (6)
+# Christian schmidt (8)
 ## A practical guide to bioimaging research data management in core facilities
 
 ['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
@@ -10,6 +10,46 @@ Tags: Research Data Management
 Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317)
+
+
+---
+
+## Finding and Choosing a Data Repository
+
+['Christian Schmidt']
+
+Published 2023-07-01
+
+Licensed UNKNOWN
+
+
+
+Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+
+Tags: I3Dbio, Research Data Management
+
+Content type: Tutorial
+
+[https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/](https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/)
+
+
+---
+
+## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+
+['Christian Schmidt']
+
+Licensed UNKNOWN
+
+
+
+A Microscopy Research Data Management Resource.
+
+Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+
+Content type: Collection
+
+[https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/](https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/)
 
 
 ---
@@ -60,15 +100,19 @@ Content type: Publication
 
 ['Christian Schmidt', 'Elisa Ferrando-May']
 
-Licensed CC-BY-SA-4.0
+Published 2021-04-29
+
+Licensed CCY-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Content type: Poster, Publication
+Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management
 
-[https://archiv.ub.uni-heidelberg.de/volltextserver/29489/](https://archiv.ub.uni-heidelberg.de/volltextserver/29489/)
+Content type: Conference Abstract, Slide
+
+[https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
 
 
 ---

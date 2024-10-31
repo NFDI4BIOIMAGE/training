@@ -1,4 +1,4 @@
-# All rights reserved (14)
+# All rights reserved (13)
 ## Basics of Image Processing and Analysis
 
 ['Kota Miura']
@@ -165,23 +165,6 @@ This comment article outlines the current state of the art in open hardware publ
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
-
-
----
-
-## REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
-
-['Ugis Sarkans', 'et al.']
-
-Licensed ALL RIGHTS RESERVED
-
-
-
-Tags: Research Data Management, Metadata
-
-Content type: Publication
-
-[https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
 
 
 ---

@@ -1,4 +1,4 @@
-# Josh moore (14)
+# Josh moore (17)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 ['Josh Moore', 'Susanne Kunis']
@@ -255,6 +255,67 @@ Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.7928332](https://zenodo.org/doi/10.5281/zenodo.7928332)
+
+
+---
+
+## bioformats2raw Converter
+
+['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+
+Licensed GPL-2.0
+
+
+
+Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
+
+Tags: Open Source Software, Bioimage Data
+
+Content type: Application, Github Repository
+
+[https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## ome-ngff-validator
+
+['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+
+Published 2022-09-29
+
+Licensed BSD-2-CLAUSE
+
+
+
+Web page for validating OME-NGFF files.
+
+Tags: Bioimage Data
+
+Content type: Github Repository, Application
+
+[https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
+
+[https://github.com/ome/ome-ngff-validator](https://github.com/ome/ome-ngff-validator)
+
+
+---
+
+## raw2ometiff Converter
+
+['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+
+Licensed GPL-2.0
+
+
+
+Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
+
+Tags: Open Source Software, Bioimage Data
+
+Content type: Application, Github Repository
+
+[https://github.com/glencoesoftware/raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
 
 
 ---

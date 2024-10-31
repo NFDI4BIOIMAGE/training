@@ -1,4 +1,4 @@
-# Robert haase (45)
+# Robert haase (47)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -283,6 +283,27 @@ Content type: Blog
 
 ---
 
+## Creating a Research Data Management Plan using chatGPT
+
+['Robert Haase']
+
+Published 2023-11-06
+
+Licensed CC-BY-4.0
+
+
+
+In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+
+Tags: Research Data Management, Large Language Models, Artificial Intelligence
+
+Content type: Blog
+
+[https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
 ## Cultivating Open Training
 
 ['Robert Haase']
@@ -422,6 +443,29 @@ Tags: Bioimage Analysis, Neubias
 Content type: Publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
+
+
+---
+
+## Hitchhiking through a diverse Bio-image Analysis Software Universe
+
+['Robert Haase']
+
+Published 2022-07-22
+
+Licensed CC-BY-4.0
+
+
+
+Overview about decision making and how to influence decisions in the bio-image analysis software context.
+
+Tags: Bioimage Analysis
+
+Content type: Slide, Presentation
+
+[https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
+
+[https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (147)
+# Bioimage analysis (153)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -156,6 +156,27 @@ Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## BIOMERO - A scalable and extensible image analysis framework
+
+['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+
+Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+
+Content type: Publication
+
+[https://doi.org/10.1016/j.patter.2024.101024](https://doi.org/10.1016/j.patter.2024.101024)
 
 
 ---
@@ -803,6 +824,23 @@ Content type: Notebook
 
 ---
 
+## Data management at France BioImaging
+
+Published 2023-07-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+
+Content type: Slides, Presentation
+
+[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+
+
+---
+
 ## Deep Learning for image analysis - Exercises
 
 ['Martin Weigert']
@@ -939,6 +977,25 @@ Tags: Bioimage Analysis, Instance Segmentation
 Content type: Github Repository
 
 [https://github.com/juglab/EmbedSeg](https://github.com/juglab/EmbedSeg)
+
+
+---
+
+## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
+
+['SciPy', 'Erick Martins Ratamero']
+
+Published 2024-08-19
+
+Licensed YOUTTUBE STANDARD LICENSE
+
+
+
+Tags: Image Data Management, OMERO, Bioimage Analysis
+
+Content type: Video, Presentation
+
+[https://www.youtube.com/watch?v=GmhyDNm1RsM](https://www.youtube.com/watch?v=GmhyDNm1RsM)
 
 
 ---
@@ -1101,6 +1158,25 @@ Content type: Notebook
 
 ---
 
+## Galaxy Training
+
+Published None
+
+Licensed CC-BY-4.0
+
+
+
+Collection of tutorials developed and maintained by the worldwide Galaxy community.
+
+Tags: Bioimage Analysis, Data Analysis
+
+Content type: Collection, Tutorial
+
+[https://training.galaxyproject.org/](https://training.galaxyproject.org/)
+
+
+---
+
 ## Generative artificial intelligence for bio-image analysis
 
 ['Robert Haase']
@@ -1165,6 +1241,29 @@ Tags: Bioimage Analysis, Neubias
 Content type: Publication
 
 [https://f1000research.com/articles/10-334/v1](https://f1000research.com/articles/10-334/v1)
+
+
+---
+
+## Hitchhiking through a diverse Bio-image Analysis Software Universe
+
+['Robert Haase']
+
+Published 2022-07-22
+
+Licensed CC-BY-4.0
+
+
+
+Overview about decision making and how to influence decisions in the bio-image analysis software context.
+
+Tags: Bioimage Analysis
+
+Content type: Slide, Presentation
+
+[https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
+
+[https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
 
 
 ---
@@ -2145,6 +2244,29 @@ Tags: Bioimage Analysis
 Content type: Book
 
 [https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282](https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282)
+
+
+---
+
+## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+
+['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+
+Published 2005-05-03
+
+Licensed CC-BY-4.0
+
+
+
+The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+
+Tags: Microscopy Image Analysis, Bioimage Analysis
+
+Content type: Publication
+
+[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
+
+[https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
 
 
 ---
