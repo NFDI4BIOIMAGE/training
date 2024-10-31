@@ -65,7 +65,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Image Segmentation, Bio-Image Analysis, Deep Learning
+Tags: Image Segmentation, Bioimage Analysis, Deep Learning
 
 Content type: Slides
 

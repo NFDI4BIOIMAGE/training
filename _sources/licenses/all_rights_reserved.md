@@ -109,7 +109,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 
@@ -141,7 +141,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, Omero, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management
 
 Content type: Publication
 
@@ -177,7 +177,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 

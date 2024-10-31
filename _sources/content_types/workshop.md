@@ -57,7 +57,7 @@ Content type: Workshop
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: Bioimage Analysis, Omero, Research Data Management
+Tags: Bioimage Analysis, OMERO, Research Data Management
 
 Content type: Workshop
 

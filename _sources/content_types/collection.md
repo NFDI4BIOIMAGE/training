@@ -381,7 +381,7 @@ Licensed CC-BY-4.0
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: Bioimage Analysis, Fair-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
 
 Content type: Collection, Tutorial
 
@@ -503,7 +503,7 @@ Licensed CC-BY-4.0
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: Omero, Data Analysis, Bioimage Analysis
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
 Content type: Collection
 
@@ -634,7 +634,7 @@ Content type: Collection
 
 
 
-Tags: Omero, Research Data Management
+Tags: OMERO, Research Data Management
 
 Content type: Collection, Event
 
@@ -649,7 +649,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Collection
 
@@ -664,7 +664,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Collection
 
@@ -679,7 +679,7 @@ Content type: Collection
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Collection, Video
 
@@ -726,7 +726,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Omero
+Tags: Research Data Management, OMERO
 
 Content type: Collection, Video
 

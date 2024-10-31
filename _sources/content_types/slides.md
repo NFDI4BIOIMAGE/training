@@ -122,7 +122,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, Fair-Principles, Bio-Image Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
 
 Content type: Slides
 
@@ -147,7 +147,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, Fair-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles
 
 Content type: Slides
 
@@ -300,7 +300,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, Fair-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
 
 Content type: Slides, Tutorial
 
@@ -321,7 +321,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Deep Learning, Fair-Principles, Microscopy Image Analysis
+Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
 
 Content type: Slides
 
@@ -428,7 +428,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, Fair-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo
 
 Content type: Slides
 
@@ -456,7 +456,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Image Segmentation, Bio-Image Analysis, Deep Learning
+Tags: Image Segmentation, Bioimage Analysis, Deep Learning
 
 Content type: Slides
 
@@ -519,7 +519,7 @@ Licensed CC-BY-4.0
 
 Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
 
-Tags: Research Data Management, Bioimage Analysis, Fair-Principles, Zarr, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage
 
 Content type: Slides
 
@@ -538,7 +538,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Slides
 
@@ -578,7 +578,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, Fair-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
 
 Content type: Slides
 
@@ -599,7 +599,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
 
 Content type: Slides
 
@@ -620,7 +620,7 @@ Licensed CC-BY-4.0
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: Research Data Management, Data Protection, Fair-Principles
+Tags: Research Data Management, Data Protection, FAIR-Principles
 
 Content type: Slides
 
@@ -683,7 +683,7 @@ Licensed CC-BY-4.0
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: Omero, Bioimage Analysis, Nfdi4Bioimage
+Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Slides
 

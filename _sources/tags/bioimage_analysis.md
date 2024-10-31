@@ -1,4 +1,4 @@
-# Bioimage analysis (142)
+# Bioimage analysis (147)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -88,6 +88,23 @@ Tags: Bioimage Analysis
 Content type: Publication
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
+
+
+---
+
+## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+
+['Caterina Fuster-Barceló']
+
+Licensed UNKNOWN
+
+
+
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
+
+Content type: Documentation
+
+[https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
 
 
 ---
@@ -608,6 +625,23 @@ Content type: Notebook
 
 ---
 
+## Challenges and opportunities for bio-image analysis core-facilities
+
+['Robert Haase']
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+
+Content type: Slide
+
+[https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
+
+
+---
+
 ## Challenges and opportunities for bioimage analysis core-facilities
 
 ['Johannes Richard Soltwedel', 'Robert Haase']
@@ -691,6 +725,29 @@ Tags: Python, Bioimage Analysis, Artificial Intelligence
 Content type: Notebook
 
 [https://github.com/guiwitz/DLImaging](https://github.com/guiwitz/DLImaging)
+
+
+---
+
+## Cultivating Open Training
+
+['Robert Haase']
+
+Published 2024-03-14
+
+Licensed CC-BY-4.0
+
+
+
+In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
+
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+
+Content type: Slides
+
+[https://zenodo.org/records/10816895](https://zenodo.org/records/10816895)
+
+[https://doi.org/10.5281/zenodo.10816895](https://doi.org/10.5281/zenodo.10816895)
 
 
 ---
@@ -917,7 +974,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, Fair-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
 
 Content type: Slides, Tutorial
 
@@ -941,7 +998,7 @@ Licensed CC-BY-4.0
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: Bioimage Analysis, Fair-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
 
 Content type: Collection, Tutorial
 
@@ -1001,7 +1058,7 @@ Content type: Collection, Video
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: Bioimage Analysis, Omero, Research Data Management
+Tags: Bioimage Analysis, OMERO, Research Data Management
 
 Content type: Workshop
 
@@ -1084,7 +1141,7 @@ Licensed CC-BY-4.0
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: Omero, Data Analysis, Bioimage Analysis
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
 Content type: Collection
 
@@ -1125,6 +1182,19 @@ Tags: Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis)
+
+
+---
+
+## ITKElastix Examples
+
+Licensed APACHE-2.0
+
+
+
+Tags: Bioimage Analysis
+
+[https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples](https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples)
 
 
 ---
@@ -1463,6 +1533,34 @@ Content type: Online Tutorial, Video, Slide
 
 ---
 
+## MicroSam-Talks
+
+['Constantin Pape']
+
+Published 2024-05-23
+
+Licensed CC-BY-4.0
+
+
+
+Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam.
+Currently contains slides for two talks:
+
+Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meeting in April 2024
+Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
+
+
+Tags: Image Segmentation, Bioimage Analysis, Deep Learning
+
+Content type: Slides
+
+[https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
+
+[https://doi.org/10.5281/zenodo.11265038](https://doi.org/10.5281/zenodo.11265038)
+
+
+---
+
 ## MorphoLibJ documentation
 
 
@@ -1505,7 +1603,7 @@ Licensed ['CC-BY-NC-SA']
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, Fair-Principles, Workflow
+Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -1609,7 +1707,7 @@ Licensed CC-BY-4.0
 
 Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
 
-Tags: Research Data Management, Bioimage Analysis, Fair-Principles, Zarr, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage
 
 Content type: Slides
 
@@ -1628,7 +1726,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Slides
 
@@ -1666,7 +1764,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Github Repository
 
@@ -1702,7 +1800,7 @@ Licensed MIT
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: Teaching, Bioimage Analysis, Notebooks, Python, Omero
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
 
 Content type: Github Repository
 
@@ -1721,7 +1819,7 @@ Licensed ['CC-BY-NC-SA-4.0']
 
 OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension.
 
-Tags: Bioimage Analysis, Omero
+Tags: Bioimage Analysis, OMERO
 
 Content type: Online Tutorial
 
@@ -1759,7 +1857,7 @@ Licensed CC-BY-4.0
 
 This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
 
-Tags: Omero, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis
 
 Content type: Github Repository
 
@@ -1906,7 +2004,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
 
 Content type: Slides
 
@@ -2148,7 +2246,7 @@ Licensed CC-BY-4.0
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: Omero, Bioimage Analysis, Nfdi4Bioimage
+Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Slides
 
@@ -2303,7 +2401,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Poster
 

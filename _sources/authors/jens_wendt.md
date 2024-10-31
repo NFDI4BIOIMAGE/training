@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: Omero, Data Analysis, Bioimage Analysis
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
 Content type: Collection
 
@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Github Repository
 
@@ -47,7 +47,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, Omero, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management
 
 Content type: Publication
 
@@ -62,7 +62,7 @@ Content type: Publication
 
 
 
-Tags: Metadata, Workflow, Omero
+Tags: Metadata, Workflow, OMERO
 
 Content type: Forum Post
 

@@ -179,7 +179,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Omero, Python
+Tags: OMERO, Python
 
 Content type: Blog
 
@@ -217,7 +217,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bio-Image Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Slide
 
@@ -295,7 +295,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, Fair-Principles, Bio-Image Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
 
 Content type: Slides
 
@@ -320,7 +320,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, Fair-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles
 
 Content type: Slides
 
@@ -381,7 +381,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication, Poster
 
@@ -513,7 +513,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, Fair-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo
 
 Content type: Slides
 
@@ -642,7 +642,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, Fair-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
 
 Content type: Slides
 

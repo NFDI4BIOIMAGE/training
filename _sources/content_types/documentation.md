@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bio-Image Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
 
 Content type: Documentation
 
@@ -164,7 +164,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
 
 Content type: Event, Publication, Documentation
 
@@ -196,7 +196,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Documentation
 
@@ -211,7 +211,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Documentation
 

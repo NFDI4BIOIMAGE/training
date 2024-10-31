@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integrating large, diverse datasets are crucial for answering complex research questions, requiring multimodal data analysis and adherence to FAIR principles. To address challenges in capturing the full research cycle and contextualizing data, DataPLANT developed the Annotated Research Context (ARC), while the neuroimaging community extended the Brain Imaging Data Structure (BIDS) for microscopic image data, both providing standardized, file system-based storage structures for organizing and sharing data with metadata.
 
-Tags: Research Data Management, Fair-Principles
+Tags: Research Data Management, FAIR-Principles
 
 Content type: Poster
 
@@ -79,7 +79,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication, Poster
 
@@ -153,7 +153,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, Fair-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
 
 Content type: Poster
 
@@ -172,7 +172,7 @@ Licensed CC-BY-4.0
 
 Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
 
-Tags: Research Data Management, Fair-Principles, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
 
 Content type: Poster
 

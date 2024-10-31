@@ -66,7 +66,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Deep Learning, Fair-Principles, Microscopy Image Analysis
+Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
 
 Content type: Slides
 

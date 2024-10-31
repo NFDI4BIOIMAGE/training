@@ -24,7 +24,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bio-Image Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
 
 Content type: Documentation
 
@@ -790,7 +790,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Documentation
 
@@ -822,7 +822,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Omero
+Tags: Research Data Management, OMERO
 
 Content type: Collection, Video
 

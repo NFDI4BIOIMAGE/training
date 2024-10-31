@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bio-Image Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
 
 Content type: Documentation
 

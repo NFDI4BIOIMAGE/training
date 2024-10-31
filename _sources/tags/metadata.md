@@ -1,4 +1,4 @@
-# Meta data (6)
+# Metadata (7)
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
 ['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication, Poster
 
@@ -24,7 +24,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 
@@ -41,7 +41,7 @@ Published 2010
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -56,7 +56,7 @@ Content type: Publication
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -71,7 +71,7 @@ Content type: Publication
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -88,11 +88,26 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01166-8](https://www.nature.com/articles/s41592-021-01166-8)
+
+
+---
+
+## User friendly Image metadata annotation tool/workflow for OMERO
+
+['Jens Wendt']
+
+
+
+Tags: Metadata, Workflow, OMERO
+
+Content type: Forum Post
+
+[https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1](https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1)
 
 
 ---

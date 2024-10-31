@@ -33,7 +33,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
 
 Content type: Event, Publication, Documentation
 
@@ -48,7 +48,7 @@ Content type: Event, Publication, Documentation
 
 
 
-Tags: Omero, Research Data Management
+Tags: OMERO, Research Data Management
 
 Content type: Collection, Event
 

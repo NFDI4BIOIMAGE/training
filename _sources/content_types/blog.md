@@ -22,7 +22,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Omero, Python
+Tags: OMERO, Python
 
 Content type: Blog
 

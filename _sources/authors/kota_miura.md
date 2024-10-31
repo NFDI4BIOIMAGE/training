@@ -73,7 +73,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication, Poster
 

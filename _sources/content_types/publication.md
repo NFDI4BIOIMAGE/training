@@ -274,7 +274,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication, Poster
 
@@ -342,7 +342,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 
@@ -376,7 +376,7 @@ Published 2010
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -391,7 +391,7 @@ Content type: Publication
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -425,7 +425,7 @@ Content type: Publication, Documentation
 
 
 
-Tags: Meta Data
+Tags: Metadata
 
 Content type: Publication
 
@@ -463,7 +463,7 @@ Licensed ['CC-BY-NC-SA']
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, Fair-Principles, Workflow
+Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -516,7 +516,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, Omero, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
 
 Content type: Event, Publication, Documentation
 
@@ -554,7 +554,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, Omero, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management
 
 Content type: Publication
 
@@ -592,7 +592,7 @@ Licensed CC-BY-4.0
 
 Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
 
-Tags: Fair-Principles, Machine Learning, Research Data Management
+Tags: FAIR-Principles, Machine Learning, Research Data Management
 
 Content type: Publication
 
@@ -643,7 +643,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Meta Data
+Tags: Research Data Management, Metadata
 
 Content type: Publication
 

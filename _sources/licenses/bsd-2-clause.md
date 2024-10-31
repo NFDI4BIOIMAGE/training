@@ -22,7 +22,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Collection
 
@@ -37,7 +37,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Document
 
@@ -52,7 +52,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Document
 
@@ -67,7 +67,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Omero
+Tags: OMERO
 
 Content type: Collection
 
