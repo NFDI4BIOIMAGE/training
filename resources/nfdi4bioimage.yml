@@ -886,7 +886,7 @@ resources:
   tags:
   - Bioimage Analysis
   type:
-  - Online Course
+  - Online Tutorial
   url: https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists
 - authors:
   - Ann Wheeler (Editor)
@@ -1250,9 +1250,11 @@ resources:
   - Christian Tischer
   license: UNKNOWN
   name: i2k-2020-s3-zarr-workshop
-  type:
+  tags:
   - Python
   - Big Data
+  type:
+  - Github Repository
   url: https://github.com/tischi/i2k-2020-s3-zarr-workshop
 - authors:
   - Jacob Deppen
@@ -1265,9 +1267,11 @@ resources:
   - et al.
   license: CC-BY-4.0
   name: Image Processing with Python
-  type:
+  tags:
   - Python
   - Bioimage Analysis
+  type:
+  - Collection
   url:
   - https://datacarpentry.org/image-processing/
   - https://github.com/datacarpentry/image-processing
@@ -2005,7 +2009,8 @@ resources:
   - Itk
   - Elastix
   type:
-  - Jupyter Book
+  - Notebook
+  - Collection
   url: https://m-albert.github.io/elastix_tutorial/intro.html
 - authors:
   - Peter Sobolewski
@@ -2058,8 +2063,7 @@ resources:
   - Python
   - Deep Learning
   type:
-  - Videos
-  - Practicals
+  - Video
   - Slides
   url: https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/
 - authors:
@@ -2820,7 +2824,7 @@ resources:
   - Funding
   - Sustainability
   type:
-  - Report
+  - Publication
   url: https://zenodo.org/records/11201216
 - authors:
   - Heidi Seibold
@@ -4275,7 +4279,8 @@ resources:
   - Bioimage Analysis
   - Research Data Management
   type:
-  - Jupyter Book
+  - Notebook
+  - Collection
   url: https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html 
 - authors:
   - EMBL-EBI
@@ -4651,7 +4656,7 @@ resources:
   tags:
   - Research Data Management
   type:
-  - Book Chapter
+  - Book
   num_downloads: 545
   publication_date: '2017'
   url: 
@@ -4674,8 +4679,8 @@ resources:
   name: RDMO - Research Data Management Organiser
   tags:
   - Research Data Management
-  type:
   - Open Source Software
+  type:
   - Website
   - Online Tutorial
   url: https://rdmorganiser.github.io/
@@ -4844,7 +4849,7 @@ resources:
   - Research Data Management
   - Sharing
   type:
-  - Blog Post
+  - Blog
   publication_date: '2022-03-18'
   url: https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
 - description: The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
@@ -5125,7 +5130,8 @@ resources:
   - Microscopy Image Analysis
   - Bioimage Data
   type:
-  - Youtube Channel
+  - Video
+  - Collection
   num_downloads:
   publication_date:
   url: https://www.youtube.com/@OpenMicroscopyEnvironment       
@@ -5353,7 +5359,7 @@ resources:
   type:
   - Github Repository
   - Notebook
-  - Jupyter Book
+  - Collection
   license: UNKNOWN
   name: QuPath for Python programmers
   publication_date: '2024-10-23'
