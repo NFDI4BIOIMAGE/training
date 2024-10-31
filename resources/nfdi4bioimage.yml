@@ -5454,7 +5454,7 @@ resources:
   - Tutorial
   - Notebook
   license: BSD-3-CLAUSE
-  name: I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
+  name: "I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library"
   url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
   
 - authors: Tim Monko
