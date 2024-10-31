@@ -4560,7 +4560,9 @@ resources:
   license: BSD 3-Clause "New" or "Revised" License
   name: clesperanto_workshop_I2K24
   publication_date: '2024-10-18T08:05:39+00:00'
-  tags: TODO
+  tags: 
+  - GPU-acceleration
+  - Bio-image Analysis
   type: GitHub Repository
   url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
   
