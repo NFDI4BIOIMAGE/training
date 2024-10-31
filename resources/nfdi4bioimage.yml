@@ -5320,10 +5320,6 @@ resources:
   - https://www.nature.com/articles/s41592-024-02334-2
   - https://arxiv.org/abs/2407.19778
 
-
-
-  
-
 - authors: Haase, Robert
   description: 'Large Language Models are changing the way we interact with computers,
     especially how we write code. In this tutorial, we will generate bio-image analysis
@@ -5341,7 +5337,142 @@ resources:
   url:
   - https://zenodo.org/records/14001044
   - https://doi.org/10.5281/zenodo.14001044
+- authors: 
+  - Alan O'Callaghan
+  - Léo Leplat
+  description: These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
+  tags:
+  - Python
+  - Notebooks
+  - Open Source Software
+  - Bioimage Analysis
+  type:
+  - Github Repository
+  - Notebook
+  - Jupyter Book
+  license: UNKNOWN
+  name: QuPath for Python programmers
+  publication_date: '2024-10-23'
+  url: https://github.com/qupath/i2k-qupath-for-python-programmers
   
+- authors: 
+  - Stephan Saalfeld
+  - Tobias Pietzsch
+  tags:
+  - Training
+  type:
+  - Workshop
+  - Notebook
+  - Github Repository
+  license: Apache-2.0
+  name: I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
+  num_downloads: 
+  publication_date:
+  url: 
+  - https://saalfeldlab.github.io/i2k2024-lazy-workshop/
+  - https://github.com/saalfeldlab/i2k2024-lazy-workshop
+ 
+- authors: 
+  - Jordão Bragantini
+  - Teun Huijben
+  tags:
+  - Segmentation
+  - Bioimage Analysis
+  - Training
+  type:
+  - Workshop
+  - Github Repository
+  - Tutorial
+  license: BSD3-CLAUSE
+  name: Ultrack I2K 2024 Workshop Materials
+  url: 
+  - https://github.com/royerlab/ultrack-i2k2024
+  - https://royerlab.github.io/ultrack-i2k2024/
+  
+- authors: 
+  - Agustín Andrés Corbat
+  - OmFrederic
+  - Jonas Windhager
+  - Kristína Lidayová
+  description: Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop 
+  tags:
+  - Bioimage Analysis
+  - Microscopy Image Analysis
+  type:
+  - Github Repository
+  - Slides
+  - Workshop
+  license: CC-BY-4.0
+  name: Multiplexed tissue imaging - tools and approaches
+  url: 
+  - https://github.com/BIIFSweden/I2K2024-MTIWorkshop
+  - https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1
+
+- authors: Robert Haase
+  description: This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
+  tags:
+  - Bioimage Analysis
+  - Notebooks
+  - Biabob
+  type:
+  - Github Repository
+  - Tutorial
+  - Notebook
+  license: BSD-3-CLAUSE
+  name: I2K2024(virtual) - Bio-Image Analysis Code Generation
+  url: https://github.com/haesleinhuepf/i2k2024-ai-code-generation
+
+- authors: Joanna Pylvänäinen
+  description: I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
+  tags:
+  - Bioimage Analysis
+  - Training
+  type:
+  - Github Repository
+  - Tutorial
+  - Workshop
+  - Slides
+  license: GPL-3.0
+  name: Object Tracking and Track Analysis using TrackMate and CellTracksColab
+  num_downloads: 
+  publication_date:
+  url: https://github.com/CellMigrationLab/I2K_2024
+  
+- authors: 
+  - Stephane Rigaud
+  - Robert Haase
+  description: Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
+  tags:
+  - Clesperanto
+  - Training
+  - Bioimage Analysis
+  - Notebooks
+  - Workflow
+  type:
+  - Github Repository
+  - Workshop
+  - Tutorial
+  - Notebook
+  license: BSD-3-CLAUSE
+  name: "I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library"
+  url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
+  
+- authors: Tim Monko
+  description: Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
+  tags:
+  - Napari
+  - Microscopy Image Analysis
+  - Bioimage Analysis
+  type:
+  - Documentation
+  - Github Repository
+  - Tutorial
+  license: BSD-3-CLAUSE
+  name: Example Pipeline Tutorial
+  publication_date: '2024-10-28'
+  url: 
+  - https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/
+  - https://github.com/timmonko/napari-ndev 
 - authors: Moore, Josh
   description: Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix
     in Okazaki, Japan.
