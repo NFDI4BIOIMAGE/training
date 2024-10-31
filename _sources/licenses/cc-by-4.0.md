@@ -1,4 +1,4 @@
-# Cc-by-4.0 (146)
+# Cc-by-4.0 (147)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -2762,6 +2762,26 @@ Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-exp
 [https://zenodo.org/records/14001388](https://zenodo.org/records/14001388)
 
 [https://doi.org/10.5281/zenodo.14001388](https://doi.org/10.5281/zenodo.14001388)
+
+
+---
+
+## [I2K] Scalable strategies for a next-generation of FAIR bioimaging
+
+['Josh Moore']
+
+Published 2024-10-25
+
+Licensed CC-BY-4.0
+
+
+
+or, "OME-Zarr: 'even a talk on formats [can be] interesting'"
+Presented at https://events.humantechnopole.it/event/1/
+
+[https://zenodo.org/records/13991322](https://zenodo.org/records/13991322)
+
+[https://doi.org/10.5281/zenodo.13991322](https://doi.org/10.5281/zenodo.13991322)
 
 
 ---
