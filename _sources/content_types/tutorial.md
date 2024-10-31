@@ -1,4 +1,4 @@
-# Tutorial (29)
+# Tutorial (30)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
@@ -222,6 +222,25 @@ Tags: Workflow
 Content type: Online Tutorial, Tutorial
 
 [https://galaxy-au-training.github.io/tutorials/modules/workflows/](https://galaxy-au-training.github.io/tutorials/modules/workflows/)
+
+
+---
+
+## Glencoe Software Webinars
+
+['Chris Allan', 'Emil Rozbicki']
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO, Training
+
+Content type: Videos, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
 
 ---

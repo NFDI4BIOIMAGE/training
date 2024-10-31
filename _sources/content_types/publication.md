@@ -1,4 +1,4 @@
-# Publication (58)
+# Publication (59)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -841,6 +841,27 @@ Tags: Research Data Management, Open Science, Data Protection
 Content type: Publication
 
 [https://www.mdpi.com/2304-6775/5/1/2](https://www.mdpi.com/2304-6775/5/1/2)
+
+
+---
+
+## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
+
+['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+
+Published 2022-09-20
+
+Licensed CC-BY-4.0
+
+
+
+As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://f1000research.com/articles/11-638/v2](https://f1000research.com/articles/11-638/v2)
 
 
 ---

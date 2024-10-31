@@ -1,4 +1,4 @@
-# Collection (69)
+# Collection (70)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 ['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
@@ -539,6 +539,25 @@ List of training materials by the German BioImaging community provided by facili
 Content type: Collection
 
 [https://gerbi-gmb.de/resources/teaching-resources/](https://gerbi-gmb.de/resources/teaching-resources/)
+
+
+---
+
+## Glencoe Software Webinars
+
+['Chris Allan', 'Emil Rozbicki']
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO, Training
+
+Content type: Videos, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
 
 ---

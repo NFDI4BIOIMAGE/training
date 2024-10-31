@@ -1,4 +1,4 @@
-# Training (8)
+# Training (9)
 ## DataPLANT knowledge base
 
 Published 2022-12-14
@@ -33,6 +33,25 @@ Tags: Bioinformatics, Training
 Content type: Collection
 
 [https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
+
+
+---
+
+## Glencoe Software Webinars
+
+['Chris Allan', 'Emil Rozbicki']
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO, Training
+
+Content type: Videos, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
 
 ---

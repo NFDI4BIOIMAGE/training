@@ -1,4 +1,4 @@
-# Elisa ferrando-may (4)
+# Elisa ferrando-may (5)
 ## A practical guide to bioimaging research data management in core facilities
 
 ['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
@@ -56,6 +56,27 @@ Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Managem
 Content type: Conference Abstract, Slide
 
 [https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
+
+
+---
+
+## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
+
+['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+
+Published 2022-09-20
+
+Licensed CC-BY-4.0
+
+
+
+As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://f1000research.com/articles/11-638/v2](https://f1000research.com/articles/11-638/v2)
 
 
 ---

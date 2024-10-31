@@ -1,4 +1,4 @@
-# Bioimage data (19)
+# Bioimage data (20)
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
 ['Cornelia Wetzker']
@@ -256,6 +256,27 @@ Tags: Reproducibility, Metadata, Bioimage Data
 Content type: Collection
 
 [https://www.nature.com/collections/djiciihhjh](https://www.nature.com/collections/djiciihhjh)
+
+
+---
+
+## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
+
+['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+
+Published 2022-09-20
+
+Licensed CC-BY-4.0
+
+
+
+As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
+
+Tags: Research Data Management, Image Data Management, Bioimage Data
+
+Content type: Publication
+
+[https://f1000research.com/articles/11-638/v2](https://f1000research.com/articles/11-638/v2)
 
 
 ---

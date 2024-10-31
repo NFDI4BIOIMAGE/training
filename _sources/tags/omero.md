@@ -1,4 +1,4 @@
-# Omero (29)
+# Omero (30)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 ['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
@@ -105,6 +105,25 @@ Tags: Bioimage Analysis, OMERO, Research Data Management
 Content type: Workshop
 
 [https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
+
+
+---
+
+## Glencoe Software Webinars
+
+['Chris Allan', 'Emil Rozbicki']
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO, Training
+
+Content type: Videos, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
 
 ---

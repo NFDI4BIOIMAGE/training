@@ -1,4 +1,4 @@
-# Unknown (74)
+# Unknown (75)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 ['Guillaume Witz']
@@ -532,6 +532,25 @@ Tags: Research Data Management
 Content type: Website
 
 [https://www.ugent.be/en/research/openscience/datamanagement](https://www.ugent.be/en/research/openscience/datamanagement)
+
+
+---
+
+## Glencoe Software Webinars
+
+['Chris Allan', 'Emil Rozbicki']
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO, Training
+
+Content type: Videos, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
 
 ---
