@@ -5511,3 +5511,15 @@ resources:
   - https://zenodo.org/records/13991322
   - https://doi.org/10.5281/zenodo.13991322
   
+- authors: Moore, Josh
+  description: Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix
+    in Okazaki, Japan.
+  license: cc-by-4.0
+  name: "[GBI EoE IX] NFDI4BIOIMAGE\nNational Research Data Infrastructure \nfor Microscopy\
+    \ and BioImage Analysis"
+  num_downloads: 28
+  publication_date: '2024-10-29'
+  url:
+  - https://zenodo.org/records/14001388
+  - https://doi.org/10.5281/zenodo.14001388
+  
