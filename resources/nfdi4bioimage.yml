@@ -24,7 +24,7 @@ resources:
   license: CC-BY-4.0
   name: Browsing the Open Microscopy Image Data Resource with Python
   tags:
-  - Omero
+  - OMERO
   - Python
   type:
   - Blog
@@ -124,7 +124,7 @@ resources:
   tags:
   - Metadata
   - Workflow
-  - Omero
+  - OMERO
   type:
   - Forum Post
   url: https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1
@@ -166,7 +166,7 @@ resources:
   url: https://globalbioimaging.org/international-training-courses
 - name: OME Event Database
   tags:
-  - Omero
+  - OMERO
   - Research Data Management
   type:
   - Collection
@@ -237,7 +237,7 @@ resources:
     enable RDM for bioimaging'
   tags:
   - Bioimage Analysis
-  - Omero
+  - OMERO
   - Research Data Management
   type:
   - Workshop
@@ -300,35 +300,35 @@ resources:
 - license: CC-BY-4.0
   name: OME Documentation
   tags:
-  - Omero
+  - OMERO
   type:
   - Documentation
   url: https://www.openmicroscopy.org/docs/
 - license: UNKNOWN
   name: OMERO documentation
   tags:
-  - Omero
+  - OMERO
   type:
   - Documentation
   url: https://omero.readthedocs.io/en/stable/
 - license: BSD-2-CLAUSE
   name: OMERO Guide
   tags:
-  - Omero
+  - OMERO
   type:
   - Collection
   url: https://omero-guides.readthedocs.io/en/latest/
 - license: BSD-2-CLAUSE
   name: OMERO walkthrough for facility managers
   tags:
-  - Omero
+  - OMERO
   type:
   - Document
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
 - license: BSD-2-CLAUSE
   name: OMERO walkthrough example
   tags:
-  - Omero
+  - OMERO
   type:
   - Document
   url: https://omero-guides.readthedocs.io/en/latest/example.html
@@ -776,7 +776,7 @@ resources:
   type:
   - Collection
   - Data
-  - Publiction
+  - Publication
   url:
   - https://www.ebi.ac.uk/bioimage-archive/
   - https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791
@@ -791,7 +791,7 @@ resources:
 - license: BSD-2-CLAUSE
   name: Omero Deployment examples
   tags:
-  - Omero
+  - OMERO
   type:
   - Collection
   url: https://github.com/ome/omero-deployment-examples
@@ -826,7 +826,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Workflow Engine
-  - Bio-Image Analysis
+  - Bioimage Analysis
   type:
   - Documentation
   url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
@@ -865,7 +865,7 @@ resources:
   num_downloads: 3717
   publication_date: '2023-11-13'
   tags:
-  - Omero
+  - OMERO
   - Research Data Management
   - Nfdi4Bioimage
   - I3Dbio
@@ -879,7 +879,7 @@ resources:
 - license: APACHE-2.0
   name: ITKElastix Examples
   tags:
-  - Bio-Image Analysis
+  - Bioimage Analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
 - license: ALL RIGHTS RESERVED
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
@@ -2090,7 +2090,7 @@ resources:
   publication_date: '2024-04-15'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Git
   - Zenodo
   type:
@@ -2113,7 +2113,7 @@ resources:
   tags:
   - Research Data Management
   - Open Access
-  - Fair-Principles
+  - FAIR-Principles
   - Licensing
   type:
   - Slides
@@ -2157,7 +2157,7 @@ resources:
   tags:
   - Research Data Management
   - Licensing
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Slides
   url:
@@ -2173,7 +2173,7 @@ resources:
   name: FAIRy deep-learning for bioImage analysis
   tags:
   - Deep Learning
-  - Fair-Principles
+  - FAIR-Principles
   - Microscopy Image Analysis
   type:
   - Slides
@@ -2218,7 +2218,7 @@ resources:
   - Bioimage Analysis
   - Notebooks
   - Python
-  - Omero
+  - OMERO
   type:
   - Github Repository
   url: https://github.com/rmassei/2024-jn-omero-pipeline
@@ -2254,7 +2254,7 @@ resources:
   publication_date: '2024-06-04'
   tags:
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Research Data Management
   type:
   - Collection
@@ -2279,7 +2279,7 @@ resources:
   publication_date: '2024-06-04'
   tags:
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Research Data Management
   type:
   - Slides
@@ -2351,7 +2351,7 @@ resources:
   name: RDF as a bridge to domain-platforms like OMERO, or There and back again.
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   type:
   - Slides
@@ -2400,7 +2400,7 @@ resources:
     Organization
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
@@ -2435,7 +2435,7 @@ resources:
   name: High throughput & automated data analysis and data management workflow with
     Cellprofiler and OMERO
   tags:
-  - Omero
+  - OMERO
   - Data Analysis
   - Bioimage Analysis
   type:
@@ -2492,7 +2492,7 @@ resources:
   publication_date: '2024-05-23'
   tags:
   - Image Segmentation
-  - Bio-Image Analysis
+  - Bioimage Analysis
   - Deep Learning
   type:
   - Slides
@@ -2557,8 +2557,8 @@ resources:
   tags:
   - Open Science
   - Research Data Management
-  - Fair-Principles
-  - Bio-Image Analysis
+  - FAIR-Principles
+  - Bioimage Analysis
   - Licensing
   type:
   - Slides
@@ -2626,7 +2626,7 @@ resources:
   tags:
   - Research Data Management
   - Data Protection
-  - Fair-Principles
+  - FAIR-Principles
   type:
   - Slides
   url:
@@ -2919,7 +2919,7 @@ resources:
   name: OMERO for microscopy research data management
   tags:
   - Nfdi4Bioimage
-  - Omero
+  - OMERO
   - Research Data Management
   type:
   - Publication
@@ -3106,18 +3106,6 @@ resources:
   - Publication
   url: https://f1000research.com/articles/10-334/v1
 - authors:
-  - Ugis Sarkans
-  - et al.
-  license: ALL RIGHTS RESERVED
-  name: "REMBI: Recommended Metadata for Biological Images\u2014enabling reuse of\
-    \ microscopy data in biology"
-  tags:
-  - Research Data Management
-  - Meta Data
-  type:
-  - Publication
-  url: https://www.nature.com/articles/s41592-021-01166-8
-- authors:
   - Susanne Kunis
   - "Sebastian H\xE4nsch"
   - Christian Schmidt
@@ -3129,7 +3117,7 @@ resources:
     data in the bioimaging community'
   tags:
   - Research Data Management
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01288-z
@@ -3322,7 +3310,7 @@ resources:
   name: 'EDAM-bioimaging: The ontology of bioimage informatics operations, topics,
     data, and formats (update 2020)'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   - Poster
@@ -3348,7 +3336,7 @@ resources:
   name: Challenges and opportunities for bio-image analysis core-facilities
   tags:
   - Research Data Management
-  - Bio-Image Analysis
+  - Bioimage Analysis
   - Nfdi4Bioimage
   type:
   - Slide
@@ -3380,7 +3368,7 @@ resources:
   - Dataplant
   - Hackathon
   - Nfdi4Bioimage
-  - Omero
+  - OMERO
   - Python
   - Research Data Management
   type:
@@ -3397,7 +3385,7 @@ resources:
   license: CC-BY-4.0
   name: Welcome to BioImage Town
   tags:
-  - Omero
+  - OMERO
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3412,7 +3400,7 @@ resources:
     Analysis - Online Kick-Off 2023
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3448,7 +3436,7 @@ resources:
   name: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3464,7 +3452,7 @@ resources:
     Math'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
@@ -3495,7 +3483,7 @@ resources:
   name: '[SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard'
   tags:
   - Research Data Management
-  - Fair-Principles
+  - FAIR-Principles
   - Nfdi4Bioimage
   type:
   - Poster
@@ -3561,7 +3549,7 @@ resources:
   tags:
   - Research Data Management
   - Bioimage Analysis
-  - Fair-Principles
+  - FAIR-Principles
   - Zarr
   - Nfdi4Bioimage
   type:
@@ -3687,7 +3675,7 @@ resources:
   name: 'MethodsJ2: a software tool to capture metadata and generate comprehensive
     microscopy methods text'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01290-5
@@ -3697,7 +3685,7 @@ resources:
   name: 'Micro-Meta App: an interactive tool for collecting microscopy metadata based
     on community specifications'
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://doi.org/10.1038/s41592-021-01315-z
@@ -3707,7 +3695,7 @@ resources:
   name: 'Metadata matters: access to image data in the real world'
   publication_date: 2010
   tags:
-  - Meta Data
+  - Metadata
   type:
   - Publication
   url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
@@ -3857,7 +3845,7 @@ resources:
   license: CC-BY-4.0
   name: Photonic data analysis in 2050
   tags:
-  - Fair-Principles
+  - FAIR-Principles
   - Machine Learning
   - Research Data Management
   type:
@@ -4025,7 +4013,7 @@ resources:
     Image Data Resource (IDR), the Omero platform and Omero plugins.
   name: Open Microscopy Environment YouTube channel
   tags:
-  - Omero
+  - OMERO
   type:
   - Collection
   - Video
@@ -4106,7 +4094,7 @@ resources:
   name: RDM4mic
   tags:
   - Research Data Management
-  - Omero
+  - OMERO
   type:
   - Collection
   - Video
@@ -4406,7 +4394,7 @@ resources:
     2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
   
     2.15 p.m. to 3.00 p.m.: Discussion, Outlook'
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: '[Workshop] FAIR data handling for microscopy: Structured metadata annotation
     in OMERO'
   num_downloads: 234
@@ -4421,26 +4409,837 @@ resources:
   
     Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment
     with Dr. Riccardo Massei"'
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: 'Getting started with Python: intro and set-up a conda environment'
   num_downloads: 6
   publication_date: '2024-10-09'
   url:
   - https://zenodo.org/records/13908480
   - https://doi.org/10.5281/zenodo.13908480
-  
 - authors: Haase, Robert
   description: In this presentation I introduce bia-bob, an AI-based code generator
     that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis
     Python code. It highlights how to get started with using large language models and
     prompt engineering to get high-quality bio-image analysis code.
-  license: cc-by-4.0
+  license: CC-BY-4.0
   name: Bio-image Analysis Code Generation using bia-bob
   num_downloads: 101
   publication_date: '2024-10-09'
   url:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
+
+- authors: University of Ghent
+  description: The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
+  license: UNKNOWN
+  name: Ghent University Research Data Management (RDM) - policy and support
+  tags:
+  - Research Data Management
+  type: 
+  - Website
+  url: https://www.ugent.be/en/research/openscience/datamanagement
+- authors: GO FAIR
+  description: This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
+  license: CC-BY-4.0
+  name: RDM Starter Kit
+  tags:
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.go-fair.org/resources/rdm-starter-kit/
+- authors: Haase, Robert
+  description: Overview about decision making and how to influence decisions in the bio-image analysis software context.
+  license: CC-BY-4.0
+  name: Hitchhiking through a diverse Bio-image Analysis Software Universe
+  tags: 
+  - Bioimage Analysis
+  type:
+  - Slide
+  - Presentation
+  num_downloads: 86
+  publication_date: '2022-07-22'
+  url: 
+  - https://f1000research.com/slides/11-746
+  - https://doi.org/10.7490/f1000research.1119026.1
+- authors:  Costantino Thanos
+  description: This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
+  license: CC-BY-4.0
+  name: Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies 
+  tags:
+  - Research Data Management
+  - Open Science
+  - Data Protection
+  type:
+  - Publication
+  publication_date: '2017-01-09'
+  url: https://www.mdpi.com/2304-6775/5/1/2
+- authors: 
+    - Mark D. Wilkinson
+    - Michel Dumontier
+    - IJsbrand Jan Aalbersberg
+    - Gabrielle Appleton
+    - Myles Axton
+    - et. al
+  description: This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
+  license: CC-BY-4.0
+  name: The FAIR Guiding Principles for scientific data management and stewardship
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  type:
+  - Publication
+  publication_date: '2016-03-15'
+  url: 
+  - https://www.nature.com/articles/sdata201618
+  - https://doi.org/10.1038/sdata.2016.18
+- authors: 
+  - Mark A Musen
+  - Martin J O'Connor
+  - Erik Schultes
+  - Marcos Martínez-Romero
+  - Josef Hardi
+  - John Graybeal
+  description: The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
+  license: CC-BY-4.0
+  name: Modeling community standards for metadata as templates makes data FAIR
+  tags:
+  - Data Stewardship
+  - FAIR-Principles
+  - Metadata
+  type:
+  - Publication
+  publication_date: '2022-11-12'
+  url: 
+  - https://pubmed.ncbi.nlm.nih.gov/36371407/
+  - https://www.nature.com/articles/s41597-022-01815-3
+- authors: 
+  - Mathias Hammer
+  - Maximiliaan Huisman
+  - Alessandro Rigano
+  - Ulrike Boehm
+  - James J. Chambers
+  - et al.
+  description: Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+  license: UNKNOWN
+  name: Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+  tags:
+  - Reproducibility
+  - Microscopy Image Analysis
+  - Metadata
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  publication_date: '2022-07-10'
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/
+- authors:
+  - Ugis Sarkans
+  - Wah Chiu
+  - Lucy Collinson
+  - Michele C. Darrow
+  - Jan Ellenberg
+  - David Grunwald
+  - et al.
+  description: Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy. 
+  license: UNKNOWN
+  name: REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
+  tags:
+  - Metadata
+  - Bioimage Data
+  - Image Data Management
+  - Research Data Management
+  type:
+  - Publication
+  publication_date: '2021-05-21'
+  url: 
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/
+  - https://www.nature.com/articles/s41592-021-01166-8
+  - https://doi.org/10.1038/s41592-021-01166-8
+- authors: 
+  - Philippa C. Griffin
+  - Jyoti Khadake
+  - Kate S. LeMay
+  - Suzanna E. Lewis
+  - Sandra Orchard  
+  - et al.
+  description: The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis. 
+  license: UNKNOWN
+  name: Best practice data life cycle approaches for the life sciences
+  tags:
+  - Bioinformatics
+  - Reproducibility
+  - Research Data Management
+  - Sharing
+  - Open Science
+  type:
+  - Publication
+  num_downloads: 1615
+  publication_date: '2018-06-04'
+  url: https://doi.org/10.12688/f1000research.12344.2
+- authors: 
+  -  Schmidt, Christian
+  - Ferrando-May, Elisa 
+  description: Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
+  license: ccy-by-sa-4.0
+  name:  NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data 
+  tags:
+  - Nfdi4Bioimage
+  - Image Data Management
+  - Bioimage Data
+  - Research Data Management
+  type:
+  - Conference Abstract
+  - Slide
+  publication_date: '2021-04-29' 
+  url: https://doi.org/10.11588/heidok.00029489
+- authors: ELIXIR (2021) Research Data Management Kit
+  description: In this section, information is organised according to the stages of the research data life cycle.
+  license: CC-BY-4.0
+  name: Data life cycle
+  tags:
+  - Data Life Cycle
+  - Research Data Management
+  type:
+  - Collection
+  - Website
+  - Online Tutorial
+  url: https://rdmkit.elixir-europe.org/data_life_cycle
+- license: UNKNOWN
+  name: Tess Search for Data Life Cycle
+  tags:
+  - Data Life Cycle
+  - Research Data Management
+  type:
+  - Collection
+  url: https://tess.elixir-europe.org/search?q=data+life+cycle#materials
+- authors: 
+  - Uli Hahn
+  - Kerstin Helbig
+  - Gerald Jagusch
+  - Jessica Rex
+  description:  Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
+  license: CC-BY-4.0
+  name: Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy 
+  tags:
+    - Research Data Management
+  type:
+  - Publication
+  publication_date: ' 2018-10-22' 
+  url: 
+  - https://bausteine-fdm.de/article/view/7945
+  - https://doi.org/10.17192/bfdm.2018.1.7945 
+- authors: 
+  - Bea Hiemenz
+  - Monika Kuberek
+  description: As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
+  license: CC-BY-4.0
+  name: Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
+  tags:
+  - Research Data Management
+  - FAIR-Principles
+  type:
+  - Publication
+  publication_date: '2018-07-13'
+  url: https://www.o-bib.de/bib/article/view/2018H2S1-13
+- description: This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
+  license: CC-BY-4.0
+  name: Guidance for Developing a Research Data Management (RDM) Policy
+  tags:
+  - Research Data Management
+  type:
+  - Book Chapter
+  num_downloads: 545
+  publication_date: '2017'
+  url: 
+  - https://discovery.ucl.ac.uk/id/eprint/1546596/1/26_Learn_Guidance_137-140.pdf
+  - https://doi.org/10.14324/000.learn.27
+- description: Leading open-source platform for collaborative and living data management plans.
+  license: UNKOWN
+  name: Data Stewardship Wizard
+  tags:
+  - Data Stewardship
+  - Open Source
+  - Research Data Management
+  - FAIR-Principles
+  type:
+  - Website
+  - Online Tutorial
+  url: https://ds-wizard.org/
+- description: Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. 
+  license: UNKNOWN
+  name: RDMO - Research Data Management Organiser
+  tags:
+  - Research Data Management
+  type:
+  - Open Source Software
+  - Website
+  - Online Tutorial
+  url: https://rdmorganiser.github.io/
+- authors: Robert Haase
+  description: In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
+  license: CC-BY-4.0
+  name: Creating a Research Data Management Plan using chatGPT
+  tags:
+  - Research Data Management
+  - Large Language Models
+  - Artificial Intelligence
+  type:
+  - Blog
+  publication_date: '2023-11-06'
+  url: https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/
+- authors: 
+  - Till Kreutzer
+  - Henning Lahmann
+  description: Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
+  license: CC-BY-4.0
+  name:  Rechtsfragen bei Open Science - Ein Leitfaden
+  tags:
+  - Open Science
+  - Open Access
+  - Copyright
+  type:
+  - Book
+  publication_date: '2021-05-25'
+  url: https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205 
+- description: Fiji is a popular free open-source image processing package based on ImageJ.
+  license: BSD-2-CLAUSE
+  name: Fiji
+  tags:
+  - Imagej
+  - OMERO
+  type:
+  - Online Tutorial
+  url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html   
+- authors: Christian Schmidt
+  description: A Microscopy Research Data Management Resource.
+  license: UNKNOWN
+  name: I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
+  tags:
+  - Metadata
+  - I3Dbio
+  - Research Data Management
+  - Bioimage Data
+  type:
+  - Collection
+  url: 
+  - https://gerbi-gmb.de/i3dbio/i3dbio-rdm/i3dbio-bioimage-metadata/
+- description: The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
+  license: UNKNOWN
+  name: Key-Value pairs scripts
+  tags:
+  - OMERO
+  type:
+  - Documentation
+  - Collection
+  url: https://guide-kvpairs-scripts.readthedocs.io/en/latest/
+- authors: 
+  - Ilya G. Goldberg
+  - Chris Allan
+  - Jean-Marie Burel
+  - Doug Creager
+  - Andrea Falconi
+  - et. al
+  description: The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
+  license: CC-BY-4.0
+  name: The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
+  tags:
+  - Microscopy Image Analysis
+  - Bioimage Analysis
+  type:
+  - Publication
+  publication_date: '2005-05-03'
+  url: 
+  - https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47
+  - https://doi.org/10.1186/gb-2005-6-5-r47
+- authors:
+  - Marie-Hélène Bourget
+  - Lee Kamentsky
+  - Satrajit S. Ghosh
+  - Giacomo Mazzamuto
+  - Alberto Lazari
+  - et al.
+  description: The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
+  license: CC-BY-4.0
+  name: Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
+  tags:
+  - Research Data Management
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  num_downloads: 768
+  publication_date: '2022-04-19'
+  url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full
+- description: Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
+  license: CC0-1.0
+  name: REMBI Overview
+  tags:
+  - FAIR-Principles
+  - Metadata
+  - Image Data Management
+  - Research Data Management
+  - Bioimage Data
+  type:
+  - Collection
+  url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
+- authors: 
+  - Rohola Hosseini
+  - Matthijs Vlasveld
+  - Joost Willemse
+  - Bob van de Water
+  - Sylvia E. Le Dévédec 
+  - Katherine J. Wolstencroft 
+  description: The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
+  license: CC-BY-4.0
+  name: FAIR High Content Screening in Bioimaging
+  tags:
+  - FAIR-Principles
+  - Metadata
+  - Research Data Management
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  publication_date: '2023-07-17'
+  url: https://www.nature.com/articles/s41597-023-02367-w
+- authors: 
+  - Lienhard Wegewitz
+  - F. Strauß
+  description: Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
+  license: AGPL-3.0
+  name: Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+  tags:
+  - Research Data Management
+  type:
+  - Documentation
+  - Document
+  - Tutorial
+  publication_date: '2020-03-23'
+  url: 
+  - https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf
+  - https://www.elabftw.net/
+- authors: 
+  - Daniel Dietrich
+  - Jonathan Gray
+  - Tim McNamara
+  - Antti Poikola
+  - Rufus Pollock
+  - et al.
+  description: This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
+  license: CC-BY-4.0
+  name: What is Open Data?
+  tags:
+  - Open Science
+  type:
+  - Collection
+  url: http://opendatahandbook.org/guide/en/what-is-open-data/
+- description: Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
+  license: UNKNOWN
+  name: Five great reasons to share your research data
+  tags:
+  - Research Data Management
+  - Sharing
+  type:
+  - Blog Post
+  publication_date: '2022-03-18'
+  url: https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
+- description: The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
+  license: UNKNOWN
+  name: Research data - what are the key issues to consider when publishing this kind of material?
+  tags:
+  - Research Data Management
+  - FAIR-Principles
+  - Licensing
+  type:
+  - Tutorial
+  url: https://www.publisso.de/en/advice/publishing-advice-faqs/research-data
+- authors: Christian Schmidt
+  description: Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
+  license: UNKNOWN
+  name: Finding and Choosing a Data Repository
+  tags:
+  - I3Dbio
+  - Research Data Management
+  type:
+  - Tutorial
+  publication_date: '2023-07-01'
+  url: https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/
+- description: Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
+  license: CC-BY-4.0
+  name: re3data.org - registry of Research Data Repositories
+  tags:
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.re3data.org/
+- description: In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
+  license: CC-BY-4.0
+  name: FAIR Priciples
+  tags:
+  - FAIR-Principles
+  - Data Stewardship
+  - Research Data Management
+  type:
+  - Collection
+  url: https://www.go-fair.org/fair-principles/
+- description: To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
+  license: CC0-1.0
+  name: Submitting data to the BioImage Archive
+  tags:
+  - Research Data Management
+  - Image Data Management
+  - Bioimage Data
+  type:
+  - Tutorial
+  - Video
+  url: https://www.ebi.ac.uk/bioimage-archive/submit/
+- authors: 
+  - Matthew Hartley 
+  - Gerard J. Kleywegt 
+  - Ardan Patwardhan 
+  - Ugis Sarkans 
+  - Jason R. Swedlow 
+  - Alvis Brazma 
+  description: The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
+  license: UNKNOWN
+  name: The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
+  tags:
+  - Image Data Management
+  - Research Data Management
+  - Bioimage Data
+  type:
+  - Publication
+  publication_date: '2022-06-22'
+  url: 
+  - https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub
+  - https://doi.org/10.1016/j.jmb.2022.167505
+- description: Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
+  license: UNKNOWN
+  name: NFDI - Daten als gemeinsames Gut für exzellente Forschung, organisiert durch die Wissenschaft in Deutschland.
+  tags:
+  - Nfdi4Bioimage
+  - Research Data Management
+  type:
+  - Website
+  url: https://www.nfdi.de/ 
+- authors: 
+  - Leyla Garcia
+  - Bérénice Batut
+  - Melissa L. Burke
+  - Mateusz Kuzak
+  - Fotis Psomopoulos
+  - et al.
+  description: The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+  license: CC-BY-4.0
+  name: Ten simple rules for making training materials FAIR
+  tags:
+  - Metadata
+  - Bioinformatics
+  - FAIR-Principles
+  - Training
+  type:
+  - Publication
+  num_downloads: 4311
+  publication_date: '2020-05-21'
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
+- authors: 
+  - Martin Boeckhout
+  - Gerhard A. Zielhuis
+  - Annelien L. Bredenoord 
+  description: The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
+  license: CC-BY-4.0
+  name: The FAIR guiding principles for data stewardship - fair enough?
+  tags:
+  - FAIR-Principles
+  - Data Stewardship
+  - Sharing
+  type:
+  - Publication
+  publication_date: '2018-05-17'
+  url: https://www.nature.com/articles/s41431-018-0160-0
+- license: CC-BY-SA-4.0
+  name: Data management at France BioImaging
+  tags:
+  - Research Data Management
+  - Bioimage Analysis
+  - Image Data Management
+  - Open Science
+  type:
+  - Slides
+  - Presentation
+  publication_date: '2023-07-05'
+  url: https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide
+- description: Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
+  license: CC-BY-4.0
+  name: DataPLANT knowledge base
+  tags:
+  - Research Data Management
+  - Training
+  - Dataplant
+  type:
+  - Collection
+  publication_date: '2022-12-14'
+  url: https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html
+- description: An easy to use and open source converter for bioimaging data. NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF.
+  license: GPL-2.0
+  name: NGFF Converter 
+  tags:
+  - Bioimage Data
+  - Open Source Software
+  type:
+  - Application
+  url: https://www.glencoesoftware.com/products/ngff-converter/     
+- authors:
+  - Melissa Linkert
+  - Chris Allan
+  - Josh Moore
+  - Sébastien Besson
+  - David Gault
+  - et al.
+  description: Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
+  license: GPL-2.0
+  name: bioformats2raw Converter
+  tags:
+  - Open Source Software
+  - Bioimage Data
+  type:
+  - Application
+  - Github Repository
+  url: https://github.com/glencoesoftware/bioformats2raw
+- authors:
+  - Melissa Linkert
+  - Chris Allan
+  - Sébastien Besson
+  - Josh Moore
+  description: Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
+  license: GPL-2.0
+  name: raw2ometiff Converter
+  tags:
+  - Open Source Software
+  - Bioimage Data
+  type:
+  - Application
+  - Github Repository
+  url: https://github.com/glencoesoftware/raw2ometiff
+- description: This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
+  license: UNKNOWN
+  name: Reporting and reproducibility in microscopy
+  tags:
+  - Reproducibility
+  - Meta Data
+  - Bioimage Data
+  type:
+  - Collection
+  publication_date: '2021-12-03'
+  url: https://www.nature.com/collections/djiciihhjh 
+- authors: Christopher Schmied
+  description: In this paper we introduce two sets of checklists. One is concerned with the publication of images. The other one gives instructions for the publication of image analysis.
+  license: CC0-1.0
+  name: Checklists for publishing images and image analysis
+  tags:
+  - Bioimage Data
+  - Microscopy Image Analysis
+  type:
+  - Forum Post
+  publication_date: '2023-09-14'
+  url: https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304   
+- authors: 
+  - Stian Soiland-Reyes 
+  - Finn Bacall
+  - Bert Droesbeke
+  - Alan R Williams
+  - Johan Gustafsson
+  - et al.
+  description: A registry for describing, sharing and publishing scientific computational workflows.
+  license: BSD-3-CLAUSE
+  name: WorkflowHub
+  tags:
+  - Bioinformatics
+  - Workflow
+  - Workflow Engine
+  - Python
+  - R
+  type:
+  - Collection
+  url: https://workflowhub.eu/             
+- license: CC-BY-4.0
+  name: Creating Workflows and Advanced Workflow Options
+  tags:
+  - Workflow
+  type:
+  - Tutorial
+  - Online Tutorial
+  url: https://galaxyproject.org/learn/advanced-workflow/     
+- description: A workflow is a chain of analysis steps. In Galaxy, we can create a workflow from an existing analysis history, or we can create one visually by adding tools to a canvas. This tutorial covers building a workflow to analyse a bacterial genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
+  license: CC0-1.0
+  name: Galaxy workflows
+  tags:
+  - Workflow
+  type:
+  - Online Tutorial
+  - Tutorial
+  url: https://galaxy-au-training.github.io/tutorials/modules/workflows/         
+- description:  Collection of tutorials developed and maintained by the worldwide Galaxy community.
+  license: CC-BY-4.0
+  name: Galaxy Training
+  tags:
+  - Bioimage Analysis
+  - Data Analysis
+  type:
+  - Collection
+  - Tutorial
+  num_downloads:
+  publication_date:
+  url: https://training.galaxyproject.org/       
+- authors: 
+  description: The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
+  license: GPLv3
+  name: KNIME Image Processing
+  tags:
+  - Imagej
+  - OMERO
+  - Bioimage Data
+  - Workflow
+  type:
+  - Tutorial
+  - Online Tutorial
+  - Documentation
+  url: https://www.knime.com/community/image-processing           
+- description: The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
+  license: CC-BY-4.0
+  name: Abstract - NFDI Basic Service for Data Management Plans
+  tags:
+  - Research Data Management
+  type:
+  - Document
+  url: https://base4nfdi.de/images/AbstractDMP4NFDI.pdf
+- description: OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
+  license: CC-BY-4.0
+  name: Open Micoscropy Environment (OME) Youtube Channel
+  tags:
+  - Open Source Software
+  - Microscopy Image Analysis
+  - Bioimage Data
+  type:
+  - Youtube Channel
+  num_downloads:
+  publication_date:
+  url: https://www.youtube.com/@OpenMicroscopyEnvironment       
+- authors: 
+  - SciPy
+  - Erick Martins Ratamero
+  license: Youttube Standard License
+  name: Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
+  tags:
+  - Image Data Management
+  - OMERO
+  - Bioimage Analysis
+  type:
+  - Video
+  - Presentation
+  publication_date: '2024-08-19'
+  url: https://www.youtube.com/watch?v=GmhyDNm1RsM     
+- authors: 
+  - Pierre Pouchin 
+  - Rdornier
+  - kekunn 
+  - Jean-Marie Burel 
+  description: A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
+  license: GPL-2.0
+  name: Plugin "simple-omero-client" 
+  tags:
+  - OMERO
+  - Github
+  - Fiji
+  type:
+  - Github Repository
+  url: https://github.com/GReD-Clermont/simple-omero-client
+- description: An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
+  license: GPL-2.0
+  name: Plugin "omero-batch-plugin"
+  tags:
+  - OMERO
+  - Imagej
+  - Imagej Macro
+  - Github
+  type:
+  - Github Repository
+  url: https://github.com/GReD-Clermont/omero_batch-plugin
+- authors: 
+  - Torec T. Luik
+  - Rodrigo Rosas-Bertolini 
+  - Eric A.J. Reits 
+  - Ron A. Hoebe 
+  - Przemek M. Krawczyk 
+  description: The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
+  license: CC-BY-4.0
+  name: BIOMERO - A scalable and extensible image analysis framework
+  tags:
+  - OMERO
+  - Workflow
+  - Bioimage Analysis
+  - Image Data Management
+  type:
+  - Publication
+  num_downloads:
+  publication_date:
+  url: https://doi.org/10.1016/j.patter.2024.101024    
+- authors: 
+  - Torec Luik
+  - Johannes Soltwedel
+  description: The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
+  license: Apache-2.0
+  name: Biomero
+  tags:
+  - OMERO
+  - Github
+  type:
+  - Github Repository
+  publication_date: '2024-07-24'
+  url: https://github.com/NL-BioImaging/biomero
+- authors:
+  - Erick Martins Ratamero 
+  - Jean-Marie Burel 
+  - Will Moore 
+  - Guillaume Gay 
+  - Christoph Moehl 
+  - et al.
+  description: An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
+  license: GPL-2.0
+  name: Plugin "omero-cli-transfer"
+  tags:
+  - OMERO
+  type:
+  - Github Repository
+  publication_date: '2024-09-14'
+  url: https://github.com/ome/omero-cli-transfer                     
+- authors: 
+  - Will Moore
+  - Josh Moore
+  - Yaroslav Halchenko
+  - Sébastien Besson
+  description: Web page for validating OME-NGFF files.
+  license: BSD-2-CLAUSE
+  name: ome-ngff-validator
+  tags:
+  - Bioimage Data
+  type:
+  - Github Repository
+  - Application
+  publication_date: '2022-09-29'
+  url: 
+  - https://ome.github.io/ome-ngff-validator/
+  - https://github.com/ome/ome-ngff-validator            
+- description: Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
+  license: CC-BY-4.0
+  name: BioFormats Command line (CLI) tools
+  tags:
+  - Bioimage Data
+  type:
+  - Documentation
+  publication_date: '2024-10-24'
+  url: https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html
+
   
 - authors: Haase, Robert
   description: The integration of Large Language Models (LLMs) in scientific research
