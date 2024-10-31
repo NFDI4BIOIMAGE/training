@@ -14,7 +14,7 @@ def main():
     - issue (int): Issue number containing the GitHub link.
 
     Example(local_test):
-    python scripts/auto-add-github-resources.py "nfdi4bioimage/training" 236
+    python scripts/auto-add-github-resources.py nfdi4bioimage/training 236
     """
     # Retrieve repository and issue number from command-line arguments
     repository = sys.argv[1]
