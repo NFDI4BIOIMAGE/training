@@ -46,7 +46,10 @@ def main():
     record_id = url.split('/')[-1]
 
     # Download the most downloaded file from zenodo and save the first page as PNG in case of PPTX or PDF
-    download_first_file_from_zenodo(record_id)
+    download_first_file_from_zenodo(folder, record_id)
+
+    # Update README.md with the most downloaded record and the PNG
+    update_readme(folder, most_downloaded_record)  # Add this line to update the README file
 
 # functions
 def extract_date_from_filename(filename):
@@ -70,7 +73,7 @@ def get_latest_two_csv_files(folder):
     # Return the two most recent files
     return csv_files[0], csv_files[1]
 
-def download_first_file_from_zenodo(record_id):
+def download_first_file_from_zenodo(folder, record_id):
     """
     Download the first file from a Zenodo record and save the first page as PNG. This does only work if it is a PPTX or PDF file.
     """
@@ -117,7 +120,7 @@ def download_first_file_from_zenodo(record_id):
         print(f"Unsupported file type: {file_extension}")
 
 # Define the format of your PNG file
-def get_latest_png_filename():
+def get_latest_png_filename(folder):
     """
     Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
     """
@@ -126,12 +129,12 @@ def get_latest_png_filename():
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
-def update_readme():
+def update_readme(folder, most_downloaded_record):
     """
     Update the README.md file with the most downloaded record and the PNG.
     """
     # Get the latest PNG file name
-    latest_png = get_latest_png_filename()
+    latest_png = get_latest_png_filename(folder)
 
     # Check if the PNG file exists
     if not os.path.isfile(latest_png):
@@ -183,4 +186,4 @@ def update_readme():
 
 # Run the script
 if __name__ == "__main__":
-    update_readme()
+    main()
