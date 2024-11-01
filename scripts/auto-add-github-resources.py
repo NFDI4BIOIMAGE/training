@@ -6,15 +6,20 @@ from github import Github, GithubException
 
 def main():
     """
-    Main function to retrieve metadata from a GitHub repository and append it to a YAML file. 
+    Main function to retrieve metadata from a GitHub repository and append it to a YAML file.
     Creates a pull request with the updated data.
 
-    Arguments:
-    - repository (str): GitHub repository name.
-    - issue (int): Issue number containing the GitHub link.
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    None
 
-    Example(local_test):
-    python scripts/auto-add-github-resources.py nfdi4bioimage/training 236
+    Examples
+    --------
+    >>> python scripts/auto-add-github-resources.py nfdi4bioimage/training 236
     """
     # Retrieve repository and issue number from command-line arguments
     repository = sys.argv[1]
@@ -59,11 +64,15 @@ def complete_github_data(github_repo_url):
     """
     Retrieves metadata from the specified GitHub repository with checks for missing fields.
 
-    Arguments:
-    - github_repo_url (str): The URL of the GitHub repository to retrieve metadata from.
+    Parameters
+    ----------
+    github_repo_url : str
+        The URL of the GitHub repository to retrieve metadata from.
 
-    Returns:
-    - entry (dict): A dictionary containing the repository metadata in the correct order.
+    Returns
+    -------
+    entry : dict
+        A dictionary containing the repository metadata in the correct order.
     """
     token = os.getenv("GITHUB_API_KEY")
     if not token:
@@ -124,11 +133,15 @@ def get_publication_date(repo):
     the date of the first release is used. If no releases are found, the repository's
     creation date is used as the publication date.
 
-    Arguments:
-    - repo (github.Repository.Repository): The GitHub repository object.
+    Parameters
+    ----------
+    repo : github.Repository.Repository
+        The GitHub repository object.
 
-    Returns:
-    - publication_date (str): The ISO-formatted publication date.
+    Returns
+    -------
+    publication_date : str
+        The ISO-formatted publication date.
     """
     releases = repo.get_releases()
     if releases.totalCount > 0:
@@ -136,7 +149,6 @@ def get_publication_date(repo):
         return first_release.created_at.isoformat()
     elif repo.created_at is not None:
         return repo.created_at.isoformat()
-
 
 if __name__ == "__main__":
     main()

@@ -8,7 +8,14 @@ import yaml
 import datetime 
 
 def main():
-
+    """
+    Main function to run the script that:
+    
+    1. Reads a repository name from command-line arguments.
+    2. Creates a new branch in the given repository.
+    3. Summarizes download statistics from a specified directory.
+    4. Saves the statistics to GitHub as a CSV file.
+    """
     repository = sys.argv[1]
 
     # read "database"
@@ -32,10 +39,19 @@ def main():
 
 def summarize_download_statistics(directory_path):
     """
-    This function summarizes the download statistics of all zenodo entries in the yml files 
-    and saves the statistics in a csv file.
-    """
+    Summarizes download statistics from all zenodo entries listed in YAML files in a given directory.
 
+    Parameters
+    ----------
+    directory_path : str
+        The path to the directory containing the YAML files.
+
+    Returns
+    -------
+    str
+        The content of the created CSV file as a string.
+    """
+    
     #import statements
     import requests
     import json
@@ -113,4 +129,3 @@ def summarize_download_statistics(directory_path):
 
 if __name__ == "__main__":
     main()
-

@@ -35,3 +35,16 @@ for entry in content['resources']:
                     entry['url'].remove(url)
                     entry['url'].append(data['values'][1]['data']['value'])
                     print(entry['url'])
+
+def some_function():
+    """
+    A placeholder function with no operation.
+
+    This function currently serves no purpose other than to demonstrate 
+    how to write a Numpy-style docstring.
+
+    Returns
+    -------
+    None
+    """
+    pass
