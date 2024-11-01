@@ -9,14 +9,15 @@ from pdf2image import convert_from_bytes
 from io import BytesIO
 from PIL import Image
 
+
 def main(): 
     """
     This script will:
     1. Load the two most recent CSV files from the 'download_statistics' folder.
     2. Compare the download counts between the two weeks.
     3. Identify the record with the highest download difference.
-    4. Download the most downloaded file from Zenodo and save the first page as PNG.
-    5. Update the README.md file with the most downloaded record and the PNG.
+    4. Download the most downloaded file from Zenodo if it is licensed CC-BY 4.0 and save the first page as PNG.
+    5. Update the README.md file with the most downloaded record name, author and if it is licensed CC-BY 4.0 the PNG.
     This is done in the github CI before the website is regenerated, after every modification on the main branch.
     """
     folder = 'download_statistics/'
@@ -45,11 +46,11 @@ def main():
     #extract from url the zenodo id
     record_id = url.split('/')[-1]
 
-    # Download the most downloaded file from zenodo and save the first page as PNG in case of PPTX or PDF
-    download_first_file_from_zenodo(folder, record_id)
+    # Download the first file from Zenodo and save the first page as PNG if the license is CC-BY 4.0
+    license_info = download_first_file_from_zenodo(folder, record_id)
 
     # Update README.md with the most downloaded record and the PNG
-    update_readme(folder, most_downloaded_record)  # Add this line to update the README file
+    update_readme(folder, most_downloaded_record, license_info)  # Add this line to update the README file
 
 # functions
 def extract_date_from_filename(filename):
@@ -75,18 +76,25 @@ def get_latest_two_csv_files(folder):
 
 def download_first_file_from_zenodo(folder, record_id):
     """
-    Download the first file from a Zenodo record and save the first page as PNG. This does only work if it is a PPTX or PDF file.
+    If the license is CC-BY 4.0, download the first file from a Zenodo record and save the first page as PNG. This does only work if it is a PPTX or PDF file.
     """
     # Fetch record metadata
     url = f"https://zenodo.org/api/records/{record_id}"
     response = requests.get(url)
     response.raise_for_status()
     data = response.json()
+
+    # Check if license is CC-BY-4.0
+    license_info = data.get('metadata', {}).get('license', {}).get('id', '')
+    print(f"License info from Zenodo: '{license_info}'")
+    if license_info.lower() != "cc-by-4.0":
+        print("Download not allowed: License is not CC-BY 4.0.")
+        return
     
     # Get the first file's download link and file name
     file_info = data['files'][0]
     file_url = file_info['links']['self']
-    file_name = file_info['key']  # This is the file name
+    file_name = file_info['key']
     
     # Download the file content
     response = requests.get(file_url)
@@ -109,15 +117,16 @@ def download_first_file_from_zenodo(folder, record_id):
 
     elif file_extension == '.pdf':
         # Convert first page of PDF to PNG
-        pages = convert_from_bytes(file_content.getvalue())  # Use pdf2image with BytesIO
+        pages = convert_from_bytes(file_content.getvalue())  
         img = pages[0]
-        # save image in folder highlights
 
         img.save(folder + f'highlights/{date}_first_page.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
     else:
         print(f"Unsupported file type: {file_extension}")
+
+    return license_info
 
 # Define the format of your PNG file
 def get_latest_png_filename(folder):
@@ -129,25 +138,36 @@ def get_latest_png_filename(folder):
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
-def update_readme(folder, most_downloaded_record):
+def update_readme(folder, most_downloaded_record, license_info):
     """
-    Update the README.md file with the most downloaded record and the PNG.
+    Update the README.md file with the most downloaded record and the PNG if the license is CC-BY 4.0.
     """
-    # Get the latest PNG file name
-    latest_png = get_latest_png_filename(folder)
+    # Path to the README file
+    readme_path = "docs/readme.md"
+    
+    # License check
+    license_text = ""
+    latest_png = None
 
-    # Check if the PNG file exists
-    if not os.path.isfile(latest_png):
-        print(f"Error: {latest_png} does not exist.")
-        return
+    if license_info == "cc-by-4.0":
+        # Get the latest PNG file name only if license is CC-BY 4.0
+        latest_png = get_latest_png_filename(folder)
+        if os.path.isfile(latest_png):
+            license_text = f"licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+        else:
+            print(f"Error: {latest_png} does not exist. PNG will not be added to README.")
+            latest_png = None  
+    else:
+        print("License is not CC-BY 4.0, so PNG will not be added.")
 
     # Define Zenodo link and authors markdown text
     highlight_text = f"""
     The most downloaded Zenodo resource in the last week can be found under this link [link]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}.
     """
 
-    # Path to the README file
-    readme_path = "docs/readme.md"
+    if license_text:
+        highlight_text += f" This resource is {license_text}."
+
     
     # Read the existing README.md file
     with open(readme_path, 'r') as file:
@@ -161,17 +181,18 @@ def update_readme(folder, most_downloaded_record):
     updated_content = []
     
     for line in content:
-        # Check for the subheading
         if line.strip() == subheading:
             under_subheading = True
-            updated_content.append(line)  # Add the subheading itself
+            updated_content.append(line)  
             updated_content.append(f"\n{highlight_text}\n")
-            updated_content.append(f"\n![latest PNG]({latest_png})\n")
+            
+            if latest_png:
+                updated_content.append(f"\n![latest PNG]({latest_png})\n")
             continue
         
         # Stop removing content after finding the subheading and adding the new content
         if under_subheading:
-            if line.strip().startswith("## "):  # Assumes the next subheading marks the end of this section
+            if line.strip().startswith("## "):  
                 under_subheading = False
 
         # Only add lines if we’re not under the target subheading
