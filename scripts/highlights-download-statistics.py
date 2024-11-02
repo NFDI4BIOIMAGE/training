@@ -17,9 +17,9 @@ def main():
     This script will:
     1. Load the two most recent CSV files from the 'download_statistics' folder.
     2. Compare the download counts between the two weeks.
-    3. Identify the record with the highest download difference.
-    4. Download the most downloaded file from Zenodo if it is licensed CC-BY 4.0 and save the first page as PNG.
-    5. Update the README.md file with the most downloaded record name, author and if it is licensed CC-BY 4.0 the PNG.
+    3. Identify the top three records with the highest download difference.
+    4. Download the most downloaded files from Zenodo if they are licensed CC-BY 4.0 and save the first page as PNG.
+    5. Update the README.md file with the top three downloaded records and their PNG if licensed CC-BY 4.0.
     This is done in the github CI before the website is regenerated, after every modification on the main branch.
     """
 
@@ -35,25 +35,15 @@ def main():
     # Calculate the download difference
     merged_data['download_difference'] = merged_data['downloads_current'] - merged_data['downloads_previous']
 
-    # Find the record with the highest download difference
-    most_downloaded_record = merged_data.loc[merged_data['download_difference'].idxmax()]
+    # Find the top three records with the highest download difference
+    top_three_records = merged_data.nlargest(3, 'download_difference')
 
     # Print the results
-    print("Most downloaded record in the last week:")
-    print(most_downloaded_record[['url', 'download_difference']])
+    print("Top three downloaded records in the last week:")
+    print(top_three_records[['url', 'download_difference']])
 
-    url = most_downloaded_record['url']
-
-    most_downloaded_record.loc["title"] = get_title_of_zenodo_record(url)
-
-    #extract from url the zenodo id
-    record_id = url.split('/')[-1]
-
-    # Download the first file from Zenodo and save the first page as PNG if the license is CC-BY 4.0
-    license_info = download_first_file_from_zenodo(folder, record_id)
-
-    # Update README.md with the most downloaded record and the PNG
-    update_readme(folder, most_downloaded_record, license_info)  # Add this line to update the README file
+    # Update README.md with the top three most downloaded records
+    update_readme(folder, top_three_records)
 
 # functions
 def extract_date_from_filename(filename):
@@ -163,44 +153,33 @@ def get_latest_png_filename(folder):
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
-def update_readme(folder, most_downloaded_record, license_info):
+def update_readme(folder, top_records):
     """
-    Update the README.md file with the most downloaded record and the PNG if the license is CC-BY 4.0.
+    Update the README.md file with the top three downloaded records.
     """
-    # Path to the README file
     readme_path = "docs/readme.md"
     
-    # License check
-    license_text = ""
-    latest_png = None
-
-    if license_info == "cc-by-4.0":
-        # Get the latest PNG file name only if license is CC-BY 4.0
-        latest_png = get_latest_png_filename(folder)
-        if os.path.isfile(latest_png):
-            license_text = f"licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
-            latest_png = latest_png.replace("docs/", "") # readme.md is in the docs folder
-        else:
-            print(f"Error: {latest_png} does not exist. PNG will not be added to README.")
-            latest_png = None  
-    else:
-        print("License is not CC-BY 4.0, so PNG will not be added.")
-
-    # Define Zenodo link and authors markdown text
-    highlight_text = f"""The most downloaded Zenodo resource last week  is [{most_downloaded_record['title']}]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}."""
-
-    if license_text:
-        highlight_text += f" This resource is {license_text}."
-
+    highlights = []
+    for _, record in top_records.iterrows():
+        license_info = download_first_file_from_zenodo(folder, record['url'].split('/')[-1])
+        title = get_title_of_zenodo_record(record['url'])
+        record_highlight = f"""- [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
+        
+        if license_info == "cc-by-4.0":
+            latest_png = get_latest_png_filename(folder)
+            if os.path.isfile(latest_png):
+                record_highlight += f" ![latest PNG]({latest_png.replace('docs/', '')})"
+        
+        highlights.append(record_highlight)
     
-    # Read the existing README.md file
+    highlight_text = "\n".join(highlights)
+
+    # Read and update README.md assuming similar logic to existing code for replacing content
     with open(readme_path, 'r') as file:
         content = file.readlines()
 
-    # Define the subheading under which the PNG should be added
     subheading = "## Most downloaded training material in the last week"
     
-    # Flag to track if the subheading is found
     under_subheading = False
     updated_content = []
     
@@ -209,17 +188,12 @@ def update_readme(folder, most_downloaded_record, license_info):
             under_subheading = True
             updated_content.append(line)  
             updated_content.append(f"\n{highlight_text}\n")
-            
-            if latest_png:
-                updated_content.append(f"\n![latest PNG]({latest_png})\n")
             continue
         
-        # Stop removing content after finding the subheading and adding the new content
         if under_subheading:
             if line.strip().startswith("## "):  
                 under_subheading = False
 
-        # Only add lines if we’re not under the target subheading
         if not under_subheading:
             updated_content.append(line)
 
@@ -228,7 +202,6 @@ def update_readme(folder, most_downloaded_record, license_info):
         file.writelines(updated_content)
     
     print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
-
 
 def get_title_of_zenodo_record(url):
     """Determine the title of a Zenodo record based on its URL."""
