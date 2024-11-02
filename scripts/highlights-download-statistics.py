@@ -9,6 +9,8 @@ from pdf2image import convert_from_bytes
 from io import BytesIO
 from PIL import Image
 
+folder = 'download_statistics/'
+path_to_png = "docs/highlights/"
 
 def main(): 
     """
@@ -20,7 +22,6 @@ def main():
     5. Update the README.md file with the most downloaded record name, author and if it is licensed CC-BY 4.0 the PNG.
     This is done in the github CI before the website is regenerated, after every modification on the main branch.
     """
-    folder = 'download_statistics/'
 
     latest_file, previous_file = get_latest_two_csv_files(folder)
 
@@ -42,6 +43,8 @@ def main():
     print(most_downloaded_record[['url', 'download_difference']])
 
     url = most_downloaded_record['url']
+
+    most_downloaded_record.loc["title"] = get_title_of_zenodo_record(url)
 
     #extract from url the zenodo id
     record_id = url.split('/')[-1]
@@ -105,6 +108,8 @@ def download_first_file_from_zenodo(folder, record_id):
     file_extension = os.path.splitext(file_name)[1].lower()
     date = datetime.now().strftime("%Y%m%d")
 
+    os.makedirs(path_to_png, exist_ok=True)
+
     if file_extension == '.pptx':
         # Convert first slide of PPT to PNG
         prs = Presentation(file_content)
@@ -112,7 +117,7 @@ def download_first_file_from_zenodo(folder, record_id):
         
         # Placeholder slide-to-image conversion (requires custom handling)
         img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
-        img.save(folder + f'highlights/{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
         print("First slide of PPT saved as PNG.")
 
     elif file_extension == '.pdf':
@@ -120,7 +125,7 @@ def download_first_file_from_zenodo(folder, record_id):
         pages = convert_from_bytes(file_content.getvalue())  
         img = pages[0]
 
-        img.save(folder + f'highlights/{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
     else:
@@ -134,7 +139,6 @@ def get_latest_png_filename(folder):
     Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
     """
     date_str = datetime.now().strftime("%Y%m%d")
-    path_to_png = folder + "highlights/"
     return path_to_png + f"{date_str}_first_page.png"
 
 # Function to update README.md
@@ -154,6 +158,7 @@ def update_readme(folder, most_downloaded_record, license_info):
         latest_png = get_latest_png_filename(folder)
         if os.path.isfile(latest_png):
             license_text = f"licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+            latest_png = latest_png.replace("docs/", "") # readme.md is in the docs folder
         else:
             print(f"Error: {latest_png} does not exist. PNG will not be added to README.")
             latest_png = None  
@@ -161,9 +166,7 @@ def update_readme(folder, most_downloaded_record, license_info):
         print("License is not CC-BY 4.0, so PNG will not be added.")
 
     # Define Zenodo link and authors markdown text
-    highlight_text = f"""
-    The most downloaded Zenodo resource in the last week can be found under this link [link]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}.
-    """
+    highlight_text = f"""The most downloaded Zenodo resource last week  is [{most_downloaded_record['title']}]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}."""
 
     if license_text:
         highlight_text += f" This resource is {license_text}."
@@ -204,6 +207,16 @@ def update_readme(folder, most_downloaded_record, license_info):
         file.writelines(updated_content)
     
     print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
+
+
+def get_title_of_zenodo_record(url):
+    """Determine the title of a Zenodo record based on its URL."""
+    record_id = url.split('/')[-1]
+    api_url = f"https://zenodo.org/api/records/{record_id}"
+    response = requests.get(api_url)
+    record_data = response.json()
+    return record_data['metadata']['title']
+
 
 # Run the script
 if __name__ == "__main__":
