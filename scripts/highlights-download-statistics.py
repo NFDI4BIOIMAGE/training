@@ -108,7 +108,7 @@ def download_first_file_from_zenodo(folder, record_id):
         # Placeholder slide-to-image conversion (requires custom handling)
         img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
         img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
         print("First slide of PPT saved as PNG.")
 
     elif file_extension == '.pdf':
@@ -116,7 +116,7 @@ def download_first_file_from_zenodo(folder, record_id):
         pages = convert_from_bytes(file_content.getvalue())  
         img = pages[0]
         img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
     else:
@@ -145,12 +145,12 @@ def resize_image(image, height):
     return image.resize((new_width, height), Image.LANCZOS)
 
 # Define the format of your PNG file
-def get_latest_png_filename(folder):
+def get_latest_png_filename(id):
     """
     Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
     """
     date_str = datetime.now().strftime("%Y%m%d")
-    return path_to_png + f"{date_str}_first_page.png"
+    return path_to_png + f"{date_str}_first_page_{id}.png"
 
 # Function to update README.md
 def update_readme(folder, top_records):
@@ -161,12 +161,14 @@ def update_readme(folder, top_records):
     
     highlights = []
     for _, record in top_records.iterrows():
-        license_info = download_first_file_from_zenodo(folder, record['url'].split('/')[-1])
+        record_id = record['url'].split('/')[-1]
+        license_info = download_first_file_from_zenodo(folder, record_id)
         title = get_title_of_zenodo_record(record['url'])
+
         record_highlight = f"""- [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
         
         if license_info == "cc-by-4.0":
-            latest_png = get_latest_png_filename(folder)
+            latest_png = get_latest_png_filename(record_id)
             if os.path.isfile(latest_png):
                 record_highlight += f" ![latest PNG]({latest_png.replace('docs/', '')})"
         
@@ -178,7 +180,7 @@ def update_readme(folder, top_records):
     with open(readme_path, 'r') as file:
         content = file.readlines()
 
-    subheading = "## Most downloaded training material in the last week"
+    subheading = "## Most downloaded training materials in the last week"
     
     under_subheading = False
     updated_content = []
