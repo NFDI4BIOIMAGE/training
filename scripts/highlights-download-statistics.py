@@ -17,9 +17,9 @@ def main():
     This script will:
     1. Load the two most recent CSV files from the 'download_statistics' folder.
     2. Compare the download counts between the two weeks.
-    3. Identify the record with the highest download difference.
-    4. Download the most downloaded file from Zenodo if it is licensed CC-BY 4.0 and save the first page as PNG.
-    5. Update the README.md file with the most downloaded record name, author and if it is licensed CC-BY 4.0 the PNG.
+    3. Identify the top three records with the highest download difference.
+    4. Download the most downloaded files from Zenodo if they are licensed CC-BY 4.0 and save the first page as PNG.
+    5. Update the README.md file with the top three downloaded records and their PNG if licensed CC-BY 4.0.
     This is done in the github CI before the website is regenerated, after every modification on the main branch.
     """
 
@@ -35,25 +35,15 @@ def main():
     # Calculate the download difference
     merged_data['download_difference'] = merged_data['downloads_current'] - merged_data['downloads_previous']
 
-    # Find the record with the highest download difference
-    most_downloaded_record = merged_data.loc[merged_data['download_difference'].idxmax()]
+    # Find the top three records with the highest download difference
+    top_three_records = merged_data.nlargest(3, 'download_difference')
 
     # Print the results
-    print("Most downloaded record in the last week:")
-    print(most_downloaded_record[['url', 'download_difference']])
+    print("Top three downloaded records in the last week:")
+    print(top_three_records[['url', 'download_difference']])
 
-    url = most_downloaded_record['url']
-
-    most_downloaded_record.loc["title"] = get_title_of_zenodo_record(url)
-
-    #extract from url the zenodo id
-    record_id = url.split('/')[-1]
-
-    # Download the first file from Zenodo and save the first page as PNG if the license is CC-BY 4.0
-    license_info = download_first_file_from_zenodo(folder, record_id)
-
-    # Update README.md with the most downloaded record and the PNG
-    update_readme(folder, most_downloaded_record, license_info)  # Add this line to update the README file
+    # Update README.md with the top three most downloaded records
+    update_readme(folder, top_three_records)
 
 # functions
 def extract_date_from_filename(filename):
@@ -118,7 +108,7 @@ def download_first_file_from_zenodo(folder, record_id):
         # Placeholder slide-to-image conversion (requires custom handling)
         img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
         img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
         print("First slide of PPT saved as PNG.")
 
     elif file_extension == '.pdf':
@@ -126,7 +116,7 @@ def download_first_file_from_zenodo(folder, record_id):
         pages = convert_from_bytes(file_content.getvalue())  
         img = pages[0]
         img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page.png', 'PNG')
+        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
     else:
@@ -155,80 +145,50 @@ def resize_image(image, height):
     return image.resize((new_width, height), Image.LANCZOS)
 
 # Define the format of your PNG file
-def get_latest_png_filename(folder):
+def get_latest_png_filename(id):
     """
     Get the filename of the latest PNG file. The file name is expected to be in the format YYYYMMDD_first_page.png.
     """
     date_str = datetime.now().strftime("%Y%m%d")
-    return path_to_png + f"{date_str}_first_page.png"
+    return path_to_png + f"{date_str}_first_page_{id}.png"
 
 # Function to update README.md
-def update_readme(folder, most_downloaded_record, license_info):
+def update_readme(folder, top_records):
     """
-    Update the README.md file with the most downloaded record and the PNG if the license is CC-BY 4.0.
+    Update the README.md file with the top three downloaded records.
     """
-    # Path to the README file
     readme_path = "docs/readme.md"
     
-    # License check
-    license_text = ""
-    latest_png = None
+    highlights = []
+    count = 0
+    for _, record in top_records.iterrows():
+        record_id = record['url'].split('/')[-1]
+        license_info = download_first_file_from_zenodo(folder, record_id)
+        title = get_title_of_zenodo_record(record['url'])
 
-    if license_info == "cc-by-4.0":
-        # Get the latest PNG file name only if license is CC-BY 4.0
-        latest_png = get_latest_png_filename(folder)
-        if os.path.isfile(latest_png):
-            license_text = f"licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
-            latest_png = latest_png.replace("docs/", "") # readme.md is in the docs folder
-        else:
-            print(f"Error: {latest_png} does not exist. PNG will not be added to README.")
-            latest_png = None  
-    else:
-        print("License is not CC-BY 4.0, so PNG will not be added.")
-
-    # Define Zenodo link and authors markdown text
-    highlight_text = f"""The most downloaded Zenodo resource last week  is [{most_downloaded_record['title']}]({most_downloaded_record['url']}) by {most_downloaded_record['authors_current']}."""
-
-    if license_text:
-        highlight_text += f" This resource is {license_text}."
-
-    
-    # Read the existing README.md file
-    with open(readme_path, 'r') as file:
-        content = file.readlines()
-
-    # Define the subheading under which the PNG should be added
-    subheading = "## Most downloaded training material in the last week"
-    
-    # Flag to track if the subheading is found
-    under_subheading = False
-    updated_content = []
-    
-    for line in content:
-        if line.strip() == subheading:
-            under_subheading = True
-            updated_content.append(line)  
-            updated_content.append(f"\n{highlight_text}\n")
-            
-            if latest_png:
-                updated_content.append(f"\n![latest PNG]({latest_png})\n")
-            continue
+        count = count + 1
+        record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
         
-        # Stop removing content after finding the subheading and adding the new content
-        if under_subheading:
-            if line.strip().startswith("## "):  
-                under_subheading = False
+        if license_info == "cc-by-4.0":
+            latest_png = get_latest_png_filename(record_id)
+            if os.path.isfile(latest_png):
+                record_highlight += f"\n\n![latest PNG]({latest_png.replace('docs/', '')})"
+        
+        highlights.append(record_highlight)
+    
+    highlight_text = "\n".join(highlights)
 
-        # Only add lines if we’re not under the target subheading
-        if not under_subheading:
-            updated_content.append(line)
+    # Read and update README.md assuming similar logic to existing code for replacing content
+    with open(readme_path, 'r') as file:
+        content = file.read()
+
+    content = content.replace("{top_three_downloads}", highlight_text)
 
     # Write the updated content back to the README
     with open(readme_path, 'w') as file:
-        file.writelines(updated_content)
+        file.writelines(content)
     
-    print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
-
+    print(f"README.md updated with the latest top 3 downloads.")
 
 def get_title_of_zenodo_record(url):
     """Determine the title of a Zenodo record based on its URL."""

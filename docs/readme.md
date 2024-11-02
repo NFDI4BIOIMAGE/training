@@ -11,13 +11,10 @@ This is a **preliminary** / **experimental** search index allowing us to explore
 
 Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/NFDI4BIOIMAGE/training/issues).
 
-## Most downloaded training material in the last week
+## Most downloaded training materials in the last week
 
+{top_three_downloads}
 
-    The most downloaded Zenodo resource in the last week can be found under this link [link](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario".
-     This resource is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-![latest PNG](download_statistics/highlights/20241101_first_page.png)
 ## How to use this resource
 
 This Jupyter Book can be searched using the search bar on the left:
@@ -35,12 +32,8 @@ You find instructions in how to contribute on the contributing page.
 
 All contents of this Jupyter book and the corresponding Github repository are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), unless mentioned otherwise.
 
-
 ## Acknowledgements
 
 This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German  Research Foundation) under the National Research Data Infrasstructure – NFDI 46/1 – 501864659.
 
 R.H. acknowledges support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden.
-
-
-
