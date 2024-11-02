@@ -13,13 +13,7 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 
 ## Most downloaded training materials in the last week
 
-- [Resource 1 Title](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (X downloads). 
-  This resource is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-  ![latest PNG](download_statistics/highlights/20241101_first_page.png)
-
-- [Resource 2 Title](https://zenodo.org/records/21212121) by "Author Name" (Y downloads). 
-
-- [Resource 3 Title](https://zenodo.org/records/32132132) by "Author Name" (Z downloads). 
+{top_three_downloads}
 
 ## How to use this resource
 
