@@ -117,6 +117,7 @@ def download_first_file_from_zenodo(folder, record_id):
         
         # Placeholder slide-to-image conversion (requires custom handling)
         img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
+        img = resize_image(img, height=300)
         img.save(path_to_png + f'{date}_first_page.png', 'PNG')
         print("First slide of PPT saved as PNG.")
 
@@ -124,7 +125,7 @@ def download_first_file_from_zenodo(folder, record_id):
         # Convert first page of PDF to PNG
         pages = convert_from_bytes(file_content.getvalue())  
         img = pages[0]
-
+        img = resize_image(img, height=300)
         img.save(path_to_png + f'{date}_first_page.png', 'PNG')
         print("First page of PDF saved as PNG.")
 
@@ -132,6 +133,26 @@ def download_first_file_from_zenodo(folder, record_id):
         print(f"Unsupported file type: {file_extension}")
 
     return license_info
+
+def resize_image(image, height):
+    """
+    Resize the image to the specified height while maintaining aspect ratio.
+
+    Parameters
+    ----------
+    image : PIL.Image.Image
+        The image to resize.
+    height : int
+        The desired height in pixels.
+    
+    Returns
+    -------
+    PIL.Image.Image
+        The resized image.
+    """
+    aspect_ratio = image.width / image.height
+    new_width = int(aspect_ratio * height)
+    return image.resize((new_width, height), Image.LANCZOS)
 
 # Define the format of your PNG file
 def get_latest_png_filename(folder):
