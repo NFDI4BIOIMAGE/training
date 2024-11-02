@@ -160,17 +160,19 @@ def update_readme(folder, top_records):
     readme_path = "docs/readme.md"
     
     highlights = []
+    count = 0
     for _, record in top_records.iterrows():
         record_id = record['url'].split('/')[-1]
         license_info = download_first_file_from_zenodo(folder, record_id)
         title = get_title_of_zenodo_record(record['url'])
 
-        record_highlight = f"""- [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
+        count = count + 1
+        record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
         
         if license_info == "cc-by-4.0":
             latest_png = get_latest_png_filename(record_id)
             if os.path.isfile(latest_png):
-                record_highlight += f" ![latest PNG]({latest_png.replace('docs/', '')})"
+                record_highlight += f"\n\n![latest PNG]({latest_png.replace('docs/', '')})"
         
         highlights.append(record_highlight)
     
@@ -178,32 +180,15 @@ def update_readme(folder, top_records):
 
     # Read and update README.md assuming similar logic to existing code for replacing content
     with open(readme_path, 'r') as file:
-        content = file.readlines()
+        content = file.read()
 
-    subheading = "## Most downloaded training materials in the last week"
-    
-    under_subheading = False
-    updated_content = []
-    
-    for line in content:
-        if line.strip() == subheading:
-            under_subheading = True
-            updated_content.append(line)  
-            updated_content.append(f"\n{highlight_text}\n")
-            continue
-        
-        if under_subheading:
-            if line.strip().startswith("## "):  
-                under_subheading = False
-
-        if not under_subheading:
-            updated_content.append(line)
+    content = content.replace("{top_three_downloads}", highlight_text)
 
     # Write the updated content back to the README
     with open(readme_path, 'w') as file:
-        file.writelines(updated_content)
+        file.writelines(content)
     
-    print(f"README.md updated with the latest PNG under the subheading '{subheading}'.")
+    print(f"README.md updated with the latest top 3 downloads.")
 
 def get_title_of_zenodo_record(url):
     """Determine the title of a Zenodo record based on its URL."""
