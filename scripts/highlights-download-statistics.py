@@ -152,7 +152,7 @@ def resize_image(image, height):
     """
     aspect_ratio = image.width / image.height
     new_width = int(aspect_ratio * height)
-    return image.resize((new_width, height), Image.ANTIALIAS)
+    return image.resize((new_width, height), Image.LANCZOS)
 
 # Define the format of your PNG file
 def get_latest_png_filename(folder):
