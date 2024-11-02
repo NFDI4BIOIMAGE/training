@@ -33,5 +33,6 @@ jobs:
       run: |
         python scripts/generate_link_lists.py
         python scripts/export_csv.py
+        python scripts/highlights-download-statistics.py
         jupyter-book build docs/
 
