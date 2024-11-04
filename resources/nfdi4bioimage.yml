@@ -5585,5 +5585,7 @@ resources:
   - Big Data
   - BioImageAnalysis
   type: GitHub Repository
-  url: https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher
+  url: 
+  - https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher
+  - Tutorial
   
