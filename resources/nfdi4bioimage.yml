@@ -5581,7 +5581,9 @@ resources:
   license: BSD 3-Clause "New" or "Revised" License
   name: Virtual-I2K-2024-multiview-stitcher
   publication_date: '2024-10-30T07:38:11+00:00'
-  tags: TODO
+  tags:
+  - Big Data
+  - BioImageAnalysis
   type: GitHub Repository
   url: https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher
   
