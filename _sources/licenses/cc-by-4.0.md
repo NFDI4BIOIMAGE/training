@@ -1,4 +1,4 @@
-# Cc-by-4.0 (149)
+# Cc-by-4.0 (150)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -1099,6 +1099,25 @@ Tags: Research Data Management
 Content type: Collection
 
 [https://www.forschungsdaten.org/](https://www.forschungsdaten.org/)
+
+
+---
+
+## Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)
+
+['Steuerungsgremium Allianz-Schwerpunkt', 'Alexander von Humboldt Foundation', 'Deutsche Forschungsgemeinschaft', 'Fraunhofer Society', "German Rectors' Conference", 'Leibniz Association', 'German National Academy of Sciences Leopoldina', 'German Academic Exchange Service', 'Helmholtz Association of German Research Centres', 'Max Planck Society']
+
+Published 2024-11-04
+
+Licensed CC-BY-4.0
+
+
+
+Arbeitspapier des Steuerungsgremiums des Allianz-Schwerpunkts "Digitalit&auml;t in der Wissenschaft"
+
+[https://zenodo.org/records/14032908](https://zenodo.org/records/14032908)
+
+[https://doi.org/10.5281/zenodo.14032908](https://doi.org/10.5281/zenodo.14032908)
 
 
 ---
