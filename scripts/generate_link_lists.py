@@ -23,7 +23,7 @@ def main():
     for domain in sorted(list(all_domain_counts.keys())):
         count = all_domain_counts[domain]
         if count >= MINIMUM_ITEM_COUNT:
-            selected_content = find_tag(content, domain)
+            selected_content = find_domain(content, domain)
             filename = "domain/" + domain.replace(" ", "_")
             write_md(selected_content, domain, "docs/" + filename + ".md")
             domain_toc += "    - file: " + filename + "\n"
@@ -366,6 +366,10 @@ def find_type(content, content_type):
 def find_tag(content, tag):
     """Takes a dictionary of resources, searches for resources which have a given tag and returns them as new dictionary."""
     return find_anything(content, "tags", tag)
+
+def find_domain(content, tag):
+    """Takes a dictionary of resources, searches for resources which have a given domain and returns them as new dictionary."""
+    return find_anything(content, "domain", tag)
 
 def find_anything(content, what_to_look_in, what_to_find):
     """
