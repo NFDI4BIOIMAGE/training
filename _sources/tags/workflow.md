@@ -1,4 +1,4 @@
-# Workflow (8)
+# Workflow (9)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -141,6 +141,27 @@ Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
 Content type: Collection
 
 [https://workflowhub.eu/](https://workflowhub.eu/)
+
+
+---
+
+## nextflow-workshop
+
+Published 2023-03-29T10:40:04+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Nextflow workshop materials March 2023
+
+Tags: Workflow, Nextflow
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
+
+[https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1)
 
 
 ---

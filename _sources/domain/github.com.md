@@ -1,4 +1,4 @@
-# Github.com (108)
+# Github.com (109)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1763,6 +1763,27 @@ Content type: Github Repository, Tutorial
 [https://github.com/vibbits/introduction-to-generative-ai](https://github.com/vibbits/introduction-to-generative-ai)
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md)
+
+
+---
+
+## nextflow-workshop
+
+Published 2023-03-29T10:40:04+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Nextflow workshop materials March 2023
+
+Tags: Workflow, Nextflow
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
+
+[https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1)
 
 
 ---
