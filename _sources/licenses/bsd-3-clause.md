@@ -1,4 +1,4 @@
-# Bsd-3-clause (21)
+# Bsd-3-clause (22)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 ['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
@@ -308,6 +308,25 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
+
+
+---
+
+## Virtual-I2K-2024-multiview-stitcher
+
+Published 2024-10-30T07:38:11+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Repository accompanying the multiview-stitcher tutorial for Virtual I2K 2024
+
+Tags: Big Data, Bioimageanalysis
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher](https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher)
 
 
 ---

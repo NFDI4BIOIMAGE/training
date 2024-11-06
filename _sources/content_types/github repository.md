@@ -1,4 +1,4 @@
-# Github repository (28)
+# Github repository (29)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -427,6 +427,25 @@ Content type: Workshop, Github Repository, Tutorial
 [https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
 
 [https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
+
+
+---
+
+## Virtual-I2K-2024-multiview-stitcher
+
+Published 2024-10-30T07:38:11+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Repository accompanying the multiview-stitcher tutorial for Virtual I2K 2024
+
+Tags: Big Data, Bioimageanalysis
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher](https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher)
 
 
 ---
