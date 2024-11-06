@@ -25,7 +25,7 @@ def main():
         if count >= MINIMUM_ITEM_COUNT:
             selected_content = find_tag(content, domain)
             filename = "domain/" + domain.replace(" ", "_")
-            write_md(selected_content, domain, "domain/" + filename + ".md")
+            write_md(selected_content, domain, "docs/" + filename + ".md")
             domain_toc += "    - file: " + filename + "\n"
     replace_in_file(toc_file, "{domain_toc}", domain_toc)
 

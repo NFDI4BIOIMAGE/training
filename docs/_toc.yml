@@ -23,6 +23,7 @@ parts:
 {license_toc}
 
   - caption: By domain
+    chapters:
 {domain_toc}
 
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
