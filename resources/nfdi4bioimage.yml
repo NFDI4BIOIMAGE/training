@@ -5688,3 +5688,17 @@ resources:
   - https://doi.org/10.5281/zenodo.14044640
 
   
+- author: Bruna Piereck, Alexander Botzki
+  description: Course repository for Strategic Use of Generative AI
+  license: Creative Commons Attribution 4.0 International
+  name: introduction-to-generative-ai
+  publication_date: '2024-09-27T14:38:51+00:00'
+  tags:
+  - artificial intelligence
+  type: 
+  - GitHub Repository
+  - Tutorial
+  url: 
+  - https://github.com/vibbits/introduction-to-generative-ai
+  - https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md
+  
