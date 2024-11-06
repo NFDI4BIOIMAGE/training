@@ -5610,7 +5610,12 @@ resources:
   license: MIT License
   name: Prompt-Engineering-LLMs-Course
   publication_date: '2024-09-11T07:45:30+00:00'
-  tags: TODO
-  type: GitHub Repository
+  tags:
+  - LLMs
+  - Prompt Engineering
+  - Code Generation
+  type: 
+  - GitHub Repository
+  - Tutorial
   url: https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
   
