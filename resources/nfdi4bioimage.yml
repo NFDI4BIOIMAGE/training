@@ -5605,6 +5605,20 @@ resources:
   - https://zenodo.org/records/14030307
   - https://doi.org/10.5281/zenodo.14030307
   
+- author: Isra Mekki
+  description: ''
+  license: MIT License
+  name: Prompt-Engineering-LLMs-Course
+  publication_date: '2024-09-11T07:45:30+00:00'
+  tags:
+  - LLMs
+  - Prompt Engineering
+  - Code Generation
+  type: 
+  - GitHub Repository
+  - Tutorial
+  url: https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
+
 - authors: Massei, Riccardo, Berndt, Matthias, Serrano-Solano, Beatriz, Busch, Wibke,
     Scholz, Stefan, Bohring, Hannes, Nyffeler, Jo, Reger, Luise, Bumberger, Jan, Lopez-Delisle,
     Lucille
@@ -5657,4 +5671,5 @@ resources:
   url:
   - https://zenodo.org/records/14044640
   - https://doi.org/10.5281/zenodo.14044640
+
   
