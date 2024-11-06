@@ -5705,10 +5705,16 @@ resources:
 - author: Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts,
     Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
   description: Nextflow workshop materials March 2023
-  license: Other
+  license: cc-by-4.0
   name: nextflow-workshop
   publication_date: '2023-03-29T10:40:04+00:00'
-  tags: TODO
-  type: GitHub Repository
-  url: https://github.com/vibbits/nextflow-workshop
+  tags: 
+  - workflow
+  - nextflow
+  type: 
+  - GitHub Repository
+  - Tutorial
+  url: 
+  - https://github.com/vibbits/nextflow-workshop
+  - https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1
   
