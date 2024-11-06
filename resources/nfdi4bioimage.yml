@@ -5575,6 +5575,21 @@ resources:
   url: https://f1000research.com/articles/11-638/v2
   
 
+- author: Marvin Albert
+  description: Repository accompanying the multiview-stitcher tutorial for Virtual I2K
+    2024
+  license: BSD 3-Clause "New" or "Revised" License
+  name: Virtual-I2K-2024-multiview-stitcher
+  publication_date: '2024-10-30T07:38:11+00:00'
+  tags:
+  - Big Data
+  - BioImageAnalysis
+  type: 
+  - GitHub Repository
+  - Tutorial
+  url: 
+  - https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher
+
 - authors: Steuerungsgremium Allianz-Schwerpunkt, Alexander von Humboldt Foundation,
     Deutsche Forschungsgemeinschaft, Fraunhofer Society, German Rectors' Conference,
     Leibniz Association, German National Academy of Sciences Leopoldina, German Academic
