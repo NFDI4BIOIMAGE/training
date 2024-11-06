@@ -5574,3 +5574,19 @@ resources:
   publication_date: '2022-09-20'
   url: https://f1000research.com/articles/11-638/v2
   
+
+- authors: Steuerungsgremium Allianz-Schwerpunkt, Alexander von Humboldt Foundation,
+    Deutsche Forschungsgemeinschaft, Fraunhofer Society, German Rectors' Conference,
+    Leibniz Association, German National Academy of Sciences Leopoldina, German Academic
+    Exchange Service, Helmholtz Association of German Research Centres, Max Planck Society
+  description: Arbeitspapier des Steuerungsgremiums des Allianz-Schwerpunkts "Digitalit&auml;t
+    in der Wissenschaft"
+  license: cc-by-4.0
+  name: "Forschungsdatenmanagement zukunftsfest gestalten \u2013 Impulse f\xFCr die\
+    \   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)"
+  num_downloads: 237
+  publication_date: '2024-11-04'
+  url:
+  - https://zenodo.org/records/14032908
+  - https://doi.org/10.5281/zenodo.14032908
+  
