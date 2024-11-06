@@ -6,4 +6,3 @@ pandas
 pygithub
 toolz
 pdf2image
-python-pptx

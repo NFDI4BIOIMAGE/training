@@ -4,7 +4,6 @@ import os
 import pandas as pd
 from datetime import datetime
 import requests
-from pptx import Presentation
 from pdf2image import convert_from_bytes
 from io import BytesIO
 from PIL import Image
@@ -67,7 +66,7 @@ def get_latest_two_csv_files(folder):
     # Return the two most recent files
     return csv_files[0], csv_files[1]
 
-def download_first_file_from_zenodo(folder, record_id):
+def download_first_pdf_file_from_zenodo(folder, record_id):
     """
     If the license is CC-BY 4.0, download the first file from a Zenodo record and save the first page as PNG. This does only work if it is a PPTX or PDF file.
     """
@@ -84,43 +83,34 @@ def download_first_file_from_zenodo(folder, record_id):
         print("Download not allowed: License is not CC-BY 4.0.")
         return
     
-    # Get the first file's download link and file name
-    file_info = data['files'][0]
-    file_url = file_info['links']['self']
-    file_name = file_info['key']
-    
-    # Download the file content
-    response = requests.get(file_url)
-    response.raise_for_status()
-    file_content = BytesIO(response.content)
+    # Get the first PDF file's download link and file name
+    for file_info in data['files']:
+        if file_info['key'].endswith('pdf'):
+            file_url = file_info['links']['self']
+            file_name = file_info['key']
 
-    # Check file extension and convert based on that
-    file_extension = os.path.splitext(file_name)[1].lower()
-    date = datetime.now().strftime("%Y%m%d")
+            # Download the file content
+            response = requests.get(file_url)
+            response.raise_for_status()
+            file_content = BytesIO(response.content)
 
-    os.makedirs(path_to_png, exist_ok=True)
+            # Check file extension and convert based on that
+            file_extension = os.path.splitext(file_name)[1].lower()
+            date = datetime.now().strftime("%Y%m%d")
 
-    if file_extension == '.pptx':
-        # Convert first slide of PPT to PNG
-        prs = Presentation(file_content)
-        slide = prs.slides[0]
-        
-        # Placeholder slide-to-image conversion (requires custom handling)
-        img = Image.new('RGB', (1280, 720), color = 'white')  # Placeholder, slides cannot be directly converted to images
-        img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
-        print("First slide of PPT saved as PNG.")
+            os.makedirs(path_to_png, exist_ok=True)
 
-    elif file_extension == '.pdf':
-        # Convert first page of PDF to PNG
-        pages = convert_from_bytes(file_content.getvalue())  
-        img = pages[0]
-        img = resize_image(img, height=300)
-        img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
-        print("First page of PDF saved as PNG.")
+            if file_extension == '.pdf':
+                # Convert first page of PDF to PNG
+                pages = convert_from_bytes(file_content.getvalue())
+                img = pages[0]
+                img = resize_image(img, height=300)
+                img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
+                print("First page of PDF saved as PNG.")
+                break
 
-    else:
-        print(f"Unsupported file type: {file_extension}")
+            else:
+                print(f"Unsupported file type: {file_extension}")
 
     return license_info
 
@@ -163,14 +153,16 @@ def update_readme(folder, top_records):
     count = 0
     for _, record in top_records.iterrows():
         record_id = record['url'].split('/')[-1]
-        license_info = download_first_file_from_zenodo(folder, record_id)
+        license_info = download_first_pdf_file_from_zenodo(folder, record_id)
         title = get_title_of_zenodo_record(record['url'])
 
         count = count + 1
         record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
-        
+
+        print("license_info", license_info)
         if license_info == "cc-by-4.0":
             latest_png = get_latest_png_filename(record_id)
+            print("latest_png", latest_png, os.path.isfile(latest_png))
             if os.path.isfile(latest_png):
                 record_highlight += f"\n\n![latest PNG]({latest_png.replace('docs/', '')})"
         
