@@ -1,4 +1,4 @@
-# Cc-by-4.0 (150)
+# Cc-by-4.0 (151)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -2418,6 +2418,26 @@ Tags: Python
 Content type: Publication, Preprint
 
 [https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract](https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract)
+
+
+---
+
+## Stackview sliceplot example data
+
+['Robert Haase']
+
+Published 2024-11-03
+
+Licensed CC-BY-4.0
+
+
+
+This is a dataset of PNG images of [Bio-Image Data Science teaching slides](https://zenodo.org/records/12623730). The png_umap.yml file contains a list of all images and a dimensionality reduced embedding (Uniform Manifold Approximation Projection, UMAP) made using OpenAI's text-embedding-ada-002 model.
+A notebook for visualizing this data is published here: https://github.com/haesleinhuepf/stackview/blob/main/docs/sliceplot.ipynb
+
+[https://zenodo.org/records/14030307](https://zenodo.org/records/14030307)
+
+[https://doi.org/10.5281/zenodo.14030307](https://doi.org/10.5281/zenodo.14030307)
 
 
 ---

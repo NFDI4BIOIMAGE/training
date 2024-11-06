@@ -1,4 +1,4 @@
-# Robert haase (49)
+# Robert haase (50)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 ['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
@@ -824,6 +824,26 @@ Tags: Sharing, Research Data Management
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Stackview sliceplot example data
+
+['Robert Haase']
+
+Published 2024-11-03
+
+Licensed CC-BY-4.0
+
+
+
+This is a dataset of PNG images of [Bio-Image Data Science teaching slides](https://zenodo.org/records/12623730). The png_umap.yml file contains a list of all images and a dimensionality reduced embedding (Uniform Manifold Approximation Projection, UMAP) made using OpenAI's text-embedding-ada-002 model.
+A notebook for visualizing this data is published here: https://github.com/haesleinhuepf/stackview/blob/main/docs/sliceplot.ipynb
+
+[https://zenodo.org/records/14030307](https://zenodo.org/records/14030307)
+
+[https://doi.org/10.5281/zenodo.14030307](https://doi.org/10.5281/zenodo.14030307)
 
 
 ---
