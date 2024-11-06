@@ -1,4 +1,4 @@
-# Tutorial (30)
+# Tutorial (31)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
@@ -398,6 +398,25 @@ Tags: Bioimage Analysis, Training
 Content type: Github Repository, Tutorial, Workshop, Slides
 
 [https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
+
+
+---
+
+## Prompt-Engineering-LLMs-Course
+
+Published 2024-09-11T07:45:30+00:00
+
+Licensed MIT
+
+
+
+
+
+Tags: Llms, Prompt Engineering, Code Generation
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
 
 
 ---

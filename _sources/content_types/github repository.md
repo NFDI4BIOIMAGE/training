@@ -1,4 +1,4 @@
-# Github repository (27)
+# Github repository (28)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -330,6 +330,25 @@ Tags: OMERO, Github, Fiji
 Content type: Github Repository
 
 [https://github.com/GReD-Clermont/simple-omero-client](https://github.com/GReD-Clermont/simple-omero-client)
+
+
+---
+
+## Prompt-Engineering-LLMs-Course
+
+Published 2024-09-11T07:45:30+00:00
+
+Licensed MIT
+
+
+
+
+
+Tags: Llms, Prompt Engineering, Code Generation
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
 
 
 ---

@@ -1,4 +1,4 @@
-# Mit (19)
+# Mit (20)
 ## BioEngine Documentation
 
 ['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
@@ -199,6 +199,25 @@ Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
 Content type: Github Repository
 
 [https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
+
+
+---
+
+## Prompt-Engineering-LLMs-Course
+
+Published 2024-09-11T07:45:30+00:00
+
+Licensed MIT
+
+
+
+
+
+Tags: Llms, Prompt Engineering, Code Generation
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
 
 
 ---
