@@ -417,6 +417,8 @@ def write_md(resources, title, filename):
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
+                if isinstance(authors, list):
+                    authors = ", ".join(authors)
                 file.write(f"\n{authors}\n")
             if 'publication_date' in properties:
                 publication_date = properties['publication_date']
