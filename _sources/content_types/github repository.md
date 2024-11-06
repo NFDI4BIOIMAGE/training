@@ -1,4 +1,4 @@
-# Github repository (29)
+# Github repository (30)
 ## BIDS-lecture-2024
 
 ['Robert Haase']
@@ -482,6 +482,27 @@ Tags: Python, Big Data
 Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
+
+
+---
+
+## introduction-to-generative-ai
+
+Published 2024-09-27T14:38:51+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course repository for Strategic Use of Generative AI
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/vibbits/introduction-to-generative-ai](https://github.com/vibbits/introduction-to-generative-ai)
+
+[https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md)
 
 
 ---

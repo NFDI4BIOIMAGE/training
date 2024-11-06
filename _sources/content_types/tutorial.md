@@ -1,4 +1,4 @@
-# Tutorial (32)
+# Tutorial (33)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 ['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
@@ -566,6 +566,27 @@ Tags: Big Data, Bioimageanalysis
 Content type: Github Repository, Tutorial
 
 [https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher](https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher)
+
+
+---
+
+## introduction-to-generative-ai
+
+Published 2024-09-27T14:38:51+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course repository for Strategic Use of Generative AI
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/vibbits/introduction-to-generative-ai](https://github.com/vibbits/introduction-to-generative-ai)
+
+[https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md)
 
 
 ---

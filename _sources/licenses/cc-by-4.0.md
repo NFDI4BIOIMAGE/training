@@ -1,4 +1,4 @@
-# Cc-by-4.0 (152)
+# Cc-by-4.0 (153)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 ['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
@@ -3023,6 +3023,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## introduction-to-generative-ai
+
+Published 2024-09-27T14:38:51+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course repository for Strategic Use of Generative AI
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository, Tutorial
+
+[https://github.com/vibbits/introduction-to-generative-ai](https://github.com/vibbits/introduction-to-generative-ai)
+
+[https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md)
 
 
 ---
