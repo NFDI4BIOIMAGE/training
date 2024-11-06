@@ -4,7 +4,6 @@ import os
 import pandas as pd
 from datetime import datetime
 import requests
-from pptx import Presentation
 from pdf2image import convert_from_bytes
 from io import BytesIO
 from PIL import Image
@@ -84,9 +83,9 @@ def download_first_pdf_file_from_zenodo(folder, record_id):
         print("Download not allowed: License is not CC-BY 4.0.")
         return
     
-    # Get the first file's download link and file name
+    # Get the first PDF file's download link and file name
     for file_info in data['files']:
-        if file_info['type'] == 'pdf':
+        if file_info['key'].endswith('pdf'):
             file_url = file_info['links']['self']
             file_name = file_info['key']
 
@@ -108,6 +107,7 @@ def download_first_pdf_file_from_zenodo(folder, record_id):
                 img = resize_image(img, height=300)
                 img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
                 print("First page of PDF saved as PNG.")
+                break
 
             else:
                 print(f"Unsupported file type: {file_extension}")
@@ -158,9 +158,11 @@ def update_readme(folder, top_records):
 
         count = count + 1
         record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
-        
+
+        print("license_info", license_info)
         if license_info == "cc-by-4.0":
             latest_png = get_latest_png_filename(record_id)
+            print("latest_png", latest_png, os.path.isfile(latest_png))
             if os.path.isfile(latest_png):
                 record_highlight += f"\n\n![latest PNG]({latest_png.replace('docs/', '')})"
         
