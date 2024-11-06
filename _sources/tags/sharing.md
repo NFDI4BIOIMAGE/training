@@ -1,7 +1,7 @@
 # Sharing (10)
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## Collaborative bio-image analysis script editing with git
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -75,7 +75,7 @@ Content type: Tutorial
 
 ## Sharing Your Poster on Figshare: A Community Guide to How-To and Why
 
-['Elisabeth Kugler']
+Elisabeth Kugler
 
 
 
@@ -90,7 +90,7 @@ Content type: Blog
 
 ## Sharing and licensing material
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -109,7 +109,7 @@ Content type: Slide
 
 ## Sharing research data with Zenodo
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -143,7 +143,7 @@ Content type: Tutorial
 
 ## Studentsourcing - aggregating and re-using data from a practical cell biology course
 
-['Joachim Goedhart']
+Joachim Goedhart
 
 
 
@@ -158,7 +158,7 @@ Content type: Preprint
 
 ## The FAIR guiding principles for data stewardship - fair enough?
 
-['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+Martin Boeckhout, Gerhard A. Zielhuis, Annelien L. Bredenoord
 
 Published 2018-05-17
 

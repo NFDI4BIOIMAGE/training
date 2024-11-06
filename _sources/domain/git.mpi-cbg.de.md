@@ -1,7 +1,7 @@
 # Git.mpi-cbg.de (7)
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -18,7 +18,7 @@ Content type: Slide
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -35,7 +35,7 @@ Content type: Slide
 
 ## Lecture Applied Bioimage Analysis 2020
 
-['Robert Haase']
+Robert Haase
 
 
 
@@ -52,7 +52,7 @@ Content type: Slide
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -71,7 +71,7 @@ Content type: Slide
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -90,7 +90,7 @@ Content type: Slide
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -107,7 +107,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 

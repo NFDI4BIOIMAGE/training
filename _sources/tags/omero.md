@@ -1,7 +1,7 @@
 # Omero (30)
 ## BIOMERO - A scalable and extensible image analysis framework
 
-['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
 
 Published None
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## Biomero
 
-['Torec Luik', 'Johannes Soltwedel']
+Torec Luik, Johannes Soltwedel
 
 Published 2024-07-24
 
@@ -43,7 +43,7 @@ Content type: Github Repository
 
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -60,7 +60,7 @@ Content type: Blog
 
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
-['SciPy', 'Erick Martins Ratamero']
+SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
@@ -111,7 +111,7 @@ Content type: Workshop
 
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -130,7 +130,7 @@ Content type: Videos, Tutorial, Collection
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
 Licensed CC-BY-4.0
 
@@ -149,7 +149,7 @@ Content type: Collection
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -210,7 +210,7 @@ Content type: Documentation, Collection
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -257,7 +257,7 @@ Content type: Collection, Event
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed MIT
 
@@ -276,7 +276,7 @@ Content type: Github Repository
 
 ## OMERO - QuPath
 
-['Rémy Jean Daniel Dornier']
+Rémy Jean Daniel Dornier
 
 Licensed ['CC-BY-NC-SA-4.0']
 
@@ -325,7 +325,7 @@ Content type: Documentation
 
 ## OMERO for microscopy research data management
 
-['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 Licensed ALL RIGHTS RESERVED
 
@@ -389,7 +389,7 @@ Content type: Collection
 
 ## Omero-tools
 
-['Johannes Soltwedel']
+Johannes Soltwedel
 
 Licensed CC-BY-4.0
 
@@ -440,7 +440,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -461,7 +461,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-['Pierre Pouchin', 'Rdornier', 'kekunn', 'Jean-Marie Burel']
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -495,7 +495,7 @@ Content type: Collection, Video
 
 ## User friendly Image metadata annotation tool/workflow for OMERO
 
-['Jens Wendt']
+Jens Wendt
 
 
 
@@ -510,7 +510,7 @@ Content type: Forum Post
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 

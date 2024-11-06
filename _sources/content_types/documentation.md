@@ -1,7 +1,7 @@
 # Documentation (19)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-['Caterina Fuster-Barceló']
+Caterina Fuster-Barceló
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco', 'et al.']
+Daniel Franco-Barranco, et al.
 
 
 
@@ -35,7 +35,7 @@ Content type: Documentation
 
 ## BioEngine Documentation
 
-['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
 
 Licensed MIT
 
@@ -73,7 +73,7 @@ Content type: Documentation
 
 ## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
 
-['Lienhard Wegewitz', 'F. Strauß']
+Lienhard Wegewitz, F. Strauß
 
 Published 2020-03-23
 
@@ -96,7 +96,7 @@ Content type: Documentation, Document, Tutorial
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -149,7 +149,7 @@ Content type: Documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -204,7 +204,7 @@ Content type: Documentation, Collection
 
 ## Making your package available on conda-forge
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -221,7 +221,7 @@ Content type: Documentation
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
@@ -240,7 +240,7 @@ Content type: Publication, Documentation
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
@@ -259,7 +259,7 @@ Content type: Publication, Documentation
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 

@@ -1,7 +1,7 @@
 # Stefanie weidtkamp-peters (5)
 ## A practical guide to bioimaging research data management in core facilities
 
-['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
 
 
 
@@ -16,7 +16,7 @@ Content type: Publication
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -41,7 +41,7 @@ Content type: Slide, Video
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -58,7 +58,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Stefanie Weidtkamp-Peters']
+Stefanie Weidtkamp-Peters
 
 Licensed CC-BY-4.0
 
@@ -77,7 +77,7 @@ Content type: Slides
 
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'Stefanie Weidtkamp-Peters', 'members of the NFDI4BIOIMAGE initiative']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
 Licensed CC-BY-4.0
 

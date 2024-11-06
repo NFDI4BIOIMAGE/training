@@ -1,7 +1,7 @@
 # Pia voigt (6)
 ## Crashkurs Forschungsdatenmanagement
 
-['Barbara Weiner', 'Stephan Wünsche', 'Stefan Kühne', 'Pia Voigt', 'Sebastian Frericks', 'Clemens Hoffmann', 'Romy Elze', 'Ronny Gey']
+Barbara Weiner, Stephan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Elze, Ronny Gey
 
 Published 2020-04-30
 
@@ -26,7 +26,7 @@ Content type: Slides
 
 ## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
 
-['Pia Voigt', 'Carolin Hundt']
+Pia Voigt, Carolin Hundt
 
 Published 2024-04-19
 
@@ -50,7 +50,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 1
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-23
 
@@ -77,7 +77,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 2
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-30
 
@@ -108,7 +108,7 @@ Content type: Slides
 
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
-['Stephan Wünsche', 'Pia Voigt']
+Stephan Wünsche, Pia Voigt
 
 Published 2021-05-11
 
@@ -133,7 +133,7 @@ Content type: Slides
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-['Pia Voigt']
+Pia Voigt
 
 Published 2024-05-30
 

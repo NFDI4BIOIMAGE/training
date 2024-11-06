@@ -1,7 +1,7 @@
 # Zenodo.org (70)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
-['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
+Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
 
 Published 2021-01-25
 
@@ -24,7 +24,7 @@ Content type: Slides
 
 ## 6 Steps Towards Reproducible Research
 
-['Heidi Seibold']
+Heidi Seibold
 
 Licensed CC-BY-4.0
 
@@ -43,7 +43,7 @@ Content type: Book
 
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
-['Anca Margineanu', 'Chiara Stringari', 'Marcelo Zoccoler', 'Cornelia Wetzker']
+Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -62,7 +62,7 @@ Content type: Slides
 
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
-['Stephan Wünsche']
+Stephan Wünsche
 
 Published 2024-06-04
 
@@ -87,7 +87,7 @@ Content type: Slides
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-['Cornelia Wetzker']
+Cornelia Wetzker
 
 Published 2023-11-08
 
@@ -110,7 +110,7 @@ Content type: Slide
 
 ## Bio-image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-28
 
@@ -132,7 +132,7 @@ https://github.com/haesleinhuepf/git-bob
 
 ## Bio-image Analysis Code Generation using bia-bob
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-09
 
@@ -151,7 +151,7 @@ In this presentation I introduce bia-bob, an AI-based code generator that integr
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-13
 
@@ -174,7 +174,7 @@ Content type: Slide
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -193,7 +193,7 @@ Content type: Slides
 
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
-['Riccardo Massei', 'Matthias Berndt', 'Beatriz Serrano-Solano', 'Wibke Busch', 'Stefan Scholz', 'Hannes Bohring', 'Jo Nyffeler', 'Luise Reger', 'Jan Bumberger', 'Lucille Lopez-Delisle']
+Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
 
 Published 2024-11-06
 
@@ -226,7 +226,7 @@ Content type: Collection
 
 ## ChatGPT for Image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-25
 
@@ -245,7 +245,7 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
+Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
 
 Licensed CC-BY-4.0
 
@@ -264,7 +264,7 @@ Content type: Poster
 
 ## Crashkurs Forschungsdatenmanagement
 
-['Barbara Weiner', 'Stephan Wünsche', 'Stefan Kühne', 'Pia Voigt', 'Sebastian Frericks', 'Clemens Hoffmann', 'Romy Elze', 'Ronny Gey']
+Barbara Weiner, Stephan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Elze, Ronny Gey
 
 Published 2020-04-30
 
@@ -289,7 +289,7 @@ Content type: Slides
 
 ## Creating open computational curricula
 
-['Kari Jordan', 'Zhian Kamvar', 'Toby Hodges']
+Kari Jordan, Zhian Kamvar, Toby Hodges
 
 Published 2020-12-11
 
@@ -310,7 +310,7 @@ Content type: Slide
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -333,7 +333,7 @@ Content type: Slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-25
 
@@ -358,7 +358,7 @@ Content type: Slides
 
 ## DALIA Interchange Format
 
-['Jonathan Geiger', 'Petra Steiner', 'Abdelmoneim Amer Desouki', 'Frank Lange']
+Jonathan Geiger, Petra Steiner, Abdelmoneim Amer Desouki, Frank Lange
 
 Published 2024-06-07
 
@@ -381,7 +381,7 @@ We would like to thank all the commentators of the previous versions, especially
 
 ## Datenmanagement
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-14
 
@@ -404,7 +404,7 @@ Content type: Slides
 
 ## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
 
-['Pia Voigt', 'Carolin Hundt']
+Pia Voigt, Carolin Hundt
 
 Published 2024-04-19
 
@@ -428,7 +428,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 1
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-23
 
@@ -455,7 +455,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 2
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-30
 
@@ -486,7 +486,7 @@ Content type: Slides
 
 ## Efficiently starting institutional research data management
 
-['Katarzyna Biernacka', 'Katrin Cortez', 'Kerstin Helbig']
+Katarzyna Biernacka, Katrin Cortez, Kerstin Helbig
 
 Published 2019-10-15
 
@@ -510,7 +510,7 @@ Content type: Document
 
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
-['Stephan Wünsche', 'Pia Voigt']
+Stephan Wünsche, Pia Voigt
 
 Published 2021-05-11
 
@@ -535,7 +535,7 @@ Content type: Slides
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -558,7 +558,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -582,7 +582,7 @@ Content type: Collection, Tutorial
 
 ## Excel template for adding Key-Value Pairs to images
 
-['Thomas Zobel', 'Jens Wendt']
+Thomas Zobel, Jens Wendt
 
 Published 2024-10-30
 
@@ -604,7 +604,7 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 ## Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)
 
-['Steuerungsgremium Allianz-Schwerpunkt', 'Alexander von Humboldt Foundation', 'Deutsche Forschungsgemeinschaft', 'Fraunhofer Society', "German Rectors' Conference", 'Leibniz Association', 'German National Academy of Sciences Leopoldina', 'German Academic Exchange Service', 'Helmholtz Association of German Research Centres', 'Max Planck Society']
+Steuerungsgremium Allianz-Schwerpunkt, Alexander von Humboldt Foundation, Deutsche Forschungsgemeinschaft, Fraunhofer Society, German Rectors' Conference, Leibniz Association, German National Academy of Sciences Leopoldina, German Academic Exchange Service, Helmholtz Association of German Research Centres, Max Planck Society
 
 Published 2024-11-04
 
@@ -623,7 +623,7 @@ Arbeitspapier des Steuerungsgremiums des Allianz-Schwerpunkts "Digitalit&auml;t 
 
 ## From Cells to Pixels: Bridging Biologists and  Image Analysts Through a Common Language
 
-['Elnaz Fazeli', 'Haase Robert', 'Doube Michael', 'Miura Kota', 'Legland David']
+Elnaz Fazeli, Haase Robert, Doube Michael, Miura Kota, Legland David
 
 Published 2024-08-16
 
@@ -642,7 +642,7 @@ Bioimaging has transformed our understanding of biological processes, yet extrac
 
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
-['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
+Marcelo Zoccoler, Simon Bekemeier, Tom Boissonnet, Simon Parker, Luca Bertinetti, Marc Gentzel, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-06-10
 
@@ -670,7 +670,7 @@ Content type: Slides
 
 ## Getting started with Python: intro and set-up a conda environment
 
-['Riccardo Massei']
+Riccardo Massei
 
 Published 2024-10-09
 
@@ -690,7 +690,7 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -709,7 +709,7 @@ Content type: Slides
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
 Licensed CC-BY-4.0
 
@@ -728,7 +728,7 @@ Content type: Collection
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -753,7 +753,7 @@ Content type: Slide, Video
 
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
-['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
+Kate Hertweck, Carly Strasser, Dario Taraborelli
 
 Licensed CC-BY-4.0
 
@@ -772,7 +772,7 @@ Content type: Publication
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-15
 
@@ -802,7 +802,7 @@ Content type: Slides
 
 ## Large Language Models: An Introduction for Life Scientists
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-27
 
@@ -821,7 +821,7 @@ Large Language Models (LLMs) are changing the way how humans interact with compu
 
 ## MicroSam-Talks
 
-['Constantin Pape']
+Constantin Pape
 
 Published 2024-05-23
 
@@ -849,7 +849,7 @@ Content type: Slides
 
 ## My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
 
-['Elnaz Fazeli']
+Elnaz Fazeli
 
 Published 2024-02-19
 
@@ -872,7 +872,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE
 
-['Carsten Fortmann.Grote']
+Carsten Fortmann.Grote
 
 Licensed CC-BY-4.0
 
@@ -891,7 +891,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -910,7 +910,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and Bioimage Analysis
 
-['Marcelo Zoccoler']
+Marcelo Zoccoler
 
 Published 2024-08-07
 
@@ -930,7 +930,7 @@ As a method-specific consortium, NFDI4BIOMAGE seeks to address these issues, ena
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -949,7 +949,7 @@ Content type: Github Repository
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-['Floden Evan', 'Di Tommaso Paolo']
+Floden Evan, Di Tommaso Paolo
 
 Published 2020-12-17
 
@@ -972,7 +972,7 @@ Content type: Slide
 
 ## Open Science, Sharing & Licensing
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-18
 
@@ -995,7 +995,7 @@ Content type: Slides
 
 ## QuPath: Open source software for analysing (awkward) images
 
-['Peter Bankhead']
+Peter Bankhead
 
 Published 2020-12-16
 
@@ -1018,7 +1018,7 @@ Content type: Slide
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -1037,7 +1037,7 @@ Content type: Slides
 
 ## Research Data Management Seminar - Slides
 
-['Della Chiesa', 'Stefano']
+Della Chiesa, Stefano
 
 Published 2022-05-18
 
@@ -1069,7 +1069,7 @@ Content type: Slide
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-['Pia Voigt']
+Pia Voigt
 
 Published 2024-05-30
 
@@ -1092,7 +1092,7 @@ Content type: Slides
 
 ## Stackview sliceplot example data
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-11-03
 
@@ -1112,7 +1112,7 @@ A notebook for visualizing this data is published here: https://github.com/haesl
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-['Susanne Kunis']
+Susanne Kunis
 
 Published 2022-08-24
 
@@ -1139,7 +1139,7 @@ Content type: Video
 
 ## Sustainable Data Stewardship
 
-['Stefano Della Chiesa']
+Stefano Della Chiesa
 
 Published 2024-03-25
 
@@ -1162,7 +1162,7 @@ Content type: Slides
 
 ## Thinking data management on different scales
 
-['Susanne Kunis']
+Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -1181,7 +1181,7 @@ Content type: Slides
 
 ## Towards Preservation of Life Science Data with NFDI4BIOIMAGE
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-29
 
@@ -1200,7 +1200,7 @@ This talk will present the initiatives of the NFDI4BioImage consortium aimed at 
 
 ## Towards Transparency and Knowledge Exchange in AI-assisted Data Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-14
 
@@ -1219,7 +1219,7 @@ The integration of Large Language Models (LLMs) in scientific research presents 
 
 ## Train-the-Trainer Concept on Research Data Management
 
-['Katarzyna Biernacka', 'Maik Bierwirth', 'Petra Buchholz', 'Dominika Dolzycka', 'Kerstin Helbig', 'Janna Neumann', 'Carolin Odebrecht', 'Cord Wiljes', 'Ulrike Wuttke']
+Katarzyna Biernacka, Maik Bierwirth, Petra Buchholz, Dominika Dolzycka, Kerstin Helbig, Janna Neumann, Carolin Odebrecht, Cord Wiljes, Ulrike Wuttke
 
 Published 2020-11-04
 
@@ -1244,7 +1244,7 @@ Content type: Book
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -1263,7 +1263,7 @@ Content type: Slides
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -1282,7 +1282,7 @@ Content type: Poster
 
 ## [BINA CC] Scalable strategies for a next-generation of FAIR bioimaging
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-09-24
 
@@ -1301,7 +1301,7 @@ Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-c
 
 ## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -1320,7 +1320,7 @@ Content type: Poster
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -1339,7 +1339,7 @@ Content type: Poster
 
 ## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-05-26
 
@@ -1360,7 +1360,7 @@ Presentation made to the GBI Image Data Management Working Group during the 7th 
 National Research Data Infrastructure 
 for Microscopy and BioImage Analysis
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-10-29
 
@@ -1379,7 +1379,7 @@ Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-exp
 
 ## [I2K] Scalable strategies for a next-generation of FAIR bioimaging
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-10-25
 
@@ -1399,7 +1399,7 @@ Presented at https://events.humantechnopole.it/event/1/
 
 ## [N4BI AHM] Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Published 2023-10-16
 
@@ -1422,7 +1422,7 @@ Content type: Slides
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -1441,7 +1441,7 @@ Content type: Poster
 
 ## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed CC-BY-4.0
 
@@ -1460,7 +1460,7 @@ Content type: Slides
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
+Vanessa Fuchs, Fiona Aphaia, Christian Schmidt, Tom Boissonnet
 
 Published 2024-05-06
 
@@ -1517,7 +1517,7 @@ Day 2 - April 30th, 2024
 
 ## ilastik: interactive machine learning for (bio)image analysis
 
-['Anna Kreshuk', 'Dominik Kutra']
+Anna Kreshuk, Dominik Kutra
 
 Licensed CC-BY-4.0
 
@@ -1534,7 +1534,7 @@ Content type: Slide
 
 ## quantixed/TheDigitalCell: First complete code set
 
-['Stephen Royle']
+Stephen Royle
 
 Published 2019-04-17
 

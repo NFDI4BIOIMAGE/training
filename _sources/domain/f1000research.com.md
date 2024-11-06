@@ -1,7 +1,7 @@
 # F1000research.com (11)
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Slide
 
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
-['Florian Levet', 'Anne E. Carpenter', 'Kevin W. Eliceiri', 'Anna Kreshuk', 'Peter Bankhead', 'Robert Haase']
+Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -37,7 +37,7 @@ Content type: Publication
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -54,7 +54,7 @@ Content type: Publication, Poster
 
 ## FAIRy deep-learning for bioImage analysis
 
-['Estibaliz Gómez de Mariscal']
+Estibaliz Gómez de Mariscal
 
 Licensed CC-BY-4.0
 
@@ -73,7 +73,7 @@ Content type: Slides
 
 ## Generative artificial intelligence for bio-image analysis
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -90,7 +90,7 @@ Content type: Slide
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
+Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
 
@@ -109,7 +109,7 @@ Content type: Publication
 
 ## Hitchhiking through a diverse Bio-image Analysis Software Universe
 
-['Robert Haase']
+Robert Haase
 
 Published 2022-07-22
 
@@ -132,7 +132,7 @@ Content type: Slide, Presentation
 
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -149,7 +149,7 @@ Content type: Slide
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -170,7 +170,7 @@ Content type: Publication
 
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'Stefanie Weidtkamp-Peters', 'members of the NFDI4BIOIMAGE initiative']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
 Licensed CC-BY-4.0
 
@@ -187,7 +187,7 @@ Content type: Publication
 
 ## Sharing and licensing material
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 

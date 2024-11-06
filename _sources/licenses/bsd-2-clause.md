@@ -1,7 +1,7 @@
 # Bsd-2-clause (7)
 ## Adding a Workflow to BIAFLOWS
 
-['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
+Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
 Licensed BSD-2-CLAUSE
 
@@ -95,7 +95,7 @@ Content type: Collection
 
 ## ome-ngff-validator
 
-['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+Will Moore, Josh Moore, Yaroslav Halchenko, Sébastien Besson
 
 Published 2022-09-29
 

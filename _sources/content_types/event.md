@@ -27,7 +27,7 @@ Content type: Collection, Event
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 

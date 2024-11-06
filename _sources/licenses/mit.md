@@ -1,7 +1,7 @@
 # Mit (20)
 ## BioEngine Documentation
 
-['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
 
 Licensed MIT
 
@@ -20,7 +20,7 @@ Content type: Documentation
 
 ## CellTrackColab
 
-['Guillaume Jacquemet']
+Guillaume Jacquemet
 
 Licensed MIT
 
@@ -37,7 +37,7 @@ Content type: Notebook, Collection
 
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
-['Constantin Pape']
+Constantin Pape
 
 Licensed MIT
 
@@ -65,7 +65,7 @@ Content type: Tutorial, Code
 
 ## Deep Vision and Graphics
 
-['Victor Yurchenko', 'Fedor Ratnikov', 'Viktoriia Checkalina']
+Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
 Licensed MIT
 
@@ -95,7 +95,7 @@ Content type: Slides, Tutorial
 
 ## Image analysis course material
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed MIT
 
@@ -110,7 +110,7 @@ Training materials about image registration, big warp and elastix
 
 ## Image processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed MIT
 
@@ -129,7 +129,7 @@ Content type: Notebook
 
 ## Intro napari slides
 
-['Peter Sobolewski']
+Peter Sobolewski
 
 Licensed MIT
 
@@ -148,7 +148,7 @@ Content type: Slides
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape']
+Costantin Pape
 
 Licensed MIT
 
@@ -167,7 +167,7 @@ Content type: Notebook
 
 ## NLP Course
 
-['Yandex School of Data Analysis']
+Yandex School of Data Analysis
 
 Licensed MIT
 
@@ -186,7 +186,7 @@ Content type: Github Repository
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed MIT
 
@@ -224,7 +224,7 @@ Content type: Github Repository, Tutorial
 
 ## Python BioImage Analysis Tutorial
 
-['Jonas Hartmann']
+Jonas Hartmann
 
 Licensed MIT
 
@@ -239,7 +239,7 @@ Tags: Python, Bioimage Analysis
 
 ## Python for Microscopists
 
-['Sreenivas Bhattiprolu']
+Sreenivas Bhattiprolu
 
 Licensed MIT
 
@@ -256,7 +256,7 @@ Content type: Notebook, Collection
 
 ## Teaching Bioimage Analysis with Python
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -273,7 +273,7 @@ Content type: Tutorial
 
 ## Teaching ImageJ FIJI
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -320,7 +320,7 @@ Content type: Workshop, Collection
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
 Licensed MIT
 

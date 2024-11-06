@@ -1,7 +1,7 @@
 # All rights reserved (13)
 ## Basics of Image Processing and Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -18,7 +18,7 @@ Content type: Book
 
 ## BioImage Data Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -35,7 +35,7 @@ Content type: Book
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -56,7 +56,7 @@ Content type: Publication
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
 Licensed ALL RIGHTS RESERVED
 
@@ -103,7 +103,7 @@ Content type: Collection, Video
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -133,7 +133,7 @@ Content type: Collection
 
 ## OMERO for microscopy research data management
 
-['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 Licensed ALL RIGHTS RESERVED
 
@@ -152,7 +152,7 @@ Content type: Publication
 
 ## Open microscopy in the life sciences: quo vadis?
 
-['Johannes Hohlbein', 'Benedict Diederich', 'Barbora Marsikova', 'Emmanuel G. Reynaud', 'Séamus Holden', 'Wiebke Jahr', 'Robert Haase', 'Kirti Prakash']
+Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
 
 Published 2022
 
@@ -171,7 +171,7 @@ Content type: Publication
 
 ## The Fiji Updater
 
-['Robert Haase']
+Robert Haase
 
 Licensed ALL RIGHTS RESERVED
 

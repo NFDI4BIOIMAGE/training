@@ -44,7 +44,7 @@ Content type: Collection, Video
 
 ## DigitalSreeni YouTube Channel
 
-['Sreeni Bhattiprolu']
+Sreeni Bhattiprolu
 
 
 
@@ -63,7 +63,7 @@ Content type: Collection, Video
 
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
-['SciPy', 'Erick Martins Ratamero']
+SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
@@ -143,7 +143,7 @@ Content type: Video
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -213,7 +213,7 @@ Content type: Collection, Video
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -234,7 +234,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
 
 Licensed CC-BY-4.0
 
@@ -328,7 +328,7 @@ Content type: Collection, Video
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-['Susanne Kunis']
+Susanne Kunis
 
 Published 2022-08-24
 

@@ -1,7 +1,7 @@
 # Poster (10)
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
 
@@ -16,7 +16,7 @@ Content type: Publication, Poster
 
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
+Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
 
 Licensed CC-BY-4.0
 
@@ -35,7 +35,7 @@ Content type: Poster
 
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
-['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
+Riccardo Massei, Stefan Scholz, Wibke Busch, Thomas Schnike, Hannes Bohring, Jan Bumberger
 
 Licensed CC-BY-4.0
 
@@ -54,7 +54,7 @@ Content type: Poster
 
 ## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
 
-['Matúš Kalaš et al.']
+Matúš Kalaš et al.
 
 Licensed CC-BY-4.0
 
@@ -73,7 +73,7 @@ Content type: Poster
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -90,7 +90,7 @@ Content type: Publication, Poster
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Licensed CC-BY-SA-4.0
 
@@ -107,7 +107,7 @@ Content type: Poster, Publication
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -126,7 +126,7 @@ Content type: Poster
 
 ## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -145,7 +145,7 @@ Content type: Poster
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -164,7 +164,7 @@ Content type: Poster
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 

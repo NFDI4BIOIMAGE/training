@@ -1,7 +1,7 @@
 # Fair-principles (27)
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-['Torsten Stöter', 'Tobias Gottschall', 'Andrea Schrader', 'Peter Zentis', 'Monica Valencia-Schneider', 'Niraj Kandpal', 'Werner Zuschratter', 'Astrid Schauss', 'Timo Dickscheid', 'Timo Mühlhaus', 'Dirk von Suchodoletz']
+Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Poster
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -43,7 +43,7 @@ Content type: Slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-25
 
@@ -85,7 +85,7 @@ Content type: Website, Online Tutorial
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -108,7 +108,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -132,7 +132,7 @@ Content type: Collection, Tutorial
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -170,7 +170,7 @@ Content type: Collection
 
 ## FAIRy deep-learning for bioImage analysis
 
-['Estibaliz Gómez de Mariscal']
+Estibaliz Gómez de Mariscal
 
 Licensed CC-BY-4.0
 
@@ -189,7 +189,7 @@ Content type: Slides
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-15
 
@@ -219,7 +219,7 @@ Content type: Slides
 
 ## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
 
-['Bea Hiemenz', 'Monika Kuberek']
+Bea Hiemenz, Monika Kuberek
 
 Published 2018-07-13
 
@@ -240,7 +240,7 @@ Content type: Publication
 
 ## Modeling community standards for metadata as templates makes data FAIR
 
-['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+Mark A Musen, Martin J O'Connor, Erik Schultes, Marcos Martínez-Romero, Josef Hardi, John Graybeal
 
 Published 2022-11-12
 
@@ -263,7 +263,7 @@ Content type: Publication
 
 ## Multimodal large language models for bioimage analysis
 
-['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
 Licensed ['CC-BY-NC-SA']
 
@@ -284,7 +284,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE
 
-['Carsten Fortmann.Grote']
+Carsten Fortmann.Grote
 
 Licensed CC-BY-4.0
 
@@ -303,7 +303,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Stefanie Weidtkamp-Peters']
+Stefanie Weidtkamp-Peters
 
 Licensed CC-BY-4.0
 
@@ -322,7 +322,7 @@ Content type: Slides
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -341,7 +341,7 @@ Content type: Github Repository
 
 ## Open Science, Sharing & Licensing
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-18
 
@@ -364,7 +364,7 @@ Content type: Slides
 
 ## Photonic data analysis in 2050
 
-['Oleg Ryabchykov', 'Shuxia Guo', 'Thomas Bocklitz']
+Oleg Ryabchykov, Shuxia Guo, Thomas Bocklitz
 
 Licensed CC-BY-4.0
 
@@ -383,7 +383,7 @@ Content type: Publication
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -436,7 +436,7 @@ Content type: Tutorial
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-['Pia Voigt']
+Pia Voigt
 
 Published 2024-05-30
 
@@ -459,7 +459,7 @@ Content type: Slides
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -480,7 +480,7 @@ Content type: Publication
 
 ## The FAIR Guiding Principles for scientific data management and stewardship
 
-['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, et. al
 
 Published 2016-03-15
 
@@ -503,7 +503,7 @@ Content type: Publication
 
 ## The FAIR guiding principles for data stewardship - fair enough?
 
-['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+Martin Boeckhout, Gerhard A. Zielhuis, Annelien L. Bredenoord
 
 Published 2018-05-17
 
@@ -524,7 +524,7 @@ Content type: Publication
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -543,7 +543,7 @@ Content type: Poster
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 

@@ -18,7 +18,7 @@ Content type: Website, Online Tutorial
 
 ## Data life cycle
 
-['ELIXIR (2021) Research Data Management Kit']
+ELIXIR (2021) Research Data Management Kit
 
 Licensed CC-BY-4.0
 
@@ -37,7 +37,7 @@ Content type: Collection, Website, Online Tutorial
 
 ## Ghent University Research Data Management (RDM) - policy and support
 
-['University of Ghent']
+University of Ghent
 
 Licensed UNKNOWN
 
@@ -73,7 +73,7 @@ Content type: Website
 
 ## RDM Starter Kit
 
-['GO FAIR']
+GO FAIR
 
 Licensed CC-BY-4.0
 

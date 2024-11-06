@@ -33,7 +33,7 @@ Content type: Website, Online Tutorial
 
 ## Data life cycle
 
-['ELIXIR (2021) Research Data Management Kit']
+ELIXIR (2021) Research Data Management Kit
 
 Licensed CC-BY-4.0
 
@@ -120,7 +120,7 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -141,7 +141,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## OMERO - QuPath
 
-['Rémy Jean Daniel Dornier']
+Rémy Jean Daniel Dornier
 
 Licensed ['CC-BY-NC-SA-4.0']
 

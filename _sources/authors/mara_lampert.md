@@ -1,7 +1,7 @@
 # Mara lampert (8)
 ## Annotating 3D images in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -16,7 +16,7 @@ Content type: Blog
 
 ## Feature extraction in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -31,7 +31,7 @@ Content type: Blog
 
 ## Getting started with Mambaforge and Python
 
-['Mara Lampert']
+Mara Lampert
 
 Licensed CC-BY-4.0
 
@@ -48,7 +48,7 @@ Content type: Blog
 
 ## How to write a bug report
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -63,7 +63,7 @@ Content type: Blog
 
 ## Prompt Engineering in Bio-image Analysis
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -78,7 +78,7 @@ Content type: Blog
 
 ## Quality assurance of segmentation results
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -93,7 +93,7 @@ Content type: Blog
 
 ## Rescaling images and pixel (an)isotropy
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -108,7 +108,7 @@ Content type: Blog
 
 ## Tracking in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 

@@ -20,7 +20,7 @@ Content type: Collection
 
 ## EMBL-EBI material collection
 
-['EMBL-EBI']
+EMBL-EBI
 
 Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
@@ -39,7 +39,7 @@ Content type: Collection
 
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -58,7 +58,7 @@ Content type: Videos, Tutorial, Collection
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -77,7 +77,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
 
-['Stephan Saalfeld', 'Tobias Pietzsch']
+Stephan Saalfeld, Tobias Pietzsch
 
 Published None
 
@@ -98,7 +98,7 @@ Content type: Workshop, Notebook, Github Repository
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -119,7 +119,7 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -140,7 +140,7 @@ Content type: Publication
 
 ## Ultrack I2K 2024 Workshop Materials
 
-['Jordão Bragantini', 'Teun Huijben']
+Jordão Bragantini, Teun Huijben
 
 Licensed BSD3-CLAUSE
 
@@ -159,7 +159,7 @@ Content type: Workshop, Github Repository, Tutorial
 
 ## Using Glittr.org to find, compare and re-use online training materials
 
-['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+Geert van Geest, Yann Haefliger, Monique Zahn-Zabal, Patricia M. Palagi
 
 Licensed CC-BY-4.0
 

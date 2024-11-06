@@ -1,7 +1,7 @@
 # Open source software (7)
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
-['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
+Kate Hertweck, Carly Strasser, Dario Taraborelli
 
 Licensed CC-BY-4.0
 
@@ -56,7 +56,7 @@ Content type: Video, Collection
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -94,7 +94,7 @@ Content type: Website, Online Tutorial
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -113,7 +113,7 @@ Content type: Application, Github Repository
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 

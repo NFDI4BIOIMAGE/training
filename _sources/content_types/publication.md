@@ -1,7 +1,7 @@
 # Publication (60)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
-['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
+Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
 
 Published 2021
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -39,7 +39,7 @@ Content type: Publication, Conference Abstract
 
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
+Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -58,7 +58,7 @@ Content type: Publication
 
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
-['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
+Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
 
 Licensed BSD-3-CLAUSE
 
@@ -75,7 +75,7 @@ Content type: Collection, Publication
 
 ## A call for public archives for biological image data
 
-['Jan Ellenberg', 'Jason R. Swedlow', 'Mary Barlow', 'Charles E. Cook', 'Ugis Sarkans', 'Ardan Patwardhan', 'Alvis Brazma', 'Ewan Birney']
+Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney
 
 
 
@@ -90,7 +90,7 @@ Content type: Publication
 
 ## A practical guide to bioimaging research data management in core facilities
 
-['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
 
 
 
@@ -105,7 +105,7 @@ Content type: Publication
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
 
@@ -120,7 +120,7 @@ Content type: Publication, Poster
 
 ## BIOMERO - A scalable and extensible image analysis framework
 
-['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
 
 Published None
 
@@ -141,7 +141,7 @@ Content type: Publication
 
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -162,7 +162,7 @@ Content type: Publication
 
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
-['Christian Tischer', 'Ashis Ravindran', 'Sabine Reither', 'Nicolas Chiaruttini', 'Rainer Pepperkok', 'Nils Norlin']
+Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
 Licensed CC-BY-4.0
 
@@ -179,7 +179,7 @@ Content type: Publication
 
 ## BioEngine
 
-['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
 Licensed UNKNOWN
 
@@ -211,7 +211,7 @@ Content type: Collection, Data, Publication
 
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
-['Suganya Sivagurunathan', 'Stefania Marcotti', 'Carl J Nelson', 'Martin L Jones', 'David J Barry', 'Thomas J A Slater', 'Kevin W Eliceiri', 'Beth A Cimini']
+Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
 
@@ -232,7 +232,7 @@ Content type: Publication, Preprint
 
 ## Building a FAIR image data ecosystem for microscopy communities
 
-['Isabel Kemmer', 'Antje Keppler', 'Beatriz Serrano-Solano', 'Arina Rybina', 'Buğra Özdemir', 'Johanna Bischof', 'Ayoub El Ghadraoui', 'John E. Eriksson', 'Aastha Mathur']
+Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
 
 
 
@@ -247,7 +247,7 @@ Content type: Publication
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -268,7 +268,7 @@ Content type: Publication
 
 ## Challenges and opportunities for bioimage analysis core-facilities
 
-['Johannes Richard Soltwedel', 'Robert Haase']
+Johannes Richard Soltwedel, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -287,7 +287,7 @@ Content type: Publication
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
 Licensed ALL RIGHTS RESERVED
 
@@ -304,7 +304,7 @@ Content type: Publication
 
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
-['Florian Levet', 'Anne E. Carpenter', 'Kevin W. Eliceiri', 'Anna Kreshuk', 'Peter Bankhead', 'Robert Haase']
+Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -323,7 +323,7 @@ Content type: Publication
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -340,7 +340,7 @@ Content type: Publication, Poster
 
 ## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
 
-['Uli Hahn', 'Kerstin Helbig', 'Gerald Jagusch', 'Jessica Rex']
+Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex
 
 Published  2018-10-22
 
@@ -363,7 +363,7 @@ Content type: Publication
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -384,7 +384,7 @@ Content type: Publication
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
+Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
 
@@ -416,7 +416,7 @@ Content type: Collection, Data, Publication
 
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
-['Kate Hertweck', 'Carly Strasser', 'Dario Taraborelli']
+Kate Hertweck, Carly Strasser, Dario Taraborelli
 
 Licensed CC-BY-4.0
 
@@ -435,7 +435,7 @@ Content type: Publication
 
 ## JIPipe: visual batch processing for ImageJ
 
-['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -454,7 +454,7 @@ Content type: Publication, Documentation
 
 ## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
 
-['Bea Hiemenz', 'Monika Kuberek']
+Bea Hiemenz, Monika Kuberek
 
 Published 2018-07-13
 
@@ -475,7 +475,7 @@ Content type: Publication
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -492,7 +492,7 @@ Content type: Publication
 
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
-['Anjalie Schlaeppi', 'Wilson Adams', 'Robert Haase', 'Jan Huisken', 'Ryan B. MacDonald', 'Kevin W. Eliceiri', 'Elisabeth C. Kugler']
+Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
 Licensed CC-BY-4.0
 
@@ -509,7 +509,7 @@ Content type: Publication
 
 ## Metadata matters: access to image data in the real world
 
-['Melissa Linkert', 'et al.']
+Melissa Linkert, et al.
 
 Published 2010
 
@@ -526,7 +526,7 @@ Content type: Publication
 
 ## MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text
 
-['Joel Ryan', 'Thomas Pengo', 'Alex Rigano', 'Paula Montero Llopis', 'Michelle S. Itano', 'Lisa A. Cameron', 'Guillermo Marqués', 'Caterina Strambio-De-Castillia', 'Mark A. Sanders', 'Claire M. Brown']
+Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown
 
 
 
@@ -541,7 +541,7 @@ Content type: Publication
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
@@ -560,7 +560,7 @@ Content type: Publication, Documentation
 
 ## Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications
 
-['Alessandro Rigano', 'et al.']
+Alessandro Rigano, et al.
 
 
 
@@ -575,7 +575,7 @@ Content type: Publication
 
 ## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
 
-['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+Marie-Hélène Bourget, Lee Kamentsky, Satrajit S. Ghosh, Giacomo Mazzamuto, Alberto Lazari, et al.
 
 Published 2022-04-19
 
@@ -596,7 +596,7 @@ Content type: Publication
 
 ## Modeling community standards for metadata as templates makes data FAIR
 
-['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+Mark A Musen, Martin J O'Connor, Erik Schultes, Marcos Martínez-Romero, Josef Hardi, John Graybeal
 
 Published 2022-11-12
 
@@ -619,7 +619,7 @@ Content type: Publication
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
@@ -638,7 +638,7 @@ Content type: Publication, Documentation
 
 ## Multimodal large language models for bioimage analysis
 
-['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
 Licensed ['CC-BY-NC-SA']
 
@@ -659,7 +659,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Licensed CC-BY-SA-4.0
 
@@ -676,7 +676,7 @@ Content type: Poster, Publication
 
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -693,7 +693,7 @@ Content type: Publication
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -712,7 +712,7 @@ Content type: Event, Publication, Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -729,7 +729,7 @@ Content type: Publication
 
 ## OMERO for microscopy research data management
 
-['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 Licensed ALL RIGHTS RESERVED
 
@@ -748,7 +748,7 @@ Content type: Publication
 
 ## Open microscopy in the life sciences: quo vadis?
 
-['Johannes Hohlbein', 'Benedict Diederich', 'Barbora Marsikova', 'Emmanuel G. Reynaud', 'Séamus Holden', 'Wiebke Jahr', 'Robert Haase', 'Kirti Prakash']
+Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
 
 Published 2022
 
@@ -767,7 +767,7 @@ Content type: Publication
 
 ## Photonic data analysis in 2050
 
-['Oleg Ryabchykov', 'Shuxia Guo', 'Thomas Bocklitz']
+Oleg Ryabchykov, Shuxia Guo, Thomas Bocklitz
 
 Licensed CC-BY-4.0
 
@@ -786,7 +786,7 @@ Content type: Publication
 
 ## Plants & Python - A series of lessons in coding, plant biology, computation, and bioinformatics
 
-['Dan Chitwood', 'Sourabh Palande']
+Dan Chitwood, Sourabh Palande
 
 
 
@@ -803,7 +803,7 @@ Content type: Publication
 
 ## QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy
 
-['Glyn Nelson', 'Ulrike Boehme', 'et al.']
+Glyn Nelson, Ulrike Boehme, et al.
 
 Licensed CC-BY-4.0
 
@@ -820,7 +820,7 @@ Content type: Publication
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -845,7 +845,7 @@ Content type: Publication
 
 ## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
 
-['Costantino Thanos']
+Costantino Thanos
 
 Published 2017-01-09
 
@@ -866,7 +866,7 @@ Content type: Publication
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -887,7 +887,7 @@ Content type: Publication
 
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'Stefanie Weidtkamp-Peters', 'members of the NFDI4BIOIMAGE initiative']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
 Licensed CC-BY-4.0
 
@@ -904,7 +904,7 @@ Content type: Publication
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
+Susanne Kunis, Karen Bernhardt, Michael Hensel
 
 Licensed UNKNOWN
 
@@ -921,7 +921,7 @@ Content type: Publication
 
 ## SpatialData: an open and universal data framework for spatial omics
 
-['Luca Marconato', 'Giovanni Palla', 'Kevin A Yamauchi', 'Isaac Virshup', 'Elyas Heidari', 'Tim Treis', 'Marcella Toth', 'Rahul Shrestha', 'Harald Vöhringer', 'Wolfgang Huber', 'Moritz Gerstung', 'Josh Moore', 'Fabian J Theis', 'Oliver Stegle']
+Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
 Licensed CC-BY-4.0
 
@@ -938,7 +938,7 @@ Content type: Publication, Preprint
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -959,7 +959,7 @@ Content type: Publication
 
 ## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
 
-['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+Matthew Hartley, Gerard J. Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R. Swedlow, Alvis Brazma
 
 Published 2022-06-22
 
@@ -982,7 +982,7 @@ Content type: Publication
 
 ## The FAIR Guiding Principles for scientific data management and stewardship
 
-['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, et. al
 
 Published 2016-03-15
 
@@ -1005,7 +1005,7 @@ Content type: Publication
 
 ## The FAIR guiding principles for data stewardship - fair enough?
 
-['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+Martin Boeckhout, Gerhard A. Zielhuis, Annelien L. Bredenoord
 
 Published 2018-05-17
 
@@ -1026,7 +1026,7 @@ Content type: Publication
 
 ## The Fiji Updater
 
-['Robert Haase']
+Robert Haase
 
 Licensed ALL RIGHTS RESERVED
 
@@ -1045,7 +1045,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -1068,7 +1068,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 
@@ -1089,7 +1089,7 @@ Content type: Publication
 
 ## Understanding metric-related pitfalls in image analysis validation
 
-['Annika Reinke', 'et al.']
+Annika Reinke, et al.
 
 Published 2023
 
@@ -1108,7 +1108,7 @@ Content type: Publication, Preprint
 
 ## Using Glittr.org to find, compare and re-use online training materials
 
-['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+Geert van Geest, Yann Haefliger, Monique Zahn-Zabal, Patricia M. Palagi
 
 Licensed CC-BY-4.0
 

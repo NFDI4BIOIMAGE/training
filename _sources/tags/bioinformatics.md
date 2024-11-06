@@ -1,7 +1,7 @@
 # Bioinformatics (7)
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -37,7 +37,7 @@ Content type: Collection
 
 ## EMBL-EBI material collection
 
-['EMBL-EBI']
+EMBL-EBI
 
 Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
@@ -84,7 +84,7 @@ Content type: Collection
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -105,7 +105,7 @@ Content type: Publication
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 

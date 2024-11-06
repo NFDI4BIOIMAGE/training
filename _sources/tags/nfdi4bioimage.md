@@ -1,7 +1,7 @@
 # Nfdi4bioimage (23)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Publication, Conference Abstract
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-['Cornelia Wetzker']
+Cornelia Wetzker
 
 Published 2023-11-08
 
@@ -41,7 +41,7 @@ Content type: Slide
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -58,7 +58,7 @@ Content type: Slide
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -100,7 +100,7 @@ Content type: Website
 
 ## NFDI4BIOIMAGE
 
-['Carsten Fortmann.Grote']
+Carsten Fortmann.Grote
 
 Licensed CC-BY-4.0
 
@@ -119,7 +119,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Published 2021-04-29
 
@@ -140,7 +140,7 @@ Content type: Conference Abstract, Slide
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Stefanie Weidtkamp-Peters']
+Stefanie Weidtkamp-Peters
 
 Licensed CC-BY-4.0
 
@@ -159,7 +159,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -178,7 +178,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -195,7 +195,7 @@ Content type: Publication
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -214,7 +214,7 @@ Content type: Event, Publication, Documentation
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -233,7 +233,7 @@ Content type: Github Repository
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -250,7 +250,7 @@ Content type: Publication
 
 ## OMERO for microscopy research data management
 
-['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 Licensed ALL RIGHTS RESERVED
 
@@ -269,7 +269,7 @@ Content type: Publication
 
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'Stefanie Weidtkamp-Peters', 'members of the NFDI4BIOIMAGE initiative']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
 Licensed CC-BY-4.0
 
@@ -286,7 +286,7 @@ Content type: Publication
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
+Susanne Kunis, Karen Bernhardt, Michael Hensel
 
 Licensed UNKNOWN
 
@@ -303,7 +303,7 @@ Content type: Publication
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-['Susanne Kunis']
+Susanne Kunis
 
 Published 2022-08-24
 
@@ -330,7 +330,7 @@ Content type: Video
 
 ## Thinking data management on different scales
 
-['Susanne Kunis']
+Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -349,7 +349,7 @@ Content type: Slides
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -368,7 +368,7 @@ Content type: Slides
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -387,7 +387,7 @@ Content type: Poster
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -406,7 +406,7 @@ Content type: Poster
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -425,7 +425,7 @@ Content type: Poster
 
 ## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed CC-BY-4.0
 

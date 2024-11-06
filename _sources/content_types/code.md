@@ -14,7 +14,7 @@ Content type: Tutorial, Code
 
 ## ImageJ Macro Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -31,7 +31,7 @@ Content type: Slide, Code
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-['Jonas Hartmann', 'et al.']
+Jonas Hartmann, et al.
 
 Licensed UNKNOWN
 
@@ -50,7 +50,7 @@ Content type: Code, Notebook
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -67,7 +67,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -84,7 +84,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -114,7 +114,7 @@ Content type: Code
 
 ## Python Workshop - Image Processing
 
-['Karin Sasaki', 'Jonas Hartmann']
+Karin Sasaki, Jonas Hartmann
 
 Licensed UNKNOWN
 
@@ -131,7 +131,7 @@ Content type: Code, Notebook
 
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
-['Marion Louveaux']
+Marion Louveaux
 
 Licensed UNKNOWN
 
@@ -148,7 +148,7 @@ Content type: Code
 
 ## quantixed/TheDigitalCell: First complete code set
 
-['Stephen Royle']
+Stephen Royle
 
 Published 2019-04-17
 

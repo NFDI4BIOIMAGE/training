@@ -1,7 +1,7 @@
 # Christian tischer (11)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
+Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Publication
 
 ## Analysis of High-Throughput Microscopy Image Data
 
-['Kota Miura', 'Christoph Schiklenk', 'Clemens Lakner', 'Christian Tischer', 'Aliaksandr Halavatyi']
+Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
 
 Published 2014
 
@@ -35,7 +35,7 @@ Licensed UNKNOWN
 
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
-['Christian Tischer', 'Ashis Ravindran', 'Sabine Reither', 'Nicolas Chiaruttini', 'Rainer Pepperkok', 'Nils Norlin']
+Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
 Licensed CC-BY-4.0
 
@@ -52,7 +52,7 @@ Content type: Publication
 
 ## Bio Image Analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed UNKNOWN
 
@@ -69,7 +69,7 @@ Content type: Slide
 
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
+Carolina Wählby, Maxime Bombrun, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -86,7 +86,7 @@ Content type: Tutorial
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
 Licensed ALL RIGHTS RESERVED
 
@@ -103,7 +103,7 @@ Content type: Publication
 
 ## Image analysis course material
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed MIT
 
@@ -118,7 +118,7 @@ Training materials about image registration, big warp and elastix
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -139,7 +139,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -156,7 +156,7 @@ Content type: Publication
 
 ## OME-Zarr course
 
-['Bugra Oezdemir', 'Christian Tischer']
+Bugra Oezdemir, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -171,7 +171,7 @@ Content type: Tutorial
 
 ## i2k-2020-s3-zarr-workshop
 
-['Constantin Pape', 'Christian Tischer']
+Constantin Pape, Christian Tischer
 
 Licensed UNKNOWN
 

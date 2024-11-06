@@ -1,7 +1,7 @@
 # Slide (41)
 ## Adding a Workflow to BIAFLOWS
 
-['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
+Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
 Licensed BSD-2-CLAUSE
 
@@ -18,7 +18,7 @@ Content type: Slide
 
 ## Bio Image Analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed UNKNOWN
 
@@ -35,7 +35,7 @@ Content type: Slide
 
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-['Cornelia Wetzker']
+Cornelia Wetzker
 
 Published 2023-11-08
 
@@ -58,7 +58,7 @@ Content type: Slide
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-13
 
@@ -81,7 +81,7 @@ Content type: Slide
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-['Estibaliz Gómez-de-Mariscal\\']
+Estibaliz Gómez-de-Mariscal\
 
 Licensed UNKNOWN
 
@@ -98,7 +98,7 @@ Content type: Slide
 
 ## CellProfiler Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -115,7 +115,7 @@ Content type: Slide
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -132,7 +132,7 @@ Content type: Slide
 
 ## Creating open computational curricula
 
-['Kari Jordan', 'Zhian Kamvar', 'Toby Hodges']
+Kari Jordan, Zhian Kamvar, Toby Hodges
 
 Published 2020-12-11
 
@@ -153,7 +153,7 @@ Content type: Slide
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -170,7 +170,7 @@ Content type: Slide, Notebook
 
 ## Generative artificial intelligence for bio-image analysis
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -187,7 +187,7 @@ Content type: Slide
 
 ## Hitchhiking through a diverse Bio-image Analysis Software Universe
 
-['Robert Haase']
+Robert Haase
 
 Published 2022-07-22
 
@@ -210,7 +210,7 @@ Content type: Slide, Presentation
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -235,7 +235,7 @@ Content type: Slide, Video
 
 ## Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services
 
-['Aastha Mathur']
+Aastha Mathur
 
 Licensed UNKNOWN
 
@@ -250,7 +250,7 @@ Content type: Slide
 
 ## Image analysis in Galaxy
 
-['Beatriz Serrano-Solano', 'Björn Grüning']
+Beatriz Serrano-Solano, Björn Grüning
 
 Licensed UNKNOWN
 
@@ -267,7 +267,7 @@ Content type: Slide
 
 ## ImageJ Macro Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -284,7 +284,7 @@ Content type: Slide, Code
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -301,7 +301,7 @@ Content type: Slide
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -318,7 +318,7 @@ Content type: Slide
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -335,7 +335,7 @@ Content type: Slide
 
 ## Lecture Applied Bioimage Analysis 2020
 
-['Robert Haase']
+Robert Haase
 
 
 
@@ -352,7 +352,7 @@ Content type: Slide
 
 ## Machine Learning - Deep Learning. Applications to Bioimage Analysis
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -369,7 +369,7 @@ Content type: Slide
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -386,7 +386,7 @@ Content type: Slide
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -407,7 +407,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -426,7 +426,7 @@ Content type: Slide
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -443,7 +443,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -460,7 +460,7 @@ Content type: Slide, Tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -477,7 +477,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -494,7 +494,7 @@ Content type: Slide, Code, Notebook
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Published 2021-04-29
 
@@ -515,7 +515,7 @@ Content type: Conference Abstract, Slide
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -532,7 +532,7 @@ Content type: Slide, Notebook
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-['Floden Evan', 'Di Tommaso Paolo']
+Floden Evan, Di Tommaso Paolo
 
 Published 2020-12-17
 
@@ -555,7 +555,7 @@ Content type: Slide
 
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -572,7 +572,7 @@ Content type: Slide
 
 ## QuPath: Open source software for analysing (awkward) images
 
-['Peter Bankhead']
+Peter Bankhead
 
 Published 2020-12-16
 
@@ -595,7 +595,7 @@ Content type: Slide
 
 ## Research Data Management Seminar - Slides
 
-['Della Chiesa', 'Stefano']
+Della Chiesa, Stefano
 
 Published 2022-05-18
 
@@ -627,7 +627,7 @@ Content type: Slide
 
 ## Sharing and licensing material
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -646,7 +646,7 @@ Content type: Slide
 
 ## Thinking data management on different scales
 
-['Susanne Kunis']
+Susanne Kunis
 
 Published 2023-08-31
 
@@ -669,7 +669,7 @@ Content type: Slide
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -688,7 +688,7 @@ Content type: Slide
 
 ## What is Bioimage Analysis? An Introduction
 
-['Kota Miura']
+Kota Miura
 
 Licensed UNKNOWN
 
@@ -705,7 +705,7 @@ Content type: Slide
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -722,7 +722,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -739,7 +739,7 @@ Content type: Slide
 
 ## ZIDAS 2020 Introduction to Deep Learning
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -756,7 +756,7 @@ Content type: Slide
 
 ## ilastik: interactive machine learning for (bio)image analysis
 
-['Anna Kreshuk', 'Dominik Kutra']
+Anna Kreshuk, Dominik Kutra
 
 Licensed CC-BY-4.0
 

@@ -1,7 +1,7 @@
 # Constantin pape (7)
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
-['Constantin Pape']
+Constantin Pape
 
 Licensed MIT
 
@@ -16,7 +16,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -33,7 +33,7 @@ Content type: Slide, Notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-['Martin Weigert', 'Constantin Pape']
+Martin Weigert, Constantin Pape
 
 Licensed UNKNOWN
 
@@ -50,7 +50,7 @@ Content type: Notebook
 
 ## MicroSam-Talks
 
-['Constantin Pape']
+Constantin Pape
 
 Published 2024-05-23
 
@@ -78,7 +78,7 @@ Content type: Slides
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -95,7 +95,7 @@ Content type: Publication
 
 ## Training Deep Learning Models for Vision - Compact Course
 
-['Constantin Pape', 'Adrian Wolny']
+Constantin Pape, Adrian Wolny
 
 Licensed UNKNOWN
 
@@ -110,7 +110,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## i2k-2020-s3-zarr-workshop
 
-['Constantin Pape', 'Christian Tischer']
+Constantin Pape, Christian Tischer
 
 Licensed UNKNOWN
 

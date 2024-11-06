@@ -1,7 +1,7 @@
 # Blog (19)
 ## Annotating 3D images in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -16,7 +16,7 @@ Content type: Blog
 
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -33,7 +33,7 @@ Content type: Blog
 
 ## Collaborative bio-image analysis script editing with git
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -52,7 +52,7 @@ Content type: Blog
 
 ## Creating a Research Data Management Plan using chatGPT
 
-['Robert Haase']
+Robert Haase
 
 Published 2023-11-06
 
@@ -73,7 +73,7 @@ Content type: Blog
 
 ## Data handling in large-scale electron microscopy
 
-['Job Fermie']
+Job Fermie
 
 
 
@@ -88,7 +88,7 @@ Content type: Blog
 
 ## Feature extraction in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -122,7 +122,7 @@ Content type: Blog
 
 ## Getting started with Mambaforge and Python
 
-['Mara Lampert']
+Mara Lampert
 
 Licensed CC-BY-4.0
 
@@ -139,7 +139,7 @@ Content type: Blog
 
 ## How to write a bug report
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -154,7 +154,7 @@ Content type: Blog
 
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -173,7 +173,7 @@ Content type: Blog
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -190,7 +190,7 @@ Content type: Blog
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
 
-['Jennifer Waters']
+Jennifer Waters
 
 
 
@@ -205,7 +205,7 @@ Content type: Blog
 
 ## Prompt Engineering in Bio-image Analysis
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -220,7 +220,7 @@ Content type: Blog
 
 ## Quality assurance of segmentation results
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -235,7 +235,7 @@ Content type: Blog
 
 ## Rescaling images and pixel (an)isotropy
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -250,7 +250,7 @@ Content type: Blog
 
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
-['Marcelo Zoccoler']
+Marcelo Zoccoler
 
 Licensed CC-BY-4.0
 
@@ -267,7 +267,7 @@ Content type: Blog
 
 ## Sharing Your Poster on Figshare: A Community Guide to How-To and Why
 
-['Elisabeth Kugler']
+Elisabeth Kugler
 
 
 
@@ -282,7 +282,7 @@ Content type: Blog
 
 ## Sharing research data with Zenodo
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -301,7 +301,7 @@ Content type: Blog
 
 ## Tracking in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 

@@ -1,7 +1,7 @@
 # Et al. (23)
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco', 'et al.']
+Daniel Franco-Barranco, et al.
 
 
 
@@ -39,7 +39,7 @@ Content type: Documentation
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -60,7 +60,7 @@ Content type: Publication
 
 ## DL4MicEverywhere
 
-['Iván Hidalgo', 'et al.']
+Iván Hidalgo, et al.
 
 Licensed CC-BY-4.0
 
@@ -75,7 +75,7 @@ Content type: Notebook, Collection
 
 ## Image Processing with Python
 
-['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
 
 Licensed CC-BY-4.0
 
@@ -94,7 +94,7 @@ Content type: Collection
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-['Jonas Hartmann', 'et al.']
+Jonas Hartmann, et al.
 
 Licensed UNKNOWN
 
@@ -113,7 +113,7 @@ Content type: Code, Notebook
 
 ## Metadata matters: access to image data in the real world
 
-['Melissa Linkert', 'et al.']
+Melissa Linkert, et al.
 
 Published 2010
 
@@ -130,7 +130,7 @@ Content type: Publication
 
 ## Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications
 
-['Alessandro Rigano', 'et al.']
+Alessandro Rigano, et al.
 
 
 
@@ -145,7 +145,7 @@ Content type: Publication
 
 ## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
 
-['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+Marie-Hélène Bourget, Lee Kamentsky, Satrajit S. Ghosh, Giacomo Mazzamuto, Alberto Lazari, et al.
 
 Published 2022-04-19
 
@@ -166,7 +166,7 @@ Content type: Publication
 
 ## Models and Applications for BioImage.IO
 
-['Wei Ouyang', 'et al.']
+Wei Ouyang, et al.
 
 Licensed UNKNOWN
 
@@ -179,7 +179,7 @@ Licensed UNKNOWN
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -196,7 +196,7 @@ Content type: Slide, Tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -213,7 +213,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -230,7 +230,7 @@ Content type: Slide, Code, Notebook
 
 ## Plugin "omero-cli-transfer"
 
-['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -251,7 +251,7 @@ Content type: Github Repository
 
 ## QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy
 
-['Glyn Nelson', 'Ulrike Boehme', 'et al.']
+Glyn Nelson, Ulrike Boehme, et al.
 
 Licensed CC-BY-4.0
 
@@ -268,7 +268,7 @@ Content type: Publication
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -293,7 +293,7 @@ Content type: Publication
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -314,7 +314,7 @@ Content type: Publication
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -335,7 +335,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 
@@ -356,7 +356,7 @@ Content type: Publication
 
 ## Understanding metric-related pitfalls in image analysis validation
 
-['Annika Reinke', 'et al.']
+Annika Reinke, et al.
 
 Published 2023
 
@@ -375,7 +375,7 @@ Content type: Publication, Preprint
 
 ## What is Open Data?
 
-['Daniel Dietrich', 'Jonathan Gray', 'Tim McNamara', 'Antti Poikola', 'Rufus Pollock', 'et al.']
+Daniel Dietrich, Jonathan Gray, Tim McNamara, Antti Poikola, Rufus Pollock, et al.
 
 Licensed CC-BY-4.0
 
@@ -394,7 +394,7 @@ Content type: Collection
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -413,7 +413,7 @@ Content type: Collection
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 

@@ -44,7 +44,7 @@ Content type: Collection, Video
 
 ## DigitalSreeni YouTube Channel
 
-['Sreeni Bhattiprolu']
+Sreeni Bhattiprolu
 
 
 
@@ -63,7 +63,7 @@ Content type: Collection, Video
 
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
-['SciPy', 'Erick Martins Ratamero']
+SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
@@ -143,7 +143,7 @@ Content type: Video
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 

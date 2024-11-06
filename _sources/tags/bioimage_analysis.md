@@ -1,7 +1,7 @@
 # Bioimage analysis (161)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
-['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
+Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
 
 Published 2021
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## 2022 MIC Workshop on Bioimage processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -39,7 +39,7 @@ Content type: Notebook
 
 ## A Fiji Scripting Tutorial
 
-['Albert Cardona']
+Albert Cardona
 
 Licensed CC0-1.0
 
@@ -56,7 +56,7 @@ Content type: Notebook
 
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
-['Anca Margineanu', 'Chiara Stringari', 'Marcelo Zoccoler', 'Cornelia Wetzker']
+Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -75,7 +75,7 @@ Content type: Slides
 
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
+Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -94,7 +94,7 @@ Content type: Publication
 
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-['Caterina Fuster-Barceló']
+Caterina Fuster-Barceló
 
 Licensed UNKNOWN
 
@@ -111,7 +111,7 @@ Content type: Documentation
 
 ## Adding a Workflow to BIAFLOWS
 
-['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
+Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
 Licensed BSD-2-CLAUSE
 
@@ -128,7 +128,7 @@ Content type: Slide
 
 ## Annotating 3D images in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -143,7 +143,7 @@ Content type: Blog
 
 ## BIDS-lecture-2024
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -162,7 +162,7 @@ Content type: Github Repository
 
 ## BIOMERO - A scalable and extensible image analysis framework
 
-['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
 
 Published None
 
@@ -183,7 +183,7 @@ Content type: Publication
 
 ## Basics of Image Processing and Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -200,7 +200,7 @@ Content type: Book
 
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
-['Christian Tischer', 'Ashis Ravindran', 'Sabine Reither', 'Nicolas Chiaruttini', 'Rainer Pepperkok', 'Nils Norlin']
+Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
 Licensed CC-BY-4.0
 
@@ -217,7 +217,7 @@ Content type: Publication
 
 ## Bio Image Analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed UNKNOWN
 
@@ -286,7 +286,7 @@ Content type: Workshop, Collection
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -305,7 +305,7 @@ Content type: Slides
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -322,7 +322,7 @@ Content type: Notebook
 
 ## BioImage Analysis Notebooks
 
-['Robert Haase et al.']
+Robert Haase et al.
 
 Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
@@ -384,7 +384,7 @@ Content type: Collection, Data
 
 ## BioImage Data Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -431,7 +431,7 @@ Content type: Collection
 
 ## Bioimage analysis with Napari
 
-['Fabrizio Musacchio']
+Fabrizio Musacchio
 
 Licensed CC-BY-ND-SA-4.0
 
@@ -448,7 +448,7 @@ Content type: Collection
 
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
-['Suganya Sivagurunathan', 'Stefania Marcotti', 'Carl J Nelson', 'Martin L Jones', 'David J Barry', 'Thomas J A Slater', 'Kevin W Eliceiri', 'Beth A Cimini']
+Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
 
@@ -482,7 +482,7 @@ Content type: Workshop
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-['Estibaliz Gómez-de-Mariscal\\']
+Estibaliz Gómez-de-Mariscal\
 
 Licensed UNKNOWN
 
@@ -499,7 +499,7 @@ Content type: Slide
 
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -516,7 +516,7 @@ Content type: Notebook
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -550,7 +550,7 @@ Content type: Collection, Video
 
 ## CSBDeep and StarDist @ I2K 2020
 
-['Martin Weigert', 'Uwe Schmidt']
+Martin Weigert, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -597,7 +597,7 @@ Content type: Collection, Data
 
 ## CellProfiler Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -614,7 +614,7 @@ Content type: Slide
 
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
+Carolina Wählby, Maxime Bombrun, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -648,7 +648,7 @@ Content type: Notebook
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -665,7 +665,7 @@ Content type: Slide
 
 ## Challenges and opportunities for bioimage analysis core-facilities
 
-['Johannes Richard Soltwedel', 'Robert Haase']
+Johannes Richard Soltwedel, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -701,7 +701,7 @@ Content type: Collection, Video
 
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
-['Constantin Pape']
+Constantin Pape
 
 Licensed MIT
 
@@ -716,7 +716,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Beth Cimini et al.']
+Beth Cimini et al.
 
 Licensed BSD LICENSE
 
@@ -735,7 +735,7 @@ Content type: Notebook, Collection
 
 ## Course on Deep Learning for imaging using PyTorch
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -752,7 +752,7 @@ Content type: Notebook
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -775,7 +775,7 @@ Content type: Slides
 
 ## DEEP NAPARI : Napari as a tool for deep learning project management
 
-['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
 
 Licensed UNKNOWN
 
@@ -792,7 +792,7 @@ Content type: Notebook
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -809,7 +809,7 @@ Content type: Slide, Notebook
 
 ## Dask Course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -843,7 +843,7 @@ Content type: Slides, Presentation
 
 ## Deep Learning for image analysis - Exercises
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -860,7 +860,7 @@ Content type: Notebook
 
 ## DeepProfiler Handbook
 
-['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
 
 Licensed UNKNOWN
 
@@ -879,7 +879,7 @@ Content type: Book
 
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
-['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
+Riccardo Massei, Stefan Scholz, Wibke Busch, Thomas Schnike, Hannes Bohring, Jan Bumberger
 
 Licensed CC-BY-4.0
 
@@ -898,7 +898,7 @@ Content type: Poster
 
 ## Diffusion Models for Image Restoration - An Introduction
 
-['Anirban Ray']
+Anirban Ray
 
 Licensed UNKNOWN
 
@@ -917,7 +917,7 @@ Content type: Presentation
 
 ## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
 
-['Matúš Kalaš et al.']
+Matúš Kalaš et al.
 
 Licensed CC-BY-4.0
 
@@ -964,7 +964,7 @@ Content type: Online Tutorial
 
 ## EmbedSeg Repository
 
-['Manan Lalit', 'Joran Deschamps', 'Florian Jug', 'Ajinkya Kulkarni']
+Manan Lalit, Joran Deschamps, Florian Jug, Ajinkya Kulkarni
 
 Licensed CC-BY-NC-4.0
 
@@ -983,7 +983,7 @@ Content type: Github Repository
 
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
-['SciPy', 'Erick Martins Ratamero']
+SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
@@ -1002,7 +1002,7 @@ Content type: Video, Presentation
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-['Kota Miura']
+Kota Miura
 
 Published 2013
 
@@ -1021,7 +1021,7 @@ Content type: Tutorial, Book
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -1044,7 +1044,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -1068,7 +1068,7 @@ Content type: Collection, Tutorial
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -1106,7 +1106,7 @@ Content type: Collection, Video
 
 ## Feature extraction in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -1149,7 +1149,7 @@ Content type: Workshop
 
 ## Fundamentals in digital image processing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -1166,7 +1166,7 @@ Content type: Notebook
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -1202,7 +1202,7 @@ Content type: Collection, Tutorial
 
 ## Generative artificial intelligence for bio-image analysis
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -1232,7 +1232,7 @@ Content type: Collection, Event
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
 Licensed CC-BY-4.0
 
@@ -1251,7 +1251,7 @@ Content type: Collection
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
+Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
 
@@ -1270,7 +1270,7 @@ Content type: Publication
 
 ## Hitchhiking through a diverse Bio-image Analysis Software Universe
 
-['Robert Haase']
+Robert Haase
 
 Published 2022-07-22
 
@@ -1293,7 +1293,7 @@ Content type: Slide, Presentation
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -1312,7 +1312,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -1331,7 +1331,7 @@ Content type: Github Repository, Tutorial, Notebook
 
 ## IAFIG-RMS Python for Bioimage Analysis Course
 
-['Aurelien Barbotin', 'Chas Nelson', 'Dominic Waithe', 'Ola (Alexandra) Tarkowska', 'Mikolaj Kundegorski', 'Stephen Cross', 'Todd Fallesen']
+Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
 
 Licensed GPL-3.0
 
@@ -1391,7 +1391,7 @@ Content type: Book
 
 ## Image Processing with Python
 
-['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
 
 Licensed CC-BY-4.0
 
@@ -1410,7 +1410,7 @@ Content type: Collection
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -1427,7 +1427,7 @@ Content type: Notebook
 
 ## Image analysis in Galaxy
 
-['Beatriz Serrano-Solano', 'Björn Grüning']
+Beatriz Serrano-Solano, Björn Grüning
 
 Licensed UNKNOWN
 
@@ -1444,7 +1444,7 @@ Content type: Slide
 
 ## Image processing for beginners
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 
@@ -1461,7 +1461,7 @@ Content type: Notebook
 
 ## Image-based Profiling Handbook
 
-['Beth Cimini', 'Tim Becker', 'Shantanu Singh', 'Gregory Way', 'Hamdah Abbasi', 'Callum Tromans-Coia']
+Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
 
 Licensed CC0-1.0
 
@@ -1480,7 +1480,7 @@ Content type: Book
 
 ## ImageJ Macro Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -1497,7 +1497,7 @@ Content type: Slide, Code
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -1529,7 +1529,7 @@ Content type: Collection, Video
 
 ## Introduction to Bioimage Analysis
 
-['Pete Bankhead']
+Pete Bankhead
 
 Licensed CC-BY-4.0
 
@@ -1546,7 +1546,7 @@ Content type: Book, Notebook
 
 ## Introduction to Image Analysis with Fiji
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed CC-BY-NC-4.0
 
@@ -1561,7 +1561,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -1578,7 +1578,7 @@ Content type: Slide
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -1595,7 +1595,7 @@ Content type: Slide
 
 ## Lecture Applied Bioimage Analysis 2020
 
-['Robert Haase']
+Robert Haase
 
 
 
@@ -1612,7 +1612,7 @@ Content type: Slide
 
 ## Machine Learning - Deep Learning. Applications to Bioimage Analysis
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -1644,7 +1644,7 @@ Content type: Tutorial
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -1661,7 +1661,7 @@ Content type: Slide
 
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
-['Anjalie Schlaeppi', 'Wilson Adams', 'Robert Haase', 'Jan Huisken', 'Ryan B. MacDonald', 'Kevin W. Eliceiri', 'Elisabeth C. Kugler']
+Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
 Licensed CC-BY-4.0
 
@@ -1693,7 +1693,7 @@ Content type: Collection, Video
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -1714,7 +1714,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## MicroSam-Talks
 
-['Constantin Pape']
+Constantin Pape
 
 Published 2024-05-23
 
@@ -1755,7 +1755,7 @@ Content type: Document
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -1774,7 +1774,7 @@ Content type: Slide
 
 ## Multimodal large language models for bioimage analysis
 
-['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
 Licensed ['CC-BY-NC-SA']
 
@@ -1795,7 +1795,7 @@ Content type: Publication
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
@@ -1831,7 +1831,7 @@ Content type: Notebook
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -1848,7 +1848,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -1865,7 +1865,7 @@ Content type: Slide, Tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -1882,7 +1882,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -1899,7 +1899,7 @@ Content type: Slide, Code, Notebook
 
 ## NFDI4BIOIMAGE
 
-['Carsten Fortmann.Grote']
+Carsten Fortmann.Grote
 
 Licensed CC-BY-4.0
 
@@ -1918,7 +1918,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Stefanie Weidtkamp-Peters']
+Stefanie Weidtkamp-Peters
 
 Licensed CC-BY-4.0
 
@@ -1937,7 +1937,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -1956,7 +1956,7 @@ Content type: Slides
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -1975,7 +1975,7 @@ Content type: Github Repository
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -1992,7 +1992,7 @@ Content type: Slide, Notebook
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed MIT
 
@@ -2011,7 +2011,7 @@ Content type: Github Repository
 
 ## OMERO - QuPath
 
-['Rémy Jean Daniel Dornier']
+Rémy Jean Daniel Dornier
 
 Licensed ['CC-BY-NC-SA-4.0']
 
@@ -2030,7 +2030,7 @@ Content type: Online Tutorial
 
 ## ONBI Image Analysis Course
 
-['Mark Jenkinson', 'Jens Rittscher', 'Dominic Waithe']
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -2049,7 +2049,7 @@ Content type: Notebook
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -2070,7 +2070,7 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ## Omero-tools
 
-['Johannes Soltwedel']
+Johannes Soltwedel
 
 Licensed CC-BY-4.0
 
@@ -2089,7 +2089,7 @@ Content type: Github Repository
 
 ## Open Image Data Handbook
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -2132,7 +2132,7 @@ Content type: Event, Notebook
 
 ## Prompt Engineering in Bio-image Analysis
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -2147,7 +2147,7 @@ Content type: Blog
 
 ## Python BioImage Analysis Tutorial
 
-['Jonas Hartmann']
+Jonas Hartmann
 
 Licensed MIT
 
@@ -2162,7 +2162,7 @@ Tags: Python, Bioimage Analysis
 
 ## Python for Microscopists
 
-['Sreenivas Bhattiprolu']
+Sreenivas Bhattiprolu
 
 Licensed MIT
 
@@ -2179,7 +2179,7 @@ Content type: Notebook, Collection
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -2200,7 +2200,7 @@ Content type: Github Repository, Notebook, Collection
 
 ## QuPath: Open source software for analysing (awkward) images
 
-['Peter Bankhead']
+Peter Bankhead
 
 Published 2020-12-16
 
@@ -2223,7 +2223,7 @@ Content type: Slide
 
 ## Quality assurance of segmentation results
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -2238,7 +2238,7 @@ Content type: Blog
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -2257,7 +2257,7 @@ Content type: Slides
 
 ## Rescaling images and pixel (an)isotropy
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -2272,7 +2272,7 @@ Content type: Blog
 
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
-['Marcelo Zoccoler']
+Marcelo Zoccoler
 
 Licensed CC-BY-4.0
 
@@ -2289,7 +2289,7 @@ Content type: Blog
 
 ## Scipy Cookbook
 
-['Pauli Virtanen et al.']
+Pauli Virtanen et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -2308,7 +2308,7 @@ Content type: Github Repository
 
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
-['Marion Louveaux']
+Marion Louveaux
 
 Licensed UNKNOWN
 
@@ -2325,7 +2325,7 @@ Content type: Code
 
 ## SimpleITK-Notebooks
 
-['Ziv Yaniv et al.']
+Ziv Yaniv et al.
 
 Licensed APACHE-2.0 LICENSE
 
@@ -2344,7 +2344,7 @@ Content type: Github Repository
 
 ## Teaching Bioimage Analysis with Python
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -2361,7 +2361,7 @@ Content type: Tutorial
 
 ## Teaching ImageJ FIJI
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -2378,7 +2378,7 @@ Content type: Tutorial
 
 ## The Digital Cell: Cell Biology as a Data Science
 
-['Stephen Royle']
+Stephen Royle
 
 
 
@@ -2393,7 +2393,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -2416,7 +2416,7 @@ Content type: Publication
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -2435,7 +2435,7 @@ Content type: Slide
 
 ## Tracking in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -2450,7 +2450,7 @@ Content type: Blog
 
 ## Training Deep Learning Models for Vision - Compact Course
 
-['Constantin Pape', 'Adrian Wolny']
+Constantin Pape, Adrian Wolny
 
 Licensed UNKNOWN
 
@@ -2465,7 +2465,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## Ultrack I2K 2024 Workshop Materials
 
-['Jordão Bragantini', 'Teun Huijben']
+Jordão Bragantini, Teun Huijben
 
 Licensed BSD3-CLAUSE
 
@@ -2484,7 +2484,7 @@ Content type: Workshop, Github Repository, Tutorial
 
 ## Understanding metric-related pitfalls in image analysis validation
 
-['Annika Reinke', 'et al.']
+Annika Reinke, et al.
 
 Published 2023
 
@@ -2503,7 +2503,7 @@ Content type: Publication, Preprint
 
 ## Using Glittr.org to find, compare and re-use online training materials
 
-['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+Geert van Geest, Yann Haefliger, Monique Zahn-Zabal, Patricia M. Palagi
 
 Licensed CC-BY-4.0
 
@@ -2522,7 +2522,7 @@ Content type: Publication, Preprint
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -2541,7 +2541,7 @@ Content type: Slides
 
 ## What is Bioimage Analysis? An Introduction
 
-['Kota Miura']
+Kota Miura
 
 Licensed UNKNOWN
 
@@ -2558,7 +2558,7 @@ Content type: Slide
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -2577,7 +2577,7 @@ Content type: Poster
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -2594,7 +2594,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -2641,7 +2641,7 @@ Content type: Collection, Notebook
 
 ## ZIDAS 2020 Introduction to Deep Learning
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -2658,7 +2658,7 @@ Content type: Slide
 
 ## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -2677,7 +2677,7 @@ Content type: Poster
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -2696,7 +2696,7 @@ Content type: Poster
 
 ## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed CC-BY-4.0
 
@@ -2730,7 +2730,7 @@ Content type: Collection, Video
 
 ## ilastik: interactive machine learning for (bio)image analysis
 
-['Anna Kreshuk', 'Dominik Kutra']
+Anna Kreshuk, Dominik Kutra
 
 Licensed CC-BY-4.0
 
@@ -2747,7 +2747,7 @@ Content type: Slide
 
 ## quantixed/TheDigitalCell: First complete code set
 
-['Stephen Royle']
+Stephen Royle
 
 Published 2019-04-17
 
@@ -2772,7 +2772,7 @@ Content type: Code
 
 ## scikit-learn MOOC
 
-['Loïc Estève et al.']
+Loïc Estève et al.
 
 Licensed CC-BY-4.0
 
@@ -2791,7 +2791,7 @@ Content type: Github Repository
 
 ## skimage-tutorials
 
-['Juan Nunez-Iglesias et al.']
+Juan Nunez-Iglesias et al.
 
 Licensed CC0 1.0 UNIVERSAL
 

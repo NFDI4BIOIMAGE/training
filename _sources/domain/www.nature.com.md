@@ -1,7 +1,7 @@
 # Www.nature.com (16)
 ## A call for public archives for biological image data
 
-['Jan Ellenberg', 'Jason R. Swedlow', 'Mary Barlow', 'Charles E. Cook', 'Ugis Sarkans', 'Ardan Patwardhan', 'Alvis Brazma', 'Ewan Birney']
+Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney
 
 
 
@@ -16,7 +16,7 @@ Content type: Publication
 
 ## Annotated high-throughput microscopy image sets for validation
 
-['Vebjorn Ljosa', 'Katherine L Sokolnicki', 'Anne E Carpenter']
+Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
 
 
 
@@ -33,7 +33,7 @@ Content type: Collection, Data
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
 Licensed ALL RIGHTS RESERVED
 
@@ -50,7 +50,7 @@ Content type: Publication
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -84,7 +84,7 @@ Content type: Collection, Data, Publication
 
 ## JIPipe: visual batch processing for ImageJ
 
-['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -103,7 +103,7 @@ Content type: Publication, Documentation
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -120,7 +120,7 @@ Content type: Publication
 
 ## MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text
 
-['Joel Ryan', 'Thomas Pengo', 'Alex Rigano', 'Paula Montero Llopis', 'Michelle S. Itano', 'Lisa A. Cameron', 'Guillermo Marqués', 'Caterina Strambio-De-Castillia', 'Mark A. Sanders', 'Claire M. Brown']
+Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown
 
 
 
@@ -135,7 +135,7 @@ Content type: Publication
 
 ## Modeling community standards for metadata as templates makes data FAIR
 
-['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+Mark A Musen, Martin J O'Connor, Erik Schultes, Marcos Martínez-Romero, Josef Hardi, John Graybeal
 
 Published 2022-11-12
 
@@ -158,7 +158,7 @@ Content type: Publication
 
 ## Multimodal large language models for bioimage analysis
 
-['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
 Licensed ['CC-BY-NC-SA']
 
@@ -179,7 +179,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -196,7 +196,7 @@ Content type: Publication
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -240,7 +240,7 @@ Content type: Collection
 
 ## The FAIR Guiding Principles for scientific data management and stewardship
 
-['Mark D. Wilkinson', 'Michel Dumontier', 'IJsbrand Jan Aalbersberg', 'Gabrielle Appleton', 'Myles Axton', 'et. al']
+Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, et. al
 
 Published 2016-03-15
 
@@ -263,7 +263,7 @@ Content type: Publication
 
 ## The FAIR guiding principles for data stewardship - fair enough?
 
-['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+Martin Boeckhout, Gerhard A. Zielhuis, Annelien L. Bredenoord
 
 Published 2018-05-17
 
@@ -284,7 +284,7 @@ Content type: Publication
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
 Licensed MIT
 

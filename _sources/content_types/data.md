@@ -1,7 +1,7 @@
 # Data (8)
 ## Annotated high-throughput microscopy image sets for validation
 
-['Vebjorn Ljosa', 'Katherine L Sokolnicki', 'Anne E Carpenter']
+Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
 
 
 

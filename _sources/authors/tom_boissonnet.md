@@ -1,7 +1,7 @@
 # Tom boissonnet (6)
 ## A practical guide to bioimaging research data management in core facilities
 
-['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
 
 
 
@@ -16,7 +16,7 @@ Content type: Publication
 
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
-['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
+Marcelo Zoccoler, Simon Bekemeier, Tom Boissonnet, Simon Parker, Luca Bertinetti, Marc Gentzel, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-06-10
 
@@ -44,7 +44,7 @@ Content type: Slides
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -69,7 +69,7 @@ Content type: Slide, Video
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
-['Mohamed M. Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa A. F. Fuchs', 'Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt and Peter Zentis']
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -88,7 +88,7 @@ Content type: Event, Publication, Documentation
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -107,7 +107,7 @@ Content type: Github Repository
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-['Vanessa Fuchs', 'Fiona Aphaia', 'Christian Schmidt', 'Tom Boissonnet']
+Vanessa Fuchs, Fiona Aphaia, Christian Schmidt, Tom Boissonnet
 
 Published 2024-05-06
 

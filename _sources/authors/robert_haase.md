@@ -1,7 +1,7 @@
 # Robert haase (50)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
-['Robert Haase', 'Elnaz Fazeli', 'David Legland', 'Michael Doube', 'Siân Culley', 'Ilya Belevich', 'Eija Jokitalo', 'Martin Schorb', 'Anna Klemm', 'Christian Tischer']
+Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Publication
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
 
@@ -35,7 +35,7 @@ Content type: Publication, Poster
 
 ## BIDS-lecture-2024
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -54,7 +54,7 @@ Content type: Github Repository
 
 ## Bio-image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-28
 
@@ -76,7 +76,7 @@ https://github.com/haesleinhuepf/git-bob
 
 ## Bio-image Analysis Code Generation using bia-bob
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-09
 
@@ -95,7 +95,7 @@ In this presentation I introduce bia-bob, an AI-based code generator that integr
 
 ## Bio-image Analysis with the Help of Large Language Models
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-13
 
@@ -118,7 +118,7 @@ Content type: Slide
 
 ## Bio-image Data Science
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -137,7 +137,7 @@ Content type: Notebook
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -156,7 +156,7 @@ Content type: Slides
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -173,7 +173,7 @@ Content type: Notebook
 
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -190,7 +190,7 @@ Content type: Blog
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -211,7 +211,7 @@ Content type: Publication
 
 ## Challenges and opportunities for bio-image analysis core-facilities
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -228,7 +228,7 @@ Content type: Slide
 
 ## Challenges and opportunities for bioimage analysis core-facilities
 
-['Johannes Richard Soltwedel', 'Robert Haase']
+Johannes Richard Soltwedel, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -247,7 +247,7 @@ Content type: Publication
 
 ## ChatGPT for Image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-25
 
@@ -266,7 +266,7 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 
 ## Collaborative bio-image analysis script editing with git
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -285,7 +285,7 @@ Content type: Blog
 
 ## Creating a Research Data Management Plan using chatGPT
 
-['Robert Haase']
+Robert Haase
 
 Published 2023-11-06
 
@@ -306,7 +306,7 @@ Content type: Blog
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -329,7 +329,7 @@ Content type: Slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-25
 
@@ -354,7 +354,7 @@ Content type: Slides
 
 ## Datenmanagement
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-14
 
@@ -377,7 +377,7 @@ Content type: Slides
 
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
-['Florian Levet', 'Anne E. Carpenter', 'Kevin W. Eliceiri', 'Anna Kreshuk', 'Peter Bankhead', 'Robert Haase']
+Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -396,7 +396,7 @@ Content type: Publication
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -413,7 +413,7 @@ Content type: Publication, Poster
 
 ## Generative artificial intelligence for bio-image analysis
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -430,7 +430,7 @@ Content type: Slide
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
+Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
 
@@ -449,7 +449,7 @@ Content type: Publication
 
 ## Hitchhiking through a diverse Bio-image Analysis Software Universe
 
-['Robert Haase']
+Robert Haase
 
 Published 2022-07-22
 
@@ -472,7 +472,7 @@ Content type: Slide, Presentation
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -491,7 +491,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -510,7 +510,7 @@ Content type: Github Repository, Tutorial, Notebook
 
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -529,7 +529,7 @@ Content type: Blog
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -546,7 +546,7 @@ Content type: Slide
 
 ## Introduction to Image Analysis with Fiji
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed CC-BY-NC-4.0
 
@@ -561,7 +561,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -578,7 +578,7 @@ Content type: Slide
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-15
 
@@ -608,7 +608,7 @@ Content type: Slides
 
 ## Large Language Models: An Introduction for Life Scientists
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-27
 
@@ -627,7 +627,7 @@ Large Language Models (LLMs) are changing the way how humans interact with compu
 
 ## Lecture Applied Bioimage Analysis 2020
 
-['Robert Haase']
+Robert Haase
 
 
 
@@ -644,7 +644,7 @@ Content type: Slide
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -661,7 +661,7 @@ Content type: Blog
 
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
-['Anjalie Schlaeppi', 'Wilson Adams', 'Robert Haase', 'Jan Huisken', 'Ryan B. MacDonald', 'Kevin W. Eliceiri', 'Elisabeth C. Kugler']
+Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
 
 Licensed CC-BY-4.0
 
@@ -678,7 +678,7 @@ Content type: Publication
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -697,7 +697,7 @@ Content type: Slide
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -714,7 +714,7 @@ Content type: Slide, Code, Notebook
 
 ## Open Science, Sharing & Licensing
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-18
 
@@ -737,7 +737,7 @@ Content type: Slides
 
 ## Open microscopy in the life sciences: quo vadis?
 
-['Johannes Hohlbein', 'Benedict Diederich', 'Barbora Marsikova', 'Emmanuel G. Reynaud', 'Séamus Holden', 'Wiebke Jahr', 'Robert Haase', 'Kirti Prakash']
+Johannes Hohlbein, Benedict Diederich, Barbora Marsikova, Emmanuel G. Reynaud, Séamus Holden, Wiebke Jahr, Robert Haase, Kirti Prakash
 
 Published 2022
 
@@ -756,7 +756,7 @@ Content type: Publication
 
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -773,7 +773,7 @@ Content type: Slide
 
 ## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
 
-['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert', 'Robert Haase']
+Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -792,7 +792,7 @@ Content type: Notebook
 
 ## Sharing and licensing material
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -811,7 +811,7 @@ Content type: Slide
 
 ## Sharing research data with Zenodo
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -830,7 +830,7 @@ Content type: Blog
 
 ## Stackview sliceplot example data
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-11-03
 
@@ -850,7 +850,7 @@ A notebook for visualizing this data is published here: https://github.com/haesl
 
 ## The Fiji Updater
 
-['Robert Haase']
+Robert Haase
 
 Licensed ALL RIGHTS RESERVED
 
@@ -869,7 +869,7 @@ Content type: Publication
 
 ## Towards Preservation of Life Science Data with NFDI4BIOIMAGE
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-08-29
 
@@ -888,7 +888,7 @@ This talk will present the initiatives of the NFDI4BioImage consortium aimed at 
 
 ## Towards Transparency and Knowledge Exchange in AI-assisted Data Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-10-14
 
@@ -907,7 +907,7 @@ The integration of Large Language Models (LLMs) in scientific research presents 
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -926,7 +926,7 @@ Content type: Slide
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -943,7 +943,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 

@@ -1,7 +1,7 @@
 # Riccardo massei (8)
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
-['Riccardo Massei', 'Matthias Berndt', 'Beatriz Serrano-Solano', 'Wibke Busch', 'Stefan Scholz', 'Hannes Bohring', 'Jo Nyffeler', 'Luise Reger', 'Jan Bumberger', 'Lucille Lopez-Delisle']
+Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
 
 Published 2024-11-06
 
@@ -23,7 +23,7 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
-['Riccardo Massei', 'Stefan Scholz', 'Wibke Busch', 'Thomas Schnike', 'Hannes Bohring', 'Jan Bumberger']
+Riccardo Massei, Stefan Scholz, Wibke Busch, Thomas Schnike, Hannes Bohring, Jan Bumberger
 
 Licensed CC-BY-4.0
 
@@ -42,7 +42,7 @@ Content type: Poster
 
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
-['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
+Marcelo Zoccoler, Simon Bekemeier, Tom Boissonnet, Simon Parker, Luca Bertinetti, Marc Gentzel, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-06-10
 
@@ -70,7 +70,7 @@ Content type: Slides
 
 ## Getting started with Python: intro and set-up a conda environment
 
-['Riccardo Massei']
+Riccardo Massei
 
 Published 2024-10-09
 
@@ -90,7 +90,7 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -109,7 +109,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -128,7 +128,7 @@ Content type: Slides
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed MIT
 
@@ -147,7 +147,7 @@ Content type: Github Repository
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 

@@ -1,7 +1,7 @@
 # Guillaume witz (8)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Notebook
 
 ## Course on Deep Learning for imaging using PyTorch
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -35,7 +35,7 @@ Content type: Notebook
 
 ## Dask Course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -52,7 +52,7 @@ Content type: Notebook
 
 ## Fundamentals in digital image processing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -69,7 +69,7 @@ Content type: Notebook
 
 ## Image processing for beginners
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 
@@ -86,7 +86,7 @@ Content type: Notebook
 
 ## Image processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed MIT
 
@@ -105,7 +105,7 @@ Content type: Notebook
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -122,7 +122,7 @@ Content type: Slide
 
 ## numpy pandas course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 

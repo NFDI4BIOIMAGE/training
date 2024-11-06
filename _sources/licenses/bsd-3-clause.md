@@ -1,7 +1,7 @@
 # Bsd-3-clause (22)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
-['Nasim Jamali', 'Ellen T. A. Dobson', 'Kevin W. Eliceiri', 'Anne E. Carpenter', 'Beth A. Cimini']
+Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
 
 Published 2021
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
-['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
+Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
 
 Licensed BSD-3-CLAUSE
 
@@ -39,7 +39,7 @@ Content type: Collection, Publication
 
 ## BioImage Analysis Notebooks
 
-['Robert Haase et al.']
+Robert Haase et al.
 
 Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
@@ -56,7 +56,7 @@ Content type: Book, Notebook
 
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
-['Suganya Sivagurunathan', 'Stefania Marcotti', 'Carl J Nelson', 'Martin L Jones', 'David J Barry', 'Thomas J A Slater', 'Kevin W Eliceiri', 'Beth A Cimini']
+Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
 
@@ -94,7 +94,7 @@ Content type: Notebook
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -117,7 +117,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -134,7 +134,7 @@ Content type: Notebook
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -153,7 +153,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -172,7 +172,7 @@ Content type: Github Repository, Tutorial, Notebook
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -189,7 +189,7 @@ Content type: Notebook
 
 ## Image processing for beginners
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 
@@ -206,7 +206,7 @@ Content type: Notebook
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -223,7 +223,7 @@ Content type: Slide
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -257,7 +257,7 @@ Content type: Notebook
 
 ## NeubiasPasteur2023_AdvancedCellPose
 
-['Gaelle Letort']
+Gaelle Letort
 
 Licensed BSD-3-CLAUSE
 
@@ -276,7 +276,7 @@ Content type: Github Repository
 
 ## Scipy Cookbook
 
-['Pauli Virtanen et al.']
+Pauli Virtanen et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -295,7 +295,7 @@ Content type: Github Repository
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -333,7 +333,7 @@ Content type: Github Repository, Tutorial
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -352,7 +352,7 @@ Content type: Collection
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -369,7 +369,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -386,7 +386,7 @@ Content type: Slide
 
 ## numpy pandas course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 

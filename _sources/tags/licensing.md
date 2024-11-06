@@ -1,7 +1,7 @@
 # Licensing (6)
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
-['Stephan Wünsche']
+Stephan Wünsche
 
 Published 2024-06-04
 
@@ -26,7 +26,7 @@ Content type: Slides
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -49,7 +49,7 @@ Content type: Slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-25
 
@@ -74,7 +74,7 @@ Content type: Slides
 
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -93,7 +93,7 @@ Content type: Blog
 
 ## Open Science, Sharing & Licensing
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-18
 

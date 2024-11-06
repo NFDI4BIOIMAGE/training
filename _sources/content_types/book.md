@@ -1,7 +1,7 @@
 # Book (18)
 ## 6 Steps Towards Reproducible Research
 
-['Heidi Seibold']
+Heidi Seibold
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Book
 
 ## Basics of Image Processing and Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -37,7 +37,7 @@ Content type: Book
 
 ## BioImage Analysis Notebooks
 
-['Robert Haase et al.']
+Robert Haase et al.
 
 Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
@@ -54,7 +54,7 @@ Content type: Book, Notebook
 
 ## BioImage Data Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -71,7 +71,7 @@ Content type: Book
 
 ## DeepProfiler Handbook
 
-['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
 
 Licensed UNKNOWN
 
@@ -90,7 +90,7 @@ Content type: Book
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-['Kota Miura']
+Kota Miura
 
 Published 2013
 
@@ -145,7 +145,7 @@ Content type: Book
 
 ## Image-based Profiling Handbook
 
-['Beth Cimini', 'Tim Becker', 'Shantanu Singh', 'Gregory Way', 'Hamdah Abbasi', 'Callum Tromans-Coia']
+Beth Cimini, Tim Becker, Shantanu Singh, Gregory Way, Hamdah Abbasi, Callum Tromans-Coia
 
 Licensed CC0-1.0
 
@@ -164,7 +164,7 @@ Content type: Book
 
 ## Introduction to Bioimage Analysis
 
-['Pete Bankhead']
+Pete Bankhead
 
 Licensed CC-BY-4.0
 
@@ -181,7 +181,7 @@ Content type: Book, Notebook
 
 ## Open Image Data Handbook
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -213,7 +213,7 @@ Content type: Book
 
 ## Rechtsfragen bei Open Science - Ein Leitfaden
 
-['Till Kreutzer', 'Henning Lahmann']
+Till Kreutzer, Henning Lahmann
 
 Published 2021-05-25
 
@@ -234,7 +234,7 @@ Content type: Book
 
 ## Scientific Visualization: Python + Matplotlib
 
-['Nicolas P. Rougier']
+Nicolas P. Rougier
 
 Licensed CC-BY-ND-SA-4.0
 
@@ -253,7 +253,7 @@ Content type: Book
 
 ## Standard and Super-Resolution Bioimaging Data Analysis: A Primer
 
-['Ann Wheeler (Editor)', 'Ricardo Henriques (Editor)']
+Ann Wheeler (Editor), Ricardo Henriques (Editor)
 
 
 
@@ -266,7 +266,7 @@ Content type: Book
 
 ## The Digital Cell: Cell Biology as a Data Science
 
-['Stephen Royle']
+Stephen Royle
 
 
 
@@ -296,7 +296,7 @@ Content type: Book
 
 ## Train-the-Trainer Concept on Research Data Management
 
-['Katarzyna Biernacka', 'Maik Bierwirth', 'Petra Buchholz', 'Dominika Dolzycka', 'Kerstin Helbig', 'Janna Neumann', 'Carolin Odebrecht', 'Cord Wiljes', 'Ulrike Wuttke']
+Katarzyna Biernacka, Maik Bierwirth, Petra Buchholz, Dominika Dolzycka, Kerstin Helbig, Janna Neumann, Carolin Odebrecht, Cord Wiljes, Ulrike Wuttke
 
 Published 2020-11-04
 

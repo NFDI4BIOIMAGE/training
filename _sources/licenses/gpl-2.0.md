@@ -18,7 +18,7 @@ Content type: Application
 
 ## ONBI Image Analysis Course
 
-['Mark Jenkinson', 'Jens Rittscher', 'Dominic Waithe']
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -54,7 +54,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -75,7 +75,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-['Pierre Pouchin', 'Rdornier', 'kekunn', 'Jean-Marie Burel']
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -94,7 +94,7 @@ Content type: Github Repository
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -113,7 +113,7 @@ Content type: Application, Github Repository
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 

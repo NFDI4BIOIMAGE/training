@@ -1,7 +1,7 @@
 # Chris allan (5)
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -20,7 +20,7 @@ Content type: Videos, Tutorial, Collection
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -37,7 +37,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -60,7 +60,7 @@ Content type: Publication
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -79,7 +79,7 @@ Content type: Application, Github Repository
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 

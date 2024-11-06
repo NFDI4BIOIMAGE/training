@@ -1,7 +1,7 @@
 # Github repository (30)
 ## BIDS-lecture-2024
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Github Repository
 
 ## Biomero
 
-['Torec Luik', 'Johannes Soltwedel']
+Torec Luik, Johannes Soltwedel
 
 Published 2024-07-24
 
@@ -41,7 +41,7 @@ Content type: Github Repository
 
 ## EmbedSeg Repository
 
-['Manan Lalit', 'Joran Deschamps', 'Florian Jug', 'Ajinkya Kulkarni']
+Manan Lalit, Joran Deschamps, Florian Jug, Ajinkya Kulkarni
 
 Licensed CC-BY-NC-4.0
 
@@ -60,7 +60,7 @@ Content type: Github Repository
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -83,7 +83,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -102,7 +102,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
 
-['Stephan Saalfeld', 'Tobias Pietzsch']
+Stephan Saalfeld, Tobias Pietzsch
 
 Published None
 
@@ -123,7 +123,7 @@ Content type: Workshop, Notebook, Github Repository
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -142,7 +142,7 @@ Content type: Github Repository, Tutorial, Notebook
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
@@ -163,7 +163,7 @@ Content type: Github Repository, Slides, Workshop
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -182,7 +182,7 @@ Content type: Github Repository
 
 ## NLP Course
 
-['Yandex School of Data Analysis']
+Yandex School of Data Analysis
 
 Licensed MIT
 
@@ -201,7 +201,7 @@ Content type: Github Repository
 
 ## NeubiasPasteur2023_AdvancedCellPose
 
-['Gaelle Letort']
+Gaelle Letort
 
 Licensed BSD-3-CLAUSE
 
@@ -220,7 +220,7 @@ Content type: Github Repository
 
 ## OMERO - HCS analysis pipeline using Jupyter Notebooks
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed MIT
 
@@ -239,7 +239,7 @@ Content type: Github Repository
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -260,7 +260,7 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ## Omero-tools
 
-['Johannes Soltwedel']
+Johannes Soltwedel
 
 Licensed CC-BY-4.0
 
@@ -296,7 +296,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-['Erick Martins Ratamero', 'Jean-Marie Burel', 'Will Moore', 'Guillaume Gay', 'Christoph Moehl', 'et al.']
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -317,7 +317,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-['Pierre Pouchin', 'Rdornier', 'kekunn', 'Jean-Marie Burel']
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -355,7 +355,7 @@ Content type: Github Repository, Tutorial
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -376,7 +376,7 @@ Content type: Github Repository, Notebook, Collection
 
 ## Scipy Cookbook
 
-['Pauli Virtanen et al.']
+Pauli Virtanen et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -395,7 +395,7 @@ Content type: Github Repository
 
 ## SimpleITK-Notebooks
 
-['Ziv Yaniv et al.']
+Ziv Yaniv et al.
 
 Licensed APACHE-2.0 LICENSE
 
@@ -414,7 +414,7 @@ Content type: Github Repository
 
 ## Ultrack I2K 2024 Workshop Materials
 
-['Jordão Bragantini', 'Teun Huijben']
+Jordão Bragantini, Teun Huijben
 
 Licensed BSD3-CLAUSE
 
@@ -452,7 +452,7 @@ Content type: Github Repository, Tutorial
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -471,7 +471,7 @@ Content type: Application, Github Repository
 
 ## i2k-2020-s3-zarr-workshop
 
-['Constantin Pape', 'Christian Tischer']
+Constantin Pape, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -509,7 +509,7 @@ Content type: Github Repository, Tutorial
 
 ## ome-ngff-validator
 
-['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+Will Moore, Josh Moore, Yaroslav Halchenko, Sébastien Besson
 
 Published 2022-09-29
 
@@ -532,7 +532,7 @@ Content type: Github Repository, Application
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 
@@ -551,7 +551,7 @@ Content type: Application, Github Repository
 
 ## scikit-learn MOOC
 
-['Loïc Estève et al.']
+Loïc Estève et al.
 
 Licensed CC-BY-4.0
 
@@ -570,7 +570,7 @@ Content type: Github Repository
 
 ## skimage-tutorials
 
-['Juan Nunez-Iglesias et al.']
+Juan Nunez-Iglesias et al.
 
 Licensed CC0 1.0 UNIVERSAL
 

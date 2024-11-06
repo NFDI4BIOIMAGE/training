@@ -1,7 +1,7 @@
 # Susanne kunis (11)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Publication, Conference Abstract
 
 ## A practical guide to bioimaging research data management in core facilities
 
-['Christian Schmidt', 'Tom Boissonnet', 'Julia Dohle', 'Karen Bernhardt', 'Elisa Ferrando-May', 'Tobias Wernet', 'Roland Nitschke', 'Susanne Kunis', 'Stefanie Weidtkamp-Peters']
+Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
 
 
 
@@ -33,7 +33,7 @@ Content type: Publication
 
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
-['Christian Schmidt', 'Michele Bortolomeazzi', 'Tom Boissonnet', 'Carsten Fortmann-Grote', 'Julia Dohle', 'Peter Zentis', 'Niraj Kandpal', 'Susanne Kunis', 'Thomas Zobel', 'Stefanie Weidtkamp-Peters', 'Elisa Ferrando-May']
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
 
 Published 2023-11-13
 
@@ -58,7 +58,7 @@ Content type: Slide, Video
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -75,7 +75,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -92,7 +92,7 @@ Content type: Publication
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -111,7 +111,7 @@ Content type: Slides
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
+Susanne Kunis, Karen Bernhardt, Michael Hensel
 
 Licensed UNKNOWN
 
@@ -128,7 +128,7 @@ Content type: Publication
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-['Susanne Kunis']
+Susanne Kunis
 
 Published 2022-08-24
 
@@ -155,7 +155,7 @@ Content type: Video
 
 ## Thinking data management on different scales
 
-['Susanne Kunis']
+Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -174,7 +174,7 @@ Content type: Slides
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -193,7 +193,7 @@ Content type: Poster
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 

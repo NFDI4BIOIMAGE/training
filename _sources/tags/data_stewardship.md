@@ -35,7 +35,7 @@ Content type: Collection
 
 ## Modeling community standards for metadata as templates makes data FAIR
 
-['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+Mark A Musen, Martin J O'Connor, Erik Schultes, Marcos Martínez-Romero, Josef Hardi, John Graybeal
 
 Published 2022-11-12
 
@@ -58,7 +58,7 @@ Content type: Publication
 
 ## Sustainable Data Stewardship
 
-['Stefano Della Chiesa']
+Stefano Della Chiesa
 
 Published 2024-03-25
 
@@ -81,7 +81,7 @@ Content type: Slides
 
 ## The FAIR guiding principles for data stewardship - fair enough?
 
-['Martin Boeckhout', 'Gerhard A. Zielhuis', 'Annelien L. Bredenoord']
+Martin Boeckhout, Gerhard A. Zielhuis, Annelien L. Bredenoord
 
 Published 2018-05-17
 
@@ -102,7 +102,7 @@ Content type: Publication
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 

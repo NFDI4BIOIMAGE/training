@@ -1,7 +1,7 @@
 # Imagej (19)
 ## A Fiji Scripting Tutorial
 
-['Albert Cardona']
+Albert Cardona
 
 Licensed CC0-1.0
 
@@ -18,7 +18,7 @@ Content type: Notebook
 
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
 
@@ -33,7 +33,7 @@ Content type: Publication, Poster
 
 ## CLIJ: GPU-accelerated image processing for everyone
 
-['Robert Haase', 'Loic Royer', 'et al.']
+Robert Haase, Loic Royer, et al.
 
 Published 2020
 
@@ -71,7 +71,7 @@ Content type: Online Tutorial
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -88,7 +88,7 @@ Content type: Slide
 
 ## Introduction to Bioimage Analysis
 
-['Pete Bankhead']
+Pete Bankhead
 
 Licensed CC-BY-4.0
 
@@ -105,7 +105,7 @@ Content type: Book, Notebook
 
 ## Introduction to Image Analysis with Fiji
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed CC-BY-NC-4.0
 
@@ -120,7 +120,7 @@ Tags: Imagej, Fiji, Bioimage Analysis
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -137,7 +137,7 @@ Content type: Slide
 
 ## JIPipe: visual batch processing for ImageJ
 
-['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -175,7 +175,7 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 ## Lecture Applied Bioimage Analysis 2020
 
-['Robert Haase']
+Robert Haase
 
 
 
@@ -192,7 +192,7 @@ Content type: Slide
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
@@ -211,7 +211,7 @@ Content type: Publication, Documentation
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
@@ -230,7 +230,7 @@ Content type: Publication, Documentation
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -266,7 +266,7 @@ Content type: Github Repository
 
 ## The Fiji Updater
 
-['Robert Haase']
+Robert Haase
 
 Licensed ALL RIGHTS RESERVED
 
@@ -285,7 +285,7 @@ Content type: Publication
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -304,7 +304,7 @@ Content type: Slide
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -321,7 +321,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 

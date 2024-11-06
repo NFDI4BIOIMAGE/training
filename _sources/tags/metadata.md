@@ -1,7 +1,7 @@
 # Metadata (14)
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Publication, Poster
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -39,7 +39,7 @@ Content type: Publication
 
 ## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed UNKNOWN
 
@@ -58,7 +58,7 @@ Content type: Collection
 
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
-['Susanne Kunis', 'Sebastian Hänsch', 'Christian Schmidt', 'Frances Wong', 'Caterina Strambio-De-Castillia', 'Stefanie Weidtkamp-Peters']
+Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
 Licensed ALL RIGHTS RESERVED
 
@@ -75,7 +75,7 @@ Content type: Publication
 
 ## Metadata matters: access to image data in the real world
 
-['Melissa Linkert', 'et al.']
+Melissa Linkert, et al.
 
 Published 2010
 
@@ -92,7 +92,7 @@ Content type: Publication
 
 ## MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text
 
-['Joel Ryan', 'Thomas Pengo', 'Alex Rigano', 'Paula Montero Llopis', 'Michelle S. Itano', 'Lisa A. Cameron', 'Guillermo Marqués', 'Caterina Strambio-De-Castillia', 'Mark A. Sanders', 'Claire M. Brown']
+Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown
 
 
 
@@ -107,7 +107,7 @@ Content type: Publication
 
 ## Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications
 
-['Alessandro Rigano', 'et al.']
+Alessandro Rigano, et al.
 
 
 
@@ -122,7 +122,7 @@ Content type: Publication
 
 ## Modeling community standards for metadata as templates makes data FAIR
 
-['Mark A Musen', "Martin J O'Connor", 'Erik Schultes', 'Marcos Martínez-Romero', 'Josef Hardi', 'John Graybeal']
+Mark A Musen, Martin J O'Connor, Erik Schultes, Marcos Martínez-Romero, Josef Hardi, John Graybeal
 
 Published 2022-11-12
 
@@ -145,7 +145,7 @@ Content type: Publication
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -206,7 +206,7 @@ Content type: Collection
 
 ## Ten simple rules for making training materials FAIR
 
-['Leyla Garcia', 'Bérénice Batut', 'Melissa L. Burke', 'Mateusz Kuzak', 'Fotis Psomopoulos', 'et al.']
+Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
 
 Published 2020-05-21
 
@@ -227,7 +227,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 
@@ -248,7 +248,7 @@ Content type: Publication
 
 ## User friendly Image metadata annotation tool/workflow for OMERO
 
-['Jens Wendt']
+Jens Wendt
 
 
 

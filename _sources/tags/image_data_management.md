@@ -1,7 +1,7 @@
 # Image data management (13)
 ## BIOMERO - A scalable and extensible image analysis framework
 
-['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
 
 Published None
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## Bio-image Data Science
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -58,7 +58,7 @@ Content type: Slides, Presentation
 
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
-['SciPy', 'Erick Martins Ratamero']
+SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
@@ -77,7 +77,7 @@ Content type: Video, Presentation
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -98,7 +98,7 @@ Content type: Publication
 
 ## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
 
-['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+Marie-Hélène Bourget, Lee Kamentsky, Satrajit S. Ghosh, Giacomo Mazzamuto, Alberto Lazari, et al.
 
 Published 2022-04-19
 
@@ -119,7 +119,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Published 2021-04-29
 
@@ -140,7 +140,7 @@ Content type: Conference Abstract, Slide
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -182,7 +182,7 @@ Content type: Collection
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -220,7 +220,7 @@ Content type: Tutorial, Video
 
 ## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
 
-['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+Matthew Hartley, Gerard J. Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R. Swedlow, Alvis Brazma
 
 Published 2022-06-22
 
@@ -243,7 +243,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 

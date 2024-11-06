@@ -1,7 +1,7 @@
 # Microscopy image analysis (11)
 ## BIDS-lecture-2024
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Github Repository
 
 ## Bio-image Data Science
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -39,7 +39,7 @@ Content type: Notebook
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -58,7 +58,7 @@ Content type: Slides
 
 ## Checklists for publishing images and image analysis
 
-['Christopher Schmied']
+Christopher Schmied
 
 Published 2023-09-14
 
@@ -79,7 +79,7 @@ Content type: Forum Post
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -102,7 +102,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 ## FAIRy deep-learning for bioImage analysis
 
-['Estibaliz Gómez de Mariscal']
+Estibaliz Gómez de Mariscal
 
 Licensed CC-BY-4.0
 
@@ -121,7 +121,7 @@ Content type: Slides
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
 
 Licensed CC-BY-4.0
 
@@ -140,7 +140,7 @@ Content type: Video, Slides
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
@@ -180,7 +180,7 @@ Content type: Video, Collection
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-['Ilya G. Goldberg', 'Chris Allan', 'Jean-Marie Burel', 'Doug Creager', 'Andrea Falconi', 'et. al']
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -203,7 +203,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 

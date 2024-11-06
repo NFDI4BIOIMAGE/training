@@ -59,7 +59,7 @@ Content type: Collection, Data, Publication
 
 ## EMBL-EBI material collection
 
-['EMBL-EBI']
+EMBL-EBI
 
 Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
@@ -78,7 +78,7 @@ Content type: Collection
 
 ## Methods in bioimage analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed CC-BY-4.0
 
@@ -99,7 +99,7 @@ Content type: Online Tutorial, Video, Slide
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
 
 Licensed CC-BY-4.0
 

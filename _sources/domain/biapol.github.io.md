@@ -1,7 +1,7 @@
 # Biapol.github.io (6)
 ## Browsing the Open Microscopy Image Data Resource with Python
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Blog
 
 ## Getting started with Mambaforge and Python
 
-['Mara Lampert']
+Mara Lampert
 
 Licensed CC-BY-4.0
 
@@ -35,7 +35,7 @@ Content type: Blog
 
 ## Omero-tools
 
-['Johannes Soltwedel']
+Johannes Soltwedel
 
 Licensed CC-BY-4.0
 
@@ -80,7 +80,7 @@ Content type: Event, Notebook
 
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
-['Marcelo Zoccoler']
+Marcelo Zoccoler
 
 Licensed CC-BY-4.0
 

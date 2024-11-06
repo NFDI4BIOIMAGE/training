@@ -1,7 +1,7 @@
 # Www.biorxiv.org (5)
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
-['Suganya Sivagurunathan', 'Stefania Marcotti', 'Carl J Nelson', 'Martin L Jones', 'David J Barry', 'Thomas J A Slater', 'Kevin W Eliceiri', 'Beth A Cimini']
+Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
 
 Published 2023
 
@@ -22,7 +22,7 @@ Content type: Publication, Preprint
 
 ## CellTrackColab
 
-['Guillaume Jacquemet']
+Guillaume Jacquemet
 
 Licensed MIT
 
@@ -39,7 +39,7 @@ Content type: Notebook, Collection
 
 ## SpatialData: an open and universal data framework for spatial omics
 
-['Luca Marconato', 'Giovanni Palla', 'Kevin A Yamauchi', 'Isaac Virshup', 'Elyas Heidari', 'Tim Treis', 'Marcella Toth', 'Rahul Shrestha', 'Harald Vöhringer', 'Wolfgang Huber', 'Moritz Gerstung', 'Josh Moore', 'Fabian J Theis', 'Oliver Stegle']
+Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
 Licensed CC-BY-4.0
 
@@ -56,7 +56,7 @@ Content type: Publication, Preprint
 
 ## Studentsourcing - aggregating and re-using data from a practical cell biology course
 
-['Joachim Goedhart']
+Joachim Goedhart
 
 
 
@@ -71,7 +71,7 @@ Content type: Preprint
 
 ## Using Glittr.org to find, compare and re-use online training materials
 
-['Geert van Geest', 'Yann Haefliger', 'Monique Zahn-Zabal', 'Patricia M. Palagi']
+Geert van Geest, Yann Haefliger, Monique Zahn-Zabal, Patricia M. Palagi
 
 Licensed CC-BY-4.0
 

@@ -1,7 +1,7 @@
 # Deep learning (9)
 ## BIDS-lecture-2024
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -20,7 +20,7 @@ Content type: Github Repository
 
 ## Bio-image Data Science
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -39,7 +39,7 @@ Content type: Notebook
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -58,7 +58,7 @@ Content type: Slides
 
 ## BioEngine Documentation
 
-['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
 
 Licensed MIT
 
@@ -92,7 +92,7 @@ Content type: Collection, Data
 
 ## FAIRy deep-learning for bioImage analysis
 
-['Estibaliz Gómez de Mariscal']
+Estibaliz Gómez de Mariscal
 
 Licensed CC-BY-4.0
 
@@ -111,7 +111,7 @@ Content type: Slides
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape']
+Costantin Pape
 
 Licensed MIT
 
@@ -130,7 +130,7 @@ Content type: Notebook
 
 ## MicroSam-Talks
 
-['Constantin Pape']
+Constantin Pape
 
 Published 2024-05-23
 
@@ -158,7 +158,7 @@ Content type: Slides
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
 
 Licensed CC-BY-4.0
 

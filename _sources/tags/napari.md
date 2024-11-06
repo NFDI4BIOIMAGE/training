@@ -1,7 +1,7 @@
 # Napari (13)
 ## Annotating 3D images in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -16,7 +16,7 @@ Content type: Blog
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -33,7 +33,7 @@ Content type: Notebook
 
 ## Bioimage analysis with Napari
 
-['Fabrizio Musacchio']
+Fabrizio Musacchio
 
 Licensed CC-BY-ND-SA-4.0
 
@@ -67,7 +67,7 @@ Content type: Collection, Video
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -90,7 +90,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 ## Feature extraction in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -105,7 +105,7 @@ Content type: Blog
 
 ## Intro napari slides
 
-['Peter Sobolewski']
+Peter Sobolewski
 
 Licensed MIT
 
@@ -124,7 +124,7 @@ Content type: Slides
 
 ## Open Image Data Handbook
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -141,7 +141,7 @@ Content type: Book, Notebook
 
 ## QM Course Lectures on Bio-Image Analysis with napari 2024
 
-['Marcelo Leomil Zoccoler']
+Marcelo Leomil Zoccoler
 
 Licensed CC-BY-4.0
 
@@ -160,7 +160,7 @@ Content type: Notebook
 
 ## Quality assurance of segmentation results
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -175,7 +175,7 @@ Content type: Blog
 
 ## Rescaling images and pixel (an)isotropy
 
-['Mara Lampert']
+Mara Lampert
 
 
 
@@ -190,7 +190,7 @@ Content type: Blog
 
 ## Tracking in napari
 
-['Mara Lampert']
+Mara Lampert
 
 
 

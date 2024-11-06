@@ -1,7 +1,7 @@
 # Jens wendt (6)
 ## Excel template for adding Key-Value Pairs to images
 
-['Thomas Zobel', 'Jens Wendt']
+Thomas Zobel, Jens Wendt
 
 Published 2024-10-30
 
@@ -23,7 +23,7 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
 Licensed CC-BY-4.0
 
@@ -42,7 +42,7 @@ Content type: Collection
 
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)
 
-['Mohamed Abdrabbou', 'Mehrnaz Babaki', 'Tom Boissonnet', 'Michele Bortolomeazzi', 'Eik Dahms', 'Vanessa Fuchs', 'A. F. Moritz Hoevels', 'Niraj Kandpal', 'Christoph Möhl', 'Joshua A. Moore', 'Astrid Schauss', 'Andrea Schrader', 'Torsten Stöter', 'Julia Thönnißen', 'Monica Valencia-S.', 'H. Lukas Weil', 'Jens Wendt', 'Peter Zentis']
+Mohamed Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa Fuchs, A. F. Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt, Peter Zentis
 
 Licensed CC-BY-4.0
 
@@ -61,7 +61,7 @@ Content type: Github Repository
 
 ## OMERO for microscopy research data management
 
-['Thomas Zobel', 'Sarah Weischner', 'Jens Wendt']
+Thomas Zobel, Sarah Weischner, Jens Wendt
 
 Licensed ALL RIGHTS RESERVED
 
@@ -80,7 +80,7 @@ Content type: Publication
 
 ## User friendly Image metadata annotation tool/workflow for OMERO
 
-['Jens Wendt']
+Jens Wendt
 
 
 
@@ -95,7 +95,7 @@ Content type: Forum Post
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-['Vanessa Fuchs', 'Aphaia Fiona', 'Jens Wendt', 'Maximilian Müller', 'Mohsen Ahmadi', 'Riccardo Massei', 'Cornelia Wetzker']
+Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 

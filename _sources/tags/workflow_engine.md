@@ -1,7 +1,7 @@
 # Workflow engine (13)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-['Caterina Fuster-Barceló']
+Caterina Fuster-Barceló
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Documentation
 
 ## BiaPy: Bioimage analysis pipelines in Python
 
-['Daniel Franco-Barranco', 'et al.']
+Daniel Franco-Barranco, et al.
 
 
 
@@ -35,7 +35,7 @@ Content type: Documentation
 
 ## BioEngine
 
-['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
 Licensed UNKNOWN
 
@@ -54,7 +54,7 @@ Content type: Publication
 
 ## BioEngine Documentation
 
-['Wei Ouyang', 'Nanguage', 'Jeremy Metz', 'Craig Russell']
+Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
 
 Licensed MIT
 
@@ -103,7 +103,7 @@ Content type: Documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-['Ruman Gerst', 'Zoltán Cseresnyés', 'Marc Thilo Figge']
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -122,7 +122,7 @@ Content type: Publication, Documentation
 
 ## MiToBo - A Toolbox for Image Processing and Analysis
 
-['Birgit Möller', 'Markus Glaß', 'Danny Misiak', 'Stefan Posch']
+Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 
 
@@ -141,7 +141,7 @@ Content type: Publication, Documentation
 
 ## ModularImageAnalysis (MIA): Assembly of modularisedimage and object analysis workflows in ImageJ
 
-['Stephen J. Cross', 'Jordan D. J. R. Fisher', 'Mark A. Jepson']
+Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 
 
@@ -175,7 +175,7 @@ Content type: Documentation
 
 ## Nextflow: Scalable and reproducible scientific workflows
 
-['Floden Evan', 'Di Tommaso Paolo']
+Floden Evan, Di Tommaso Paolo
 
 Published 2020-12-17
 
@@ -215,7 +215,7 @@ Content type: Documentation
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 

@@ -1,7 +1,7 @@
 # Artificial intelligence (28)
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-['Caterina Fuster-Barceló']
+Caterina Fuster-Barceló
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Documentation
 
 ## BioEngine
 
-['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
 Licensed UNKNOWN
 
@@ -52,7 +52,7 @@ Content type: Collection
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-['Estibaliz Gómez-de-Mariscal\\']
+Estibaliz Gómez-de-Mariscal\
 
 Licensed UNKNOWN
 
@@ -69,7 +69,7 @@ Content type: Slide
 
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -86,7 +86,7 @@ Content type: Notebook
 
 ## CSBDeep and StarDist @ I2K 2020
 
-['Martin Weigert', 'Uwe Schmidt']
+Martin Weigert, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -103,7 +103,7 @@ Content type: Notebook
 
 ## Collection of teaching material for deep learning for (biomedical) image analysis
 
-['Constantin Pape']
+Constantin Pape
 
 Licensed MIT
 
@@ -118,7 +118,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## Course on Deep Learning for imaging using PyTorch
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -135,7 +135,7 @@ Content type: Notebook
 
 ## Creating a Research Data Management Plan using chatGPT
 
-['Robert Haase']
+Robert Haase
 
 Published 2023-11-06
 
@@ -156,7 +156,7 @@ Content type: Blog
 
 ## DEEP NAPARI : Napari as a tool for deep learning project management
 
-['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
 
 Licensed UNKNOWN
 
@@ -173,7 +173,7 @@ Content type: Notebook
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -205,7 +205,7 @@ Content type: Notebook
 
 ## Deep Learning for image analysis - Exercises
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -222,7 +222,7 @@ Content type: Notebook
 
 ## Deep Vision and Graphics
 
-['Victor Yurchenko', 'Fedor Ratnikov', 'Viktoriia Checkalina']
+Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
 Licensed MIT
 
@@ -239,7 +239,7 @@ Content type: Notebook
 
 ## DeepProfiler Handbook
 
-['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
 
 Licensed UNKNOWN
 
@@ -258,7 +258,7 @@ Content type: Book
 
 ## EMBL Deep Learning course 2019 exercises and materials
 
-['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
+Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
 
 Licensed UNKNOWN
 
@@ -275,7 +275,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-['Martin Weigert', 'Constantin Pape']
+Martin Weigert, Constantin Pape
 
 Licensed UNKNOWN
 
@@ -292,7 +292,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2023 exercises and materials
 
-['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
+Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -309,7 +309,7 @@ Content type: Notebook
 
 ## Generative artificial intelligence for bio-image analysis
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -326,7 +326,7 @@ Content type: Slide
 
 ## Kreshuk Lab's EMBL EIPP predoc course teaching material
 
-['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
+Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -343,7 +343,7 @@ Content type: Tutorial
 
 ## Machine Learning - Deep Learning. Applications to Bioimage Analysis
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -360,7 +360,7 @@ Content type: Slide
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -377,7 +377,7 @@ Content type: Slide
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -394,7 +394,7 @@ Content type: Slide, Notebook
 
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
-['Marcelo Zoccoler']
+Marcelo Zoccoler
 
 Licensed CC-BY-4.0
 
@@ -411,7 +411,7 @@ Content type: Blog
 
 ## Training Deep Learning Models for Vision - Compact Course
 
-['Constantin Pape', 'Adrian Wolny']
+Constantin Pape, Adrian Wolny
 
 Licensed UNKNOWN
 
@@ -426,7 +426,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## ZIDAS 2020 Introduction to Deep Learning
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -443,7 +443,7 @@ Content type: Slide
 
 ## ilastik: interactive machine learning for (bio)image analysis
 
-['Anna Kreshuk', 'Dominik Kutra']
+Anna Kreshuk, Dominik Kutra
 
 Licensed CC-BY-4.0
 

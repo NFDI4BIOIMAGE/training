@@ -1,7 +1,7 @@
 # Bioimage data (20)
 ## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
 
-['Cornelia Wetzker']
+Cornelia Wetzker
 
 Published 2023-11-08
 
@@ -43,7 +43,7 @@ Content type: Documentation
 
 ## Checklists for publishing images and image analysis
 
-['Christopher Schmied']
+Christopher Schmied
 
 Published 2023-09-14
 
@@ -64,7 +64,7 @@ Content type: Forum Post
 
 ## FAIR High Content Screening in Bioimaging
 
-['Rohola Hosseini', 'Matthijs Vlasveld', 'Joost Willemse', 'Bob van de Water', 'Sylvia E. Le Dévédec', 'Katherine J. Wolstencroft']
+Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
 
 Published 2023-07-17
 
@@ -85,7 +85,7 @@ Content type: Publication
 
 ## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed UNKNOWN
 
@@ -123,7 +123,7 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 ## Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data
 
-['Marie-Hélène Bourget', 'Lee Kamentsky', 'Satrajit S. Ghosh', 'Giacomo Mazzamuto', 'Alberto Lazari', 'et al.']
+Marie-Hélène Bourget, Lee Kamentsky, Satrajit S. Ghosh, Giacomo Mazzamuto, Alberto Lazari, et al.
 
 Published 2022-04-19
 
@@ -144,7 +144,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data
 
-['Christian Schmidt', 'Elisa Ferrando-May']
+Christian Schmidt, Elisa Ferrando-May
 
 Published 2021-04-29
 
@@ -201,7 +201,7 @@ Content type: Video, Collection
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -262,7 +262,7 @@ Content type: Collection
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -300,7 +300,7 @@ Content type: Tutorial, Video
 
 ## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
 
-['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+Matthew Hartley, Gerard J. Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R. Swedlow, Alvis Brazma
 
 Published 2022-06-22
 
@@ -323,7 +323,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 
@@ -344,7 +344,7 @@ Content type: Publication
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -363,7 +363,7 @@ Content type: Application, Github Repository
 
 ## ome-ngff-validator
 
-['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+Will Moore, Josh Moore, Yaroslav Halchenko, Sébastien Besson
 
 Published 2022-09-29
 
@@ -386,7 +386,7 @@ Content type: Github Repository, Application
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 

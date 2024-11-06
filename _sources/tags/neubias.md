@@ -1,7 +1,7 @@
 # Neubias (26)
 ## Adding a Workflow to BIAFLOWS
 
-['Sébastien Tosi', 'Volker Baecker', 'Benjamin Pavie']
+Sébastien Tosi, Volker Baecker, Benjamin Pavie
 
 Licensed BSD-2-CLAUSE
 
@@ -18,7 +18,7 @@ Content type: Slide
 
 ## BioImage Data Analysis
 
-['Kota Miura']
+Kota Miura
 
 Licensed ALL RIGHTS RESERVED
 
@@ -35,7 +35,7 @@ Content type: Book
 
 ## CellProfiler Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -52,7 +52,7 @@ Content type: Slide
 
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
+Carolina Wählby, Maxime Bombrun, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -69,7 +69,7 @@ Content type: Tutorial
 
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
-['Florian Levet', 'Anne E. Carpenter', 'Kevin W. Eliceiri', 'Anna Kreshuk', 'Peter Bankhead', 'Robert Haase']
+Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -88,7 +88,7 @@ Content type: Publication
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-['Kota Miura']
+Kota Miura
 
 Published 2013
 
@@ -107,7 +107,7 @@ Content type: Tutorial, Book
 
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
-['Gabriel G. Martins', 'Fabrice P. Cordelières', 'Julien Colombelli', 'Rocco D’Antuono', 'Ofra Golani', 'Romain Guiet', 'Robert Haase', 'Anna H. Klemm', 'Marion Louveaux', 'Perrine Paul-Gilloteaux', 'Jean-Yves Tinevez', 'Kota Miura']
+Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
 
 Published 2021
 
@@ -141,7 +141,7 @@ Content type: Book
 
 ## ImageJ Macro Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -158,7 +158,7 @@ Content type: Slide, Code
 
 ## ImageJ2 API-beating
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -175,7 +175,7 @@ Content type: Slide
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -192,7 +192,7 @@ Content type: Slide
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -209,7 +209,7 @@ Content type: Slide
 
 ## Multi-view fusion
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -243,7 +243,7 @@ Content type: Notebook
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -260,7 +260,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -277,7 +277,7 @@ Content type: Slide, Tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -294,7 +294,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -326,7 +326,7 @@ Content type: Collection, Video
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -343,7 +343,7 @@ Content type: Slide, Notebook
 
 ## Open Image Data Handbook
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -360,7 +360,7 @@ Content type: Book, Notebook
 
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
-['Marion Louveaux']
+Marion Louveaux
 
 Licensed UNKNOWN
 
@@ -377,7 +377,7 @@ Content type: Code
 
 ## Tracking Theory, TrackMate, and Mastodon
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -396,7 +396,7 @@ Content type: Slide
 
 ## What is Bioimage Analysis? An Introduction
 
-['Kota Miura']
+Kota Miura
 
 Licensed UNKNOWN
 
@@ -413,7 +413,7 @@ Content type: Slide
 
 ## Working with objects in 2D and 3D
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -430,7 +430,7 @@ Content type: Slide
 
 ## Working with pixels
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 

@@ -1,7 +1,7 @@
 # Collection (75)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
-['Rebecca A. Senft', 'Barbara Diaz-Rohrer', 'Pina Colarusso', 'Lucy Swift', 'Nasim Jamali', 'Helena Jambor', 'Thomas Pengo', 'Craig Brideau', 'Paula Montero Llopis', 'Virginie Uhlmann', 'Jason Kirk', 'Kevin Andrew Gonzales', 'Peter Bankhead', 'Edward L. Evans III', 'Kevin W. Eliceiri', 'Beth A. Cimini']
+Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
 
 Licensed BSD-3-CLAUSE
 
@@ -18,7 +18,7 @@ Content type: Collection, Publication
 
 ## Annotated high-throughput microscopy image sets for validation
 
-['Vebjorn Ljosa', 'Katherine L Sokolnicki', 'Anne E Carpenter']
+Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter
 
 
 
@@ -190,7 +190,7 @@ Content type: Collection
 
 ## Bioimage analysis with Napari
 
-['Fabrizio Musacchio']
+Fabrizio Musacchio
 
 Licensed CC-BY-ND-SA-4.0
 
@@ -261,7 +261,7 @@ Content type: Collection, Data
 
 ## CellTrackColab
 
-['Guillaume Jacquemet']
+Guillaume Jacquemet
 
 Licensed MIT
 
@@ -306,7 +306,7 @@ Content type: Collection, Video
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Beth Cimini et al.']
+Beth Cimini et al.
 
 Licensed BSD LICENSE
 
@@ -325,7 +325,7 @@ Content type: Notebook, Collection
 
 ## DL4MicEverywhere
 
-['Iván Hidalgo', 'et al.']
+Iván Hidalgo, et al.
 
 Licensed CC-BY-4.0
 
@@ -340,7 +340,7 @@ Content type: Notebook, Collection
 
 ## Data life cycle
 
-['ELIXIR (2021) Research Data Management Kit']
+ELIXIR (2021) Research Data Management Kit
 
 Licensed CC-BY-4.0
 
@@ -378,7 +378,7 @@ Content type: Collection
 
 ## DigitalSreeni YouTube Channel
 
-['Sreeni Bhattiprolu']
+Sreeni Bhattiprolu
 
 
 
@@ -397,7 +397,7 @@ Content type: Collection, Video
 
 ## EMBL-EBI material collection
 
-['EMBL-EBI']
+EMBL-EBI
 
 Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
@@ -416,7 +416,7 @@ Content type: Collection
 
 ## Elastix tutorial
 
-['Marvin Albert']
+Marvin Albert
 
 Licensed BSD LICENSE
 
@@ -446,7 +446,7 @@ Content type: Collection, Video
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -583,7 +583,7 @@ Content type: Collection
 
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -626,7 +626,7 @@ Content type: Collection, Video
 
 ## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
 
-['Sarah Weischer', 'Jens Wendt', 'Thomas Zobel']
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
 Licensed CC-BY-4.0
 
@@ -645,7 +645,7 @@ Content type: Collection
 
 ## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed UNKNOWN
 
@@ -709,7 +709,7 @@ Content type: Collection, Data, Publication
 
 ## Image Processing with Python
 
-['Jacob Deppen', 'Kimberly Meechan', 'David Palmquist', 'Ulf Schiller', 'Robert Turner', 'Marianne Corvellec', 'Toby Hodges', 'et al.']
+Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
 
 Licensed CC-BY-4.0
 
@@ -895,7 +895,7 @@ Content type: Collection, Video
 
 ## Python for Microscopists
 
-['Sreenivas Bhattiprolu']
+Sreenivas Bhattiprolu
 
 Licensed MIT
 
@@ -912,7 +912,7 @@ Content type: Notebook, Collection
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -1068,7 +1068,7 @@ Content type: Collection
 
 ## What is Open Data?
 
-['Daniel Dietrich', 'Jonathan Gray', 'Tim McNamara', 'Antti Poikola', 'Rufus Pollock', 'et al.']
+Daniel Dietrich, Jonathan Gray, Tim McNamara, Antti Poikola, Rufus Pollock, et al.
 
 Licensed CC-BY-4.0
 
@@ -1087,7 +1087,7 @@ Content type: Collection
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 
@@ -1136,7 +1136,7 @@ Content type: Collection, Notebook
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
 Licensed MIT
 

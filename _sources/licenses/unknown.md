@@ -1,7 +1,7 @@
 # Unknown (75)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Notebook
 
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
-['Caterina Fuster-Barceló']
+Caterina Fuster-Barceló
 
 Licensed UNKNOWN
 
@@ -35,7 +35,7 @@ Content type: Documentation
 
 ## Analysis of High-Throughput Microscopy Image Data
 
-['Kota Miura', 'Christoph Schiklenk', 'Clemens Lakner', 'Christian Tischer', 'Aliaksandr Halavatyi']
+Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
 
 Published 2014
 
@@ -50,7 +50,7 @@ Licensed UNKNOWN
 
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -71,7 +71,7 @@ Content type: Publication
 
 ## Bio Image Analysis
 
-['Christian Tischer']
+Christian Tischer
 
 Licensed UNKNOWN
 
@@ -88,7 +88,7 @@ Content type: Slide
 
 ## BioEngine
 
-['Jeremy Metz', 'Beatriz Serrano-Solano', 'Wei Ouyang']
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
 
 Licensed UNKNOWN
 
@@ -122,7 +122,7 @@ Content type: Collection
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-['Estibaliz Gómez-de-Mariscal\\']
+Estibaliz Gómez-de-Mariscal\
 
 Licensed UNKNOWN
 
@@ -139,7 +139,7 @@ Content type: Slide
 
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -156,7 +156,7 @@ Content type: Notebook
 
 ## CSBDeep and StarDist @ I2K 2020
 
-['Martin Weigert', 'Uwe Schmidt']
+Martin Weigert, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -203,7 +203,7 @@ Content type: Collection, Data
 
 ## CellProfiler Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -220,7 +220,7 @@ Content type: Slide
 
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
+Carolina Wählby, Maxime Bombrun, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -254,7 +254,7 @@ Content type: Collection, Video
 
 ## Course on Deep Learning for imaging using PyTorch
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -271,7 +271,7 @@ Content type: Notebook
 
 ## DEEP NAPARI : Napari as a tool for deep learning project management
 
-['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
 
 Licensed UNKNOWN
 
@@ -288,7 +288,7 @@ Content type: Notebook
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -305,7 +305,7 @@ Content type: Slide, Notebook
 
 ## Dask Course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -322,7 +322,7 @@ Content type: Notebook
 
 ## Deep Learning for image analysis - Exercises
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -339,7 +339,7 @@ Content type: Notebook
 
 ## DeepProfiler Handbook
 
-['Michael Bornholdt', 'Juan Caicedo', 'Yu Han', 'Nikita Moshkov', 'Rebecca Senft']
+Michael Bornholdt, Juan Caicedo, Yu Han, Nikita Moshkov, Rebecca Senft
 
 Licensed UNKNOWN
 
@@ -358,7 +358,7 @@ Content type: Book
 
 ## Diffusion Models for Image Restoration - An Introduction
 
-['Anirban Ray']
+Anirban Ray
 
 Licensed UNKNOWN
 
@@ -377,7 +377,7 @@ Content type: Presentation
 
 ## EMBL Deep Learning course 2019 exercises and materials
 
-['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
+Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
 
 Licensed UNKNOWN
 
@@ -394,7 +394,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-['Martin Weigert', 'Constantin Pape']
+Martin Weigert, Constantin Pape
 
 Licensed UNKNOWN
 
@@ -411,7 +411,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2023 exercises and materials
 
-['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
+Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -428,7 +428,7 @@ Content type: Notebook
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-['Kota Miura']
+Kota Miura
 
 Published 2013
 
@@ -447,7 +447,7 @@ Content type: Tutorial, Book
 
 ## Finding and Choosing a Data Repository
 
-['Christian Schmidt']
+Christian Schmidt
 
 Published 2023-07-01
 
@@ -487,7 +487,7 @@ Content type: Blog
 
 ## Fundamentals in digital image processing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -519,7 +519,7 @@ Content type: Collection
 
 ## Ghent University Research Data Management (RDM) - policy and support
 
-['University of Ghent']
+University of Ghent
 
 Licensed UNKNOWN
 
@@ -538,7 +538,7 @@ Content type: Website
 
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -557,7 +557,7 @@ Content type: Videos, Tutorial, Collection
 
 ## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed UNKNOWN
 
@@ -593,7 +593,7 @@ Content type: Collection
 
 ## Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services
 
-['Aastha Mathur']
+Aastha Mathur
 
 Licensed UNKNOWN
 
@@ -608,7 +608,7 @@ Content type: Slide
 
 ## Image analysis in Galaxy
 
-['Beatriz Serrano-Solano', 'Björn Grüning']
+Beatriz Serrano-Solano, Björn Grüning
 
 Licensed UNKNOWN
 
@@ -625,7 +625,7 @@ Content type: Slide
 
 ## ImageJ Macro Introduction
 
-['Anna Klemm']
+Anna Klemm
 
 Licensed UNKNOWN
 
@@ -642,7 +642,7 @@ Content type: Slide, Code
 
 ## Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
 
-['Robert Haase', 'Benoit Lombardot']
+Robert Haase, Benoit Lombardot
 
 Licensed UNKNOWN
 
@@ -659,7 +659,7 @@ Content type: Slide
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -693,7 +693,7 @@ Content type: Documentation, Collection
 
 ## Kreshuk Lab's EMBL EIPP predoc course teaching material
 
-['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
+Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -710,7 +710,7 @@ Content type: Tutorial
 
 ## Machine Learning - Deep Learning. Applications to Bioimage Analysis
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -742,7 +742,7 @@ Content type: Tutorial
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -759,7 +759,7 @@ Content type: Slide
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-['Jonas Hartmann', 'et al.']
+Jonas Hartmann, et al.
 
 Licensed UNKNOWN
 
@@ -778,7 +778,7 @@ Content type: Code, Notebook
 
 ## Metabolic networks modelling with COBRApy
 
-['Karin Sasaki', 'Aleksej Zelezniak']
+Karin Sasaki, Aleksej Zelezniak
 
 Licensed UNKNOWN
 
@@ -795,7 +795,7 @@ Content type: Notebook
 
 ## Models and Applications for BioImage.IO
 
-['Wei Ouyang', 'et al.']
+Wei Ouyang, et al.
 
 Licensed UNKNOWN
 
@@ -808,7 +808,7 @@ Licensed UNKNOWN
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -825,7 +825,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -842,7 +842,7 @@ Content type: Slide, Tutorial
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -859,7 +859,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -893,7 +893,7 @@ Content type: Website
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -923,7 +923,7 @@ Content type: Code
 
 ## OME-Zarr course
 
-['Bugra Oezdemir', 'Christian Tischer']
+Bugra Oezdemir, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -953,7 +953,7 @@ Content type: Documentation
 
 ## Python Workshop - Image Processing
 
-['Karin Sasaki', 'Jonas Hartmann']
+Karin Sasaki, Jonas Hartmann
 
 Licensed UNKNOWN
 
@@ -970,7 +970,7 @@ Content type: Code, Notebook
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -1023,7 +1023,7 @@ Content type: Website, Online Tutorial
 
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
-['Ugis Sarkans', 'Wah Chiu', 'Lucy Collinson', 'Michele C. Darrow', 'Jan Ellenberg', 'David Grunwald', 'et al.']
+Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
 
 Published 2021-05-21
 
@@ -1084,7 +1084,7 @@ Content type: Tutorial
 
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
-['Marion Louveaux']
+Marion Louveaux
 
 Licensed UNKNOWN
 
@@ -1101,7 +1101,7 @@ Content type: Code
 
 ## Setting up a data management infrastructure for bioimaging
 
-['Susanne Kunis', 'Karen Bernhardt', 'Michael Hensel']
+Susanne Kunis, Karen Bernhardt, Michael Hensel
 
 Licensed UNKNOWN
 
@@ -1118,7 +1118,7 @@ Content type: Publication
 
 ## Setting up a remote desktop to use Napari in a browser
 
-['Volker Hilsenstein']
+Volker Hilsenstein
 
 Licensed UNKNOWN
 
@@ -1176,7 +1176,7 @@ Content type: Collection
 
 ## The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
 
-['Matthew Hartley', 'Gerard J. Kleywegt', 'Ardan Patwardhan', 'Ugis Sarkans', 'Jason R. Swedlow', 'Alvis Brazma']
+Matthew Hartley, Gerard J. Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R. Swedlow, Alvis Brazma
 
 Published 2022-06-22
 
@@ -1199,7 +1199,7 @@ Content type: Publication
 
 ## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
 
-['Mathias Hammer', 'Maximiliaan Huisman', 'Alessandro Rigano', 'Ulrike Boehm', 'James J. Chambers', 'et al.']
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
 
 Published 2022-07-10
 
@@ -1220,7 +1220,7 @@ Content type: Publication
 
 ## Training Deep Learning Models for Vision - Compact Course
 
-['Constantin Pape', 'Adrian Wolny']
+Constantin Pape, Adrian Wolny
 
 Licensed UNKNOWN
 
@@ -1235,7 +1235,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 ## What is Bioimage Analysis? An Introduction
 
-['Kota Miura']
+Kota Miura
 
 Licensed UNKNOWN
 
@@ -1252,7 +1252,7 @@ Content type: Slide
 
 ## ZIDAS 2020 Introduction to Deep Learning
 
-['Estibaliz Gómez-de-Mariscal']
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -1269,7 +1269,7 @@ Content type: Slide
 
 ## i2k-2020-s3-zarr-workshop
 
-['Constantin Pape', 'Christian Tischer']
+Constantin Pape, Christian Tischer
 
 Licensed UNKNOWN
 

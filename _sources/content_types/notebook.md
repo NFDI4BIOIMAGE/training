@@ -1,7 +1,7 @@
 # Notebook (53)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -18,7 +18,7 @@ Content type: Notebook
 
 ## A Fiji Scripting Tutorial
 
-['Albert Cardona']
+Albert Cardona
 
 Licensed CC0-1.0
 
@@ -35,7 +35,7 @@ Content type: Notebook
 
 ## Bio-image Data Science
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -54,7 +54,7 @@ Content type: Notebook
 
 ## Bio-image analysis, biostatistics, programming and machine learning for computational biology
 
-['Anna Poetsch', 'Biotec Dresden', 'Marcelo Leomil Zoccoler', 'Johannes Richard Müller', 'Robert Haase']
+Anna Poetsch, Biotec Dresden, Marcelo Leomil Zoccoler, Johannes Richard Müller, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -71,7 +71,7 @@ Content type: Notebook
 
 ## BioImage Analysis Notebooks
 
-['Robert Haase et al.']
+Robert Haase et al.
 
 Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
@@ -88,7 +88,7 @@ Content type: Book, Notebook
 
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -105,7 +105,7 @@ Content type: Notebook
 
 ## CSBDeep and StarDist @ I2K 2020
 
-['Martin Weigert', 'Uwe Schmidt']
+Martin Weigert, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -139,7 +139,7 @@ Content type: Notebook
 
 ## CellTrackColab
 
-['Guillaume Jacquemet']
+Guillaume Jacquemet
 
 Licensed MIT
 
@@ -156,7 +156,7 @@ Content type: Notebook, Collection
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Beth Cimini et al.']
+Beth Cimini et al.
 
 Licensed BSD LICENSE
 
@@ -175,7 +175,7 @@ Content type: Notebook, Collection
 
 ## Course on Deep Learning for imaging using PyTorch
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -192,7 +192,7 @@ Content type: Notebook
 
 ## DEEP NAPARI : Napari as a tool for deep learning project management
 
-['Herearii Metuarea', 'David Rousseau', 'Pejman Rasti', 'Valentin Gilet']
+Herearii Metuarea, David Rousseau, Pejman Rasti, Valentin Gilet
 
 Licensed UNKNOWN
 
@@ -209,7 +209,7 @@ Content type: Notebook
 
 ## DL4MicEverywhere
 
-['Iván Hidalgo', 'et al.']
+Iván Hidalgo, et al.
 
 Licensed CC-BY-4.0
 
@@ -224,7 +224,7 @@ Content type: Notebook, Collection
 
 ## DL@MBL 2021 Exercises
 
-['Jan Funke', 'Constantin Pape', 'Morgan Schwartz', 'Xiaoyan']
+Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
 
 Licensed UNKNOWN
 
@@ -241,7 +241,7 @@ Content type: Slide, Notebook
 
 ## Dask Course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -273,7 +273,7 @@ Content type: Notebook
 
 ## Deep Learning for image analysis - Exercises
 
-['Martin Weigert']
+Martin Weigert
 
 Licensed UNKNOWN
 
@@ -290,7 +290,7 @@ Content type: Notebook
 
 ## Deep Vision and Graphics
 
-['Victor Yurchenko', 'Fedor Ratnikov', 'Viktoriia Checkalina']
+Victor Yurchenko, Fedor Ratnikov, Viktoriia Checkalina
 
 Licensed MIT
 
@@ -307,7 +307,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2019 exercises and materials
 
-['Valentyna Zinchenko', 'Pejman Rasti', 'Martin Weigert', 'Szymon Stoma']
+Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
 
 Licensed UNKNOWN
 
@@ -324,7 +324,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2021/22 exercises and materials
 
-['Martin Weigert', 'Constantin Pape']
+Martin Weigert, Constantin Pape
 
 Licensed UNKNOWN
 
@@ -341,7 +341,7 @@ Content type: Notebook
 
 ## EMBL Deep Learning course 2023 exercises and materials
 
-['Martin Weigert', 'Uwe Schmidt', 'Benjamin Gallusser', 'Albert Dominguez Mantes', 'Buglakova Alyona']
+Martin Weigert, Uwe Schmidt, Benjamin Gallusser, Albert Dominguez Mantes, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -358,7 +358,7 @@ Content type: Notebook
 
 ## Elastix tutorial
 
-['Marvin Albert']
+Marvin Albert
 
 Licensed BSD LICENSE
 
@@ -377,7 +377,7 @@ Content type: Notebook, Collection
 
 ## Fundamentals in digital image processing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -394,7 +394,7 @@ Content type: Notebook
 
 ## Fundamentals of image analysis in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -411,7 +411,7 @@ Content type: Notebook
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -430,7 +430,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
 
-['Stephan Saalfeld', 'Tobias Pietzsch']
+Stephan Saalfeld, Tobias Pietzsch
 
 Published None
 
@@ -451,7 +451,7 @@ Content type: Workshop, Notebook, Github Repository
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -470,7 +470,7 @@ Content type: Github Repository, Tutorial, Notebook
 
 ## IAFIG-RMS Python for Bioimage Analysis Course
 
-['Aurelien Barbotin', 'Chas Nelson', 'Dominic Waithe', 'Ola (Alexandra) Tarkowska', 'Mikolaj Kundegorski', 'Stephen Cross', 'Todd Fallesen']
+Aurelien Barbotin, Chas Nelson, Dominic Waithe, Ola (Alexandra) Tarkowska, Mikolaj Kundegorski, Stephen Cross, Todd Fallesen
 
 Licensed GPL-3.0
 
@@ -487,7 +487,7 @@ Content type: Notebook
 
 ## Image analysis and visualization in Python with scikit-image, napari, and friends
 
-['Juan Nunez-Iglesias']
+Juan Nunez-Iglesias
 
 Licensed BSD-3-CLAUSE
 
@@ -504,7 +504,7 @@ Content type: Notebook
 
 ## Image processing for beginners
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 
@@ -521,7 +521,7 @@ Content type: Notebook
 
 ## Image processing with Python
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed MIT
 
@@ -540,7 +540,7 @@ Content type: Notebook
 
 ## Introduction to Bioimage Analysis
 
-['Pete Bankhead']
+Pete Bankhead
 
 Licensed CC-BY-4.0
 
@@ -557,7 +557,7 @@ Content type: Book, Notebook
 
 ## Introduction to Deep Learning for Microscopy
 
-['Costantin Pape']
+Costantin Pape
 
 Licensed MIT
 
@@ -576,7 +576,7 @@ Content type: Notebook
 
 ## Materials for EMBL Coding Club Mini-Tutorials
 
-['Jonas Hartmann', 'et al.']
+Jonas Hartmann, et al.
 
 Licensed UNKNOWN
 
@@ -595,7 +595,7 @@ Content type: Code, Notebook
 
 ## Metabolic networks modelling with COBRApy
 
-['Karin Sasaki', 'Aleksej Zelezniak']
+Karin Sasaki, Aleksej Zelezniak
 
 Licensed UNKNOWN
 
@@ -627,7 +627,7 @@ Content type: Notebook
 
 ## NEUBIAS Analyst School 2018
 
-['Assaf Zaritsky', 'Csaba Molnar', 'Vasja Urbancic', 'Richard Butler', 'Anna Kreshuk', 'Vannary Meas-Yedid']
+Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid
 
 Licensed UNKNOWN
 
@@ -644,7 +644,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2019
 
-['Kota Miura', 'Chong Zhang', 'Jean-Yves Tinevez', 'Robert Haase', 'Julius Hossein', 'Pejamn Rasti', 'David Rousseau', 'Ignacio Arganda-Carreras', 'Siân Culley', 'et al.']
+Kota Miura, Chong Zhang, Jean-Yves Tinevez, Robert Haase, Julius Hossein, Pejamn Rasti, David Rousseau, Ignacio Arganda-Carreras, Siân Culley, et al.
 
 Licensed UNKNOWN
 
@@ -661,7 +661,7 @@ Content type: Slide, Code, Notebook
 
 ## NEUBIAS Bioimage Analyst School 2020
 
-['Marion Louveaux', 'Stéphane Verger', 'Arianne Bercowsky Rama', 'Ignacio Arganda-Carreras', 'Estibaliz Gómez-de-Mariscal', 'Kota Miura', 'et al.']
+Marion Louveaux, Stéphane Verger, Arianne Bercowsky Rama, Ignacio Arganda-Carreras, Estibaliz Gómez-de-Mariscal, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -678,7 +678,7 @@ Content type: Slide, Code, Notebook
 
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
-['Martin Weigert', 'Olivier Burri', 'Siân Culley', 'Uwe Schmidt']
+Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
 
 Licensed UNKNOWN
 
@@ -695,7 +695,7 @@ Content type: Slide, Notebook
 
 ## ONBI Image Analysis Course
 
-['Mark Jenkinson', 'Jens Rittscher', 'Dominic Waithe']
+Mark Jenkinson, Jens Rittscher, Dominic Waithe
 
 Licensed GPL-2.0
 
@@ -714,7 +714,7 @@ Content type: Notebook
 
 ## Open Image Data Handbook
 
-['Kevin Yamauchi']
+Kevin Yamauchi
 
 Licensed CC-BY-4.0
 
@@ -757,7 +757,7 @@ Content type: Event, Notebook
 
 ## PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
 
-['Stephane Rigaud', 'Brian Northan', 'Till Korten', 'Neringa Jurenaite', 'Apurv Deepak Kulkarni', 'Peter Steinbach', 'Sebastian Starke', 'Johannes Soltwedel', 'Marvin Albert', 'Robert Haase']
+Stephane Rigaud, Brian Northan, Till Korten, Neringa Jurenaite, Apurv Deepak Kulkarni, Peter Steinbach, Sebastian Starke, Johannes Soltwedel, Marvin Albert, Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -776,7 +776,7 @@ Content type: Notebook
 
 ## Python Workshop - Image Processing
 
-['Karin Sasaki', 'Jonas Hartmann']
+Karin Sasaki, Jonas Hartmann
 
 Licensed UNKNOWN
 
@@ -793,7 +793,7 @@ Content type: Code, Notebook
 
 ## Python for Microscopists
 
-['Sreenivas Bhattiprolu']
+Sreenivas Bhattiprolu
 
 Licensed MIT
 
@@ -810,7 +810,7 @@ Content type: Notebook, Collection
 
 ## QI 2024 Analysis Lab Manual
 
-['Beth Cimini', 'Florian Jug', 'QI 2024']
+Beth Cimini, Florian Jug, QI 2024
 
 Licensed CC-BY-4.0
 
@@ -829,7 +829,7 @@ Content type: Notebook
 
 ## QM Course Lectures on Bio-Image Analysis with napari 2024
 
-['Marcelo Leomil Zoccoler']
+Marcelo Leomil Zoccoler
 
 Licensed CC-BY-4.0
 
@@ -848,7 +848,7 @@ Content type: Notebook
 
 ## QuPath for Python programmers
 
-["Alan O'Callaghan", 'Léo Leplat']
+Alan O'Callaghan, Léo Leplat
 
 Published 2024-10-23
 
@@ -884,7 +884,7 @@ Content type: Collection, Notebook
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
 Licensed MIT
 
@@ -903,7 +903,7 @@ Content type: Notebook, Collection
 
 ## numpy pandas course
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed BSD-3-CLAUSE
 

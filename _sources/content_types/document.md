@@ -18,7 +18,7 @@ Content type: Document
 
 ## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
 
-['Lienhard Wegewitz', 'F. Strauß']
+Lienhard Wegewitz, F. Strauß
 
 Published 2020-03-23
 
@@ -41,7 +41,7 @@ Content type: Documentation, Document, Tutorial
 
 ## Efficiently starting institutional research data management
 
-['Katarzyna Biernacka', 'Katrin Cortez', 'Kerstin Helbig']
+Katarzyna Biernacka, Katrin Cortez, Kerstin Helbig
 
 Published 2019-10-15
 

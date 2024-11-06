@@ -1,7 +1,7 @@
 # Florian jug (5)
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
-['Robert Haase', 'Deborah Schmidt', 'Wayne Rasband', 'Curtis Rueden', 'Florian Jug', 'Pavel Tomancak', 'Eugene W. Myers']
+Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
 
 
 
@@ -16,7 +16,7 @@ Content type: Publication, Poster
 
 ## Community-developed checklists for publishing images and image analyses
 
-['Christopher Schmied', 'Michael S Nelson', 'Sergiy Avilov', 'Gert-Jan Bakker', 'Cristina Bertocchi', 'Johanna Bischof', 'Ulrike Boehm', 'Jan Brocher', 'Mariana T Carvalho', 'Catalin Chiritescu', 'Jana Christopher', 'Beth A Cimini', 'Eduardo Conde-Sousa', 'Michael Ebner', 'Rupert Ecker', 'Kevin Eliceiri', 'Julia Fernandez-Rodriguez', 'Nathalie Gaudreault', 'Laurent Gelman', 'David Grunwald', 'Tingting Gu', 'Nadia Halidi', 'Mathias Hammer', 'Matthew Hartley', 'Marie Held', 'Florian Jug', 'Varun Kapoor', 'Ayse Aslihan Koksoy', 'Judith Lacoste', 'Sylvia Le Dévédec', 'Sylvie Le Guyader', 'Penghuan Liu', 'Gabriel G Martins', 'Aastha Mathur', 'Kota Miura', 'Paula Montero Llopis', 'Roland Nitschke', 'Alison North', 'Adam C Parslow', 'Alex Payne-Dwyer', 'Laure Plantard', 'Rizwan Ali', 'Britta Schroth-Diez', 'Lucas Schütz', 'Ryan T Scott', 'Arne Seitz', 'Olaf Selchow', 'Ved P Sharma', 'Martin Spitaler', 'Sathya Srinivasan', 'Caterina Strambio-De-Castillia', 'Douglas Taatjes', 'Christian Tischer', 'Helena Klara Jambor']
+Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
 
 Licensed ALL RIGHTS RESERVED
 
@@ -33,7 +33,7 @@ Content type: Publication
 
 ## EmbedSeg Repository
 
-['Manan Lalit', 'Joran Deschamps', 'Florian Jug', 'Ajinkya Kulkarni']
+Manan Lalit, Joran Deschamps, Florian Jug, Ajinkya Kulkarni
 
 Licensed CC-BY-NC-4.0
 
@@ -52,7 +52,7 @@ Content type: Github Repository
 
 ## QI 2024 Analysis Lab Manual
 
-['Beth Cimini', 'Florian Jug', 'QI 2024']
+Beth Cimini, Florian Jug, QI 2024
 
 Licensed CC-BY-4.0
 
@@ -71,7 +71,7 @@ Content type: Notebook
 
 ## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
 
-['Lucas von Chamier', 'Romain F. Laine', 'Johanna Jukkala', 'Christoph Spahn', 'Daniel Krentzel', 'Elias Nehme', 'Martina Lerche', 'Sara Hernández-pérez', 'Pieta Mattila', 'Eleni Karinou', 'Séamus Holden', 'Ahmet Can Solak', 'Alexander Krull', 'Tim-Oliver Buchholz', 'Martin L Jones', 'Loic Alain Royer', 'Christophe Leterrier', 'Yoav Shechtman', 'Florian Jug', 'Mike Heilemann', 'Guillaume Jacquemet', 'Ricardo Henriques']
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
 
 Licensed MIT
 

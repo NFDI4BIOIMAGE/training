@@ -1,7 +1,7 @@
 # Slides (36)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
-['Elfi Hesse', 'Jan-Christoph Deinert', 'Christian Löschen']
+Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
 
 Published 2021-01-25
 
@@ -24,7 +24,7 @@ Content type: Slides
 
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
-['Anca Margineanu', 'Chiara Stringari', 'Marcelo Zoccoler', 'Cornelia Wetzker']
+Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 
@@ -43,7 +43,7 @@ Content type: Slides
 
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
-['Stephan Wünsche']
+Stephan Wünsche
 
 Published 2024-06-04
 
@@ -68,7 +68,7 @@ Content type: Slides
 
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
-['Robert Haase']
+Robert Haase
 
 Licensed CC-BY-4.0
 
@@ -87,7 +87,7 @@ Content type: Slides
 
 ## Crashkurs Forschungsdatenmanagement
 
-['Barbara Weiner', 'Stephan Wünsche', 'Stefan Kühne', 'Pia Voigt', 'Sebastian Frericks', 'Clemens Hoffmann', 'Romy Elze', 'Ronny Gey']
+Barbara Weiner, Stephan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Elze, Ronny Gey
 
 Published 2020-04-30
 
@@ -112,7 +112,7 @@ Content type: Slides
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -135,7 +135,7 @@ Content type: Slides
 
 ## Cultivating Open Training to advance Bio-image Analysis
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-25
 
@@ -177,7 +177,7 @@ Content type: Slides, Presentation
 
 ## Datenmanagement
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-14
 
@@ -200,7 +200,7 @@ Content type: Slides
 
 ## Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz
 
-['Pia Voigt', 'Carolin Hundt']
+Pia Voigt, Carolin Hundt
 
 Published 2024-04-19
 
@@ -224,7 +224,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 1
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-23
 
@@ -251,7 +251,7 @@ Content type: Slides
 
 ## Datenmanagementpläne erstellen - Teil 2
 
-['Pia Voigt', 'Barbara Weiner']
+Pia Voigt, Barbara Weiner
 
 Published 2021-03-30
 
@@ -282,7 +282,7 @@ Content type: Slides
 
 ## Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten
 
-['Stephan Wünsche', 'Pia Voigt']
+Stephan Wünsche, Pia Voigt
 
 Published 2021-05-11
 
@@ -307,7 +307,7 @@ Content type: Slides
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -330,7 +330,7 @@ Content type: Slides, Tutorial
 
 ## FAIRy deep-learning for bioImage analysis
 
-['Estibaliz Gómez de Mariscal']
+Estibaliz Gómez de Mariscal
 
 Licensed CC-BY-4.0
 
@@ -349,7 +349,7 @@ Content type: Slides
 
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
-['Marcelo Zoccoler', 'Simon Bekemeier', 'Tom Boissonnet', 'Simon Parker', 'Luca Bertinetti', 'Marc Gentzel', 'Riccardo Massei', 'Cornelia Wetzker']
+Marcelo Zoccoler, Simon Bekemeier, Tom Boissonnet, Simon Parker, Luca Bertinetti, Marc Gentzel, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-06-10
 
@@ -390,7 +390,7 @@ Content type: Slides, Tutorial
 
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -409,7 +409,7 @@ Content type: Slides
 
 ## Intro napari slides
 
-['Peter Sobolewski']
+Peter Sobolewski
 
 Licensed MIT
 
@@ -428,7 +428,7 @@ Content type: Slides
 
 ## Kollaboratives Arbeiten und Versionskontrolle mit Git
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-15
 
@@ -458,7 +458,7 @@ Content type: Slides
 
 ## MicroSam-Talks
 
-['Constantin Pape']
+Constantin Pape
 
 Published 2024-05-23
 
@@ -486,7 +486,7 @@ Content type: Slides
 
 ## Microscopy data analysis: machine learning and the BioImage Archive
 
-['Andrii Iudin', 'Anna Foix-Romero', 'Anna Kreshuk', 'Awais Athar', 'Beth Cimini', 'Dominik Kutra', 'Estibalis Gomez de Mariscal', 'Frances Wong', 'Guillaume Jacquemet', 'Kedar Narayan', 'Martin Weigert', 'Nodar Gogoberidze', 'Osman Salih', 'Petr Walczysko', 'Ryan Conrad', 'Simone Weyend', 'Sriram Sundar Somasundharam', 'Suganya Sivagurunathan', 'Ugis Sarkans']
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
 
 Licensed CC-BY-4.0
 
@@ -505,7 +505,7 @@ Content type: Video, Slides
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
@@ -526,7 +526,7 @@ Content type: Github Repository, Slides, Workshop
 
 ## My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
 
-['Elnaz Fazeli']
+Elnaz Fazeli
 
 Published 2024-02-19
 
@@ -549,7 +549,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE
 
-['Carsten Fortmann.Grote']
+Carsten Fortmann.Grote
 
 Licensed CC-BY-4.0
 
@@ -568,7 +568,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023
 
-['Stefanie Weidtkamp-Peters']
+Stefanie Weidtkamp-Peters
 
 Licensed CC-BY-4.0
 
@@ -587,7 +587,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis [conference talk: The Pelagic Imaging Consortium meets Helmholtz Imaging, 5.10.2023, Hamburg]
 
-['Riccardo Massei']
+Riccardo Massei
 
 Licensed CC-BY-4.0
 
@@ -606,7 +606,7 @@ Content type: Slides
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -627,7 +627,7 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ## Open Science, Sharing & Licensing
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-04-18
 
@@ -650,7 +650,7 @@ Content type: Slides
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -669,7 +669,7 @@ Content type: Slides
 
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
-['Pia Voigt']
+Pia Voigt
 
 Published 2024-05-30
 
@@ -692,7 +692,7 @@ Content type: Slides
 
 ## Sustainable Data Stewardship
 
-['Stefano Della Chiesa']
+Stefano Della Chiesa
 
 Published 2024-03-25
 
@@ -715,7 +715,7 @@ Content type: Slides
 
 ## Thinking data management on different scales
 
-['Susanne Kunis']
+Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -734,7 +734,7 @@ Content type: Slides
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -753,7 +753,7 @@ Content type: Slides
 
 ## [N4BI AHM] Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Published 2023-10-16
 
@@ -776,7 +776,7 @@ Content type: Slides
 
 ## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
 
-['Christian Schmidt']
+Christian Schmidt
 
 Licensed CC-BY-4.0
 

@@ -68,7 +68,7 @@ Content type: Workshop
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -87,7 +87,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
 
-['Stephan Saalfeld', 'Tobias Pietzsch']
+Stephan Saalfeld, Tobias Pietzsch
 
 Published None
 
@@ -108,7 +108,7 @@ Content type: Workshop, Notebook, Github Repository
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
@@ -129,7 +129,7 @@ Content type: Github Repository, Slides, Workshop
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -150,7 +150,7 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ## Ultrack I2K 2024 Workshop Materials
 
-['Jordão Bragantini', 'Teun Huijben']
+Jordão Bragantini, Teun Huijben
 
 Licensed BSD3-CLAUSE
 

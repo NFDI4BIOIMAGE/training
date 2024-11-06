@@ -1,7 +1,7 @@
 # Josh moore (20)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -18,7 +18,7 @@ Content type: Publication, Conference Abstract
 
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
-['Matúš Kalaš', 'Laure Plantard', 'Joakim Lindblad', 'Martin Jones', 'Nataša Sladoje', 'Moritz A Kirschmann', 'Anatole Chessel', 'Leandro Scholz', 'Fabianne Rössler', 'Laura Nicolás Sáenz', 'Estibaliz Gómez de Mariscal', 'John Bogovic', 'Alexandre Dufour', 'Xavier Heiligenstein', 'Dominic Waithe', 'Marie-Charlotte Domart', 'Matthia Karreman', 'Raf Van de Plas', 'Robert Haase', 'David Hörl', 'Lassi Paavolainen', 'Ivana Vrhovac Madunić', 'Dean Karaica', 'Arrate Muñoz-Barrutia', 'Paula Sampaio', 'Daniel Sage', 'Sebastian Munck', 'Ofra Golani', 'Josh Moore', 'Florian Levet', 'Jon Ison', 'Alban Gaignard', 'Hervé Ménager', 'Chong Zhang', 'Kota Miura', 'Julien Colombelli', 'Perrine Paul-Gilloteaux']
+Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
 
 Licensed CC-BY-4.0
 
@@ -35,7 +35,7 @@ Content type: Publication, Poster
 
 ## NFDI4BIOIMAGE: Perspective for a national bioimaging standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -52,7 +52,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-['Josh Moore', 'Chris Allan', 'Sébastien Besson', 'Jean-Marie Burel', 'Erin Diel', 'David Gault', 'Kevin Kozlowski', 'Dominik Lindner', 'Melissa Linkert', 'Trevor Manz', 'Will Moore', 'Constantin Pape', 'Christian Tischer', 'Jason R. Swedlow']
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -69,7 +69,7 @@ Content type: Publication
 
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
-['Josh Moore', 'Andra Waagmeester', 'Kristina Hettne', 'Katherine Wolstencroft', 'Susanne Kunis']
+Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -88,7 +88,7 @@ Content type: Slides
 
 ## Research data management for bioimaging - the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'et al.']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, et al.
 
 Published 2022-09-20
 
@@ -109,7 +109,7 @@ Content type: Publication
 
 ## Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey
 
-['Christian Schmidt', 'Janina Hanne', 'Josh Moore', 'Christian Meesters', 'Elisa Ferrando-May', 'Stefanie Weidtkamp-Peters', 'members of the NFDI4BIOIMAGE initiative']
+Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
 Licensed CC-BY-4.0
 
@@ -126,7 +126,7 @@ Content type: Publication
 
 ## SpatialData: an open and universal data framework for spatial omics
 
-['Luca Marconato', 'Giovanni Palla', 'Kevin A Yamauchi', 'Isaac Virshup', 'Elyas Heidari', 'Tim Treis', 'Marcella Toth', 'Rahul Shrestha', 'Harald Vöhringer', 'Wolfgang Huber', 'Moritz Gerstung', 'Josh Moore', 'Fabian J Theis', 'Oliver Stegle']
+Luca Marconato, Giovanni Palla, Kevin A Yamauchi, Isaac Virshup, Elyas Heidari, Tim Treis, Marcella Toth, Rahul Shrestha, Harald Vöhringer, Wolfgang Huber, Moritz Gerstung, Josh Moore, Fabian J Theis, Oliver Stegle
 
 Licensed CC-BY-4.0
 
@@ -143,7 +143,7 @@ Content type: Publication, Preprint
 
 ## Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -162,7 +162,7 @@ Content type: Slides
 
 ## [BINA CC] Scalable strategies for a next-generation of FAIR bioimaging
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-09-24
 
@@ -181,7 +181,7 @@ Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-c
 
 ## [CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
-['Josh Moore']
+Josh Moore
 
 Licensed CC-BY-4.0
 
@@ -200,7 +200,7 @@ Content type: Poster
 
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -219,7 +219,7 @@ Content type: Poster
 
 ## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-05-26
 
@@ -240,7 +240,7 @@ Presentation made to the GBI Image Data Management Working Group during the 7th 
 National Research Data Infrastructure 
 for Microscopy and BioImage Analysis
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-10-29
 
@@ -259,7 +259,7 @@ Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-exp
 
 ## [I2K] Scalable strategies for a next-generation of FAIR bioimaging
 
-['Josh Moore']
+Josh Moore
 
 Published 2024-10-25
 
@@ -279,7 +279,7 @@ Presented at https://events.humantechnopole.it/event/1/
 
 ## [N4BI AHM] Welcome to BioImage Town
 
-['Josh Moore']
+Josh Moore
 
 Published 2023-10-16
 
@@ -302,7 +302,7 @@ Content type: Slides
 
 ## [SWAT4HCLS 2023] NFDI4BIOIMAGE: Perspective for a national bioimage standard
 
-['Josh Moore', 'Susanne Kunis']
+Josh Moore, Susanne Kunis
 
 Licensed CC-BY-4.0
 
@@ -321,7 +321,7 @@ Content type: Poster
 
 ## bioformats2raw Converter
 
-['Melissa Linkert', 'Chris Allan', 'Josh Moore', 'Sébastien Besson', 'David Gault', 'et al.']
+Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
 
 Licensed GPL-2.0
 
@@ -340,7 +340,7 @@ Content type: Application, Github Repository
 
 ## ome-ngff-validator
 
-['Will Moore', 'Josh Moore', 'Yaroslav Halchenko', 'Sébastien Besson']
+Will Moore, Josh Moore, Yaroslav Halchenko, Sébastien Besson
 
 Published 2022-09-29
 
@@ -363,7 +363,7 @@ Content type: Github Repository, Application
 
 ## raw2ometiff Converter
 
-['Melissa Linkert', 'Chris Allan', 'Sébastien Besson', 'Josh Moore']
+Melissa Linkert, Chris Allan, Sébastien Besson, Josh Moore
 
 Licensed GPL-2.0
 

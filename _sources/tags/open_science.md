@@ -1,7 +1,7 @@
 # Open science (6)
 ## Best practice data life cycle approaches for the life sciences
 
-['Philippa C. Griffin', 'Jyoti Khadake', 'Kate S. LeMay', 'Suzanna E. Lewis', 'Sandra Orchard', 'et al.']
+Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
 
 Published 2018-06-04
 
@@ -22,7 +22,7 @@ Content type: Publication
 
 ## Cultivating Open Training
 
-['Robert Haase']
+Robert Haase
 
 Published 2024-03-14
 
@@ -62,7 +62,7 @@ Content type: Slides, Presentation
 
 ## Rechtsfragen bei Open Science - Ein Leitfaden
 
-['Till Kreutzer', 'Henning Lahmann']
+Till Kreutzer, Henning Lahmann
 
 Published 2021-05-25
 
@@ -83,7 +83,7 @@ Content type: Book
 
 ## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
 
-['Costantino Thanos']
+Costantino Thanos
 
 Published 2017-01-09
 
@@ -104,7 +104,7 @@ Content type: Publication
 
 ## What is Open Data?
 
-['Daniel Dietrich', 'Jonathan Gray', 'Tim McNamara', 'Antti Poikola', 'Rufus Pollock', 'et al.']
+Daniel Dietrich, Jonathan Gray, Tim McNamara, Antti Poikola, Rufus Pollock, et al.
 
 Licensed CC-BY-4.0
 

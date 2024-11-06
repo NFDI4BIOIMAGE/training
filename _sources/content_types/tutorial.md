@@ -1,7 +1,7 @@
 # Tutorial (33)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
-['Carolina Wählby', 'Maxime Bombrun', 'Christian Tischer']
+Carolina Wählby, Maxime Bombrun, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -46,7 +46,7 @@ Content type: Tutorial, Code
 
 ## Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
 
-['Lienhard Wegewitz', 'F. Strauß']
+Lienhard Wegewitz, F. Strauß
 
 Published 2020-03-23
 
@@ -69,7 +69,7 @@ Content type: Documentation, Document, Tutorial
 
 ## EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus
 
-['Kota Miura']
+Kota Miura
 
 Published 2013
 
@@ -88,7 +88,7 @@ Content type: Tutorial, Book
 
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -111,7 +111,7 @@ Content type: Slides, Tutorial
 
 ## Euro-BioImaging's Template for Research Data Management Plans
 
-['Isabel Kemmer', 'Euro-BioImaging ERIC']
+Isabel Kemmer, Euro-BioImaging ERIC
 
 Published 2024-06-04
 
@@ -135,7 +135,7 @@ Content type: Collection, Tutorial
 
 ## Example Pipeline Tutorial
 
-['Tim Monko']
+Tim Monko
 
 Published 2024-10-28
 
@@ -158,7 +158,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 ## Finding and Choosing a Data Repository
 
-['Christian Schmidt']
+Christian Schmidt
 
 Published 2023-07-01
 
@@ -228,7 +228,7 @@ Content type: Online Tutorial, Tutorial
 
 ## Glencoe Software Webinars
 
-['Chris Allan', 'Emil Rozbicki']
+Chris Allan, Emil Rozbicki
 
 Licensed UNKNOWN
 
@@ -247,7 +247,7 @@ Content type: Videos, Tutorial, Collection
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -266,7 +266,7 @@ Content type: Github Repository, Workshop, Tutorial, Notebook
 
 ## I2K2024(virtual) - Bio-Image Analysis Code Generation
 
-['Robert Haase']
+Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -304,7 +304,7 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 ## Kreshuk Lab's EMBL EIPP predoc course teaching material
 
-['Adrian Wolny', 'Johannes Hugger', 'Qin Yu', 'Buglakova Alyona']
+Adrian Wolny, Johannes Hugger, Qin Yu, Buglakova Alyona
 
 Licensed UNKNOWN
 
@@ -351,7 +351,7 @@ Content type: Tutorial
 
 ## NEUBIAS Bioimage Analyst Course 2017
 
-['Curtis Rueden', 'Florian Levet', 'J.B. Sibarta', 'Alexandre Dafour', 'Daniel Sage', 'Sebastien Tosi', 'Michal Kozubek', 'Jean-Yves Tinevez', 'Kota Miura', 'et al.']
+Curtis Rueden, Florian Levet, J.B. Sibarta, Alexandre Dafour, Daniel Sage, Sebastien Tosi, Michal Kozubek, Jean-Yves Tinevez, Kota Miura, et al.
 
 Licensed UNKNOWN
 
@@ -368,7 +368,7 @@ Content type: Slide, Tutorial
 
 ## OME-Zarr course
 
-['Bugra Oezdemir', 'Christian Tischer']
+Bugra Oezdemir, Christian Tischer
 
 Licensed UNKNOWN
 
@@ -383,7 +383,7 @@ Content type: Tutorial
 
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
-['Joanna Pylvänäinen']
+Joanna Pylvänäinen
 
 Published None
 
@@ -440,7 +440,7 @@ Content type: Tutorial
 
 ## Setting up a remote desktop to use Napari in a browser
 
-['Volker Hilsenstein']
+Volker Hilsenstein
 
 Licensed UNKNOWN
 
@@ -500,7 +500,7 @@ Content type: Tutorial, Video
 
 ## Teaching Bioimage Analysis with Python
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -517,7 +517,7 @@ Content type: Tutorial
 
 ## Teaching ImageJ FIJI
 
-['Rafael Camacho']
+Rafael Camacho
 
 Licensed MIT
 
@@ -534,7 +534,7 @@ Content type: Tutorial
 
 ## Ultrack I2K 2024 Workshop Materials
 
-['Jordão Bragantini', 'Teun Huijben']
+Jordão Bragantini, Teun Huijben
 
 Licensed BSD3-CLAUSE
 

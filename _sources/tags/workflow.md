@@ -1,7 +1,7 @@
 # Workflow (8)
 ## BIOMERO - A scalable and extensible image analysis framework
 
-['Torec T. Luik', 'Rodrigo Rosas-Bertolini', 'Eric A.J. Reits', 'Ron A. Hoebe', 'Przemek M. Krawczyk']
+Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
 
 Published None
 
@@ -54,7 +54,7 @@ Content type: Online Tutorial, Tutorial
 
 ## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
 
-['Stephane Rigaud', 'Robert Haase']
+Stephane Rigaud, Robert Haase
 
 Licensed BSD-3-CLAUSE
 
@@ -92,7 +92,7 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 ## Multimodal large language models for bioimage analysis
 
-['Shanghang Zhang', 'Gaole Dai', 'Tiejun Huang', 'Jianxu Chen']
+Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
 Licensed ['CC-BY-NC-SA']
 
@@ -113,7 +113,7 @@ Content type: Publication
 
 ## User friendly Image metadata annotation tool/workflow for OMERO
 
-['Jens Wendt']
+Jens Wendt
 
 
 
@@ -128,7 +128,7 @@ Content type: Forum Post
 
 ## WorkflowHub
 
-['Stian Soiland-Reyes', 'Finn Bacall', 'Bert Droesbeke', 'Alan R Williams', 'Johan Gustafsson', 'et al.']
+Stian Soiland-Reyes, Finn Bacall, Bert Droesbeke, Alan R Williams, Johan Gustafsson, et al.
 
 Licensed BSD-3-CLAUSE
 

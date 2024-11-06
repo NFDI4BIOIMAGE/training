@@ -1,7 +1,7 @@
 # Docs.google.com (5)
 ## Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services
 
-['Aastha Mathur']
+Aastha Mathur
 
 Licensed UNKNOWN
 
@@ -16,7 +16,7 @@ Content type: Slide
 
 ## Image analysis in Galaxy
 
-['Beatriz Serrano-Solano', 'Björn Grüning']
+Beatriz Serrano-Solano, Björn Grüning
 
 Licensed UNKNOWN
 
@@ -33,7 +33,7 @@ Content type: Slide
 
 ## Jupyter for interactive cloud computing
 
-['Guillaume Witz']
+Guillaume Witz
 
 Licensed UNKNOWN
 
@@ -50,7 +50,7 @@ Content type: Slide
 
 ## Machine and Deep Learning on the cloud: Segmentation
 
-['Ignacio Arganda-Carreras']
+Ignacio Arganda-Carreras
 
 Licensed UNKNOWN
 
@@ -67,7 +67,7 @@ Content type: Slide
 
 ## Multiplexed tissue imaging - tools and approaches
 
-['Agustín Andrés Corbat', 'OmFrederic', 'Jonas Windhager', 'Kristína Lidayová']
+Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
 
 Licensed CC-BY-4.0
 
