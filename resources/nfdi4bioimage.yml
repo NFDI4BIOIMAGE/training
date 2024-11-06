@@ -5605,3 +5605,12 @@ resources:
   - https://zenodo.org/records/14030307
   - https://doi.org/10.5281/zenodo.14030307
   
+- author: Isra Mekki
+  description: ''
+  license: MIT License
+  name: Prompt-Engineering-LLMs-Course
+  publication_date: '2024-09-11T07:45:30+00:00'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
+  
