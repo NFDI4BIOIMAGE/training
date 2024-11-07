@@ -5688,7 +5688,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14044640
 
   
-- author: Bruna Piereck, Alexander Botzki
+- authors: Bruna Piereck, Alexander Botzki
   description: Course repository for Strategic Use of Generative AI
   license: Creative Commons Attribution 4.0 International
   name: introduction-to-generative-ai
@@ -5702,7 +5702,7 @@ resources:
   - https://github.com/vibbits/introduction-to-generative-ai
   - https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md
   
-- author: Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts,
+- authors: Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts,
     Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
   description: Nextflow workshop materials March 2023
   license: cc-by-4.0
@@ -5718,3 +5718,69 @@ resources:
   - https://github.com/vibbits/nextflow-workshop
   - https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1
   
+- authors:
+  - Curtis Rueden
+  - Albane de la Villegeorges
+  - Simon F. Nørrelykke
+  - Romain Guiet
+  - Olivier Burri
+  - et al.
+  license: UNKNOWN
+  name: Upcoming Image Analysis Events
+  - 
+  tags:
+  - Bioimage Analysis
+  - Microscopy Image Analysis
+  type:
+  - Collection
+  - Event
+  - Forum Post
+  - Workshop
+  url: https://forum.image.sc/t/upcoming-image-analysis-events/60018/67
+
+- authors:
+  - Riccardo Massei
+  - Robert Haase
+  - ENicolay
+  description: This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series. 
+  license: MIT License
+  name: YMIA - Python-Based Event Series Training Material
+  publication_date:
+  tags:
+  - Python
+  - Large Language Models
+  - Prompt Engineering
+  - Biabob
+  - Bioimage Analysis
+  - Microscopy Image Analysis
+  type:
+  - Github Repository
+  - Slides
+  url: https://github.com/rmassei/ymia_python_event_series_material
+  
+  
+- authors: SaibotMagd
+  description: This tool is intended to link different research data management platforms with each other. 
+  license: UNKNOWN
+  name: RDM_system_connector
+  tags:
+  - Research Data Management
+  - Image Data Management
+  type:
+  - Github Repository
+  url: https://github.com/SaibotMagd/RDM_system_connector
+  
+- authors: Anna Swan
+  description: Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+  license: CC-BY-4.0
+  name: Finding and using publicly available data
+  publication_date: '2024-01-01'
+  tags:
+  - Open Science
+  - Teaching
+  - Sharing
+  type:
+  - Collection
+  - Tutorial
+  - Videos
+  url: https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/
