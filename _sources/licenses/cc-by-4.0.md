@@ -1,4 +1,4 @@
-# Cc-by-4.0 (155)
+# Cc-by-4.0 (156)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2970,6 +2970,54 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+
+---
+
+## [Workshop Material] Fit for OMERO - How imaging facilities and IT departments work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg
+
+Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
+
+Published 2024-10-30
+
+Licensed CC-BY-4.0
+
+
+
+Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+Description:
+Research data management (RDM) in bioimaging is challenging because of large file sizes, heterogeneous file formats and the variability of imaging methods. The image data management system OMERO (OME Remote Objects) allows for centralized and secure storage, organization, annotation, and interrogation of microscopy data by researchers. It is an internationally well-supported open-source software tool that has become one of the best-known image data management tools among bioimaging scientists. Nevertheless, the&nbsp;de novo&nbsp;setup of OMERO at an institute is a multi-stakeholder process that demands time, funds, organization and iterative implementation. In this workshop, participants learn how to begin setting up OMERO-based image data management at their institution. The topics include:
+
+Stakeholder identification at the university / research institute
+Process management, time line expectations, and resources planning
+Learning about each other&lsquo;s perspectives on chances and challenges for RDM
+Funding opportunities and strategies for IT and imaging core facilities
+Hands-on: Setting up an OMERO server in a virtual machine environment
+
+Target audience:
+This workshop was directed at universities and research institutions who consider or plan to implement OMERO, or are in an early phase of implementation. This workshop was intended for teams from IT departments and imaging facilities to participate together with one person from the IT department, and one person from the imaging core facility at the same institution.
+The trainers:
+
+Prof. Dr. Stefanie Weidtkamp-Peters (Imaging Core Facility Head, Center for Advanced Imaging, Heinrich Heine University of D&uuml;sseldorf)
+Dr. Susanne Kunis (Software architect, OMERO administrator, metadata specialist, University of Osnabr&uuml;ck)
+Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced Imaging, Heinrich Heine University of D&uuml;sseldorf)
+Dr. Bettina Hagen&nbsp;(IT Administration and service specialist, Max Planck Institute for the Biology of Ageing, Cologne)&nbsp;
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center (DKFZ), Heidelberg)
+
+Time and place
+The format was a two-day, in-person workshop (October 16-17, 2024).&nbsp;Location: Heidelberg, Germany
+Workshop learning goals
+
+Learn the steps to establish a local RDM environment fit for bioimaging data
+Create a network of IT experts and bioimaging specialists for bioimage RDM across institutions
+Establish a stakeholder process management for installing OMERO-based RDM
+Learn from each other, leverage different expertise
+Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
+
+
+[https://zenodo.org/records/14013026](https://zenodo.org/records/14013026)
+
+[https://doi.org/10.5281/zenodo.14013026](https://doi.org/10.5281/zenodo.14013026)
 
 
 ---
