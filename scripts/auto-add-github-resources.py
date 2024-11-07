@@ -89,13 +89,13 @@ def complete_github_data(github_repo_url):
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
             # Use the contributor's full name if available, otherwise use the username
-            entry['author'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
+            entry['authors'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
         else:
-            entry['author'] = ""
+            entry['authors'] = ""
     except GithubException as e:
         if e.status == 403:
             print(f"403 error: Cannot access contributors for {repo.full_name}. Skipping this step.")
-            entry['author'] = "Contributors not accessible"
+            entry['authors'] = "Contributors not accessible"
         else:
             raise e
 
