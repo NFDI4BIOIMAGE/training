@@ -1,4 +1,4 @@
-# Mit (20)
+# Mit (21)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -314,6 +314,27 @@ Tags: Bioimage Analysis
 Content type: Workshop, Collection
 
 [https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

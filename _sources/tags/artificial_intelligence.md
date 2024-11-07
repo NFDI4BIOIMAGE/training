@@ -460,6 +460,8 @@ Content type: Slide
 
 ## introduction-to-generative-ai
 
+Bruna Piereck, Alexander Botzki
+
 Published 2024-09-27T14:38:51+00:00
 
 Licensed CC-BY-4.0

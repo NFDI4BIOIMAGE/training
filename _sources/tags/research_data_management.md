@@ -1,4 +1,4 @@
-# Research data management (107)
+# Research data management (108)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1518,6 +1518,25 @@ Tags: Research Data Management, Open Source Software
 Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
+
+
+---
+
+## RDM_system_connector
+
+SaibotMagd
+
+Licensed UNKNOWN
+
+
+
+This tool is intended to link different research data management platforms with each other.
+
+Tags: Research Data Management, Image Data Management
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/RDM_system_connector](https://github.com/SaibotMagd/RDM_system_connector)
 
 
 ---

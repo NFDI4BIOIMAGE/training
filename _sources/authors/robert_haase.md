@@ -1,4 +1,4 @@
-# Robert haase (50)
+# Robert haase (51)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -954,6 +954,27 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slide
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

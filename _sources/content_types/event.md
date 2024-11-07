@@ -1,4 +1,4 @@
-# Event (7)
+# Event (8)
 ## EMBO Practical Course Advanced methods in bioimage analysis
 
 
@@ -92,6 +92,23 @@ Tags: Bioinformatics
 Content type: Collection, Event
 
 [https://tess.elixir-europe.org/events](https://tess.elixir-europe.org/events)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
 
 
 ---

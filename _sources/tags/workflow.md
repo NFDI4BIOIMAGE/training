@@ -147,6 +147,8 @@ Content type: Collection
 
 ## nextflow-workshop
 
+Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts, Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
+
 Published 2023-03-29T10:40:04+00:00
 
 Licensed CC-BY-4.0

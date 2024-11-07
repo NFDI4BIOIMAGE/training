@@ -1,4 +1,4 @@
-# Slides (36)
+# Slides (37)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -747,6 +747,27 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

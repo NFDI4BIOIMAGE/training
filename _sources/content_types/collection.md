@@ -1,4 +1,4 @@
-# Collection (75)
+# Collection (77)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -509,6 +509,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---
@@ -1062,6 +1083,23 @@ Tags: Data Life Cycle, Research Data Management
 Content type: Collection
 
 [https://tess.elixir-europe.org/search?q=data+life+cycle#materials](https://tess.elixir-europe.org/search?q=data+life+cycle#materials)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
 
 
 ---

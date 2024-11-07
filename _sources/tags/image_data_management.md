@@ -1,4 +1,4 @@
-# Image data management (13)
+# Image data management (14)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -134,6 +134,25 @@ Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Managem
 Content type: Conference Abstract, Slide
 
 [https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
+
+
+---
+
+## RDM_system_connector
+
+SaibotMagd
+
+Licensed UNKNOWN
+
+
+
+This tool is intended to link different research data management platforms with each other.
+
+Tags: Research Data Management, Image Data Management
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/RDM_system_connector](https://github.com/SaibotMagd/RDM_system_connector)
 
 
 ---

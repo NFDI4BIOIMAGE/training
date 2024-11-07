@@ -1,4 +1,4 @@
-# Github repository (31)
+# Github repository (33)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -374,6 +374,25 @@ Content type: Github Repository, Notebook, Collection
 
 ---
 
+## RDM_system_connector
+
+SaibotMagd
+
+Licensed UNKNOWN
+
+
+
+This tool is intended to link different research data management platforms with each other.
+
+Tags: Research Data Management, Image Data Management
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/RDM_system_connector](https://github.com/SaibotMagd/RDM_system_connector)
+
+
+---
+
 ## Scipy Cookbook
 
 Pauli Virtanen et al.
@@ -450,6 +469,27 @@ Content type: Github Repository, Tutorial
 
 ---
 
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
+
+
+---
+
 ## bioformats2raw Converter
 
 Melissa Linkert, Chris Allan, Josh Moore, Sébastien Besson, David Gault, et al.
@@ -488,6 +528,8 @@ Content type: Github Repository
 
 ## introduction-to-generative-ai
 
+Bruna Piereck, Alexander Botzki
+
 Published 2024-09-27T14:38:51+00:00
 
 Licensed CC-BY-4.0
@@ -508,6 +550,8 @@ Content type: Github Repository, Tutorial
 ---
 
 ## nextflow-workshop
+
+Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts, Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
 
 Published 2023-03-29T10:40:04+00:00
 

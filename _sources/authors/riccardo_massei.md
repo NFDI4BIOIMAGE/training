@@ -1,4 +1,4 @@
-# Riccardo massei (8)
+# Riccardo massei (9)
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
 Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
@@ -160,6 +160,27 @@ Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioima
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

@@ -1,4 +1,4 @@
-# Tutorial (34)
+# Tutorial (35)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 Carolina Wählby, Maxime Bombrun, Christian Tischer
@@ -173,6 +173,27 @@ Tags: I3Dbio, Research Data Management
 Content type: Tutorial
 
 [https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/](https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---
@@ -572,6 +593,8 @@ Content type: Github Repository, Tutorial
 
 ## introduction-to-generative-ai
 
+Bruna Piereck, Alexander Botzki
+
 Published 2024-09-27T14:38:51+00:00
 
 Licensed CC-BY-4.0
@@ -592,6 +615,8 @@ Content type: Github Repository, Tutorial
 ---
 
 ## nextflow-workshop
+
+Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts, Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
 
 Published 2023-03-29T10:40:04+00:00
 

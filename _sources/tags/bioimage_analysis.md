@@ -1,4 +1,4 @@
-# Bioimage analysis (161)
+# Bioimage analysis (163)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2501,6 +2501,23 @@ Content type: Publication, Preprint
 
 ---
 
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
+
+
+---
+
 ## Using Glittr.org to find, compare and re-use online training materials
 
 Geert van Geest, Yann Haefliger, Monique Zahn-Zabal, Patricia M. Palagi
@@ -2620,6 +2637,27 @@ Tags: Bioimage Analysis
 Content type: Workshop, Collection
 
 [https://github.com/bioimage-io/Workshop-June2024-Madrid](https://github.com/bioimage-io/Workshop-June2024-Madrid)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

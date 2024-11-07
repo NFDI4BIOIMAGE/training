@@ -1,4 +1,4 @@
-# Open science (6)
+# Open science (7)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -56,6 +56,27 @@ Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open S
 Content type: Slides, Presentation
 
 [https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---

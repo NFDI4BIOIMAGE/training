@@ -1,4 +1,4 @@
-# Unknown (75)
+# Unknown (77)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1021,6 +1021,25 @@ Content type: Website, Online Tutorial
 
 ---
 
+## RDM_system_connector
+
+SaibotMagd
+
+Licensed UNKNOWN
+
+
+
+This tool is intended to link different research data management platforms with each other.
+
+Tags: Research Data Management, Image Data Management
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/RDM_system_connector](https://github.com/SaibotMagd/RDM_system_connector)
+
+
+---
+
 ## REMBI - Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology
 
 Ugis Sarkans, Wah Chiu, Lucy Collinson, Michele C. Darrow, Jan Ellenberg, David Grunwald, et al.
@@ -1229,6 +1248,23 @@ Licensed UNKNOWN
 Tags: Artificial Intelligence, Bioimage Analysis
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
 
 
 ---

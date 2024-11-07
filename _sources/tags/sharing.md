@@ -1,4 +1,4 @@
-# Sharing (10)
+# Sharing (11)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -35,6 +35,27 @@ Tags: Sharing, Research Data Management
 Content type: Blog
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---

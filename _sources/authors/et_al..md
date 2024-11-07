@@ -1,4 +1,4 @@
-# Et al. (23)
+# Et al. (24)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -369,6 +369,23 @@ Tags: Bioimage Analysis
 Content type: Publication, Preprint
 
 [https://arxiv.org/abs/2302.01790v3](https://arxiv.org/abs/2302.01790v3)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
 
 
 ---

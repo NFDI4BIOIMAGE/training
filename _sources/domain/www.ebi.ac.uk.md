@@ -1,4 +1,4 @@
-# Www.ebi.ac.uk (9)
+# Www.ebi.ac.uk (10)
 ## BioImage Archive AI Gallery
 
 Licensed CC0-1.0
@@ -72,6 +72,27 @@ Tags: Bioinformatics, Training
 Content type: Collection
 
 [https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---

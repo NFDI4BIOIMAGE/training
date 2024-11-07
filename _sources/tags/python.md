@@ -1,4 +1,4 @@
-# Python (69)
+# Python (70)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1131,6 +1131,27 @@ Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
 Content type: Collection
 
 [https://workflowhub.eu/](https://workflowhub.eu/)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

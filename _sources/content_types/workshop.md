@@ -1,4 +1,4 @@
-# Workshop (11)
+# Workshop (12)
 ## Bio-image Analysis ICOB 2023
 
 
@@ -163,6 +163,23 @@ Content type: Workshop, Github Repository, Tutorial
 [https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
 
 [https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
 
 
 ---

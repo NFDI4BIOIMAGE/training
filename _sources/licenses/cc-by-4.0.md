@@ -1,4 +1,4 @@
-# Cc-by-4.0 (154)
+# Cc-by-4.0 (155)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1104,6 +1104,27 @@ Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
 Content type: Slides
 
 [https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
+
+
+---
+
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Videos
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
 
 ---
@@ -3029,6 +3050,8 @@ Content type: Slide
 
 ## introduction-to-generative-ai
 
+Bruna Piereck, Alexander Botzki
+
 Published 2024-09-27T14:38:51+00:00
 
 Licensed CC-BY-4.0
@@ -3049,6 +3072,8 @@ Content type: Github Repository, Tutorial
 ---
 
 ## nextflow-workshop
+
+Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts, Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
 
 Published 2023-03-29T10:40:04+00:00
 

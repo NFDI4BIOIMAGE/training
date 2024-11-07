@@ -1,4 +1,4 @@
-# Microscopy image analysis (11)
+# Microscopy image analysis (13)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -218,6 +218,44 @@ Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Managemen
 Content type: Publication
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
+
+
+---
+
+## Upcoming Image Analysis Events
+
+Curtis Rueden, Albane de la Villegeorges, Simon F. Nørrelykke, Romain Guiet, Olivier Burri, et al.
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Collection, Event, Forum Post, Workshop
+
+[https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
+
+
+---
+
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
 
 
 ---

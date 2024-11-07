@@ -1,4 +1,4 @@
-# Github.com (109)
+# Github.com (111)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1455,6 +1455,25 @@ Content type: Collection
 
 ---
 
+## RDM_system_connector
+
+SaibotMagd
+
+Licensed UNKNOWN
+
+
+
+This tool is intended to link different research data management platforms with each other.
+
+Tags: Research Data Management, Image Data Management
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/RDM_system_connector](https://github.com/SaibotMagd/RDM_system_connector)
+
+
+---
+
 ## Scientific Visualization: Python + Matplotlib
 
 Nicolas P. Rougier
@@ -1659,6 +1678,27 @@ Content type: Workshop, Collection
 
 ---
 
+## YMIA - Python-Based Event Series Training Material
+
+Riccardo Massei, Robert Haase, ENicolay
+
+Published None
+
+Licensed MIT
+
+
+
+This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
+
+Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+
+Content type: Github Repository, Slides
+
+[https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
+
+
+---
+
 ## ZEN & Python workshop
 
 Licensed GPL-3.0
@@ -1748,6 +1788,8 @@ Content type: Github Repository
 
 ## introduction-to-generative-ai
 
+Bruna Piereck, Alexander Botzki
+
 Published 2024-09-27T14:38:51+00:00
 
 Licensed CC-BY-4.0
@@ -1768,6 +1810,8 @@ Content type: Github Repository, Tutorial
 ---
 
 ## nextflow-workshop
+
+Tuur Muyldermans, Kris Davie, Alexander, Nicolas Vannieuwkerke, Kobe Lavaerts, Marcel Ribeiro-Dantas, Bruna Piereck, Steff Taelman
 
 Published 2023-03-29T10:40:04+00:00
 
