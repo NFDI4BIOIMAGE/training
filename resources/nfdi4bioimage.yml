@@ -5721,9 +5721,16 @@ resources:
 - author: Beth Cimini, Christopher Schmied, MichaelSNelson, Kota Miura
   description: ''
   license: Other
-  name: WG12_checklists_for_image_publishing
+  name: Community-developed checklists for publishing images and image analyses
   publication_date: '2024-02-09T18:00:43+00:00'
-  tags: TODO
-  type: GitHub Repository
-  url: https://github.com/QUAREP-LiMi/WG12_checklists_for_image_publishing
+  tags:
+  - Quality Assurance
+  - Microscopy
+  type:
+  - GitHub Repository
+  - Publication
+  url: 
+  - https://github.com/QUAREP-LiMi/WG12_checklists_for_image_publishing
+  - https://www.nature.com/articles/s41592-023-01987-9
+  - https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html
   
