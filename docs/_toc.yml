@@ -4,12 +4,14 @@
 format: jb-book
 root: readme
 parts:
-  - file: whats_new.md
+  - caption: What's new
+    chapters:
+    - file: whats_new.md
   - caption: Contributing
     chapters:
-      - file: contributing/index
-      - file: contributing/submit_app
-      - file: contributing/format
+    - file: contributing/index
+    - file: contributing/submit_app
+    - file: contributing/format
 
   - caption: By tag
     chapters:
@@ -27,6 +29,6 @@ parts:
 
   - caption: Appendix
     chapters:
-      - file: statistics/readme
-      - file: export/readme
-      - file: imprint
+    - file: statistics/readme
+    - file: export/readme
+    - file: imprint
