@@ -6167,6 +6167,7 @@ resources:
     name: RDF as a bridge to domain-platforms like OMERO, or There and back again.
     num_downloads: 120
     publication_date: '2024-02-26'
+    
     url:
     - https://zenodo.org/records/10687659
     - https://doi.org/10.5281/zenodo.10687659
