@@ -4,6 +4,7 @@
 format: jb-book
 root: readme
 parts:
+  - file: whats_new.md
   - caption: Contributing
     chapters:
       - file: contributing/index
@@ -23,10 +24,6 @@ parts:
 {license_toc}
 
     # when adding new chapters here, don't forget to also add them to the scipts/generate_link_lists.py file
-    
-  - caption: What's New
-    chapters:
-{date_toc}
 
   - caption: Appendix
     chapters:

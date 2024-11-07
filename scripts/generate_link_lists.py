@@ -1,27 +1,3 @@
-def generate_by_publication_date(content, output_file):
-    """Generates a markdown file organized by publish date for blog-like content organization."""
-    sorted_content = sorted(
-        content['resources'], 
-        key=lambda x: str(x.get('publication_date', '0000-00-00')),
-        reverse=True
-    )
-
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.write("# What's New\n")
-        for entry in sorted_content:
-            name = entry.get('name', 'Untitled')
-            pub_date = entry.get('publication_date', 'No Date')
-            authors = entry.get('authors', 'Unknown')
-            description = entry.get('description', 'No description available.')
-            url = entry.get('url', '')
-
-            file.write(f"## {name} - {pub_date}\n")
-            file.write(f"*Authors:* {authors}\n")
-            file.write(f"*Published on:* {pub_date}\n\n")
-            file.write(f"{description}\n")
-            file.write(f"\n[Link to content]({url})\n")
-            file.write("\n---\n")
-           
 def main():
     """
     When called from the terminal, this script goes through our yml files and generates .md files. 
@@ -88,9 +64,13 @@ def main():
     replace_in_file(toc_file, "{author_toc}", author_toc)
 
     # Generate the 'What's New' page with content sorted by publication date
-    date_toc = "    - file: whats_new"  
-    generate_by_publication_date(content, "docs/whats_new.md")  
-    replace_in_file(toc_file, "{date_toc}", date_toc) 
+    sorted_content = sorted(
+        content['resources'],
+        key=lambda x: str(x.get('publication_date', '0000-00-00')),
+        reverse=True
+    )[:10]
+
+    write_md({f["name"]:f for f in sorted_content}, "Recently added", "docs/whats_new.md")
 
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
