@@ -5718,3 +5718,12 @@ resources:
   - https://github.com/vibbits/nextflow-workshop
   - https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1
   
+- author: Beth Cimini, Christopher Schmied, MichaelSNelson, Kota Miura
+  description: ''
+  license: Other
+  name: WG12_checklists_for_image_publishing
+  publication_date: '2024-02-09T18:00:43+00:00'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/QUAREP-LiMi/WG12_checklists_for_image_publishing
+  
