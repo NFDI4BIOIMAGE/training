@@ -23,6 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        sudo apt-get install -y poppler-utils
 
     # Run data normalizer
     - name: Run data normalizer
@@ -34,6 +35,7 @@ jobs:
       run: |
         python scripts/generate_link_lists.py
         python scripts/export_csv.py
+        python scripts/highlights-download-statistics.py
         jupyter-book build docs/
 
     # Push the book's HTML to github-pages

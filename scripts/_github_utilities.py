@@ -63,6 +63,8 @@ def write_file(repository, branch_name, file_path, new_content, commit_message="
     ----------
     repository : str
         The full name of the GitHub repository (e.g., "username/repo-name").
+    branch_name : str
+        The name of the branch where the file will be modified or created.
     file_path : str
         A file path within the repository to change the contents of.
     new_content : str

@@ -14,6 +14,21 @@ def main():
     # Iterate over all files in the directory and accumulate content
     content = all_content(directory_path)
 
+    # Add domain information to the dictionaries
+    content['resources'] = add_domains_to_dicts(content['resources'])
+
+    # go through all domains and generate corresponding markdown files
+    all_domain_counts = collect_all(content, "domain")
+    domain_toc = ""
+    for domain in sorted(list(all_domain_counts.keys())):
+        count = all_domain_counts[domain]
+        if count >= MINIMUM_ITEM_COUNT:
+            selected_content = find_domain(content, domain)
+            filename = "domain/" + domain.replace(" ", "_")
+            write_md(selected_content, domain, "docs/" + filename + ".md")
+            domain_toc += "    - file: " + filename + "\n"
+    replace_in_file(toc_file, "{domain_toc}", domain_toc)
+
     # Go through all supported content types and generate corresponding markdown files
     all_content_types = collect_all(content, "type")
     type_toc = ""
@@ -352,6 +367,10 @@ def find_tag(content, tag):
     """Takes a dictionary of resources, searches for resources which have a given tag and returns them as new dictionary."""
     return find_anything(content, "tags", tag)
 
+def find_domain(content, tag):
+    """Takes a dictionary of resources, searches for resources which have a given domain and returns them as new dictionary."""
+    return find_anything(content, "domain", tag)
+
 def find_anything(content, what_to_look_in, what_to_find):
     """
     Goes through our content (list of dictionaries) and searches for specified entries, e.g. a specified license.
@@ -398,6 +417,8 @@ def write_md(resources, title, filename):
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
+                if isinstance(authors, list):
+                    authors = ", ".join(authors)
                 file.write(f"\n{authors}\n")
             if 'publication_date' in properties:
                 publication_date = properties['publication_date']
@@ -428,6 +449,26 @@ def write_md(resources, title, filename):
                     file.write(f"\n[{url}]({url})\n")
             
             file.write(f"\n\n---\n\n")
+
+from urllib.parse import urlparse
+
+def extract_domain(url):
+    """Extract domain from a single URL"""
+    return urlparse(url).netloc
+
+def get_domains(url_entry):
+    """Handle either single URL or list of URLs"""
+    if isinstance(url_entry, list):
+        return [extract_domain(url) for url in url_entry]
+    return extract_domain(url_entry)
+
+def add_domains_to_dicts(dict_list):
+    """Process list of dictionaries and add domains"""
+    for item in dict_list:
+        if 'url' in item:
+            item['domain'] = get_domains(item['url'])
+    return dict_list
+
 
 if __name__ == "__main__":
     main()
