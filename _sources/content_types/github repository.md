@@ -1,4 +1,4 @@
-# Github repository (34)
+# Github repository (35)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -667,6 +667,27 @@ Tags: Bioimage Analysis, Scikit-Image
 Content type: Github Repository
 
 [https://github.com/scikit-image/skimage-tutorials](https://github.com/scikit-image/skimage-tutorials)
+
+
+---
+
+## training-resources
+
+Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros
+
+Published 2020-04-23T07:51:38+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Bioimageanalysis
+
+Content type: Github Repository
+
+[https://github.com/NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources)
 
 
 ---

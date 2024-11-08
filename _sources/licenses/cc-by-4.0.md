@@ -1,4 +1,4 @@
-# Cc-by-4.0 (156)
+# Cc-by-4.0 (157)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3174,6 +3174,27 @@ Tags: Bioimage Analysis, Machine Learning
 Content type: Github Repository
 
 [https://github.com/INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc)
+
+
+---
+
+## training-resources
+
+Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros
+
+Published 2020-04-23T07:51:38+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Bioimageanalysis
+
+Content type: Github Repository
+
+[https://github.com/NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources)
 
 
 ---

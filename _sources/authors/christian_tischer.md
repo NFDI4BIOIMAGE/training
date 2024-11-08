@@ -1,4 +1,4 @@
-# Christian tischer (11)
+# Christian tischer (12)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -182,6 +182,27 @@ Tags: Python, Big Data
 Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
+
+
+---
+
+## training-resources
+
+Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros
+
+Published 2020-04-23T07:51:38+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Bioimageanalysis
+
+Content type: Github Repository
+
+[https://github.com/NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github.com (112)
+# Github.com (113)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1969,6 +1969,27 @@ Tags: Bioimage Analysis, Scikit-Image
 Content type: Github Repository
 
 [https://github.com/scikit-image/skimage-tutorials](https://github.com/scikit-image/skimage-tutorials)
+
+
+---
+
+## training-resources
+
+Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros
+
+Published 2020-04-23T07:51:38+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Bioimageanalysis
+
+Content type: Github Repository
+
+[https://github.com/NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources)
 
 
 ---
