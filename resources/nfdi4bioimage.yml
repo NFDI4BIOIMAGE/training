@@ -5871,6 +5871,21 @@ resources:
   - https://zenodo.org/records/14013026
   - https://doi.org/10.5281/zenodo.14013026
   
+- authors: "Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir,\
+    \ Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania\
+    \ Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili,\
+    \ Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger,\
+    \ Constantin Pape, Joel L\xFCthi, Matt McCormick, Oane Gros"
+  description: Resources for teaching/preparing to teach bioimage analysis
+  license: cc-by-4.0
+  name: training-resources
+  publication_date: '2020-04-23T07:51:38+00:00'
+  tags: 
+  - BioImageAnalysis
+  type: 
+  - GitHub Repository
+  url: https://github.com/NEUBIAS/training-resources
+
 - authors: "Carl Herrmann, annavonbachmann, David Hoksza, Martin Sch\xE4tz, Dario Malchiodi,\
     \ jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil"
   description: ''
@@ -5883,4 +5898,5 @@ resources:
   - Slides
   - Notebook
   url: https://github.com/deeplife4eu/Lecture-materials/
+
   
