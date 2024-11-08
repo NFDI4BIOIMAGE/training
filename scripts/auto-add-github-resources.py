@@ -80,6 +80,10 @@ def complete_github_data(github_repo_url):
 
     g = Github(token)
     repo_path = github_repo_url.replace("https://github.com/", "")
+    if repo_path.endswith("/"):
+        repo_path = repo_path[:-1]
+
+    print("Loading", repo_path)
     repo = g.get_repo(repo_path)
 
     entry = {}
