@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 406 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2024-11-07.
+This Jupyter Book contains 406 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2024-11-08.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -16,15 +16,15 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 
 1. [Bio-image Analysis Code Generation](https://zenodo.org/records/14001044) by "Haase, Robert" (134 downloads).
 
-![latest PNG](highlights/20241107_first_page_14001044.png)
+![latest PNG](highlights/20241108_first_page_14001044.png)
 
 2. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (101 downloads).
 
-![latest PNG](highlights/20241107_first_page_11201216.png)
+![latest PNG](highlights/20241108_first_page_11201216.png)
 
 3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (93 downloads).
 
-![latest PNG](highlights/20241107_first_page_12623730.png)
+![latest PNG](highlights/20241108_first_page_12623730.png)
 
 ## How to use this resource
 
