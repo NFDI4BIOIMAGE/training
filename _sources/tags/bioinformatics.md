@@ -1,4 +1,4 @@
-# Bioinformatics (7)
+# Bioinformatics (8)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -50,6 +50,25 @@ Tags: Bioinformatics, Training
 Content type: Collection
 
 [https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
+
+
+---
+
+## Lecture-materials
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06T10:52:29+00:00
+
+
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---

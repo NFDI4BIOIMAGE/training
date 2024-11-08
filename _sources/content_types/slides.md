@@ -1,4 +1,4 @@
-# Slides (37)
+# Slides (38)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -452,6 +452,25 @@ Content type: Slides
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 [https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
+## Lecture-materials
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06T10:52:29+00:00
+
+
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---

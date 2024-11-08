@@ -1,4 +1,4 @@
-# Github repository (33)
+# Github repository (34)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -136,6 +136,25 @@ Tags: Bioimage Analysis, Notebooks, Biabob
 Content type: Github Repository, Tutorial, Notebook
 
 [https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
+
+
+---
+
+## Lecture-materials
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06T10:52:29+00:00
+
+
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---

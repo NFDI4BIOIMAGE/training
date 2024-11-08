@@ -1,4 +1,4 @@
-# Notebook (53)
+# Notebook (54)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -570,6 +570,25 @@ Tags: Deep Learning, Pytorch, Segmentation, Python
 Content type: Notebook
 
 [https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
+## Lecture-materials
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06T10:52:29+00:00
+
+
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---

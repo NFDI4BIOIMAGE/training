@@ -1,4 +1,4 @@
-# Github.com (111)
+# Github.com (112)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -942,6 +942,25 @@ Tags: Artificial Intelligence
 Content type: Tutorial
 
 [https://github.com/kreshuklab/predoc-course](https://github.com/kreshuklab/predoc-course)
+
+
+---
+
+## Lecture-materials
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06T10:52:29+00:00
+
+
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---
