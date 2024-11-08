@@ -5871,3 +5871,16 @@ resources:
   - https://zenodo.org/records/14013026
   - https://doi.org/10.5281/zenodo.14013026
   
+- authors: "Carl Herrmann, annavonbachmann, David Hoksza, Martin Sch\xE4tz, Dario Malchiodi,\
+    \ jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil"
+  description: ''
+  name: Lecture-materials
+  publication_date: '2023-12-06T10:52:29+00:00'
+  tags: 
+  - bioinformatics
+  type: 
+  - GitHub Repository
+  - Slides
+  - Notebook
+  url: https://github.com/deeplife4eu/Lecture-materials/
+  
