@@ -5877,10 +5877,12 @@ resources:
     \ Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger,\
     \ Constantin Pape, Joel L\xFCthi, Matt McCormick, Oane Gros"
   description: Resources for teaching/preparing to teach bioimage analysis
-  license: Other
+  license: cc-by-4.0
   name: training-resources
   publication_date: '2020-04-23T07:51:38+00:00'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - BioImageAnalysis
+  type: 
+  - GitHub Repository
   url: https://github.com/NEUBIAS/training-resources
   
