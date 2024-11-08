@@ -5876,7 +5876,11 @@ resources:
   description: ''
   name: Lecture-materials
   publication_date: '2023-12-06T10:52:29+00:00'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - bioinformatics
+  type: 
+  - GitHub Repository
+  - Slides
+  - Notebook
   url: https://github.com/deeplife4eu/Lecture-materials/
   
