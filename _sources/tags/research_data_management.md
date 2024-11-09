@@ -1,4 +1,4 @@
-# Research data management (108)
+# Research data management (109)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2104,6 +2104,25 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+
+---
+
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
 
 
 ---

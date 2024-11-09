@@ -1,4 +1,4 @@
-# Website (7)
+# Website (8)
 ## Data Stewardship Wizard
 
 Licensed UNKOWN
@@ -31,6 +31,25 @@ Tags: Data Life Cycle, Research Data Management
 Content type: Collection, Website, Online Tutorial
 
 [https://rdmkit.elixir-europe.org/data_life_cycle](https://rdmkit.elixir-europe.org/data_life_cycle)
+
+
+---
+
+## Diátaxis - A systematic approach to technical documentation authoring.
+
+Daniele Procida
+
+Licensed CC-BY-SA-4.0
+
+
+
+Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.
+
+Tags: Documentation
+
+Content type: Website, Tutorial, Workflow
+
+[https://www.diataxis.fr/](https://www.diataxis.fr/)
 
 
 ---

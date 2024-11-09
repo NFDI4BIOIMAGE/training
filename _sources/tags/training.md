@@ -1,4 +1,4 @@
-# Training (9)
+# Training (12)
 ## DataPLANT knowledge base
 
 Published 2022-12-14
@@ -14,6 +14,25 @@ Tags: Research Data Management, Training, Dataplant
 Content type: Collection
 
 [https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html)
+
+
+---
+
+## Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+
+Bret Fisher
+
+Licensed UNKNOWN
+
+
+
+In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+
+Tags: Docker, Training
+
+Content type: Videos, Tutorial, Online Course
+
+[https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
 
 
 ---
@@ -96,6 +115,25 @@ Content type: Workshop, Notebook, Github Repository
 
 ---
 
+## Image Processing with Python
+
+Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
+
+Licensed CC-BY-4.0
+
+
+
+This lesson shows how to use Python and scikit-image to do basic image processing.
+
+Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+
+Content type: Tutorial, Workflow
+
+[https://datacarpentry.org/image-processing/key-points.html](https://datacarpentry.org/image-processing/key-points.html)
+
+
+---
+
 ## Object Tracking and Track Analysis using TrackMate and CellTracksColab
 
 Joanna Pylvänäinen
@@ -113,6 +151,23 @@ Tags: Bioimage Analysis, Training
 Content type: Github Repository, Tutorial, Workshop, Slides
 
 [https://github.com/CellMigrationLab/I2K_2024](https://github.com/CellMigrationLab/I2K_2024)
+
+
+---
+
+## SWC/GCNU Software Skills
+
+Licensed CC-BY-4.0
+
+
+
+Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Training
+
+Content type: Collection, Online Course, Videos, Tutorial
+
+[https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
 
 
 ---

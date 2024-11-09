@@ -456,13 +456,13 @@ Content type: Slides
 
 ---
 
-## Lecture-materials
+## Lecture-materials of the DeepLife course
 
 Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
 
-Published 2023-12-06T10:52:29+00:00
+Published 2023-12-06
 
-
+Licensed UNKNOWN
 
 
 

@@ -1,4 +1,4 @@
-# Et al. (24)
+# Et al. (25)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -75,19 +75,19 @@ Content type: Notebook, Collection
 
 ## Image Processing with Python
 
-Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
 
 Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis
+This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Content type: Collection
+Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
 
-[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+Content type: Tutorial, Workflow
 
-[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+[https://datacarpentry.org/image-processing/key-points.html](https://datacarpentry.org/image-processing/key-points.html)
 
 
 ---
@@ -443,6 +443,25 @@ Tags: Open Source Software, Bioimage Data
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
 
 
 ---

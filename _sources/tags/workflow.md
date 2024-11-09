@@ -1,4 +1,4 @@
-# Workflow (9)
+# Workflow (10)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -141,6 +141,25 @@ Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
 Content type: Collection
 
 [https://workflowhub.eu/](https://workflowhub.eu/)
+
+
+---
+
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
 
 
 ---

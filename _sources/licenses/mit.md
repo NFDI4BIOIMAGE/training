@@ -1,4 +1,4 @@
-# Mit (21)
+# Mit (22)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -354,6 +354,25 @@ Content type: Notebook, Collection
 [https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
 
 [https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+
+
+---
+
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
 
 
 ---

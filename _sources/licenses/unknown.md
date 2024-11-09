@@ -1,4 +1,4 @@
-# Unknown (77)
+# Unknown (79)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -375,6 +375,25 @@ Content type: Presentation
 
 ---
 
+## Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+
+Bret Fisher
+
+Licensed UNKNOWN
+
+
+
+In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+
+Tags: Docker, Training
+
+Content type: Videos, Tutorial, Online Course
+
+[https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
+
+
+---
+
 ## EMBL Deep Learning course 2019 exercises and materials
 
 Valentyna Zinchenko, Pejman Rasti, Martin Weigert, Szymon Stoma
@@ -704,6 +723,25 @@ Tags: Artificial Intelligence
 Content type: Tutorial
 
 [https://github.com/kreshuklab/predoc-course](https://github.com/kreshuklab/predoc-course)
+
+
+---
+
+## Lecture-materials of the DeepLife course
+
+Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
+
+Published 2023-12-06
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Slides, Notebook
+
+[https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
 
 
 ---

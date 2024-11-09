@@ -1,4 +1,4 @@
-# Tutorial (35)
+# Tutorial (40)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 Carolina Wählby, Maxime Bombrun, Christian Tischer
@@ -40,6 +40,44 @@ Licensed ['CC-BY-4.0', 'MIT']
 Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
+
+
+---
+
+## Diátaxis - A systematic approach to technical documentation authoring.
+
+Daniele Procida
+
+Licensed CC-BY-SA-4.0
+
+
+
+Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.
+
+Tags: Documentation
+
+Content type: Website, Tutorial, Workflow
+
+[https://www.diataxis.fr/](https://www.diataxis.fr/)
+
+
+---
+
+## Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+
+Bret Fisher
+
+Licensed UNKNOWN
+
+
+
+In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+
+Tags: Docker, Training
+
+Content type: Videos, Tutorial, Online Course
+
+[https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
 
 
 ---
@@ -304,6 +342,25 @@ Content type: Github Repository, Tutorial, Notebook
 
 ---
 
+## Image Processing with Python
+
+Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
+
+Licensed CC-BY-4.0
+
+
+
+This lesson shows how to use Python and scikit-image to do basic image processing.
+
+Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+
+Content type: Tutorial, Workflow
+
+[https://datacarpentry.org/image-processing/key-points.html](https://datacarpentry.org/image-processing/key-points.html)
+
+
+---
+
 ## KNIME Image Processing
 
 None
@@ -459,6 +516,23 @@ Content type: Tutorial
 
 ---
 
+## SWC/GCNU Software Skills
+
+Licensed CC-BY-4.0
+
+
+
+Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Training
+
+Content type: Collection, Online Course, Videos, Tutorial
+
+[https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
+
+
+---
+
 ## Setting up a remote desktop to use Napari in a browser
 
 Volker Hilsenstein
@@ -587,6 +661,25 @@ Tags: Big Data, Bioimageanalysis
 Content type: Github Repository, Tutorial
 
 [https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher](https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher)
+
+
+---
+
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
 
 
 ---

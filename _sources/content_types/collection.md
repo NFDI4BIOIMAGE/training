@@ -1,4 +1,4 @@
-# Collection (77)
+# Collection (78)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -1040,6 +1040,23 @@ Tags: Reproducibility, Metadata, Bioimage Data
 Content type: Collection
 
 [https://www.nature.com/collections/djiciihhjh](https://www.nature.com/collections/djiciihhjh)
+
+
+---
+
+## SWC/GCNU Software Skills
+
+Licensed CC-BY-4.0
+
+
+
+Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Training
+
+Content type: Collection, Online Course, Videos, Tutorial
+
+[https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
 
 
 ---

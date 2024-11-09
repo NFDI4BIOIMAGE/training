@@ -137,7 +137,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis
+Tags: Bioimageanalysis, Neurobias
 
 Content type: Github Repository
 

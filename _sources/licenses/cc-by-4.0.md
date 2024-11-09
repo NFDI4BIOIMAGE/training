@@ -1,4 +1,4 @@
-# Cc-by-4.0 (157)
+# Cc-by-4.0 (158)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1447,19 +1447,19 @@ Content type: Book
 
 ## Image Processing with Python
 
-Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
 
 Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis
+This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Content type: Collection
+Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
 
-[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+Content type: Tutorial, Workflow
 
-[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+[https://datacarpentry.org/image-processing/key-points.html](https://datacarpentry.org/image-processing/key-points.html)
 
 
 ---
@@ -2387,6 +2387,23 @@ Content type: Blog
 
 ---
 
+## SWC/GCNU Software Skills
+
+Licensed CC-BY-4.0
+
+
+
+Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Training
+
+Content type: Collection, Online Course, Videos, Tutorial
+
+[https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
+
+
+---
+
 ## Sharing and licensing material
 
 Robert Haase
@@ -3190,7 +3207,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis
+Tags: Bioimageanalysis, Neurobias
 
 Content type: Github Repository
 

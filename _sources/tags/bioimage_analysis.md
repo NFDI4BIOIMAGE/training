@@ -1391,19 +1391,19 @@ Content type: Book
 
 ## Image Processing with Python
 
-Jacob Deppen, Kimberly Meechan, David Palmquist, Ulf Schiller, Robert Turner, Marianne Corvellec, Toby Hodges, et al.
+Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
 
 Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis
+This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Content type: Collection
+Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
 
-[https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/)
+Content type: Tutorial, Workflow
 
-[https://github.com/datacarpentry/image-processing](https://github.com/datacarpentry/image-processing)
+[https://datacarpentry.org/image-processing/key-points.html](https://datacarpentry.org/image-processing/key-points.html)
 
 
 ---

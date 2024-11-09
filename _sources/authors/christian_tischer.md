@@ -1,4 +1,4 @@
-# Christian tischer (12)
+# Christian tischer (13)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -169,6 +169,25 @@ Content type: Tutorial
 
 ---
 
+## cba-support-template
+
+Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
+
+Published 2021-12-01
+
+Licensed MIT
+
+
+
+Tags: Workflow, Research Data Management
+
+Content type: Tutorial
+
+[https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
 ## i2k-2020-s3-zarr-workshop
 
 Constantin Pape, Christian Tischer
@@ -198,7 +217,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis
+Tags: Bioimageanalysis, Neurobias
 
 Content type: Github Repository
 
