@@ -5974,3 +5974,14 @@ resources:
   - Workflow
   url: https://datacarpentry.org/image-processing/key-points.html
   
+
+- authors: C. Li
+  description: 'Friends don''t let friends make certain types of data visualization
+    - What are they and why are they bad. '
+  license: MIT License
+  name: FriendsDontLetFriends
+  publication_date: '2024-03-10T15:34:07+00:00'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/cxli233/FriendsDontLetFriends
+  
