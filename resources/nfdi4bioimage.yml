@@ -5870,27 +5870,12 @@ resources:
   url:
   - https://zenodo.org/records/14013026
   - https://doi.org/10.5281/zenodo.14013026
-  
-- authors: "Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir,\
-    \ Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania\
-    \ Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili,\
-    \ Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger,\
-    \ Constantin Pape, Joel L\xFCthi, Matt McCormick, Oane Gros"
-  description: Resources for teaching/preparing to teach bioimage analysis
-  license: cc-by-4.0
-  name: training-resources
-  publication_date: '2020-04-23T07:51:38+00:00'
-  tags: 
-  - BioImageAnalysis
-  type: 
-  - GitHub Repository
-  url: https://github.com/NEUBIAS/training-resources
 
-- authors: "Carl Herrmann, annavonbachmann, David Hoksza, Martin Sch\xE4tz, Dario Malchiodi,\
-    \ jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil"
-  description: ''
-  name: Lecture-materials
-  publication_date: '2023-12-06T10:52:29+00:00'
+
+- authors: "Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil"
+  name: Lecture-materials of the DeepLife course
+  publication_date: '2023-12-06'
+  license: UNKNOWN
   tags: 
   - bioinformatics
   type: 
@@ -5899,4 +5884,93 @@ resources:
   - Notebook
   url: https://github.com/deeplife4eu/Lecture-materials/
 
+  
+- authors: "Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros"
+  description: Resources for teaching/preparing to teach bioimage analysis
+  license: cc-by-4.0
+  name: training-resources
+  publication_date: '2020-04-23T07:51:38+00:00'
+  tags: 
+  - BioImageAnalysis
+  - Neurobias
+  type: 
+  - GitHub Repository
+  url: https://github.com/NEUBIAS/training-resources
+
+- authors:
+  - Arif Khan
+  - Christian Tischer
+  - Sebastian Gonzalez
+  - Dominik Kutra
+  - Felix Schneider
+  - et al.
+  license: MIT License
+  name: cba-support-template 
+  publication_date: '2021-12-01'
+  tags:
+  - Workflow
+  - Research Data Management
+  type:
+  - Tutorial
+  url: https://git.embl.de/grp-cba/cba-support-template
+
+- authors: Bret Fisher
+  description: In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+  license: UNKNOWN
+  name: Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+  tags:
+  - Docker
+  - Training
+  type:
+  - Videos
+  - Tutorial
+  - Online Course
+  url: https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW
+  
+- description: Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+  license: CC-BY-4.0
+  name: SWC/GCNU Software Skills
+  tags:
+  - Training
+  type:
+  - Collection
+  - Online Course
+  - Videos
+  - Tutorial
+  url: https://software-skills.neuroinformatics.dev/index.html
+
+- authors: Daniele Procida 
+  description: Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process. 
+  license: CC-BY-SA-4.0
+  name: Diátaxis - A systematic approach to technical documentation authoring.
+  tags:
+  - Documentation
+  type:
+  - Website
+  - Tutorial
+  - Workflow
+  url: 
+  - https://www.diataxis.fr/
+  
+- authors:
+  - Mark Meysenburg
+  - Toby Hodges  
+  - Dominik Kutra 
+  - Erin Becker 
+  - David Palmquist
+  - et al.
+  description: This lesson shows how to use Python and scikit-image to do basic image processing.
+  license: CC-BY-4.0
+  name: Image Processing with Python
+  tags:
+  - Segmentation
+  - Bioimage Analysis
+  - Training
+  - Python
+  - Scikit-image
+  - Image Segmentation
+  type:
+  - Tutorial
+  - Workflow
+  url: https://datacarpentry.org/image-processing/key-points.html
   
