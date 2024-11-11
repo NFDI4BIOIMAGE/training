@@ -5973,7 +5973,6 @@ resources:
   - Tutorial
   - Workflow
   url: https://datacarpentry.org/image-processing/key-points.html
-  
 
 - authors: Nicolas Chiaruttini
   description: 'The files contained in this repository are confocal images taken with
@@ -5996,4 +5995,55 @@ resources:
   url:
   - https://zenodo.org/records/13680725
   - https://doi.org/10.5281/zenodo.13680725
+
+- authors: Nicolas Chiaruttini
+  description: 'A set of public CZI files. These can be used for testing CZI readers.
+  
+  
+    - Demo LISH 4x8 15pct 647.czi: A cleared mouse brain acquired with a Zeiss LightSheet
+    Z1 with 32 tiles. Courtesy of the Carl Petersen lab LSENS (https://www.epfl.ch/labs/lsens).
+    Sampled prepared by Yanqi Liu an imaged by Olivier Burri.
+  
+  
+    - test_gray.czi: a synthetically generated CZI file without metadata, made by Sebastian
+    Rhode
+  
+  
+    - Image_1_2023_08_18__14_32_31_964.czi: an example multi-part CZI file, containing
+    only camera noise
+  
+  
+    - a xt scan, xz scan, xzt scan
+  
+  
+    - a set of multi angle, multi illumination, mutli tile acquisition, taken on the
+    LightSheet Z1 microscope of the PTBIOP by Lorenzo Tal&agrave;'
+  license: cc-by-4.0
+  name: CZI file examples
+  num_downloads: 1192
+  publication_date: '2023-08-18'
+  url:
+  - https://zenodo.org/records/8305531
+  - https://doi.org/10.5281/zenodo.8305531
+
+
+- authors: Sarah Machado, Vincent Mercier, Nicolas Chiaruttini
+  description: "Image datasets from the&nbsp;publication :&nbsp;LimeSeg: A coarse-grained\
+    \ lipid membrane simulation for 3D image segmentation\n\n\n\tVesicles.tif: spinning-disc\
+    \ confocal images of giant unilamellar vesicles\n\tHelaCell-FIBSEM.tif:&nbsp;a 3D\
+    \ Electron&nbsp;Microscopy (EM)&nbsp;dataset of nearly isotropic sections of a Hela\
+    \ cell, acquired with a focused ion beam scanning electron microscope (FIB-SEM).\
+    \ Sections are aligned with TrackEm2 (doi: ), without additional preprocessing.\n\
+    \tDrosophilaEggChamber.tif: point scanning confocal images of a Drosophila egg chamber.\
+    \ Channel&nbsp;1: cell nuclei &nbsp;stained with DAPI. Channel 2:&nbsp;cell membranes\
+    \ visualized with fused membrane proteins Nrg::GFP and Bsg::GFP.&nbsp;\n\n\nImage\
+    \ metadata contains extra information including voxel sizes.\n\n&nbsp;"
+  license: cc-by-4.0
+  name: LimeSeg Test Datasets
+  num_downloads: 174
+  publication_date: '2018-10-27'
+  url:
+  - https://zenodo.org/records/1472859
+  - https://doi.org/10.5281/zenodo.1472859
+
   
