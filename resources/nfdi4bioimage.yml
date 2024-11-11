@@ -6108,3 +6108,62 @@ resources:
 
 
   
+
+- authors: Massei, Riccardo, Bortolomeazzi, Michele, Schmidt, Christian
+  description: 'Here we share the material used in a workshop held on May 13th, 2024,
+    at the German Cancer Research Center in Heidelberg (on-premise)
+  
+    Description:Microscopy experiments generate information-rich, multi-dimensional
+    data, allowing us to investigate biological processes at high spatial and temporal
+    resolution. Image processing and analysis is a standard procedure to retrieve quantitative
+    information from biological imaging. Due to the complex nature of bioimaging files
+    that often come in proprietary formats, it can be challenging to organize, structure,
+    and annotate bioimaging data throughout a project. Data often needs to be moved
+    between collaboration partners, transformed into open formats, processed with a
+    variety of software tools, and exported to smaller-sized images for presentation.
+    The path from image acquisition to final publication figures with quantitative results
+    must be documented and reproducible.
+  
+    In this workshop, participants learn how to use OMERO to organize their data and
+    enrich the bioimage data with structured metadata annotations.We also focus on image
+    analysis workflows in combination with OMERO based on the Fiji/ImageJ software and
+    using Jupyter Notebooks. In the last part, we explore how OMERO can be used to create
+    publication figures and prepare bioimage data for publication in a suitable repository
+    such as the Bioimage Archive.
+  
+    Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
+  
+    Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
+  
+    Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
+  
+    Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with OMERO
+  
+    The target group for this workshopThis workshop is directed at researchers at all
+    career levels who plan to or have started to use OMERO for their microscopy research
+    data management.&nbsp;We encourage the workshop participants to bring example data
+    from their research to discuss suitable metadata annotation for their everyday practice.
+  
+    Prerequisites:Users should bring their laptops and have access to the internet through
+    one of the following options:- eduroam- institutional WiFi- VPN connection to their
+    institutional networks to access OMERO
+  
+    Who are the trainers?
+  
+    Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig)
+    - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
+  
+    Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist,
+    bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
+  
+    Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging,
+    German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE
+    project)'
+  license: cc-by-4.0
+  name: '[Workshop] Bioimage data management and analysis with OMERO'
+  num_downloads: 210
+  publication_date: '2024-05-13'
+  url:
+  - https://zenodo.org/records/11350689
+  - https://doi.org/10.5281/zenodo.11350689
+  
