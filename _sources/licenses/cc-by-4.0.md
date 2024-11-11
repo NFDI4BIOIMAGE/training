@@ -1,4 +1,4 @@
-# Cc-by-4.0 (159)
+# Cc-by-4.0 (160)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -423,6 +423,35 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 [https://zenodo.org/records/14044640](https://zenodo.org/records/14044640)
 
 [https://doi.org/10.5281/zenodo.14044640](https://doi.org/10.5281/zenodo.14044640)
+
+
+---
+
+## CZI file examples
+
+Nicolas Chiaruttini
+
+Published 2023-08-18
+
+Licensed CC-BY-4.0
+
+
+
+A set of public CZI files. These can be used for testing CZI readers.
+
+- Demo LISH 4x8 15pct 647.czi: A cleared mouse brain acquired with a Zeiss LightSheet Z1 with 32 tiles. Courtesy of the Carl Petersen lab LSENS (https://www.epfl.ch/labs/lsens). Sampled prepared by Yanqi Liu an imaged by Olivier Burri.
+
+- test_gray.czi: a synthetically generated CZI file without metadata, made by Sebastian Rhode
+
+- Image_1_2023_08_18__14_32_31_964.czi: an example multi-part CZI file, containing only camera noise
+
+- a xt scan, xz scan, xzt scan
+
+- a set of multi angle, multi illumination, mutli tile acquisition, taken on the LightSheet Z1 microscope of the PTBIOP by Lorenzo Tal&agrave;
+
+[https://zenodo.org/records/8305531](https://zenodo.org/records/8305531)
+
+[https://doi.org/10.5281/zenodo.8305531](https://doi.org/10.5281/zenodo.8305531)
 
 
 ---
