@@ -6108,3 +6108,16 @@ resources:
 
 
   
+
+- authors: "Fuchs, Vanessa Aphaia Fiona, Wendt, Jens, M\xFCller, Maximilian, Ahmadi,\
+    \ Mohsen, Massei, Riccardo, Wetzker, Cornelia"
+  description: The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves
+    and the services (including the Helpdesk) that we offer.
+  license: cc-by-4.0
+  name: Who you gonna call? - Data Stewards to the rescue
+  num_downloads: 89
+  publication_date: '2024-03-01'
+  url:
+  - https://zenodo.org/records/10730424
+  - https://doi.org/10.5281/zenodo.10730424
+  
