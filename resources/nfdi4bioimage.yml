@@ -6108,3 +6108,29 @@ resources:
 
 
   
+
+- authors: Massei, Riccardo, Schmidt, Christian, Bortolomeazzi, Michele, Thoennissen,
+    Julia, Bumberger, Jan, Dickscheid, Timo, Mallm, Jan-Philipp, Ferrando-May, Elisa
+  description: Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to
+    establish a sustained, cross-disciplinary research data management (RDM) infrastructure
+    that enables researchers to handle FAIR (findable, accessible, interoperable, reusable)
+    data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers,
+    and publishers, their practical implementation remains an ongoing effort. In the
+    field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and
+    open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE
+    was established&nbsp;to address these issues and&nbsp;develop tools and best practices
+    to facilitate FAIR microscopy and image analysis data in alignment with international
+    community activities. The&nbsp;consortium operates through its Data Stewards team
+    to provide expertise and direct support to help overcome RDM challenges. The three
+    Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers
+    and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s
+    work and its significance for research in Helmholtz and beyond
+  license: cc-by-4.0
+  name: The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing
+    FAIR data management for microscopy and bioimage analysis
+  num_downloads: 50
+  publication_date: '2024-06-06'
+  url:
+  - https://zenodo.org/records/11501662
+  - https://doi.org/10.5281/zenodo.11501662
+  
