@@ -6108,3 +6108,40 @@ resources:
 
 
   
+
+- authors: Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
+  description: 'Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar,
+    Ulm, online. Monday February 6th, 2023
+  
+  
+    Abstract:
+  
+  
+    Research data management is essential in nowadays research, and one of the big opportunities
+    to accelerate collaborative and innovative scientific projects. To achieve this
+    goal, all our data needs to be FAIR (findable, accessible, interoperable, reproducible).
+    For data acquired on microscopes, however, a common ground for FAIR data sharing
+    is still to be established. Plenty of work on file formats, data bases, and training
+    needs to be performed to highlight the value of data sharing and exploit its potential
+    for bioimaging data.
+  
+  
+    In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for
+    bioimaging data management, and the necessary steps to achieve data FAIRification.
+    German BioImaging - GMB e.V., together with other institutions, contributes to this
+    endeavor. Janina Hanne will present how the network of imaging core facilities,
+    research groups and industry partners is key to the German bioimaging community&rsquo;s
+    aligned collaboration toward FAIR bioimaging data. These activities have paved the
+    way for two data management initiatives in Germany: I3D:bio (Information Infrastructure
+    for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data
+    Infrastructure. Christian Schmidt will introduce the goals and measures of these
+    initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice.
+    &nbsp;'
+  license: cc-by-4.0
+  name: A journey to FAIR microscopy data
+  num_downloads: 68
+  publication_date: '2023-05-03'
+  url:
+  - https://zenodo.org/records/7890311
+  - https://doi.org/10.5281/zenodo.7890311
+  
