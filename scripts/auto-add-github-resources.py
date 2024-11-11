@@ -122,7 +122,7 @@ def complete_github_data(github_repo_url):
     entry['publication_date'] = get_publication_date(repo)
 
     # Added date with current datetime
-    entry['added_date'] = datetime.now().isoformat()  # Add the added_date field
+    entry['added_date'] = datetime.now().isoformat()
 
     # Tags: always add the message "Dear users, please add tags."
     entry['tags'] = "TODO"
