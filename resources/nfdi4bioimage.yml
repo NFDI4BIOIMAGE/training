@@ -6108,3 +6108,23 @@ resources:
 
 
   
+
+- authors: "Tulok, Silke, Fabig, Gunar, Vogelsang, Andy, Kugel, Thomas, M\xFCller-Reichert,\
+    \ Thomas"
+  description: The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine
+    Carl Gustav Carus (TU Dresden) is currently running a pilot project for testing
+    the use and handling of the OMERO software. This is done together with interested
+    users of the imaging facility and a research group. Currently, we are pushing forward
+    this pilot study on a small scale without any data steward. Our experiences argue
+    so far for giving data management issues into the hands of dedicated personnel not
+    fully involved in research projects. As funding agencies will ask for higher and
+    higher standards for implementing FAIRdata principles in the future, this will be
+    a releva
+  license: cc-by-4.0
+  name: 'Report on a pilot study:  Implementation of OMERO for  microscopy data management'
+  num_downloads: 80
+  publication_date: '2023-11-10'
+  url:
+  - https://zenodo.org/records/10103316
+  - https://doi.org/10.5281/zenodo.10103316
+  
