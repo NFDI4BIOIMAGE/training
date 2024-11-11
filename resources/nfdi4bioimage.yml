@@ -6108,3 +6108,17 @@ resources:
 
 
   
+
+- authors: Massei, Riccardo
+  description: 'YMIA python event 2024
+  
+    Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment
+    with Dr. Riccardo Massei"'
+  license: cc-by-4.0
+  name: 'Getting started with Python: intro and set-up a conda environment'
+  num_downloads: 22
+  publication_date: '2024-10-09'
+  url:
+  - https://zenodo.org/records/13908480
+  - https://doi.org/10.5281/zenodo.13908480
+  
