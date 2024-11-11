@@ -6108,3 +6108,18 @@ resources:
 
 
   
+
+- authors: Massei, Riccardo
+  description: 'Results of the project "Conversion of KNIME image analysis workflows
+    to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01
+    Mar 2024)
+  
+    &nbsp;'
+  license: cc-by-4.0
+  name: Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
+  num_downloads: 46
+  publication_date: '2024-03-07'
+  url:
+  - https://zenodo.org/records/10793700
+  - https://doi.org/10.5281/zenodo.10793700
+  
