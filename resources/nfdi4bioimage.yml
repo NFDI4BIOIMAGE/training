@@ -6108,3 +6108,15 @@ resources:
 
 
   
+
+- authors: Stefanie Weidtkamp-Peters
+  description: Slideshow from the online Kick-Off event of NFDI4BIOIMAGE on June 20th.
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage
+    Analysis - Online Kick-Off 2023
+  num_downloads: 99
+  publication_date: '2023-06-22'
+  url:
+  - https://zenodo.org/records/8070038
+  - https://doi.org/10.5281/zenodo.8070038
+  
