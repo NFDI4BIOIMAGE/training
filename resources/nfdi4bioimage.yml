@@ -6108,3 +6108,19 @@ resources:
 
 
   
+
+- authors: Margineanu, Anca, Stringari, Chiara, Zoccoler, Marcelo, Wetzker, Cornelia
+  description: The presentations introduce open-source software to read in, visualize
+    and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for
+    life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop
+    held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca
+    Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
+  license: cc-by-4.0
+  name: A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and
+    napari-flim-phasor-plotter
+  num_downloads: 217
+  publication_date: '2024-03-27'
+  url:
+  - https://zenodo.org/records/10886750
+  - https://doi.org/10.5281/zenodo.10886750
+  
