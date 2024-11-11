@@ -6004,7 +6004,38 @@ resources:
     Z1 with 32 tiles. Courtesy of the Carl Petersen lab LSENS (https://www.epfl.ch/labs/lsens).
     Sampled prepared by Yanqi Liu an imaged by Olivier Burri.
   
-  
+
+- authors: Romain Guiet, Nicolas Chiaruttini
+  description: "Mouse duodenum fixed in 4% PFA overnight at 4&deg;C, processed for paraffin\
+    \ infiltration using a standard histology procedure and cut at 4 microns were dewaxed,\
+    \ rehydrated, permeabilized with 0.5% Triton X-100 in PBS 1x and stained with Azide\
+    \ - Alexa Fluor 555 (Thermo Fisher) to detect EdU and DAPI for nuclei. The images\
+    \ were taken using a Leica DM5500 microscope with a 40X N.A.1 objective (black&amp;white\
+    \ camera: DFC350FXR2, pixel dimension: 0.161 microns). Next, the slide was unmounted\
+    \ and stained using the fully automated Ventana Discovery xT autostainer (Roche\
+    \ Diagnostics, Rotkreuz, Switzerland). All steps were performed on automate with\
+    \ Ventana solutions. Sections were pretreated with heat using the CC1 solution under\
+    \ mild conditions. The primary rat anti BrDU (clone: BU1/75 (ICR1), Serotec, diluted\
+    \ 1:300) was incubated 1 hour at 37&deg;C. After incubation with a donkey anti rat\
+    \ biotin diluted 1:200 (Jackson ImmunoResearch Laboratories), chromogenic revelation\
+    \ was performed with DabMap kit. The section was counterstained with Harris hematoxylin\
+    \ (J.T. Baker) before a second round of imaging on DM5500 PL Fluotar 40X N.A.1.0\
+    \ oil (color camera: DFC 320 R2, pixel dimension: 0.1725 microns). Before acquisition,\
+    \ a white-balance as well as a shading correction is performed according to Leica\
+    \ LAS software wizard. The fluorescence and DAB images were converted in ome.tiff\
+    \ multiresolution file with the kheops Fiji Plugin.\n\nSampled prepared in the EPFL\
+    \ histology core facility by Nathalie M&uuml;ller and Gian-Filippo Mancini.\n\n\
+    Associated documents:\n\n\n\thttps://c4science.ch/w/bioimaging_and_optics_platform_biop/teaching/dab-intensity/\n\
+    \thttps://imagej.net/plugins/bdv/warpy/warpy\n\n\nThis document contains a full\
+    \ QuPath project with an example of registered image.\n\n&nbsp;"
+  license: cc-by-4.0
+  name: Test Dataset for Whole Slide Image Registration
+  num_downloads: 1001
+  publication_date: '2021-04-12'
+  url:
+  - https://zenodo.org/records/5675686
+  - https://doi.org/10.5281/zenodo.5675686
+
     - test_gray.czi: a synthetically generated CZI file without metadata, made by Sebastian
     Rhode
   
