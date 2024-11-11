@@ -6108,3 +6108,23 @@ resources:
 
 
   
+
+- authors: Wetzker, Cornelia
+  description: 'The poster introduces the consortium NFDI4BIOIMAGE with its central
+    objectives, provides an overview of challenges in bioimage data handling, sharing
+    and analysis and lists support options by the consortium through its data stewardship
+    team.
+  
+    It is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche
+    Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659) and
+    has been presented at the conference FDM@Campus held in G&ouml;ttingen September
+    23-25, 2024.'
+  license: cc-by-4.0
+  name: 'New Kid on the (NFDI) Block: NFDI4BIOIMAGE  - A National Initiative for FAIR
+    Data Management in Bioimaging and Bioimage Analysis'
+  num_downloads: 18
+  publication_date: '2024-10-29'
+  url:
+  - https://zenodo.org/records/14006558
+  - https://doi.org/10.5281/zenodo.14006558
+  
