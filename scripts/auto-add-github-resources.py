@@ -3,7 +3,7 @@ import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
 from github import Github, GithubException  
-from datetime import datetime  # Import datetime for added_date
+from datetime import datetime
 
 def main():
     """
