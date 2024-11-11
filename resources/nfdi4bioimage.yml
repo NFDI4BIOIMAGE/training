@@ -5974,7 +5974,6 @@ resources:
   - Workflow
   url: https://datacarpentry.org/image-processing/key-points.html
   
-
 - authors: Nicolas Chiaruttini
   description: 'A set of public CZI files. These can be used for testing CZI readers.
   
@@ -6004,4 +6003,25 @@ resources:
   url:
   - https://zenodo.org/records/8305531
   - https://doi.org/10.5281/zenodo.8305531
+
+
+- authors: Sarah Machado, Vincent Mercier, Nicolas Chiaruttini
+  description: "Image datasets from the&nbsp;publication :&nbsp;LimeSeg: A coarse-grained\
+    \ lipid membrane simulation for 3D image segmentation\n\n\n\tVesicles.tif: spinning-disc\
+    \ confocal images of giant unilamellar vesicles\n\tHelaCell-FIBSEM.tif:&nbsp;a 3D\
+    \ Electron&nbsp;Microscopy (EM)&nbsp;dataset of nearly isotropic sections of a Hela\
+    \ cell, acquired with a focused ion beam scanning electron microscope (FIB-SEM).\
+    \ Sections are aligned with TrackEm2 (doi: ), without additional preprocessing.\n\
+    \tDrosophilaEggChamber.tif: point scanning confocal images of a Drosophila egg chamber.\
+    \ Channel&nbsp;1: cell nuclei &nbsp;stained with DAPI. Channel 2:&nbsp;cell membranes\
+    \ visualized with fused membrane proteins Nrg::GFP and Bsg::GFP.&nbsp;\n\n\nImage\
+    \ metadata contains extra information including voxel sizes.\n\n&nbsp;"
+  license: cc-by-4.0
+  name: LimeSeg Test Datasets
+  num_downloads: 174
+  publication_date: '2018-10-27'
+  url:
+  - https://zenodo.org/records/1472859
+  - https://doi.org/10.5281/zenodo.1472859
+
   
