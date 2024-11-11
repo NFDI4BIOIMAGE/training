@@ -5686,6 +5686,7 @@ resources:
   url:
   - https://zenodo.org/records/14044640
   - https://doi.org/10.5281/zenodo.14044640
+  - https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/
 
   
 - authors: Bruna Piereck, Alexander Botzki
