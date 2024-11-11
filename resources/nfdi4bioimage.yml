@@ -6108,3 +6108,120 @@ resources:
 
 
   
+
+- authors: Alessandro Rigano, Ulrike Boehm, Claire M. Brown, Joel Ryan, James J. Chambers,
+    Robert A. Coleman, Orestis Faklaris, Thomas Guilbert, Michelle S. Itano, Judith
+    Lacoste, Alex Laude, Marco Marcello, Paula Montero-Llopis, Glyn Nelson, Roland Nitschke,
+    Jaime A. Pimentel, Stefanie Weidtkamp-Peters, Caterina Strambio-De-Castillia
+  description: "Example Microscopy Metadata (Microscope.JSON and Settings.JSON) files\
+    \ produced using Micro-Meta App to document the Hardware Specifications of example\
+    \ Microscopes and the Image Acquisition Settings utilized to acquire example images\
+    \ as listed in the table below.\n\n\nFor each facility, the dataset contains two\
+    \ JSON files:\n\n\n\tMicroscope.JSON file (e.g., 01_marcello_uliverpool_cci_zeiss_axioobserz1_lsm710.json)\n\
+    \tSettings.JSON file (indicated with the name of the image and with the _AS suffix)\n\
+    \n\n\nMicro-Meta App was developed as part of a global community initiative including\
+    \ the 4D Nucleome (4DN) Imaging Working Group, BioImaging North America (BINA) Quality\
+    \ Control and Data Management Working Group, and QUAlity and REProducibility for\
+    \ Instrument and Images in Light Microscopy (QUAREP-LiMi), to extend the Open Microscopy\
+    \ Environment (OME) data model.\n\n\nThe works of this global community effort resulted\
+    \ in multiple publications featured on a recent Nature Methods FOCUS ISSUE dedicated\
+    \ to Reporting and reproducibility in microscopy.\n\n\n\nLearn More! For a thorough\
+    \ description of Micro-Meta App consult our recent Nature Methods and BioRxiv.org\
+    \ publications!\n\n\n&nbsp;\n\n\n\t\n\t\t\n\t\t\tNr.\n\t\t\tManufacturer\n\t\t\t\
+    Model\n\t\t\tTier\n\t\t\t&Epsilon;xperiment Type\n\t\t\tFacility Name\n\t\t\tDepartment\
+    \ and Institution\n\t\t\tURL\n\t\t\tReferences\n\t\t\n\t\t\n\t\t\t1\n\t\t\tCarl\
+    \ Zeiss Microscopy\n\t\t\tAxio Observer Z1 (with LSM 710 scan head)\n\t\t\t1\n\t\
+    \t\t3D visualization of superhydrophobic polymer-nanoparticles\n\t\t\tCentre for\
+    \ Cell Imaging (CCI)\n\t\t\tUniversity of Liverpool\n\t\t\thttps://cci.liv.ac.uk/equipment_710.html\n\
+    \t\t\tUpton et al., 2020\n\t\t\n\t\t\n\t\t\t2\n\t\t\tCarl Zeiss Microscopy\n\t\t\
+    \tAxio Observer (Axiovert 200M)\n\t\t\t2\n\t\t\t&Mu;easurement of illumination stability\
+    \ on Chinese Hamster Ovary cells expressing Paxillin-EGFP\n\t\t\tAdvanced BioImaging\
+    \ Facility (ABIF).\n\t\t\tMcGill University\n\t\t\thttps://www.mcgill.ca/abif/equipment/axiovert-1\n\
+    \t\t\tKiepas et al., 2020\n\t\t\n\t\t\n\t\t\t3\n\t\t\tCarl Zeiss Microscopy\n\t\t\
+    \tAxio Observer Z1 (with Spinning Disk)\n\t\t\t2\n\t\t\tImmunofluorescence imaging\
+    \ of cryosection of Mouse kidney\n\t\t\tImagerie Cellulaire; Quality Control managed\
+    \ by Miacellavie (https://miacellavie.com/)\n\t\t\tCentre de recherche du Centre\
+    \ Hospitalier Universit&eacute; de Montr&eacute;al (CR CHUM), University of Montreal\n\
+    \t\t\thttps://www.chumontreal.qc.ca/crchum/plateformes-et-services&nbsp; (the web\
+    \ site is for all core facilities, not specifically for the core facility hosting\
+    \ this microscope)\n\t\t\tPilliod et al., 2020\n\t\t\n\t\t\n\t\t\t4\n\t\t\tCarl\
+    \ Zeiss Microscopy\n\t\t\tAxio Imager Z2 (with Apotome)\n\t\t\t2\n\t\t\tImmunofluorescence\
+    \ imaging of mitotic division in Hela cells using&nbsp;&nbsp;\n\t\t\tBioimaging\
+    \ Unit\n\t\t\tNewcastle University\n\t\t\thttps://www.ncl.ac.uk/bioimaging/\n\t\t\
+    \tWatson et al., 2020\n\t\t\n\t\t\n\t\t\t5\n\t\t\tCarl Zeiss Microscopy\n\t\t\t\
+    Axio Observer Z1\n\t\t\t2\n\t\t\tFluorescence microscopy of human skin fibroblasts\
+    \ from Glycogen Storage Disease patients.\n\t\t\tLife Imaging Center (LIC)\n\t\t\
+    \tCentre for Integrative Signalling Analysis (CISA), University of Freiburg\n\t\t\
+    \thttps://miap.eu/equipments/sd-i-abl/\n\t\t\tHannibal et al., 2020\n\t\t\n\t\t\n\
+    \t\t\t6\n\t\t\tLeica Microsystems\n\t\t\tDMI6000B\n\t\t\t2\n\t\t\t3D immunofluorescence\
+    \ imaging&nbsp; rhinovirus infected macrophages&nbsp;\n\t\t\tIMAG&#39;IC Confocal\
+    \ Microscopy Facility\n\t\t\tInstitut Cochin, CNRS, INSERM, Universit&eacute; de\
+    \ Paris\n\t\t\thttps://www.institutcochin.fr/core_facilities/confocal-microscopy/cochin-imaging-photonic-microscopy/organigram_team/10054/view\n\
+    \t\t\tJubrail et al., 2020\n\t\t\n\t\t\n\t\t\t7\n\t\t\tLeica Microsystems\n\t\t\t\
+    DM5500B\n\t\t\t2\n\t\t\tImmunofluorescence analysis of the colocalization of PML\
+    \ bodies with DNA double-strand breaks\n\t\t\tBioimaging Unit\n\t\t\tEdwardson Building\
+    \ on the Campus for Ageing and Vitality, Newcastle University\n\t\t\thttps://www.ncl.ac.uk/bioimaging/equipment/leica-dm5500/#overview\n\
+    \t\t\tda Silva et al., 2019; Nelson et al., 2012\n\t\t\t&nbsp;&nbsp;\n\t\t\n\t\t\
+    \n\t\t\t8\n\t\t\tLeica Microsystems\n\t\t\tDMI8-CS (with TCS SP8 STED 3X)\n\t\t\t\
+    2\n\t\t\tLive-cell imaging of N. benthamiana leaves cells-derived protoplasts\n\t\
+    \t\tCenter for Advanced Imaging (CAi)\n\t\t\tSchool of Mathematics/Natural Sciences,\
+    \ Heinrich-Heine-Universit&auml;t D&uuml;sseldorf\n\t\t\thttps://www.cai.hhu.de/en/equipment/super-resolution-microscopy/leica-tcs-sp8-sted-3x\n\
+    \t\t\tSinger et al., 2017; H&auml;nsch et al., 2020\n\t\t\n\t\t\n\t\t\t9\n\t\t\t\
+    Nikon Instruments\n\t\t\tEclipse Ti\n\t\t\t2\n\t\t\tImmunofluorescence analysis\
+    \ of the cytoskeleton structure in COS cells\n\t\t\tAdvanced Imaging Center (AIC)\n\
+    \t\t\tJanelia Research Campus, Howard Hughes Medical Institute\n\t\t\thttps://www.janelia.org/support-team/light-microscopy/equipment\n\
+    \t\t\tAbdelfattah et al., 2019; Qian et al., 2019; Grimm et al., 2020\n\t\t\n\t\t\
+    \n\t\t\t10\n\t\t\tNikon Instruments\n\t\t\tEclipse Ti-E (HCA)\n\t\t\t2\n\t\t\t&Tau;ime-lapse\
+    \ analysis of the bursting behavior of amine-functionalized vesicular assemblies\n\
+    \t\t\tLight Microscopy Facility (IALS-LIF)\n\t\t\tInstitute for Applied Life Sciences,\
+    \ University of Massachusetts at Amherst\n\t\t\thttps://www.umass.edu/ials/light-microscopy\n\
+    \t\t\tFernandez et al., 2020\n\t\t\n\t\t\n\t\t\t11\n\t\t\tNikon Instruments/Coleman\
+    \ laboratory (customized)\n\t\t\tTIRF HILO Epifluorescence light Microscope (THEM)/\
+    \ Eclipse Ti\n\t\t\t2\n\t\t\tSingle-particle tracking of Halo-tagged PCNA in Lox\
+    \ cells\n\t\t\tColeman laboratory\n\t\t\tAnatomy and Structural Biology Department,\
+    \ The Albert Einstein College of Medicine\n\t\t\thttps://einsteinmed.org/faculty/12252/robert-coleman/\n\
+    \t\t\tDrosopoulos et al., 2020\n\t\t\n\t\t\n\t\t\t12\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti (with Andor Dragon Fly Spinning Disk)\n\t\t\t2\n\t\t\tInvestigation\
+    \ of the 3D structure of cerebral organoids\n\t\t\tMontpellier Resources Imagerie\n\
+    \t\t\tCentre de Recherche de Biologie cellulaire de Montpellier (MRI-CRBM), CNRS,\
+    \ Univerity of Montpellier\n\t\t\thttps://www.mri.cnrs.fr/en/optical-imaging/our-facilities/mri-crbm.html\n\
+    \t\t\tAyala-Nunez et al., 2019\n\t\t\n\t\t\n\t\t\t13\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti2\n\t\t\t2\n\t\t\t&Iota;mmunofluorescence imaging of cryosections\
+    \ of mouse hearth myocardium&nbsp;\n\t\t\tNeuroscience Center Microscopy Core\n\t\
+    \t\tNeuroscience Center, University of North Carolina\n\t\t\thttps://www.med.unc.edu/neuroscience/core-facilities/neuro-microscopy/\n\
+    \t\t\tAghajanian et al., 2021\n\t\t\n\t\t\n\t\t\t14\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti2\n\t\t\t2\n\t\t\tLive-cell imaging of bacterial cells expressing\
+    \ GFP-PopZ\n\t\t\tMicroscopy Resources on the North Quad (MicRoN)\n\t\t\tHarvard\
+    \ Medical School&nbsp;\n\t\t\thttps://micron.hms.harvard.edu/\n\t\t\tLim and Bernhardt\
+    \ 2019; Lim et al., 2019\n\t\t\n\t\t\n\t\t\t15\n\t\t\tOlympus/Biomedical Imaging\
+    \ Group (customized)\n\t\t\tTIRF Epifluorescence Structured light Microscope (TESM)/IX71\n\
+    \t\t\t3\n\t\t\t3D distribution of HIV-1 in the nucleus of human cells\n\t\t\tBiomedical\
+    \ Imaging Group\n\t\t\tProgram in Molecular Medicine, University of Massachusetts\
+    \ Medical School\n\t\t\thttps://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope\n\
+    \t\t\tNavaroli et al., 2012\n\t\t\n\t\t\n\t\t\t16\n\t\t\tOlympus/Computer Vision\
+    \ Laboratory (customized)\n\t\t\t3D BrightField Scanner/IX71\n\t\t\t3\n\t\t\tTransmitted\
+    \ light brightfield visualization of swimming spermatocytes\n\t\t\tLaboratorio Nacional\
+    \ de Microscopia Avanzada (LNMA) and Computer Vision Laboratory of the Institute\
+    \ of Biotechnology\n\t\t\tUniversidad Nacional Autonoma de Mexico (UNAM)\n\t\t\t\
+    https://lnma.unam.mx/wp/\n\t\t\tPimentel et al., 2012; Silva-Villalobos et al.,\
+    \ 2014\n\t\t\n\t\n\n\nGetting started\n\nUse these videos to get started with using\
+    \ Micro-Meta App after installation into OMERO and downloading the example data\
+    \ files:\n\n\n\tVideo 1\n\tVideo 2\n\n\nMore information\n\n\nFor full information\
+    \ on how to use Micro-Meta App please utilize the following resources:\n\n\n\tMicro-Meta\
+    \ App website\n\tFull documentation\n\tInstallation instructions\n\tStep-by-Step\
+    \ Instructions\n\tTutorial Videos\n\n\n\nBackground\n\nIf you want to learn more\
+    \ about the importance of metadata and quality control to ensure full reproducibility,\
+    \ quality and scientific value in light microscopy, please take a look at our recent\
+    \ publications describing the development of community-driven light 4DN-BINA-OME\
+    \ Microscopy Metadata specifications Nature Methods and BioRxiv.org and our overview\
+    \ manuscript entitled A perspective on Microscopy Metadata: data provenance and\
+    \ quality control.\n\n&nbsp;\n\n&nbsp;"
+  license: cc-by-4.0
+  name: Example Microscopy Metadata JSON files produced using Micro-Meta App to document
+    example microscopy experiments performed at individual core facilities
+  num_downloads: 1053
+  publication_date: '2022-01-15'
+  url:
+  - https://zenodo.org/records/5847477
+  - https://doi.org/10.5281/zenodo.5847477
+  
