@@ -6108,3 +6108,30 @@ resources:
 
 
   
+
+- authors: "Heber, Maximilian, Jakob, Moritz, Landwehr, Matthias, Leendertse, Jan, M\xFC\
+    ller, Maximilian, Schneider, Gabriel, von Suchodoletz, Dirk, Ulrich, Robert"
+  description: "Im Zuge der stetig wachsenden Brisanz des Forschungsdatenmanagements\
+    \ fallen immer gr&ouml;&szlig;ere Mengen an Forschungsdaten an. Diese an sich begr&uuml;&szlig;enswerte\
+    \ Entwicklung f&uuml;hrt zu technischen und organisatorischen Herausforderungen\
+    \ nicht nur im Bereich der Speicherung von Forschungsdaten, sondern in allen Phasen\
+    \ des Forschungsdatenlebenszyklus. Der vorliegende Beitrag erl&auml;utert vor diesem\
+    \ Hintergrund m&ouml;gliche Motivationen hinter digitaler Datensparsamkeit mit Blick\
+    \ auf organisatorische, technische und ethische Kriterien, Datenschutz und Nachhaltigkeit.\
+    \ Anschlie&szlig;end werden vor dem Hintergrund zentraler Herausforderungen Umsetzungsvorschl&auml;ge\
+    \ f&uuml;r das Vorfeld sowie den Verlauf eines Forschungsvorhabens gemacht. Zudem\
+    \ werden grundlegende Empfehlungen zur digitalen Datensparsamkeit ausgesprochen.\n\
+    Eine k&uuml;rzere Ausgabe des Leitfadens ist im Mai 2024 in der Zeitschrift o |\
+    \ bib erschienen: https://doi.org/10.5282/o-bib/6036 \nDiese Ausgabe enth&auml;lt\
+    \ ein zus&auml;tzliches Kapitel (4.2) mit konkreten Praxisbeispielen.\nDieser Artikel\
+    \ wurde ins Englische &uuml;bersetzt:\nHeber, M., Jakob, M., Landwehr, M., Leendertse,\
+    \ J., M&uuml;ller, M., Schneider, G., von Suchodoletz, D., &amp; Ulrich, R. (2024).\
+    \ A Users' Guide to Economical Digital Data Usage. Zenodo. https://doi.org/10.5281/zenodo.13752220"
+  license: cc-by-4.0
+  name: Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
+  num_downloads: 255
+  publication_date: '2024-06-03'
+  url:
+  - https://zenodo.org/records/11445843
+  - https://doi.org/10.5281/zenodo.11445843
+  
