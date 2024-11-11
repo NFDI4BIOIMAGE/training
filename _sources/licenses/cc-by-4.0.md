@@ -1,4 +1,4 @@
-# Cc-by-4.0 (158)
+# Cc-by-4.0 (159)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1566,6 +1566,35 @@ Tags: Research Data Management, FAIR-Principles
 Content type: Publication
 
 [https://www.o-bib.de/bib/article/view/2018H2S1-13](https://www.o-bib.de/bib/article/view/2018H2S1-13)
+
+
+---
+
+## LimeSeg Test Datasets
+
+Sarah Machado, Vincent Mercier, Nicolas Chiaruttini
+
+Published 2018-10-27
+
+Licensed CC-BY-4.0
+
+
+
+Image datasets from the&nbsp;publication :&nbsp;LimeSeg: A coarse-grained lipid membrane simulation for 3D image segmentation
+
+
+	Vesicles.tif: spinning-disc confocal images of giant unilamellar vesicles
+	HelaCell-FIBSEM.tif:&nbsp;a 3D Electron&nbsp;Microscopy (EM)&nbsp;dataset of nearly isotropic sections of a Hela cell, acquired with a focused ion beam scanning electron microscope (FIB-SEM). Sections are aligned with TrackEm2 (doi: ), without additional preprocessing.
+	DrosophilaEggChamber.tif: point scanning confocal images of a Drosophila egg chamber. Channel&nbsp;1: cell nuclei &nbsp;stained with DAPI. Channel 2:&nbsp;cell membranes visualized with fused membrane proteins Nrg::GFP and Bsg::GFP.&nbsp;
+
+
+Image metadata contains extra information including voxel sizes.
+
+&nbsp;
+
+[https://zenodo.org/records/1472859](https://zenodo.org/records/1472859)
+
+[https://doi.org/10.5281/zenodo.1472859](https://doi.org/10.5281/zenodo.1472859)
 
 
 ---
