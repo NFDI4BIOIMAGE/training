@@ -424,6 +424,8 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 
 [https://doi.org/10.5281/zenodo.14044640](https://doi.org/10.5281/zenodo.14044640)
 
+[https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/](https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/)
+
 
 ---
 
