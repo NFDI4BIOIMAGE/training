@@ -6108,3 +6108,16 @@ resources:
 
 
   
+
+- authors: Wetzker, Cornelia, Schlierf, Michael
+  description: The poster is part of the work of the German consortium NFDI4BIOIMAGE
+    funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project
+    number 501864659).
+  license: cc-by-4.0
+  name: RESEARCH DATA MANAGEMENT on Campus and in NFDI4BIOIMAGE
+  num_downloads: 26
+  publication_date: '2024-08-29'
+  url:
+  - https://zenodo.org/records/13684187
+  - https://doi.org/10.5281/zenodo.13684187
+  
