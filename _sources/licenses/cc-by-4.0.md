@@ -1,4 +1,4 @@
-# Cc-by-4.0 (160)
+# Cc-by-4.0 (161)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1039,6 +1039,31 @@ Content type: Collection, Tutorial
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 [https://doi.org/10.5281/zenodo.11473803](https://doi.org/10.5281/zenodo.11473803)
+
+
+---
+
+## Evident OIR sample files tiles + stitched image - FV 4000
+
+Nicolas Chiaruttini
+
+Published 2024-09-04
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are confocal images taken with the Evident FV 4000 of a sample containing DAPI and mCherry stains, excited with a 405 nm laser and a 561 nm laser
+
+individual tiles are named `tiling-sample-brain-section_A01_G001_{i}.oir`
+The stiched image is named `Stitch_A01_G001` and contains an extra file `Stitch_A01_G001_00001`
+Some metadata like the tiles positions are stored in the extra files (omp2info)
+
+&nbsp;
+
+[https://zenodo.org/records/13680725](https://zenodo.org/records/13680725)
+
+[https://doi.org/10.5281/zenodo.13680725](https://doi.org/10.5281/zenodo.13680725)
 
 
 ---
