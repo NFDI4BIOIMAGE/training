@@ -6108,3 +6108,16 @@ resources:
 
 
   
+
+- added_date: '2024-11-12T10:17:25.985725'
+  authors: Wendt Jens
+  description: Short presentation given at at PoL BioImage Analysis Symposium Dresden
+    2023
+  license: cc-by-4.0
+  name: Metadata Annotation Workflow for OMERO with Tabbles
+  num_downloads: 131
+  publication_date: '2023-09-04'
+  url:
+  - https://zenodo.org/records/8314968
+  - https://doi.org/10.5281/zenodo.8314968
+  
