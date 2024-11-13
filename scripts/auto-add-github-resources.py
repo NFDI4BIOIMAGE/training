@@ -3,6 +3,7 @@ import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
 from github import Github, GithubException  
+from datetime import datetime
 
 def main():
     """
@@ -119,6 +120,8 @@ def complete_github_data(github_repo_url):
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
+
+    entry['added_date'] = datetime.now().isoformat()
 
     # Tags: always add the message "Dear users, please add tags."
     entry['tags'] = "TODO"
