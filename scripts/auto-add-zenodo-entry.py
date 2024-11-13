@@ -100,7 +100,6 @@ def complete_zenodo_data(zenodo_url):
     if 'stats'  in zenodo_data.keys():
         entry['num_downloads'] = zenodo_data['stats']['downloads']
     
-    # Add current time as "added_date"
     entry['added_date'] = datetime.now().isoformat()
 
     return entry
