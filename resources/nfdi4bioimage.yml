@@ -6297,6 +6297,25 @@ resources:
   url:
   - https://zenodo.org/records/5847477
   - https://doi.org/10.5281/zenodo.5847477
+
+- authors: "Ahmadi, Mohsen, Wagner, Robert, Mattern, Philipp, Plathe, Nick, Bekeschus,\
+    \ Sander, Becker, Markus M., St\xF6ter, Torsten, Weidtkamp-Peters, Stefanie"
+  description: A more detailed understanding of the effect of plasmas on biological
+    systems can be fostered by combining data from different imaging modalities, such
+    as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however,
+    requires the implementation and use of sophisticated research data management (RDM)
+    solutions to incorporate the influence of plasma parameters and treatment procedures
+    as well as the effects of plasma on the treated targets. In order to address this,
+    RDM activities on different levels and from different perspectives are started and
+    brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
+  license: cc-by-4.0
+  name: Data stewardship and research data management tools for multimodal linking of
+    imaging data in plasma medicine
+  num_downloads: 68
+  publication_date: '2023-11-03'
+  url:
+  - https://zenodo.org/records/10069368
+  - https://doi.org/10.5281/zenodo.10069368
   
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
@@ -6847,3 +6866,4 @@ resources:
   url:
   - https://zenodo.org/records/7890311
   - https://doi.org/10.5281/zenodo.7890311
+
