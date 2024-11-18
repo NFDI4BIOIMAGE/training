@@ -30,8 +30,7 @@ def main():
     repository = sys.argv[1]
 
     token = os.getenv('ZENODO_API_KEY')
-    communities = ['nfdi4bioimage']
-
+    communities = ['nfdi4bioimage', 'gerbi', 'euro-bioimaging', 'neubias', 'bio-formats']
 
     yml_filename = "resources/nfdi4bioimage.yml"
 
@@ -39,8 +38,10 @@ def main():
     branch = create_branch(repository)
     print("New branch:", branch)
     log = []
-
+    new_data = []
     for community in communities:
+        log.append(f"# {community}")
+        log.append(f"https://zenodo.org/communities/{community}")
         # new data
         response = requests.get('https://zenodo.org/api/records',
                                 params={'communities': community,
@@ -54,7 +55,7 @@ def main():
         all_urls = str(df["url"].tolist())
 
         # compare which new is not in old
-        new_data = []
+
         for url in urls:
             print(url)
             data = complete_zenodo_data(url)
@@ -73,20 +74,23 @@ def main():
                 log.append(f"* [{name}]({url})")
                 new_data.append(data)
 
-        import yaml
-        zenodo_yml = yaml.dump(new_data) #.replace("\n", "\n  ")
-        print(zenodo_yml)
+                # deal with entries listed in multiple communities
+                all_urls = all_urls + "\n" + "\n".join([u for u in data["url"]])
 
-        # save data in repository
-        file_content = get_file_in_repository(repository, branch, yml_filename).decoded_content.decode()
-        print("yml file content length:", len(file_content))
+    import yaml
+    zenodo_yml = yaml.dump(new_data) #.replace("\n", "\n  ")
+    #print(zenodo_yml)
 
-        # add entry
-        file_content += zenodo_yml
-        print("zenodo_yml", len(zenodo_yml))
+    # save data in repository
+    file_content = get_file_in_repository(repository, branch, yml_filename).decoded_content.decode()
+    print("yml file content length:", len(file_content))
 
-        # save back to github
-        write_file(repository, branch, yml_filename, file_content, "Add entries from " + community)
+    # add entry
+    file_content += zenodo_yml
+    #print("zenodo_yml", len(zenodo_yml))
+
+    # save back to github
+    write_file(repository, branch, yml_filename, file_content, "Add entries from " + ", ".join(communities))
 
     log = "\n".join(log)
     res = send_pull_request(repository, branch, "Add content from communities: " + ", ".join(communities), f"Added contents:\n{log}")
