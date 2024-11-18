@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (6)
+# Michele bortolomeazzi (7)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -93,6 +93,25 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
 
 
 ---

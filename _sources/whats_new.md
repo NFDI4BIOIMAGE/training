@@ -1,140 +1,203 @@
 # Recently added (10)
-## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
+## Axioscan 7 fluorescent channels not displaying in QuPath
 
-Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
+j
 
-Published 2024-03-27
-
-Licensed CC-BY-4.0
+Published 2024-06-25
 
 
 
-The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
+Hi&nbsp;@ome team,Please find the .czi file attached. When loaded into QuPath using BioFormats, the fluorescence channels populate the brightness/contrast panel but do not show up in the viewer. Re-exporting as OME.Tiff from Zen and loading into QuPath does not help either - the channels do not populate the brightness/contrast panel in this case, and it shows as a RGB image.Please let me know if any further info is needed from me to troubleshoot!
+Best,J
 
-[https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
+[https://zenodo.org/records/12533989](https://zenodo.org/records/12533989)
 
-[https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
+[https://doi.org/10.5281/zenodo.12533989](https://doi.org/10.5281/zenodo.12533989)
 
 
 ---
 
-## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
+## Cellpose model for Digital Phase Contrast images
 
-Riccardo Massei
+Laura Capolupo, Olivier Burri, Romain Guiet
 
-Published 2024-03-07
+Published 2022-02-09
 
 Licensed CC-BY-4.0
 
 
 
-Results of the project "Conversion of KNIME image analysis workflows to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01 Mar 2024)
+Name: Cellpose model for Digital Phase Contrast images
+
+Data type: Cellpose model, trained via transfer learning from &lsquo;cyto&rsquo; model.
+
+Training Dataset: Light microscopy (Digital Phase Contrast) and Manual annotations (10.5281/zenodo.5996883)
+
+Training Procedure: Model was trained using a&nbsp;Cellpose version 0.6.5 with GPU support (NVIDIA GeForce RTX 2080) using default settings as per the Cellpose documentation&nbsp;
+
+python -m cellpose --train --dir TRAINING/DATASET/PATH/train --test_dir TRAINING/DATASET/PATH/test --pretrained_model cyto --chan 0 --chan2 0
+
+The model file (MODEL NAME) in this repository is the result of this training.
+
+Prediction Procedure: Using this model, a label image can be obtained from new unseen images in a given folder with
+
+python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
+
+[https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
+
+[https://doi.org/10.5281/zenodo.6023317](https://doi.org/10.5281/zenodo.6023317)
+
+
+---
+
+## Deconvolution Test Dataset
+
+Romain Guiet
+
+Published 2021-07-14
+
+Licensed CC-BY-4.0
+
+
+
+This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acquired on confocal Zeiss LSM710, which contains
+
+- Ph488.czi (contains all raw metadata)
+
+- Raw_large.tif ( is the tif version of Ph488.czi, provided for conveninence as&nbsp;tif doesn&#39;t need Bio-Formats&nbsp;to be open in Fiji&nbsp;)
+
+- Raw.tif , is a crop of the large image
+
+-&nbsp;PSFHuygens_confocal_Theopsf.tif , is a theoretical PSF generated with HuygensPro
+
+-&nbsp;PSFgen_WF_WBpsf.tif&nbsp; , is a theoretical PSF generated with PSF generator
+
+- PSFgen_WFsquare_WBpsf.tif, is the result of&nbsp;the&nbsp;square operation on PSFgen_WF_WBpsf.tif , to approximate a confocal PSF
+
+[https://zenodo.org/records/5101351](https://zenodo.org/records/5101351)
+
+[https://doi.org/10.5281/zenodo.5101351](https://doi.org/10.5281/zenodo.5101351)
+
+
+---
+
+## Digital Phase Contrast on Primary Dermal Human Fibroblasts cells
+
+Laura Capolupo
+
+Published 2022-02-09
+
+Licensed CC-BY-4.0
+
+
+
+Name: Digital Phase Contrast on Primary Dermal Human Fibroblasts cells&nbsp;
+
+Data type: Paired microscopy images (Digital Phase Contrast, square rooted) and corresponding labels/masks used for cellpose training (the corresponding Brightfield images are also present), organized as recommended by cellpose documentation.
+
+Microscopy data type: Light microscopy (Digital Phase Contrast and Brighfield )
+
+Manual annotations: Labels/masks obtained via manual segmentation.&nbsp;For each region, all cells were annotated manually. Uncertain objects (Dust, fused cells) were left unannotated, so that the cellpose model (10.5281/zenodo.6023317) may mimic the same user bias during prediction. This was particularly necessary due to the accumulation of floating debris in the center of the well.
+
+Microscope: Perkin Elmer Operetta microscope with a 10x 0.35 NA objective
+
+Cell type: Primary Dermal Human Fibroblasts cells
+
+File format: .tif (16-bit for DPC and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 634 nm)
+
+NOTE : This dataset was used to train cellpose model ( 10.5281/zenodo.6023317 )
+
 &nbsp;
 
-[https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
+[https://zenodo.org/records/5996883](https://zenodo.org/records/5996883)
 
-[https://doi.org/10.5281/zenodo.10793700](https://doi.org/10.5281/zenodo.10793700)
+[https://doi.org/10.5281/zenodo.5996883](https://doi.org/10.5281/zenodo.5996883)
 
 
 ---
 
-## LEO: Linking ELN with OMERO
+## Evident OIR sample files with lambda scan - FV 4000
 
-Escobar Diaz Guerrero, Rodrigo
+Nicolas Chiaruttini
 
-Published 2024-05-08
+Published 2024-07-18
 
 Licensed CC-BY-4.0
 
 
 
-First updates of LEO (Linking ELN with OMERO)
+The files contained in this repository are confocal images taken with the Evident FV 4000 of a sample containing DAPI and mCherry stains, excited with the 405 nm laser and images for different emission windows (lambda scan).
+They are public sample files which goal is to help test edge cases of the bio-formats library (https://www.openmicroscopy.org/bio-formats/), in particular for the proper handling of lambda scans.
 
-[https://zenodo.org/records/11146807](https://zenodo.org/records/11146807)
+DAPI_mCherry_22Lambda-420-630-w10nm-s10nm.oir : 22 planes, each plane is an emission window, starting from 420 nm up to 630 nm by steps of 10 nm
+DAPI_mCherry_4T_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 timepoints
+DAPI_mCherry_4Z_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices
+DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices, 3 timepoints
 
-[https://doi.org/10.5281/zenodo.11146807](https://doi.org/10.5281/zenodo.11146807)
+
+[https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
+
+[https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
 
 
 ---
 
-## Linked (Open) Data for Microbial Population Biology
+## HeLa "Kyoto" cells under the scope
 
-Carsten Fortmann-Grote
+Romain Guiet
 
-Published 2024-03-12
+Published 2022-02-25
 
 Licensed CC-BY-4.0
 
 
 
-[https://zenodo.org/records/10808486](https://zenodo.org/records/10808486)
+Name: HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope
 
-[https://doi.org/10.5281/zenodo.10808486](https://doi.org/10.5281/zenodo.10808486)
+Microscope: Perkin Elmer Operetta microscope with a 20x N.A. 0.8 objective and an&nbsp;Andor Zyla 5.5 camera.
 
+Microscopy data type: The time-lapse datasets were acquired every 15 minutes, for 60 hours. From the individual plan images (channels, time-points, field of view exported by the PerkinElmer software Harmony) multi-dimension images were generated using the Operetta_Importer-0.1.21 &nbsp;with a downscaling of 4.&nbsp;
 
----
+Channel 1 : Low Contrast DPC (Digital Phase Contrast)
 
-## NFDI4BIOIMAGE
+Channel 2 : High Contrast DPC
 
-Carsten Fortmann-Grote
+Channel 3 : Brightfield
 
-Published 2024-04-22
+Channel 4 : EGFP-&alpha;-tubulin
 
-Licensed CC-BY-4.0
+Channel 5 : mCherry-H2B
 
+File format: .tif (16-bit)
 
+Image size: 540x540 (Pixel size: 0.299 nm), 5c, 1z , 240t
 
-This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
+&nbsp;
 
-[https://zenodo.org/records/11031747](https://zenodo.org/records/11031747)
+Cell type: HeLa &ldquo;Kyoto&rdquo; cells, expressing EGFP-&alpha;-tubulin and mCherry-H2B ( Schmitz&nbsp;et&nbsp;al,&nbsp;2010 )
 
-[https://doi.org/10.5281/zenodo.11031747](https://doi.org/10.5281/zenodo.11031747)
+Protocol: Cells were resuspended in Imaging media and were seeded in a microscopy grade 96 wells plate ( CellCarrier Ultra 96, Perkin Elmer). The day after seeding, and for 60 hours, images were acquired in 3 wells, in 25 different fields of view, every 15 minutes.
 
+Imaging media: DMEM red-phenol-free media (FluoroBrite&trade; DMEM, Gibco) complemented with Fetal Calf Serum and Glutamax.
 
----
+&nbsp;
 
-## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
+NOTE: This dataset was used to automatically generate label images in the following Zenodo entry:&nbsp; https://doi.org/10.5281/zenodo.6140064
 
-Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
+NOTE: This dataset was used to train the cellpose models in the following Zenodo entry: https://doi.org/10.5281/zenodo.6140111
 
-Published 2024-06-06
+[https://zenodo.org/records/6139958](https://zenodo.org/records/6139958)
 
-Licensed CC-BY-4.0
-
-
-
-Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
-
-[https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
-
-[https://doi.org/10.5281/zenodo.11501662](https://doi.org/10.5281/zenodo.11501662)
+[https://doi.org/10.5281/zenodo.6139958](https://doi.org/10.5281/zenodo.6139958)
 
 
 ---
 
-## Who you gonna call? - Data Stewards to the rescue
+## Human DAB staining Axioscan BF 20x
 
-Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
-
-Published 2024-03-01
-
-Licensed CC-BY-4.0
-
-
-
-The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
-
-[https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
-
-[https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
-
-
----
-
-## [ELMI 2024]  AI's Dirty Little Secret: Without
-FAIR Data, It's Just Fancy Math
-
-Josh Moore, Susanne Kunis
+Mario Garcia
 
 Published 2024-05-21
 
@@ -142,61 +205,102 @@ Licensed CC-BY-4.0
 
 
 
-Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+Human brain tissue with DAB immunostaining. Image acquired by BF microscopy in&nbsp; Zeiss Axioscan at 20x.&nbsp;
 
-[https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
+[https://zenodo.org/records/11234863](https://zenodo.org/records/11234863)
 
-[https://doi.org/10.5281/zenodo.11235513](https://doi.org/10.5281/zenodo.11235513)
+[https://doi.org/10.5281/zenodo.11234863](https://doi.org/10.5281/zenodo.11234863)
 
 
 ---
 
-## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
+## ICS/IDS stitched file
 
-Christian Schmidt
+IMCF
 
-Published 2024-04-10
+Published 2024-06-13
 
 Licensed CC-BY-4.0
 
 
 
-Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM &amp; ZB MED.
+Hi&nbsp;@ome&nbsp;team !
+We usually use ICS/IDS file formats as an output to our stitching pipeline as the reading and writing is pretty fast. However, it seems that since Bio-Formats 7.x opening the files is not working anymore.
+I tried with a Fiji with Bio-Formats 6.10.1 and the files open, but more recent versions give an issue.
+&nbsp;
+java.lang.NullPointerException
+	at loci.formats.in.ICSReader.initFile(ICSReader.java:1481)
+	at loci.formats.FormatReader.setId(FormatReader.java:1480)
+	at loci.plugins.in.ImportProcess.initializeFile(ImportProcess.java:498)
+	at loci.plugins.in.ImportProcess.execute(ImportProcess.java:141)
+	at loci.plugins.in.Importer.showDialogs(Importer.java:156)
+	at loci.plugins.in.Importer.run(Importer.java:77)
+	at loci.plugins.LociImporter.run(LociImporter.java:78)
+	at ij.IJ.runUserPlugIn(IJ.java:244)
+	at ij.IJ.runPlugIn(IJ.java:210)
+	at ij.Executer.runCommand(Executer.java:152)
+	at ij.Executer.run(Executer.java:70)
+	at ij.IJ.run(IJ.java:326)
+	at ij.IJ.run(IJ.java:337)
+	at ij.macro.Functions.doRun(Functions.java:703)
+	at ij.macro.Functions.doFunction(Functions.java:99)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:281)
+	at ij.macro.Interpreter.doStatements(Interpreter.java:267)
+	at ij.macro.Interpreter.run(Interpreter.java:163)
+	at ij.macro.Interpreter.run(Interpreter.java:93)
+	at ij.macro.MacroRunner.run(MacroRunner.java:146)
+	at java.lang.Thread.run(Thread.java:750)
 
-[https://zenodo.org/records/10939520](https://zenodo.org/records/10939520)
+You can find one example file at&nbsp;this link&nbsp;1.
+Thanks for your help !Best,Laurent
 
-[https://doi.org/10.5281/zenodo.10939520](https://doi.org/10.5281/zenodo.10939520)
+[https://zenodo.org/records/11637422](https://zenodo.org/records/11637422)
+
+[https://doi.org/10.5281/zenodo.11637422](https://doi.org/10.5281/zenodo.11637422)
 
 
 ---
 
-## [Workshop] Bioimage data management and analysis with OMERO
+## Ink in a dish
 
-Riccardo Massei, Michele Bortolomeazzi, Christian Schmidt
+Cavanagh
 
-Published 2024-05-13
+Published 2024-09-03
 
-Licensed CC-BY-4.0
+Licensed CC-ZERO
 
 
 
-Here we share the material used in a workshop held on May 13th, 2024, at the German Cancer Research Center in Heidelberg (on-premise)
-Description:Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
-In this workshop, participants learn how to use OMERO to organize their data and enrich the bioimage data with structured metadata annotations.We also focus on image analysis workflows in combination with OMERO based on the Fiji/ImageJ software and using Jupyter Notebooks. In the last part, we explore how OMERO can be used to create publication figures and prepare bioimage data for publication in a suitable repository such as the Bioimage Archive.
-Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
-Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
-Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
-Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with OMERO
-The target group for this workshopThis workshop is directed at researchers at all career levels who plan to or have started to use OMERO for their microscopy research data management.&nbsp;We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
-Prerequisites:Users should bring their laptops and have access to the internet through one of the following options:- eduroam- institutional WiFi- VPN connection to their institutional networks to access OMERO
-Who are the trainers?
-Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
-Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
-Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
+A test data set for troublshooting. no scientific meaning.
 
-[https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
+[https://zenodo.org/records/13642395](https://zenodo.org/records/13642395)
 
-[https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
+[https://doi.org/10.5281/zenodo.13642395](https://doi.org/10.5281/zenodo.13642395)
+
+
+---
+
+## LauLauThom/MaskFromRois-Fiji: Masks from ROIs plugins for Fiji - initial release
+
+Laurent Thomas, Pierre Trehin
+
+Published 2021-07-22
+
+Licensed MIT
+
+
+
+Fiji plugins for the creation of binary and semantic masks from ROIs in the RoiManager. Works with stacks too.
+
+Installation in Fiji: activate the Rois from masks update site in Fiji.
+
+See GitHub readme for the documentation.
+
+Latest tested with Fiji 2.1.0/ImageJ 1.53j
+
+[https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
+
+[https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
 
 
 ---

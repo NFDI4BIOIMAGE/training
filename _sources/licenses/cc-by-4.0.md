@@ -1,4 +1,4 @@
-# Cc-by-4.0 (183)
+# Cc-by-4.0 (228)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -18,6 +18,45 @@ Content type: Slides
 [https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
 [https://doi.org/10.5281/zenodo.4461261](https://doi.org/10.5281/zenodo.4461261)
+
+
+---
+
+## 3D Nuclei annotations and StarDist 3D model(s) (rat brain)
+
+Romain Guiet
+
+Published 2022-06-15
+
+Licensed CC-BY-4.0
+
+
+
+Name: 3D Nuclei annotations and StarDist3D model(s) (rat brain)
+
+Images:&nbsp;&nbsp;From a large tiling acquisition ( https://doi.org/10.5281/zenodo.6646128 ) individual Tile (xyz : 1024x1024x62) were downsampled and cropped (128x128x62). Four crops, from different tiles (./annotations_BIOP/images/) were manually annotated with ITK-SNAP (./annotations_BIOP/masks/)
+
+These four images, and their corresponding masks, were cropped into four quadrants (./crops_BIOP_v1/) in order to get 16 different images (64x64x62).
+
+Conda environment:&nbsp;A conda environment was created using the yml file &nbsp;stardist0.8_TF1.15.yml
+
+Training :&nbsp;Training was performed using the jupyter notebook 1-Training_notebook.ipynb.
+Three different trainings (with the same random seed, same anisotropy, patch size and grid) were performed and produced three different models (./models/)
+
+Validation images (from the random seed used) were exported to ease the visual inspection of the results(./val_rdm42/).
+
+Validation:&nbsp;&nbsp;To save metrics in a csv file and compare predictions to the annotations the jupyter notebook 2-QC_notebook.ipynb can be used on the validation folder.
+
+Large images: To test the model on larger images one can use Whole_ds441.tif (or Crop_ds441.tif )
+These images were obtained using the plugin BigSticher on the raw data ( https://doi.org/10.5281/zenodo.6646128 ), resaved as h5 and exported the downsample&nbsp;by 4 version.
+
+&nbsp;
+
+&nbsp;
+
+[https://zenodo.org/records/6645978](https://zenodo.org/records/6645978)
+
+[https://doi.org/10.5281/zenodo.6645978](https://doi.org/10.5281/zenodo.6645978)
 
 
 ---
@@ -121,6 +160,26 @@ In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges fo
 
 ---
 
+## Abdominal Imaging Window (AIW) for Intravital Imaging
+
+Michael Gerlach
+
+Published 2024-11-15
+
+Licensed CC-BY-4.0
+
+
+
+This upload features a simple model for the creation (Manufacturing/Prototyping) of an abdominal imaging window (AIW) for use in mice intravital microscopy.
+Manufacture in titanium for chronic implantation. Measures in mm.
+
+[https://zenodo.org/records/14168603](https://zenodo.org/records/14168603)
+
+[https://doi.org/10.5281/zenodo.14168603](https://doi.org/10.5281/zenodo.14168603)
+
+
+---
+
 ## Abstract - NFDI Basic Service for Data Management Plans
 
 Licensed CC-BY-4.0
@@ -159,6 +218,25 @@ Content type: Slides
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 [https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
+
+---
+
+## Artificial Blobs and Labels image
+
+Romain
+
+Published 2023-05-10
+
+Licensed CC-BY-4.0
+
+
+
+A groovy script to use in Fiji to generate artificial images and labels, with example images.
+
+[https://zenodo.org/records/7919117](https://zenodo.org/records/7919117)
+
+[https://doi.org/10.5281/zenodo.7919117](https://doi.org/10.5281/zenodo.7919117)
 
 
 ---
@@ -454,6 +532,67 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 
 ---
 
+## Building a FAIR image data ecosystem for microscopy communities
+
+Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, El Ghadraoui, Ayoub, Eriksson, John E., Aastha Mathur
+
+Published 2023-03-31
+
+Licensed CC-BY-4.0
+
+
+
+Bioimaging has now entered the era of big data with faster than ever development of complex microscopy technologies leading to increasingly complex datasets. This enormous increase in data size and informational complexity within those datasets has brought with it several difficulties in terms of common and harmonized data handling, analysis and management practices, which are currently hampering the full potential of image data being realized. Here we outline a wide range of efforts and solutions currently being developed by the microscopy community to address these challenges on the path towards FAIR bioimage data. We also highlight how different actors in the microscopy ecosystem are working together, creating synergies that develop new approaches, and how research infrastructures, such as Euro-BioImaging, are fostering these interactions to shape the field.&nbsp;
+
+[https://zenodo.org/records/7788899](https://zenodo.org/records/7788899)
+
+[https://doi.org/10.5281/zenodo.7788899](https://doi.org/10.5281/zenodo.7788899)
+
+
+---
+
+## CZI (Carl Zeiss Image) dataset with artificial test camera images with various dimension for testing libraries reading
+
+Sebastian Rhode
+
+Published 2022-08-22
+
+Licensed CC-BY-4.0
+
+
+
+Set of CZI test images created by using a simulated microscope with a test grayscale camera (no LSM or AiryScan or RGB). The filename indicates the used dimension(s)&nbsp;for the acquisition experiment. The files can be used to test the basic functionality of libraries reading CZI files.
+
+Examples:
+
+
+	S=2_T=3_CH=1.czi = 2 Scenes, 3 TimePoints and 1 Channel
+	
+		Z-Stack was not activated inside acquisition experiment
+	
+	
+	S=2_T=3_Z=5_CH=2.czi = 2 Scenes, 3 TimePoints, 5-Z-Planes and 1 Channels
+	
+		Z-Stack was activated inside acquisition experiment
+	
+	
+
+
+The test files (so far) contain not any data with more &quot;advanced&quot; dimensions&nbsp;like AiryScan rawdata, illumination angles etc.&nbsp;Also no CZI files with&nbsp;pixel type RGB are included yet.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[https://zenodo.org/records/7015307](https://zenodo.org/records/7015307)
+
+[https://doi.org/10.5281/zenodo.7015307](https://doi.org/10.5281/zenodo.7015307)
+
+
+---
+
 ## CZI file examples
 
 Nicolas Chiaruttini
@@ -478,6 +617,106 @@ A set of public CZI files. These can be used for testing CZI readers.
 [https://zenodo.org/records/8305531](https://zenodo.org/records/8305531)
 
 [https://doi.org/10.5281/zenodo.8305531](https://doi.org/10.5281/zenodo.8305531)
+
+
+---
+
+## Cellpose model for Digital Phase Contrast images
+
+Laura Capolupo, Olivier Burri, Romain Guiet
+
+Published 2022-02-09
+
+Licensed CC-BY-4.0
+
+
+
+Name: Cellpose model for Digital Phase Contrast images
+
+Data type: Cellpose model, trained via transfer learning from &lsquo;cyto&rsquo; model.
+
+Training Dataset: Light microscopy (Digital Phase Contrast) and Manual annotations (10.5281/zenodo.5996883)
+
+Training Procedure: Model was trained using a&nbsp;Cellpose version 0.6.5 with GPU support (NVIDIA GeForce RTX 2080) using default settings as per the Cellpose documentation&nbsp;
+
+python -m cellpose --train --dir TRAINING/DATASET/PATH/train --test_dir TRAINING/DATASET/PATH/test --pretrained_model cyto --chan 0 --chan2 0
+
+The model file (MODEL NAME) in this repository is the result of this training.
+
+Prediction Procedure: Using this model, a label image can be obtained from new unseen images in a given folder with
+
+python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
+
+[https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
+
+[https://doi.org/10.5281/zenodo.6023317](https://doi.org/10.5281/zenodo.6023317)
+
+
+---
+
+## Cellpose models for Label Prediction from Brightfield and Digital Phase Contrast images
+
+Romain Guiet, Olivier Burri
+
+Published 2022-02-25
+
+Licensed CC-BY-4.0
+
+
+
+Name:&nbsp;Cellpose models for Brightfield and Digital Phase Contrast images
+
+Data type:&nbsp;Cellpose models trained via transfer learning from the &lsquo;nuclei&rsquo; and &lsquo;cyto2&rsquo; pretrained model with additional Training Dataset . Includes&nbsp;corresponding&nbsp;csv files with &#39;Quality Control&#39; metrics(&sect;) (model.zip).
+
+Training Dataset:&nbsp;Light microscopy (Digital Phase Contrast or Brightfield) and automatic annotations (nuclei or cyto) (https://doi.org/10.5281/zenodo.6140064)
+
+Training Procedure: The cellpose models were trained using cellpose version 1.0.0 with GPU support (NVIDIA GeForce K40) using default settings as per the&nbsp;Cellpose documentation&nbsp;. Training was done using a Renku environment (renku template).
+
+&nbsp;
+
+Command Line Execution for the different trained models
+
+nuclei_from_bf: 
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model nuclei  --img_filter _bf --mask_filter _nuclei --chan 0 --chan2 0 --use_gpu --verbose
+
+cyto_from_bf:
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model cyto2 --img_filter _bf --mask_filter _cyto --chan 0 --chan2 0 --use_gpu --verbose
+
+&nbsp;
+
+nuclei_from_dpc:
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model nuclei  --img_filter _dpc --mask_filter _nuclei --chan 0 --chan2 0 --use_gpu --verbose
+
+cyto_from_dpc:
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model cyto2 --img_filter _dpc --mask_filter _cyto --chan 0 --chan2 0 --use_gpu --verbose
+
+&nbsp;
+
+nuclei_from_sqrdpc:
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model nuclei --img_filter _sqrdpc --mask_filter _nuclei --chan 0 --chan2 0 --use_gpu --verbose
+
+cyto_from_sqrdpc:
+
+cellpose --train --dir 'data/train/' --test_dir 'data/test/' --pretrained_model cyto2 --img_filter _sqrdpc --mask_filter _cyto --chan 0 --chan2 0 --use_gpu --verbose
+
+&nbsp;
+
+NOTE&nbsp;(&sect;):&nbsp;We provide&nbsp;a notebook for Quality Control, which is an adaptation of the&nbsp;&quot;Cellpose (2D and 3D)&quot; notebook from ZeroCostDL4Mic&nbsp;.
+
+NOTE: This dataset used a training dataset from the Zenodo entry(https://doi.org/10.5281/zenodo.6140064) generated from the &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope&rdquo; &nbsp;dataset Zenodo entry(https://doi.org/10.5281/zenodo.6139958) in order to automatically generate the label images.
+
+NOTE: Make sure that you delete the &ldquo;_flow&rdquo; images that are auto-computed when running the training. If you do not, then the flows from previous runs will be used for the new training, which might yield confusing results.
+
+&nbsp;
+
+[https://zenodo.org/records/6140111](https://zenodo.org/records/6140111)
+
+[https://doi.org/10.5281/zenodo.6140111](https://doi.org/10.5281/zenodo.6140111)
 
 
 ---
@@ -571,6 +810,26 @@ Tags: Research Data Management, FAIR-Principles
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8349562](https://zenodo.org/doi/10.5281/zenodo.8349562)
+
+
+---
+
+## Conference Slides - 4th Day of Intravital Microscopy
+
+Ishikawa-Ankerhold, Dr. Hellen
+
+Published 2024-11-13
+
+Licensed CC-BY-4.0
+
+
+
+Conference Slides for the presentation of GerBI e.V. at the 4th Day of Intravital Microscopy in Leuven, Belgium.
+Features Structure, activities and Links to join GerBI e.V.
+
+[https://zenodo.org/records/14113714](https://zenodo.org/records/14113714)
+
+[https://doi.org/10.5281/zenodo.14113714](https://doi.org/10.5281/zenodo.14113714)
 
 
 ---
@@ -895,6 +1154,37 @@ Content type: Slides
 
 ---
 
+## Deconvolution Test Dataset
+
+Romain Guiet
+
+Published 2021-07-14
+
+Licensed CC-BY-4.0
+
+
+
+This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acquired on confocal Zeiss LSM710, which contains
+
+- Ph488.czi (contains all raw metadata)
+
+- Raw_large.tif ( is the tif version of Ph488.czi, provided for conveninence as&nbsp;tif doesn&#39;t need Bio-Formats&nbsp;to be open in Fiji&nbsp;)
+
+- Raw.tif , is a crop of the large image
+
+-&nbsp;PSFHuygens_confocal_Theopsf.tif , is a theoretical PSF generated with HuygensPro
+
+-&nbsp;PSFgen_WF_WBpsf.tif&nbsp; , is a theoretical PSF generated with PSF generator
+
+- PSFgen_WFsquare_WBpsf.tif, is the result of&nbsp;the&nbsp;square operation on PSFgen_WF_WBpsf.tif , to approximate a confocal PSF
+
+[https://zenodo.org/records/5101351](https://zenodo.org/records/5101351)
+
+[https://doi.org/10.5281/zenodo.5101351](https://doi.org/10.5281/zenodo.5101351)
+
+
+---
+
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
 Riccardo Massei, Stefan Scholz, Wibke Busch, Thomas Schnike, Hannes Bohring, Jan Bumberger
@@ -929,6 +1219,64 @@ Tags: Neubias
 Content type: Publication
 
 [https://f1000research.com/articles/10-302](https://f1000research.com/articles/10-302)
+
+
+---
+
+## Development of a platform for advanced optics education, training and prototyping
+
+Nadine Utz, Sabine Reither, Ruth Hans, Christian Feldhaus
+
+Published 2023-10-05
+
+Licensed CC-BY-4.0
+
+
+
+In bio-medical research we often need to combine a broad range of expertise to run complex experiments and analyse and interpret their results. Also, it is desirable that all stakeholders of a project understand all parts of the experiment and analysis to draw and support the right conclusions. For imaging experiments this usually requires a basic understanding of the underlying physics. This has not necessarily been part of the professional training of all stakeholders, e.g. biologists or data scientists. Therefore an affordable platform for easily demonstrating and explaining imaging principles would be desirable.
+Building up on a commercially available STEM Optics kit we developed extensions with widely available and affordable components to demonstrate advanced imaging techniques like e.g. confocal, lightsheet, OPT, spectral imaging. All models are quick and easy to build, yet demonstrate the important physical principles each imaging technique is based on.
+Further use cases for this kit are training courses, demonstrations for imaging newbies when designing an experiment and outreach activities but also basic level prototyping.
+
+[https://zenodo.org/records/10925217](https://zenodo.org/records/10925217)
+
+[https://doi.org/10.5281/zenodo.10925217](https://doi.org/10.5281/zenodo.10925217)
+
+
+---
+
+## Digital Phase Contrast on Primary Dermal Human Fibroblasts cells
+
+Laura Capolupo
+
+Published 2022-02-09
+
+Licensed CC-BY-4.0
+
+
+
+Name: Digital Phase Contrast on Primary Dermal Human Fibroblasts cells&nbsp;
+
+Data type: Paired microscopy images (Digital Phase Contrast, square rooted) and corresponding labels/masks used for cellpose training (the corresponding Brightfield images are also present), organized as recommended by cellpose documentation.
+
+Microscopy data type: Light microscopy (Digital Phase Contrast and Brighfield )
+
+Manual annotations: Labels/masks obtained via manual segmentation.&nbsp;For each region, all cells were annotated manually. Uncertain objects (Dust, fused cells) were left unannotated, so that the cellpose model (10.5281/zenodo.6023317) may mimic the same user bias during prediction. This was particularly necessary due to the accumulation of floating debris in the center of the well.
+
+Microscope: Perkin Elmer Operetta microscope with a 10x 0.35 NA objective
+
+Cell type: Primary Dermal Human Fibroblasts cells
+
+File format: .tif (16-bit for DPC and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 634 nm)
+
+NOTE : This dataset was used to train cellpose model ( 10.5281/zenodo.6023317 )
+
+&nbsp;
+
+[https://zenodo.org/records/5996883](https://zenodo.org/records/5996883)
+
+[https://doi.org/10.5281/zenodo.5996883](https://doi.org/10.5281/zenodo.5996883)
 
 
 ---
@@ -1041,6 +1389,44 @@ Content type: Publication
 
 ---
 
+## Euro-BioImaging  Scientific Ambassadors Program
+
+Beatriz Serrano-Solano
+
+Published 2023-07-25
+
+Licensed CC-BY-4.0
+
+
+
+Graduation presentation for the 7th cohort of the Open Seeds mentoring &amp; training program for Open Science ambassadors. The project presented is called &quot;Euro-BioImaging &nbsp;Scientific Ambassadors Program&quot;.
+
+[https://zenodo.org/records/8182154](https://zenodo.org/records/8182154)
+
+[https://doi.org/10.5281/zenodo.8182154](https://doi.org/10.5281/zenodo.8182154)
+
+
+---
+
+## Euro-BioImaging ERIC Annual Report 2022
+
+Euro-BioImaging ERIC
+
+Published 2023-07-14
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2022.
+
+[https://zenodo.org/records/8146412](https://zenodo.org/records/8146412)
+
+[https://doi.org/10.5281/zenodo.8146412](https://doi.org/10.5281/zenodo.8146412)
+
+
+---
+
 ## Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
 
 Isabel Kemmer, Euro-BioImaging ERIC
@@ -1088,6 +1474,32 @@ Content type: Collection, Tutorial
 
 ---
 
+## Euro-BioImaging/BatchConvert: v0.0.4
+
+bugraoezdemir
+
+Published 2024-02-19
+
+Licensed CC-BY-4.0
+
+
+
+Changes implemented since v0.0.3
+
+Support provided for file paths with spaces.
+Support provided for globbing filenames from s3 for one-to-one conversion (parse_s3_filenames.py modified).
+Support provided for single file import from s3 (parse_s3_filenames.py modified).
+run_conversion.py replaces batchconvert_cli.sh and construct_cli.py, uniting them.
+Error handling updated for each process
+
+
+[https://zenodo.org/records/10679318](https://zenodo.org/records/10679318)
+
+[https://doi.org/10.5281/zenodo.10679318](https://doi.org/10.5281/zenodo.10679318)
+
+
+---
+
 ## Evident OIR sample files tiles + stitched image - FV 4000
 
 Nicolas Chiaruttini
@@ -1109,6 +1521,32 @@ Some metadata like the tiles positions are stored in the extra files (omp2info)
 [https://zenodo.org/records/13680725](https://zenodo.org/records/13680725)
 
 [https://doi.org/10.5281/zenodo.13680725](https://doi.org/10.5281/zenodo.13680725)
+
+
+---
+
+## Evident OIR sample files with lambda scan - FV 4000
+
+Nicolas Chiaruttini
+
+Published 2024-07-18
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are confocal images taken with the Evident FV 4000 of a sample containing DAPI and mCherry stains, excited with the 405 nm laser and images for different emission windows (lambda scan).
+They are public sample files which goal is to help test edge cases of the bio-formats library (https://www.openmicroscopy.org/bio-formats/), in particular for the proper handling of lambda scans.
+
+DAPI_mCherry_22Lambda-420-630-w10nm-s10nm.oir : 22 planes, each plane is an emission window, starting from 420 nm up to 630 nm by steps of 10 nm
+DAPI_mCherry_4T_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 timepoints
+DAPI_mCherry_4Z_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices
+DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices, 3 timepoints
+
+
+[https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
+
+[https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
 
 
 ---
@@ -1640,6 +2078,58 @@ Content type: Slide
 
 ---
 
+## GerBI-Chat: Teil 1 - Vom Bedarf bis zum Großgeräteantrag-Schreiben
+
+Financial & Legal Framework of Core Facilities, Elmar Endl, Jana Hedrich, Juliane Hoth, Julia Nagy, Astrid Schauss, Nina Schulze, Silke Tulok
+
+Published 2024-09-11
+
+Licensed CC-BY-4.0
+
+
+
+Die GermanBioImaging (GerBI-GMB) - Deutsche Gesellschaft f&uuml;r Mikroskopie und Bildanalyse e.V. bietet &uuml;ber regelm&auml;&szlig;ig stattfindende Treffen (GerBI-Chats) die M&ouml;glichkeit zum aktiven Austausch der Mitglieder untereinander. Das GerBI-GMB Team "Legal und Finacial Framwork", welches sich mit administrativen Aufgaben rund um das Core Facility Management besch&auml;ftigt, nutzt diese M&ouml;glichkeit zum aktiven Austausch innerhalb des Netzwerkes und dar&uuml;ber hinaus.&nbsp;
+Der Beschaffungsprozess von Forschungsgro&szlig;ger&auml;ten ist komplex und je nach Institution unterschiedlich geregelt. Aus unserer Sicht l&auml;sst sich dieser Prozess grob in drei Stufen aufteilen:
+
+Bedarfsanmeldung
+Antragsvorbereitung und -fertigstellung
+Antragsbewilligung und Nutzung&nbsp;
+
+Dieser hier enthaltene Beitrag ist der Initialvortrag des GerBi-Chats zum Teil 1 - Von der Bedarfsanmeldung bis zum Beginn der Antragststellung. Die weiteren Stufen der Gro&szlig;ger&auml;tebeschaffung werden in nachfolgenden Beitr&auml;gen behandelt.
+
+[https://zenodo.org/records/13810879](https://zenodo.org/records/13810879)
+
+[https://doi.org/10.5281/zenodo.13810879](https://doi.org/10.5281/zenodo.13810879)
+
+
+---
+
+## GerBI-Chat: Teil 2 - Wie schreibe ich am besten einen Großegräteantrag
+
+Financial & Legal Framework of Core Facilities, Elmar Endl, Jana Hedrich, Juliane Hoth, Julia Nagy, Astrid Schauss, Nina Schulze, Silke Tulok
+
+Published 2024-10-02
+
+Licensed CC-BY-4.0
+
+
+
+Die&nbsp;GermanBioImaging (GerBI-GMB)&nbsp;- Deutsche Gesellschaft f&uuml;r Mikroskopie und Bildanalyse e.V. bietet &uuml;ber regelm&auml;&szlig;ig stattfindende Treffen (GerBI-Chats) die M&ouml;glichkeit zum aktiven Austausch der Mitglieder untereinander. Das GerBI-GMB Team "Legal und Finacial Framwork", welches sich mit administrativen Aufgaben rund um das Core Facility Management besch&auml;ftigt, nutzt diese M&ouml;glichkeit zum aktiven Austausch innerhalb des Netzwerkes und dar&uuml;ber hinaus.&nbsp;
+Der Beschaffungsprozess von Forschungsgro&szlig;ger&auml;ten ist komplex und je nach Institution unterschiedlich geregelt. Aus unserer Sicht l&auml;sst sich dieser Prozess grob in drei Stufen aufteilen:
+
+Bedarfsanmeldung
+Antragsvorbereitung und -fertigstellung
+Antragsbewilligung und Nutzung&nbsp;
+
+Nach dem Initialvortrag der GerBI-Chat Reihe, in dem das Thema Bedarfsanmeldung im Fokus stand, geht es im hier enthaltenen zweiten Teil &bdquo;Antragsvorbereitung und -fertigstellung: Wie schreibe ich am besten einen Gro&szlig;ger&auml;teantrag?&ldquo; um die Beantragung von Forschungsgro&szlig;ger&auml;ten nach Art. 91b GG.
+
+[https://zenodo.org/records/13807114](https://zenodo.org/records/13807114)
+
+[https://doi.org/10.5281/zenodo.13807114](https://doi.org/10.5281/zenodo.13807114)
+
+
+---
+
 ## Getting started with Mambaforge and Python
 
 Mara Lampert
@@ -1698,6 +2188,131 @@ Content type: Book
 
 ---
 
+## Gut Analysis Toolbox
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+
+Published 2024-09-10
+
+Licensed CC-BY-4.0
+
+
+
+What's Changed
+
+Updating User Dialogs by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+Added Dialog Boxes and Grammar Corrections by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/19
+Updated Dialog Prompts for Clarity by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/20
+Batch analysis option added.
+fixed a bunch of bugs related to ganglia segmentation and user workflow
+
+New Contributors
+
+@mattyrowey made their first contribution in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.6...v0.7
+
+[https://zenodo.org/records/13739137](https://zenodo.org/records/13739137)
+
+[https://doi.org/10.5281/zenodo.13739137](https://doi.org/10.5281/zenodo.13739137)
+
+
+---
+
+## Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Adam Humenick, Peter Neckel, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Sebastian K. King, Estibaliz  Gómez-de-Mariscal, Arrate Muñoz-Barrutia, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
+
+Published 2022-02-15
+
+Licensed CC-BY-4.0
+
+
+
+This upload is associated with the software, Gut Analysis Toolbox&nbsp;(GAT).
+If you use it please cite:
+Sorensen et al.&nbsp;Gut Analysis Toolbox: Automating quantitative analysis of enteric neurons.&nbsp;J Cell Sci&nbsp;2024; jcs.261950. doi:&nbsp;https://doi.org/10.1242/jcs.261950
+The upload contains&nbsp;StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and UNet model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks (Google Colab), training and test data as well as reports on model performance.
+The model files are located in the respective folders as zip files. The folders have also been zipped:
+
+Neuron (Hu; StarDist&nbsp;model):
+
+Main folder: 2D_enteric_neuron_model_QA.zip
+Model File:2D_enteric_neuron_v4_1.zip&nbsp;
+
+
+Neuronal subtype (StarDist&nbsp;model):&nbsp;
+
+Main folder: 2D_enteric_neuron_subtype_model_QA.zip
+Model File: 2D_enteric_neuron_subtype_v4.zip
+
+
+Enteric ganglia (2D UNet model; Use in FIJI with deepImageJ)
+
+Main folder: 2D_enteric_ganglia_model_QA.zip
+Model File: 2D_Ganglia_RGB_v2.bioimage.io.model.zip (Compatible with deepimageJ v3)
+
+
+
+For the all models, files included are:
+
+Model for segmenting cells or ganglia in 2D FIJI. StarDist or 2D UNet.
+Training and Test datasets used for training.
+Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic notebooks).
+Quality assurance reports generated from above notebooks.
+StarDist model exported for use in QuPath.
+
+The model files can be used within can be used within the software,&nbsp;StarDist. They&nbsp;are intended to be used within FIJI or QuPath, but can be used in any software that supports the implementation of StarDist in 2D.
+Data:
+All the images were collected from 4 different research labs and a public database (SPARC database) to account for variations in image acquisition, sample preparation and immunolabelling.
+For enteric neurons&nbsp;the pan-neuronal marker, Hu&nbsp;has been used and the&nbsp; 2D wholemounts images from mouse, rat and human tissue.
+For enteric neuronal subtypes, 2D images for nNOS, MOR, DOR, ChAT, Calretinin, Calbindin, Neurofilament, CGRP and SST from mouse tissue have been used..
+25 images were used&nbsp;from the following entries in the&nbsp;SPARC database:
+
+Howard, M. (2021). 3D imaging of enteric neurons in mouse (Version 1) [Data set]. SPARC Consortium. 
+Graham, K. D., Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman, M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M., &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC Consortium.
+Wang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies Tested in theColon &ndash; Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h
+
+The images have been acquired using a combination different microscopes. The images for the mouse tissue were acquired using:&nbsp;
+
+
+Leica TCS-SP8 confocal system (20x HC PL APO NA 1.33, 40 x HC PL APO NA 1.3)&nbsp;
+
+
+Leica TCS-SP8 lightning confocal system (20x HC PL APO NA 0.88)&nbsp;
+
+
+Zeiss Axio Imager M2 (20X HC PL APO NA 0.3)&nbsp;
+
+
+Zeiss Axio Imager Z1 (10X HC PL APO NA 0.45)&nbsp;
+
+
+Human tissue images were acquired using:&nbsp;
+
+
+IX71 Olympus microscope (10X HC PL APO NA 0.3)&nbsp;
+
+
+For more information, visit the&nbsp;Documentation website.
+NOTE: The images for enteric neurons and neuronal subtypes have been rescaled to 0.568 &micro;m/pixel for mouse and rat. For human neurons, it has been rescaled to 0.9 &micro;m/pixel . This is to ensure the neuronal cell bodies have similar pixel area across images. The area of cells in pixels can vary based on resolution of image, magnification of objective used, animal species (larger animals -&gt; larger neurons) and potentially how the tissue is stretched during wholemount preparation&nbsp;
+Average neuron area for neuronal model:&nbsp;701.2 &plusmn; 195.9 pixel2 (Mean &plusmn; SD, 6267 cells)
+Average neuron area for neuronal subtype model:&nbsp;880.9 &plusmn; 316 pixel2 (Mean &plusmn; SD, 924 cells)
+Software References:
+Stardist
+Schmidt, U., Weigert, M., Broaddus, C., &amp; Myers, G. (2018, September). Cell detection with star-convex polygons. In&nbsp;International Conference on Medical Image Computing and Computer-Assisted Intervention&nbsp;(pp. 265-273). Springer, Cham.
+deepImageJ
+G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W., Donati, L., Lundberg, E., Unser, M., Mu&ntilde;oz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly environment to run deep learning models in ImageJ.&nbsp;Nature Methods,&nbsp;18(10), pp.1192-1195.
+ZeroCost DL4Mic
+von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
+
+[https://zenodo.org/records/10460434](https://zenodo.org/records/10460434)
+
+[https://doi.org/10.5281/zenodo.10460434](https://doi.org/10.5281/zenodo.10460434)
+
+
+---
+
 ## Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
 
 Riccardo Massei
@@ -1714,6 +2329,57 @@ Results of the project "Conversion of KNIME image analysis workflows to Galaxy" 
 [https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
 
 [https://doi.org/10.5281/zenodo.10793700](https://doi.org/10.5281/zenodo.10793700)
+
+
+---
+
+## HeLa "Kyoto" cells under the scope
+
+Romain Guiet
+
+Published 2022-02-25
+
+Licensed CC-BY-4.0
+
+
+
+Name: HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope
+
+Microscope: Perkin Elmer Operetta microscope with a 20x N.A. 0.8 objective and an&nbsp;Andor Zyla 5.5 camera.
+
+Microscopy data type: The time-lapse datasets were acquired every 15 minutes, for 60 hours. From the individual plan images (channels, time-points, field of view exported by the PerkinElmer software Harmony) multi-dimension images were generated using the Operetta_Importer-0.1.21 &nbsp;with a downscaling of 4.&nbsp;
+
+Channel 1 : Low Contrast DPC (Digital Phase Contrast)
+
+Channel 2 : High Contrast DPC
+
+Channel 3 : Brightfield
+
+Channel 4 : EGFP-&alpha;-tubulin
+
+Channel 5 : mCherry-H2B
+
+File format: .tif (16-bit)
+
+Image size: 540x540 (Pixel size: 0.299 nm), 5c, 1z , 240t
+
+&nbsp;
+
+Cell type: HeLa &ldquo;Kyoto&rdquo; cells, expressing EGFP-&alpha;-tubulin and mCherry-H2B ( Schmitz&nbsp;et&nbsp;al,&nbsp;2010 )
+
+Protocol: Cells were resuspended in Imaging media and were seeded in a microscopy grade 96 wells plate ( CellCarrier Ultra 96, Perkin Elmer). The day after seeding, and for 60 hours, images were acquired in 3 wells, in 25 different fields of view, every 15 minutes.
+
+Imaging media: DMEM red-phenol-free media (FluoroBrite&trade; DMEM, Gibco) complemented with Fetal Calf Serum and Glutamax.
+
+&nbsp;
+
+NOTE: This dataset was used to automatically generate label images in the following Zenodo entry:&nbsp; https://doi.org/10.5281/zenodo.6140064
+
+NOTE: This dataset was used to train the cellpose models in the following Zenodo entry: https://doi.org/10.5281/zenodo.6140111
+
+[https://zenodo.org/records/6139958](https://zenodo.org/records/6139958)
+
+[https://doi.org/10.5281/zenodo.6139958](https://doi.org/10.5281/zenodo.6139958)
 
 
 ---
@@ -1779,6 +2445,25 @@ Content type: Slide, Presentation
 
 ---
 
+## Human DAB staining Axioscan BF 20x
+
+Mario Garcia
+
+Published 2024-05-21
+
+Licensed CC-BY-4.0
+
+
+
+Human brain tissue with DAB immunostaining. Image acquired by BF microscopy in&nbsp; Zeiss Axioscan at 20x.&nbsp;
+
+[https://zenodo.org/records/11234863](https://zenodo.org/records/11234863)
+
+[https://doi.org/10.5281/zenodo.11234863](https://doi.org/10.5281/zenodo.11234863)
+
+
+---
+
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -1800,6 +2485,53 @@ Content type: Slide, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## ICS/IDS stitched file
+
+IMCF
+
+Published 2024-06-13
+
+Licensed CC-BY-4.0
+
+
+
+Hi&nbsp;@ome&nbsp;team !
+We usually use ICS/IDS file formats as an output to our stitching pipeline as the reading and writing is pretty fast. However, it seems that since Bio-Formats 7.x opening the files is not working anymore.
+I tried with a Fiji with Bio-Formats 6.10.1 and the files open, but more recent versions give an issue.
+&nbsp;
+java.lang.NullPointerException
+	at loci.formats.in.ICSReader.initFile(ICSReader.java:1481)
+	at loci.formats.FormatReader.setId(FormatReader.java:1480)
+	at loci.plugins.in.ImportProcess.initializeFile(ImportProcess.java:498)
+	at loci.plugins.in.ImportProcess.execute(ImportProcess.java:141)
+	at loci.plugins.in.Importer.showDialogs(Importer.java:156)
+	at loci.plugins.in.Importer.run(Importer.java:77)
+	at loci.plugins.LociImporter.run(LociImporter.java:78)
+	at ij.IJ.runUserPlugIn(IJ.java:244)
+	at ij.IJ.runPlugIn(IJ.java:210)
+	at ij.Executer.runCommand(Executer.java:152)
+	at ij.Executer.run(Executer.java:70)
+	at ij.IJ.run(IJ.java:326)
+	at ij.IJ.run(IJ.java:337)
+	at ij.macro.Functions.doRun(Functions.java:703)
+	at ij.macro.Functions.doFunction(Functions.java:99)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:281)
+	at ij.macro.Interpreter.doStatements(Interpreter.java:267)
+	at ij.macro.Interpreter.run(Interpreter.java:163)
+	at ij.macro.Interpreter.run(Interpreter.java:93)
+	at ij.macro.MacroRunner.run(MacroRunner.java:146)
+	at java.lang.Thread.run(Thread.java:750)
+
+You can find one example file at&nbsp;this link&nbsp;1.
+Thanks for your help !Best,Laurent
+
+[https://zenodo.org/records/11637422](https://zenodo.org/records/11637422)
+
+[https://doi.org/10.5281/zenodo.11637422](https://doi.org/10.5281/zenodo.11637422)
 
 
 ---
@@ -1874,6 +2606,39 @@ Three seperate trees are provided for different classes of imaging data: open bi
 [https://zenodo.org/records/13945179](https://zenodo.org/records/13945179)
 
 [https://doi.org/10.5281/zenodo.13945179](https://doi.org/10.5281/zenodo.13945179)
+
+
+---
+
+## ImageJ tool for percentage estimation of pneumonia in lungs
+
+Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
+
+Published 2023-05-02
+
+Licensed CC-BY-4.0
+
+
+
+The software tool is developed on demand of Radiological Department of Faculty Hospital of Kr&aacute;lovsk&eacute; Vinohrady, with the aim to provide a tool to estimate the percentage of pneumonia (or COVID-19 presence) in lungs. Paper&nbsp;Estimation of Covid-19 lungs damage based on computer tomography images analysis presenting the tool is available on F1000reserach&nbsp;DOI: 10.12688/f1000research.109020.1. The underlying dataset is published in Zenodo (DOI:10.5281/zenodo.5805939).&nbsp;One of the challenges was to design a tool that would be available without complicated install procedures and would process data in a reasonable time even on office computers. For this reason, 8-bit and 16-bit version of the tool exists. The FIJI software (or ImageJ with Bio-Formats plugin installed) was selected as the best candidate. Examples of use and tutorials are available at GitHub.&nbsp;
+
+Underlying data:
+DOI:10.5281/zenodo.5805939
+The first five datasets are analyzed using this tool, with results and parameters to repeat the analysis in results_csv.csv or results.xlsx.
+
+Contributions:
+Martin SCH&Auml;TZ:&nbsp; &nbsp; &nbsp; &nbsp;Coding, tool testing, data curation, data set analysis
+Olga RUBE&Scaron;OV&Aacute;:&nbsp; &nbsp; Code review, tutorial preparation, tool testing, data set analysis
+Jan MARE&Scaron;:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing, data set analysis
+Alan SPARK:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing
+
+The work was funded by the Ministry of Education, Youth and Sports by grant &lsquo;Development of Advanced Computational Algorithms for evaluating post-surgery rehabilitation&rsquo; number LTAIN19007. The work was also supported from the grant of Specific university research &ndash; grant No FCHI 2022-001.
+
+&nbsp;
+
+[https://zenodo.org/records/7885379](https://zenodo.org/records/7885379)
+
+[https://doi.org/10.5281/zenodo.7885379](https://doi.org/10.5281/zenodo.7885379)
 
 
 ---
@@ -1953,6 +2718,49 @@ Beyond the University of Konstanz, the Team is involved in a range of national a
 
 ---
 
+## Interactive Image Data Flow Graphs
+
+Martin Schätz, Martin Schätz
+
+Published 2022-10-17
+
+Licensed CC-BY-4.0
+
+
+
+The slides were presented during the Macro programming with ImageJ workshop (https://www.16mcm.cz/programme/#workshops) which was part of the&nbsp;16th Multinational Congress on Microscopy. It is a collection and &quot;reshuffle&quot; of slides originally made by Robert Haase on topics from Image Analysis in general up to&nbsp;User-friendly GPU-accelerated bio-image analysis and CLIJ2.
+
+[https://zenodo.org/records/7215114](https://zenodo.org/records/7215114)
+
+[https://doi.org/10.5281/zenodo.7215114](https://doi.org/10.5281/zenodo.7215114)
+
+
+---
+
+## Intravital microscopy contrasting agents for application - Database
+
+Michael Gerlach
+
+Published 2024-06-19
+
+Licensed CC-BY-4.0
+
+
+
+This is a set of databases containing published use of substances which can be applied to rodents in order to contrast specific structures for optical intravital microscopy.
+The first dataset contains applied final dosages, calculated for 25g-mice, as well as the orignally published amounts, concentrations and application routes of agents directly applied into the target organism.
+The second dataset contains dosages and cell numbers for the external contrastation and subsequent application of cells into the target organism.
+Filtering possible for organ system and contrasted structure/cell type in both datasets, substance class and fluorescent detection windows can be filtered in the dataset for direct agent application.
+Source publications are listed by DOI.
+&nbsp;
+
+[https://zenodo.org/records/12166710](https://zenodo.org/records/12166710)
+
+[https://doi.org/10.5281/zenodo.12166710](https://doi.org/10.5281/zenodo.12166710)
+
+
+---
+
 ## Introduction to Bioimage Analysis
 
 Pete Bankhead
@@ -1966,6 +2774,42 @@ Tags: Python, Imagej, Bioimage Analysis
 Content type: Book, Notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Silke Tulok, Anja Nobst, Anett Jannasch, Tom Boissonnet, Gunar Fabig
+
+Published 2024-06-28
+
+Licensed CC-BY-4.0
+
+
+
+This Key-Value pair template is used for the data documentation during imaging experiments and the later data annotation in OMERO. It is tailored for the usage and image acquisition at the slide scanning system Zeiss AxioScan 7 in the Core Facility Cellular Imaging (CFCI). It contains important metadata of the imaging experiment, which are not saved in the corresponding imaging files. All users of the Core Facility Cellular Imaging are trained to use that file to document their imaging parameters directly during the data acquisition with the possibility for a later upload to OMERO. Furthermore, there is a corresponding public example image used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here:
+https://omero.med.tu-dresden.de/webclient/?show=image-33248
+This template was developed by the CFCI staff during the setup and usage of the AxioScan 7 and is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015).
+With this template it is possible to create a csv-file, that can be used to annotate an image or dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+
+fill the template sheet&nbsp; with your metadata
+select and copy the data range containing the Keys and Values
+open a new excel sheet and paste transpose in cell A1&nbsp;
+Important: cell A1 contains always the name 'dataset' and cell A2 contains the exact name of the image/dataset, which should be annotated in OMERO
+save the new excel sheet in csv-file (comma separated values) format
+
+An example can be seen in sheet 3 'csv_AxioScan'.
+Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might be not able to decode by the annotation script. We encountered this issue with old Microsoft-Office versions (MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of comma as decimal delimiter.
+See cross reference:
+10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
+10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+[https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
+
+[https://doi.org/10.5281/zenodo.12578084](https://doi.org/10.5281/zenodo.12578084)
 
 
 ---
@@ -2111,6 +2955,39 @@ Large Language Models (LLMs) are changing the way how humans interact with compu
 
 ---
 
+## Large tiling confocal acquisition (rat brain)
+
+Julie Meystre
+
+Published 2022-06-15
+
+Licensed CC-BY-4.0
+
+
+
+Name: Large tiling confocal acquisition (rat brain)
+
+Microscope: Zeiss LSM700
+
+Microscopy data type:&nbsp;108 tiles, each with 62 z-slices and 2 channels :
+Channel 1: DAPI
+Channel 2: cck staining
+
+File format: .lsm (16-bit)
+
+Image size: 1024x1024x62 (Pixel size: 0.152 x 0.152 x 1 micron), 2 channels.
+
+&nbsp;
+
+NOTE : Some tiles were annotated and used to train a StarDist3D model (https://doi.org/10.5281/zenodo.6645978 &nbsp;&nbsp;)
+
+[https://zenodo.org/records/6646128](https://zenodo.org/records/6646128)
+
+[https://doi.org/10.5281/zenodo.6646128](https://doi.org/10.5281/zenodo.6646128)
+
+
+---
+
 ## Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
 
 Heber, Maximilian, Jakob, Moritz, Landwehr, Matthias, Leendertse, Jan, Müller, Maximilian, Schneider, Gabriel, von Suchodoletz, Dirk, Ulrich, Robert
@@ -2201,6 +3078,43 @@ Licensed CC-BY-4.0
 
 ---
 
+## Liver Micrometastases area quantification using QuPath and pixel classifier
+
+Laia Simó-Riudalbas, Romain Guiet, Olivier Burri, Julien Duc, Didier Trono
+
+Published 2022-05-06
+
+Licensed CC-BY-4.0
+
+
+
+Sample: Mouse (NSG) liver slices with human colorectal cancer cells metastases, stained with Hematoxylin &amp; Eosin.&nbsp;
+
+Image Acquisition: Images were acquired on an Olympus VS120 Whole Slide Scanner, using a 20x objective (UPLSAPO, N.A. 0.75) and a color camera (Pike F505 Color) with an image pixel size of 0.345 microns.
+
+Image Processing and Analysis: Obtained images were analyzed using the software QuPath [1] (version 0.3.2) using groovy scripts, making use of a pixel classifier to segment and measure cancer cell clusters.
+
+Files :
+
+Detailed_worflow.pdf : contains a detailed description of how pixel classifier was created
+
+images_for_classifier_training.zip : contains all the vsi file obtained from the microscope and used for the training
+
+project_for_classifier_training.zip : contains the QuPath project, with Training Image, annotations, classifiers and scripts for analysis
+
+PythonCode.txt : code ran to transform output results from QuPath to final results
+
+&nbsp;
+
+[1] Bankhead, P. et al.&nbsp;QuPath: Open source software for digital pathology image analysis.&nbsp;Scientific Reports&nbsp;(2017). https://doi.org/10.1038/s41598-017-17204-5
+
+[https://zenodo.org/records/6523649](https://zenodo.org/records/6523649)
+
+[https://doi.org/10.5281/zenodo.6523649](https://doi.org/10.5281/zenodo.6523649)
+
+
+---
+
 ## Making your package available on conda-forge
 
 Kevin Yamauchi
@@ -2231,6 +3145,25 @@ Tags: Python, Conda, Mamba
 Content type: Blog
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
+
+
+---
+
+## Measuring reporter activity domain in EPI aggregates and Gastruloids.ijm
+
+Romain Guiet, Olivier Burri, Mehmet Girgin, Matthias Lutolf
+
+Published 2022-12-07
+
+Licensed CC-BY-4.0
+
+
+
+This imagej macro analyses the reporter intensity activity and expression domain in EPI aggregates and Gastruloids.
+
+[https://zenodo.org/records/7409423](https://zenodo.org/records/7409423)
+
+[https://doi.org/10.5281/zenodo.7409423](https://doi.org/10.5281/zenodo.7409423)
 
 
 ---
@@ -2379,6 +3312,69 @@ Content type: Publication
 [https://pubmed.ncbi.nlm.nih.gov/36371407/](https://pubmed.ncbi.nlm.nih.gov/36371407/)
 
 [https://www.nature.com/articles/s41597-022-01815-3](https://www.nature.com/articles/s41597-022-01815-3)
+
+
+---
+
+## Morphological analysis of neural cells with WEKA and SNT Fiji plugins
+
+Daniel Waiger
+
+Published 2022-07-14
+
+Licensed CC-BY-4.0
+
+
+
+A simple workflow to detect Soma and neurite paths, from light microscopy&nbsp;datasets.
+
+Using open-source tools for beginners.
+
+[https://zenodo.org/records/6834214](https://zenodo.org/records/6834214)
+
+[https://doi.org/10.5281/zenodo.6834214](https://doi.org/10.5281/zenodo.6834214)
+
+
+---
+
+## Multi-Template-Matching for object-detection (slides)
+
+Laurent Thomas
+
+Published 2022-05-16
+
+Licensed CC-BY-4.0
+
+
+
+This presentations describes Multi-Template-Matching, a novel method extending on template-matching for object-detection in images.
+
+The project was part of the PhD project of Laurent Thomas between 2017 and 2020, under supervision of Jochen Gehrig. The project was hosted at ACQUIFER Imaging with collaboration of the medical university of Heidelberg, and part of the ImageInLife Horizon2020 ITN (PhD program).&nbsp;
+
+[https://zenodo.org/records/6554166](https://zenodo.org/records/6554166)
+
+[https://doi.org/10.5281/zenodo.6554166](https://doi.org/10.5281/zenodo.6554166)
+
+
+---
+
+## Multiplexed histology of COVID-19 post-mortem lung samples - CONTROL CASE 1 FOV1
+
+Anna Pascual Reguant, Ronja Mothes, Helena Radbruch, Anja E. Hauser
+
+Published 2022-12-16
+
+Licensed CC-BY-4.0
+
+
+
+Image-based data set of a post-mortem lung sample from a non-COVID-related pneumonia donor (CONTROL CASE 1, FOV1)
+
+Each image shows the same field of view (FOV), sequentially stained with the depicted fluorescence-labelled antibodies, including surface proteins, intracellular proteins and transcription factors. Images contain 2024 x 2024 pixels and are generated using an inverted wide-field fluorescence microscope with a 20x objective, a lateral resolution of 325 nm and an axial resolution above 5 &micro;m. Images have&nbsp;been normalized and intensities adjusted.
+
+[https://zenodo.org/records/7447491](https://zenodo.org/records/7447491)
+
+[https://doi.org/10.5281/zenodo.7447491](https://doi.org/10.5281/zenodo.7447491)
 
 
 ---
@@ -2731,6 +3727,25 @@ Content type: Slides
 
 ---
 
+## Optimisation and Validation of a Swarm Intelligence based Segmentation Algorithm for low Contrast Positron Emission Tomography
+
+Robert Haase
+
+Published 2014-04-01
+
+Licensed CC-BY-4.0
+
+
+
+In the field of radiooncological research, individualised therapy is one of the hot topics at the moment. As a key aspect biologically-adapted therapy is discussed. Therapy adaption based on biological parameters&nbsp;may include tomographic imaging to determine biological properties of the tumour. One often invoked&nbsp;imaging modality is positron emission tomography (PET) using the tracer [18F]-fluoromisonidazole&nbsp;(FMISO) for hypoxia imaging. Hypoxia imaging is of interest, because hypoxic tumours are known to be radiorestistant. Even further, patients with hypoxic tumours have worse prognosis compared to patients&nbsp;with normoxic tumours. Thus, hypoxia imaging appears promising for radiotherapy treatment adaption.&nbsp;For example, volumetric analysis of FMISO PET could deliver additional hypoxia target volumes, which&nbsp;may be irradiated with higher radiation doses to improve the therapeutic effect. However, limited contrast&nbsp;between target volume and background in FMISO PET images interferes image analysis.Established&nbsp;methods for target volume delineation in PET do not allow determination of reliable contours in FMISO PET. To tackle this aspect, this thesis focusses on an earlier developed swarm intelligence based&nbsp;segmentation algorithm for FMISO PET and rather, its optimisation and validation in a clinically relevant&nbsp;setting. In this setting, clinical FMISO PET images were used which were acquired as part of a clinical&nbsp;trial performed at the Clinic and Policlinic for Radiation Therapy and Radiooncology of the University&nbsp;Hospital Carl Gustav Carus Dresden. The segmentation algorithm was applied to these imaging data&nbsp;sets and optimised using a cross-validation approach incorporating reference contours from experienced&nbsp;observers who outlined FMISO PET positive volumes manually. Afterwards, the performance of the algorithm&nbsp;and the properties of the resulting contours were studied in more detail. The algorithm was shown&nbsp;to deliver contours which were similar to manually-created contours to a degree like manually-created&nbsp;contours were similar to each other. Thus, the application of the algorithm in clinical research is recommended&nbsp;to eliminate inter-observer-variabilities. Finally, it was shown that repeated FMISO PET imaging&nbsp;before and shortly after the beginning of combined radiochemotherapy lead to manually-created contours&nbsp;with significantly higher variations than the variations of automatically-created contours using the&nbsp;proposed algorithm. Increased contour similarity in subsequently acquired imaging data highlights the&nbsp;observer-independence of the algorithm. While several observers outline different volumes, in identical&nbsp;data sets as well as in subsequent imaging data sets, the algorithm outlines more stable volumes in both&nbsp;cases. Thus, increased contour reproducibility is reached by automation of the delineation process by&nbsp;the proposed algorithm.&nbsp;
+
+[https://zenodo.org/records/7209862](https://zenodo.org/records/7209862)
+
+[https://doi.org/10.5281/zenodo.7209862](https://doi.org/10.5281/zenodo.7209862)
+
+
+---
+
 ## Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing
 
 Robert Haase
@@ -2797,6 +3812,25 @@ Content type: Book
 [https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/](https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/)
 
 [https://doi.org/10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861)
+
+
+---
+
+## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
+
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Gurwitz, Kim Tamara, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, Lister, L. Allyson, Livio Longo, Dario, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer, Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Richard, Audrey S., Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Westerhoff, Hans V., Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+
+Published 2023-09-12
+
+Licensed CC-BY-4.0
+
+
+
+"Be SURE - Be SUstainable REcommendations"The main goals and challenges for the Life Science (LS) communities in the Open Science framework are to increase reuse and sustainability of data resources, software tools, and workflows, especially in large-scale data-driven research and computational analyses. Here, we present key findings, procedures, effective measures and recommendations for generating and establishing sustainable LS resources based on the collaborative, cross-disciplinary work done within the EOSC-Life (European Open Science Cloud for Life Sciences) consortium. Bringing together 13 European LS Research Infrastructures (RIs), it has laid the foundation for an open, digital space to support biological and medical research. Using lessons learned from 27 selected projects, we describe the organisational, technical, financial and legal/ethical challenges that represent the main barriers to sustainability in the life sciences. We show how EOSC-Life provides a model for sustainable FAIR data management, including solutions for sensitive- and industry-related resources, by means of cross-disciplinary training and best practices sharing. Finally, we illustrate how data harmonisation and collaborative work facilitate interoperability of tools, data, solutions and lead to a better understanding of concepts, semantics and functionalities in the life sciences.IN PRESS EMBO Journal:&nbsp;https://www.embopress.org/journal/14602075&nbsp;AVAILABLE SOON at : https://doi.org/10.15252/embj.2023115008&nbsp;
+
+[https://zenodo.org/records/8338931](https://zenodo.org/records/8338931)
+
+[https://doi.org/10.5281/zenodo.8338931](https://doi.org/10.5281/zenodo.8338931)
 
 
 ---
@@ -3038,6 +4072,25 @@ Content type: Slide
 
 ---
 
+## Research Data Managemet and how not to get overwhelmed with data
+
+Martin Schätz
+
+Published 2023-09-23
+
+Licensed CC-BY-4.0
+
+
+
+Research data management and how not to get overwhelmed with data presentation is an overview of bioimage analysis with a focus on the basics for data management planning, FAIR principles, and how to practically organize folders and prepares naming convention. The presentation includes an overview of metadata, Creative Common licenses, and a sum up of electronic laboratory notebooks. The last two slides go through how all of that works in practice in open access core microscopy facility.
+
+[https://zenodo.org/records/8372703](https://zenodo.org/records/8372703)
+
+[https://doi.org/10.5281/zenodo.8372703](https://doi.org/10.5281/zenodo.8372703)
+
+
+---
+
 ## Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies
 
 Costantino Thanos
@@ -3093,6 +4146,45 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
+
+
+---
+
+## Round Table Workshop 1 - Sample Stabilization in intravital Imaging
+
+Michael Gerlach, Hans-Ulrich Fried, Christiane Peuckert
+
+Published 2024-11-14
+
+Licensed CC-BY-4.0
+
+
+
+Notes from a round table workshop on the 4th Day of Intravital Microscopy in Leuven, Belgium.
+Contains hands-on tips, tricks and schemes to improve sample stability during various models of Intravital Miroscopy.
+
+[https://zenodo.org/records/14161289](https://zenodo.org/records/14161289)
+
+[https://doi.org/10.5281/zenodo.14161289](https://doi.org/10.5281/zenodo.14161289)
+
+
+---
+
+## Round Table Workshop 2 - Correction of Drift and Movement
+
+Ishikawa-Ankerhold, Dr. Hellen, Max Nobis
+
+Published 2024-11-14
+
+Licensed CC-BY-4.0
+
+
+
+Session 2 of a round table workshop. Features description of image processing methods useful in intravital imaging to compensate for the motion of living tissue.
+
+[https://zenodo.org/records/14161633](https://zenodo.org/records/14161633)
+
+[https://doi.org/10.5281/zenodo.14161633](https://doi.org/10.5281/zenodo.14161633)
 
 
 ---
@@ -3165,6 +4257,31 @@ Tags: Sharing, Research Data Management
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Slides about FLUTE: a Python GUI for interactive phasor analysis of FLIM data
+
+Chiara Stringari
+
+Published 2024-03-19
+
+Licensed CC-BY-4.0
+
+
+
+This presentation introduces the open source software to analyze FLIM data:
+FLUTE &ndash; (F)luorescence (L)ifetime (U)ltima(T)e (E)xplorer:
+a Python GUI for interactive phasor analysis of FLIM data
+&nbsp;
+The software is available on GitHub: https://github.com/LaboratoryOpticsBiosciences/FLUTE
+and it is published on Biological imaging Journal: Gottlieb, D., Asadipour, B., Kostina, P., Ung, T., &amp; Stringari, C. (2023). FLUTE: A Python GUI for interactive phasor analysis of FLIM data. Biological Imaging, 1-22. doi:10.1017/S2633903X23000211
+The lecture was part of the short talks on community developed FLIM-software at the German BioImaging workshop on FLIM in Munich.
+
+[https://zenodo.org/records/10839310](https://zenodo.org/records/10839310)
+
+[https://doi.org/10.5281/zenodo.10839310](https://doi.org/10.5281/zenodo.10839310)
 
 
 ---
@@ -3372,6 +4489,25 @@ Tags: FAIR-Principles, Data Stewardship, Sharing
 Content type: Publication
 
 [https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
+
+
+---
+
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
 
 
 ---
@@ -3591,6 +4727,88 @@ The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and th
 
 ---
 
+## Zeiss AxioZoom Stage Adapter
+
+Michael Gerlach
+
+Published 2024-06-20
+
+Licensed CC-BY-4.0
+
+
+
+A 3D- printable microscope stage adapter for the reproducible accomodation of samples at a Zeiss AxioZoom stereomicroscope.
+4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors.
+&nbsp;
+
+[https://zenodo.org/records/7963020](https://zenodo.org/records/7963020)
+
+[https://doi.org/10.5281/zenodo.7963020](https://doi.org/10.5281/zenodo.7963020)
+
+
+---
+
+## Zeiss AxioZoom Stage Adapter - 12/6Well Plate
+
+Michael Gerlach
+
+Published 2024-06-20
+
+Licensed CC-BY-4.0
+
+
+
+A 3D- printable microscope stage adapter for the reproducible accomodation of 6 or 12-well plates at a Zeiss AxioZoom microscope.
+4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates a standard Greiner 6- or 12-well plate.
+
+[https://zenodo.org/records/7944877](https://zenodo.org/records/7944877)
+
+[https://doi.org/10.5281/zenodo.7944877](https://doi.org/10.5281/zenodo.7944877)
+
+
+---
+
+## Zeiss AxioZoom Stage Adapter - EM block holder
+
+Michael Gerlach
+
+Published 2024-06-20
+
+Licensed CC-BY-4.0
+
+
+
+A 3D- printable microscope stage adapter for the reproducible accomodation of EM Blocks at a Zeiss AxioZoom microscope.
+
+4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates 70 standard resin EM blocks.
+
+[https://zenodo.org/records/7963006](https://zenodo.org/records/7963006)
+
+[https://doi.org/10.5281/zenodo.7963006](https://doi.org/10.5281/zenodo.7963006)
+
+
+---
+
+## Zeiss AxioZoom Stage Adapter - Microscope slides
+
+Michael Gerlach
+
+Published 2024-06-21
+
+Licensed CC-BY-4.0
+
+
+
+A 3D- printable microscope stage adapter for the reproducible accomodation of microscopic slides at a Zeiss AxioZoom microscope.
+4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates 4 standard glass slides.
+
+[https://zenodo.org/records/7945018](https://zenodo.org/records/7945018)
+
+[https://doi.org/10.5281/zenodo.7945018](https://doi.org/10.5281/zenodo.7945018)
+
+
+---
+
 ## [BINA CC] Scalable strategies for a next-generation of FAIR bioimaging
 
 Josh Moore
@@ -3625,6 +4843,45 @@ Tags: Research Data Management, Bioimage Analysis, Data Science
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [Community Meeting 2024] Overview Team Image Data Analysis and Management
+
+Susanne Kunis, Thomas Zobel
+
+Published 2024-03-08
+
+Licensed CC-BY-4.0
+
+
+
+Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
+&nbsp;
+
+[https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
+
+[https://doi.org/10.5281/zenodo.10796364](https://doi.org/10.5281/zenodo.10796364)
+
+
+---
+
+## [Community Meeting 2024] Supporting and financing RDM projects within GerBI
+
+Stefanie Weidtkamp-Peters, Josh Moore, Christian Schmidt, Roland Nitschke, Susanne Kunis, Thomas Zobel
+
+Published 2024-03-28
+
+Licensed CC-BY-4.0
+
+
+
+Overview of GerBI RDM projects: why and how?
+
+[https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
+
+[https://doi.org/10.5281/zenodo.10889694](https://doi.org/10.5281/zenodo.10889694)
 
 
 ---

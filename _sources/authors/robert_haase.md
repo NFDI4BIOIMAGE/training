@@ -1,4 +1,4 @@
-# Robert haase (51)
+# Robert haase (54)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -428,6 +428,131 @@ Content type: Slide
 
 ---
 
+## Gut Analysis Toolbox
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+
+Published 2024-09-10
+
+Licensed CC-BY-4.0
+
+
+
+What's Changed
+
+Updating User Dialogs by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+Added Dialog Boxes and Grammar Corrections by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/19
+Updated Dialog Prompts for Clarity by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/20
+Batch analysis option added.
+fixed a bunch of bugs related to ganglia segmentation and user workflow
+
+New Contributors
+
+@mattyrowey made their first contribution in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.6...v0.7
+
+[https://zenodo.org/records/13739137](https://zenodo.org/records/13739137)
+
+[https://doi.org/10.5281/zenodo.13739137](https://doi.org/10.5281/zenodo.13739137)
+
+
+---
+
+## Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Adam Humenick, Peter Neckel, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Sebastian K. King, Estibaliz  Gómez-de-Mariscal, Arrate Muñoz-Barrutia, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
+
+Published 2022-02-15
+
+Licensed CC-BY-4.0
+
+
+
+This upload is associated with the software, Gut Analysis Toolbox&nbsp;(GAT).
+If you use it please cite:
+Sorensen et al.&nbsp;Gut Analysis Toolbox: Automating quantitative analysis of enteric neurons.&nbsp;J Cell Sci&nbsp;2024; jcs.261950. doi:&nbsp;https://doi.org/10.1242/jcs.261950
+The upload contains&nbsp;StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and UNet model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks (Google Colab), training and test data as well as reports on model performance.
+The model files are located in the respective folders as zip files. The folders have also been zipped:
+
+Neuron (Hu; StarDist&nbsp;model):
+
+Main folder: 2D_enteric_neuron_model_QA.zip
+Model File:2D_enteric_neuron_v4_1.zip&nbsp;
+
+
+Neuronal subtype (StarDist&nbsp;model):&nbsp;
+
+Main folder: 2D_enteric_neuron_subtype_model_QA.zip
+Model File: 2D_enteric_neuron_subtype_v4.zip
+
+
+Enteric ganglia (2D UNet model; Use in FIJI with deepImageJ)
+
+Main folder: 2D_enteric_ganglia_model_QA.zip
+Model File: 2D_Ganglia_RGB_v2.bioimage.io.model.zip (Compatible with deepimageJ v3)
+
+
+
+For the all models, files included are:
+
+Model for segmenting cells or ganglia in 2D FIJI. StarDist or 2D UNet.
+Training and Test datasets used for training.
+Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic notebooks).
+Quality assurance reports generated from above notebooks.
+StarDist model exported for use in QuPath.
+
+The model files can be used within can be used within the software,&nbsp;StarDist. They&nbsp;are intended to be used within FIJI or QuPath, but can be used in any software that supports the implementation of StarDist in 2D.
+Data:
+All the images were collected from 4 different research labs and a public database (SPARC database) to account for variations in image acquisition, sample preparation and immunolabelling.
+For enteric neurons&nbsp;the pan-neuronal marker, Hu&nbsp;has been used and the&nbsp; 2D wholemounts images from mouse, rat and human tissue.
+For enteric neuronal subtypes, 2D images for nNOS, MOR, DOR, ChAT, Calretinin, Calbindin, Neurofilament, CGRP and SST from mouse tissue have been used..
+25 images were used&nbsp;from the following entries in the&nbsp;SPARC database:
+
+Howard, M. (2021). 3D imaging of enteric neurons in mouse (Version 1) [Data set]. SPARC Consortium. 
+Graham, K. D., Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman, M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M., &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC Consortium.
+Wang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies Tested in theColon &ndash; Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h
+
+The images have been acquired using a combination different microscopes. The images for the mouse tissue were acquired using:&nbsp;
+
+
+Leica TCS-SP8 confocal system (20x HC PL APO NA 1.33, 40 x HC PL APO NA 1.3)&nbsp;
+
+
+Leica TCS-SP8 lightning confocal system (20x HC PL APO NA 0.88)&nbsp;
+
+
+Zeiss Axio Imager M2 (20X HC PL APO NA 0.3)&nbsp;
+
+
+Zeiss Axio Imager Z1 (10X HC PL APO NA 0.45)&nbsp;
+
+
+Human tissue images were acquired using:&nbsp;
+
+
+IX71 Olympus microscope (10X HC PL APO NA 0.3)&nbsp;
+
+
+For more information, visit the&nbsp;Documentation website.
+NOTE: The images for enteric neurons and neuronal subtypes have been rescaled to 0.568 &micro;m/pixel for mouse and rat. For human neurons, it has been rescaled to 0.9 &micro;m/pixel . This is to ensure the neuronal cell bodies have similar pixel area across images. The area of cells in pixels can vary based on resolution of image, magnification of objective used, animal species (larger animals -&gt; larger neurons) and potentially how the tissue is stretched during wholemount preparation&nbsp;
+Average neuron area for neuronal model:&nbsp;701.2 &plusmn; 195.9 pixel2 (Mean &plusmn; SD, 6267 cells)
+Average neuron area for neuronal subtype model:&nbsp;880.9 &plusmn; 316 pixel2 (Mean &plusmn; SD, 924 cells)
+Software References:
+Stardist
+Schmidt, U., Weigert, M., Broaddus, C., &amp; Myers, G. (2018, September). Cell detection with star-convex polygons. In&nbsp;International Conference on Medical Image Computing and Computer-Assisted Intervention&nbsp;(pp. 265-273). Springer, Cham.
+deepImageJ
+G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W., Donati, L., Lundberg, E., Unser, M., Mu&ntilde;oz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly environment to run deep learning models in ImageJ.&nbsp;Nature Methods,&nbsp;18(10), pp.1192-1195.
+ZeroCost DL4Mic
+von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
+
+[https://zenodo.org/records/10460434](https://zenodo.org/records/10460434)
+
+[https://doi.org/10.5281/zenodo.10460434](https://doi.org/10.5281/zenodo.10460434)
+
+
+---
+
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
 Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
@@ -750,6 +875,25 @@ This comment article outlines the current state of the art in open hardware publ
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
+
+
+---
+
+## Optimisation and Validation of a Swarm Intelligence based Segmentation Algorithm for low Contrast Positron Emission Tomography
+
+Robert Haase
+
+Published 2014-04-01
+
+Licensed CC-BY-4.0
+
+
+
+In the field of radiooncological research, individualised therapy is one of the hot topics at the moment. As a key aspect biologically-adapted therapy is discussed. Therapy adaption based on biological parameters&nbsp;may include tomographic imaging to determine biological properties of the tumour. One often invoked&nbsp;imaging modality is positron emission tomography (PET) using the tracer [18F]-fluoromisonidazole&nbsp;(FMISO) for hypoxia imaging. Hypoxia imaging is of interest, because hypoxic tumours are known to be radiorestistant. Even further, patients with hypoxic tumours have worse prognosis compared to patients&nbsp;with normoxic tumours. Thus, hypoxia imaging appears promising for radiotherapy treatment adaption.&nbsp;For example, volumetric analysis of FMISO PET could deliver additional hypoxia target volumes, which&nbsp;may be irradiated with higher radiation doses to improve the therapeutic effect. However, limited contrast&nbsp;between target volume and background in FMISO PET images interferes image analysis.Established&nbsp;methods for target volume delineation in PET do not allow determination of reliable contours in FMISO PET. To tackle this aspect, this thesis focusses on an earlier developed swarm intelligence based&nbsp;segmentation algorithm for FMISO PET and rather, its optimisation and validation in a clinically relevant&nbsp;setting. In this setting, clinical FMISO PET images were used which were acquired as part of a clinical&nbsp;trial performed at the Clinic and Policlinic for Radiation Therapy and Radiooncology of the University&nbsp;Hospital Carl Gustav Carus Dresden. The segmentation algorithm was applied to these imaging data&nbsp;sets and optimised using a cross-validation approach incorporating reference contours from experienced&nbsp;observers who outlined FMISO PET positive volumes manually. Afterwards, the performance of the algorithm&nbsp;and the properties of the resulting contours were studied in more detail. The algorithm was shown&nbsp;to deliver contours which were similar to manually-created contours to a degree like manually-created&nbsp;contours were similar to each other. Thus, the application of the algorithm in clinical research is recommended&nbsp;to eliminate inter-observer-variabilities. Finally, it was shown that repeated FMISO PET imaging&nbsp;before and shortly after the beginning of combined radiochemotherapy lead to manually-created contours&nbsp;with significantly higher variations than the variations of automatically-created contours using the&nbsp;proposed algorithm. Increased contour similarity in subsequently acquired imaging data highlights the&nbsp;observer-independence of the algorithm. While several observers outline different volumes, in identical&nbsp;data sets as well as in subsequent imaging data sets, the algorithm outlines more stable volumes in both&nbsp;cases. Thus, increased contour reproducibility is reached by automation of the delineation process by&nbsp;the proposed algorithm.&nbsp;
+
+[https://zenodo.org/records/7209862](https://zenodo.org/records/7209862)
+
+[https://doi.org/10.5281/zenodo.7209862](https://doi.org/10.5281/zenodo.7209862)
 
 
 ---

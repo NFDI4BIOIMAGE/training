@@ -1,4 +1,4 @@
-# Elisa ferrando-may (6)
+# Elisa ferrando-may (7)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -94,6 +94,25 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
+
+
+---
+
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
 
 
 ---

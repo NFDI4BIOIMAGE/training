@@ -1,4 +1,4 @@
-# Nicolas chiaruttini (6)
+# Nicolas chiaruttini (7)
 ## BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
@@ -65,6 +65,32 @@ Some metadata like the tiles positions are stored in the extra files (omp2info)
 [https://zenodo.org/records/13680725](https://zenodo.org/records/13680725)
 
 [https://doi.org/10.5281/zenodo.13680725](https://doi.org/10.5281/zenodo.13680725)
+
+
+---
+
+## Evident OIR sample files with lambda scan - FV 4000
+
+Nicolas Chiaruttini
+
+Published 2024-07-18
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are confocal images taken with the Evident FV 4000 of a sample containing DAPI and mCherry stains, excited with the 405 nm laser and images for different emission windows (lambda scan).
+They are public sample files which goal is to help test edge cases of the bio-formats library (https://www.openmicroscopy.org/bio-formats/), in particular for the proper handling of lambda scans.
+
+DAPI_mCherry_22Lambda-420-630-w10nm-s10nm.oir : 22 planes, each plane is an emission window, starting from 420 nm up to 630 nm by steps of 10 nm
+DAPI_mCherry_4T_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 timepoints
+DAPI_mCherry_4Z_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices
+DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices, 3 timepoints
+
+
+[https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
+
+[https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
 
 
 ---

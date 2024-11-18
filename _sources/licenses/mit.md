@@ -1,4 +1,4 @@
-# Mit (23)
+# Mit (24)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -182,6 +182,31 @@ Tags: Deep Learning, Pytorch, Segmentation, Python
 Content type: Notebook
 
 [https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
+## LauLauThom/MaskFromRois-Fiji: Masks from ROIs plugins for Fiji - initial release
+
+Laurent Thomas, Pierre Trehin
+
+Published 2021-07-22
+
+Licensed MIT
+
+
+
+Fiji plugins for the creation of binary and semantic masks from ROIs in the RoiManager. Works with stacks too.
+
+Installation in Fiji: activate the Rois from masks update site in Fiji.
+
+See GitHub readme for the documentation.
+
+Latest tested with Fiji 2.1.0/ImageJ 1.53j
+
+[https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
+
+[https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
 
 
 ---

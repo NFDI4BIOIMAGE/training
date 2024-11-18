@@ -1,4 +1,4 @@
-# Tom boissonnet (8)
+# Tom boissonnet (10)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -63,6 +63,42 @@ Content type: Slide, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Silke Tulok, Anja Nobst, Anett Jannasch, Tom Boissonnet, Gunar Fabig
+
+Published 2024-06-28
+
+Licensed CC-BY-4.0
+
+
+
+This Key-Value pair template is used for the data documentation during imaging experiments and the later data annotation in OMERO. It is tailored for the usage and image acquisition at the slide scanning system Zeiss AxioScan 7 in the Core Facility Cellular Imaging (CFCI). It contains important metadata of the imaging experiment, which are not saved in the corresponding imaging files. All users of the Core Facility Cellular Imaging are trained to use that file to document their imaging parameters directly during the data acquisition with the possibility for a later upload to OMERO. Furthermore, there is a corresponding public example image used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here:
+https://omero.med.tu-dresden.de/webclient/?show=image-33248
+This template was developed by the CFCI staff during the setup and usage of the AxioScan 7 and is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015).
+With this template it is possible to create a csv-file, that can be used to annotate an image or dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+
+fill the template sheet&nbsp; with your metadata
+select and copy the data range containing the Keys and Values
+open a new excel sheet and paste transpose in cell A1&nbsp;
+Important: cell A1 contains always the name 'dataset' and cell A2 contains the exact name of the image/dataset, which should be annotated in OMERO
+save the new excel sheet in csv-file (comma separated values) format
+
+An example can be seen in sheet 3 'csv_AxioScan'.
+Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might be not able to decode by the annotation script. We encountered this issue with old Microsoft-Office versions (MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of comma as decimal delimiter.
+See cross reference:
+10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
+10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+[https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
+
+[https://doi.org/10.5281/zenodo.12578084](https://doi.org/10.5281/zenodo.12578084)
 
 
 ---
@@ -136,6 +172,25 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
 
 
 ---

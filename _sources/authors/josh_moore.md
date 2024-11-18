@@ -1,4 +1,4 @@
-# Josh moore (21)
+# Josh moore (22)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -194,6 +194,25 @@ Tags: Research Data Management, Bioimage Analysis, Data Science
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [Community Meeting 2024] Supporting and financing RDM projects within GerBI
+
+Stefanie Weidtkamp-Peters, Josh Moore, Christian Schmidt, Roland Nitschke, Susanne Kunis, Thomas Zobel
+
+Published 2024-03-28
+
+Licensed CC-BY-4.0
+
+
+
+Overview of GerBI RDM projects: why and how?
+
+[https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
+
+[https://doi.org/10.5281/zenodo.10889694](https://doi.org/10.5281/zenodo.10889694)
 
 
 ---

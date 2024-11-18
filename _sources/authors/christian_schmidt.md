@@ -1,4 +1,4 @@
-# Christian schmidt (15)
+# Christian schmidt (17)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -215,6 +215,25 @@ Content type: Publication
 
 ---
 
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
+
+
+---
+
 ## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
 
 Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
@@ -230,6 +249,25 @@ Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
 [https://doi.org/10.5281/zenodo.11501662](https://doi.org/10.5281/zenodo.11501662)
+
+
+---
+
+## [Community Meeting 2024] Supporting and financing RDM projects within GerBI
+
+Stefanie Weidtkamp-Peters, Josh Moore, Christian Schmidt, Roland Nitschke, Susanne Kunis, Thomas Zobel
+
+Published 2024-03-28
+
+Licensed CC-BY-4.0
+
+
+
+Overview of GerBI RDM projects: why and how?
+
+[https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
+
+[https://doi.org/10.5281/zenodo.10889694](https://doi.org/10.5281/zenodo.10889694)
 
 
 ---
