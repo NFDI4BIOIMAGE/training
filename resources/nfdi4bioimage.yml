@@ -6105,7 +6105,266 @@ resources:
   - https://zenodo.org/records/1472859
   - https://doi.org/10.5281/zenodo.1472859
 
+- authors: Yannick KREMPP
+  description: A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+  license: UNKNOWN
+  name: AI ML DL in Bioimage Analysis - Webinar 
+  publication_date: '2024-11-14'
+  tags:
+  - Deep Learning
+  - Machine Learning
+  - Artificial Intelligence
+  - Bioimage Analysis
+  - Large Language Models
+  type:
+  - Youtube Video
+  - Slides
+  - Webinar
+  url: https://www.youtube.com/watch?v=TJXNMIWtdac
+
+- authors: Guillaume Jacquemet
+  description: Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions. 
+  license: UNKNOWN
+  name:  Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy 
+  publication_date: '2024-10-24'
+  tags:
+  - Deep Learning
+  - Microscopy Image Analysis
+  type:
+  - Youtube Video
+  - Slides
+  url: https://www.youtube.com/watch?v=KTdZBgSCYJQ
+
+- description: The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+  license: UNKNOWN
+  name: Metrics Reloaded - A framework for trustworthy image analysis validation
+  tags:
+  - Bioimage Analysis
+  - Image Segmentation
+  - Machine Learning
+  type:
+  - Website
+  - Collection
+  url: https://metrics-reloaded.dkfz.de/
+
+
+- added_date: '2024-11-12T10:17:25.985725'
+  authors: Wendt Jens
+  description: Short presentation given at at PoL BioImage Analysis Symposium Dresden
+    2023
+  license: cc-by-4.0
+  name: Metadata Annotation Workflow for OMERO with Tabbles
+  num_downloads: 131
+  publication_date: '2023-09-04'
+  url:
+  - https://zenodo.org/records/8314968
+  - https://doi.org/10.5281/zenodo.8314968
+
+- authors: Kemmer, Isabel, Romdhane, Feriel, Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
   
+    To guide you in the selection of appropriate repositories, we have created an overview
+    of available repositories for different types of image data, including their scope
+    and requirements. This decision tree guides you through questions about your data
+    and directs you to the correct repository, and/or provides instructions for further
+    processing to meet the critera of the repositories.&nbsp;
+  
+    Three seperate trees are provided for different classes of imaging data: open bioimage
+    data, preclinical data, and human imaging data.&nbsp;'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 129
+  publication_date: '2024-10-22'
+  url:
+  - https://zenodo.org/records/13945179
+  - https://doi.org/10.5281/zenodo.13945179
+
+- authors: Alessandro Rigano, Ulrike Boehm, Claire M. Brown, Joel Ryan, James J. Chambers,
+    Robert A. Coleman, Orestis Faklaris, Thomas Guilbert, Michelle S. Itano, Judith
+    Lacoste, Alex Laude, Marco Marcello, Paula Montero-Llopis, Glyn Nelson, Roland Nitschke,
+    Jaime A. Pimentel, Stefanie Weidtkamp-Peters, Caterina Strambio-De-Castillia
+  description: "Example Microscopy Metadata (Microscope.JSON and Settings.JSON) files\
+    \ produced using Micro-Meta App to document the Hardware Specifications of example\
+    \ Microscopes and the Image Acquisition Settings utilized to acquire example images\
+    \ as listed in the table below.\n\n\nFor each facility, the dataset contains two\
+    \ JSON files:\n\n\n\tMicroscope.JSON file (e.g., 01_marcello_uliverpool_cci_zeiss_axioobserz1_lsm710.json)\n\
+    \tSettings.JSON file (indicated with the name of the image and with the _AS suffix)\n\
+    \n\n\nMicro-Meta App was developed as part of a global community initiative including\
+    \ the 4D Nucleome (4DN) Imaging Working Group, BioImaging North America (BINA) Quality\
+    \ Control and Data Management Working Group, and QUAlity and REProducibility for\
+    \ Instrument and Images in Light Microscopy (QUAREP-LiMi), to extend the Open Microscopy\
+    \ Environment (OME) data model.\n\n\nThe works of this global community effort resulted\
+    \ in multiple publications featured on a recent Nature Methods FOCUS ISSUE dedicated\
+    \ to Reporting and reproducibility in microscopy.\n\n\n\nLearn More! For a thorough\
+    \ description of Micro-Meta App consult our recent Nature Methods and BioRxiv.org\
+    \ publications!\n\n\n&nbsp;\n\n\n\t\n\t\t\n\t\t\tNr.\n\t\t\tManufacturer\n\t\t\t\
+    Model\n\t\t\tTier\n\t\t\t&Epsilon;xperiment Type\n\t\t\tFacility Name\n\t\t\tDepartment\
+    \ and Institution\n\t\t\tURL\n\t\t\tReferences\n\t\t\n\t\t\n\t\t\t1\n\t\t\tCarl\
+    \ Zeiss Microscopy\n\t\t\tAxio Observer Z1 (with LSM 710 scan head)\n\t\t\t1\n\t\
+    \t\t3D visualization of superhydrophobic polymer-nanoparticles\n\t\t\tCentre for\
+    \ Cell Imaging (CCI)\n\t\t\tUniversity of Liverpool\n\t\t\thttps://cci.liv.ac.uk/equipment_710.html\n\
+    \t\t\tUpton et al., 2020\n\t\t\n\t\t\n\t\t\t2\n\t\t\tCarl Zeiss Microscopy\n\t\t\
+    \tAxio Observer (Axiovert 200M)\n\t\t\t2\n\t\t\t&Mu;easurement of illumination stability\
+    \ on Chinese Hamster Ovary cells expressing Paxillin-EGFP\n\t\t\tAdvanced BioImaging\
+    \ Facility (ABIF).\n\t\t\tMcGill University\n\t\t\thttps://www.mcgill.ca/abif/equipment/axiovert-1\n\
+    \t\t\tKiepas et al., 2020\n\t\t\n\t\t\n\t\t\t3\n\t\t\tCarl Zeiss Microscopy\n\t\t\
+    \tAxio Observer Z1 (with Spinning Disk)\n\t\t\t2\n\t\t\tImmunofluorescence imaging\
+    \ of cryosection of Mouse kidney\n\t\t\tImagerie Cellulaire; Quality Control managed\
+    \ by Miacellavie (https://miacellavie.com/)\n\t\t\tCentre de recherche du Centre\
+    \ Hospitalier Universit&eacute; de Montr&eacute;al (CR CHUM), University of Montreal\n\
+    \t\t\thttps://www.chumontreal.qc.ca/crchum/plateformes-et-services&nbsp; (the web\
+    \ site is for all core facilities, not specifically for the core facility hosting\
+    \ this microscope)\n\t\t\tPilliod et al., 2020\n\t\t\n\t\t\n\t\t\t4\n\t\t\tCarl\
+    \ Zeiss Microscopy\n\t\t\tAxio Imager Z2 (with Apotome)\n\t\t\t2\n\t\t\tImmunofluorescence\
+    \ imaging of mitotic division in Hela cells using&nbsp;&nbsp;\n\t\t\tBioimaging\
+    \ Unit\n\t\t\tNewcastle University\n\t\t\thttps://www.ncl.ac.uk/bioimaging/\n\t\t\
+    \tWatson et al., 2020\n\t\t\n\t\t\n\t\t\t5\n\t\t\tCarl Zeiss Microscopy\n\t\t\t\
+    Axio Observer Z1\n\t\t\t2\n\t\t\tFluorescence microscopy of human skin fibroblasts\
+    \ from Glycogen Storage Disease patients.\n\t\t\tLife Imaging Center (LIC)\n\t\t\
+    \tCentre for Integrative Signalling Analysis (CISA), University of Freiburg\n\t\t\
+    \thttps://miap.eu/equipments/sd-i-abl/\n\t\t\tHannibal et al., 2020\n\t\t\n\t\t\n\
+    \t\t\t6\n\t\t\tLeica Microsystems\n\t\t\tDMI6000B\n\t\t\t2\n\t\t\t3D immunofluorescence\
+    \ imaging&nbsp; rhinovirus infected macrophages&nbsp;\n\t\t\tIMAG&#39;IC Confocal\
+    \ Microscopy Facility\n\t\t\tInstitut Cochin, CNRS, INSERM, Universit&eacute; de\
+    \ Paris\n\t\t\thttps://www.institutcochin.fr/core_facilities/confocal-microscopy/cochin-imaging-photonic-microscopy/organigram_team/10054/view\n\
+    \t\t\tJubrail et al., 2020\n\t\t\n\t\t\n\t\t\t7\n\t\t\tLeica Microsystems\n\t\t\t\
+    DM5500B\n\t\t\t2\n\t\t\tImmunofluorescence analysis of the colocalization of PML\
+    \ bodies with DNA double-strand breaks\n\t\t\tBioimaging Unit\n\t\t\tEdwardson Building\
+    \ on the Campus for Ageing and Vitality, Newcastle University\n\t\t\thttps://www.ncl.ac.uk/bioimaging/equipment/leica-dm5500/#overview\n\
+    \t\t\tda Silva et al., 2019; Nelson et al., 2012\n\t\t\t&nbsp;&nbsp;\n\t\t\n\t\t\
+    \n\t\t\t8\n\t\t\tLeica Microsystems\n\t\t\tDMI8-CS (with TCS SP8 STED 3X)\n\t\t\t\
+    2\n\t\t\tLive-cell imaging of N. benthamiana leaves cells-derived protoplasts\n\t\
+    \t\tCenter for Advanced Imaging (CAi)\n\t\t\tSchool of Mathematics/Natural Sciences,\
+    \ Heinrich-Heine-Universit&auml;t D&uuml;sseldorf\n\t\t\thttps://www.cai.hhu.de/en/equipment/super-resolution-microscopy/leica-tcs-sp8-sted-3x\n\
+    \t\t\tSinger et al., 2017; H&auml;nsch et al., 2020\n\t\t\n\t\t\n\t\t\t9\n\t\t\t\
+    Nikon Instruments\n\t\t\tEclipse Ti\n\t\t\t2\n\t\t\tImmunofluorescence analysis\
+    \ of the cytoskeleton structure in COS cells\n\t\t\tAdvanced Imaging Center (AIC)\n\
+    \t\t\tJanelia Research Campus, Howard Hughes Medical Institute\n\t\t\thttps://www.janelia.org/support-team/light-microscopy/equipment\n\
+    \t\t\tAbdelfattah et al., 2019; Qian et al., 2019; Grimm et al., 2020\n\t\t\n\t\t\
+    \n\t\t\t10\n\t\t\tNikon Instruments\n\t\t\tEclipse Ti-E (HCA)\n\t\t\t2\n\t\t\t&Tau;ime-lapse\
+    \ analysis of the bursting behavior of amine-functionalized vesicular assemblies\n\
+    \t\t\tLight Microscopy Facility (IALS-LIF)\n\t\t\tInstitute for Applied Life Sciences,\
+    \ University of Massachusetts at Amherst\n\t\t\thttps://www.umass.edu/ials/light-microscopy\n\
+    \t\t\tFernandez et al., 2020\n\t\t\n\t\t\n\t\t\t11\n\t\t\tNikon Instruments/Coleman\
+    \ laboratory (customized)\n\t\t\tTIRF HILO Epifluorescence light Microscope (THEM)/\
+    \ Eclipse Ti\n\t\t\t2\n\t\t\tSingle-particle tracking of Halo-tagged PCNA in Lox\
+    \ cells\n\t\t\tColeman laboratory\n\t\t\tAnatomy and Structural Biology Department,\
+    \ The Albert Einstein College of Medicine\n\t\t\thttps://einsteinmed.org/faculty/12252/robert-coleman/\n\
+    \t\t\tDrosopoulos et al., 2020\n\t\t\n\t\t\n\t\t\t12\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti (with Andor Dragon Fly Spinning Disk)\n\t\t\t2\n\t\t\tInvestigation\
+    \ of the 3D structure of cerebral organoids\n\t\t\tMontpellier Resources Imagerie\n\
+    \t\t\tCentre de Recherche de Biologie cellulaire de Montpellier (MRI-CRBM), CNRS,\
+    \ Univerity of Montpellier\n\t\t\thttps://www.mri.cnrs.fr/en/optical-imaging/our-facilities/mri-crbm.html\n\
+    \t\t\tAyala-Nunez et al., 2019\n\t\t\n\t\t\n\t\t\t13\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti2\n\t\t\t2\n\t\t\t&Iota;mmunofluorescence imaging of cryosections\
+    \ of mouse hearth myocardium&nbsp;\n\t\t\tNeuroscience Center Microscopy Core\n\t\
+    \t\tNeuroscience Center, University of North Carolina\n\t\t\thttps://www.med.unc.edu/neuroscience/core-facilities/neuro-microscopy/\n\
+    \t\t\tAghajanian et al., 2021\n\t\t\n\t\t\n\t\t\t14\n\t\t\tNikon Instruments\n\t\
+    \t\tEclipse Ti2\n\t\t\t2\n\t\t\tLive-cell imaging of bacterial cells expressing\
+    \ GFP-PopZ\n\t\t\tMicroscopy Resources on the North Quad (MicRoN)\n\t\t\tHarvard\
+    \ Medical School&nbsp;\n\t\t\thttps://micron.hms.harvard.edu/\n\t\t\tLim and Bernhardt\
+    \ 2019; Lim et al., 2019\n\t\t\n\t\t\n\t\t\t15\n\t\t\tOlympus/Biomedical Imaging\
+    \ Group (customized)\n\t\t\tTIRF Epifluorescence Structured light Microscope (TESM)/IX71\n\
+    \t\t\t3\n\t\t\t3D distribution of HIV-1 in the nucleus of human cells\n\t\t\tBiomedical\
+    \ Imaging Group\n\t\t\tProgram in Molecular Medicine, University of Massachusetts\
+    \ Medical School\n\t\t\thttps://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope\n\
+    \t\t\tNavaroli et al., 2012\n\t\t\n\t\t\n\t\t\t16\n\t\t\tOlympus/Computer Vision\
+    \ Laboratory (customized)\n\t\t\t3D BrightField Scanner/IX71\n\t\t\t3\n\t\t\tTransmitted\
+    \ light brightfield visualization of swimming spermatocytes\n\t\t\tLaboratorio Nacional\
+    \ de Microscopia Avanzada (LNMA) and Computer Vision Laboratory of the Institute\
+    \ of Biotechnology\n\t\t\tUniversidad Nacional Autonoma de Mexico (UNAM)\n\t\t\t\
+    https://lnma.unam.mx/wp/\n\t\t\tPimentel et al., 2012; Silva-Villalobos et al.,\
+    \ 2014\n\t\t\n\t\n\n\nGetting started\n\nUse these videos to get started with using\
+    \ Micro-Meta App after installation into OMERO and downloading the example data\
+    \ files:\n\n\n\tVideo 1\n\tVideo 2\n\n\nMore information\n\n\nFor full information\
+    \ on how to use Micro-Meta App please utilize the following resources:\n\n\n\tMicro-Meta\
+    \ App website\n\tFull documentation\n\tInstallation instructions\n\tStep-by-Step\
+    \ Instructions\n\tTutorial Videos\n\n\n\nBackground\n\nIf you want to learn more\
+    \ about the importance of metadata and quality control to ensure full reproducibility,\
+    \ quality and scientific value in light microscopy, please take a look at our recent\
+    \ publications describing the development of community-driven light 4DN-BINA-OME\
+    \ Microscopy Metadata specifications Nature Methods and BioRxiv.org and our overview\
+    \ manuscript entitled A perspective on Microscopy Metadata: data provenance and\
+    \ quality control.\n\n&nbsp;\n\n&nbsp;"
+  license: cc-by-4.0
+  name: Example Microscopy Metadata JSON files produced using Micro-Meta App to document
+    example microscopy experiments performed at individual core facilities
+  num_downloads: 1053
+  publication_date: '2022-01-15'
+  url:
+  - https://zenodo.org/records/5847477
+  - https://doi.org/10.5281/zenodo.5847477
+
+- authors: "Ahmadi, Mohsen, Wagner, Robert, Mattern, Philipp, Plathe, Nick, Bekeschus,\
+    \ Sander, Becker, Markus M., St\xF6ter, Torsten, Weidtkamp-Peters, Stefanie"
+  description: A more detailed understanding of the effect of plasmas on biological
+    systems can be fostered by combining data from different imaging modalities, such
+    as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however,
+    requires the implementation and use of sophisticated research data management (RDM)
+    solutions to incorporate the influence of plasma parameters and treatment procedures
+    as well as the effects of plasma on the treated targets. In order to address this,
+    RDM activities on different levels and from different perspectives are started and
+    brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
+  license: cc-by-4.0
+  name: Data stewardship and research data management tools for multimodal linking of
+    imaging data in plasma medicine
+  num_downloads: 68
+  publication_date: '2023-11-03'
+  url:
+  - https://zenodo.org/records/10069368
+  - https://doi.org/10.5281/zenodo.10069368
+
+- authors: "Heber, Maximilian, Jakob, Moritz, Landwehr, Matthias, Leendertse, Jan, M\xFC\
+    ller, Maximilian, Schneider, Gabriel, von Suchodoletz, Dirk, Ulrich, Robert"
+  description: "Im Zuge der stetig wachsenden Brisanz des Forschungsdatenmanagements\
+    \ fallen immer gr&ouml;&szlig;ere Mengen an Forschungsdaten an. Diese an sich begr&uuml;&szlig;enswerte\
+    \ Entwicklung f&uuml;hrt zu technischen und organisatorischen Herausforderungen\
+    \ nicht nur im Bereich der Speicherung von Forschungsdaten, sondern in allen Phasen\
+    \ des Forschungsdatenlebenszyklus. Der vorliegende Beitrag erl&auml;utert vor diesem\
+    \ Hintergrund m&ouml;gliche Motivationen hinter digitaler Datensparsamkeit mit Blick\
+    \ auf organisatorische, technische und ethische Kriterien, Datenschutz und Nachhaltigkeit.\
+    \ Anschlie&szlig;end werden vor dem Hintergrund zentraler Herausforderungen Umsetzungsvorschl&auml;ge\
+    \ f&uuml;r das Vorfeld sowie den Verlauf eines Forschungsvorhabens gemacht. Zudem\
+    \ werden grundlegende Empfehlungen zur digitalen Datensparsamkeit ausgesprochen.\n\
+    Eine k&uuml;rzere Ausgabe des Leitfadens ist im Mai 2024 in der Zeitschrift o |\
+    \ bib erschienen: https://doi.org/10.5282/o-bib/6036 \nDiese Ausgabe enth&auml;lt\
+    \ ein zus&auml;tzliches Kapitel (4.2) mit konkreten Praxisbeispielen.\nDieser Artikel\
+    \ wurde ins Englische &uuml;bersetzt:\nHeber, M., Jakob, M., Landwehr, M., Leendertse,\
+    \ J., M&uuml;ller, M., Schneider, G., von Suchodoletz, D., &amp; Ulrich, R. (2024).\
+    \ A Users' Guide to Economical Digital Data Usage. Zenodo. https://doi.org/10.5281/zenodo.13752220"
+  license: cc-by-4.0
+  name: Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
+  num_downloads: 255
+  publication_date: '2024-06-03'
+  url:
+  - https://zenodo.org/records/11445843
+  - https://doi.org/10.5281/zenodo.11445843
+
+- authors: C. Li
+  description: 'Online R learning for applied statistics '
+  license: Creative Commons Zero v1.0 Universal
+  name: Online_R_learning
+  publication_date: '2023-07-09T06:27:14+00:00'
+  tags: 
+  - statistics
+  type: 
+  - GitHub Repository
+  url: https://github.com/cxli233/Online_R_learning
+
+- authors: C. Li
+  description: 'Friends don''t let friends make certain types of data visualization
+    - What are they and why are they bad. '
+  license: MIT License
+  name: FriendsDontLetFriends
+  publication_date: '2024-03-10T15:34:07+00:00'
+  tags: 
+  - Visualization
+  type: GitHub Repository
+  url: https://github.com/cxli233/FriendsDontLetFriends
+
+
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
   - Boissonnet, Tom
@@ -6551,3 +6810,192 @@ resources:
   - https://zenodo.org/records/10730424
   - https://doi.org/10.5281/zenodo.10730424
 
+- authors: 
+  - Jannasch, Anett
+  - Tulok, Silke
+  - Fuchs, Vanessa Aphaia Fiona
+  - Boissonnet, Tom
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Fabig, Gunar
+  - Okafornta, Chukwuebuka
+  description: 'This is a Key-Value pair template used for the annotation of datasets
+    in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility
+    of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes
+    (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac
+    Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t
+    Dresden . A corresponding public example dataset is used in the publication "Setting
+    up an institutional OMERO environment for bioimage data: perspectives from both
+    facility staff and users" and is available here
+  
+    (https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
+  
+    The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015)
+    and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug
+    28th- Sept 1th 2023.&nbsp;
+  
+    With this template it is possible to create a csv-file, that can be used to annotate
+    a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+  
+    How to use:
+    
+    select and copy the data range containing Keys and Values
+    
+    open a new excel sheet and paste transpose in column B1
+  
+    type in A1 ''dataset''
+  
+    insert in A2 the exact name of the dataset, which should be annotated in OMERO
+  
+    save the new excel sheet in csv- (comma seperated values) file format
+  
+  
+    Example can be seen in sheet 1 ''csv import''. Important note; the code has to be
+    8-Bit UCS transformation format (UTF-8) otherwise several characters (for example
+    &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered
+    this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
+  
+    Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
+  
+    &nbsp;
+  
+    See cross reference:
+  
+    10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets
+    in OMERO (light- and electron microscopy data within the research group of Prof.
+    Mueller-Reichert)
+  
+    10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light
+    microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)'
+  license: cc-by-4.0
+  name: Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+  num_downloads: 10
+  publication_date: '2024-06-26'
+  url:
+  - https://zenodo.org/records/12546808
+  - https://doi.org/10.5281/zenodo.12546808  
+
+
+
+- authors: Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
+  description: 'Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar,
+    Ulm, online. Monday February 6th, 2023
+  
+  
+    Abstract:
+  
+  
+    Research data management is essential in nowadays research, and one of the big opportunities
+    to accelerate collaborative and innovative scientific projects. To achieve this
+    goal, all our data needs to be FAIR (findable, accessible, interoperable, reproducible).
+    For data acquired on microscopes, however, a common ground for FAIR data sharing
+    is still to be established. Plenty of work on file formats, data bases, and training
+    needs to be performed to highlight the value of data sharing and exploit its potential
+    for bioimaging data.
+  
+  
+    In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for
+    bioimaging data management, and the necessary steps to achieve data FAIRification.
+    German BioImaging - GMB e.V., together with other institutions, contributes to this
+    endeavor. Janina Hanne will present how the network of imaging core facilities,
+    research groups and industry partners is key to the German bioimaging community&rsquo;s
+    aligned collaboration toward FAIR bioimaging data. These activities have paved the
+    way for two data management initiatives in Germany: I3D:bio (Information Infrastructure
+    for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data
+    Infrastructure. Christian Schmidt will introduce the goals and measures of these
+    initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice.
+    &nbsp;'
+  license: cc-by-4.0
+  name: A journey to FAIR microscopy data
+  num_downloads: 68
+  publication_date: '2023-05-03'
+  url:
+  - https://zenodo.org/records/7890311
+  - https://doi.org/10.5281/zenodo.7890311
+
+- authors: "Tulok, Silke, Fabig, Gunar, Vogelsang, Andy, Kugel, Thomas, M\xFCller-Reichert,\
+    \ Thomas"
+  description: The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine
+    Carl Gustav Carus (TU Dresden) is currently running a pilot project for testing
+    the use and handling of the OMERO software. This is done together with interested
+    users of the imaging facility and a research group. Currently, we are pushing forward
+    this pilot study on a small scale without any data steward. Our experiences argue
+    so far for giving data management issues into the hands of dedicated personnel not
+    fully involved in research projects. As funding agencies will ask for higher and
+    higher standards for implementing FAIRdata principles in the future, this will be
+    a releva
+  license: cc-by-4.0
+  name: 'Report on a pilot study:  Implementation of OMERO for  microscopy data management'
+  num_downloads: 80
+  publication_date: '2023-11-10'
+  url:
+  - https://zenodo.org/records/10103316
+  - https://doi.org/10.5281/zenodo.10103316
+
+- authors: "Fabig, Gunar, Jannasch, Anett, Okafornta, Chukwuebuka, Boissonnet, Tom,\
+    \ Schmidt, Christian, Bortolomeazzi, Michele, Fuchs, Vanessa Aphaia Fiona, Koeckert,\
+    \ Maria, Poddar, Aayush, Vogel, Martin, Schwarzbach, Hanna-Margareta, Vogelsang,\
+    \ Andy, Gerlach, Michael, Nobst, Anja, M\xFCller-Reichert, Thomas, Tulok, Silke"
+  description: 'This are a two Key-Value pair templates used for the annotation of datasets
+    in OMERO. They are tailored for light- and electron microcopy data for all research
+    projects of the research group of Prof. T. Mueller-Reichert.&nbsp; All members of
+    the Core Facility Cellular Imaging agreed for using these templates to annotate
+    data in OMERO. Furthermore, there are a corresponding public example datasets used
+    in the publication "Setting up an institutional OMERO environment for bioimage data:
+    perspectives from both facility staff and users" and are available here:
+  
+    https://omero.med.tu-dresden.de/webclient/?show=dataset-1552 --&gt; for lattice-light
+    sheet microscopy
+  
+    https://omero.med.tu-dresden.de/webclient/?show=dataset-1555--&gt; for electron
+    microscopy data
+  
+    That templates are based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015)
+    and were developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th-
+    Sept 1st in 2023 and further adapeted during the usage of OMERO.&nbsp;
+  
+    With every template it is possible to create a csv-file, that can be used to annotate
+    a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+  
+    How to use:
+  
+  
+    fill the template with metadata
+  
+    select and copy the data range containing the Keys and Values
+  
+    open a new excel sheet and paste transpose in cell A1
+  
+    Important: cell A1 contains always the name ''dataset'' and cell A2 contains the
+    exact name of the dataset, which should be annotated in OMERO
+  
+    save the new excel sheet in csv-file (comma separated values) format
+  
+  
+    Examples can be seen in sheet 3 ''csv_TOMO'' and sheet 5 csv_TEM''.
+  
+    Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise
+    several characters (for example &micro;, %,&deg;) might be not able to decode by
+    the annotation script. We encountered this issue with old Microsoft-Office versions
+    (MS Office 2016).&nbsp;
+  
+    Note: By filling the values in the excel sheet, avoid the usage of comma as decimal
+    delimiter.
+  
+    See cross reference:
+  
+    10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets
+    in OMERO (PERIKLES study)
+  
+    10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light
+    microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+  
+    &nbsp;'
+  license: cc-by-4.0
+  name: "Key-Value pair template for annotation of datasets in OMERO for light- and\
+    \ electron microscopy data within the research group of Prof. M\xFCller-Reichert"
+  num_downloads: 12
+  publication_date: '2024-06-26'
+  url:
+  - https://zenodo.org/records/12547566
+  - https://doi.org/10.5281/zenodo.12547566
