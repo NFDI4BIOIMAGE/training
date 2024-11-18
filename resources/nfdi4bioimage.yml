@@ -5872,7 +5872,6 @@ resources:
   - https://zenodo.org/records/14013026
   - https://doi.org/10.5281/zenodo.14013026
 
-
 - authors: "Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil"
   name: Lecture-materials of the DeepLife course
   publication_date: '2023-12-06'
@@ -6811,7 +6810,6 @@ resources:
   - https://zenodo.org/records/10730424
   - https://doi.org/10.5281/zenodo.10730424
 
-
 - authors: 
   - Jannasch, Anett
   - Tulok, Silke
@@ -7001,7 +6999,8 @@ resources:
   url:
   - https://zenodo.org/records/12547566
   - https://doi.org/10.5281/zenodo.12547566
-  - added_date: '2024-11-18T16:34:09.954845'
+
+- added_date: '2024-11-18T16:34:09.954845'
   authors:
   - Gerlach, Michael
   description: 'This upload features a simple model for the creation (Manufacturing/Prototyping)
