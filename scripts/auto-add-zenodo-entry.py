@@ -5,7 +5,7 @@
 import sys
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
-
+from datetime import datetime
 
 def main():
     """
@@ -99,6 +99,8 @@ def complete_zenodo_data(zenodo_url):
     
     if 'stats'  in zenodo_data.keys():
         entry['num_downloads'] = zenodo_data['stats']['downloads']
+    
+    entry['added_date'] = datetime.now().isoformat()
 
     return entry
 

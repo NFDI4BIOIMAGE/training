@@ -78,6 +78,15 @@ def main():
             author_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{author_toc}", author_toc)
 
+    # Generate the 'What's New' page with content sorted by added date
+    sorted_content = sorted(
+        content['resources'],
+        key=lambda x: str(x.get('added_date', '0000-00-00')),
+        reverse=True
+    )[:10]
+
+    write_md({f["name"]:f for f in sorted_content}, "Recently added", "docs/whats_new.md")
+
     # go through all urls and detect duplicates
     all_urls = collect_all(content, "url")
     duplicate_found = False
