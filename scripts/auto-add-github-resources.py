@@ -3,6 +3,7 @@ import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
 from github import Github, GithubException  
+from datetime import datetime
 
 def main():
     """
@@ -80,6 +81,10 @@ def complete_github_data(github_repo_url):
 
     g = Github(token)
     repo_path = github_repo_url.replace("https://github.com/", "")
+    if repo_path.endswith("/"):
+        repo_path = repo_path[:-1]
+
+    print("Loading", repo_path)
     repo = g.get_repo(repo_path)
 
     entry = {}
@@ -89,13 +94,13 @@ def complete_github_data(github_repo_url):
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
             # Use the contributor's full name if available, otherwise use the username
-            entry['author'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
+            entry['authors'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
         else:
-            entry['author'] = ""
+            entry['authors'] = ""
     except GithubException as e:
         if e.status == 403:
             print(f"403 error: Cannot access contributors for {repo.full_name}. Skipping this step.")
-            entry['author'] = "Contributors not accessible"
+            entry['authors'] = "Contributors not accessible"
         else:
             raise e
 
@@ -115,6 +120,8 @@ def complete_github_data(github_repo_url):
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
+
+    entry['added_date'] = datetime.now().isoformat()
 
     # Tags: always add the message "Dear users, please add tags."
     entry['tags'] = "TODO"
