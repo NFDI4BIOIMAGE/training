@@ -6342,6 +6342,17 @@ resources:
   url:
   - https://zenodo.org/records/11445843
   - https://doi.org/10.5281/zenodo.11445843
+
+- authors: C. Li
+  description: 'Online R learning for applied statistics '
+  license: Creative Commons Zero v1.0 Universal
+  name: Online_R_learning
+  publication_date: '2023-07-09T06:27:14+00:00'
+  tags: 
+  - statistics
+  type: 
+  - GitHub Repository
+  url: https://github.com/cxli233/Online_R_learning
   
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
@@ -6978,3 +6989,4 @@ resources:
   url:
   - https://zenodo.org/records/12547566
   - https://doi.org/10.5281/zenodo.12547566
+  
