@@ -12,6 +12,7 @@ This is a **preliminary** / **experimental** search index allowing us to explore
 Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/NFDI4BIOIMAGE/training/issues).
 
 ## Most downloaded training materials in the last week
+We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
 1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (142 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
