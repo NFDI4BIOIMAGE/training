@@ -6353,7 +6353,19 @@ resources:
   type: 
   - GitHub Repository
   url: https://github.com/cxli233/Online_R_learning
-  
+
+- authors: C. Li
+  description: 'Friends don''t let friends make certain types of data visualization
+    - What are they and why are they bad. '
+  license: MIT License
+  name: FriendsDontLetFriends
+  publication_date: '2024-03-10T15:34:07+00:00'
+  tags: 
+  - Visualization
+  type: GitHub Repository
+  url: https://github.com/cxli233/FriendsDontLetFriends
+
+
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
   - Boissonnet, Tom
