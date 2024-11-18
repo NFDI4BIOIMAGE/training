@@ -6161,6 +6161,26 @@ resources:
   - https://zenodo.org/records/8314968
   - https://doi.org/10.5281/zenodo.8314968
 
+- authors: Kemmer, Isabel, Romdhane, Feriel, Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+  
+    To guide you in the selection of appropriate repositories, we have created an overview
+    of available repositories for different types of image data, including their scope
+    and requirements. This decision tree guides you through questions about your data
+    and directs you to the correct repository, and/or provides instructions for further
+    processing to meet the critera of the repositories.&nbsp;
+  
+    Three seperate trees are provided for different classes of imaging data: open bioimage
+    data, preclinical data, and human imaging data.&nbsp;'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 129
+  publication_date: '2024-10-22'
+  url:
+  - https://zenodo.org/records/13945179
+  - https://doi.org/10.5281/zenodo.13945179
   
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
@@ -6606,4 +6626,3 @@ resources:
   url:
   - https://zenodo.org/records/10730424
   - https://doi.org/10.5281/zenodo.10730424
-
