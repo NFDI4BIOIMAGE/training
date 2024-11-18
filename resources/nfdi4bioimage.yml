@@ -6108,3 +6108,11 @@ resources:
 
 
   
+- authors: This is a test again2
+  description: test
+  license: ALL RIGHTS RESERVED
+  name: This is a test again
+  tags: Artificial Intelligence
+  type: Blog
+  submission_date: 2024-11-18
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
