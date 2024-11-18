@@ -11,6 +11,7 @@ import bia_bob
 import shutil
 import pandas as pd
 from generate_link_lists import load_dataframe, update_yaml_file, complete_zenodo_data
+from datetime import datetime
 
 def main():
     """
@@ -67,6 +68,7 @@ def main():
                     not_in_data_yet = False
 
             if not_in_data_yet:
+                data['added_date'] = datetime.now().isoformat()
                 name = data["name"]
                 log.append(f"* [{name}]({url})")
                 new_data.append(data)
