@@ -5981,7 +5981,8 @@ resources:
   license: MIT License
   name: FriendsDontLetFriends
   publication_date: '2024-03-10T15:34:07+00:00'
-  tags: TODO
+  tags: 
+  - Visualization
   type: GitHub Repository
   url: https://github.com/cxli233/FriendsDontLetFriends
   
