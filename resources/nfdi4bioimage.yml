@@ -6783,8 +6783,15 @@ resources:
     Tools for metadata annotation in OMERO
  
 
-- authors: Jannasch, Anett, Tulok, Silke, Fuchs, Vanessa Aphaia Fiona, Boissonnet, Tom,
-    Schmidt, Christian, Bortolomeazzi, Michele, Fabig, Gunar, Okafornta, Chukwuebuka
+- authors: 
+  - Jannasch, Anett
+  - Tulok, Silke
+  - Fuchs, Vanessa Aphaia Fiona
+  - Boissonnet, Tom
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Fabig, Gunar
+  - Okafornta, Chukwuebuka
   description: 'This is a Key-Value pair template used for the annotation of datasets
     in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility
     of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes
