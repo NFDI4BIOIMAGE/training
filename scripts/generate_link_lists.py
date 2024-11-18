@@ -70,7 +70,6 @@ def main():
     author_toc = ""
     for author in sorted(list(all_author_counts.keys())):
         count = all_author_counts[author] 
-        print("AAACC", author, count)
         if count >= MINIMUM_ITEM_COUNT:
             selected_content = find_author(content, author)
             filename = "authors/" + author.replace(" ", "_")
@@ -112,7 +111,7 @@ def all_content(directory_path):
     content = {'resources':[]}
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
-            print("Adding", filename)
+            #print("Adding", filename)
             new_content = read_yaml_file(os.path.join(directory_path, filename))  # Corrected line
             content['resources'] = content['resources'] + new_content['resources']
     return content
@@ -318,7 +317,7 @@ def read_zenodo(record):
     record = record.replace("record/", "records/")
     url = "https://zenodo.org/api/" + record
 
-    print(url)
+    #print(url)
     
     # Download the file
     response = requests.get(url)
@@ -400,7 +399,7 @@ def find_anything(content, what_to_look_in, what_to_find):
 
                 list_to_look_at = [str(i).lower().strip() for i in list_to_look_at]
                 if what_to_find in list_to_look_at:
-                    print("* listing", c['name'])
+                    #print("* listing", c['name'])
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
@@ -422,7 +421,7 @@ def write_md(resources, title, filename):
         for name in sorted(list(resources.keys())):
             properties = resources[name]
             
-            print("* ", name)
+            #print("* ", name)
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
