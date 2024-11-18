@@ -39,6 +39,11 @@ def main():
     print("New branch:", branch)
     log = []
     new_data = []
+
+    # old data
+    df = load_dataframe("resources/")
+    all_urls = str(df["url"].tolist())
+
     for community in communities:
         log.append(f"# {community}")
         log.append(f"https://zenodo.org/communities/{community}")
@@ -50,9 +55,6 @@ def main():
         hits = online_data["hits"]["hits"]
         urls = [u["links"]["self_html"] for u in hits]
 
-        # old data
-        df = load_dataframe("resources/")
-        all_urls = str(df["url"].tolist())
 
         # compare which new is not in old
 
