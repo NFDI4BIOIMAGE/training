@@ -7001,4 +7001,197 @@ resources:
   url:
   - https://zenodo.org/records/12547566
   - https://doi.org/10.5281/zenodo.12547566
-  
+  - added_date: '2024-11-18T16:18:00.617201'
+  authors:
+  - Kemmer, Isabel
+  - Romdhane, Feriel
+  - Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+
+    To guide you in the selection of appropriate repositories, we have created an
+    overview of available repositories for different types of image data, including
+    their scope and requirements. This decision tree guides you through questions
+    about your data and directs you to the correct repository, and/or provides instructions
+    for further processing to meet the critera of the repositories.&nbsp;
+
+    Three seperate trees are provided for different classes of imaging data: open
+    bioimage data, preclinical data, and human imaging data.&nbsp;'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 150
+  publication_date: '2024-10-22'
+  url:
+  - https://zenodo.org/records/13945179
+  - https://doi.org/10.5281/zenodo.13945179
+- added_date: '2024-11-18T16:18:01.747536'
+  authors:
+  - bugraoezdemir
+  description: 'Changes implemented since v0.0.3
+
+
+    Support provided for file paths with spaces.
+
+    Support provided for globbing filenames from s3 for one-to-one conversion (parse_s3_filenames.py
+    modified).
+
+    Support provided for single file import from s3 (parse_s3_filenames.py modified).
+
+    run_conversion.py replaces batchconvert_cli.sh and construct_cli.py, uniting them.
+
+    Error handling updated for each process
+
+    '
+  license: cc-by-4.0
+  name: 'Euro-BioImaging/BatchConvert: v0.0.4'
+  num_downloads: 48
+  publication_date: '2024-02-19'
+  url:
+  - https://zenodo.org/records/10679318
+  - https://doi.org/10.5281/zenodo.10679318
+- added_date: '2024-11-18T16:18:02.412076'
+  authors:
+  - David, Romain
+  - Rybina, Arina
+  - Burel, Jean-Marie
+  - Heriche, Jean-Karim
+  - Audergon, Pauline
+  - Boiten, Jan-Willem
+  - Coppens, Frederik
+  - Crockett, Sara
+  - Exter Katrina
+  - Fahrener, Sven
+  - Fratelli, Maddalena
+  - Goble, Carole
+  - Gormanns, Philipp
+  - Grantner, Tobias
+  - Gruning, Bjorn
+  - Gurwitz, Kim Tamara
+  - Hancock, John
+  - Harmse, Henriette
+  - Holub, Petr
+  - Juty, Nick
+  - Karnbach, Geoffrey
+  - Karoune, Emma
+  - Keppler, Antje
+  - Klemeier, Jessica
+  - Lancelotti, Carla
+  - Legras, Jean-Luc
+  - Lister, L. Allyson
+  - Livio Longo, Dario
+  - Ludwig, Rebecca
+  - Madon, Benedicte
+  - Massimi, Marzia
+  - Matser, Vera
+  - Matteoni, Rafaele
+  - Mayrhofer, Michaela Th.
+  - Ohmann, Christian
+  - Panagiotopoulou, Maria
+  - Parkinson, Helen
+  - Perseil, Isabelle
+  - Pfander, Claudia
+  - Pieruschka, Roland
+  - Raess, Michael
+  - Rauber, Andreas
+  - Richard, Audrey S.
+  - Romano, Paolo
+  - Rosato, Antonio
+  - Sanchez-Pla, Alex
+  - Sansone, Susanna-Assunta
+  - Sarkans, Ugis
+  - Serrano-Solano, Beatriz
+  - Tang, Jing
+  - Tanoli, Ziaurrehman
+  - Tedds, Jonathan
+  - Wagener, Harald
+  - Weise, Martin
+  - Westerhoff, Hans V.
+  - Wittner, Rudolf
+  - Ewbank, Jonathan
+  - Blomberg, Niklas
+  - Gribbon, Philip
+  description: '"Be SURE - Be SUstainable REcommendations"The main goals and challenges
+    for the Life Science (LS) communities in the Open Science framework are to increase
+    reuse and sustainability of data resources, software tools, and workflows, especially
+    in large-scale data-driven research and computational analyses. Here, we present
+    key findings, procedures, effective measures and recommendations for generating
+    and establishing sustainable LS resources based on the collaborative, cross-disciplinary
+    work done within the EOSC-Life (European Open Science Cloud for Life Sciences)
+    consortium. Bringing together 13 European LS Research Infrastructures (RIs), it
+    has laid the foundation for an open, digital space to support biological and medical
+    research. Using lessons learned from 27 selected projects, we describe the organisational,
+    technical, financial and legal/ethical challenges that represent the main barriers
+    to sustainability in the life sciences. We show how EOSC-Life provides a model
+    for sustainable FAIR data management, including solutions for sensitive- and industry-related
+    resources, by means of cross-disciplinary training and best practices sharing.
+    Finally, we illustrate how data harmonisation and collaborative work facilitate
+    interoperability of tools, data, solutions and lead to a better understanding
+    of concepts, semantics and functionalities in the life sciences.IN PRESS EMBO
+    Journal:&nbsp;https://www.embopress.org/journal/14602075&nbsp;AVAILABLE SOON at
+    : https://doi.org/10.15252/embj.2023115008&nbsp;'
+  license: cc-by-4.0
+  name: 'Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences
+    research: EOSC-Life''s Lessons'
+  num_downloads: 2486
+  publication_date: '2023-09-12'
+  url:
+  - https://zenodo.org/records/8338931
+  - https://doi.org/10.5281/zenodo.8338931
+- added_date: '2024-11-18T16:18:02.708550'
+  authors:
+  - Beatriz Serrano-Solano
+  description: Graduation presentation for the 7th cohort of the Open Seeds mentoring
+    &amp; training program for Open Science ambassadors. The project presented is
+    called &quot;Euro-BioImaging &nbsp;Scientific Ambassadors Program&quot;.
+  license: cc-by-4.0
+  name: Euro-BioImaging  Scientific Ambassadors Program
+  num_downloads: 25
+  publication_date: '2023-07-25'
+  url:
+  - https://zenodo.org/records/8182154
+  - https://doi.org/10.5281/zenodo.8182154
+- added_date: '2024-11-18T16:18:03.092614'
+  authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2022.
+  license: cc-by-4.0
+  name: Euro-BioImaging ERIC Annual Report 2022
+  num_downloads: 83
+  publication_date: '2023-07-14'
+  url:
+  - https://zenodo.org/records/8146412
+  - https://doi.org/10.5281/zenodo.8146412
+- added_date: '2024-11-18T16:18:03.746775'
+  authors:
+  - Kemmer, Isabel
+  - Keppler, Antje
+  - Serrano-Solano, Beatriz
+  - Rybina, Arina
+  - "\xD6zdemir, Bugra"
+  - Bischof, Johanna
+  - El Ghadraoui, Ayoub
+  - Eriksson, John E.
+  - Mathur, Aastha
+  description: Bioimaging has now entered the era of big data with faster than ever
+    development of complex microscopy technologies leading to increasingly complex
+    datasets. This enormous increase in data size and informational complexity within
+    those datasets has brought with it several difficulties in terms of common and
+    harmonized data handling, analysis and management practices, which are currently
+    hampering the full potential of image data being realized. Here we outline a wide
+    range of efforts and solutions currently being developed by the microscopy community
+    to address these challenges on the path towards FAIR bioimage data. We also highlight
+    how different actors in the microscopy ecosystem are working together, creating
+    synergies that develop new approaches, and how research infrastructures, such
+    as Euro-BioImaging, are fostering these interactions to shape the field.&nbsp;
+  license: cc-by-4.0
+  name: Building a FAIR image data ecosystem for microscopy communities
+  num_downloads: 199
+  publication_date: '2023-03-31'
+  url:
+  - https://zenodo.org/records/7788899
+  - https://doi.org/10.5281/zenodo.7788899
