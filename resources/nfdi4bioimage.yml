@@ -6106,6 +6106,49 @@ resources:
   - https://zenodo.org/records/1472859
   - https://doi.org/10.5281/zenodo.1472859
 
+- authors: Yannick KREMPP
+  description: A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+  license: UNKNOWN
+  name: AI ML DL in Bioimage Analysis - Webinar 
+  publication_date: '2024-11-14'
+  tags:
+  - Deep Learning
+  - Machine Learning
+  - Artificial Intelligence
+  - Bioimage Analysis
+  - Large Language Models
+  type:
+  - Youtube Video
+  - Slides
+  - Webinar
+  url: https://www.youtube.com/watch?v=TJXNMIWtdac
+
+- authors: Guillaume Jacquemet
+  description: Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions. 
+  license: UNKNOWN
+  name:  Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy 
+  publication_date: '2024-10-24'
+  tags:
+  - Deep Learning
+  - Microscopy Image Analysis
+  type:
+  - Youtube Video
+  - Slides
+  url: https://www.youtube.com/watch?v=KTdZBgSCYJQ
+
+- description: The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+  license: UNKNOWN
+  name: Metrics Reloaded - A framework for trustworthy image analysis validation
+  tags:
+  - Bioimage Analysis
+  - Image Segmentation
+  - Machine Learning
+  type:
+  - Website
+  - Collection
+  url: https://metrics-reloaded.dkfz.de/
+
+
 - added_date: '2024-11-12T10:17:25.985725'
   authors: Wendt Jens
   description: Short presentation given at at PoL BioImage Analysis Symposium Dresden
@@ -6117,6 +6160,7 @@ resources:
   url:
   - https://zenodo.org/records/8314968
   - https://doi.org/10.5281/zenodo.8314968
+
   
 - added_date: '2024-11-18T14:39:37.692470'
   authors:
