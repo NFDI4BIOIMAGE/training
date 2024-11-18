@@ -78,10 +78,10 @@ def main():
             author_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{author_toc}", author_toc)
 
-    # Generate the 'What's New' page with content sorted by publication date
+    # Generate the 'What's New' page with content sorted by added date
     sorted_content = sorted(
         content['resources'],
-        key=lambda x: str(x.get('publication_date', '0000-00-00')),
+        key=lambda x: str(x.get('added_date', '0000-00-00')),
         reverse=True
     )[:10]
 
