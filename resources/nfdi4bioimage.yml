@@ -6781,74 +6781,7 @@ resources:
     Metadata-assisted image analysis streamlining
   
     Tools for metadata annotation in OMERO
- 
-
-- authors: 
-  - Jannasch, Anett
-  - Tulok, Silke
-  - Fuchs, Vanessa Aphaia Fiona
-  - Boissonnet, Tom
-  - Schmidt, Christian
-  - Bortolomeazzi, Michele
-  - Fabig, Gunar
-  - Okafornta, Chukwuebuka
-  description: 'This is a Key-Value pair template used for the annotation of datasets
-    in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility
-    of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes
-    (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac
-    Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t
-    Dresden . A corresponding public example dataset is used in the publication "Setting
-    up an institutional OMERO environment for bioimage data: perspectives from both
-    facility staff and users" and is available here
-  
-    (https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
-  
-    The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015)
-    and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug
-    28th- Sept 1th 2023.&nbsp;
-  
-    With this template it is possible to create a csv-file, that can be used to annotate
-    a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
-  
-    How to use:
-  
-  
-    select and copy the data range containing Keys and Values
-  
-    open a new excel sheet and paste transpose in column B1
-  
-    type in A1 ''dataset''
-  
-    insert in A2 the exact name of the dataset, which should be annotated in OMERO
-  
-    save the new excel sheet in csv- (comma seperated values) file format
-  
-  
-    Example can be seen in sheet 1 ''csv import''. Important note; the code has to be
-    8-Bit UCS transformation format (UTF-8) otherwise several characters (for example
-    &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered
-    this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
-  
-    Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
-  
-    &nbsp;
-  
-    See cross reference:
-  
-    10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets
-    in OMERO (light- and electron microscopy data within the research group of Prof.
-    Mueller-Reichert)
-  
-    10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light
-    microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)'
-  license: cc-by-4.0
-  name: Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
-  num_downloads: 10
-  publication_date: '2024-06-26'
-  url:
-  - https://zenodo.org/records/12546808
-  - https://doi.org/10.5281/zenodo.12546808
-  
+   
     The target group for this workshop
   
     This workshop is directed at researchers at all career levels who have started using
@@ -6946,3 +6879,71 @@ resources:
   - https://zenodo.org/records/13945179
   - https://doi.org/10.5281/zenodo.13945179
   
+
+
+- authors: 
+  - Jannasch, Anett
+  - Tulok, Silke
+  - Fuchs, Vanessa Aphaia Fiona
+  - Boissonnet, Tom
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Fabig, Gunar
+  - Okafornta, Chukwuebuka
+  description: 'This is a Key-Value pair template used for the annotation of datasets
+    in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility
+    of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes
+    (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac
+    Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t
+    Dresden . A corresponding public example dataset is used in the publication "Setting
+    up an institutional OMERO environment for bioimage data: perspectives from both
+    facility staff and users" and is available here
+  
+    (https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
+  
+    The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015)
+    and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug
+    28th- Sept 1th 2023.&nbsp;
+  
+    With this template it is possible to create a csv-file, that can be used to annotate
+    a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+  
+    How to use:
+  
+  
+    select and copy the data range containing Keys and Values
+  
+    open a new excel sheet and paste transpose in column B1
+  
+    type in A1 ''dataset''
+  
+    insert in A2 the exact name of the dataset, which should be annotated in OMERO
+  
+    save the new excel sheet in csv- (comma seperated values) file format
+  
+  
+    Example can be seen in sheet 1 ''csv import''. Important note; the code has to be
+    8-Bit UCS transformation format (UTF-8) otherwise several characters (for example
+    &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered
+    this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
+  
+    Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
+  
+    &nbsp;
+  
+    See cross reference:
+  
+    10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets
+    in OMERO (light- and electron microscopy data within the research group of Prof.
+    Mueller-Reichert)
+  
+    10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light
+    microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)'
+  license: cc-by-4.0
+  name: Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+  num_downloads: 10
+  publication_date: '2024-06-26'
+  url:
+  - https://zenodo.org/records/12546808
+  - https://doi.org/10.5281/zenodo.12546808  
+
