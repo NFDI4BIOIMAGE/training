@@ -31,11 +31,17 @@ jobs:
         python scripts/data_normalizer.py
 
     # Build the book
-    - name: Build the book
+    - name: Generate link lists
       run: |
         python scripts/generate_link_lists.py
+    - name: Export CSV
+      run: |
         python scripts/export_csv.py
+    - name: Top 3 downloads
+      run: |
         python scripts/highlights-download-statistics.py
+    - name: Build the book
+      run: |
         jupyter-book build ./docs/
 
     # Push the book's HTML to github-pages
