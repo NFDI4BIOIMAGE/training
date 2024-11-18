@@ -6106,8 +6106,60 @@ resources:
   - https://zenodo.org/records/1472859
   - https://doi.org/10.5281/zenodo.1472859
 
+- authors: Yannick KREMPP
+  description: A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+  license: UNKNOWN
+  name: AI ML DL in Bioimage Analysis - Webinar 
+  publication_date: '2024-11-14'
+  tags:
+  - Deep Learning
+  - Machine Learning
+  - Artificial Intelligence
+  - Bioimage Analysis
+  - Large Language Models
+  type:
+  - Youtube Video
+  - Slides
+  - Webinar
+  url: https://www.youtube.com/watch?v=TJXNMIWtdac
 
-  
+- authors: Guillaume Jacquemet
+  description: Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions. 
+  license: UNKNOWN
+  name:  Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy 
+  publication_date: '2024-10-24'
+  tags:
+  - Deep Learning
+  - Microscopy Image Analysis
+  type:
+  - Youtube Video
+  - Slides
+  url: https://www.youtube.com/watch?v=KTdZBgSCYJQ
+
+- description: The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+  license: UNKNOWN
+  name: Metrics Reloaded - A framework for trustworthy image analysis validation
+  tags:
+  - Bioimage Analysis
+  - Image Segmentation
+  - Machine Learning
+  type:
+  - Website
+  - Collection
+  url: https://metrics-reloaded.dkfz.de/
+
+
+- added_date: '2024-11-12T10:17:25.985725'
+  authors: Wendt Jens
+  description: Short presentation given at at PoL BioImage Analysis Symposium Dresden
+    2023
+  license: cc-by-4.0
+  name: Metadata Annotation Workflow for OMERO with Tabbles
+  num_downloads: 131
+  publication_date: '2023-09-04'
+  url:
+  - https://zenodo.org/records/8314968
+  - https://doi.org/10.5281/zenodo.8314968
 
 - authors: Kemmer, Isabel, Romdhane, Feriel, Euro-BioImaging ERIC
   description: 'Depositing data in quality data repositories is one crucial step towards
@@ -6130,3 +6182,447 @@ resources:
   - https://zenodo.org/records/13945179
   - https://doi.org/10.5281/zenodo.13945179
   
+- added_date: '2024-11-18T14:39:37.692470'
+  authors:
+  - Boissonnet, Tom
+  - Hagen, Bettina
+  - Kunis, Susanne
+  - Schmidt, Christian
+  - Weidtkamp-Peters, Stefanie
+  description: 'Fit for OMERO: How imaging facilities and IT departments work together
+    to enable RDM for bioimaging
+
+    Description:
+
+    Research data management (RDM) in bioimaging is challenging because of large file
+    sizes, heterogeneous file formats and the variability of imaging methods. The
+    image data management system OMERO (OME Remote Objects) allows for centralized
+    and secure storage, organization, annotation, and interrogation of microscopy
+    data by researchers. It is an internationally well-supported open-source software
+    tool that has become one of the best-known image data management tools among bioimaging
+    scientists. Nevertheless, the&nbsp;de novo&nbsp;setup of OMERO at an institute
+    is a multi-stakeholder process that demands time, funds, organization and iterative
+    implementation. In this workshop, participants learn how to begin setting up OMERO-based
+    image data management at their institution. The topics include:
+
+
+    Stakeholder identification at the university / research institute
+
+    Process management, time line expectations, and resources planning
+
+    Learning about each other&lsquo;s perspectives on chances and challenges for RDM
+
+    Funding opportunities and strategies for IT and imaging core facilities
+
+    Hands-on: Setting up an OMERO server in a virtual machine environment
+
+
+    Target audience:
+
+    This workshop was directed at universities and research institutions who consider
+    or plan to implement OMERO, or are in an early phase of implementation. This workshop
+    was intended for teams from IT departments and imaging facilities to participate
+    together with one person from the IT department, and one person from the imaging
+    core facility at the same institution.
+
+    The trainers:
+
+
+    Prof. Dr. Stefanie Weidtkamp-Peters (Imaging Core Facility Head, Center for Advanced
+    Imaging, Heinrich Heine University of D&uuml;sseldorf)
+
+    Dr. Susanne Kunis (Software architect, OMERO administrator, metadata specialist,
+    University of Osnabr&uuml;ck)
+
+    Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced
+    Imaging, Heinrich Heine University of D&uuml;sseldorf)
+
+    Dr. Bettina Hagen&nbsp;(IT Administration and service specialist, Max Planck Institute
+    for the Biology of Ageing, Cologne)&nbsp;
+
+    Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging,
+    German Cancer Research Center (DKFZ), Heidelberg)
+
+
+    Time and place
+
+    The format was a two-day, in-person workshop (October 16-17, 2024).&nbsp;Location:
+    Heidelberg, Germany
+
+    Workshop learning goals
+
+
+    Learn the steps to establish a local RDM environment fit for bioimaging data
+
+    Create a network of IT experts and bioimaging specialists for bioimage RDM across
+    institutions
+
+    Establish a stakeholder process management for installing OMERO-based RDM
+
+    Learn from each other, leverage different expertise
+
+    Learn how to train users, establish sustainability strategies, and foster FAIR
+    RDM for bioimaging at your institution
+
+    '
+  license: cc-by-4.0
+  name: '[Workshop Material] Fit for OMERO - How imaging facilities and IT departments
+    work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg'
+  num_downloads: 144
+  publication_date: '2024-11-18'
+  url:
+  - https://zenodo.org/records/14178789
+  - https://doi.org/10.5281/zenodo.14178789
+- added_date: '2024-11-18T14:39:38.611036'
+  authors:
+  - Wetzker, Cornelia
+  description: 'The poster introduces the consortium NFDI4BIOIMAGE with its central
+    objectives, provides an overview of challenges in bioimage data handling, sharing
+    and analysis and lists support options by the consortium through its data stewardship
+    team.
+
+    It is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche
+    Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659)
+    and has been presented at the conference FDM@Campus held in G&ouml;ttingen September
+    23-25, 2024.'
+  license: cc-by-4.0
+  name: 'New Kid on the (NFDI) Block: NFDI4BIOIMAGE  - A National Initiative for FAIR
+    Data Management in Bioimaging and Bioimage Analysis'
+  num_downloads: 29
+  publication_date: '2024-10-29'
+  url:
+  - https://zenodo.org/records/14006558
+  - https://doi.org/10.5281/zenodo.14006558
+- added_date: '2024-11-18T14:39:39.787873'
+  authors:
+  - "J\xFCngst, Christian"
+  - Zentis, Peter
+  description: Raw microscopy image from the NFDI4Bioimage calendar October 2024
+  license: cc-by-4.0
+  name: NFDI4Bioimage Calendar 2024 October; original image
+  num_downloads: 8
+  publication_date: '2024-09-25'
+  url:
+  - https://zenodo.org/records/13837146
+  - https://doi.org/10.5281/zenodo.13837146
+- added_date: '2024-11-18T14:39:41.141377'
+  authors:
+  - Dvoretskii, Stefan
+  license: cc-by-4.0
+  name: Insights from Acquiring Open Medical Imaging  Datasets for Foundation Model
+    Development
+  num_downloads: 41
+  publication_date: '2024-04-10'
+  url:
+  - https://zenodo.org/records/11503289
+  - https://doi.org/10.5281/zenodo.11503289
+- added_date: '2024-11-18T14:39:41.489967'
+  authors:
+  - Wetzker, Cornelia
+  - Schlierf, Michael
+  description: The poster is part of the work of the German consortium NFDI4BIOIMAGE
+    funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project
+    number 501864659).
+  license: cc-by-4.0
+  name: RESEARCH DATA MANAGEMENT on Campus and in NFDI4BIOIMAGE
+  num_downloads: 32
+  publication_date: '2024-08-29'
+  url:
+  - https://zenodo.org/records/13684187
+  - https://doi.org/10.5281/zenodo.13684187
+- added_date: '2024-11-18T14:39:41.946082'
+  authors:
+  - Haase, Robert
+  description: This talk will present the initiatives of the NFDI4BioImage consortium
+    aimed at the long-term preservation of life science data. We will discuss our
+    efforts to establish metadata standards, which are crucial for ensuring data reusability
+    and integrity. The development of sustainable infrastructure is another key focus,
+    enabling seamless data integration and analysis in the cloud. We will take a look
+    at how we manage training materials and communicate with our community. Through
+    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for
+    German researchers, across disciplines and embedded in the international framework.
+  license: cc-by-4.0
+  name: Towards Preservation of Life Science Data with NFDI4BIOIMAGE
+  num_downloads: 228
+  publication_date: '2024-09-03'
+  url:
+  - https://zenodo.org/records/13640979
+  - https://doi.org/10.5281/zenodo.13640979
+- added_date: '2024-11-18T14:39:42.386226'
+  authors:
+  - Dvoretskii, Stefan
+  license: cc-by-4.0
+  name: Insights from Acquiring Open Medical Imaging Datasets for Foundation Model
+    Development
+  num_downloads: 46
+  publication_date: '2024-04-10'
+  url:
+  - https://zenodo.org/records/13380289
+  - https://doi.org/10.5281/zenodo.13380289
+- added_date: '2024-11-18T14:39:43.407105'
+  authors:
+  - Habinger, Sophie
+  - Heber, Maximilian
+  - Kralj, Sonja
+  - Mikautsch, Emilia
+  description: 'The rise of Open Science (OS) and the academic community&rsquo;s needs
+    that come with it bring about a range of challenges for academic libraries. To
+    face these challenges, the University of Konstanz has created a competence unit
+    called&nbsp;Team Open Science&nbsp;in the Communication, Information, Media Center
+    (KIM) - a joint unit of library and IT infrastructure. The Team creates synergies
+    within itself and across the library. In December 2023, it involved 12 staff members
+    specialising in open access (OA), research data management (RDM), open educational
+    resources (OER) and virtual research environments (VRE). It collaborates closely
+    with other KIM departments. This submission shall serve as a best practice example
+    for the impact of OS on research libraries and, beyond that, the impact of research
+    libraries on universities.
+
+    To enhance and foster OS, the Team provides individual consultations, services
+    and office hours for researchers. Here, it collaborates closely with other librarians
+    like subject specialists and the Team University Publications. Along similar lines,
+    the KIM offers institutional repositories for publications (KOPS) and research
+    data (KonDATA). Beyond that, the Team provides solutions to host OA journals and
+    analyses researchers&rsquo; VRE needs to decide on implementation options. In
+    sum, the Team is the central OS contact point for the entire university, underlining
+    the major role the library holds in making institutional impact.
+
+    Furthermore, the Team had the leading role in creating the University of Konstanz&rsquo;
+    OS Policy, one of the first ones passed by a German university. This policy stands
+    out because it encompasses various OS domains. It demands, among other things,
+    that text publications be made OA and that research data be managed according
+    to relevant subject-specific standards. If permissible and reasonable, it demands
+    that research data should be made publicly available at the earliest possible
+    time. Along these lines, the policy has a large impact on how the library handles
+    closed access books and subscription-based journals. As a consequence, OA is pursued
+    wherever possible, leading to the highest OA quota of all German universities.
+    In that sense, the Team is a crucial driving force of OS in the University of
+    Konstanz, which ties in with the library&rsquo;s major role of open research transformation.
+
+    Beyond the University of Konstanz, the Team is involved in a range of national
+    and international projects collaborating with other libraries. On a national level,
+    they lead the project open.access-network which provides an information platform
+    for researchers and librarians and connects the German-speaking OA community through
+    events like bar camps. The project KOALA-AV supports libraries in establishing
+    consortial solutions for financing Diamond OA publications. Moreover, the Team
+    is involved in the federal state initiative for RDM in Baden-W&uuml;rttemberg
+    (bwFDM). Here, the Team is in charge of forschungsdaten.info, the German-speaking
+    countries&rsquo; leading RDM information platform, which will be offered in English
+    within the next years. Internationally, the Team cooperates with librarians and
+    other OS professionals from the European Reform University Alliance (ERUA) and
+    the European University for Well-Being (EUniWell), establishing formats for best
+    practice exchange, such as monthly OS Meet-Ups.'
+  license: cc-by-4.0
+  name: 'Institutionalization and Collaboration as a Way of Addressing the Challenges
+    Open Science Presents to Libraries: The University of Konstanz as a National Pioneer'
+  num_downloads: 119
+  publication_date: '2024-07-09'
+  url:
+  - https://zenodo.org/records/12699637
+  - https://doi.org/10.5281/zenodo.12699637
+- added_date: '2024-11-18T14:39:44.756942'
+  authors:
+  - Massei, Riccardo
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Thoennissen, Julia
+  - Bumberger, Jan
+  - Dickscheid, Timo
+  - Mallm, Jan-Philipp
+  - Ferrando-May, Elisa
+  description: Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to
+    establish a sustained, cross-disciplinary research data management (RDM) infrastructure
+    that enables researchers to handle FAIR (findable, accessible, interoperable,
+    reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders,
+    policymakers, and publishers, their practical implementation remains an ongoing
+    effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata
+    ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The
+    NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools
+    and best practices to facilitate FAIR microscopy and image analysis data in alignment
+    with international community activities. The&nbsp;consortium operates through
+    its Data Stewards team to provide expertise and direct support to help overcome
+    RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate
+    closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP.
+    Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in
+    Helmholtz and beyond
+  license: cc-by-4.0
+  name: The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing
+    FAIR data management for microscopy and bioimage analysis
+  num_downloads: 54
+  publication_date: '2024-06-06'
+  url:
+  - https://zenodo.org/records/11501662
+  - https://doi.org/10.5281/zenodo.11501662
+- added_date: '2024-11-18T14:39:45.213893'
+  authors:
+  - Massei, Riccardo
+  - Bortolomeazzi, Michele
+  - Schmidt, Christian
+  description: 'Here we share the material used in a workshop held on May 13th, 2024,
+    at the German Cancer Research Center in Heidelberg (on-premise)
+
+    Description:Microscopy experiments generate information-rich, multi-dimensional
+    data, allowing us to investigate biological processes at high spatial and temporal
+    resolution. Image processing and analysis is a standard procedure to retrieve
+    quantitative information from biological imaging. Due to the complex nature of
+    bioimaging files that often come in proprietary formats, it can be challenging
+    to organize, structure, and annotate bioimaging data throughout a project. Data
+    often needs to be moved between collaboration partners, transformed into open
+    formats, processed with a variety of software tools, and exported to smaller-sized
+    images for presentation. The path from image acquisition to final publication
+    figures with quantitative results must be documented and reproducible.
+
+    In this workshop, participants learn how to use OMERO to organize their data and
+    enrich the bioimage data with structured metadata annotations.We also focus on
+    image analysis workflows in combination with OMERO based on the Fiji/ImageJ software
+    and using Jupyter Notebooks. In the last part, we explore how OMERO can be used
+    to create publication figures and prepare bioimage data for publication in a suitable
+    repository such as the Bioimage Archive.
+
+    Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
+
+    Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
+
+    Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
+
+    Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with
+    OMERO
+
+    The target group for this workshopThis workshop is directed at researchers at
+    all career levels who plan to or have started to use OMERO for their microscopy
+    research data management.&nbsp;We encourage the workshop participants to bring
+    example data from their research to discuss suitable metadata annotation for their
+    everyday practice.
+
+    Prerequisites:Users should bring their laptops and have access to the internet
+    through one of the following options:- eduroam- institutional WiFi- VPN connection
+    to their institutional networks to access OMERO
+
+    Who are the trainers?
+
+    Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig)
+    - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
+
+    Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist,
+    bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
+
+    Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging,
+    German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE
+    project)'
+  license: cc-by-4.0
+  name: '[Workshop] Bioimage data management and analysis with OMERO'
+  num_downloads: 211
+  publication_date: '2024-05-13'
+  url:
+  - https://zenodo.org/records/11350689
+  - https://doi.org/10.5281/zenodo.11350689
+- added_date: '2024-11-18T14:39:45.586962'
+  authors:
+  - Moore, Josh
+  - Kunis, Susanne
+  description: Poster presented at the European Light Microscopy Initiative meeting
+    in Liverpool (https://www.elmi2024.org/)
+  license: cc-by-4.0
+  name: '[ELMI 2024]  AI''s Dirty Little Secret: Without
+
+    FAIR Data, It''s Just Fancy Math'
+  num_downloads: 54
+  publication_date: '2024-05-21'
+  url:
+  - https://zenodo.org/records/11235513
+  - https://doi.org/10.5281/zenodo.11235513
+- added_date: '2024-11-18T14:39:45.979235'
+  authors:
+  - Escobar Diaz Guerrero, Rodrigo
+  description: First updates of LEO (Linking ELN with OMERO)
+  license: cc-by-4.0
+  name: 'LEO: Linking ELN with OMERO'
+  num_downloads: 3
+  publication_date: '2024-05-08'
+  url:
+  - https://zenodo.org/records/11146807
+  - https://doi.org/10.5281/zenodo.11146807
+- added_date: '2024-11-18T14:39:46.762148'
+  authors:
+  - Fortmann-Grote, Carsten
+  description: This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE
+  num_downloads: 81
+  publication_date: '2024-04-22'
+  url:
+  - https://zenodo.org/records/11031747
+  - https://doi.org/10.5281/zenodo.11031747
+- added_date: '2024-11-18T14:39:47.147338'
+  authors:
+  - Schmidt, Christian
+  description: Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM
+    in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM
+    &amp; ZB MED.
+  license: cc-by-4.0
+  name: '[Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure'
+  num_downloads: 47
+  publication_date: '2024-04-10'
+  url:
+  - https://zenodo.org/records/10939520
+  - https://doi.org/10.5281/zenodo.10939520
+- added_date: '2024-11-18T14:39:47.561518'
+  authors:
+  - Margineanu, Anca
+  - Stringari, Chiara
+  - Zoccoler, Marcelo
+  - Wetzker, Cornelia
+  description: The presentations introduce open-source software to read in, visualize
+    and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed
+    for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM
+    Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen
+    by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
+  license: cc-by-4.0
+  name: A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and
+    napari-flim-phasor-plotter
+  num_downloads: 219
+  publication_date: '2024-03-27'
+  url:
+  - https://zenodo.org/records/10886750
+  - https://doi.org/10.5281/zenodo.10886750
+- added_date: '2024-11-18T14:39:47.946546'
+  authors:
+  - Fortmann-Grote, Carsten
+  license: cc-by-4.0
+  name: Linked (Open) Data for Microbial Population Biology
+  num_downloads: 121
+  publication_date: '2024-03-12'
+  url:
+  - https://zenodo.org/records/10808486
+  - https://doi.org/10.5281/zenodo.10808486
+- added_date: '2024-11-18T14:39:48.292240'
+  authors:
+  - Massei, Riccardo
+  description: 'Results of the project "Conversion of KNIME image analysis workflows
+    to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb -
+    01 Mar 2024)
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
+  num_downloads: 46
+  publication_date: '2024-03-07'
+  url:
+  - https://zenodo.org/records/10793700
+  - https://doi.org/10.5281/zenodo.10793700
+- added_date: '2024-11-18T14:39:48.632022'
+  authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  - Wendt, Jens
+  - "M\xFCller, Maximilian"
+  - Ahmadi, Mohsen
+  - Massei, Riccardo
+  - Wetzker, Cornelia
+  description: The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves
+    and the services (including the Helpdesk) that we offer.
+  license: cc-by-4.0
+  name: Who you gonna call? - Data Stewards to the rescue
+  num_downloads: 91
+  publication_date: '2024-03-01'
+  url:
+  - https://zenodo.org/records/10730424
+  - https://doi.org/10.5281/zenodo.10730424
