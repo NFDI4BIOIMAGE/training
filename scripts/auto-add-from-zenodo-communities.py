@@ -37,6 +37,7 @@ def main():
     # read "database"
     branch = create_branch(repository)
     print("New branch:", branch)
+    log = []
 
     for community in communities:
         # new data
@@ -63,16 +64,15 @@ def main():
             not_in_data_yet = True
             for u in data["url"]:
                 if u in all_urls:
-                    print("Yes")
                     not_in_data_yet = False
-                else:
-                    print("No")
 
             if not_in_data_yet:
+                name = data["name"]
+                log.append(f"* [{name}]({url})")
                 new_data.append(data)
 
         import yaml
-        zenodo_yml = yaml.dump(new_data).replace("\n", "\n  ")
+        zenodo_yml = yaml.dump(new_data) #.replace("\n", "\n  ")
         print(zenodo_yml)
 
         # save data in repository
@@ -86,8 +86,8 @@ def main():
         # save back to github
         write_file(repository, branch, yml_filename, file_content, "Add entries from " + community)
 
-
-    res = send_pull_request(repository, branch, "Add content from communities: " + ", ".join(communities), "-")
+    log = "\n".join(log)
+    res = send_pull_request(repository, branch, "Add content from communities: " + ", ".join(communities), f"Added contents:\n{log}")
 
     print("Done.", res)
     
