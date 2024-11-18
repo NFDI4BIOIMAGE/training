@@ -8,74 +8,68 @@ msgstr ""
 "Language: id\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Copyright"
-msgstr "hak cipta"
-
 msgid "Print to PDF"
 msgstr "Cetak ke PDF"
-
-msgid "Edit this page"
-msgstr "Edit halaman ini"
-
-msgid "suggest edit"
-msgstr "menyarankan edit"
-
-msgid "Sphinx Book Theme"
-msgstr "Tema Buku Sphinx"
-
-msgid "open issue"
-msgstr "masalah terbuka"
-
-msgid "By the"
-msgstr "Oleh"
 
 msgid "Theme by the"
 msgstr "Tema oleh"
 
-msgid "Download notebook file"
-msgstr "Unduh file notebook"
+msgid "Download source file"
+msgstr "Unduh file sumber"
 
-msgid "Toggle navigation"
-msgstr "Alihkan navigasi"
-
-msgid "next page"
-msgstr "halaman selanjutnya"
+msgid "open issue"
+msgstr "masalah terbuka"
 
 msgid "Contents"
 msgstr "Isi"
 
-msgid "Source repository"
-msgstr "Repositori sumber"
+msgid "previous page"
+msgstr "halaman sebelumnya"
 
-msgid "Search the docs ..."
-msgstr "Telusuri dokumen ..."
+msgid "Download notebook file"
+msgstr "Unduh file notebook"
 
-msgid "Last updated on"
-msgstr "Terakhir diperbarui saat"
-
-msgid "Search this book..."
-msgstr "Telusuri buku ini ..."
+msgid "Copyright"
+msgstr "hak cipta"
 
 msgid "Download this page"
 msgstr "Unduh halaman ini"
 
-msgid "Launch"
-msgstr "Meluncurkan"
-
-msgid "Download source file"
-msgstr "Unduh file sumber"
-
-msgid "previous page"
-msgstr "halaman sebelumnya"
+msgid "Source repository"
+msgstr "Repositori sumber"
 
 msgid "By"
 msgstr "Oleh"
 
+msgid "repository"
+msgstr "gudang"
+
+msgid "Last updated on"
+msgstr "Terakhir diperbarui saat"
+
+msgid "Toggle navigation"
+msgstr "Alihkan navigasi"
+
+msgid "Sphinx Book Theme"
+msgstr "Tema Buku Sphinx"
+
+msgid "suggest edit"
+msgstr "menyarankan edit"
+
 msgid "Open an issue"
 msgstr "Buka masalah"
+
+msgid "Launch"
+msgstr "Meluncurkan"
 
 msgid "Fullscreen mode"
 msgstr "Mode layar penuh"
 
-msgid "repository"
-msgstr "gudang"
+msgid "Edit this page"
+msgstr "Edit halaman ini"
+
+msgid "By the"
+msgstr "Oleh"
+
+msgid "next page"
+msgstr "halaman selanjutnya"

@@ -1,4 +1,4 @@
-# Collection (78)
+# Collection (79)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -790,6 +790,23 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
+
+
+---
+
+## Metrics Reloaded - A framework for trustworthy image analysis validation
+
+Licensed UNKNOWN
+
+
+
+The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+
+Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+
+Content type: Website, Collection
+
+[https://metrics-reloaded.dkfz.de/](https://metrics-reloaded.dkfz.de/)
 
 
 ---

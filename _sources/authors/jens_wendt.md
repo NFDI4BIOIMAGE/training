@@ -95,7 +95,9 @@ Content type: Forum Post
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+
+Published 2024-03-01
 
 Licensed CC-BY-4.0
 
@@ -103,11 +105,9 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
-Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage
+[https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
-Content type: Poster
-
-[https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
+[https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
 
 
 ---

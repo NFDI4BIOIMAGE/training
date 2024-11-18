@@ -1,4 +1,4 @@
-# Website (8)
+# Website (9)
 ## Data Stewardship Wizard
 
 Licensed UNKOWN
@@ -69,6 +69,23 @@ Tags: Research Data Management
 Content type: Website
 
 [https://www.ugent.be/en/research/openscience/datamanagement](https://www.ugent.be/en/research/openscience/datamanagement)
+
+
+---
+
+## Metrics Reloaded - A framework for trustworthy image analysis validation
+
+Licensed UNKNOWN
+
+
+
+The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+
+Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+
+Content type: Website, Collection
+
+[https://metrics-reloaded.dkfz.de/](https://metrics-reloaded.dkfz.de/)
 
 
 ---

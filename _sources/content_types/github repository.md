@@ -1,4 +1,4 @@
-# Github repository (35)
+# Github repository (37)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -77,6 +77,27 @@ Content type: Documentation, Github Repository, Tutorial
 [https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/](https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/)
 
 [https://github.com/timmonko/napari-ndev](https://github.com/timmonko/napari-ndev)
+
+
+---
+
+## FriendsDontLetFriends
+
+C. Li
+
+Published 2024-03-10T15:34:07+00:00
+
+Licensed MIT
+
+
+
+Friends don't let friends make certain types of data visualization - What are they and why are they bad. 
+
+Tags: Visualization
+
+Content type: Github Repository
+
+[https://github.com/cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
 
 
 ---
@@ -292,6 +313,27 @@ Tags: OMERO, Bioimage Analysis
 Content type: Github Repository
 
 [https://biapol.github.io/omero-tools/](https://biapol.github.io/omero-tools/)
+
+
+---
+
+## Online_R_learning
+
+C. Li
+
+Published 2023-07-09T06:27:14+00:00
+
+Licensed CC0-1.0
+
+
+
+Online R learning for applied statistics 
+
+Tags: Statistics
+
+Content type: Github Repository
+
+[https://github.com/cxli233/Online_R_learning](https://github.com/cxli233/Online_R_learning)
 
 
 ---

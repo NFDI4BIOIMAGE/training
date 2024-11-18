@@ -1,4 +1,4 @@
-# Susanne kunis (12)
+# Susanne kunis (13)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -172,6 +172,26 @@ Content type: Slides
 
 ---
 
+## [ELMI 2024]  AI's Dirty Little Secret: Without
+FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Published 2024-05-21
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+[https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
+
+[https://doi.org/10.5281/zenodo.11235513](https://doi.org/10.5281/zenodo.11235513)
+
+
+---
+
 ## [ELMI 2024] AI's Dirty Little Secret: Without FAIR Data, It's Just Fancy Math
 
 Josh Moore, Susanne Kunis
@@ -214,7 +234,7 @@ Content type: Poster
 
 Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
 
-Published 2024-10-30
+Published 2024-11-18
 
 Licensed CC-BY-4.0
 
@@ -251,9 +271,9 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-[https://zenodo.org/records/14013026](https://zenodo.org/records/14013026)
+[https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
-[https://doi.org/10.5281/zenodo.14013026](https://doi.org/10.5281/zenodo.14013026)
+[https://doi.org/10.5281/zenodo.14178789](https://doi.org/10.5281/zenodo.14178789)
 
 
 ---

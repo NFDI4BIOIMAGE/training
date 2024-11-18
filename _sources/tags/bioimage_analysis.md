@@ -1,4 +1,4 @@
-# Bioimage analysis (163)
+# Bioimage analysis (165)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -88,6 +88,27 @@ Tags: Bioimage Analysis
 Content type: Publication
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
+
+
+---
+
+## AI ML DL in Bioimage Analysis - Webinar
+
+Yannick KREMPP
+
+Published 2024-11-14
+
+Licensed UNKNOWN
+
+
+
+A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+
+Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+
+Content type: Youtube Video, Slides, Webinar
+
+[https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
 
 
 ---
@@ -1708,6 +1729,23 @@ Content type: Online Tutorial, Video, Slide
 [https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1](https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1)
 
 [https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view](https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view)
+
+
+---
+
+## Metrics Reloaded - A framework for trustworthy image analysis validation
+
+Licensed UNKNOWN
+
+
+
+The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+
+Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+
+Content type: Website, Collection
+
+[https://metrics-reloaded.dkfz.de/](https://metrics-reloaded.dkfz.de/)
 
 
 ---

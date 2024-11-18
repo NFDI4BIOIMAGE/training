@@ -1,4 +1,4 @@
-# Unknown (79)
+# Unknown (82)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -12,6 +12,27 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
+
+
+---
+
+## AI ML DL in Bioimage Analysis - Webinar
+
+Yannick KREMPP
+
+Published 2024-11-14
+
+Licensed UNKNOWN
+
+
+
+A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+
+Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+
+Content type: Youtube Video, Slides, Webinar
+
+[https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
 
 
 ---
@@ -390,6 +411,27 @@ Tags: Docker, Training
 Content type: Videos, Tutorial, Online Course
 
 [https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
+
+
+---
+
+## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
+
+Guillaume Jacquemet
+
+Published 2024-10-24
+
+Licensed UNKNOWN
+
+
+
+Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
+
+Tags: Deep Learning, Microscopy Image Analysis
+
+Content type: Youtube Video, Slides
+
+[https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
 
 
 ---
@@ -827,6 +869,23 @@ Tags: Python
 Content type: Notebook
 
 [https://github.com/karinsasaki/metabolic-networks-modelling](https://github.com/karinsasaki/metabolic-networks-modelling)
+
+
+---
+
+## Metrics Reloaded - A framework for trustworthy image analysis validation
+
+Licensed UNKNOWN
+
+
+
+The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
+
+Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+
+Content type: Website, Collection
+
+[https://metrics-reloaded.dkfz.de/](https://metrics-reloaded.dkfz.de/)
 
 
 ---

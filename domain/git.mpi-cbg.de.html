@@ -1,10 +1,12 @@
 
 <!DOCTYPE html>
 
-<html lang="en">
+
+<html lang="en" data-content_root="../" >
+
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Git.mpi-cbg.de (7) &#8212; NFDI4BioImage Training Materials</title>
   
@@ -12,1281 +14,152 @@
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
-<link href="../_static/styles/bootstrap.css?digest=796348d33e8b1d947c94" rel="stylesheet">
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
-  
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=796348d33e8b1d947c94" rel="stylesheet">
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=4ec06e9971c5264fbd345897d5258098f11cc577" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94">
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94">
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=8bf782fb4ee92b3d3646425e50f299c4e1fd152d"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'domain/git.mpi-cbg.de';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Github.com (113)" href="github.com.html" />
+    <link rel="next" title="Github.com (115)" href="github.com.html" />
     <link rel="prev" title="Focalplane.biologists.com (13)" href="focalplane.biologists.com.html" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="docsearch:language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+    <meta name="docbuild:last-update" content="2024-11-18"/>
   </head>
   
   
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox" class="sidebar-toggle" name="__primary" id="__primary">
-  <label class="overlay overlay-primary" for="__primary"></label>
-
-  
-  <input type="checkbox" class="sidebar-toggle" name="__secondary" id="__secondary">
-  <label class="overlay overlay-secondary" for="__secondary"></label>
-
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
-      
-<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
   <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form>
-    </div>
-  </div>
+  </dialog>
 
-  
-  <nav class="bd-header navbar navbar-expand-lg bd-navbar" id="navbar-main"><div class="bd-header__inner bd-page-width">
-  <label class="sidebar-toggle primary-toggle" for="__primary">
-      <span class="fa-solid fa-bars"></span>
-  </label>
-  <div id="navbar-start">
-    
-    
-  
-
-
-<a class="navbar-brand logo" href="../readme.html">
-
-  
-  
-  
-  
-  
-  
-  
-
-  
-    <img src="../_static/logo.png" class="logo__image only-light" alt="Logo image">
-    <img src="../_static/logo.png" class="logo__image only-dark" alt="Logo image">
-  
-  
-</a>
-    
-  </div>
-
-  
-  <div class="col-lg-9 navbar-header-items">
-    <div id="navbar-center" class="mr-auto">
-      
-      <div class="navbar-center-item">
-        <nav class="navbar-nav">
-    <p class="sidebar-header-items__title" role="heading" aria-level="1" aria-label="Site Navigation">
-        Site Navigation
-    </p>
-    <ul id="navbar-main-elements" class="navbar-nav">
-        
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../whats_new.html">
-                        Recently added (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/index.html">
-                        How to contribute
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/submit_app.html">
-                        Using the Training Materials Submission App
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/format.html">
-                        YML format
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/artificial_intelligence.html">
-                        Artificial intelligence (28)
-                      </a>
-                    </li>
-                
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    More
-                </button>
-                <div class="dropdown-menu">
-                    
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioimage_analysis.html">
-                        Bioimage analysis (163)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioimage_data.html">
-                        Bioimage data (20)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioinformatics.html">
-                        Bioinformatics (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/data_stewardship.html">
-                        Data stewardship (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/deep_learning.html">
-                        Deep learning (9)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/fair-principles.html">
-                        Fair-principles (27)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/image_data_management.html">
-                        Image data management (14)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/imagej.html">
-                        Imagej (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/licensing.html">
-                        Licensing (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/metadata.html">
-                        Metadata (14)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/microscopy_image_analysis.html">
-                        Microscopy image analysis (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/napari.html">
-                        Napari (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/neubias.html">
-                        Neubias (26)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/nfdi4bioimage.html">
-                        Nfdi4bioimage (23)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/omero.html">
-                        Omero (30)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/open_science.html">
-                        Open science (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/open_source_software.html">
-                        Open source software (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/python.html">
-                        Python (70)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/research_data_management.html">
-                        Research data management (109)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/segmentation.html">
-                        Segmentation (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/sharing.html">
-                        Sharing (11)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/training.html">
-                        Training (12)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/workflow.html">
-                        Workflow (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/workflow_engine.html">
-                        Workflow engine (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/blog.html">
-                        Blog (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/book.html">
-                        Book (18)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/code.html">
-                        Code (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/collection.html">
-                        Collection (78)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/data.html">
-                        Data (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/document.html">
-                        Document (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/documentation.html">
-                        Documentation (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/event.html">
-                        Event (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/github%20repository.html">
-                        Github repository (35)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/notebook.html">
-                        Notebook (54)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/online%20tutorial.html">
-                        Online tutorial (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/poster.html">
-                        Poster (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/preprint.html">
-                        Preprint (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/publication.html">
-                        Publication (60)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/slide.html">
-                        Slide (41)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/slides.html">
-                        Slides (38)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/tutorial.html">
-                        Tutorial (40)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/video.html">
-                        Video (24)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/website.html">
-                        Website (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/workshop.html">
-                        Workshop (12)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/all_rights_reserved.html">
-                        All rights reserved (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/bsd-2-clause.html">
-                        Bsd-2-clause (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/bsd-3-clause.html">
-                        Bsd-3-clause (22)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/cc-by-4.0.html">
-                        Cc-by-4.0 (163)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/cc0-1.0.html">
-                        Cc0-1.0 (9)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/gpl-2.0.html">
-                        Gpl-2.0 (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/mit.html">
-                        Mit (22)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/unknown.html">
-                        Unknown (79)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="biapol.github.io.html">
-                        Biapol.github.io (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="docs.google.com.html">
-                        Docs.google.com (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="doi.org.html">
-                        Doi.org (84)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="f1000research.com.html">
-                        F1000research.com (11)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="focalplane.biologists.com.html">
-                        Focalplane.biologists.com (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
-                        Git.mpi-cbg.de (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="github.com.html">
-                        Github.com (113)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.biorxiv.org.html">
-                        Www.biorxiv.org (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.ebi.ac.uk.html">
-                        Www.ebi.ac.uk (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.nature.com.html">
-                        Www.nature.com (16)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.youtube.com.html">
-                        Www.youtube.com (18)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="zenodo.org.html">
-                        Zenodo.org (76)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../statistics/readme.html">
-                        Statistics
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../export/readme.html">
-                        Open data
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../imprint.html">
-                        Imprint
-                      </a>
-                    </li>
-                
-                </div>
-            </div>
-            
-    </ul>
-</nav>
-      </div>
-      
-    </div>
-
-    <div id="navbar-end">
-      
-        <div class="navbar-end-item navbar-persistent--container">
-          
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
-  <i class="fa-solid fa-magnifying-glass"></i>
-</button>
-        </div>
-      
-      
-      <div class="navbar-end-item">
-        <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-</button>
-      </div>
-      
-      <div class="navbar-end-item">
-        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-
-
-  
-  
-    <div class="navbar-persistent--mobile">
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
-  <i class="fa-solid fa-magnifying-glass"></i>
-</button>
-    </div>
-  
-
-  
-  <label class="sidebar-toggle secondary-toggle" for="__secondary">
-      <span class="fa-solid fa-outdent"></span>
-  </label>
-  
-
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
-  </nav>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
 
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
+
   
   <div class="sidebar-header-items sidebar-primary__section">
     
     
-      <div class="sidebar-header-items__center">
-      
-      <div class="navbar-center-item">
-        <nav class="navbar-nav">
-    <p class="sidebar-header-items__title" role="heading" aria-level="1" aria-label="Site Navigation">
-        Site Navigation
-    </p>
-    <ul id="navbar-main-elements" class="navbar-nav">
-        
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../whats_new.html">
-                        Recently added (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/index.html">
-                        How to contribute
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/submit_app.html">
-                        Using the Training Materials Submission App
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../contributing/format.html">
-                        YML format
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/artificial_intelligence.html">
-                        Artificial intelligence (28)
-                      </a>
-                    </li>
-                
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    More
-                </button>
-                <div class="dropdown-menu">
-                    
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioimage_analysis.html">
-                        Bioimage analysis (163)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioimage_data.html">
-                        Bioimage data (20)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/bioinformatics.html">
-                        Bioinformatics (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/data_stewardship.html">
-                        Data stewardship (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/deep_learning.html">
-                        Deep learning (9)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/fair-principles.html">
-                        Fair-principles (27)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/image_data_management.html">
-                        Image data management (14)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/imagej.html">
-                        Imagej (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/licensing.html">
-                        Licensing (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/metadata.html">
-                        Metadata (14)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/microscopy_image_analysis.html">
-                        Microscopy image analysis (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/napari.html">
-                        Napari (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/neubias.html">
-                        Neubias (26)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/nfdi4bioimage.html">
-                        Nfdi4bioimage (23)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/omero.html">
-                        Omero (30)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/open_science.html">
-                        Open science (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/open_source_software.html">
-                        Open source software (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/python.html">
-                        Python (70)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/research_data_management.html">
-                        Research data management (109)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/segmentation.html">
-                        Segmentation (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/sharing.html">
-                        Sharing (11)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/training.html">
-                        Training (12)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/workflow.html">
-                        Workflow (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../tags/workflow_engine.html">
-                        Workflow engine (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/blog.html">
-                        Blog (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/book.html">
-                        Book (18)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/code.html">
-                        Code (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/collection.html">
-                        Collection (78)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/data.html">
-                        Data (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/document.html">
-                        Document (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/documentation.html">
-                        Documentation (19)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/event.html">
-                        Event (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/github%20repository.html">
-                        Github repository (35)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/notebook.html">
-                        Notebook (54)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/online%20tutorial.html">
-                        Online tutorial (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/poster.html">
-                        Poster (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/preprint.html">
-                        Preprint (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/publication.html">
-                        Publication (60)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/slide.html">
-                        Slide (41)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/slides.html">
-                        Slides (38)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/tutorial.html">
-                        Tutorial (40)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/video.html">
-                        Video (24)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/website.html">
-                        Website (8)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../content_types/workshop.html">
-                        Workshop (12)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/all_rights_reserved.html">
-                        All rights reserved (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/bsd-2-clause.html">
-                        Bsd-2-clause (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/bsd-3-clause.html">
-                        Bsd-3-clause (22)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/cc-by-4.0.html">
-                        Cc-by-4.0 (163)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/cc0-1.0.html">
-                        Cc0-1.0 (9)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/gpl-2.0.html">
-                        Gpl-2.0 (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/mit.html">
-                        Mit (22)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../licenses/unknown.html">
-                        Unknown (79)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="biapol.github.io.html">
-                        Biapol.github.io (6)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="docs.google.com.html">
-                        Docs.google.com (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="doi.org.html">
-                        Doi.org (84)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="f1000research.com.html">
-                        F1000research.com (11)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="focalplane.biologists.com.html">
-                        Focalplane.biologists.com (13)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
-                        Git.mpi-cbg.de (7)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="github.com.html">
-                        Github.com (113)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.biorxiv.org.html">
-                        Www.biorxiv.org (5)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.ebi.ac.uk.html">
-                        Www.ebi.ac.uk (10)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.nature.com.html">
-                        Www.nature.com (16)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="www.youtube.com.html">
-                        Www.youtube.com (18)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="zenodo.org.html">
-                        Zenodo.org (76)
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../statistics/readme.html">
-                        Statistics
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../export/readme.html">
-                        Open data
-                      </a>
-                    </li>
-                
-
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../imprint.html">
-                        Imprint
-                      </a>
-                    </li>
-                
-                </div>
-            </div>
-            
-    </ul>
-</nav>
-      </div>
-      
-      </div>
     
-
-    
-    
-    <div class="sidebar-header-items__end">
-      
-      <div class="navbar-end-item">
-        <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-</button>
-      </div>
-      
-      <div class="navbar-end-item">
-        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
-      </ul>
-      </div>
-      
-    </div>
     
   </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
 
   
-  <div class="sidebar-start-items sidebar-primary__section">
-    <div class="sidebar-start-items__item">
+    
   
-
 
 <a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <img src="../_static/logo.png" class="logo__image only-dark pst-js-only" alt="NFDI4BioImage Training Materials - Home"/>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
 
-  
-  
-  
-  
-  
-  
-  
-
-  
-    <img src="../_static/logo.png" class="logo__image only-light" alt="Logo image">
-    <img src="../_static/logo.png" class="logo__image only-dark" alt="Logo image">
-  
-  
-</a>
-    </div>
-    <div class="sidebar-start-items__item">
-<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
-  <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
-  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-    </div>
-    <div class="sidebar-start-items__item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -1309,18 +182,19 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (28)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (163)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (29)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (165)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_data.html">Bioimage data (20)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (8)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/deep_learning.html">Deep learning (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/deep_learning.html">Deep learning (11)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/image_data_management.html">Image data management (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/large_language_models.html">Large language models (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (14)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/microscopy_image_analysis.html">Microscopy image analysis (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/microscopy_image_analysis.html">Microscopy image analysis (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (13)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (26)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (23)</a></li>
@@ -1340,22 +214,22 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../content_types/blog.html">Blog (19)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (18)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (78)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (79)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (8)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (35)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (37)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (54)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (60)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/slide.html">Slide (41)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (40)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (40)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (24)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (9)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (12)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
@@ -1363,26 +237,26 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (22)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (163)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (183)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (22)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (79)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (23)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (82)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="biapol.github.io.html">Biapol.github.io (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="docs.google.com.html">Docs.google.com (5)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="doi.org.html">Doi.org (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doi.org.html">Doi.org (109)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="f1000research.com.html">F1000research.com (11)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="focalplane.biologists.com.html">Focalplane.biologists.com (13)</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Git.mpi-cbg.de (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="github.com.html">Github.com (113)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="github.com.html">Github.com (115)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="www.biorxiv.org.html">Www.biorxiv.org (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="www.nature.com.html">Www.nature.com (16)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="www.youtube.com.html">Www.youtube.com (18)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="zenodo.org.html">Zenodo.org (76)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="www.youtube.com.html">Www.youtube.com (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="zenodo.org.html">Zenodo.org (96)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -1393,47 +267,146 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav>
+</nav></div>
     </div>
-  </div>
   
-
   
-  <div class="sidebar-end-items sidebar-primary__section">
-    <div class="sidebar-end-items__item">
-    </div>
+  <div class="sidebar-primary-items__end sidebar-primary__section">
   </div>
-
   
   <div id="rtd-footer-container"></div>
 
+
       </div>
-      <main id="main-content" class="bd-main">
+      
+      <main id="main-content" class="bd-main" role="main">
         
         
 
 <div class="sbt-scroll-pixel-helper"></div>
 
-        <div class="bd-content">
-          <div class="bd-article-container">
-            
-            <div class="bd-header-article">
-                
-
-
-
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        <label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" data-toggle="tooltip" data-placement="right" title="Toggle primary sidebar">
-            <span class="fa-solid fa-bars"></span>
-        </label>
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
     </div>
-    <div class="header-article__right">
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fdomain/git.mpi-cbg.de.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/domain/git.mpi-cbg.de.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
   
 
@@ -1445,92 +418,27 @@ title="Fullscreen mode"
 
 
 
-<div class="dropdown dropdown-repository-buttons">
-  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
-    <i class="fab fa-github"></i>
-  </button>
-  <ul class="dropdown-menu">
-      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
-   class="btn btn-sm dropdown-item"
-   data-toggle="tooltip"
-data-placement="left"
-title="Source repository"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="btn__text-container">repository</span>
-</a>
-</a>
-      
-      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fdomain/git.mpi-cbg.de.html&body=Your%20issue%20content%20here." target="_blank"
-   class="btn btn-sm dropdown-item"
-   data-toggle="tooltip"
-data-placement="left"
-title="Open an issue"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="btn__text-container">open issue</span>
-</a>
-</a>
-      
-  </ul>
-</div>
-
-
-
-<div class="dropdown dropdown-download-buttons">
-  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
-    <i class="fas fa-download"></i>
-  </button>
-  <ul class="dropdown-menu">
-      <li><a href="../_sources/domain/git.mpi-cbg.de.md" target="_blank"
-   class="btn btn-sm dropdown-item"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="btn__text-container">.md</span>
-</a>
-</a>
-      
-      <li>
-<button onclick="printPdf(this)"
-  class="btn btn-sm dropdown-item"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-file-pdf"></i>
-  </span>
-<span class="btn__text-container">.pdf</span>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
 </button>
-</a>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
       
-  </ul>
-</div>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary" data-toggle="tooltip" data-placement="left" title="Toggle secondary sidebar">
-            <span class="fa-solid fa-list"></span>
-        </label>
     </div>
+  
 </div>
-            </div>
-            
-            
+</div>
+              
+              
 
 <div id="jb-print-docs-body" class="onlyprint">
     <h1>Git.mpi-cbg.de (7)</h1>
@@ -1543,54 +451,28 @@ title="Print to PDF"
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#imagej2-api-beating">
-   ImageJ2 API-beating
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden">
-   Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lecture-applied-bioimage-analysis-2020">
-   Lecture Applied Bioimage Analysis 2020
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#multi-view-fusion">
-   Multi-view fusion
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#tracking-theory-trackmate-and-mastodon">
-   Tracking Theory, TrackMate, and Mastodon
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#working-with-objects-in-2d-and-3d">
-   Working with objects in 2D and 3D
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#working-with-pixels">
-   Working with pixels
-  </a>
- </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#imagej2-api-beating">ImageJ2 API-beating</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden">Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-applied-bioimage-analysis-2020">Lecture Applied Bioimage Analysis 2020</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#multi-view-fusion">Multi-view fusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tracking-theory-trackmate-and-mastodon">Tracking Theory, TrackMate, and Mastodon</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#working-with-objects-in-2d-and-3d">Working with objects in 2D and 3D</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#working-with-pixels">Working with pixels</a></li>
 </ul>
-
             </nav>
         </div>
     </div>
 </div>
 
-            <article class="bd-article" role="main">
               
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
   <section class="tex2jax_ignore mathjax_ignore" id="git-mpi-cbg-de-7">
-<h1><a class="reference external" href="http://Git.mpi-cbg.de">Git.mpi-cbg.de</a> (7)<a class="headerlink" href="#git-mpi-cbg-de-7" title="Permalink to this heading">#</a></h1>
+<h1><a class="reference external" href="http://Git.mpi-cbg.de">Git.mpi-cbg.de</a> (7)<a class="headerlink" href="#git-mpi-cbg-de-7" title="Link to this heading">#</a></h1>
 <section id="imagej2-api-beating">
-<h2>ImageJ2 API-beating<a class="headerlink" href="#imagej2-api-beating" title="Permalink to this heading">#</a></h2>
+<h2>ImageJ2 API-beating<a class="headerlink" href="#imagej2-api-beating" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Licensed BSD-3-CLAUSE</p>
 <p>Tags: Neubias, Imagej, Bioimage Analysis</p>
@@ -1599,7 +481,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden">
-<h2>Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden<a class="headerlink" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden" title="Permalink to this heading">#</a></h2>
+<h2>Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden<a class="headerlink" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden" title="Link to this heading">#</a></h2>
 <p>Robert Haase, Benoit Lombardot</p>
 <p>Licensed UNKNOWN</p>
 <p>Tags: Imagej, Bioimage Analysis</p>
@@ -1608,7 +490,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="lecture-applied-bioimage-analysis-2020">
-<h2>Lecture Applied Bioimage Analysis 2020<a class="headerlink" href="#lecture-applied-bioimage-analysis-2020" title="Permalink to this heading">#</a></h2>
+<h2>Lecture Applied Bioimage Analysis 2020<a class="headerlink" href="#lecture-applied-bioimage-analysis-2020" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020</p>
 <p>Tags: Imagej, Bioimage Analysis</p>
@@ -1617,7 +499,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="multi-view-fusion">
-<h2>Multi-view fusion<a class="headerlink" href="#multi-view-fusion" title="Permalink to this heading">#</a></h2>
+<h2>Multi-view fusion<a class="headerlink" href="#multi-view-fusion" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Licensed BSD-3-CLAUSE</p>
 <p>Lecture slides of a session on Multiview Fusion in Fiji</p>
@@ -1627,7 +509,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="tracking-theory-trackmate-and-mastodon">
-<h2>Tracking Theory, TrackMate, and Mastodon<a class="headerlink" href="#tracking-theory-trackmate-and-mastodon" title="Permalink to this heading">#</a></h2>
+<h2>Tracking Theory, TrackMate, and Mastodon<a class="headerlink" href="#tracking-theory-trackmate-and-mastodon" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Licensed BSD-3-CLAUSE</p>
 <p>Lecture slides of a session on Cell Tracking in Fiji</p>
@@ -1637,7 +519,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="working-with-objects-in-2d-and-3d">
-<h2>Working with objects in 2D and 3D<a class="headerlink" href="#working-with-objects-in-2d-and-3d" title="Permalink to this heading">#</a></h2>
+<h2>Working with objects in 2D and 3D<a class="headerlink" href="#working-with-objects-in-2d-and-3d" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Licensed BSD-3-CLAUSE</p>
 <p>Tags: Neubias, Imagej, Bioimage Analysis</p>
@@ -1646,7 +528,7 @@ title="Print to PDF"
 </section>
 <hr class="docutils" />
 <section id="working-with-pixels">
-<h2>Working with pixels<a class="headerlink" href="#working-with-pixels" title="Permalink to this heading">#</a></h2>
+<h2>Working with pixels<a class="headerlink" href="#working-with-pixels" title="Link to this heading">#</a></h2>
 <p>Robert Haase</p>
 <p>Licensed BSD-3-CLAUSE</p>
 <p>Tags: Neubias, Imagej, Bioimage Analysis</p>
@@ -1676,90 +558,66 @@ title="Print to PDF"
     </script>
     <script>kernelName = 'python3'</script>
 
-            </article>
-            
+                </article>
+              
 
-            
-            
-            <footer class="bd-footer-article">
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-  <a class='left-prev' id="prev-link" href="focalplane.biologists.com.html" title="previous page">
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="focalplane.biologists.com.html"
+       title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
-          <p class="prev-next-subtitle">previous</p>
-          <p class="prev-next-title">Focalplane.biologists.com (13)</p>
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Focalplane.biologists.com (13)</p>
       </div>
-  </a>
-  <a class='right-next' id="next-link" href="github.com.html" title="next page">
-  <div class="prev-next-info">
-      <p class="prev-next-subtitle">next</p>
-      <p class="prev-next-title">Github.com (113)</p>
-  </div>
-  <i class="fa-solid fa-angle-right"></i>
-  </a>
+    </a>
+    <a class="right-next"
+       href="github.com.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Github.com (115)</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
 </div>
-            </footer>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#imagej2-api-beating">ImageJ2 API-beating</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden">Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-applied-bioimage-analysis-2020">Lecture Applied Bioimage Analysis 2020</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#multi-view-fusion">Multi-view fusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tracking-theory-trackmate-and-mastodon">Tracking Theory, TrackMate, and Mastodon</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#working-with-objects-in-2d-and-3d">Working with objects in 2D and 3D</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#working-with-pixels">Working with pixels</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
             
           </div>
-          
-          
-          
-            <div class="bd-sidebar-secondary bd-toc">
-              
-<div class="toc-item">
-  
-<div class="tocsection onthispage">
-    <i class="fa-solid fa-list"></i> On this page
-</div>
-<nav id="bd-toc-nav" class="page-toc">
-    <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#imagej2-api-beating">
-   ImageJ2 API-beating
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction-to-imagej-macro-programming-scientific-computing-facility-mpi-cbg-dresden">
-   Introduction to ImageJ macro programming, Scientific Computing Facility, MPI CBG Dresden
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lecture-applied-bioimage-analysis-2020">
-   Lecture Applied Bioimage Analysis 2020
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#multi-view-fusion">
-   Multi-view fusion
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#tracking-theory-trackmate-and-mastodon">
-   Tracking Theory, TrackMate, and Mastodon
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#working-with-objects-in-2d-and-3d">
-   Working with objects in 2D and 3D
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#working-with-pixels">
-   Working with pixels
-  </a>
- </li>
-</ul>
-
-</nav>
-</div>
-
-            </div>
-          
-          
-        </div>
-        <footer class="bd-footer-content">
-          <div class="bd-footer-content__inner">
+          <footer class="bd-footer-content">
             
 <div class="bd-footer-content__inner container">
   
@@ -1773,11 +631,13 @@ By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
   
   <div class="footer-item">
     
+
   </div>
   
   <div class="footer-item">
     <p class="last-updated">
-Last updated on 2024-11-13.<br>
+  Last updated on 2024-11-18.
+  <br/>
 </p>
   </div>
   
@@ -1793,19 +653,18 @@ Contributions and feedback are welcome.
   </div>
   
 </div>
-          </div>
-        </footer>
+          </footer>
         
 
       </main>
     </div>
   </div>
-
   
-    
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
+  <footer class="bd-footer">
+  </footer>
   </body>
 </html>

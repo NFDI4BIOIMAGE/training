@@ -1,4 +1,25 @@
-# Artificial intelligence (28)
+# Artificial intelligence (29)
+## AI ML DL in Bioimage Analysis - Webinar
+
+Yannick KREMPP
+
+Published 2024-11-14
+
+Licensed UNKNOWN
+
+
+
+A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+
+Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+
+Content type: Youtube Video, Slides, Webinar
+
+[https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
+
+
+---
+
 ## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
 
 Caterina Fuster-Barceló

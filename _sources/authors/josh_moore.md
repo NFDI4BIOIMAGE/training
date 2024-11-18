@@ -1,4 +1,4 @@
-# Josh moore (20)
+# Josh moore (21)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -194,6 +194,26 @@ Tags: Research Data Management, Bioimage Analysis, Data Science
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [ELMI 2024]  AI's Dirty Little Secret: Without
+FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Published 2024-05-21
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+[https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
+
+[https://doi.org/10.5281/zenodo.11235513](https://doi.org/10.5281/zenodo.11235513)
 
 
 ---

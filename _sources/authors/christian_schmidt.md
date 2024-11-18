@@ -1,4 +1,29 @@
-# Christian schmidt (11)
+# Christian schmidt (15)
+## A journey to FAIR microscopy data
+
+Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
+
+Published 2023-05-03
+
+Licensed CC-BY-4.0
+
+
+
+Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar, Ulm, online. Monday February 6th, 2023
+
+Abstract:
+
+Research data management is essential in nowadays research, and one of the big opportunities to accelerate collaborative and innovative scientific projects. To achieve this goal, all our data needs to be FAIR (findable, accessible, interoperable, reproducible). For data acquired on microscopes, however, a common ground for FAIR data sharing is still to be established. Plenty of work on file formats, data bases, and training needs to be performed to highlight the value of data sharing and exploit its potential for bioimaging data.
+
+In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
+
+[https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
+
+[https://doi.org/10.5281/zenodo.7890311](https://doi.org/10.5281/zenodo.7890311)
+
+
+---
+
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -79,6 +104,41 @@ Content type: Slide, Video
 
 ---
 
+## Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+Anett Jannasch, Silke Tulok, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
+
+Published 2024-06-26
+
+Licensed CC-BY-4.0
+
+
+
+This is a Key-Value pair template used for the annotation of datasets in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t Dresden . A corresponding public example dataset is used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here
+(https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
+The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015) and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th- Sept 1th 2023.&nbsp;
+With this template it is possible to create a csv-file, that can be used to annotate a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+select and copy the data range containing Keys and Values
+open a new excel sheet and paste transpose in column B1
+type in A1 'dataset'
+insert in A2 the exact name of the dataset, which should be annotated in OMERO
+save the new excel sheet in csv- (comma seperated values) file format
+
+Example can be seen in sheet 1 'csv import'. Important note; the code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
+&nbsp;
+See cross reference:
+10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
+10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+[https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
+
+[https://doi.org/10.5281/zenodo.12546808](https://doi.org/10.5281/zenodo.12546808)
+
+
+---
+
 ## MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community
 
 Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
@@ -155,21 +215,40 @@ Content type: Publication
 
 ---
 
-## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
+## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
 
-Christian Schmidt
+Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
+
+Published 2024-06-06
 
 Licensed CC-BY-4.0
 
 
 
-Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
+Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+[https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
-Content type: Slides
+[https://doi.org/10.5281/zenodo.11501662](https://doi.org/10.5281/zenodo.11501662)
 
-[https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+---
+
+## [Short Talk] NFDI4BIOIMAGE - A consortium in the National Research Data Infrastructure
+
+Christian Schmidt
+
+Published 2024-04-10
+
+Licensed CC-BY-4.0
+
+
+
+Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM &amp; ZB MED.
+
+[https://zenodo.org/records/10939520](https://zenodo.org/records/10939520)
+
+[https://doi.org/10.5281/zenodo.10939520](https://doi.org/10.5281/zenodo.10939520)
 
 
 ---
@@ -178,7 +257,7 @@ Content type: Slides
 
 Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
 
-Published 2024-10-30
+Published 2024-11-18
 
 Licensed CC-BY-4.0
 
@@ -215,9 +294,40 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-[https://zenodo.org/records/14013026](https://zenodo.org/records/14013026)
+[https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
-[https://doi.org/10.5281/zenodo.14013026](https://doi.org/10.5281/zenodo.14013026)
+[https://doi.org/10.5281/zenodo.14178789](https://doi.org/10.5281/zenodo.14178789)
+
+
+---
+
+## [Workshop] Bioimage data management and analysis with OMERO
+
+Riccardo Massei, Michele Bortolomeazzi, Christian Schmidt
+
+Published 2024-05-13
+
+Licensed CC-BY-4.0
+
+
+
+Here we share the material used in a workshop held on May 13th, 2024, at the German Cancer Research Center in Heidelberg (on-premise)
+Description:Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
+In this workshop, participants learn how to use OMERO to organize their data and enrich the bioimage data with structured metadata annotations.We also focus on image analysis workflows in combination with OMERO based on the Fiji/ImageJ software and using Jupyter Notebooks. In the last part, we explore how OMERO can be used to create publication figures and prepare bioimage data for publication in a suitable repository such as the Bioimage Archive.
+Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
+Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
+Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
+Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with OMERO
+The target group for this workshopThis workshop is directed at researchers at all career levels who plan to or have started to use OMERO for their microscopy research data management.&nbsp;We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
+Prerequisites:Users should bring their laptops and have access to the internet through one of the following options:- eduroam- institutional WiFi- VPN connection to their institutional networks to access OMERO
+Who are the trainers?
+Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
+Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
+
+[https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
+
+[https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
 
 
 ---

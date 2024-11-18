@@ -871,7 +871,7 @@ Content type: Publication
 
 Robert Haase
 
-Published 2024-08-29
+Published 2024-09-03
 
 Licensed CC-BY-4.0
 
@@ -879,9 +879,9 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
-[https://zenodo.org/records/13506641](https://zenodo.org/records/13506641)
+[https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
-[https://doi.org/10.5281/zenodo.13506641](https://doi.org/10.5281/zenodo.13506641)
+[https://doi.org/10.5281/zenodo.13640979](https://doi.org/10.5281/zenodo.13640979)
 
 
 ---

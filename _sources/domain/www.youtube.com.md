@@ -1,4 +1,25 @@
-# Www.youtube.com (18)
+# Www.youtube.com (20)
+## AI ML DL in Bioimage Analysis - Webinar
+
+Yannick KREMPP
+
+Published 2024-11-14
+
+Licensed UNKNOWN
+
+
+
+A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+
+Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+
+Content type: Youtube Video, Slides, Webinar
+
+[https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
+
+
+---
+
 ## Bio Image Analysis Lecture 2020
 
 
@@ -57,6 +78,27 @@ Content type: Collection, Video
 [https://www.youtube.com/digitalsreeni](https://www.youtube.com/digitalsreeni)
 
 [https://www.youtube.com/watch?v=A4po9z61TME](https://www.youtube.com/watch?v=A4po9z61TME)
+
+
+---
+
+## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
+
+Guillaume Jacquemet
+
+Published 2024-10-24
+
+Licensed UNKNOWN
+
+
+
+Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
+
+Tags: Deep Learning, Microscopy Image Analysis
+
+Content type: Youtube Video, Slides
+
+[https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
 
 
 ---

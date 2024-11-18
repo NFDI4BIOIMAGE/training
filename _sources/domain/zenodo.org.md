@@ -1,4 +1,4 @@
-# Zenodo.org (76)
+# Zenodo.org (96)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -45,17 +45,42 @@ Content type: Book
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
 
+Published 2024-03-27
+
 Licensed CC-BY-4.0
 
 
 
-The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by Anca Margineanu, Chiara Stringari and Conni Wetzker. 
+The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
 
-Tags: Bioimage Analysis, Flim
+[https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
 
-Content type: Slides
+[https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
 
-[https://zenodo.org/doi/10.5281/zenodo.10886749](https://zenodo.org/doi/10.5281/zenodo.10886749)
+
+---
+
+## A journey to FAIR microscopy data
+
+Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
+
+Published 2023-05-03
+
+Licensed CC-BY-4.0
+
+
+
+Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar, Ulm, online. Monday February 6th, 2023
+
+Abstract:
+
+Research data management is essential in nowadays research, and one of the big opportunities to accelerate collaborative and innovative scientific projects. To achieve this goal, all our data needs to be FAIR (findable, accessible, interoperable, reproducible). For data acquired on microscopes, however, a common ground for FAIR data sharing is still to be established. Plenty of work on file formats, data bases, and training needs to be performed to highlight the value of data sharing and exploit its potential for bioimaging data.
+
+In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
+
+[https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
+
+[https://doi.org/10.5281/zenodo.7890311](https://doi.org/10.5281/zenodo.7890311)
 
 
 ---
@@ -409,6 +434,25 @@ We would like to thank all the commentators of the previous versions, especially
 
 ---
 
+## Data stewardship and research data management tools for multimodal linking of imaging data in plasma medicine
+
+Ahmadi, Mohsen, Wagner, Robert, Mattern, Philipp, Plathe, Nick, Bekeschus, Sander, Becker, Markus M., Stöter, Torsten, Weidtkamp-Peters, Stefanie
+
+Published 2023-11-03
+
+Licensed CC-BY-4.0
+
+
+
+A more detailed understanding of the effect of plasmas on biological systems can be fostered by combining data from different imaging modalities, such as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however, requires the implementation and use of sophisticated research data management (RDM) solutions to incorporate the influence of plasma parameters and treatment procedures as well as the effects of plasma on the treated targets. In order to address this, RDM activities on different levels and from different perspectives are started and brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
+
+[https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
+
+[https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
 ## Datenmanagement
 
 Robert Haase
@@ -635,6 +679,270 @@ Some metadata like the tiles positions are stored in the extra files (omp2info)
 
 ---
 
+## Example Microscopy Metadata JSON files produced using Micro-Meta App to document example microscopy experiments performed at individual core facilities
+
+Alessandro Rigano, Ulrike Boehm, Claire M. Brown, Joel Ryan, James J. Chambers, Robert A. Coleman, Orestis Faklaris, Thomas Guilbert, Michelle S. Itano, Judith Lacoste, Alex Laude, Marco Marcello, Paula Montero-Llopis, Glyn Nelson, Roland Nitschke, Jaime A. Pimentel, Stefanie Weidtkamp-Peters, Caterina Strambio-De-Castillia
+
+Published 2022-01-15
+
+Licensed CC-BY-4.0
+
+
+
+Example Microscopy Metadata (Microscope.JSON and Settings.JSON) files produced using Micro-Meta App to document the Hardware Specifications of example Microscopes and the Image Acquisition Settings utilized to acquire example images as listed in the table below.
+
+
+For each facility, the dataset contains two JSON files:
+
+
+	Microscope.JSON file (e.g., 01_marcello_uliverpool_cci_zeiss_axioobserz1_lsm710.json)
+	Settings.JSON file (indicated with the name of the image and with the _AS suffix)
+
+
+
+Micro-Meta App was developed as part of a global community initiative including the 4D Nucleome (4DN) Imaging Working Group, BioImaging North America (BINA) Quality Control and Data Management Working Group, and QUAlity and REProducibility for Instrument and Images in Light Microscopy (QUAREP-LiMi), to extend the Open Microscopy Environment (OME) data model.
+
+
+The works of this global community effort resulted in multiple publications featured on a recent Nature Methods FOCUS ISSUE dedicated to Reporting and reproducibility in microscopy.
+
+
+
+Learn More! For a thorough description of Micro-Meta App consult our recent Nature Methods and BioRxiv.org publications!
+
+
+&nbsp;
+
+
+	
+		
+			Nr.
+			Manufacturer
+			Model
+			Tier
+			&Epsilon;xperiment Type
+			Facility Name
+			Department and Institution
+			URL
+			References
+		
+		
+			1
+			Carl Zeiss Microscopy
+			Axio Observer Z1 (with LSM 710 scan head)
+			1
+			3D visualization of superhydrophobic polymer-nanoparticles
+			Centre for Cell Imaging (CCI)
+			University of Liverpool
+			https://cci.liv.ac.uk/equipment_710.html
+			Upton et al., 2020
+		
+		
+			2
+			Carl Zeiss Microscopy
+			Axio Observer (Axiovert 200M)
+			2
+			&Mu;easurement of illumination stability on Chinese Hamster Ovary cells expressing Paxillin-EGFP
+			Advanced BioImaging Facility (ABIF).
+			McGill University
+			https://www.mcgill.ca/abif/equipment/axiovert-1
+			Kiepas et al., 2020
+		
+		
+			3
+			Carl Zeiss Microscopy
+			Axio Observer Z1 (with Spinning Disk)
+			2
+			Immunofluorescence imaging of cryosection of Mouse kidney
+			Imagerie Cellulaire; Quality Control managed by Miacellavie (https://miacellavie.com/)
+			Centre de recherche du Centre Hospitalier Universit&eacute; de Montr&eacute;al (CR CHUM), University of Montreal
+			https://www.chumontreal.qc.ca/crchum/plateformes-et-services&nbsp; (the web site is for all core facilities, not specifically for the core facility hosting this microscope)
+			Pilliod et al., 2020
+		
+		
+			4
+			Carl Zeiss Microscopy
+			Axio Imager Z2 (with Apotome)
+			2
+			Immunofluorescence imaging of mitotic division in Hela cells using&nbsp;&nbsp;
+			Bioimaging Unit
+			Newcastle University
+			https://www.ncl.ac.uk/bioimaging/
+			Watson et al., 2020
+		
+		
+			5
+			Carl Zeiss Microscopy
+			Axio Observer Z1
+			2
+			Fluorescence microscopy of human skin fibroblasts from Glycogen Storage Disease patients.
+			Life Imaging Center (LIC)
+			Centre for Integrative Signalling Analysis (CISA), University of Freiburg
+			https://miap.eu/equipments/sd-i-abl/
+			Hannibal et al., 2020
+		
+		
+			6
+			Leica Microsystems
+			DMI6000B
+			2
+			3D immunofluorescence imaging&nbsp; rhinovirus infected macrophages&nbsp;
+			IMAG&#39;IC Confocal Microscopy Facility
+			Institut Cochin, CNRS, INSERM, Universit&eacute; de Paris
+			https://www.institutcochin.fr/core_facilities/confocal-microscopy/cochin-imaging-photonic-microscopy/organigram_team/10054/view
+			Jubrail et al., 2020
+		
+		
+			7
+			Leica Microsystems
+			DM5500B
+			2
+			Immunofluorescence analysis of the colocalization of PML bodies with DNA double-strand breaks
+			Bioimaging Unit
+			Edwardson Building on the Campus for Ageing and Vitality, Newcastle University
+			https://www.ncl.ac.uk/bioimaging/equipment/leica-dm5500/#overview
+			da Silva et al., 2019; Nelson et al., 2012
+			&nbsp;&nbsp;
+		
+		
+			8
+			Leica Microsystems
+			DMI8-CS (with TCS SP8 STED 3X)
+			2
+			Live-cell imaging of N. benthamiana leaves cells-derived protoplasts
+			Center for Advanced Imaging (CAi)
+			School of Mathematics/Natural Sciences, Heinrich-Heine-Universit&auml;t D&uuml;sseldorf
+			https://www.cai.hhu.de/en/equipment/super-resolution-microscopy/leica-tcs-sp8-sted-3x
+			Singer et al., 2017; H&auml;nsch et al., 2020
+		
+		
+			9
+			Nikon Instruments
+			Eclipse Ti
+			2
+			Immunofluorescence analysis of the cytoskeleton structure in COS cells
+			Advanced Imaging Center (AIC)
+			Janelia Research Campus, Howard Hughes Medical Institute
+			https://www.janelia.org/support-team/light-microscopy/equipment
+			Abdelfattah et al., 2019; Qian et al., 2019; Grimm et al., 2020
+		
+		
+			10
+			Nikon Instruments
+			Eclipse Ti-E (HCA)
+			2
+			&Tau;ime-lapse analysis of the bursting behavior of amine-functionalized vesicular assemblies
+			Light Microscopy Facility (IALS-LIF)
+			Institute for Applied Life Sciences, University of Massachusetts at Amherst
+			https://www.umass.edu/ials/light-microscopy
+			Fernandez et al., 2020
+		
+		
+			11
+			Nikon Instruments/Coleman laboratory (customized)
+			TIRF HILO Epifluorescence light Microscope (THEM)/ Eclipse Ti
+			2
+			Single-particle tracking of Halo-tagged PCNA in Lox cells
+			Coleman laboratory
+			Anatomy and Structural Biology Department, The Albert Einstein College of Medicine
+			https://einsteinmed.org/faculty/12252/robert-coleman/
+			Drosopoulos et al., 2020
+		
+		
+			12
+			Nikon Instruments
+			Eclipse Ti (with Andor Dragon Fly Spinning Disk)
+			2
+			Investigation of the 3D structure of cerebral organoids
+			Montpellier Resources Imagerie
+			Centre de Recherche de Biologie cellulaire de Montpellier (MRI-CRBM), CNRS, Univerity of Montpellier
+			https://www.mri.cnrs.fr/en/optical-imaging/our-facilities/mri-crbm.html
+			Ayala-Nunez et al., 2019
+		
+		
+			13
+			Nikon Instruments
+			Eclipse Ti2
+			2
+			&Iota;mmunofluorescence imaging of cryosections of mouse hearth myocardium&nbsp;
+			Neuroscience Center Microscopy Core
+			Neuroscience Center, University of North Carolina
+			https://www.med.unc.edu/neuroscience/core-facilities/neuro-microscopy/
+			Aghajanian et al., 2021
+		
+		
+			14
+			Nikon Instruments
+			Eclipse Ti2
+			2
+			Live-cell imaging of bacterial cells expressing GFP-PopZ
+			Microscopy Resources on the North Quad (MicRoN)
+			Harvard Medical School&nbsp;
+			https://micron.hms.harvard.edu/
+			Lim and Bernhardt 2019; Lim et al., 2019
+		
+		
+			15
+			Olympus/Biomedical Imaging Group (customized)
+			TIRF Epifluorescence Structured light Microscope (TESM)/IX71
+			3
+			3D distribution of HIV-1 in the nucleus of human cells
+			Biomedical Imaging Group
+			Program in Molecular Medicine, University of Massachusetts Medical School
+			https://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope
+			Navaroli et al., 2012
+		
+		
+			16
+			Olympus/Computer Vision Laboratory (customized)
+			3D BrightField Scanner/IX71
+			3
+			Transmitted light brightfield visualization of swimming spermatocytes
+			Laboratorio Nacional de Microscopia Avanzada (LNMA) and Computer Vision Laboratory of the Institute of Biotechnology
+			Universidad Nacional Autonoma de Mexico (UNAM)
+			https://lnma.unam.mx/wp/
+			Pimentel et al., 2012; Silva-Villalobos et al., 2014
+		
+	
+
+
+Getting started
+
+Use these videos to get started with using Micro-Meta App after installation into OMERO and downloading the example data files:
+
+
+	Video 1
+	Video 2
+
+
+More information
+
+
+For full information on how to use Micro-Meta App please utilize the following resources:
+
+
+	Micro-Meta App website
+	Full documentation
+	Installation instructions
+	Step-by-Step Instructions
+	Tutorial Videos
+
+
+
+Background
+
+If you want to learn more about the importance of metadata and quality control to ensure full reproducibility, quality and scientific value in light microscopy, please take a look at our recent publications describing the development of community-driven light 4DN-BINA-OME Microscopy Metadata specifications Nature Methods and BioRxiv.org and our overview manuscript entitled A perspective on Microscopy Metadata: data provenance and quality control.
+
+&nbsp;
+
+&nbsp;
+
+[https://zenodo.org/records/5847477](https://zenodo.org/records/5847477)
+
+[https://doi.org/10.5281/zenodo.5847477](https://doi.org/10.5281/zenodo.5847477)
+
+
+---
+
 ## Example Operetta Dataset
 
 Nicolas Chiaruttini
@@ -776,17 +1084,18 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 
 Riccardo Massei
 
+Published 2024-03-07
+
 Licensed CC-BY-4.0
 
 
 
-Results of the project 'Conversion of KNIME image analysis workflows to Galaxy' during the Hackathon 'Image Analysis in Galaxy' (Freiburg 26 Feb - 01 Mar 2024)
+Results of the project "Conversion of KNIME image analysis workflows to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01 Mar 2024)
+&nbsp;
 
-Tags: Research Data Management
+[https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
 
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.10793699](https://zenodo.org/doi/10.5281/zenodo.10793699)
+[https://doi.org/10.5281/zenodo.10793700](https://doi.org/10.5281/zenodo.10793700)
 
 
 ---
@@ -835,6 +1144,27 @@ Content type: Slide, Video
 
 ---
 
+## Image Repository Decision Tree - Where do I deposit my imaging data
+
+Kemmer, Isabel, Romdhane, Feriel, Euro-BioImaging ERIC
+
+Published 2024-10-22
+
+Licensed CC-BY-4.0
+
+
+
+Depositing data in quality data repositories is one crucial step towards FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+To guide you in the selection of appropriate repositories, we have created an overview of available repositories for different types of image data, including their scope and requirements. This decision tree guides you through questions about your data and directs you to the correct repository, and/or provides instructions for further processing to meet the critera of the repositories.&nbsp;
+Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data.&nbsp;
+
+[https://zenodo.org/records/13945179](https://zenodo.org/records/13945179)
+
+[https://doi.org/10.5281/zenodo.13945179](https://doi.org/10.5281/zenodo.13945179)
+
+
+---
+
 ## Insights and Impact From Five Cycles of Essential Open Source Software for Science
 
 Kate Hertweck, Carly Strasser, Dario Taraborelli
@@ -850,6 +1180,135 @@ Tags: Open Source Software, Funding, Sustainability
 Content type: Publication
 
 [https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
+
+
+---
+
+## Insights from Acquiring Open Medical Imaging  Datasets for Foundation Model Development
+
+Stefan Dvoretskii
+
+Published 2024-04-10
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/11503289](https://zenodo.org/records/11503289)
+
+[https://doi.org/10.5281/zenodo.11503289](https://doi.org/10.5281/zenodo.11503289)
+
+
+---
+
+## Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development
+
+Stefan Dvoretskii
+
+Published 2024-04-10
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/13380289](https://zenodo.org/records/13380289)
+
+[https://doi.org/10.5281/zenodo.13380289](https://doi.org/10.5281/zenodo.13380289)
+
+
+---
+
+## Institutionalization and Collaboration as a Way of Addressing the Challenges Open Science Presents to Libraries: The University of Konstanz as a National Pioneer
+
+Sophie Habinger, Maximilian Heber, Sonja Kralj, Emilia Mikautsch
+
+Published 2024-07-09
+
+Licensed CC-BY-4.0
+
+
+
+The rise of Open Science (OS) and the academic community&rsquo;s needs that come with it bring about a range of challenges for academic libraries. To face these challenges, the University of Konstanz has created a competence unit called&nbsp;Team Open Science&nbsp;in the Communication, Information, Media Center (KIM) - a joint unit of library and IT infrastructure. The Team creates synergies within itself and across the library. In December 2023, it involved 12 staff members specialising in open access (OA), research data management (RDM), open educational resources (OER) and virtual research environments (VRE). It collaborates closely with other KIM departments. This submission shall serve as a best practice example for the impact of OS on research libraries and, beyond that, the impact of research libraries on universities.
+To enhance and foster OS, the Team provides individual consultations, services and office hours for researchers. Here, it collaborates closely with other librarians like subject specialists and the Team University Publications. Along similar lines, the KIM offers institutional repositories for publications (KOPS) and research data (KonDATA). Beyond that, the Team provides solutions to host OA journals and analyses researchers&rsquo; VRE needs to decide on implementation options. In sum, the Team is the central OS contact point for the entire university, underlining the major role the library holds in making institutional impact.
+Furthermore, the Team had the leading role in creating the University of Konstanz&rsquo; OS Policy, one of the first ones passed by a German university. This policy stands out because it encompasses various OS domains. It demands, among other things, that text publications be made OA and that research data be managed according to relevant subject-specific standards. If permissible and reasonable, it demands that research data should be made publicly available at the earliest possible time. Along these lines, the policy has a large impact on how the library handles closed access books and subscription-based journals. As a consequence, OA is pursued wherever possible, leading to the highest OA quota of all German universities. In that sense, the Team is a crucial driving force of OS in the University of Konstanz, which ties in with the library&rsquo;s major role of open research transformation.
+Beyond the University of Konstanz, the Team is involved in a range of national and international projects collaborating with other libraries. On a national level, they lead the project open.access-network which provides an information platform for researchers and librarians and connects the German-speaking OA community through events like bar camps. The project KOALA-AV supports libraries in establishing consortial solutions for financing Diamond OA publications. Moreover, the Team is involved in the federal state initiative for RDM in Baden-W&uuml;rttemberg (bwFDM). Here, the Team is in charge of forschungsdaten.info, the German-speaking countries&rsquo; leading RDM information platform, which will be offered in English within the next years. Internationally, the Team cooperates with librarians and other OS professionals from the European Reform University Alliance (ERUA) and the European University for Well-Being (EUniWell), establishing formats for best practice exchange, such as monthly OS Meet-Ups.
+
+[https://zenodo.org/records/12699637](https://zenodo.org/records/12699637)
+
+[https://doi.org/10.5281/zenodo.12699637](https://doi.org/10.5281/zenodo.12699637)
+
+
+---
+
+## Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+Anett Jannasch, Silke Tulok, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
+
+Published 2024-06-26
+
+Licensed CC-BY-4.0
+
+
+
+This is a Key-Value pair template used for the annotation of datasets in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t Dresden . A corresponding public example dataset is used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here
+(https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
+The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015) and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th- Sept 1th 2023.&nbsp;
+With this template it is possible to create a csv-file, that can be used to annotate a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+select and copy the data range containing Keys and Values
+open a new excel sheet and paste transpose in column B1
+type in A1 'dataset'
+insert in A2 the exact name of the dataset, which should be annotated in OMERO
+save the new excel sheet in csv- (comma seperated values) file format
+
+Example can be seen in sheet 1 'csv import'. Important note; the code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
+&nbsp;
+See cross reference:
+10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
+10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+[https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
+
+[https://doi.org/10.5281/zenodo.12546808](https://doi.org/10.5281/zenodo.12546808)
+
+
+---
+
+## Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Müller-Reichert
+
+Fabig, Gunar, Jannasch, Anett, Okafornta, Chukwuebuka, Boissonnet, Tom, Schmidt, Christian, Bortolomeazzi, Michele, Fuchs, Vanessa Aphaia Fiona, Koeckert, Maria, Poddar, Aayush, Vogel, Martin, Schwarzbach, Hanna-Margareta, Vogelsang, Andy, Gerlach, Michael, Nobst, Anja, Müller-Reichert, Thomas, Tulok, Silke
+
+Published 2024-06-26
+
+Licensed CC-BY-4.0
+
+
+
+This are a two Key-Value pair templates used for the annotation of datasets in OMERO. They are tailored for light- and electron microcopy data for all research projects of the research group of Prof. T. Mueller-Reichert.&nbsp; All members of the Core Facility Cellular Imaging agreed for using these templates to annotate data in OMERO. Furthermore, there are a corresponding public example datasets used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and are available here:
+https://omero.med.tu-dresden.de/webclient/?show=dataset-1552 --&gt; for lattice-light sheet microscopy
+https://omero.med.tu-dresden.de/webclient/?show=dataset-1555--&gt; for electron microscopy data
+That templates are based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015) and were developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th- Sept 1st in 2023 and further adapeted during the usage of OMERO.&nbsp;
+With every template it is possible to create a csv-file, that can be used to annotate a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+
+fill the template with metadata
+select and copy the data range containing the Keys and Values
+open a new excel sheet and paste transpose in cell A1
+Important: cell A1 contains always the name 'dataset' and cell A2 contains the exact name of the dataset, which should be annotated in OMERO
+save the new excel sheet in csv-file (comma separated values) format
+
+Examples can be seen in sheet 3 'csv_TOMO' and sheet 5 csv_TEM'.
+Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might be not able to decode by the annotation script. We encountered this issue with old Microsoft-Office versions (MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of comma as decimal delimiter.
+See cross reference:
+10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+&nbsp;
+
+[https://zenodo.org/records/12547566](https://zenodo.org/records/12547566)
+
+[https://doi.org/10.5281/zenodo.12547566](https://doi.org/10.5281/zenodo.12547566)
 
 
 ---
@@ -884,6 +1343,25 @@ Content type: Slides
 
 ---
 
+## LEO: Linking ELN with OMERO
+
+Escobar Diaz Guerrero, Rodrigo
+
+Published 2024-05-08
+
+Licensed CC-BY-4.0
+
+
+
+First updates of LEO (Linking ELN with OMERO)
+
+[https://zenodo.org/records/11146807](https://zenodo.org/records/11146807)
+
+[https://doi.org/10.5281/zenodo.11146807](https://doi.org/10.5281/zenodo.11146807)
+
+
+---
+
 ## Large Language Models: An Introduction for Life Scientists
 
 Robert Haase
@@ -899,6 +1377,29 @@ Large Language Models (LLMs) are changing the way how humans interact with compu
 [https://zenodo.org/records/13379394](https://zenodo.org/records/13379394)
 
 [https://doi.org/10.5281/zenodo.13379394](https://doi.org/10.5281/zenodo.13379394)
+
+
+---
+
+## Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
+
+Heber, Maximilian, Jakob, Moritz, Landwehr, Matthias, Leendertse, Jan, Müller, Maximilian, Schneider, Gabriel, von Suchodoletz, Dirk, Ulrich, Robert
+
+Published 2024-06-03
+
+Licensed CC-BY-4.0
+
+
+
+Im Zuge der stetig wachsenden Brisanz des Forschungsdatenmanagements fallen immer gr&ouml;&szlig;ere Mengen an Forschungsdaten an. Diese an sich begr&uuml;&szlig;enswerte Entwicklung f&uuml;hrt zu technischen und organisatorischen Herausforderungen nicht nur im Bereich der Speicherung von Forschungsdaten, sondern in allen Phasen des Forschungsdatenlebenszyklus. Der vorliegende Beitrag erl&auml;utert vor diesem Hintergrund m&ouml;gliche Motivationen hinter digitaler Datensparsamkeit mit Blick auf organisatorische, technische und ethische Kriterien, Datenschutz und Nachhaltigkeit. Anschlie&szlig;end werden vor dem Hintergrund zentraler Herausforderungen Umsetzungsvorschl&auml;ge f&uuml;r das Vorfeld sowie den Verlauf eines Forschungsvorhabens gemacht. Zudem werden grundlegende Empfehlungen zur digitalen Datensparsamkeit ausgesprochen.
+Eine k&uuml;rzere Ausgabe des Leitfadens ist im Mai 2024 in der Zeitschrift o | bib erschienen: https://doi.org/10.5282/o-bib/6036 
+Diese Ausgabe enth&auml;lt ein zus&auml;tzliches Kapitel (4.2) mit konkreten Praxisbeispielen.
+Dieser Artikel wurde ins Englische &uuml;bersetzt:
+Heber, M., Jakob, M., Landwehr, M., Leendertse, J., M&uuml;ller, M., Schneider, G., von Suchodoletz, D., &amp; Ulrich, R. (2024). A Users' Guide to Economical Digital Data Usage. Zenodo. https://doi.org/10.5281/zenodo.13752220
+
+[https://zenodo.org/records/11445843](https://zenodo.org/records/11445843)
+
+[https://doi.org/10.5281/zenodo.11445843](https://doi.org/10.5281/zenodo.11445843)
 
 
 ---
@@ -928,6 +1429,42 @@ Image metadata contains extra information including voxel sizes.
 [https://zenodo.org/records/1472859](https://zenodo.org/records/1472859)
 
 [https://doi.org/10.5281/zenodo.1472859](https://doi.org/10.5281/zenodo.1472859)
+
+
+---
+
+## Linked (Open) Data for Microbial Population Biology
+
+Carsten Fortmann-Grote
+
+Published 2024-03-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/10808486](https://zenodo.org/records/10808486)
+
+[https://doi.org/10.5281/zenodo.10808486](https://doi.org/10.5281/zenodo.10808486)
+
+
+---
+
+## Metadata Annotation Workflow for OMERO with Tabbles
+
+Wendt Jens
+
+Published 2023-09-04
+
+Licensed CC-BY-4.0
+
+
+
+Short presentation given at at PoL BioImage Analysis Symposium Dresden 2023
+
+[https://zenodo.org/records/8314968](https://zenodo.org/records/8314968)
+
+[https://doi.org/10.5281/zenodo.8314968](https://doi.org/10.5281/zenodo.8314968)
 
 
 ---
@@ -985,19 +1522,19 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE
 
-Carsten Fortmann.Grote
+Carsten Fortmann-Grote
+
+Published 2024-04-22
 
 Licensed CC-BY-4.0
 
 
 
-Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
+This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
 
-Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage
+[https://zenodo.org/records/11031747](https://zenodo.org/records/11031747)
 
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.11031746](https://zenodo.org/doi/10.5281/zenodo.11031746)
+[https://doi.org/10.5281/zenodo.11031747](https://doi.org/10.5281/zenodo.11031747)
 
 
 ---
@@ -1056,6 +1593,45 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## NFDI4Bioimage Calendar 2024 October; original image
+
+Christian Jüngst, Peter Zentis
+
+Published 2024-09-25
+
+Licensed CC-BY-4.0
+
+
+
+Raw microscopy image from the NFDI4Bioimage calendar October 2024
+
+[https://zenodo.org/records/13837146](https://zenodo.org/records/13837146)
+
+[https://doi.org/10.5281/zenodo.13837146](https://doi.org/10.5281/zenodo.13837146)
+
+
+---
+
+## New Kid on the (NFDI) Block: NFDI4BIOIMAGE  - A National Initiative for FAIR Data Management in Bioimaging and Bioimage Analysis
+
+Cornelia Wetzker
+
+Published 2024-10-29
+
+Licensed CC-BY-4.0
+
+
+
+The poster introduces the consortium NFDI4BIOIMAGE with its central objectives, provides an overview of challenges in bioimage data handling, sharing and analysis and lists support options by the consortium through its data stewardship team.
+It is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659) and has been presented at the conference FDM@Campus held in G&ouml;ttingen September 23-25, 2024.
+
+[https://zenodo.org/records/14006558](https://zenodo.org/records/14006558)
+
+[https://doi.org/10.5281/zenodo.14006558](https://doi.org/10.5281/zenodo.14006558)
 
 
 ---
@@ -1144,6 +1720,44 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10687658](https://zenodo.org/doi/10.5281/zenodo.10687658)
+
+
+---
+
+## RESEARCH DATA MANAGEMENT on Campus and in NFDI4BIOIMAGE
+
+Cornelia Wetzker, Michael Schlierf
+
+Published 2024-08-29
+
+Licensed CC-BY-4.0
+
+
+
+The poster is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659).
+
+[https://zenodo.org/records/13684187](https://zenodo.org/records/13684187)
+
+[https://doi.org/10.5281/zenodo.13684187](https://doi.org/10.5281/zenodo.13684187)
+
+
+---
+
+## Report on a pilot study:  Implementation of OMERO for  microscopy data management
+
+Silke Tulok, Gunar Fabig, Andy Vogelsang, Thomas Kugel, Thomas Müller-Reichert
+
+Published 2023-11-10
+
+Licensed CC-BY-4.0
+
+
+
+The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine Carl Gustav Carus (TU Dresden) is currently running a pilot project for testing the use and handling of the OMERO software. This is done together with interested users of the imaging facility and a research group. Currently, we are pushing forward this pilot study on a small scale without any data steward. Our experiences argue so far for giving data management issues into the hands of dedicated personnel not fully involved in research projects. As funding agencies will ask for higher and higher standards for implementing FAIRdata principles in the future, this will be a releva
+
+[https://zenodo.org/records/10103316](https://zenodo.org/records/10103316)
+
+[https://doi.org/10.5281/zenodo.10103316](https://doi.org/10.5281/zenodo.10103316)
 
 
 ---
@@ -1305,6 +1919,25 @@ This document contains a full QuPath project with an example of registered image
 
 ---
 
+## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
+
+Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
+
+Published 2024-06-06
+
+Licensed CC-BY-4.0
+
+
+
+Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
+
+[https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
+
+[https://doi.org/10.5281/zenodo.11501662](https://doi.org/10.5281/zenodo.11501662)
+
+
+---
+
 ## Thinking data management on different scales
 
 Susanne Kunis
@@ -1328,7 +1961,7 @@ Content type: Slides
 
 Robert Haase
 
-Published 2024-08-29
+Published 2024-09-03
 
 Licensed CC-BY-4.0
 
@@ -1336,9 +1969,9 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
-[https://zenodo.org/records/13506641](https://zenodo.org/records/13506641)
+[https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
-[https://doi.org/10.5281/zenodo.13506641](https://doi.org/10.5281/zenodo.13506641)
+[https://doi.org/10.5281/zenodo.13640979](https://doi.org/10.5281/zenodo.13640979)
 
 
 ---
@@ -1408,7 +2041,9 @@ Content type: Slides
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+
+Published 2024-03-01
 
 Licensed CC-BY-4.0
 
@@ -1416,11 +2051,9 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
-Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage
+[https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
-Content type: Poster
-
-[https://zenodo.org/doi/10.5281/zenodo.10730423](https://zenodo.org/doi/10.5281/zenodo.10730423)
+[https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
 
 
 ---
@@ -1459,6 +2092,26 @@ Tags: Research Data Management, Bioimage Analysis, Data Science
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [ELMI 2024]  AI's Dirty Little Secret: Without
+FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Published 2024-05-21
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+[https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
+
+[https://doi.org/10.5281/zenodo.11235513](https://doi.org/10.5281/zenodo.11235513)
 
 
 ---
@@ -1588,17 +2241,17 @@ Content type: Poster
 
 Christian Schmidt
 
+Published 2024-04-10
+
 Licensed CC-BY-4.0
 
 
 
-Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
+Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM &amp; ZB MED.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+[https://zenodo.org/records/10939520](https://zenodo.org/records/10939520)
 
-Content type: Slides
-
-[https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+[https://doi.org/10.5281/zenodo.10939520](https://doi.org/10.5281/zenodo.10939520)
 
 
 ---
@@ -1607,7 +2260,7 @@ Content type: Slides
 
 Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
 
-Published 2024-10-30
+Published 2024-11-18
 
 Licensed CC-BY-4.0
 
@@ -1644,9 +2297,40 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-[https://zenodo.org/records/14013026](https://zenodo.org/records/14013026)
+[https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
-[https://doi.org/10.5281/zenodo.14013026](https://doi.org/10.5281/zenodo.14013026)
+[https://doi.org/10.5281/zenodo.14178789](https://doi.org/10.5281/zenodo.14178789)
+
+
+---
+
+## [Workshop] Bioimage data management and analysis with OMERO
+
+Riccardo Massei, Michele Bortolomeazzi, Christian Schmidt
+
+Published 2024-05-13
+
+Licensed CC-BY-4.0
+
+
+
+Here we share the material used in a workshop held on May 13th, 2024, at the German Cancer Research Center in Heidelberg (on-premise)
+Description:Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
+In this workshop, participants learn how to use OMERO to organize their data and enrich the bioimage data with structured metadata annotations.We also focus on image analysis workflows in combination with OMERO based on the Fiji/ImageJ software and using Jupyter Notebooks. In the last part, we explore how OMERO can be used to create publication figures and prepare bioimage data for publication in a suitable repository such as the Bioimage Archive.
+Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
+Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
+Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
+Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with OMERO
+The target group for this workshopThis workshop is directed at researchers at all career levels who plan to or have started to use OMERO for their microscopy research data management.&nbsp;We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
+Prerequisites:Users should bring their laptops and have access to the internet through one of the following options:- eduroam- institutional WiFi- VPN connection to their institutional networks to access OMERO
+Who are the trainers?
+Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
+Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
+
+[https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
+
+[https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
 
 
 ---

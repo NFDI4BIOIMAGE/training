@@ -8,74 +8,68 @@ msgstr ""
 "Language: sk\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Copyright"
-msgstr "Autorské práva"
-
 msgid "Print to PDF"
 msgstr "Tlač do PDF"
-
-msgid "Edit this page"
-msgstr "Upraviť túto stránku"
-
-msgid "suggest edit"
-msgstr "navrhnúť úpravu"
-
-msgid "Sphinx Book Theme"
-msgstr "Téma knihy Sfinga"
-
-msgid "open issue"
-msgstr "otvorené vydanie"
-
-msgid "By the"
-msgstr "Podľa"
 
 msgid "Theme by the"
 msgstr "Téma od"
 
-msgid "Download notebook file"
-msgstr "Stiahnite si zošit"
+msgid "Download source file"
+msgstr "Stiahnite si zdrojový súbor"
 
-msgid "Toggle navigation"
-msgstr "Prepnúť navigáciu"
-
-msgid "next page"
-msgstr "ďalšia strana"
+msgid "open issue"
+msgstr "otvorené vydanie"
 
 msgid "Contents"
 msgstr "Obsah"
 
-msgid "Source repository"
-msgstr "Zdrojové úložisko"
+msgid "previous page"
+msgstr "predchádzajúca strana"
 
-msgid "Search the docs ..."
-msgstr "Hľadať v dokumentoch ..."
+msgid "Download notebook file"
+msgstr "Stiahnite si zošit"
 
-msgid "Last updated on"
-msgstr "Posledná aktualizácia dňa"
-
-msgid "Search this book..."
-msgstr "Hľadať v tejto knihe ..."
+msgid "Copyright"
+msgstr "Autorské práva"
 
 msgid "Download this page"
 msgstr "Stiahnite si túto stránku"
 
-msgid "Launch"
-msgstr "Spustiť"
-
-msgid "Download source file"
-msgstr "Stiahnite si zdrojový súbor"
-
-msgid "previous page"
-msgstr "predchádzajúca strana"
+msgid "Source repository"
+msgstr "Zdrojové úložisko"
 
 msgid "By"
 msgstr "Autor:"
 
+msgid "repository"
+msgstr "Úložisko"
+
+msgid "Last updated on"
+msgstr "Posledná aktualizácia dňa"
+
+msgid "Toggle navigation"
+msgstr "Prepnúť navigáciu"
+
+msgid "Sphinx Book Theme"
+msgstr "Téma knihy Sfinga"
+
+msgid "suggest edit"
+msgstr "navrhnúť úpravu"
+
 msgid "Open an issue"
 msgstr "Otvorte problém"
+
+msgid "Launch"
+msgstr "Spustiť"
 
 msgid "Fullscreen mode"
 msgstr "Režim celej obrazovky"
 
-msgid "repository"
-msgstr "Úložisko"
+msgid "Edit this page"
+msgstr "Upraviť túto stránku"
+
+msgid "By the"
+msgstr "Podľa"
+
+msgid "next page"
+msgstr "ďalšia strana"

@@ -1,4 +1,4 @@
-# Mit (22)
+# Mit (23)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -76,6 +76,27 @@ Tags: Python, Artificial Intelligence
 Content type: Notebook
 
 [https://github.com/yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics)
+
+
+---
+
+## FriendsDontLetFriends
+
+C. Li
+
+Published 2024-03-10T15:34:07+00:00
+
+Licensed MIT
+
+
+
+Friends don't let friends make certain types of data visualization - What are they and why are they bad. 
+
+Tags: Visualization
+
+Content type: Github Repository
+
+[https://github.com/cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends)
 
 
 ---

@@ -1,4 +1,4 @@
-# Microscopy image analysis (13)
+# Microscopy image analysis (14)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -73,6 +73,27 @@ Tags: Bioimage Data, Microscopy Image Analysis
 Content type: Forum Post
 
 [https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304](https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304)
+
+
+---
+
+## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
+
+Guillaume Jacquemet
+
+Published 2024-10-24
+
+Licensed UNKNOWN
+
+
+
+Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
+
+Tags: Deep Learning, Microscopy Image Analysis
+
+Content type: Youtube Video, Slides
+
+[https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
 
 
 ---
