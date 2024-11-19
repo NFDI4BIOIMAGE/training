@@ -28,5 +28,3 @@ jobs:
         GITHUB_RUN_ID: "${{ github.run_id }}"
       run: |
         python scripts/auto-add-download-statistics.py nfdi4bioimage/training
-        python scripts/auto-add-from-zenodo-communities.py nfdi4bioimage/training
-        python scripts/auto-add-github-statistics.py nfdi4bioimage/training
