@@ -6148,7 +6148,7 @@ resources:
   url: https://metrics-reloaded.dkfz.de/
 
 
-- added_date: '2024-11-12T10:17:25.985725'
+- submission_date: '2024-11-12T10:17:25.985725'
   authors: Wendt Jens
   description: Short presentation given at at PoL BioImage Analysis Symposium Dresden
     2023
@@ -6365,7 +6365,7 @@ resources:
   url: https://github.com/cxli233/FriendsDontLetFriends
 
 
-- added_date: '2024-11-18T14:39:37.692470'
+- submission_date: '2024-11-18T14:39:37.692470'
   authors:
   - Boissonnet, Tom
   - Hagen, Bettina
@@ -6456,7 +6456,7 @@ resources:
   url:
   - https://zenodo.org/records/14178789
   - https://doi.org/10.5281/zenodo.14178789
-- added_date: '2024-11-18T14:39:38.611036'
+- submission_date: '2024-11-18T14:39:38.611036'
   authors:
   - Wetzker, Cornelia
   description: 'The poster introduces the consortium NFDI4BIOIMAGE with its central
@@ -6476,7 +6476,7 @@ resources:
   url:
   - https://zenodo.org/records/14006558
   - https://doi.org/10.5281/zenodo.14006558
-- added_date: '2024-11-18T14:39:39.787873'
+- submission_date: '2024-11-18T14:39:39.787873'
   authors:
   - "J\xFCngst, Christian"
   - Zentis, Peter
@@ -6488,7 +6488,7 @@ resources:
   url:
   - https://zenodo.org/records/13837146
   - https://doi.org/10.5281/zenodo.13837146
-- added_date: '2024-11-18T14:39:41.141377'
+- submission_date: '2024-11-18T14:39:41.141377'
   authors:
   - Dvoretskii, Stefan
   license: cc-by-4.0
@@ -6499,7 +6499,7 @@ resources:
   url:
   - https://zenodo.org/records/11503289
   - https://doi.org/10.5281/zenodo.11503289
-- added_date: '2024-11-18T14:39:41.489967'
+- submission_date: '2024-11-18T14:39:41.489967'
   authors:
   - Wetzker, Cornelia
   - Schlierf, Michael
@@ -6513,7 +6513,7 @@ resources:
   url:
   - https://zenodo.org/records/13684187
   - https://doi.org/10.5281/zenodo.13684187
-- added_date: '2024-11-18T14:39:41.946082'
+- submission_date: '2024-11-18T14:39:41.946082'
   authors:
   - Haase, Robert
   description: This talk will present the initiatives of the NFDI4BioImage consortium
@@ -6531,7 +6531,7 @@ resources:
   url:
   - https://zenodo.org/records/13640979
   - https://doi.org/10.5281/zenodo.13640979
-- added_date: '2024-11-18T14:39:42.386226'
+- submission_date: '2024-11-18T14:39:42.386226'
   authors:
   - Dvoretskii, Stefan
   license: cc-by-4.0
@@ -6542,7 +6542,7 @@ resources:
   url:
   - https://zenodo.org/records/13380289
   - https://doi.org/10.5281/zenodo.13380289
-- added_date: '2024-11-18T14:39:43.407105'
+- submission_date: '2024-11-18T14:39:43.407105'
   authors:
   - Habinger, Sophie
   - Heber, Maximilian
@@ -6602,7 +6602,7 @@ resources:
   url:
   - https://zenodo.org/records/12699637
   - https://doi.org/10.5281/zenodo.12699637
-- added_date: '2024-11-18T14:39:44.756942'
+- submission_date: '2024-11-18T14:39:44.756942'
   authors:
   - Massei, Riccardo
   - Schmidt, Christian
@@ -6635,7 +6635,7 @@ resources:
   url:
   - https://zenodo.org/records/11501662
   - https://doi.org/10.5281/zenodo.11501662
-- added_date: '2024-11-18T14:39:45.213893'
+- submission_date: '2024-11-18T14:39:45.213893'
   authors:
   - Massei, Riccardo
   - Bortolomeazzi, Michele
@@ -6698,7 +6698,7 @@ resources:
   url:
   - https://zenodo.org/records/11350689
   - https://doi.org/10.5281/zenodo.11350689
-- added_date: '2024-11-18T14:39:45.586962'
+- submission_date: '2024-11-18T14:39:45.586962'
   authors:
   - Moore, Josh
   - Kunis, Susanne
@@ -6713,7 +6713,7 @@ resources:
   url:
   - https://zenodo.org/records/11235513
   - https://doi.org/10.5281/zenodo.11235513
-- added_date: '2024-11-18T14:39:45.979235'
+- submission_date: '2024-11-18T14:39:45.979235'
   authors:
   - Escobar Diaz Guerrero, Rodrigo
   description: First updates of LEO (Linking ELN with OMERO)
@@ -6724,7 +6724,7 @@ resources:
   url:
   - https://zenodo.org/records/11146807
   - https://doi.org/10.5281/zenodo.11146807
-- added_date: '2024-11-18T14:39:46.762148'
+- submission_date: '2024-11-18T14:39:46.762148'
   authors:
   - Fortmann-Grote, Carsten
   description: This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
@@ -6735,7 +6735,7 @@ resources:
   url:
   - https://zenodo.org/records/11031747
   - https://doi.org/10.5281/zenodo.11031747
-- added_date: '2024-11-18T14:39:47.147338'
+- submission_date: '2024-11-18T14:39:47.147338'
   authors:
   - Schmidt, Christian
   description: Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM
@@ -6748,7 +6748,7 @@ resources:
   url:
   - https://zenodo.org/records/10939520
   - https://doi.org/10.5281/zenodo.10939520
-- added_date: '2024-11-18T14:39:47.561518'
+- submission_date: '2024-11-18T14:39:47.561518'
   authors:
   - Margineanu, Anca
   - Stringari, Chiara
@@ -6767,7 +6767,7 @@ resources:
   url:
   - https://zenodo.org/records/10886750
   - https://doi.org/10.5281/zenodo.10886750
-- added_date: '2024-11-18T14:39:47.946546'
+- submission_date: '2024-11-18T14:39:47.946546'
   authors:
   - Fortmann-Grote, Carsten
   license: cc-by-4.0
@@ -6777,7 +6777,7 @@ resources:
   url:
   - https://zenodo.org/records/10808486
   - https://doi.org/10.5281/zenodo.10808486
-- added_date: '2024-11-18T14:39:48.292240'
+- submission_date: '2024-11-18T14:39:48.292240'
   authors:
   - Massei, Riccardo
   description: 'Results of the project "Conversion of KNIME image analysis workflows
@@ -6792,7 +6792,7 @@ resources:
   url:
   - https://zenodo.org/records/10793700
   - https://doi.org/10.5281/zenodo.10793700
-- added_date: '2024-11-18T14:39:48.632022'
+- submission_date: '2024-11-18T14:39:48.632022'
   authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
@@ -7000,7 +7000,7 @@ resources:
   - https://zenodo.org/records/12547566
   - https://doi.org/10.5281/zenodo.12547566
 
-- added_date: '2024-11-18T16:34:09.954845'
+- submission_date: '2024-11-18T16:34:09.954845'
   authors:
   - Gerlach, Michael
   description: 'This upload features a simple model for the creation (Manufacturing/Prototyping)
@@ -7014,7 +7014,7 @@ resources:
   url:
   - https://zenodo.org/records/14168603
   - https://doi.org/10.5281/zenodo.14168603
-- added_date: '2024-11-18T16:34:10.375459'
+- submission_date: '2024-11-18T16:34:10.375459'
   authors:
   - Ishikawa-Ankerhold, Dr. Hellen
   - Nobis, Max
@@ -7028,7 +7028,7 @@ resources:
   url:
   - https://zenodo.org/records/14161633
   - https://doi.org/10.5281/zenodo.14161633
-- added_date: '2024-11-18T16:34:10.757317'
+- submission_date: '2024-11-18T16:34:10.757317'
   authors:
   - Gerlach, Michael
   - Fried, Hans-Ulrich
@@ -7045,7 +7045,7 @@ resources:
   url:
   - https://zenodo.org/records/14161289
   - https://doi.org/10.5281/zenodo.14161289
-- added_date: '2024-11-18T16:34:11.147252'
+- submission_date: '2024-11-18T16:34:11.147252'
   authors:
   - Ishikawa-Ankerhold, Dr. Hellen
   description: 'Conference Slides for the presentation of GerBI e.V. at the 4th Day
@@ -7059,7 +7059,7 @@ resources:
   url:
   - https://zenodo.org/records/14113714
   - https://doi.org/10.5281/zenodo.14113714
-- added_date: '2024-11-18T16:34:11.542022'
+- submission_date: '2024-11-18T16:34:11.542022'
   authors:
   - Gerlach, Michael
   description: 'This video describes the surgical process of implanting an abdominal
@@ -7084,7 +7084,7 @@ resources:
   url:
   - https://zenodo.org/records/13683167
   - https://doi.org/10.5281/zenodo.13683167
-- added_date: '2024-11-18T16:34:11.914727'
+- submission_date: '2024-11-18T16:34:11.914727'
   authors:
   - Gerlach, Michael
   description: 'This video describes the surgical process of implanting an abdominal
@@ -7109,7 +7109,7 @@ resources:
   url:
   - https://zenodo.org/records/13736218
   - https://doi.org/10.5281/zenodo.13736218
-- added_date: '2024-11-18T16:34:12.275231'
+- submission_date: '2024-11-18T16:34:12.275231'
   authors:
   - Gerlach, Michael
   description: 'This video describes the surgical process of implanting an abdominal
@@ -7134,7 +7134,7 @@ resources:
   url:
   - https://zenodo.org/records/13736240
   - https://doi.org/10.5281/zenodo.13736240
-- added_date: '2024-11-18T16:34:12.641988'
+- submission_date: '2024-11-18T16:34:12.641988'
   authors:
   - Gerlach, Michael
   description: 'This video describes the surgical process of implanting an abdominal
@@ -7159,7 +7159,7 @@ resources:
   url:
   - https://zenodo.org/records/13682928
   - https://doi.org/10.5281/zenodo.13682928
-- added_date: '2024-11-18T16:34:13.156773'
+- submission_date: '2024-11-18T16:34:13.156773'
   authors:
   - Financial & Legal Framework of Core Facilities
   - Endl, Elmar
@@ -7200,7 +7200,7 @@ resources:
   url:
   - https://zenodo.org/records/13807114
   - https://doi.org/10.5281/zenodo.13807114
-- added_date: '2024-11-18T16:34:13.609723'
+- submission_date: '2024-11-18T16:34:13.609723'
   authors:
   - Financial & Legal Framework of Core Facilities
   - Endl, Elmar
@@ -7241,7 +7241,7 @@ resources:
   url:
   - https://zenodo.org/records/13810879
   - https://doi.org/10.5281/zenodo.13810879
-- added_date: '2024-11-18T16:34:14.668170'
+- submission_date: '2024-11-18T16:34:14.668170'
   authors:
   - Tulok, Silke
   - Nobst, Anja
@@ -7309,7 +7309,7 @@ resources:
   url:
   - https://zenodo.org/records/12578084
   - https://doi.org/10.5281/zenodo.12578084
-- added_date: '2024-11-18T16:34:15.016548'
+- submission_date: '2024-11-18T16:34:15.016548'
   authors:
   - Gerlach, Michael
   description: 'A 3D- printable microscope stage adapter for the reproducible accomodation
@@ -7325,7 +7325,7 @@ resources:
   url:
   - https://zenodo.org/records/7944877
   - https://doi.org/10.5281/zenodo.7944877
-- added_date: '2024-11-18T16:34:15.354820'
+- submission_date: '2024-11-18T16:34:15.354820'
   authors:
   - Gerlach, Michael
   description: 'A 3D- printable microscope stage adapter for the reproducible accomodation
@@ -7342,7 +7342,7 @@ resources:
   url:
   - https://zenodo.org/records/7963020
   - https://doi.org/10.5281/zenodo.7963020
-- added_date: '2024-11-18T16:34:15.720049'
+- submission_date: '2024-11-18T16:34:15.720049'
   authors:
   - Gerlach, Michael
   description: 'A 3D- printable microscope stage adapter for the reproducible accomodation
@@ -7358,7 +7358,7 @@ resources:
   url:
   - https://zenodo.org/records/7963006
   - https://doi.org/10.5281/zenodo.7963006
-- added_date: '2024-11-18T16:34:16.060174'
+- submission_date: '2024-11-18T16:34:16.060174'
   authors:
   - Gerlach, Michael
   description: 'A 3D- printable microscope stage adapter for the reproducible accomodation
@@ -7373,7 +7373,7 @@ resources:
   url:
   - https://zenodo.org/records/7945018
   - https://doi.org/10.5281/zenodo.7945018
-- added_date: '2024-11-18T16:34:16.445941'
+- submission_date: '2024-11-18T16:34:16.445941'
   authors:
   - Gerlach, Michael
   description: 'This is a set of databases containing published use of substances
@@ -7401,7 +7401,7 @@ resources:
   url:
   - https://zenodo.org/records/12166710
   - https://doi.org/10.5281/zenodo.12166710
-- added_date: '2024-11-18T16:34:16.785479'
+- submission_date: '2024-11-18T16:34:16.785479'
   authors:
   - Utz, Nadine
   - Reither, Sabine
@@ -7432,7 +7432,7 @@ resources:
   url:
   - https://zenodo.org/records/10925217
   - https://doi.org/10.5281/zenodo.10925217
-- added_date: '2024-11-18T16:34:17.179933'
+- submission_date: '2024-11-18T16:34:17.179933'
   authors:
   - Weidtkamp-Peters, Stefanie
   - Moore, Josh
@@ -7448,7 +7448,7 @@ resources:
   url:
   - https://zenodo.org/records/10889694
   - https://doi.org/10.5281/zenodo.10889694
-- added_date: '2024-11-18T16:34:17.925836'
+- submission_date: '2024-11-18T16:34:17.925836'
   authors:
   - Stringari, Chiara
   description: 'This presentation introduces the open source software to analyze FLIM
@@ -7476,7 +7476,7 @@ resources:
   url:
   - https://zenodo.org/records/10839310
   - https://doi.org/10.5281/zenodo.10839310
-- added_date: '2024-11-18T16:34:18.393086'
+- submission_date: '2024-11-18T16:34:18.393086'
   authors:
   - Schmidt, Christian
   - Bortolomeazzi, Michele
@@ -7511,7 +7511,7 @@ resources:
   url:
   - https://zenodo.org/records/10805204
   - https://doi.org/10.5281/zenodo.10805204
-- added_date: '2024-11-18T16:34:18.767636'
+- submission_date: '2024-11-18T16:34:18.767636'
   authors:
   - Kunis, Susanne
   - Zobel, Thomas
@@ -7526,7 +7526,7 @@ resources:
   url:
   - https://zenodo.org/records/10796364
   - https://doi.org/10.5281/zenodo.10796364
-- added_date: '2024-11-18T16:34:21.337970'
+- submission_date: '2024-11-18T16:34:21.337970'
   authors:
   - bugraoezdemir
   description: 'Changes implemented since v0.0.3
@@ -7551,7 +7551,7 @@ resources:
   url:
   - https://zenodo.org/records/10679318
   - https://doi.org/10.5281/zenodo.10679318
-- added_date: '2024-11-18T16:34:22.477169'
+- submission_date: '2024-11-18T16:34:22.477169'
   authors:
   - David, Romain
   - Rybina, Arina
@@ -7639,7 +7639,7 @@ resources:
   url:
   - https://zenodo.org/records/8338931
   - https://doi.org/10.5281/zenodo.8338931
-- added_date: '2024-11-18T16:34:22.816011'
+- submission_date: '2024-11-18T16:34:22.816011'
   authors:
   - Beatriz Serrano-Solano
   description: Graduation presentation for the 7th cohort of the Open Seeds mentoring
@@ -7652,7 +7652,7 @@ resources:
   url:
   - https://zenodo.org/records/8182154
   - https://doi.org/10.5281/zenodo.8182154
-- added_date: '2024-11-18T16:34:23.197583'
+- submission_date: '2024-11-18T16:34:23.197583'
   authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -7667,7 +7667,7 @@ resources:
   url:
   - https://zenodo.org/records/8146412
   - https://doi.org/10.5281/zenodo.8146412
-- added_date: '2024-11-18T16:34:23.860886'
+- submission_date: '2024-11-18T16:34:23.860886'
   authors:
   - Kemmer, Isabel
   - Keppler, Antje
@@ -7696,7 +7696,7 @@ resources:
   url:
   - https://zenodo.org/records/7788899
   - https://doi.org/10.5281/zenodo.7788899
-- added_date: '2024-11-18T16:34:26.146506'
+- submission_date: '2024-11-18T16:34:26.146506'
   authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -7748,7 +7748,7 @@ resources:
   url:
   - https://zenodo.org/records/13739137
   - https://doi.org/10.5281/zenodo.13739137
-- added_date: '2024-11-18T16:34:26.566744'
+- submission_date: '2024-11-18T16:34:26.566744'
   authors:
   - Luke Sorensen
   - Ayame Saito
@@ -7844,7 +7844,7 @@ resources:
   url:
   - https://zenodo.org/records/10460434
   - https://doi.org/10.5281/zenodo.10460434
-- added_date: '2024-11-18T16:34:27.012540'
+- submission_date: '2024-11-18T16:34:27.012540'
   authors:
   - "Martin Sch\xE4tz"
   description: Research data management and how not to get overwhelmed with data presentation
@@ -7861,7 +7861,7 @@ resources:
   url:
   - https://zenodo.org/records/8372703
   - https://doi.org/10.5281/zenodo.8372703
-- added_date: '2024-11-18T16:34:28.045966'
+- submission_date: '2024-11-18T16:34:28.045966'
   authors:
   - Romain
   description: A groovy script to use in Fiji to generate artificial images and labels,
@@ -7873,7 +7873,7 @@ resources:
   url:
   - https://zenodo.org/records/7919117
   - https://doi.org/10.5281/zenodo.7919117
-- added_date: '2024-11-18T16:34:28.513488'
+- submission_date: '2024-11-18T16:34:28.513488'
   authors:
   - "Sch\xE4tz, Martin"
   - "Rube\u0161ov\xE1, Olga"
@@ -7928,7 +7928,7 @@ resources:
   url:
   - https://zenodo.org/records/7885379
   - https://doi.org/10.5281/zenodo.7885379
-- added_date: '2024-11-18T16:34:29.533446'
+- submission_date: '2024-11-18T16:34:29.533446'
   authors:
   - Anna Pascual Reguant
   - Ronja Mothes
@@ -7952,7 +7952,7 @@ resources:
   url:
   - https://zenodo.org/records/7447491
   - https://doi.org/10.5281/zenodo.7447491
-- added_date: '2024-11-18T16:34:29.961816'
+- submission_date: '2024-11-18T16:34:29.961816'
   authors:
   - Romain Guiet
   - Olivier Burri
@@ -7967,7 +7967,7 @@ resources:
   url:
   - https://zenodo.org/records/7409423
   - https://doi.org/10.5281/zenodo.7409423
-- added_date: '2024-11-18T16:34:30.357363'
+- submission_date: '2024-11-18T16:34:30.357363'
   authors:
   - "Martin Sch\xE4tz"
   - "Sch\xE4tz, Martin"
@@ -7983,7 +7983,7 @@ resources:
   url:
   - https://zenodo.org/records/7215114
   - https://doi.org/10.5281/zenodo.7215114
-- added_date: '2024-11-18T16:34:30.816975'
+- submission_date: '2024-11-18T16:34:30.816975'
   authors:
   - Robert Haase
   description: In the field of radiooncological research, individualised therapy is
@@ -8031,7 +8031,7 @@ resources:
   url:
   - https://zenodo.org/records/7209862
   - https://doi.org/10.5281/zenodo.7209862
-- added_date: '2024-11-18T16:34:31.351869'
+- submission_date: '2024-11-18T16:34:31.351869'
   authors:
   - Sebastian Rhode
   description: "Set of CZI test images created by using a simulated microscope with\
@@ -8053,7 +8053,7 @@ resources:
   url:
   - https://zenodo.org/records/7015307
   - https://doi.org/10.5281/zenodo.7015307
-- added_date: '2024-11-18T16:34:31.831739'
+- submission_date: '2024-11-18T16:34:31.831739'
   authors:
   - "Sch\xE4tz, Martin"
   description: 'SciAugment v0.2.0 has pip installable version, channel-wise augmentation
@@ -8072,7 +8072,7 @@ resources:
   url:
   - https://zenodo.org/records/6991106
   - https://doi.org/10.5281/zenodo.6991106
-- added_date: '2024-11-18T16:34:32.177486'
+- submission_date: '2024-11-18T16:34:32.177486'
   authors:
   - "Sch\xE4tz, Martin"
   - "Mraz\xEDk, Luk\xE1\u0161"
@@ -8091,7 +8091,7 @@ resources:
   url:
   - https://zenodo.org/records/6953610
   - https://doi.org/10.5281/zenodo.6953610
-- added_date: '2024-11-18T16:34:32.987735'
+- submission_date: '2024-11-18T16:34:32.987735'
   authors:
   - Waiger, Daniel
   description: 'A simple workflow to detect Soma and neurite paths, from light microscopy&nbsp;datasets.
@@ -8105,7 +8105,7 @@ resources:
   url:
   - https://zenodo.org/records/6834214
   - https://doi.org/10.5281/zenodo.6834214
-- added_date: '2024-11-18T16:34:33.487847'
+- submission_date: '2024-11-18T16:34:33.487847'
   authors:
   - Julie Meystre
   description: 'Name: Large tiling confocal acquisition (rat brain)
@@ -8139,7 +8139,7 @@ resources:
   url:
   - https://zenodo.org/records/6646128
   - https://doi.org/10.5281/zenodo.6646128
-- added_date: '2024-11-18T16:34:34.152918'
+- submission_date: '2024-11-18T16:34:34.152918'
   authors:
   - Romain Guiet
   description: 'Name: 3D Nuclei annotations and StarDist3D model(s) (rat brain)
@@ -8191,7 +8191,7 @@ resources:
   url:
   - https://zenodo.org/records/6645978
   - https://doi.org/10.5281/zenodo.6645978
-- added_date: '2024-11-18T16:34:34.654130'
+- submission_date: '2024-11-18T16:34:34.654130'
   authors:
   - Laurent Thomas
   description: 'This presentations describes Multi-Template-Matching, a novel method
@@ -8209,7 +8209,7 @@ resources:
   url:
   - https://zenodo.org/records/6554166
   - https://doi.org/10.5281/zenodo.6554166
-- added_date: '2024-11-18T16:34:35.063614'
+- submission_date: '2024-11-18T16:34:35.063614'
   authors:
   - Thomas Laurent
   description: 'This is a short introduction to light-microscopy, illustrated with
@@ -8255,7 +8255,7 @@ resources:
   url:
   - https://zenodo.org/records/6535296
   - https://doi.org/10.5281/zenodo.6535296
-- added_date: '2024-11-18T16:34:35.407938'
+- submission_date: '2024-11-18T16:34:35.407938'
   authors:
   - "Laia Sim\xF3-Riudalbas"
   - Romain Guiet
@@ -8306,7 +8306,7 @@ resources:
   url:
   - https://zenodo.org/records/6523649
   - https://doi.org/10.5281/zenodo.6523649
-- added_date: '2024-11-18T16:34:35.773605'
+- submission_date: '2024-11-18T16:34:35.773605'
   authors:
   - Romain Guiet
   - Olivier Burri
@@ -8352,7 +8352,7 @@ resources:
   url:
   - https://zenodo.org/records/6140111
   - https://doi.org/10.5281/zenodo.6140111
-- added_date: '2024-11-18T16:34:36.126990'
+- submission_date: '2024-11-18T16:34:36.126990'
   authors:
   - Romain Guiet
   description: 'Name: HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope
@@ -8422,7 +8422,7 @@ resources:
   url:
   - https://zenodo.org/records/6139958
   - https://doi.org/10.5281/zenodo.6139958
-- added_date: '2024-11-18T16:34:36.472002'
+- submission_date: '2024-11-18T16:34:36.472002'
   authors:
   - Laura Capolupo
   description: 'Name: Digital Phase Contrast on Primary Dermal Human Fibroblasts cells&nbsp;
@@ -8468,7 +8468,7 @@ resources:
   url:
   - https://zenodo.org/records/5996883
   - https://doi.org/10.5281/zenodo.5996883
-- added_date: '2024-11-18T16:34:36.805571'
+- submission_date: '2024-11-18T16:34:36.805571'
   authors:
   - Laura Capolupo
   - Olivier Burri
@@ -8509,7 +8509,7 @@ resources:
   url:
   - https://zenodo.org/records/6023317
   - https://doi.org/10.5281/zenodo.6023317
-- added_date: '2024-11-18T16:34:37.223826'
+- submission_date: '2024-11-18T16:34:37.223826'
   authors:
   - Laurent Thomas
   - Pierre Trehin
@@ -8532,7 +8532,7 @@ resources:
   url:
   - https://zenodo.org/records/5121890
   - https://doi.org/10.5281/zenodo.5121890
-- added_date: '2024-11-18T16:34:37.614706'
+- submission_date: '2024-11-18T16:34:37.614706'
   authors:
   - Romain Guiet
   description: 'This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acquired
@@ -8564,7 +8564,7 @@ resources:
   url:
   - https://zenodo.org/records/5101351
   - https://doi.org/10.5281/zenodo.5101351
-- added_date: '2024-11-18T16:34:39.643990'
+- submission_date: '2024-11-18T16:34:39.643990'
   authors:
   - Cavanagh
   description: A test data set for troublshooting. no scientific meaning.
@@ -8575,7 +8575,7 @@ resources:
   url:
   - https://zenodo.org/records/13642395
   - https://doi.org/10.5281/zenodo.13642395
-- added_date: '2024-11-18T16:34:40.260008'
+- submission_date: '2024-11-18T16:34:40.260008'
   authors:
   - Chiaruttini, Nicolas
   description: 'The files contained in this repository are confocal images taken with
@@ -8607,7 +8607,7 @@ resources:
   url:
   - https://zenodo.org/records/12773657
   - https://doi.org/10.5281/zenodo.12773657
-- added_date: '2024-11-18T16:34:40.728131'
+- submission_date: '2024-11-18T16:34:40.728131'
   authors:
   - j
   description: 'Hi&nbsp;@ome team,Please find the .czi file attached. When loaded
@@ -8624,7 +8624,7 @@ resources:
   url:
   - https://zenodo.org/records/12533989
   - https://doi.org/10.5281/zenodo.12533989
-- added_date: '2024-11-18T16:34:41.114444'
+- submission_date: '2024-11-18T16:34:41.114444'
   authors:
   - IMCF
   description: "Hi&nbsp;@ome&nbsp;team !\nWe usually use ICS/IDS file formats as an\
@@ -8651,7 +8651,7 @@ resources:
   url:
   - https://zenodo.org/records/11637422
   - https://doi.org/10.5281/zenodo.11637422
-- added_date: '2024-11-18T16:34:41.460603'
+- submission_date: '2024-11-18T16:34:41.460603'
   authors:
   - Garcia, Mario
   description: Human brain tissue with DAB immunostaining. Image acquired by BF microscopy
