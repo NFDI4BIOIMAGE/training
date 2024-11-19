@@ -8680,3 +8680,18 @@ resources:
   - https://zenodo.org/records/14030307
   - https://doi.org/10.5281/zenodo.14030307
   
+- authors: Weischer, Sarah, Wendt, Jens, Zobel, Thomas
+  description: In this workshop a fully integrated data analysis solutions employing
+    OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using
+    existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler
+    Python API) is presented.
+  license: cc-by-4.0
+  name: High throughput & automated data analysis and data management workflow with
+    Cellprofiler and OMERO
+  num_downloads: 7
+  publication_date: '2023-07-12'
+  submission_date: '2024-11-19T09:44:04.167272'
+  url:
+  - https://zenodo.org/records/8139354
+  - https://doi.org/10.5281/zenodo.8139354
+  
