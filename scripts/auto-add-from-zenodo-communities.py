@@ -7,7 +7,6 @@ from _github_utilities import create_branch, get_file_in_repository, get_issue_b
 import yaml
 import os
 import requests
-import bia_bob
 import shutil
 import pandas as pd
 from generate_link_lists import load_dataframe, update_yaml_file, complete_zenodo_data
