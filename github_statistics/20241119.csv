@@ -17,7 +17,7 @@ RMS-DAIM/Python-for-Bioimage-Analysis,132,44
 guiwitz/Fundamentals_image_processing,20,4
 guiwitz/NumpyPandas_course,53,34
 guiwitz/neubias_academy_biapy,61,36
-bnsreenu/python_for_microscopists,3983,2416
+bnsreenu/python_for_microscopists,3983,2417
 VolkerH/Jupyter-Napari-Desktop,8,1
 rougier/scientific-visualization-book,10714,993
 CamachoDejay/teaching-bioimage-analysis-python,17,3
@@ -70,7 +70,7 @@ cytomining/DeepProfiler-handbook,8,3
 esgomezm/NEUBIAS_chapter_DL_2020,0,0
 esgomezm/zidas2020_intro_DL,3,1
 JLrumberger/DL-MBL-2021,0,3
-galaxyproject/training-material,309,902
+galaxyproject/training-material,309,903
 RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022,7,3
 hereariim/DEEP-NAPARI,0,0
 BiAPoL/Bio-image_Analysis_with_Python,198,47
@@ -88,7 +88,7 @@ scipy/scipy-cookbook,470,181
 InsightSoftwareConsortium/SimpleITK-Notebooks,839,350
 scikit-image/skimage-tutorials,493,374
 INRIA/scikit-learn-mooc,1117,515
-yandexdataschool/nlp_course,9812,2599
+yandexdataschool/nlp_course,9811,2599
 glencoesoftware/bioformats2raw,82,36
 glencoesoftware/raw2ometiff,48,22
 GReD-Clermont/simple-omero-client,9,7
@@ -113,4 +113,4 @@ SaibotMagd/RDM_system_connector,0,0
 deeplife4eu/Lecture-materials,13,12
 NEUBIAS/training-resources,48,21
 cxli233/Online_R_learning,498,101
-cxli233/FriendsDontLetFriends,6448,248
+cxli233/FriendsDontLetFriends,6449,248
