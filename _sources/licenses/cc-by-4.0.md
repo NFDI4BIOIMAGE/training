@@ -2388,17 +2388,17 @@ NOTE: This dataset was used to train the cellpose models in the following Zenodo
 
 Sarah Weischer, Jens Wendt, Thomas Zobel
 
+Published 2023-07-12
+
 Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: OMERO, Data Analysis, Bioimage Analysis
+[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
 
-Content type: Collection
-
-[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
+[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
 
 
 ---

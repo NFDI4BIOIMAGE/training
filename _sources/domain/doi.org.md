@@ -1,4 +1,4 @@
-# Doi.org (164)
+# Doi.org (165)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1910,6 +1910,25 @@ NOTE: This dataset was used to train the cellpose models in the following Zenodo
 [https://zenodo.org/records/6139958](https://zenodo.org/records/6139958)
 
 [https://doi.org/10.5281/zenodo.6139958](https://doi.org/10.5281/zenodo.6139958)
+
+
+---
+
+## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Published 2023-07-12
+
+Licensed CC-BY-4.0
+
+
+
+In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
+
+[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
+
+[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
 
 
 ---
