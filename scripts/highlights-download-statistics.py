@@ -157,7 +157,7 @@ def update_readme(folder, top_records):
         title = get_title_of_zenodo_record(record['url'])
 
         count = count + 1
-        record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads)."""
+        record_highlight = f"""\n{count}. [{title}]({record['url']}) by {record['authors_current']} ({record['download_difference']} downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"""
 
         print("license_info", license_info)
         if license_info == "cc-by-4.0":
