@@ -80,7 +80,7 @@ def main():
     # Generate the 'What's New' page with content sorted by added date
     sorted_content = sorted(
         content['resources'],
-        key=lambda x: str(x.get('added_date', '0000-00-00')),
+        key=lambda x: str(x.get('submission_date', '0000-00-00')),
         reverse=True
     )[:10]
 
