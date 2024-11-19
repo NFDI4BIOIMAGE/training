@@ -256,7 +256,7 @@
 <li class="toctree-l1"><a class="reference internal" href="www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="www.nature.com.html">Www.nature.com (16)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="www.youtube.com.html">Www.youtube.com (20)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="zenodo.org.html">Zenodo.org (151)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="zenodo.org.html">Zenodo.org (152)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -494,6 +494,7 @@
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#digital-phase-contrast-on-primary-dermal-human-fibroblasts-cells">Digital Phase Contrast on Primary Dermal Human Fibroblasts cells</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#efficiently-starting-institutional-research-data-management">Efficiently starting institutional research data management</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#einblicke-ins-forschungsdatenmanagement-darf-ich-das-veroffentlichen-rechtsfragen-im-umgang-mit-forschungsdaten">Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#engineering-a-software-environment-for-research-data-management-of-microscopy-image-data-in-a-core-facility">Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#erstellung-und-realisierung-einer-institutionellen-forschungsdaten-policy">Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#euro-bioimaging-scientific-ambassadors-program">Euro-BioImaging  Scientific Ambassadors Program</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#euro-bioimaging-eric-annual-report-2022">Euro-BioImaging ERIC Annual Report 2022</a></li>
@@ -516,7 +517,6 @@
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hackaton-results-conversion-of-knime-image-analysis-workflows-to-galaxy">Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hela-kyoto-cells-under-the-scope">HeLa “Kyoto” cells under the scope</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero">High throughput &amp; automated data analysis and data management workflow with Cellprofiler and OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hitchhiking-through-a-diverse-bio-image-analysis-software-universe">Hitchhiking through a diverse Bio-image Analysis Software Universe</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-dab-staining-axioscan-bf-20x">Human DAB staining Axioscan BF 20x</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i3d-bio-s-omero-training-material-re-usable-adjustable-multi-purpose-slides-for-local-user-training">I3D:bio’s OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training</a></li>
@@ -1200,6 +1200,15 @@ The FDMentor project has therefore bundled the expertise of five German universi
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.4748510">https://doi.org/10.5281/zenodo.4748510</a></p>
 </section>
 <hr class="docutils" />
+<section id="engineering-a-software-environment-for-research-data-management-of-microscopy-image-data-in-a-core-facility">
+<h2>Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility<a class="headerlink" href="#engineering-a-software-environment-for-research-data-management-of-microscopy-image-data-in-a-core-facility" title="Link to this heading">#</a></h2>
+<p>Kunis</p>
+<p>Published 2022-05-30</p>
+<p>This thesis deals with concepts and solutions in the field of data management in everyday scientific life for image data from microscopy. The focus of the formulated requirements has so far been on published data, which represent only a small subset of the data generated in the scientific process. More and more, everyday research data are moving into the focus of the principles for the management of research data that were formulated early on (FAIR-principles). The adequate management of this mostly multimodal data is a real challenge in terms of its heterogeneity and scope. There is a lack of standardised and established workflows and also the software solutions available so far do not adequately reflect the special requirements of this area. However, the success of any data management process depends heavily on the degree of integration into the daily work routine. Data management must, as far as possible, fit seamlessly into this process. Microscopy data in the scientific process is embedded in pre-processing, which consists of preparatory laboratory work and the analytical evaluation of the microscopy data. In terms of volume, the image data often form the largest part of data generated within this entire research process. In this paper, we focus on concepts and techniques related to the handling and description of this image data and address the necessary basics. The aim is to improve the embedding of the existing data management solution for image data (OMERO) into the everyday scientific work. For this purpose, two independent software extensions for OMERO were implemented within the framework of this thesis: OpenLink and MDEmic. OpenLink simplifies the access to the data stored in the integrated repository in order to feed them into established workflows for further evaluations and enables not only the internal but also the external exchange of data without weakening the advantages of the data repository. The focus of the second implemented software solution, MDEmic, is on the capturing of relevant metadata for microscopy. Through the extended metadata collection, a corresponding linking of the multimodal data by means of a unique description and the corresponding semantic background is aimed at. The configurability of MDEmic is designed to address the currently very dynamic development of underlying concepts and formats. The main goal of MDEmic is to minimise the workload and to automate processes. This provides the scientist with a tool to handle this complex and extensive task of metadata acquisition for microscopic data in a simple way. With the help of the software, semantic and syntactic standardisation can take place without the scientist having to deal with the technical concepts. The generated metadata descriptions are automatically integrated into the image repository and, at the same time, can be transferred by the scientists into formats that are needed when publishing the data.</p>
+<p><a class="reference external" href="https://zenodo.org/records/6905931">https://zenodo.org/records/6905931</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.6905931">https://doi.org/10.5281/zenodo.6905931</a></p>
+</section>
+<hr class="docutils" />
 <section id="erstellung-und-realisierung-einer-institutionellen-forschungsdaten-policy">
 <h2>Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy<a class="headerlink" href="#erstellung-und-realisierung-einer-institutionellen-forschungsdaten-policy" title="Link to this heading">#</a></h2>
 <p>Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex</p>
@@ -1753,16 +1762,6 @@ von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., L
 <p>NOTE: This dataset was used to train the cellpose models in the following Zenodo entry: <a class="reference external" href="https://doi.org/10.5281/zenodo.6140111">https://doi.org/10.5281/zenodo.6140111</a></p>
 <p><a class="reference external" href="https://zenodo.org/records/6139958">https://zenodo.org/records/6139958</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.6139958">https://doi.org/10.5281/zenodo.6139958</a></p>
-</section>
-<hr class="docutils" />
-<section id="high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero">
-<h2>High throughput &amp; automated data analysis and data management workflow with Cellprofiler and OMERO<a class="headerlink" href="#high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero" title="Link to this heading">#</a></h2>
-<p>Sarah Weischer, Jens Wendt, Thomas Zobel</p>
-<p>Published 2023-07-12</p>
-<p>Licensed CC-BY-4.0</p>
-<p>In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.</p>
-<p><a class="reference external" href="https://zenodo.org/records/8139354">https://zenodo.org/records/8139354</a></p>
-<p><a class="reference external" href="https://doi.org/10.5281/zenodo.8139354">https://doi.org/10.5281/zenodo.8139354</a></p>
 </section>
 <hr class="docutils" />
 <section id="hitchhiking-through-a-diverse-bio-image-analysis-software-universe">
@@ -2630,16 +2629,29 @@ A notebook for visualizing this data is published here: <a class="github referen
 <hr class="docutils" />
 <section id="structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data">
 <h2>Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data<a class="headerlink" href="#structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data" title="Link to this heading">#</a></h2>
-<p>Susanne Kunis</p>
-<p>Published 2022-08-24</p>
+<p>Sarah Weischer, Jens Wendt, Thomas Zobel</p>
+<p>Published 2022-07-12</p>
 <p>Licensed CC-BY-4.0</p>
-<p>guided walkthrough of poster at <a class="reference external" href="https://doi.org/10.5281/zenodo.6821815">https://doi.org/10.5281/zenodo.6821815</a></p>
-<p>which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.</p>
-<p>You can also watch the video in the browser on the I3D:bio website.</p>
-<p>Tags: Nfdi4Bioimage, Research Data Management</p>
-<p>Content type: Video</p>
-<p><a class="reference external" href="https://zenodo.org/record/7018929">https://zenodo.org/record/7018929</a></p>
-<p><a class="reference external" href="https://doi.org/10.5281/zenodo.7018929">https://doi.org/10.5281/zenodo.7018929</a></p>
+<p>Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: <a class="reference external" href="https://doi.org/10.5281/zenodo.7018928">https://doi.org/10.5281/zenodo.7018928</a> )</p>
+<p>Content:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Types of metadata
+Data formats
+Data Models Microscopy Data
+Tools to edit/gather metadata
+ISA Framework
+FDO Framework
+Ontology
+RDF
+JSON-LD
+SPARQL
+Knowledge Graph
+Linked Data
+Smart Data
+...
+</pre></div>
+</div>
+<p><a class="reference external" href="https://zenodo.org/records/7018750">https://zenodo.org/records/7018750</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.7018750">https://doi.org/10.5281/zenodo.7018750</a></p>
 </section>
 <hr class="docutils" />
 <section id="sustainable-data-stewardship">
@@ -3168,6 +3180,7 @@ Day 2 - April 30th, 2024
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#digital-phase-contrast-on-primary-dermal-human-fibroblasts-cells">Digital Phase Contrast on Primary Dermal Human Fibroblasts cells</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#efficiently-starting-institutional-research-data-management">Efficiently starting institutional research data management</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#einblicke-ins-forschungsdatenmanagement-darf-ich-das-veroffentlichen-rechtsfragen-im-umgang-mit-forschungsdaten">Einblicke ins Forschungsdatenmanagement - Darf ich das veröffentlichen? Rechtsfragen im Umgang mit Forschungsdaten</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#engineering-a-software-environment-for-research-data-management-of-microscopy-image-data-in-a-core-facility">Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#erstellung-und-realisierung-einer-institutionellen-forschungsdaten-policy">Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#euro-bioimaging-scientific-ambassadors-program">Euro-BioImaging  Scientific Ambassadors Program</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#euro-bioimaging-eric-annual-report-2022">Euro-BioImaging ERIC Annual Report 2022</a></li>
@@ -3190,7 +3203,6 @@ Day 2 - April 30th, 2024
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hackaton-results-conversion-of-knime-image-analysis-workflows-to-galaxy">Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hela-kyoto-cells-under-the-scope">HeLa “Kyoto” cells under the scope</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero">High throughput &amp; automated data analysis and data management workflow with Cellprofiler and OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hitchhiking-through-a-diverse-bio-image-analysis-software-universe">Hitchhiking through a diverse Bio-image Analysis Software Universe</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-dab-staining-axioscan-bf-20x">Human DAB staining Axioscan BF 20x</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i3d-bio-s-omero-training-material-re-usable-adjustable-multi-purpose-slides-for-local-user-training">I3D:bio’s OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training</a></li>

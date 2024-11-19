@@ -2388,17 +2388,17 @@ NOTE: This dataset was used to train the cellpose models in the following Zenodo
 
 Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2023-07-12
-
 Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
-[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
+Content type: Collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -4348,27 +4348,38 @@ A notebook for visualizing this data is published here: https://github.com/haesl
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-Susanne Kunis
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2022-08-24
+Published 2022-07-12
 
 Licensed CC-BY-4.0
 
 
 
-guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
 
-which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+Content:
 
-You can also watch the video in the browser on the I3D:bio website.
 
-Tags: Nfdi4Bioimage, Research Data Management
+	Types of metadata
+	Data formats
+	Data Models Microscopy Data
+	Tools to edit/gather metadata
+	ISA Framework
+	FDO Framework
+	Ontology
+	RDF
+	JSON-LD
+	SPARQL
+	Knowledge Graph
+	Linked Data
+	Smart Data
+	...
 
-Content type: Video
 
-[https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
-[https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
+[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
 
 
 ---

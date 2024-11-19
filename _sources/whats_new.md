@@ -81,39 +81,19 @@ This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acq
 
 ---
 
-## Digital Phase Contrast on Primary Dermal Human Fibroblasts cells
+## Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility
 
-Laura Capolupo
+Kunis
 
-Published 2022-02-09
-
-Licensed CC-BY-4.0
+Published 2022-05-30
 
 
 
-Name: Digital Phase Contrast on Primary Dermal Human Fibroblasts cells&nbsp;
+This thesis deals with concepts and solutions in the field of data management in everyday scientific life for image data from microscopy. The focus of the formulated requirements has so far been on published data, which represent only a small subset of the data generated in the scientific process. More and more, everyday research data are moving into the focus of the principles for the management of research data that were formulated early on (FAIR-principles). The adequate management of this mostly multimodal data is a real challenge in terms of its heterogeneity and scope. There is a lack of standardised and established workflows and also the software solutions available so far do not adequately reflect the special requirements of this area. However, the success of any data management process depends heavily on the degree of integration into the daily work routine. Data management must, as far as possible, fit seamlessly into this process. Microscopy data in the scientific process is embedded in pre-processing, which consists of preparatory laboratory work and the analytical evaluation of the microscopy data. In terms of volume, the image data often form the largest part of data generated within this entire research process. In this paper, we focus on concepts and techniques related to the handling and description of this image data and address the necessary basics. The aim is to improve the embedding of the existing data management solution for image data (OMERO) into the everyday scientific work. For this purpose, two independent software extensions for OMERO were implemented within the framework of this thesis: OpenLink and MDEmic. OpenLink simplifies the access to the data stored in the integrated repository in order to feed them into established workflows for further evaluations and enables not only the internal but also the external exchange of data without weakening the advantages of the data repository. The focus of the second implemented software solution, MDEmic, is on the capturing of relevant metadata for microscopy. Through the extended metadata collection, a corresponding linking of the multimodal data by means of a unique description and the corresponding semantic background is aimed at. The configurability of MDEmic is designed to address the currently very dynamic development of underlying concepts and formats. The main goal of MDEmic is to minimise the workload and to automate processes. This provides the scientist with a tool to handle this complex and extensive task of metadata acquisition for microscopic data in a simple way. With the help of the software, semantic and syntactic standardisation can take place without the scientist having to deal with the technical concepts. The generated metadata descriptions are automatically integrated into the image repository and, at the same time, can be transferred by the scientists into formats that are needed when publishing the data.
 
-Data type: Paired microscopy images (Digital Phase Contrast, square rooted) and corresponding labels/masks used for cellpose training (the corresponding Brightfield images are also present), organized as recommended by cellpose documentation.
+[https://zenodo.org/records/6905931](https://zenodo.org/records/6905931)
 
-Microscopy data type: Light microscopy (Digital Phase Contrast and Brighfield )
-
-Manual annotations: Labels/masks obtained via manual segmentation.&nbsp;For each region, all cells were annotated manually. Uncertain objects (Dust, fused cells) were left unannotated, so that the cellpose model (10.5281/zenodo.6023317) may mimic the same user bias during prediction. This was particularly necessary due to the accumulation of floating debris in the center of the well.
-
-Microscope: Perkin Elmer Operetta microscope with a 10x 0.35 NA objective
-
-Cell type: Primary Dermal Human Fibroblasts cells
-
-File format: .tif (16-bit for DPC and 16-bit for the masks)
-
-Image size: 1024x1024 (Pixel size: 634 nm)
-
-NOTE : This dataset was used to train cellpose model ( 10.5281/zenodo.6023317 )
-
-&nbsp;
-
-[https://zenodo.org/records/5996883](https://zenodo.org/records/5996883)
-
-[https://doi.org/10.5281/zenodo.5996883](https://doi.org/10.5281/zenodo.5996883)
+[https://doi.org/10.5281/zenodo.6905931](https://doi.org/10.5281/zenodo.6905931)
 
 
 ---
@@ -140,25 +120,6 @@ DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 4
 [https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
 
 [https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
-
-
----
-
-## High throughput & automated data analysis and data management workflow with Cellprofiler and OMERO
-
-Sarah Weischer, Jens Wendt, Thomas Zobel
-
-Published 2023-07-12
-
-Licensed CC-BY-4.0
-
-
-
-In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
-
-[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
-
-[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
 
 
 ---
@@ -269,6 +230,44 @@ Latest tested with Fiji 2.1.0/ImageJ 1.53j
 [https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
 
 [https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
+
+
+---
+
+## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Published 2022-07-12
+
+Licensed CC-BY-4.0
+
+
+
+Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
+
+Content:
+
+
+	Types of metadata
+	Data formats
+	Data Models Microscopy Data
+	Tools to edit/gather metadata
+	ISA Framework
+	FDO Framework
+	Ontology
+	RDF
+	JSON-LD
+	SPARQL
+	Knowledge Graph
+	Linked Data
+	Smart Data
+	...
+
+
+[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
+
+[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
 
 
 ---

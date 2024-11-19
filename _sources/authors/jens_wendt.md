@@ -1,4 +1,4 @@
-# Jens wendt (6)
+# Jens wendt (7)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -25,17 +25,17 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2023-07-12
-
 Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
-[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
+Content type: Collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -74,6 +74,44 @@ Tags: Nfdi4Bioimage, OMERO, Research Data Management
 Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+
+
+---
+
+## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
+
+Sarah Weischer, Jens Wendt, Thomas Zobel
+
+Published 2022-07-12
+
+Licensed CC-BY-4.0
+
+
+
+Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
+
+Content:
+
+
+	Types of metadata
+	Data formats
+	Data Models Microscopy Data
+	Tools to edit/gather metadata
+	ISA Framework
+	FDO Framework
+	Ontology
+	RDF
+	JSON-LD
+	SPARQL
+	Knowledge Graph
+	Linked Data
+	Smart Data
+	...
+
+
+[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
+
+[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
 
 
 ---

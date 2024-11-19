@@ -1,4 +1,4 @@
-# Zenodo.org (151)
+# Zenodo.org (152)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -973,6 +973,23 @@ Content type: Slides
 
 ---
 
+## Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility
+
+Kunis
+
+Published 2022-05-30
+
+
+
+This thesis deals with concepts and solutions in the field of data management in everyday scientific life for image data from microscopy. The focus of the formulated requirements has so far been on published data, which represent only a small subset of the data generated in the scientific process. More and more, everyday research data are moving into the focus of the principles for the management of research data that were formulated early on (FAIR-principles). The adequate management of this mostly multimodal data is a real challenge in terms of its heterogeneity and scope. There is a lack of standardised and established workflows and also the software solutions available so far do not adequately reflect the special requirements of this area. However, the success of any data management process depends heavily on the degree of integration into the daily work routine. Data management must, as far as possible, fit seamlessly into this process. Microscopy data in the scientific process is embedded in pre-processing, which consists of preparatory laboratory work and the analytical evaluation of the microscopy data. In terms of volume, the image data often form the largest part of data generated within this entire research process. In this paper, we focus on concepts and techniques related to the handling and description of this image data and address the necessary basics. The aim is to improve the embedding of the existing data management solution for image data (OMERO) into the everyday scientific work. For this purpose, two independent software extensions for OMERO were implemented within the framework of this thesis: OpenLink and MDEmic. OpenLink simplifies the access to the data stored in the integrated repository in order to feed them into established workflows for further evaluations and enables not only the internal but also the external exchange of data without weakening the advantages of the data repository. The focus of the second implemented software solution, MDEmic, is on the capturing of relevant metadata for microscopy. Through the extended metadata collection, a corresponding linking of the multimodal data by means of a unique description and the corresponding semantic background is aimed at. The configurability of MDEmic is designed to address the currently very dynamic development of underlying concepts and formats. The main goal of MDEmic is to minimise the workload and to automate processes. This provides the scientist with a tool to handle this complex and extensive task of metadata acquisition for microscopic data in a simple way. With the help of the software, semantic and syntactic standardisation can take place without the scientist having to deal with the technical concepts. The generated metadata descriptions are automatically integrated into the image repository and, at the same time, can be transferred by the scientists into formats that are needed when publishing the data.
+
+[https://zenodo.org/records/6905931](https://zenodo.org/records/6905931)
+
+[https://doi.org/10.5281/zenodo.6905931](https://doi.org/10.5281/zenodo.6905931)
+
+
+---
+
 ## Euro-BioImaging  Scientific Ambassadors Program
 
 Beatriz Serrano-Solano
@@ -1788,17 +1805,17 @@ NOTE: This dataset was used to train the cellpose models in the following Zenodo
 
 Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2023-07-12
-
 Licensed CC-BY-4.0
 
 
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-[https://zenodo.org/records/8139354](https://zenodo.org/records/8139354)
+Tags: OMERO, Data Analysis, Bioimage Analysis
 
-[https://doi.org/10.5281/zenodo.8139354](https://doi.org/10.5281/zenodo.8139354)
+Content type: Collection
+
+[https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
 
 
 ---
@@ -3162,27 +3179,38 @@ A notebook for visualizing this data is published here: https://github.com/haesl
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-Susanne Kunis
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2022-08-24
+Published 2022-07-12
 
 Licensed CC-BY-4.0
 
 
 
-guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
 
-which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+Content:
 
-You can also watch the video in the browser on the I3D:bio website.
 
-Tags: Nfdi4Bioimage, Research Data Management
+	Types of metadata
+	Data formats
+	Data Models Microscopy Data
+	Tools to edit/gather metadata
+	ISA Framework
+	FDO Framework
+	Ontology
+	RDF
+	JSON-LD
+	SPARQL
+	Knowledge Graph
+	Linked Data
+	Smart Data
+	...
 
-Content type: Video
 
-[https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
+[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
-[https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
+[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
 
 
 ---
