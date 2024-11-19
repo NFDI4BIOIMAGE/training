@@ -15,17 +15,17 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (142 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)](https://zenodo.org/records/14032908) by "Steuerungsgremium Allianz-Schwerpunkt and Alexander von Humboldt Foundation and Deutsche Forschungsgemeinschaft and Fraunhofer Society and German Rectors' Conference and Leibniz Association and German National Academy of Sciences Leopoldina and German Academic Exchange Service and Helmholtz Association of German Research Centres and Max Planck Society" (125 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241119_first_page_12623730.png)
+![latest PNG](highlights/20241119_first_page_14032908.png)
 
-2. [Bio-image Analysis Code Generation](https://zenodo.org/records/14001044) by "Haase, Robert" (117 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Bio-image Analysis Code Generation](https://zenodo.org/records/14001044) by "Haase, Robert" (96 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ![latest PNG](highlights/20241119_first_page_14001044.png)
 
-3. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (73 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (85 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241119_first_page_11201216.png)
+![latest PNG](highlights/20241119_first_page_12623730.png)
 
 ## How to use this resource
 
