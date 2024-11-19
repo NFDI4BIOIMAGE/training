@@ -30,7 +30,7 @@ def main():
     repository = sys.argv[1]
 
     token = os.getenv('ZENODO_API_KEY')
-    communities = ['nfdi4bioimage', 'gerbi', 'euro-bioimaging', 'neubias', 'bio-formats', 'globias']
+    communities = ['nfdi4bioimage', 'gerbi', 'euro-bioimaging', 'neubias', 'bio-formats', 'globias', 'rdm4mic']
 
     yml_filename = "resources/nfdi4bioimage.yml"
 
