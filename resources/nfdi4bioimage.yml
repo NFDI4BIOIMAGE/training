@@ -6836,19 +6836,11 @@ resources:
     With this template it is possible to create a csv-file, that can be used to annotate
     a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).'
 - authors: Weischer, Sarah, Wendt, Jens, Zobel, Thomas
-  description: In this workshop a fully integrated data analysis solutions employing
+  description: 'In this workshop a fully integrated data analysis solutions employing
     OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using
     existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler
     Python API) is presented.
-  license: cc-by-4.0
-  name: High throughput & automated data analysis and data management workflow with
-    Cellprofiler and OMERO
-  num_downloads: 7
-  publication_date: '2023-07-12'
-  url:
-  - https://zenodo.org/records/8139354
-  - https://doi.org/10.5281/zenodo.8139354
-  
+      
     How to use:
     
     select and copy the data range containing Keys and Values
@@ -6879,6 +6871,14 @@ resources:
   
     10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light
     microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)'
+  license: cc-by-4.0
+  name: High throughput & automated data analysis and data management workflow with
+    Cellprofiler and OMERO
+  num_downloads: 7
+  publication_date: '2023-07-12'
+  url:
+  - https://zenodo.org/records/8139354
+  - https://doi.org/10.5281/zenodo.8139354
   license: cc-by-4.0
   name: Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
   num_downloads: 10
