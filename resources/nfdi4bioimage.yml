@@ -6787,8 +6787,6 @@ resources:
   url:
   - https://zenodo.org/records/10730424
   - https://doi.org/10.5281/zenodo.10730424
-
-
 - authors: 
   - Jannasch, Anett
   - Tulok, Silke
@@ -6815,7 +6813,6 @@ resources:
   
     With this template it is possible to create a csv-file, that can be used to annotate
     a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
-
 - authors: Weischer, Sarah, Wendt, Jens, Zobel, Thomas
   description: In this workshop a fully integrated data analysis solutions employing
     OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using
@@ -6868,9 +6865,6 @@ resources:
   url:
   - https://zenodo.org/records/12546808
   - https://doi.org/10.5281/zenodo.12546808  
-
-
-
 - authors: Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
   description: 'Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar,
     Ulm, online. Monday February 6th, 2023
