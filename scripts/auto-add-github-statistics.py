@@ -1,24 +1,6 @@
-import yaml
 import os
 import pandas as pd
 from datetime import datetime
-from github import Github
-
-def load_yaml(file_path):
-    """Load a YAML file from the specified file path.
-    
-    Parameters
-    ----------
-    file_path : str
-        Path to the YAML file.
-    
-    Returns
-    -------
-    dict
-        Parsed YAML data.
-    """
-    with open(file_path, 'r') as stream:
-        return yaml.safe_load(stream)
 
 def extract_github_repos(yaml_data):
     """Extract GitHub repository URLs from the YAML data.
@@ -40,16 +22,19 @@ def extract_github_repos(yaml_data):
             urls = [urls]
         for url in urls:
             if url.startswith("https://github.com/"):
-                repos.append(url.replace("https://github.com/", ""))
+                url = url.replace("https://github.com/", "")
+                if url.endswith("/"):
+                    url = url[:-1]
+                if len(url.split("/")) > 2:
+                    url = "/".join(url.split("/")[:2])
+                repos.append(url)
     return repos
 
-def get_repo_stats(g, repo_name):
+def get_repo_stats(repo_name):
     """Retrieve the number of stars and forks for a given GitHub repository.
     
     Parameters
     ----------
-    g : Github
-        Authenticated GitHub object.
     repo_name : str
         Name of the repository in 'user/repo' format.
     
@@ -58,7 +43,10 @@ def get_repo_stats(g, repo_name):
     dict
         Dictionary containing stars and forks count.
     """
-    repo = g.get_repo(repo_name)
+    print(f"-> get_repo_stats({repo_name})")
+    from _github_utilities import get_github_repository
+
+    repo = get_github_repository(repo_name)
     return {
         "repo_name": repo_name,
         "stars": repo.stargazers_count,
@@ -66,22 +54,31 @@ def get_repo_stats(g, repo_name):
     }
 
 def main():
-    token = os.getenv("GITHUB_TOKEN")  # Use environment variable for security
-    yaml_file = 'nfdi4bioimage.yml'
-    if not token:
-        raise ValueError("GitHub token must be set in the GITHUB_TOKEN environment variable.")
 
-    g = Github(token)
-    yaml_data = load_yaml(yaml_file)
+    from generate_link_lists import all_content
+    from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
+
+    yaml_data = all_content('./resources/')
     repos = extract_github_repos(yaml_data)
 
-    stats_list = [get_repo_stats(g, repo) for repo in repos]
+    stats_list = [get_repo_stats(repo) for repo in repos]
     df = pd.DataFrame(stats_list)
 
     today = datetime.now().strftime('%Y%m%d')
     output_dir = 'github_statistics'
     os.makedirs(output_dir, exist_ok=True)
-    df.to_csv(f"{output_dir}/{today}.csv", index=False)
+    output_file = f"{output_dir}/{today}.csv"
+    df.to_csv(output_file, index=False)
+
+
+    # upload to github and send a pull-request
+    repository = "nfdi4bioimage/training"
+    branch = create_branch(repository)
+    with open(output_file, 'r') as file:
+        file_content = file.read()
+
+    write_file(repository, branch, output_file, file_content, "Add " + output_file)
+    res = send_pull_request(repository, branch, f"Add {output_file}", "")
 
 if __name__ == "__main__":
     main()
