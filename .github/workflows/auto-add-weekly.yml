@@ -29,3 +29,4 @@ jobs:
       run: |
         python scripts/auto-add-download-statistics.py nfdi4bioimage/training
         python scripts/auto-add-from-zenodo-communities.py nfdi4bioimage/training
+        python scripts/auto-add-github-statistics.py nfdi4bioimage/training
