@@ -32,6 +32,40 @@ jobs:
       run: |
         python scripts/data_normalizer.py
 
+    # Check for changes and create a new branch if changes exist
+    - name: Commit changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git checkout -b data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+        git add -A
+        if [[ `git status --porcelain` ]]; then
+          git commit -m "Normalize data for PR #${{ github.event.pull_request.number }}"
+        else
+          echo "No changes to commit"
+          exit 0
+        fi
+
+    # Push changes to the new branch
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+        base: ${{ github.event.pull_request.head.ref }}
+        title: "Data Normalization for PR #${{ github.event.pull_request.number }}"
+        body: |
+          This pull request contains data normalization changes for PR #${{ github.event.pull_request.number }}.
+          Please review and merge these changes to ensure data consistency.
+        draft: false
+
+
     # Build the book
     - name: Generate link lists
       run: |
