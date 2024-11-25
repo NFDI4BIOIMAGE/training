@@ -7,6 +7,10 @@ on:
     - master
     - main
 
+permissions:
+  contents: write
+  pull-requests: write
+
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
