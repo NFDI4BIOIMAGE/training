@@ -41,21 +41,27 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git checkout -b data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+        BRANCH_NAME=data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+        git checkout -b $BRANCH_NAME
         git add -A
         if [[ `git status --porcelain` ]]; then
           git commit -m "Normalize data for PR #${{ github.event.pull_request.number }}"
+          git push origin $BRANCH_NAME
         else
           echo "No changes to commit"
           exit 0
         fi
 
-    # Push changes to the new branch
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}
+    # Verify the branch exists on remote
+    - name: Verify branch existence
+      run: |
+        git fetch --all
+        if git ls-remote --exit-code origin data-normalization-${{ github.event.pull_request.number }}-${{ github.run_id }}; then
+          echo "Branch exists on remote."
+        else
+          echo "Branch does not exist on remote. Exiting."
+          exit 1
+        fi
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
