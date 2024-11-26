@@ -1,4 +1,4 @@
-# Cc-by-4.0 (228)
+# Cc-by-4.0 (229)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2932,6 +2932,25 @@ First updates of LEO (Linking ELN with OMERO)
 [https://zenodo.org/records/11146807](https://zenodo.org/records/11146807)
 
 [https://doi.org/10.5281/zenodo.11146807](https://doi.org/10.5281/zenodo.11146807)
+
+
+---
+
+## LZ4-compressed Imaris ims example datasets.
+
+Marco Stucchi
+
+Published 2024-11-21
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are cropped versions of Imaris demo images compressed with LZ4.
+
+[https://zenodo.org/records/14197622](https://zenodo.org/records/14197622)
+
+[https://doi.org/10.5281/zenodo.14197622](https://doi.org/10.5281/zenodo.14197622)
 
 
 ---

@@ -17,39 +17,6 @@ Best,J
 
 ---
 
-## Cellpose model for Digital Phase Contrast images
-
-Laura Capolupo, Olivier Burri, Romain Guiet
-
-Published 2022-02-09
-
-Licensed CC-BY-4.0
-
-
-
-Name: Cellpose model for Digital Phase Contrast images
-
-Data type: Cellpose model, trained via transfer learning from &lsquo;cyto&rsquo; model.
-
-Training Dataset: Light microscopy (Digital Phase Contrast) and Manual annotations (10.5281/zenodo.5996883)
-
-Training Procedure: Model was trained using a&nbsp;Cellpose version 0.6.5 with GPU support (NVIDIA GeForce RTX 2080) using default settings as per the Cellpose documentation&nbsp;
-
-python -m cellpose --train --dir TRAINING/DATASET/PATH/train --test_dir TRAINING/DATASET/PATH/test --pretrained_model cyto --chan 0 --chan2 0
-
-The model file (MODEL NAME) in this repository is the result of this training.
-
-Prediction Procedure: Using this model, a label image can be obtained from new unseen images in a given folder with
-
-python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
-
-[https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
-
-[https://doi.org/10.5281/zenodo.6023317](https://doi.org/10.5281/zenodo.6023317)
-
-
----
-
 ## Deconvolution Test Dataset
 
 Romain Guiet
@@ -205,6 +172,25 @@ A test data set for troublshooting. no scientific meaning.
 [https://zenodo.org/records/13642395](https://zenodo.org/records/13642395)
 
 [https://doi.org/10.5281/zenodo.13642395](https://doi.org/10.5281/zenodo.13642395)
+
+
+---
+
+## LZ4-compressed Imaris ims example datasets.
+
+Marco Stucchi
+
+Published 2024-11-21
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are cropped versions of Imaris demo images compressed with LZ4.
+
+[https://zenodo.org/records/14197622](https://zenodo.org/records/14197622)
+
+[https://doi.org/10.5281/zenodo.14197622](https://doi.org/10.5281/zenodo.14197622)
 
 
 ---
