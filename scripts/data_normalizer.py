@@ -2,6 +2,13 @@ import os
 import re
 import yaml
 import requests
+import pandas as pd
+import spacy
+import numpy as np
+from nameparser import HumanName
+
+# Initialize spaCy NLP pipeline
+nlp = spacy.load('en_core_web_sm')
 
 # URL to fetch license data in JSON format
 SPDX_LICENSE_LIST_URL = "https://spdx.org/licenses/licenses.json"
@@ -28,65 +35,66 @@ normalization_mapping = {
     # Add more mappings as needed
 }
 
-
 def fetch_spdx_licenses():
     """
     Fetches and processes license data from the provided URL.
-
-    This function retrieves license information in JSON format from the specified URL,
-    processes it, and returns a dictionary with normalized keys for easy lookup.
 
     Returns
     -------
     dict
         A dictionary with license names as keys and their IDs as values.
-
-    Raises
-    ------
-    Exception
-        If the licenses cannot be fetched.
     """
     response = requests.get(SPDX_LICENSE_LIST_URL)
     if response.status_code == 200:
         spdx_data = response.json()
-        spdx_licenses = {license["licenseId"].lower().replace(" ", "-"): license["licenseId"] for license in spdx_data["licenses"]}
-        spdx_licenses.update({license["name"].lower().replace(" ", "-"): license["licenseId"] for license in spdx_data["licenses"]})
+        spdx_licenses = {
+            license["licenseId"].lower().replace(" ", "-"): license["licenseId"]
+            for license in spdx_data["licenses"]
+        }
+        spdx_licenses.update({
+            license["name"].lower().replace(" ", "-"): license["licenseId"]
+            for license in spdx_data["licenses"]
+        })
         return spdx_licenses
     else:
         raise Exception("Failed to fetch SPDX licenses")
 
 def normalize_license(license_name, spdx_licenses):
     """
-    Normalizes a license name and converts it to uppercase.
+    Normalizes a license name to match SPDX identifiers.
 
     Parameters
     ----------
     license_name : str
         The name of the license to be normalized.
     spdx_licenses : dict
-        A dictionary of available licenses.
+        A dictionary of available SPDX licenses.
 
     Returns
     -------
     str
-        The normalized license name in uppercase.
+        The normalized license name.
     """
+    if license_name is None or (isinstance(license_name, float) and np.isnan(license_name)):
+        return license_name  # Return as is if None or NaN
+
+    # Ensure license_name is a string
+    license_name = str(license_name)
+
     # Apply the normalization mapping first
     license_name = normalization_mapping.get(license_name, license_name)
-    
+
     # Normalize the license name to match SPDX format
     license_name_lower = license_name.lower().strip().replace(" ", "-")
-    
+
     # Get the normalized license from SPDX list or keep the original
     normalized_license = spdx_licenses.get(license_name_lower, license_name)
-    
-    # Convert the normalized license to uppercase
-    return normalized_license.upper()
 
+    return normalized_license
 
 def normalize_field(field):
     """
-    Normalizes a single field (authors, tags).
+    Normalizes a single field (e.g., tags).
 
     Parameters
     ----------
@@ -98,18 +106,21 @@ def normalize_field(field):
     str or list
         The normalized field.
     """
+    if field is None or (isinstance(field, float) and np.isnan(field)):
+        return field  # Return as is if None or NaN
+
     if isinstance(field, list):
-        return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field]
+        return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field if pd.notnull(item)]
     else:
         return normalization_mapping.get(field.strip().title(), field.strip().title())
 
-def normalize_type(type):
+def normalize_type(type_field):
     """
-    Specifically handles normalization of 'type' to ensure all outputs are lists.
+    Ensures the 'type' field is a list and normalizes its contents.
 
     Parameters
     ----------
-    type : str or list
+    type_field : str or list
         The 'type' field to be normalized.
 
     Returns
@@ -117,118 +128,65 @@ def normalize_type(type):
     list
         The normalized 'type' field.
     """
-    if isinstance(type, list):
-        return [type_.strip().title() for type_ in type]
+    if type_field is None or (isinstance(type_field, float) and np.isnan(type_field)):
+        return type_field  # Return as is if None or NaN
+
+    if isinstance(type_field, list):
+        return [type_.strip().title() for type_ in type_field if pd.notnull(type_)]
     else:
-        return [type.strip().title()]
-
-def create_mapping(items):
-    """
-    Creates a mapping for items (authors, tags) to a consistent format.
-
-    This function takes a list of items, normalizes each item by stripping any leading
-    or trailing whitespace, and then creates a dictionary where the keys are the
-    normalized (lowercase and stripped) versions of the items, and the values are
-    the original, stripped items.
-
-    Parameters
-    ----------
-    items : list
-        The items to be mapped.
-
-    Returns
-    -------
-    dict
-        A dictionary containing the normalized items.
-    """
-    normalized_items = {}
-    for item in items:
-        normalized_item = item.strip()
-        normalized_items[item.lower().strip()] = normalized_item
-    return normalized_items
-
-def normalize_author_name(name):
-    """
-    Normalizes an author name.
-
-    Parameters
-    ----------
-    name : str
-        The author name to be normalized.
-
-    Returns
-    -------
-    str
-        The normalized author name.
-    """
-    parts = [part.strip() for part in name.split(',')]
-    if len(parts) == 2:
-        return f"{parts[1]} {parts[0]}"
-    return name
+        return [type_field.strip().title()]
 
 def normalize_author_list(authors):
-    """
-    Normalize a list of author names from various formats into a standardized format.
+    if authors is None or (isinstance(authors, float) and np.isnan(authors)):
+        return authors  # Return as is if None or NaN
 
-    This function takes a string of author names, which can be in different formats,
-    and normalizes them into a consistent "Firstname Lastname" format. The input
-    string can contain multiple authors separated by semicolons.
-
-    Parameters
-    ----------
-    authors : str
-        The authors to be normalized. The authors can be in formats 
-        like "Lastname, Firstname", "Lastname, Firstname, Lastname, Firstname", 
-        "Firstname Lastname", or combinations thereof.
-
-    Returns
-    -------
-    list
-        A list of normalized author names in the format "Firstname Lastname".
-    """
     normalized_authors = []
 
-    # Split the authors string by ';' if it contains multiple authors
-    if ';' in authors:
-        author_names = authors.split(';')
+    if isinstance(authors, list):
+        authors_str = ', '.join(str(author) for author in authors)
     else:
-        author_names = [authors]
+        authors_str = str(authors)
 
-    # Process each author name
-    for author in author_names:
-        author = author.strip()
+    # Replace common delimiters with commas
+    authors_str = re.sub(r'[;\n]| and ', ',', authors_str)
 
-        # Check if the author name contains a comma, indicating "Lastname, Firstname" format
-        if ',' in author:
-            subparts = [part.strip() for part in author.split(',')]
+    # Use spaCy to parse the text
+    doc = nlp(authors_str)
 
-            # Handle special case: "Lastname, Firstname, Lastname, Firstname" format
-            if len(subparts) % 2 == 0:
-                is_type_4 = all(len(subparts[i].split()) == 1 and len(subparts[i + 1].split()) == 1 for i in range(0, len(subparts), 2))
-                if is_type_4:
-                    for i in range(0, len(subparts), 2):
-                        lastname = subparts[i].strip()
-                        firstname = subparts[i + 1].strip()
-                        normalized_authors.append(f"{firstname} {lastname}")
-                    continue
+    # Extract PERSON entities
+    person_names = [ent.text for ent in doc.ents if ent.label_ == 'PERSON']
 
-            # Handle case: "Lastname, Firstname" or "Lastname, Firstname, Lastname, Firstname"
-            subparts = author.split(', ')
-            if all(len(part.split()) == 2 for part in subparts):
-                normalized_authors.extend(subparts)
+    # If spaCy didn't find any PERSON entities, fall back to splitting
+    if not person_names:
+        person_names = re.split(r',\s*(?=[A-Z])', authors_str)
+
+    for name in person_names:
+        name = name.strip().strip('"').strip("'")
+        if not name:
+            continue
+
+        # Handle "Lastname, Firstname(s)" format
+        if ',' in name:
+            parts = [part.strip() for part in name.split(',', 1)]
+            if len(parts) == 2:
+                last_name = parts[0]
+                first_names = parts[1]
+                name = f"{first_names} {last_name}"
             else:
-                # Handle case where there might be multiple parts with different formats
-                for subpart in subparts:
-                    normalized_authors.append(normalize_author_name(subpart.strip()))
-        else:
-            # Handle case: "Firstname Lastname" format
-            normalized_authors.append(author)
+                name = name.replace(',', '')
+        # Use nameparser to normalize the name
+        hn = HumanName(name)
+        hn.capitalize()
+        name_parts = [hn.first, hn.middle, hn.last]
+        normalized_name = ' '.join(part for part in name_parts if part)
+        normalized_authors.append(normalized_name)
 
     return normalized_authors
 
+
 def normalize_description_date_time(description):
     """
-    Normalizes a date/time string by removing unwanted Unicode characters and ensuring the format is correct.
+    Normalizes date/time strings within the description.
 
     Parameters
     ----------
@@ -238,94 +196,48 @@ def normalize_description_date_time(description):
     Returns
     -------
     str
-        The normalized date/time string.
+        The normalized description.
     """
     # Remove unwanted Unicode characters
+    if description is None or (isinstance(description, float) and np.isnan(description)):
+        return description  # Return as is if None or NaN
+
+    # Remove unwanted Unicode characters
     normalized_description = re.sub(r'\xE2\u20AC\xAF', '', description)
-    
+
     # Add a space between time and AM/PM if not present
     normalized_description = re.sub(r'(\d)(AM|PM)', r'\1 \2', normalized_description)
 
-    return normalized_description 
+    return normalized_description
 
 def normalize_data(data, spdx_licenses):
-    """
-    Normalizes the license names, authors, type, and tags in the data.
+    df = pd.DataFrame(data)
 
-    Parameters
-    ----------
-    data : list
-        The data to be normalized.
-    spdx_licenses : dict
-        A dictionary containing the SPDX licenses.
+    # Normalize licenses
+    if 'license' in df.columns:
+        df['license'] = df['license'].apply(
+            lambda x: [normalize_license(lic, spdx_licenses) for lic in x if lic is not None] if isinstance(x, list)
+            else normalize_license(x, spdx_licenses)
+        )
 
-    Returns
-    -------
-    list
-        The normalized data.
-    """
-    all_authors = set()
-    all_tags = set()
-    all_type = set()
+    # Normalize authors
+    if 'authors' in df.columns:
+        df['authors'] = df['authors'].apply(normalize_author_list)
 
-    # Collect all unique authors, tags, and types from the dataset
-    for item in data:
-        if 'authors' in item and item['authors'] is not None:
-            if isinstance(item['authors'], list):
-                for author in item['authors']:
-                    all_authors.update([a.strip() for a in author.split(';')])
-            else:
-                all_authors.update([a.strip() for a in item['authors'].split(';')])
+    # Normalize tags
+    if 'tags' in df.columns:
+        df['tags'] = df['tags'].apply(normalize_field)
 
-        if 'tags' in item and item['tags'] is not None:
-            if isinstance(item['tags'], list):
-                all_tags.update(item['tags'])
-            else:
-                all_tags.add(item['tags'])
+    # Normalize type
+    if 'type' in df.columns:
+        df['type'] = df['type'].apply(normalize_type)
 
-        if 'type' in item and item['type'] is not None:
-            if isinstance(item['type'], list):
-                all_type.update(item['type'])
-            else:
-                all_type.add(item['type'])
+    # Normalize description
+    if 'description' in df.columns:
+        df['description'] = df['description'].apply(normalize_description_date_time)
 
-    # Create mappings for authors to ensure consistent format
-    author_mapping = create_mapping(all_authors)
+    return df.to_dict(orient='records')
 
-    # Normalize each field in the dataset
-    for item in data:
-        if 'license' in item and item['license'] is not None:
-            if isinstance(item['license'], list):
-                item['license'] = [normalize_license(license, spdx_licenses) for license in item['license']]
-            else:
-                item['license'] = normalize_license(item['license'], spdx_licenses)
-
-        if 'authors' in item and item['authors'] is not None:
-            if isinstance(item['authors'], list):
-                normalized_authors = []
-                for author in item['authors']:
-                    # Use author_mapping for consistency
-                    normalized_author = author_mapping.get(author.lower().strip(), author)
-                    normalized_authors.extend(normalize_author_list(normalized_author))
-                item['authors'] = normalized_authors
-            else:
-                # Use author_mapping for single author
-                normalized_author = author_mapping.get(item['authors'].lower().strip(), item['authors'])
-                item['authors'] = normalize_author_list(normalized_author)
-
-        if 'tags' in item and item['tags'] is not None:
-            if isinstance(item['tags'], list):
-                item['tags'] = [normalize_field(tag) for tag in item['tags']]
-            else:
-                item['tags'] = normalize_field(item['tags'])
-
-        if 'type' in item and item['type'] is not None:
-            item['type'] = normalize_type(item['type'])
-
-        if 'description' in item and item['description'] is not None:
-            item['description'] = normalize_description_date_time(item['description'])
-
-    return data
 
 def read_data_from_file(file_path):
     """
@@ -356,8 +268,8 @@ def write_data_to_file(data, file_path):
         The path to the YAML file.
     """
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    with open(file_path, 'w') as file:
-        yaml.dump(data, file, sort_keys=False)
+    with open(file_path, 'w', encoding='utf-8') as file:
+        yaml.dump(data, file, sort_keys=False, allow_unicode=True)
 
 def process_file(file_path, spdx_licenses):
     """
