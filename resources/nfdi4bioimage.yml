@@ -8744,3 +8744,15 @@ resources:
   url:
   - https://zenodo.org/records/6905931
   - https://doi.org/10.5281/zenodo.6905931
+- authors:
+  - Stucchi, Marco
+  description: The files contained in this repository are cropped versions of Imaris
+    demo images compressed with LZ4.
+  license: cc-by-4.0
+  name: LZ4-compressed Imaris ims example datasets.
+  num_downloads: 4
+  publication_date: '2024-11-21'
+  submission_date: '2024-11-26T11:19:38.819031'
+  url:
+  - https://zenodo.org/records/14197622
+  - https://doi.org/10.5281/zenodo.14197622
