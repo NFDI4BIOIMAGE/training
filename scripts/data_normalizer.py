@@ -170,16 +170,16 @@ def normalize_author_list(authors):
     """
     Normalize a list of author names from various formats into a standardized format.
 
-    This function takes a string of author names, which can be in different formats,
-    and normalizes them into a consistent "Firstname Lastname" format. The input
-    string can contain multiple authors separated by semicolons.
+    Handles cases:
+    1. "Lastname, Firstname, Lastname, Firstname" format, grouped correctly.
+    2. Comma-separated single names.
+    3. Mixed formats with both "Firstname Lastname" and "Lastname, Firstname".
+    4. Handles irregular cases and falls back to the original input.
 
     Parameters
     ----------
     authors : str
-        The authors to be normalized. The authors can be in formats 
-        like "Lastname, Firstname", "Lastname, Firstname, Lastname, Firstname", 
-        "Firstname Lastname", or combinations thereof.
+        The authors to be normalized.
 
     Returns
     -------
@@ -187,42 +187,24 @@ def normalize_author_list(authors):
         A list of normalized author names in the format "Firstname Lastname".
     """
     normalized_authors = []
+    parts = [part.strip() for part in authors.split(',')]
 
-    # Split the authors string by ';' if it contains multiple authors
-    if ';' in authors:
-        author_names = authors.split(';')
-    else:
-        author_names = [authors]
-
-    # Process each author name
-    for author in author_names:
-        author = author.strip()
-
-        # Check if the author name contains a comma, indicating "Lastname, Firstname" format
-        if ',' in author:
-            subparts = [part.strip() for part in author.split(',')]
-
-            # Handle special case: "Lastname, Firstname, Lastname, Firstname" format
-            if len(subparts) % 2 == 0:
-                is_type_4 = all(len(subparts[i].split()) == 1 and len(subparts[i + 1].split()) == 1 for i in range(0, len(subparts), 2))
-                if is_type_4:
-                    for i in range(0, len(subparts), 2):
-                        lastname = subparts[i].strip()
-                        firstname = subparts[i + 1].strip()
-                        normalized_authors.append(f"{firstname} {lastname}")
-                    continue
-
-            # Handle case: "Lastname, Firstname" or "Lastname, Firstname, Lastname, Firstname"
-            subparts = author.split(', ')
-            if all(len(part.split()) == 2 for part in subparts):
-                normalized_authors.extend(subparts)
-            else:
-                # Handle case where there might be multiple parts with different formats
-                for subpart in subparts:
-                    normalized_authors.append(normalize_author_name(subpart.strip()))
+    i = 0
+    while i < len(parts):
+        if i + 1 < len(parts) and len(parts[i + 1].split()) == 1:
+            # Case: "Lastname, Firstname" -> Combine Lastname and Firstname
+            last_name = parts[i]
+            first_name = parts[i + 1]
+            normalized_authors.append(f"{first_name} {last_name}")
+            i += 2
+        elif len(parts[i].split()) == 2:
+            # Case: "Firstname Lastname" -> Single full name
+            normalized_authors.append(parts[i])
+            i += 1
         else:
-            # Handle case: "Firstname Lastname" format
-            normalized_authors.append(author)
+            # Case: Unstructured or single names -> Add as-is
+            normalized_authors.append(parts[i])
+            i += 1
 
     return normalized_authors
 
