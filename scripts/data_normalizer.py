@@ -370,11 +370,14 @@ def process_file(file_path, spdx_licenses):
     spdx_licenses : dict
         A dictionary containing license information used for normalization.
     """
+    print(f"Processing file: {file_path}")  # Add this debug print
     data = read_data_from_file(file_path)
     resources_data = data.get('resources', [])
-    normalized_data = normalize_data(resources_data, spdx_licenses) 
+    normalized_data = normalize_data(resources_data, spdx_licenses)
     write_data_to_file({'resources': normalized_data}, file_path)
+    print(f"Writing to file: {file_path}")  # Add this debug print
     print(f"Normalization complete. File saved as {file_path}")
+
 
 def main():
     """

@@ -34,6 +34,10 @@ jobs:
       run: |
         python scripts/auto-add-zenodo-entry.py ${{ github.repository }} ${{ github.event.issue.number }}
 
+    - name: Normalize data
+      run: |
+        python scripts/data_normalizer.py
+
     - name: Add github resources
       env:
         GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
