@@ -94,7 +94,7 @@ def complete_github_data(github_repo_url):
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
             # Use the contributor's full name if available, otherwise use the username
-            entry['authors'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
+            entry['authors'] = [contrib.name if contrib.name else contrib.login for contrib in contributors]
         else:
             entry['authors'] = ""
     except GithubException as e:
