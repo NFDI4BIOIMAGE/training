@@ -15,17 +15,15 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (143 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (59 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241203_first_page_8323588.png)
+![latest PNG](highlights/20241203_first_page_12623730.png)
 
-2. [Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)](https://zenodo.org/records/14032908) by "Steuerungsgremium Allianz-Schwerpunkt and Alexander von Humboldt Foundation and Deutsche Forschungsgemeinschaft and Fraunhofer Society and German Rectors' Conference and Leibniz Association and German National Academy of Sciences Leopoldina and German Academic Exchange Service and Helmholtz Association of German Research Centres and Max Planck Society" (79 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)](https://zenodo.org/records/14032908) by "Steuerungsgremium Allianz-Schwerpunkt and Alexander von Humboldt Foundation and Deutsche Forschungsgemeinschaft and Fraunhofer Society and German Rectors' Conference and Leibniz Association and German National Academy of Sciences Leopoldina and German Academic Exchange Service and Helmholtz Association of German Research Centres and Max Planck Society" (38 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ![latest PNG](highlights/20241203_first_page_14032908.png)
 
-3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (74 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-![latest PNG](highlights/20241203_first_page_12623730.png)
+3. [Multiplexed histology of COVID-19 post-mortem lung samples - CONTROL CASE 1 FOV1](https://zenodo.org/records/7447491) by "Anna Pascual Reguant and Ronja Mothes and Helena Radbruch and Anja E. Hauser" (35 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
