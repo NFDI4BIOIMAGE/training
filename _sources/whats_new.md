@@ -17,37 +17,6 @@ Best,J
 
 ---
 
-## Deconvolution Test Dataset
-
-Romain Guiet
-
-Published 2021-07-14
-
-Licensed CC-BY-4.0
-
-
-
-This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acquired on confocal Zeiss LSM710, which contains
-
-- Ph488.czi (contains all raw metadata)
-
-- Raw_large.tif ( is the tif version of Ph488.czi, provided for conveninence as&nbsp;tif doesn&#39;t need Bio-Formats&nbsp;to be open in Fiji&nbsp;)
-
-- Raw.tif , is a crop of the large image
-
--&nbsp;PSFHuygens_confocal_Theopsf.tif , is a theoretical PSF generated with HuygensPro
-
--&nbsp;PSFgen_WF_WBpsf.tif&nbsp; , is a theoretical PSF generated with PSF generator
-
-- PSFgen_WFsquare_WBpsf.tif, is the result of&nbsp;the&nbsp;square operation on PSFgen_WF_WBpsf.tif , to approximate a confocal PSF
-
-[https://zenodo.org/records/5101351](https://zenodo.org/records/5101351)
-
-[https://doi.org/10.5281/zenodo.5101351](https://doi.org/10.5281/zenodo.5101351)
-
-
----
-
 ## Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility
 
 Kunis
@@ -87,6 +56,27 @@ DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 4
 [https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
 
 [https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
+
+
+---
+
+## Example Imaris ims datasets.
+
+Marco Stucchi
+
+Published 2024-11-28
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are example Imaris ims images.
+&nbsp;
+Initially related to https://github.com/ome/bioformats/pull/4249
+
+[https://zenodo.org/records/14235726](https://zenodo.org/records/14235726)
+
+[https://doi.org/10.5281/zenodo.14235726](https://doi.org/10.5281/zenodo.14235726)
 
 
 ---
@@ -195,27 +185,23 @@ The files contained in this repository are cropped versions of Imaris demo image
 
 ---
 
-## LauLauThom/MaskFromRois-Fiji: Masks from ROIs plugins for Fiji - initial release
+## OME2024 NGFF Challenge Results
 
-Laurent Thomas, Pierre Trehin
+Josh Moore
 
-Published 2021-07-22
+Published 2024-11-01
 
-Licensed MIT
+Licensed CC-BY-4.0
 
 
 
-Fiji plugins for the creation of binary and semantic masks from ROIs in the RoiManager. Works with stacks too.
+Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
+Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+&nbsp;
 
-Installation in Fiji: activate the Rois from masks update site in Fiji.
+[https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
-See GitHub readme for the documentation.
-
-Latest tested with Fiji 2.1.0/ImageJ 1.53j
-
-[https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
-
-[https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
+[https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
 
 
 ---

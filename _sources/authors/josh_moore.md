@@ -1,4 +1,4 @@
-# Josh moore (22)
+# Josh moore (23)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -63,6 +63,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
+
+
+---
+
+## OME2024 NGFF Challenge Results
+
+Josh Moore
+
+Published 2024-11-01
+
+Licensed CC-BY-4.0
+
+
+
+Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
+Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+&nbsp;
+
+[https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
+
+[https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
 
 
 ---

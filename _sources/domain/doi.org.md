@@ -1,4 +1,4 @@
-# Doi.org (166)
+# Doi.org (168)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1257,6 +1257,27 @@ DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 4
 [https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
 
 [https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
+
+
+---
+
+## Example Imaris ims datasets.
+
+Marco Stucchi
+
+Published 2024-11-28
+
+Licensed CC-BY-4.0
+
+
+
+The files contained in this repository are example Imaris ims images.
+&nbsp;
+Initially related to https://github.com/ome/bioformats/pull/4249
+
+[https://zenodo.org/records/14235726](https://zenodo.org/records/14235726)
+
+[https://doi.org/10.5281/zenodo.14235726](https://doi.org/10.5281/zenodo.14235726)
 
 
 ---
@@ -3063,6 +3084,27 @@ Content type: Slide
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
 [https://doi.org/10.5281/zenodo.4334697](https://doi.org/10.5281/zenodo.4334697)
+
+
+---
+
+## OME2024 NGFF Challenge Results
+
+Josh Moore
+
+Published 2024-11-01
+
+Licensed CC-BY-4.0
+
+
+
+Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
+Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+&nbsp;
+
+[https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
+
+[https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
 
 
 ---
