@@ -8756,3 +8756,35 @@ resources:
   url:
   - https://zenodo.org/records/14197622
   - https://doi.org/10.5281/zenodo.14197622
+- authors:
+  - Moore, Josh
+  description: 'Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
+
+    Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge
+    -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction
+    of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: OME2024 NGFF Challenge Results
+  num_downloads: 23
+  publication_date: '2024-11-01'
+  submission_date: '2024-12-03T11:19:33.910078'
+  url:
+  - https://zenodo.org/records/14234608
+  - https://doi.org/10.5281/zenodo.14234608
+- authors:
+  - Stucchi, Marco
+  description: 'The files contained in this repository are example Imaris ims images.
+
+    &nbsp;
+
+    Initially related to https://github.com/ome/bioformats/pull/4249'
+  license: cc-by-4.0
+  name: Example Imaris ims datasets.
+  num_downloads: 3
+  publication_date: '2024-11-28'
+  submission_date: '2024-12-03T11:20:19.287724'
+  url:
+  - https://zenodo.org/records/14235726
+  - https://doi.org/10.5281/zenodo.14235726
