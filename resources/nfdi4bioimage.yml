@@ -8788,3 +8788,16 @@ resources:
   url:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
+
+- authors: "Iv\xE1n Hidalgo, esgomezm, Craig Russell, Ricardo Henriques, Mariana G Ferreira,\
+    \ Joanna Pylv\xE4n\xE4inen, guijacquemet"
+  description: Bringing the ZeroCostDL4Mic experience running everywhere via easy-to-install
+    docker images
+  license: Creative Commons Attribution 4.0 International
+  name: DL4MicEverywhere
+  publication_date: '2024-10-03T16:53:03+00:00'
+  submission_date: '2024-12-04T11:21:40.103562'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/HenriquesLab/DL4MicEverywhere
+  
