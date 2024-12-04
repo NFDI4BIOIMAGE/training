@@ -8788,3 +8788,16 @@ resources:
   url:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
+
+- authors: "Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot],\
+    \ JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet"
+  description: Project planning and material repository for the 2024 challenge to generate
+    1 PB of OME-Zarr data
+  license: BSD 3-Clause "New" or "Revised" License
+  name: ome2024-ngff-challenge
+  publication_date: '2024-08-30T12:00:53+00:00'
+  submission_date: '2024-12-04T07:10:23.182293'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/ome/ome2024-ngff-challenge
+  
