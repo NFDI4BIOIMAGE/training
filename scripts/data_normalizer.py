@@ -346,7 +346,7 @@ def read_data_from_file(file_path):
 
 def write_data_to_file(data, file_path):
     """
-    Writes data to a YAML file.
+    Writes data to a YAML file with improved readability for Unicode characters.
 
     Parameters
     ----------
@@ -356,8 +356,8 @@ def write_data_to_file(data, file_path):
         The path to the YAML file.
     """
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    with open(file_path, 'w') as file:
-        yaml.dump(data, file, sort_keys=False)
+    with open(file_path, 'w', encoding='utf-8') as file:
+        yaml.dump(data, file, sort_keys=False, allow_unicode=True)
 
 def process_file(file_path, spdx_licenses):
     """
