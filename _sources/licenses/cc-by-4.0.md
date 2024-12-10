@@ -1,4 +1,4 @@
-# Cc-by-4.0 (231)
+# Cc-by-4.0 (235)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -18,6 +18,25 @@ Content type: Slides
 [https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
 [https://doi.org/10.5281/zenodo.4461261](https://doi.org/10.5281/zenodo.4461261)
+
+
+---
+
+## 10 frames of fluorescent particles
+
+Zach Marin, Maohan Su
+
+Published 2024-12-05
+
+Licensed CC-BY-4.0
+
+
+
+10 frames of fluorescent particles. They don't do much, but they are a DCIMG version 0x7 file example.
+
+[https://zenodo.org/records/14281237](https://zenodo.org/records/14281237)
+
+[https://doi.org/10.5281/zenodo.14281237](https://doi.org/10.5281/zenodo.14281237)
 
 
 ---
@@ -180,6 +199,25 @@ Manufacture in titanium for chronic implantation. Measures in mm.
 
 ---
 
+## Aberrated Bead Stack
+
+Zach Marin
+
+Published 2024-12-03
+
+Licensed CC-BY-4.0
+
+
+
+Bead stack taken on lower path of a 4Pi without deformable mirror corrections. DCIMG examples, not for other purposes.
+
+[https://zenodo.org/records/14268554](https://zenodo.org/records/14268554)
+
+[https://doi.org/10.5281/zenodo.14268554](https://doi.org/10.5281/zenodo.14268554)
+
+
+---
+
 ## Abstract - NFDI Basic Service for Data Management Plans
 
 Licensed CC-BY-4.0
@@ -222,6 +260,25 @@ Content type: Slides
 
 ---
 
+## Angebote der NFDI für die Forschung im Bereich Zoologie
+
+Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Engel, Judith Sophie
+
+Published 2024-12-04
+
+Licensed CC-BY-4.0
+
+
+
+In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
+
+[https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
+
+[https://doi.org/10.5281/zenodo.14278058](https://doi.org/10.5281/zenodo.14278058)
+
+
+---
+
 ## Artificial Blobs and Labels image
 
 Romain
@@ -237,6 +294,25 @@ A groovy script to use in Fiji to generate artificial images and labels, with ex
 [https://zenodo.org/records/7919117](https://zenodo.org/records/7919117)
 
 [https://doi.org/10.5281/zenodo.7919117](https://doi.org/10.5281/zenodo.7919117)
+
+
+---
+
+## Astigmatic 4Pi bead stack
+
+Zach Marin, Maohan Su
+
+Published 2024-12-06
+
+Licensed CC-BY-4.0
+
+
+
+Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction requirement.
+
+[https://zenodo.org/records/14287640](https://zenodo.org/records/14287640)
+
+[https://doi.org/10.5281/zenodo.14287640](https://doi.org/10.5281/zenodo.14287640)
 
 
 ---

@@ -1,4 +1,4 @@
-# Robert haase (54)
+# Robert haase (55)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -29,6 +29,25 @@ Tags: Imagej
 Content type: Publication, Poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## Angebote der NFDI für die Forschung im Bereich Zoologie
+
+Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Engel, Judith Sophie
+
+Published 2024-12-04
+
+Licensed CC-BY-4.0
+
+
+
+In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
+
+[https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
+
+[https://doi.org/10.5281/zenodo.14278058](https://doi.org/10.5281/zenodo.14278058)
 
 
 ---
