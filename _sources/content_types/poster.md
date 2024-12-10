@@ -107,7 +107,7 @@ Content type: Poster, Publication
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 

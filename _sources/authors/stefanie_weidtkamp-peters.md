@@ -1,4 +1,4 @@
-# Stefanie weidtkamp-peters (10)
+# Stefanie weidtkamp-peters (11)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -35,6 +35,25 @@ Tags: Research Data Management
 Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317)
+
+
+---
+
+## Data stewardship and research data management tools for multimodal linking of imaging data in plasma medicine
+
+Mohsen Ahmadi, Robert Wagner, Philipp Mattern, Nick Plathe, Sander Bekeschus, Markus M. Becker, Torsten Stöter, Stefanie Weidtkamp-Peters
+
+Published 2023-11-03
+
+Licensed CC-BY-4.0
+
+
+
+A more detailed understanding of the effect of plasmas on biological systems can be fostered by combining data from different imaging modalities, such as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however, requires the implementation and use of sophisticated research data management (RDM) solutions to incorporate the influence of plasma parameters and treatment procedures as well as the effects of plasma on the treated targets. In order to address this, RDM activities on different levels and from different perspectives are started and brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
+
+[https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
+
+[https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
 
 
 ---

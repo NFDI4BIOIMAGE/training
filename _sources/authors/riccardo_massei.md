@@ -169,7 +169,7 @@ Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-03-01
 

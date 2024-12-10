@@ -133,7 +133,7 @@ Content type: Forum Post
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-03-01
 

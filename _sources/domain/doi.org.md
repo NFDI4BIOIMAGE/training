@@ -490,7 +490,7 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 
 ## Building a FAIR image data ecosystem for microscopy communities
 
-Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, El Ghadraoui, Ayoub, Eriksson, John E., Aastha Mathur
+Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
 
 Published 2023-03-31
 
@@ -719,7 +719,7 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 
 ## Conference Slides - 4th Day of Intravital Microscopy
 
-Ishikawa-Ankerhold, Dr. Hellen
+Dr. Hellen Ishikawa-Ankerhold
 
 Published 2024-11-13
 
@@ -856,7 +856,7 @@ We would like to thank all the commentators of the previous versions, especially
 
 ## Data stewardship and research data management tools for multimodal linking of imaging data in plasma medicine
 
-Ahmadi, Mohsen, Wagner, Robert, Mattern, Philipp, Plathe, Nick, Bekeschus, Sander, Becker, Markus M., Stöter, Torsten, Weidtkamp-Peters, Stefanie
+Mohsen Ahmadi, Robert Wagner, Philipp Mattern, Nick Plathe, Sander Bekeschus, Markus M. Becker, Torsten Stöter, Stefanie Weidtkamp-Peters
 
 Published 2023-11-03
 
@@ -1834,7 +1834,7 @@ Content type: Book
 
 ## Gut Analysis Toolbox
 
-Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Estibaliz Gómez-de-Mariscal, Arrate Muñoz Barrutia, Julia A. Kaltschmidt, Sebastian K. King, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
 
 Published 2024-09-10
 
@@ -2144,7 +2144,7 @@ Thanks for your help !Best,Laurent
 
 ## Image Repository Decision Tree - Where do I deposit my imaging data
 
-Kemmer, Isabel, Romdhane, Feriel, Euro-BioImaging ERIC
+Isabel Kemmer, Feriel Romdhane, Euro-BioImaging ERIC
 
 Published 2024-10-22
 
@@ -2475,7 +2475,7 @@ See cross reference:
 
 ## Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
-Anett Jannasch, Silke Tulok, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
+Anett Jannasch, Silke Tulok, Vanessa Aphaia Fiona Fuchs, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
 
 Published 2024-06-26
 
@@ -2510,7 +2510,7 @@ See cross reference:
 
 ## Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Müller-Reichert
 
-Fabig, Gunar, Jannasch, Anett, Okafornta, Chukwuebuka, Boissonnet, Tom, Schmidt, Christian, Bortolomeazzi, Michele, Fuchs, Vanessa Aphaia Fiona, Koeckert, Maria, Poddar, Aayush, Vogel, Martin, Schwarzbach, Hanna-Margareta, Vogelsang, Andy, Gerlach, Michael, Nobst, Anja, Müller-Reichert, Thomas, Tulok, Silke
+Gunar Fabig, Anett Jannasch, Chukwuebuka Okafornta, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Vanessa Aphaia Fiona Fuchs, Maria Koeckert, Aayush Poddar, Martin Vogel, Hanna-Margareta Schwarzbach, Andy Vogelsang, Michael Gerlach, Anja Nobst, Thomas Müller-Reichert, Silke Tulok
 
 Published 2024-06-26
 
@@ -2693,7 +2693,7 @@ Latest tested with Fiji 2.1.0/ImageJ 1.53j
 
 ## Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
 
-Heber, Maximilian, Jakob, Moritz, Landwehr, Matthias, Leendertse, Jan, Müller, Maximilian, Schneider, Gabriel, von Suchodoletz, Dirk, Ulrich, Robert
+Maximilian Heber, Moritz Jakob, Matthias Landwehr, Jan Leendertse, Maximilian Müller, Gabriel Schneider, Dirk von Suchodoletz, Robert Ulrich
 
 Published 2024-06-03
 
@@ -3299,7 +3299,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Gurwitz, Kim Tamara, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, Lister, L. Allyson, Livio Longo, Dario, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer, Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Richard, Audrey S., Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Westerhoff, Hans V., Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -3475,7 +3475,7 @@ Contains hands-on tips, tricks and schemes to improve sample stability during va
 
 ## Round Table Workshop 2 - Correction of Drift and Movement
 
-Ishikawa-Ankerhold, Dr. Hellen, Max Nobis
+Dr. Hellen Ishikawa-Ankerhold, Max Nobis
 
 Published 2024-11-14
 
@@ -3886,7 +3886,7 @@ Content type: Book
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Published 2024-03-01
 
@@ -4265,7 +4265,7 @@ Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimagin
 
 ## [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO
 
-Vanessa Fuchs, Fiona Aphaia, Christian Schmidt, Tom Boissonnet
+Vanessa Fiona Aphaia Fuchs, Christian Schmidt, Tom Boissonnet
 
 Published 2024-05-06
 

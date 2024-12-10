@@ -503,7 +503,7 @@ Content type: Workshop
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-Estibaliz Gómez-de-Mariscal\
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 
@@ -2613,7 +2613,7 @@ Content type: Slide
 
 ## Who you gonna call? - Data Stewards to the rescue
 
-Vanessa Fuchs, Aphaia Fiona, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
+Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
 
 Licensed CC-BY-4.0
 

@@ -81,7 +81,7 @@ Content type: Slide
 
 ## Building a Bioimage Analysis Workflow using Deep Learning
 
-Estibaliz Gómez-de-Mariscal\
+Estibaliz Gómez-de-Mariscal
 
 Licensed UNKNOWN
 

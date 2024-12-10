@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (7)
+# Michele bortolomeazzi (8)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -26,7 +26,7 @@ Content type: Slide, Video
 
 ## Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
-Anett Jannasch, Silke Tulok, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
+Anett Jannasch, Silke Tulok, Vanessa Aphaia Fiona Fuchs, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
 
 Published 2024-06-26
 
@@ -55,6 +55,44 @@ See cross reference:
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
 [https://doi.org/10.5281/zenodo.12546808](https://doi.org/10.5281/zenodo.12546808)
+
+
+---
+
+## Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Müller-Reichert
+
+Gunar Fabig, Anett Jannasch, Chukwuebuka Okafornta, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Vanessa Aphaia Fiona Fuchs, Maria Koeckert, Aayush Poddar, Martin Vogel, Hanna-Margareta Schwarzbach, Andy Vogelsang, Michael Gerlach, Anja Nobst, Thomas Müller-Reichert, Silke Tulok
+
+Published 2024-06-26
+
+Licensed CC-BY-4.0
+
+
+
+This are a two Key-Value pair templates used for the annotation of datasets in OMERO. They are tailored for light- and electron microcopy data for all research projects of the research group of Prof. T. Mueller-Reichert.&nbsp; All members of the Core Facility Cellular Imaging agreed for using these templates to annotate data in OMERO. Furthermore, there are a corresponding public example datasets used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and are available here:
+https://omero.med.tu-dresden.de/webclient/?show=dataset-1552 --&gt; for lattice-light sheet microscopy
+https://omero.med.tu-dresden.de/webclient/?show=dataset-1555--&gt; for electron microscopy data
+That templates are based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015) and were developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th- Sept 1st in 2023 and further adapeted during the usage of OMERO.&nbsp;
+With every template it is possible to create a csv-file, that can be used to annotate a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+
+fill the template with metadata
+select and copy the data range containing the Keys and Values
+open a new excel sheet and paste transpose in cell A1
+Important: cell A1 contains always the name 'dataset' and cell A2 contains the exact name of the dataset, which should be annotated in OMERO
+save the new excel sheet in csv-file (comma separated values) format
+
+Examples can be seen in sheet 3 'csv_TOMO' and sheet 5 csv_TEM'.
+Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might be not able to decode by the annotation script. We encountered this issue with old Microsoft-Office versions (MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of comma as decimal delimiter.
+See cross reference:
+10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+&nbsp;
+
+[https://zenodo.org/records/12547566](https://zenodo.org/records/12547566)
+
+[https://doi.org/10.5281/zenodo.12547566](https://doi.org/10.5281/zenodo.12547566)
 
 
 ---
