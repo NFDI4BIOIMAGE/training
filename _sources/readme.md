@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 510 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2024-12-03.
+This Jupyter Book contains 510 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2024-12-10.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,15 +15,13 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (59 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [CZI file examples](https://zenodo.org/records/8305531) by "Nicolas Chiaruttini" (283 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241203_first_page_12623730.png)
+2. [Evident OIR sample files tiles + stitched image - FV 4000](https://zenodo.org/records/13680725) by "Nicolas Chiaruttini" (265 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Forschungsdatenmanagement zukunftsfest gestalten – Impulse für die   Strukturevaluation der Nationalen Forschungsdateninfrastruktur (NFDI)](https://zenodo.org/records/14032908) by "Steuerungsgremium Allianz-Schwerpunkt and Alexander von Humboldt Foundation and Deutsche Forschungsgemeinschaft and Fraunhofer Society and German Rectors' Conference and Leibniz Association and German National Academy of Sciences Leopoldina and German Academic Exchange Service and Helmholtz Association of German Research Centres and Max Planck Society" (38 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (213 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241203_first_page_14032908.png)
-
-3. [Multiplexed histology of COVID-19 post-mortem lung samples - CONTROL CASE 1 FOV1](https://zenodo.org/records/7447491) by "Anna Pascual Reguant and Ronja Mothes and Helena Radbruch and Anja E. Hauser" (35 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+![latest PNG](highlights/20241210_first_page_11201216.png)
 
 ## How to use this resource
 
