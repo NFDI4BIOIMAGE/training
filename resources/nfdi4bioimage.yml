@@ -8788,3 +8788,58 @@ resources:
   url:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
+- authors:
+  - "K\xF6nig-Ries, Birgitta"
+  - Haase, Robert
+  - "N\xFCst, Daniel"
+  - "F\xF6rstner, Konrad"
+  - Engel, Judith Sophie
+  description: In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste
+    der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die
+    Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
+  license: cc-by-4.0
+  name: "Angebote der NFDI f\xFCr die Forschung im Bereich Zoologie"
+  num_downloads: 91
+  publication_date: '2024-12-04'
+  submission_date: '2024-12-10T11:19:45.214265'
+  url:
+  - https://zenodo.org/records/14278058
+  - https://doi.org/10.5281/zenodo.14278058
+- authors:
+  - Marin, Zach
+  - Su, Maohan
+  description: Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction
+    requirement.
+  license: cc-by-4.0
+  name: Astigmatic 4Pi bead stack
+  num_downloads: 1
+  publication_date: '2024-12-06'
+  submission_date: '2024-12-10T11:20:43.463988'
+  url:
+  - https://zenodo.org/records/14287640
+  - https://doi.org/10.5281/zenodo.14287640
+- authors:
+  - Marin, Zach
+  - Su, Maohan
+  description: 10 frames of fluorescent particles. They don't do much, but they are
+    a DCIMG version 0x7 file example.
+  license: cc-by-4.0
+  name: 10 frames of fluorescent particles
+  num_downloads: 2
+  publication_date: '2024-12-05'
+  submission_date: '2024-12-10T11:20:44.051879'
+  url:
+  - https://zenodo.org/records/14281237
+  - https://doi.org/10.5281/zenodo.14281237
+- authors:
+  - Marin, Zach
+  description: Bead stack taken on lower path of a 4Pi without deformable mirror corrections.
+    DCIMG examples, not for other purposes.
+  license: cc-by-4.0
+  name: Aberrated Bead Stack
+  num_downloads: 3
+  publication_date: '2024-12-03'
+  submission_date: '2024-12-10T11:20:44.701729'
+  url:
+  - https://zenodo.org/records/14268554
+  - https://doi.org/10.5281/zenodo.14268554
