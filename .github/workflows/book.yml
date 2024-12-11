@@ -7,6 +7,10 @@ on:
     - master
     - main
 
+permissions:
+  contents: write
+  pull-requests: write
+
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
@@ -29,6 +33,43 @@ jobs:
     - name: Run data normalizer
       run: |
         python scripts/data_normalizer.py
+
+    # Check for changes and create a new branch if changes exist
+    - name: Commit changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        BRANCH_NAME=data-normalization-${{ github.run_id }}
+        git checkout -b $BRANCH_NAME
+        git add -A
+        if [[ `git status --porcelain` ]]; then
+          git commit -m "Normalize data for branch $BRANCH_NAME"
+          git push origin $BRANCH_NAME
+        else
+          echo "No changes to commit"
+          exit 0
+        fi
+  
+    # Verify the branch exists on remote
+    - name: Verify branch existence
+      run: |
+        git fetch --all
+        if git ls-remote --exit-code origin data-normalization-${{ github.run_id }}; then
+          echo "Branch exists on remote."
+        else
+          echo "Branch does not exist on remote. Exiting."
+          exit 1
+        fi
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: data-normalization-${{ github.run_id }}
+        base: ${{ github.ref }}
+        title: "Data Normalization"
+        body: "This pull request normalizes the data."
+        draft: false
 
     # Build the book
     - name: Generate link lists
