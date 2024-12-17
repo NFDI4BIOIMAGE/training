@@ -321,7 +321,11 @@ def read_zenodo(record):
     
     # Download the file
     response = requests.get(url)
-    data = response.json()
+    try:
+        data = response.json()
+    except json.JSONDecodeError:
+        data = {}
+
     return data
 
 
@@ -495,35 +499,3 @@ def complete_zenodo_data(zenodo_url):
     """
     zenodo_data = read_zenodo(zenodo_url)
     entry = {}
-    urls = [zenodo_url]
-
-    if 'doi_url' in zenodo_data.keys():
-        doi_url = zenodo_data['doi_url']
-
-        # Add DOI URL to the URLs list if it's not already there
-        if doi_url not in urls:
-            urls.append(doi_url)
-    entry['url'] = urls
-
-    if 'metadata' in zenodo_data.keys():
-        metadata = zenodo_data['metadata']
-        # Update entry with Zenodo metadata and statistics
-        entry['name'] = metadata['title']
-        if 'publication_date' in metadata.keys():
-            entry['publication_date'] = metadata['publication_date']
-        if 'description' in metadata.keys():
-            entry['description'] = remove_html_tags(metadata['description'])
-        if 'creators' in metadata.keys():
-            creators = metadata['creators']
-            entry['authors'] = [c['name'] for c in creators]
-        if 'license' in metadata.keys():
-            entry['license'] = metadata['license']['id']
-
-    if 'stats' in zenodo_data.keys():
-        entry['num_downloads'] = zenodo_data['stats']['downloads']
-
-    return entry
-
-
-if __name__ == "__main__":
-    main()

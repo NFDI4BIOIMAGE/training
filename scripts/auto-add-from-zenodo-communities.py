@@ -50,10 +50,13 @@ def main():
         response = requests.get('https://zenodo.org/api/records',
                                 params={'communities': community,
                                         'access_token': token})
-        online_data = response.json()
-        hits = online_data["hits"]["hits"]
-        urls = [u["links"]["self_html"] for u in hits]
-
+        try:
+            online_data = response.json()
+            hits = online_data["hits"]["hits"]
+            urls = [u["links"]["self_html"] for u in hits]
+        except requests.exceptions.JSONDecodeError:
+            print(f"Error decoding JSON for community: {community}")
+            continue
 
         # compare which new is not in old
 
@@ -98,7 +101,6 @@ def main():
 
     print("Done.", res)
     
-
 
 
 if __name__ == "__main__":
