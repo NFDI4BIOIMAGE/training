@@ -9114,6 +9114,8 @@ resources:
   tags: 
   - histopathology
   - bioimage analysis
-  type: GitHub Repository
+  type: 
+  - GitHub Repository
+  - notebook
   url: https://github.com/KatherLab/patho_prompt_injection
   
