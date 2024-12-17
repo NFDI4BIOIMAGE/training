@@ -113,25 +113,6 @@ Initially related to https://github.com/ome/bioformats/pull/4249
 
 ---
 
-## Human DAB staining Axioscan BF 20x
-
-Mario Garcia
-
-Published 2024-05-21
-
-Licensed CC-BY-4.0
-
-
-
-Human brain tissue with DAB immunostaining. Image acquired by BF microscopy in&nbsp; Zeiss Axioscan at 20x.&nbsp;
-
-[https://zenodo.org/records/11234863](https://zenodo.org/records/11234863)
-
-[https://doi.org/10.5281/zenodo.11234863](https://doi.org/10.5281/zenodo.11234863)
-
-
----
-
 ## LZ4-compressed Imaris ims example datasets.
 
 Marco Stucchi
@@ -206,6 +187,27 @@ Content:
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
 [https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
+
+
+---
+
+## patho_prompt_injection
+
+JanClusmann, Tim Lenz
+
+Published 2024-11-08T08:32:03+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Histopathology, Bioimage Analysis
+
+Content type: Github Repository, Notebook
+
+[https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github.com (115)
+# Github.com (116)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1929,6 +1929,27 @@ Content type: Github Repository, Application
 [https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
 
 [https://github.com/ome/ome-ngff-validator](https://github.com/ome/ome-ngff-validator)
+
+
+---
+
+## patho_prompt_injection
+
+JanClusmann, Tim Lenz
+
+Published 2024-11-08T08:32:03+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Histopathology, Bioimage Analysis
+
+Content type: Github Repository, Notebook
+
+[https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
 
 
 ---

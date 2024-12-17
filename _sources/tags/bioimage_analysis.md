@@ -1,4 +1,4 @@
-# Bioimage analysis (165)
+# Bioimage analysis (166)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2817,6 +2817,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## patho_prompt_injection
+
+JanClusmann, Tim Lenz
+
+Published 2024-11-08T08:32:03+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Histopathology, Bioimage Analysis
+
+Content type: Github Repository, Notebook
+
+[https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
 
 
 ---
