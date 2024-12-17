@@ -9111,7 +9111,9 @@ resources:
   name: patho_prompt_injection
   publication_date: '2024-11-08T08:32:03+00:00'
   submission_date: '2024-12-17T03:35:48.039490'
-  tags: TODO
+  tags: 
+  - histopathology
+  - bioimage analysis
   type: GitHub Repository
   url: https://github.com/KatherLab/patho_prompt_injection
   
