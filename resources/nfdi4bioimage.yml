@@ -9119,3 +9119,13 @@ resources:
   - notebook
   url: https://github.com/KatherLab/patho_prompt_injection
   
+- authors: Jack Atkinson
+  description: Teaching materials for improving research software writing abilities.
+  license: GNU General Public License v3.0
+  name: rse-skills-workshop
+  publication_date: '2023-12-22T17:39:48+00:00'
+  submission_date: '2024-12-18T12:33:59.429229'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/jatkinson1000/rse-skills-workshop
+  
