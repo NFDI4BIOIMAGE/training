@@ -1,4 +1,4 @@
-# Github repository (38)
+# Github repository (39)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -692,6 +692,27 @@ Tags: Open Source Software, Bioimage Data
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
+
+
+---
+
+## rse-skills-workshop
+
+Jack Atkinson
+
+Published 2023-12-22T17:39:48+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Teaching materials for improving research software writing abilities.
+
+Tags: Research Software Engineering
+
+Content type: Github Repository, Slides
+
+[https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 
 
 ---

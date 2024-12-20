@@ -1,4 +1,4 @@
-# Slides (40)
+# Slides (41)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -871,6 +871,27 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10939519](https://zenodo.org/doi/10.5281/zenodo.10939519)
+
+
+---
+
+## rse-skills-workshop
+
+Jack Atkinson
+
+Published 2023-12-22T17:39:48+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Teaching materials for improving research software writing abilities.
+
+Tags: Research Software Engineering
+
+Content type: Github Repository, Slides
+
+[https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 
 
 ---

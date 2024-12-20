@@ -153,44 +153,6 @@ Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge
 
 ---
 
-## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
-
-Sarah Weischer, Jens Wendt, Thomas Zobel
-
-Published 2022-07-12
-
-Licensed CC-BY-4.0
-
-
-
-Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
-
-Content:
-
-
-	Types of metadata
-	Data formats
-	Data Models Microscopy Data
-	Tools to edit/gather metadata
-	ISA Framework
-	FDO Framework
-	Ontology
-	RDF
-	JSON-LD
-	SPARQL
-	Knowledge Graph
-	Linked Data
-	Smart Data
-	...
-
-
-[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
-
-[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
-
-
----
-
 ## patho_prompt_injection
 
 JanClusmann, Tim Lenz
@@ -208,6 +170,27 @@ Tags: Histopathology, Bioimage Analysis
 Content type: Github Repository, Notebook
 
 [https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
+
+
+---
+
+## rse-skills-workshop
+
+Jack Atkinson
+
+Published 2023-12-22T17:39:48+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Teaching materials for improving research software writing abilities.
+
+Tags: Research Software Engineering
+
+Content type: Github Repository, Slides
+
+[https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 
 
 ---

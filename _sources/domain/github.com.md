@@ -1,4 +1,4 @@
-# Github.com (116)
+# Github.com (117)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1994,6 +1994,27 @@ Tags: Open Source Software, Bioimage Data
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/raw2ometiff](https://github.com/glencoesoftware/raw2ometiff)
+
+
+---
+
+## rse-skills-workshop
+
+Jack Atkinson
+
+Published 2023-12-22T17:39:48+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Teaching materials for improving research software writing abilities.
+
+Tags: Research Software Engineering
+
+Content type: Github Repository, Slides
+
+[https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 
 
 ---
