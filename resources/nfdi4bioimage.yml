@@ -9125,7 +9125,10 @@ resources:
   name: rse-skills-workshop
   publication_date: '2023-12-22T17:39:48+00:00'
   submission_date: '2024-12-18T12:33:59.429229'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - Research Software Engineering
+  type: 
+  - GitHub Repository
+  - Slides
   url: https://github.com/jatkinson1000/rse-skills-workshop
   
