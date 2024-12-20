@@ -9125,7 +9125,10 @@ resources:
   name: introduction-to-image-analysis
   publication_date: '2024-10-23T14:05:55+00:00'
   submission_date: '2024-12-18T12:21:50.116196'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - BioImage Analysis
+  type: 
+  - GitHub Repository
+  - notebooks
   url: https://github.com/RMS-DAIM/introduction-to-image-analysis
   
