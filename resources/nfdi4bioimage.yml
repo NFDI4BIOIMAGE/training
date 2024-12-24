@@ -9131,7 +9131,7 @@ resources:
   - GitHub Repository
   - Slides
   url: https://github.com/jatkinson1000/rse-skills-workshop
-  - authors:
+- authors:
   - Haase, Robert
   description: 'This slide deck introduces Large Language Models to an audience of
     life-scientists. We first dive into terminology: Different kinds of Language Models
