@@ -37,118 +37,195 @@ Bead stack taken on lower path of a 4Pi without deformable mirror corrections. D
 
 ---
 
-## Angebote der NFDI für die Forschung im Bereich Zoologie
+## LSM example J. Dubrulle
 
-Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Engel, Judith Sophie
+Salama Lab Fred Hutchinson Cancer Center
 
-Published 2024-12-04
-
-Licensed CC-BY-4.0
-
-
-
-In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
-
-[https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
-
-[https://doi.org/10.5281/zenodo.14278058](https://doi.org/10.5281/zenodo.14278058)
-
-
----
-
-## Astigmatic 4Pi bead stack
-
-Zach Marin, Maohan Su
-
-Published 2024-12-06
+Published 2024-12-17
 
 Licensed CC-BY-4.0
 
 
 
-Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction requirement.
+[https://zenodo.org/records/14510432](https://zenodo.org/records/14510432)
 
-[https://zenodo.org/records/14287640](https://zenodo.org/records/14287640)
-
-[https://doi.org/10.5281/zenodo.14287640](https://doi.org/10.5281/zenodo.14287640)
+[https://doi.org/10.5281/zenodo.14510432](https://doi.org/10.5281/zenodo.14510432)
 
 
 ---
 
-## Engineering a Software Environment for Research Data Management of Microscopy Image Data in a Core Facility
+## Large Language Models: An Introduction for Life Scientists
 
-Kunis
+Robert Haase
 
-Published 2022-05-30
-
-
-
-This thesis deals with concepts and solutions in the field of data management in everyday scientific life for image data from microscopy. The focus of the formulated requirements has so far been on published data, which represent only a small subset of the data generated in the scientific process. More and more, everyday research data are moving into the focus of the principles for the management of research data that were formulated early on (FAIR-principles). The adequate management of this mostly multimodal data is a real challenge in terms of its heterogeneity and scope. There is a lack of standardised and established workflows and also the software solutions available so far do not adequately reflect the special requirements of this area. However, the success of any data management process depends heavily on the degree of integration into the daily work routine. Data management must, as far as possible, fit seamlessly into this process. Microscopy data in the scientific process is embedded in pre-processing, which consists of preparatory laboratory work and the analytical evaluation of the microscopy data. In terms of volume, the image data often form the largest part of data generated within this entire research process. In this paper, we focus on concepts and techniques related to the handling and description of this image data and address the necessary basics. The aim is to improve the embedding of the existing data management solution for image data (OMERO) into the everyday scientific work. For this purpose, two independent software extensions for OMERO were implemented within the framework of this thesis: OpenLink and MDEmic. OpenLink simplifies the access to the data stored in the integrated repository in order to feed them into established workflows for further evaluations and enables not only the internal but also the external exchange of data without weakening the advantages of the data repository. The focus of the second implemented software solution, MDEmic, is on the capturing of relevant metadata for microscopy. Through the extended metadata collection, a corresponding linking of the multimodal data by means of a unique description and the corresponding semantic background is aimed at. The configurability of MDEmic is designed to address the currently very dynamic development of underlying concepts and formats. The main goal of MDEmic is to minimise the workload and to automate processes. This provides the scientist with a tool to handle this complex and extensive task of metadata acquisition for microscopic data in a simple way. With the help of the software, semantic and syntactic standardisation can take place without the scientist having to deal with the technical concepts. The generated metadata descriptions are automatically integrated into the image repository and, at the same time, can be transferred by the scientists into formats that are needed when publishing the data.
-
-[https://zenodo.org/records/6905931](https://zenodo.org/records/6905931)
-
-[https://doi.org/10.5281/zenodo.6905931](https://doi.org/10.5281/zenodo.6905931)
-
-
----
-
-## Example Imaris ims datasets.
-
-Marco Stucchi
-
-Published 2024-11-28
+Published 2024-12-12
 
 Licensed CC-BY-4.0
 
 
 
-The files contained in this repository are example Imaris ims images.
-&nbsp;
-Initially related to https://github.com/ome/bioformats/pull/4249
+This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
-[https://zenodo.org/records/14235726](https://zenodo.org/records/14235726)
+[https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
-[https://doi.org/10.5281/zenodo.14235726](https://doi.org/10.5281/zenodo.14235726)
+[https://doi.org/10.5281/zenodo.14418209](https://doi.org/10.5281/zenodo.14418209)
 
 
 ---
 
-## LZ4-compressed Imaris ims example datasets.
+## NFDI4BIOIMAGE data management illustrations by Henning Falk
 
-Marco Stucchi
+NFDI4BIOIMAGE Consortium
 
-Published 2024-11-21
+Published 2024-11-29
 
 Licensed CC-BY-4.0
 
 
 
-The files contained in this repository are cropped versions of Imaris demo images compressed with LZ4.
-
-[https://zenodo.org/records/14197622](https://zenodo.org/records/14197622)
-
-[https://doi.org/10.5281/zenodo.14197622](https://doi.org/10.5281/zenodo.14197622)
-
-
----
-
-## OME2024 NGFF Challenge Results
-
-Josh Moore
-
-Published 2024-11-01
-
-Licensed CC-BY-4.0
-
-
-
-Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
-Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+These illustrations were contracted by the Heinrich Heine University D&uuml;sseldorf in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.AttributionPlease include an attribution similar to: "Data annoation matters", NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by Henning Falk, Zenodo,&nbsp;https://doi.org/10.5281/zenodo.14186100, is used under a CC-BY 4.0 license. Modifications to this illustration include cropping.
 &nbsp;
 
-[https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
+[https://zenodo.org/records/14186101](https://zenodo.org/records/14186101)
 
-[https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
+[https://doi.org/10.5281/zenodo.14186101](https://doi.org/10.5281/zenodo.14186101)
+
+
+---
+
+## Terminology service for research data management and knowledge discovery in low-temperature plasma physics
+
+Becker, Markus M., Chaerony Siffa, Ihda, Roman Baum
+
+Published 2024-12-11
+
+Licensed CC-BY-4.0
+
+
+
+Abstract: 
+Terminology services (TS) [1,2] play a pivotal role in achieving structured metadata by providing controlled vocabularies and ontologies that standardize the description of data. This is a crucial aspect of research data management (RDM) in all scientific disciplines. In addition, TS facilitate the use of a common vocabulary within a scientific community also in a more general context, e.g. to annotate scientific papers, patents or other content for better discoverability, as envisaged by the Open Research Knowledge Graph (ORKG) [3] or the Patents4Science project [4].&nbsp;
+To make use of these opportunities, terminologies, ontologies and knowledge graphs must be developed and made available as TS where they do not yet exist. This step is currently being taken by the research community in low-temperature plasma (LTP) physics. LTP physics explores partially ionized gases and its technological applications. This vibrant field offers innovative solutions for societal challenges, ranging from developing efficient lighting and solar cells to revolutionizing healthcare through plasma medicine. Various activities and projects have been started in the past years to support the RDM in LTP research and development and to facilitate the application of data-driven research methods. These activities are supported in parts by the NFDI4BIOIMAGE consortium, active work in the NFDI section &ldquo;(Meta)data, Terminologies, Provenance&rdquo;, and the basic service Terminology Services 4 NFDI (TS4NFDI) funded by Base4NFDI.&nbsp;
+Recently, the ontology Plasma-O [5&ndash;7] for LTP physics has been developed at INP in collaboration with FIZ Karlsruhe &ndash; Leibniz Institute for Information Infrastructure, providing a framework for structuring metadata and building a knowledge graph for scientific information within the field. The present contribution will show how a TS utilizing this resource can support different aspects of RDM and knowledge discovery using concrete examples. The application cases include (i) standardizing data annotation: By providing researchers with a controlled vocabulary of LTP-specific terms and their relationships, ensuring consistent and unambiguous data descriptions; (ii) enabling semantic search: Moving beyond keyword-based searches, TS allow for complex queries based on the relationships between concepts, significantly improving data discoverability; (iii) facilitating data integration: By mapping data from different sources to a common ontology, TS enable seamless integration and analysis of heterogeneous datasets, which is crucial for data-driven research and development. The TS Suite of TS4NFDI with the provided widgets [8] fits perfectly to the requirements of these three application cases and will support the harmonization of metadata in LTP physics. The implementation of a public TS is required to provide the domain-specific metadata in a standardized format and will be instrumental in unlocking the full potential of the TS widgets for RDM and knowledge discovery by LTP researchers. Furthermore, the results can provide insights to other domains on how to apply TS to their specific needs.
+&nbsp;The work was supported in parts by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; [NFDI46/1] &ndash; 501864659 and project number 496963457 as well as by the Federal Ministry of Education and Research (BMBF), project number 16KOA013A.
+References:
+
+
+
+
+[1]
+
+
+S. Jupp, T. Burdett, C. Leroy, H. Parkinson, &ldquo;A new Ontology Lookup Service at EMBL-EBI&rdquo;, Workshop on Semantic Web Applications and Tools for Life Sciences (2015), https://ceur-ws.org/Vol-1546/paper_29.pdf (accessed: 2024-09-20).
+
+
+
+
+[2]
+
+
+P. L. Whetzel, N. F. Noy, N. H. Shah, P. R. Alexander, C. Nyulas, T. Tudorache, M. A. Musen, &ldquo;BioPortal: enhanced functionality via new Web services from the National Center for Biomedical Ontology to access and use ontologies in software applications&rdquo;, Nucleic Acids Res. 39 (2011) W541&ndash;W545, https://doi.org/10.1093/nar/gkr469. 
+
+
+
+
+[3]
+
+
+Open Research Knowledge Graph, https://orkg.org/ (accessed: 2024-09-20).
+
+
+
+
+[4]
+
+
+Patents4Science &ndash; Establishing an Information Infrastructure for the Use of Patent Knowledge in Science, https://www.patents4science.org/ (accessed: 2024-09-20).
+
+
+
+
+[5]
+
+
+H. Sack, F. Hoppe, &ldquo;Verbundprojekt: Qualit&auml;tssicherung und Vernetzung von Forschungsdaten in der Plasmatechnologie - QPTDat; Teilvorhaben: Wissensgraph und Ontologieentwicklung zur Vernetzung von Metadaten : Schlussbericht des Teilvorhabens&rdquo;, 2023, https://doi.org/10.2314/KXP:1883436974.
+
+
+
+
+[6]
+
+
+I. Chaerony Siffa, R. Wagner, L. Vilardell Scholten, M. M. Becker, &ldquo;Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO&rdquo;, 2024, preprint, https://doi.org/10.48550/arXiv.2409.11065.
+
+
+
+
+[7]
+
+
+I. Chaerony Siffa, R. Wagner, L. Vilardell Scholten, M. M. Becker, &ldquo;Plasma Ontology and Knowledge Graph Initial Release v0.5.0&rdquo;, 2024, Zenodo, https://doi.org/10.5281/zenodo.13325226. 
+
+
+
+
+[8]
+
+
+J. Sasse, V. Kneip, R. Baum, P. Zimmermann, J. Darms, J. Schneider, V. Clemens, P. Oladazimi, L. K&uuml;hnel, &ldquo;ts4nfdi/terminology-service-suite: v2.6.0&rdquo;, 2024, Zenodo, https://doi.org/10.5281/zenodo.13692297. 
+
+
+
+
+
+[https://zenodo.org/records/14381522](https://zenodo.org/records/14381522)
+
+[https://doi.org/10.5281/zenodo.14381522](https://doi.org/10.5281/zenodo.14381522)
+
+
+---
+
+## Working Group Charter. RDM Helpdesk Network
+
+Judith Engel, Patrick Helling, Robert Herrenbrück, Marina Lemaire, Hela Mehrtens, Marcus Schmidt, Martha Stellmacher, Lukas Weimer, Cord Wiljes, Wolf Zinke
+
+Published 2024-11-04
+
+Licensed CC-BY-4.0
+
+
+
+Support is an essential component of an efficient infrastructure for research data management (RDM). Helpdesks guide researchers through this complex landscape and provide reliable support about all questions regarding research data management, including support for technical services, best practices, requirements of funding organizations and legal topics. In NFDI, most consortia have already established or are planning to establish helpdesks to support their specific communities. On a local level, many institutions have set up RDM helpdesks that provide support for the researchers of their own institution. Additional RDM support services are offered by RDM federal state initiatives, by research data centers, by specialist libraries, by the EOSC, and by providers of RDM-relevant tools. Helpdesks cover a wide range of institutions, disciplines, topics, methodologies and target audiences. However, the individual helpdesks are not yet interconnected and therefore cannot complement one another in an efficient way: Given the wide and constantly increasing complexity of RDM, no single helpdesk can provide the expertise for all potential support requests. Therefore, we see great potential in combining the efforts and resources of the existing RDM helpdesks into an efficient and comprehensive national RDM support network in order to provide optimal and tailored RDM support to all researchers and research-related institutions in Germany and in an international context.
+
+[https://zenodo.org/records/14035822](https://zenodo.org/records/14035822)
+
+[https://doi.org/10.5281/zenodo.14035822](https://doi.org/10.5281/zenodo.14035822)
+
+
+---
+
+## [Workshop] Research Data Management for Microscopy and BioImage Analysis
+
+Christian Schmidt, Tom Boissonnet, Michele Bortolomeazzi, Ksenia Krooß
+
+Published 2024-09-30
+
+Licensed CC-BY-4.0
+
+
+
+Research Data Management for Microscopy and BioImage Analysis
+
+Introduction to BioImaging Research Data Management, NFDI4BIOIMAGE and I3D:bioChristian Schmidt /DKFZ Heidelberg
+OMERO as a tool for bioimaging data managementTom Boissonnet /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+Reproducible image analysis workflows with OMERO software APIsMichele Bortolomeazzi /DKFZ Heidelberg
+Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+
+Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
+
+[https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
+
+[https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
 
 
 ---

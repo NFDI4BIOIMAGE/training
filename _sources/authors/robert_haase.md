@@ -754,17 +754,17 @@ Content type: Slides
 
 Robert Haase
 
-Published 2024-08-27
+Published 2024-12-12
 
 Licensed CC-BY-4.0
 
 
 
-Large Language Models (LLMs) are changing the way how humans interact with computers. This has impact on all scientific fields by enabling new ways to achieve for example data analysis goals. In this talk we will go through an introduction to LLMs with respect to applications in the life sciences, focusing on bio-image analysis. We will see how to generate text and images using LLMs and how LLMs can extract information from reproducibly images through code-generation. We will go through selected prompt engineering techniques enabling scientists to tune the output of LLMs towards their scientific goal and how to do quality assurance in this context.
+This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
-[https://zenodo.org/records/13379394](https://zenodo.org/records/13379394)
+[https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
-[https://doi.org/10.5281/zenodo.13379394](https://doi.org/10.5281/zenodo.13379394)
+[https://doi.org/10.5281/zenodo.14418209](https://doi.org/10.5281/zenodo.14418209)
 
 
 ---

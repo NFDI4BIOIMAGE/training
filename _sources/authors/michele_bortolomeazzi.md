@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (8)
+# Michele bortolomeazzi (9)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -200,6 +200,32 @@ Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimagin
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
 [https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
+
+
+---
+
+## [Workshop] Research Data Management for Microscopy and BioImage Analysis
+
+Christian Schmidt, Tom Boissonnet, Michele Bortolomeazzi, Ksenia Krooß
+
+Published 2024-09-30
+
+Licensed CC-BY-4.0
+
+
+
+Research Data Management for Microscopy and BioImage Analysis
+
+Introduction to BioImaging Research Data Management, NFDI4BIOIMAGE and I3D:bioChristian Schmidt /DKFZ Heidelberg
+OMERO as a tool for bioimaging data managementTom Boissonnet /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+Reproducible image analysis workflows with OMERO software APIsMichele Bortolomeazzi /DKFZ Heidelberg
+Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+
+Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
+
+[https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
+
+[https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
 
 
 ---
