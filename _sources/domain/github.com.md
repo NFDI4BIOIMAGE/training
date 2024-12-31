@@ -1,4 +1,4 @@
-# Github.com (117)
+# Github.com (118)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1866,6 +1866,27 @@ Content type: Github Repository, Tutorial
 [https://github.com/vibbits/introduction-to-generative-ai](https://github.com/vibbits/introduction-to-generative-ai)
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/README.md)
+
+
+---
+
+## introduction-to-image-analysis
+
+Dave Barry, Stefania Marcotti, Martin Jones
+
+Published 2024-10-23T14:05:55+00:00
+
+Licensed CC-BY-SA-4.0
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebooks
+
+[https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
 
 
 ---

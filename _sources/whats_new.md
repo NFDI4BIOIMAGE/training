@@ -1,23 +1,4 @@
 # Recently added (10)
-## 10 frames of fluorescent particles
-
-Zach Marin, Maohan Su
-
-Published 2024-12-05
-
-Licensed CC-BY-4.0
-
-
-
-10 frames of fluorescent particles. They don't do much, but they are a DCIMG version 0x7 file example.
-
-[https://zenodo.org/records/14281237](https://zenodo.org/records/14281237)
-
-[https://doi.org/10.5281/zenodo.14281237](https://doi.org/10.5281/zenodo.14281237)
-
-
----
-
 ## Aberrated Bead Stack
 
 Zach Marin
@@ -226,6 +207,27 @@ Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hal
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
+## introduction-to-image-analysis
+
+Dave Barry, Stefania Marcotti, Martin Jones
+
+Published 2024-10-23T14:05:55+00:00
+
+Licensed CC-BY-SA-4.0
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebooks
+
+[https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
 
 
 ---

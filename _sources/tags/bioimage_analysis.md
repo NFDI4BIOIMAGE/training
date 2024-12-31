@@ -1,4 +1,4 @@
-# Bioimage analysis (166)
+# Bioimage analysis (167)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2817,6 +2817,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## introduction-to-image-analysis
+
+Dave Barry, Stefania Marcotti, Martin Jones
+
+Published 2024-10-23T14:05:55+00:00
+
+Licensed CC-BY-SA-4.0
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebooks
+
+[https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
 
 
 ---
