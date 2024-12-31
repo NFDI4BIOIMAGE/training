@@ -9119,6 +9119,19 @@ resources:
   - notebook
   url: https://github.com/KatherLab/patho_prompt_injection
   
+- authors: Dave Barry, Stefania Marcotti, Martin Jones
+  description: ''
+  license: Creative Commons Attribution Share Alike 4.0 International
+  name: introduction-to-image-analysis
+  publication_date: '2024-10-23T14:05:55+00:00'
+  submission_date: '2024-12-18T12:21:50.116196'
+  tags: 
+  - BioImage Analysis
+  type: 
+  - GitHub Repository
+  - notebooks
+  url: https://github.com/RMS-DAIM/introduction-to-image-analysis
+  
 - authors: Jack Atkinson
   description: Teaching materials for improving research software writing abilities.
   license: GNU General Public License v3.0
@@ -9326,3 +9339,4 @@ resources:
   url:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
+
