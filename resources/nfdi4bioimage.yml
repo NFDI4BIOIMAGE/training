@@ -9419,21 +9419,6 @@ resources:
   - Blog Post
   url: https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/
   
-- authors: Teresa Zulueta-Coarasa
-  license: cc-by-4.0
-  name: Submitting data to the BioImage Archive
-  description: Tutorial about how to submit data to the BioImage Archive
-  tags:
-  - BioImage Archive
-  - Image Data Management
-  - Bioimage Data
-  type:
-  - Tutorial
-  - Youtube Video
-  url: 
-  - https://www.ebi.ac.uk/bioimage-archive/submit/
-  - https://www.youtube.com/watch?v=ZZUslnHcoz0
-  
 - authors:
   - Leonid Kostrykin
   - Diana Chiang Jurado
