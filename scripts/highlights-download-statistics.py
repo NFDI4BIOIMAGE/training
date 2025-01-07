@@ -4,7 +4,7 @@ import os
 import pandas as pd
 from datetime import datetime
 import requests
-from pdf2image import convert_from_bytes
+import pypdfium2
 from io import BytesIO
 from PIL import Image
 
@@ -85,32 +85,29 @@ def download_first_pdf_file_from_zenodo(folder, record_id):
     
     # Get the first PDF file's download link and file name
     for file_info in data['files']:
-        if file_info['key'].endswith('pdf'):
+        if file_info['key'].endswith('.pdf'):
             file_url = file_info['links']['self']
-            file_name = file_info['key']
 
-            # Download the file content
+            # Download the file content into memory
             response = requests.get(file_url)
             response.raise_for_status()
             file_content = BytesIO(response.content)
 
-            # Check file extension and convert based on that
-            file_extension = os.path.splitext(file_name)[1].lower()
+            # Convert first page of PDF to PNG using pdfium
+            pdf = pypdfium2.PdfDocument(file_content)
+            page = pdf[0]
+            pil_image = page.render(
+                scale=2.0,  
+                rotation=0
+            ).to_pil()
+
+            # Save the image
             date = datetime.now().strftime("%Y%m%d")
-
-            os.makedirs(path_to_png, exist_ok=True)
-
-            if file_extension == '.pdf':
-                # Convert first page of PDF to PNG
-                pages = convert_from_bytes(file_content.getvalue())
-                img = pages[0]
-                img = resize_image(img, height=300)
-                img.save(path_to_png + f'{date}_first_page_{record_id}.png', 'PNG')
-                print("First page of PDF saved as PNG.")
-                break
-
-            else:
-                print(f"Unsupported file type: {file_extension}")
+            os.makedirs(folder, exist_ok=True)
+            png_path = os.path.join(folder, f'{date}_first_page_{record_id}.png')
+            pil_image.save(png_path, 'PNG')
+            print(f"First page of PDF saved as PNG at {png_path}.")
+            break
 
     return license_info
 
