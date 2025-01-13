@@ -31,5 +31,11 @@ html:
     </p>
 sphinx:
   config:
+    use_multitoc_numbering: false
     html_show_copyright: false
     html_last_updated_fmt: '%Y-%m-%d'
+    extensions:
+      - sphinx_sitemap
+      - sphinx_multitoc_numbering
+    sitemap_url_scheme: "{link}"
+    site_url: "https://nfdi4bioimage.github.io/training"
