@@ -9340,3 +9340,14 @@ resources:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
 
+
+- authors: "Joanna Pylv\xE4n\xE4inen"
+  description: "Training materials for V4SDB Student Winter School, 28th-31st January\
+    \ 2025 at ELTE E\xF6tv\xF6s Lor\xE1nd University in Budapest, Hungary"
+  name: V4SDB_Winter_School_2025
+  publication_date: '2025-01-13T08:29:22+00:00'
+  submission_date: '2025-01-13T16:19:01.176180'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/CellMigrationLab/V4SDB_Winter_School_2025
+  
