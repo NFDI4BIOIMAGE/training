@@ -9352,7 +9352,21 @@ resources:
   url:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
-  
+
+- authors: Haase, Robert
+  description: This slide deck introduces the version control tool git, related terminology
+    and the Github Desktop app for managing files in Git[hub] repositories. We furthermore
+    dive into:* Working with repositories* Collaborative with others* Github-Zenodo
+    integration* Github pages* Artificial Intelligence answering Github Issues
+  license: cc-by-4.0
+  name: Collaborative Working and Version Control with git[hub]
+  num_downloads: 194
+  publication_date: '2024-01-10'
+  submission_date: '2025-01-14T08:13:50.559032'
+  url:
+  - https://zenodo.org/records/14626054
+  - https://doi.org/10.5281/zenodo.14626054
+    
 - authors: Rafael Irizarry
   description: UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
   license: UNKNOWN
@@ -9477,3 +9491,4 @@ resources:
   type:
   - Youtube Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
+
