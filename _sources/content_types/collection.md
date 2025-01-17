@@ -1,4 +1,4 @@
-# Collection (79)
+# Collection (80)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -1134,6 +1134,25 @@ Tags: Bioimage Analysis, Microscopy Image Analysis
 Content type: Collection, Event, Forum Post, Workshop
 
 [https://forum.image.sc/t/upcoming-image-analysis-events/60018/67](https://forum.image.sc/t/upcoming-image-analysis-events/60018/67)
+
+
+---
+
+## V4SDB_Winter_School_2025
+
+Joanna Pylvänäinen
+
+Published 2025-01-13T08:29:22+00:00
+
+
+
+Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
+
+Tags: Cell Tracking, Bioimage Analysis
+
+Content type: Github Repository, Collection
+
+[https://github.com/CellMigrationLab/V4SDB_Winter_School_2025](https://github.com/CellMigrationLab/V4SDB_Winter_School_2025)
 
 
 ---

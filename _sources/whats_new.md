@@ -166,6 +166,25 @@ J. Sasse, V. Kneip, R. Baum, P. Zimmermann, J. Darms, J. Schneider, V. Clemens, 
 
 ---
 
+## V4SDB_Winter_School_2025
+
+Joanna Pylvänäinen
+
+Published 2025-01-13T08:29:22+00:00
+
+
+
+Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
+
+Tags: Cell Tracking, Bioimage Analysis
+
+Content type: Github Repository, Collection
+
+[https://github.com/CellMigrationLab/V4SDB_Winter_School_2025](https://github.com/CellMigrationLab/V4SDB_Winter_School_2025)
+
+
+---
+
 ## Working Group Charter. RDM Helpdesk Network
 
 Judith Engel, Patrick Helling, Robert Herrenbrück, Marina Lemaire, Hela Mehrtens, Marcus Schmidt, Martha Stellmacher, Lukas Weimer, Cord Wiljes, Wolf Zinke
@@ -228,27 +247,6 @@ Tags: Bioimage Analysis
 Content type: Github Repository, Notebooks
 
 [https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
-
-
----
-
-## patho_prompt_injection
-
-JanClusmann, Tim Lenz
-
-Published 2024-11-08T08:32:03+00:00
-
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
-
-
-
-
-
-Tags: Histopathology, Bioimage Analysis
-
-Content type: Github Repository, Notebook
-
-[https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
 
 
 ---

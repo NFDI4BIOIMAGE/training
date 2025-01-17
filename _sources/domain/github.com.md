@@ -1,4 +1,4 @@
-# Github.com (119)
+# Github.com (120)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1701,6 +1701,25 @@ Content type: Workshop, Github Repository, Tutorial
 [https://github.com/royerlab/ultrack-i2k2024](https://github.com/royerlab/ultrack-i2k2024)
 
 [https://royerlab.github.io/ultrack-i2k2024/](https://royerlab.github.io/ultrack-i2k2024/)
+
+
+---
+
+## V4SDB_Winter_School_2025
+
+Joanna Pylvänäinen
+
+Published 2025-01-13T08:29:22+00:00
+
+
+
+Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
+
+Tags: Cell Tracking, Bioimage Analysis
+
+Content type: Github Repository, Collection
+
+[https://github.com/CellMigrationLab/V4SDB_Winter_School_2025](https://github.com/CellMigrationLab/V4SDB_Winter_School_2025)
 
 
 ---
