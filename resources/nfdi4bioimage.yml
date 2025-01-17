@@ -9347,7 +9347,11 @@ resources:
   name: V4SDB_Winter_School_2025
   publication_date: '2025-01-13T08:29:22+00:00'
   submission_date: '2025-01-13T16:19:01.176180'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - Cell Tracking
+  - BioImage analysis
+  type: 
+  - GitHub Repository
+  - collection
   url: https://github.com/CellMigrationLab/V4SDB_Winter_School_2025
   
