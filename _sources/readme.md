@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 523 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2024-12-31.
+This Jupyter Book contains 523 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-01-17.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -17,11 +17,11 @@ We trace download statistics of some Microscopy / Research Data Management / Bio
 
 1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (41 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241231_first_page_12623730.png)
+![latest PNG](highlights/20250117_first_page_12623730.png)
 
 2. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (36 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-![latest PNG](highlights/20241231_first_page_11201216.png)
+![latest PNG](highlights/20250117_first_page_11201216.png)
 
 3. [CZI file examples](https://zenodo.org/records/8305531) by "Nicolas Chiaruttini" (20 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
