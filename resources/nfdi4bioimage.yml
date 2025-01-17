@@ -9049,6 +9049,19 @@ resources:
   url:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
+
+- authors: "Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot],\
+    \ JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet"
+  description: Project planning and material repository for the 2024 challenge to generate
+    1 PB of OME-Zarr data
+  license: BSD 3-Clause "New" or "Revised" License
+  name: ome2024-ngff-challenge
+  publication_date: '2024-08-30T12:00:53+00:00'
+  submission_date: '2024-12-04T07:10:23.182293'
+  tags: sharing
+  type: GitHub Repository
+  url: https://github.com/ome/ome2024-ngff-challenge
+  
 - authors:
   - "K\xF6nig-Ries, Birgitta"
   - Haase, Robert
@@ -9340,7 +9353,6 @@ resources:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
 
-
 - authors: Haase, Robert
   description: This slide deck introduces the version control tool git, related terminology
     and the Github Desktop app for managing files in Git[hub] repositories. We furthermore
@@ -9354,4 +9366,129 @@ resources:
   url:
   - https://zenodo.org/records/14626054
   - https://doi.org/10.5281/zenodo.14626054
+    
+- authors: Rafael Irizarry
+  description: UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
+  license: UNKNOWN
+  name: Biologists, stop putting UMAP plots in your papers
+  publication_date: '2024-12-23'
+  tags:
+  - Biology
+  - Data Analysis
+  - UMAP
+  type:
+  - Blog Post
+  url: https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/
   
+- authors: Joachim Goedhart
+  license: CC BY-NC-SA 4.0
+  name: DataViz protocols - An introduction to data visualization protocols for wet lab scientists
+  publication_date: '2024-12-10'
+  tags:
+  - Data Visualization
+  - R
+  type:
+  - Book
+  url:
+  - https://zenodo.org/records/7257808
+  - https://joachimgoedhart.github.io/DataViz-protocols/
+  
+- authors: Joachim Goedhart
+  description: The author discusses a number of color palettes that are suitable for coloring graphical elements in plots.
+  license: UNKNOWN
+  name: Data Visualization with Flying Colors
+  publication_date: '2019-08-29'
+  tags:
+  - Data Visualization
+  type:
+  - Blog Post
+  url: https://thenode.biologists.com/data-visualization-with-flying-colors/research/
+  
+- authors: 
+  - Riccardo Massei
+  - Björn Grüning
+  license: CC-BY-4.0
+  name: Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
+  publication_date: '2024-12-02'
+  tags:
+  - OMERO
+  - Galaxy
+  - Metadata
+  type:
+  - Tutorial
+  - Framework
+  - Workflow
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html
+  
+- authors: Iván Hidalgo-Cenalmor
+  license: UNKNOWN
+  name: DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
+  publication_date: '2024-07-29'
+  tags:
+  - Deep Learning
+  - Microscopy
+  - Microsycopy Image Analysis
+  - Bio Image Analysis
+  - Artifical Intelligence
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/
+  
+- authors: UNKNOWN
+  license: UNKNOWN
+  name: New report highlights the scientific impact of open source software
+  publication_date: UNKNOWN
+  tags:
+  - Open Source
+  - AlphaFold
+  type:
+  - Report
+  - Blog Post
+  url: https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/
+  
+- authors:
+  - Leonid Kostrykin
+  - Diana Chiang Jurado
+  license: cc-by-4.0
+  name: Tracking of mitochondria and capturing mitoflashes
+  publication_date: '2024-11-20'
+  tags:
+  - Bioinformatics
+  - Bioimage Analysis
+  type:
+  - Workflow
+  - Tutorial
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes
+  
+- authors: 
+  - Virginie Uhlmann
+  - Matthew Hartley
+  - Josh Moore
+  - Erin Weisbart
+  - Assaf Zaritsky
+  license: cc-by-4.0
+  name: Making the most of bioimaging data through interdisciplinary interactions
+  publication_date: '2024-10-23'
+  tags:
+  - Bioimage Analysis
+  - Open Science
+  - Microscopy Image Analysis
+  - Microscopy
+  type:
+  - Publication
+  url: https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through
+  
+- authors:
+  - Jakob Nikolas Kather 
+  - Faisal Mahmood 
+  - Florian Jug
+  description: How can artificial intelligence be used for digital pathology?
+  license: UNKNOWN
+  name: Artificial Intelligence for Digital Pathology 
+  publication_date: '2024-11-08'
+  tags:
+  - Artificial Intelligence
+  type:
+  - Youtube Video
+  url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
+
