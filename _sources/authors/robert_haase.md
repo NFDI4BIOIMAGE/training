@@ -1,4 +1,4 @@
-# Robert haase (55)
+# Robert haase (56)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -279,6 +279,25 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 [https://zenodo.org/records/13371196](https://zenodo.org/records/13371196)
 
 [https://doi.org/10.5281/zenodo.13371196](https://doi.org/10.5281/zenodo.13371196)
+
+
+---
+
+## Collaborative Working and Version Control with git[hub]
+
+Robert Haase
+
+Published 2024-01-10
+
+Licensed CC-BY-4.0
+
+
+
+This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
+
+[https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
+
+[https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
 
 
 ---

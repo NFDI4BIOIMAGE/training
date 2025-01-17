@@ -1,19 +1,19 @@
 # Recently added (10)
-## Aberrated Bead Stack
+## Collaborative Working and Version Control with git[hub]
 
-Zach Marin
+Robert Haase
 
-Published 2024-12-03
+Published 2024-01-10
 
 Licensed CC-BY-4.0
 
 
 
-Bead stack taken on lower path of a 4Pi without deformable mirror corrections. DCIMG examples, not for other purposes.
+This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
 
-[https://zenodo.org/records/14268554](https://zenodo.org/records/14268554)
+[https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
-[https://doi.org/10.5281/zenodo.14268554](https://doi.org/10.5281/zenodo.14268554)
+[https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
 
 
 ---
