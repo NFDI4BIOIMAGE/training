@@ -63,6 +63,8 @@ def write_file(repository, branch_name, file_path, new_content, commit_message="
     ----------
     repository : str
         The full name of the GitHub repository (e.g., "username/repo-name").
+    branch_name : str
+        The name of the branch where the file will be modified or created.
     file_path : str
         A file path within the repository to change the contents of.
     new_content : str
@@ -83,6 +85,8 @@ def write_file(repository, branch_name, file_path, new_content, commit_message="
     # Commit the changes
     if check_if_file_exists(repository, branch_name, file_path):
         file = get_file_in_repository(repository, branch_name, file_path)
+        print(file.path)
+        print(file_path)
         repo.update_file(file.path, commit_message, new_content, file.sha, branch=branch_name)
     else:
         repo.create_file(file_path, commit_message, new_content, branch=branch_name)

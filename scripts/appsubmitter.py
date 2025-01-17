@@ -14,11 +14,15 @@ def get_unique_values_from_yamls(resources_dir):
     """
     Get unique tags, types, and licenses from YAML files using pandas for data processing.
 
-    Args:
-        resources_dir (str): Directory containing YAML files.
+    Parameters
+    ----------
+    resources_dir : str
+        Directory containing YAML files.
 
-    Returns:
-        tuple: Sorted lists of unique tags, types, and licenses.
+    Returns
+    -------
+    tuple
+        Sorted lists of unique tags, types, and licenses.
     """
     # Use the imported load_dataframe function to get content in DataFrame format
     df = load_dataframe(resources_dir)
@@ -39,19 +43,31 @@ def create_pull_request(repo, yaml_file, authors, license, name, description, ta
     """
     Create a pull request to add a new entry to a YAML file on GitHub.
 
-    Args:
-        repo (Repository): Repository object.
-        yaml_file (str): YAML file to update.
-        authors (str): Authors of the new entry.
-        license (str): License of the new entry.
-        name (str): Name of the new entry.
-        description (str): Description of the new entry.
-        tags (list): Tags for the new entry.
-        type_ (str): Type of the new entry.
-        url (str): URL of the new entry.
+    Parameters
+    ----------
+    repo : Repository
+        Repository object.
+    yaml_file : str
+        YAML file to update.
+    authors : str
+        Authors of the new entry.
+    license : str
+        License of the new entry.
+    name : str
+        Name of the new entry.
+    description : str
+        Description of the new entry.
+    tags : list
+        Tags for the new entry.
+    type_ : str
+        Type of the new entry.
+    url : str
+        URL of the new entry.
 
-    Raises:
-        Exception: If the pull request creation fails.
+    Raises
+    ------
+    Exception
+        If the pull request creation fails.
     """
     try:
         file_path = f"resources/{yaml_file}"

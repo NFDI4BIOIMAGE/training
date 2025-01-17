@@ -20,9 +20,14 @@ normalization_mapping = {
     "CC0 licence (some accessions are available under different license, if so the license is indicated as attribute on dataset)": "CC0-1.0",
     "CC0": "CC0-1.0",
     "Bio-Image Analysis": "Bioimage Analysis",
+    "Omero": "OMERO",
+    "Fair-Principles": "FAIR-Principles",
+    "Meta Data": "Metadata",
+    "cc-by-4.0": "CC-BY-4.0",
     "Unclear": "Unknown"
     # Add more mappings as needed
 }
+
 
 def fetch_spdx_licenses():
     """
@@ -31,11 +36,15 @@ def fetch_spdx_licenses():
     This function retrieves license information in JSON format from the specified URL,
     processes it, and returns a dictionary with normalized keys for easy lookup.
 
-    Returns:
-        dict: A dictionary with license names as keys and their IDs as values.
+    Returns
+    -------
+    dict
+        A dictionary with license names as keys and their IDs as values.
 
-    Raises:
-        Exception: If the licenses cannot be fetched.
+    Raises
+    ------
+    Exception
+        If the licenses cannot be fetched.
     """
     response = requests.get(SPDX_LICENSE_LIST_URL)
     if response.status_code == 200:
@@ -50,12 +59,17 @@ def normalize_license(license_name, spdx_licenses):
     """
     Normalizes a license name and converts it to uppercase.
 
-    Args:
-        license_name (str): The name of the license to be normalized.
-        spdx_licenses (dict): A dictionary of available licenses.
+    Parameters
+    ----------
+    license_name : str
+        The name of the license to be normalized.
+    spdx_licenses : dict
+        A dictionary of available licenses.
 
-    Returns:
-        str: The normalized license name in uppercase.
+    Returns
+    -------
+    str
+        The normalized license name in uppercase.
     """
     # Apply the normalization mapping first
     license_name = normalization_mapping.get(license_name, license_name)
@@ -74,26 +88,34 @@ def normalize_field(field):
     """
     Normalizes a single field (authors, tags).
 
-    Args:
-        field (str or list): The field to be normalized.
+    Parameters
+    ----------
+    field : str or list
+        The field to be normalized.
 
-    Returns:
-        str or list: The normalized field.
+    Returns
+    -------
+    str or list
+        The normalized field.
     """
     if isinstance(field, list):
-        return [item.strip().title() for item in field]
+        return [normalization_mapping.get(item.strip().title(), item.strip().title()) for item in field]
     else:
-        return field.strip().title()
+        return normalization_mapping.get(field.strip().title(), field.strip().title())
 
 def normalize_type(type):
     """
     Specifically handles normalization of 'type' to ensure all outputs are lists.
 
-    Args:
-        type (str or list): The 'type' field to be normalized.
+    Parameters
+    ----------
+    type : str or list
+        The 'type' field to be normalized.
 
-    Returns:
-        list: The normalized 'type' field.
+    Returns
+    -------
+    list
+        The normalized 'type' field.
     """
     if isinstance(type, list):
         return [type_.strip().title() for type_ in type]
@@ -109,11 +131,15 @@ def create_mapping(items):
     normalized (lowercase and stripped) versions of the items, and the values are
     the original, stripped items.
 
-    Args:
-        items (list): The items to be mapped.
+    Parameters
+    ----------
+    items : list
+        The items to be mapped.
 
-    Returns:
-        dict: A dictionary containing the normalized items.
+    Returns
+    -------
+    dict
+        A dictionary containing the normalized items.
     """
     normalized_items = {}
     for item in items:
@@ -125,11 +151,15 @@ def normalize_author_name(name):
     """
     Normalizes an author name.
 
-    Args:
-        name (str): The author name to be normalized.
+    Parameters
+    ----------
+    name : str
+        The author name to be normalized.
 
-    Returns:
-        str: The normalized author name.
+    Returns
+    -------
+    str
+        The normalized author name.
     """
     parts = [part.strip() for part in name.split(',')]
     if len(parts) == 2:
@@ -144,13 +174,17 @@ def normalize_author_list(authors):
     and normalizes them into a consistent "Firstname Lastname" format. The input
     string can contain multiple authors separated by semicolons.
 
-    Args:
-        authors (str): The authors to be normalized. The authors can be in formats 
+    Parameters
+    ----------
+    authors : str
+        The authors to be normalized. The authors can be in formats 
         like "Lastname, Firstname", "Lastname, Firstname, Lastname, Firstname", 
         "Firstname Lastname", or combinations thereof.
 
-    Returns:
-        list: A list of normalized author names in the format "Firstname Lastname".
+    Returns
+    -------
+    list
+        A list of normalized author names in the format "Firstname Lastname".
     """
     normalized_authors = []
 
@@ -196,11 +230,15 @@ def normalize_description_date_time(description):
     """
     Normalizes a date/time string by removing unwanted Unicode characters and ensuring the format is correct.
 
-    Args:
-        description (str): The description containing the date/time.
+    Parameters
+    ----------
+    description : str
+        The description containing the date/time.
 
-    Returns:
-        str: The normalized date/time string.
+    Returns
+    -------
+    str
+        The normalized date/time string.
     """
     # Remove unwanted Unicode characters
     normalized_description = re.sub(r'\xE2\u20AC\xAF', '', description)
@@ -214,12 +252,17 @@ def normalize_data(data, spdx_licenses):
     """
     Normalizes the license names, authors, type, and tags in the data.
 
-    Args:
-        data (list): The data to be normalized.
-        spdx_licenses (dict): A dictionary containing the SPDX licenses.
+    Parameters
+    ----------
+    data : list
+        The data to be normalized.
+    spdx_licenses : dict
+        A dictionary containing the SPDX licenses.
 
-    Returns:
-        list: The normalized data.
+    Returns
+    -------
+    list
+        The normalized data.
     """
     all_authors = set()
     all_tags = set()
@@ -227,20 +270,20 @@ def normalize_data(data, spdx_licenses):
 
     # Collect all unique authors, tags, and types from the dataset
     for item in data:
-        if 'authors' in item:
+        if 'authors' in item and item['authors'] is not None:
             if isinstance(item['authors'], list):
                 for author in item['authors']:
                     all_authors.update([a.strip() for a in author.split(';')])
             else:
                 all_authors.update([a.strip() for a in item['authors'].split(';')])
 
-        if 'tags' in item:
+        if 'tags' in item and item['tags'] is not None:
             if isinstance(item['tags'], list):
                 all_tags.update(item['tags'])
             else:
                 all_tags.add(item['tags'])
 
-        if 'type' in item:
+        if 'type' in item and item['type'] is not None:
             if isinstance(item['type'], list):
                 all_type.update(item['type'])
             else:
@@ -251,31 +294,35 @@ def normalize_data(data, spdx_licenses):
 
     # Normalize each field in the dataset
     for item in data:
-        if 'license' in item:
+        if 'license' in item and item['license'] is not None:
             if isinstance(item['license'], list):
                 item['license'] = [normalize_license(license, spdx_licenses) for license in item['license']]
             else:
                 item['license'] = normalize_license(item['license'], spdx_licenses)
 
-        if 'authors' in item:
+        if 'authors' in item and item['authors'] is not None:
             if isinstance(item['authors'], list):
                 normalized_authors = []
                 for author in item['authors']:
-                    normalized_authors.extend(normalize_author_list(author))
+                    # Use author_mapping for consistency
+                    normalized_author = author_mapping.get(author.lower().strip(), author)
+                    normalized_authors.extend(normalize_author_list(normalized_author))
                 item['authors'] = normalized_authors
             else:
-                item['authors'] = normalize_author_list(item['authors'])
+                # Use author_mapping for single author
+                normalized_author = author_mapping.get(item['authors'].lower().strip(), item['authors'])
+                item['authors'] = normalize_author_list(normalized_author)
 
-        if 'tags' in item:
+        if 'tags' in item and item['tags'] is not None:
             if isinstance(item['tags'], list):
                 item['tags'] = [normalize_field(tag) for tag in item['tags']]
             else:
                 item['tags'] = normalize_field(item['tags'])
 
-        if 'type' in item:
+        if 'type' in item and item['type'] is not None:
             item['type'] = normalize_type(item['type'])
 
-        if 'description' in item:
+        if 'description' in item and item['description'] is not None:
             item['description'] = normalize_description_date_time(item['description'])
 
     return data
@@ -284,34 +331,44 @@ def read_data_from_file(file_path):
     """
     Reads data from a YAML file.
 
-    Args:
-        file_path (str): The path to the YAML file.
+    Parameters
+    ----------
+    file_path : str
+        The path to the YAML file.
 
-    Returns:
-        dict: The data read from the file.
+    Returns
+    -------
+    dict
+        The data read from the file.
     """
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:  
         return yaml.safe_load(file)
 
 def write_data_to_file(data, file_path):
     """
-    Writes data to a YAML file.
+    Writes data to a YAML file with improved readability for Unicode characters.
 
-    Args:
-        data (dict): The data to be written.
-        file_path (str): The path to the YAML file.
+    Parameters
+    ----------
+    data : dict
+        The data to be written.
+    file_path : str
+        The path to the YAML file.
     """
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    with open(file_path, 'w') as file:
-        yaml.dump(data, file, sort_keys=False)
+    with open(file_path, 'w', encoding='utf-8') as file:
+        yaml.dump(data, file, sort_keys=False, allow_unicode=True)
 
 def process_file(file_path, spdx_licenses):
     """
     Processes a single file, normalizes it, and overwrites it.
 
-    Args:
-        file_path (str): The path to the file.
-        spdx_licenses (dict): A dictionary containing license information used for normalization.
+    Parameters
+    ----------
+    file_path : str
+        The path to the file.
+    spdx_licenses : dict
+        A dictionary containing license information used for normalization.
     """
     data = read_data_from_file(file_path)
     resources_data = data.get('resources', [])

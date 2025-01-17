@@ -5,9 +5,22 @@
 import sys
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
-
+from datetime import datetime
 
 def main():
+    """
+    Main function to handle the process of retrieving Zenodo data and appending
+    it to a YAML file in a GitHub repository.
+
+    This function takes command-line arguments for the repository name and issue number,
+    retrieves the issue body, checks if it's a valid Zenodo link, retrieves corresponding
+    data, and appends it to a specified YAML file by creating a new branch and submitting
+    a pull request.
+
+    Returns
+    -------
+    None
+    """
     repository = sys.argv[1]
     issue = int(sys.argv[2])
     
@@ -43,6 +56,20 @@ def main():
     
 
 def complete_zenodo_data(zenodo_url):
+    """
+    Completes Zenodo data retrieval and structuring for inclusion in a YAML file.
+
+    Parameters
+    ----------
+    zenodo_url : str
+        The URL of the Zenodo record.
+
+    Returns
+    -------
+    entry : dict
+        A dictionary containing structured metadata and statistics
+        fetched from the Zenodo record.
+    """
     from generate_link_lists import read_zenodo, remove_html_tags
     zenodo_data = read_zenodo(zenodo_url)
     entry = {}
@@ -66,16 +93,17 @@ def complete_zenodo_data(zenodo_url):
             entry['description'] = remove_html_tags(metadata['description'])
         if 'creators' in metadata.keys():
             creators = metadata['creators']
-            entry['authors'] = ", ".join([c['name'] for c in creators])
+            entry['authors'] = [c['name'] for c in creators]
         if 'license' in metadata.keys():
             entry['license'] = metadata['license']['id']
     
     if 'stats'  in zenodo_data.keys():
         entry['num_downloads'] = zenodo_data['stats']['downloads']
+    
+    entry['submission_date'] = datetime.now().isoformat()
 
     return entry
 
 
 if __name__ == "__main__":
     main()
-

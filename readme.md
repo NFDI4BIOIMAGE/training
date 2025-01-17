@@ -28,6 +28,7 @@ jupyter-book build docs/
 
 Afterwards, there will be a `docs/_build/html/index.html` file which should look like this:
 
-![](docs/how_to_use.png)
+![](docs/how_to_use.png) 
 
+ 
  

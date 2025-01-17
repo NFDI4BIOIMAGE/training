@@ -35,3 +35,4 @@ for entry in content['resources']:
                     entry['url'].remove(url)
                     entry['url'].append(data['values'][1]['data']['value'])
                     print(entry['url'])
+

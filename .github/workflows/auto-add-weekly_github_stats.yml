@@ -1,26 +1,21 @@
-name: auto-add-zenodo-entries
+name: Run Weekly Summary Download Statistics
 
 on:
-  issues:
-    types: opened
+  schedule:
+    - cron: '0 11 * * 2'  # This runs the job every Tuesday at 11 AM
 
 jobs:
-  respond:
+  run-weekly-summary:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-
-    - name: Print issue number
-      run: |  
-        echo "Issue Number - ${{ github.event.issue.number }}"
-        echo "Repository Name - ${{ github.repository }}"
-
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: 3.x
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
@@ -32,4 +27,4 @@ jobs:
         GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
         GITHUB_RUN_ID: "${{ github.run_id }}"
       run: |
-        python scripts/auto-add-zenodo-entry.py ${{ github.repository }} ${{ github.event.issue.number }}
+        python scripts/auto-add-github-statistics.py nfdi4bioimage/training
