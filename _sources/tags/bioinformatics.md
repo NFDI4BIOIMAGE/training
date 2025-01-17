@@ -1,4 +1,4 @@
-# Bioinformatics (9)
+# Bioinformatics (10)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -31,6 +31,25 @@ Tags: Bioinformatics
 Content type: Collection
 
 [https://bio.tools/](https://bio.tools/)
+
+
+---
+
+## DL4Proteins-notebooks
+
+Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+
+Published 2024-09-04T12:24:24+00:00
+
+
+
+Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Collection
+
+[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
 
 
 ---

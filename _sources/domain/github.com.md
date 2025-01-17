@@ -1,4 +1,4 @@
-# Github.com (120)
+# Github.com (121)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -418,6 +418,25 @@ Licensed CC-BY-4.0
 Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
+
+
+---
+
+## DL4Proteins-notebooks
+
+Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+
+Published 2024-09-04T12:24:24+00:00
+
+
+
+Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Collection
+
+[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
 
 
 ---

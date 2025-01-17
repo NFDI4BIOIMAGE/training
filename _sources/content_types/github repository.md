@@ -1,4 +1,4 @@
-# Github repository (42)
+# Github repository (43)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -35,6 +35,25 @@ Tags: OMERO, Github
 Content type: Github Repository
 
 [https://github.com/NL-BioImaging/biomero](https://github.com/NL-BioImaging/biomero)
+
+
+---
+
+## DL4Proteins-notebooks
+
+Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+
+Published 2024-09-04T12:24:24+00:00
+
+
+
+Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Collection
+
+[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
 
 
 ---

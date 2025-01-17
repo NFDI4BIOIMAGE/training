@@ -1,4 +1,4 @@
-# Collection (80)
+# Collection (81)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -334,6 +334,25 @@ Licensed CC-BY-4.0
 Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
+
+
+---
+
+## DL4Proteins-notebooks
+
+Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+
+Published 2024-09-04T12:24:24+00:00
+
+
+
+Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Collection
+
+[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
 
 
 ---

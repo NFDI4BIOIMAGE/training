@@ -18,6 +18,25 @@ This slide deck introduces the version control tool git, related terminology and
 
 ---
 
+## DL4Proteins-notebooks
+
+Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+
+Published 2024-09-04T12:24:24+00:00
+
+
+
+Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
+
+Tags: Bioinformatics
+
+Content type: Github Repository, Collection
+
+[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
+
+
+---
+
 ## LSM example J. Dubrulle
 
 Salama Lab Fred Hutchinson Cancer Center
@@ -226,27 +245,6 @@ Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hal
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
-
-
----
-
-## introduction-to-image-analysis
-
-Dave Barry, Stefania Marcotti, Martin Jones
-
-Published 2024-10-23T14:05:55+00:00
-
-Licensed CC-BY-SA-4.0
-
-
-
-
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository, Notebooks
-
-[https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
 
 
 ---
