@@ -89,9 +89,12 @@ def download_first_pdf_file_from_zenodo(folder, record_id):
             file_url = file_info['links']['self']
 
             # Download the file content into memory
-            response = requests.get(file_url)
-            response.raise_for_status()
-            file_content = BytesIO(response.content)
+            try:
+                response = requests.get(file_url)
+                response.raise_for_status()
+                file_content = BytesIO(response.content)
+            except:
+                continue
 
             # Convert first page of PDF to PNG using pdfium
             pdf = pypdfium2.PdfDocument(file_content)
