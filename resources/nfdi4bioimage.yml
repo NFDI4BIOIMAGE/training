@@ -9520,3 +9520,17 @@ resources:
   - Youtube Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
 
+- authors: Shanmugasundaram
+  description: 
+  license: CC-BY-4.0
+  name: Introduction to Research Data Management and Open Research
+  publication_date: '2024-05-17'
+  tags:
+  - Research Data Management
+  - Open Science
+  type:
+  - Slides
+  url: https://zenodo.org/records/4778265 
+    
+
+
