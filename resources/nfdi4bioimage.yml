@@ -9353,6 +9353,20 @@ resources:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
 
+- authors: Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev,
+    Jeffrey Gray
+  description: Colab Notebooks covering deep learning tools for biomolecular structure
+    prediction and design
+  name: DL4Proteins-notebooks
+  publication_date: '2024-09-04T12:24:24+00:00'
+  submission_date: '2025-01-07T13:44:29.467482'
+  tags: 
+  - bioinformatics
+  type: 
+  - GitHub Repository
+  - collection
+  url: https://github.com/Graylab/DL4Proteins-notebooks
+  
 - authors: "Joanna Pylv\xE4n\xE4inen"
   description: "Training materials for V4SDB Student Winter School, 28th-31st January\
     \ 2025 at ELTE E\xF6tv\xF6s Lor\xE1nd University in Budapest, Hungary"
@@ -9505,3 +9519,4 @@ resources:
   type:
   - Youtube Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
+
