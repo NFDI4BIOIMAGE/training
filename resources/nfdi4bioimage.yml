@@ -9554,7 +9554,17 @@ resources:
   - GitHub Repository
   url: https://github.com/rmcelreath/stat_rethinking_2024
 
-  
+- authors: Andrew Althouse 
+  description: Reference Collection to understand how to deal with common statistical myths.
+  license: UNKNOWN
+  name: Reference Collection to push back against “Common Statistical Myths”
+  publication_date: '2023-06-29'
+  tags:
+  - Statistics
+  type:
+  - Wiki
+  url: https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787
+
   
 
 
