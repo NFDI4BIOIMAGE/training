@@ -1,4 +1,4 @@
-# Omero (30)
+# Omero (31)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -417,6 +417,25 @@ Tags: OMERO
 Content type: Collection, Video
 
 [https://www.youtube.com/OpenMicroscopyEnvironment](https://www.youtube.com/OpenMicroscopyEnvironment)
+
+
+---
+
+## Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
+
+Riccardo Massei, Björn Grüning
+
+Published 2024-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Tags: OMERO, Galaxy, Metadata
+
+Content type: Tutorial, Framework, Workflow
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html)
 
 
 ---

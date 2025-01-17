@@ -1,4 +1,4 @@
-# Book (18)
+# Book (19)
 ## 6 Steps Towards Reproducible Research
 
 Heidi Seibold
@@ -65,6 +65,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Book
 
 [https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
+
+
+---
+
+## DataViz protocols - An introduction to data visualization protocols for wet lab scientists
+
+Joachim Goedhart
+
+Published 2024-12-10
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+Tags: Data Visualization, R
+
+Content type: Book
+
+[https://zenodo.org/records/7257808](https://zenodo.org/records/7257808)
+
+[https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
 
 
 ---

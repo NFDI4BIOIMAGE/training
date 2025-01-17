@@ -1,4 +1,4 @@
-# Open science (7)
+# Open science (8)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -77,6 +77,25 @@ Tags: Open Science, Teaching, Sharing
 Content type: Collection, Tutorial, Videos
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
+
+
+---
+
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
 
 
 ---

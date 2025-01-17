@@ -1,4 +1,4 @@
-# Bioinformatics (8)
+# Bioinformatics (9)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -118,6 +118,25 @@ Tags: Metadata, Bioinformatics, FAIR-Principles, Training
 Content type: Publication
 
 [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
+
+---
+
+## Tracking of mitochondria and capturing mitoflashes
+
+Leonid Kostrykin, Diana Chiang Jurado
+
+Published 2024-11-20
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Workflow, Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes)
 
 
 ---

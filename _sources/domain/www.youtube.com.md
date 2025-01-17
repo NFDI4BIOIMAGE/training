@@ -1,4 +1,4 @@
-# Www.youtube.com (20)
+# Www.youtube.com (21)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -16,6 +16,27 @@ Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysi
 Content type: Youtube Video, Slides, Webinar
 
 [https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
+
+
+---
+
+## Artificial Intelligence for Digital Pathology
+
+Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
+
+Published 2024-11-08
+
+Licensed UNKNOWN
+
+
+
+How can artificial intelligence be used for digital pathology?
+
+Tags: Artificial Intelligence
+
+Content type: Youtube Video
+
+[https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
 
 ---

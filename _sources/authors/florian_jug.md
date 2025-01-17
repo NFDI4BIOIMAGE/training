@@ -1,4 +1,4 @@
-# Florian jug (5)
+# Florian jug (6)
 ## A study on long-term reproducibility of image analysis results on ImageJ and Fiji
 
 Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel Tomancak, Eugene W. Myers
@@ -10,6 +10,27 @@ Tags: Imagej
 Content type: Publication, Poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## Artificial Intelligence for Digital Pathology
+
+Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
+
+Published 2024-11-08
+
+Licensed UNKNOWN
+
+
+
+How can artificial intelligence be used for digital pathology?
+
+Tags: Artificial Intelligence
+
+Content type: Youtube Video
+
+[https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
 
 ---

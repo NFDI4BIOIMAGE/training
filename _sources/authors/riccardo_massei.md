@@ -1,4 +1,4 @@
-# Riccardo massei (11)
+# Riccardo massei (12)
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
 Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
@@ -144,6 +144,25 @@ Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
 Content type: Github Repository
 
 [https://github.com/rmassei/2024-jn-omero-pipeline](https://github.com/rmassei/2024-jn-omero-pipeline)
+
+
+---
+
+## Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
+
+Riccardo Massei, Björn Grüning
+
+Published 2024-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Tags: OMERO, Galaxy, Metadata
+
+Content type: Tutorial, Framework, Workflow
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html)
 
 
 ---

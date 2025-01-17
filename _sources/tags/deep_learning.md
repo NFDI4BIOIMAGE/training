@@ -1,4 +1,4 @@
-# Deep learning (11)
+# Deep learning (12)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -107,6 +107,25 @@ Tags: Bioimage Analysis, Deep Learning
 Content type: Collection, Data
 
 [https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html](https://www.ebi.ac.uk/bioimage-archive/galleries/AI.html)
+
+
+---
+
+## DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
+
+Iván Hidalgo-Cenalmor
+
+Published 2024-07-29
+
+Licensed UNKNOWN
+
+
+
+Tags: Deep Learning, Microscopy, Microsycopy Image Analysis, Bio Image Analysis, Artifical Intelligence
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/](https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/)
 
 
 ---

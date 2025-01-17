@@ -1,4 +1,4 @@
-# Josh moore (24)
+# Josh moore (25)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -29,6 +29,25 @@ Tags: Metadata
 Content type: Publication, Poster
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
+
+
+---
+
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
 
 
 ---

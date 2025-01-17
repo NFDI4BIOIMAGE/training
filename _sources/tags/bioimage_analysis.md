@@ -1,4 +1,4 @@
-# Bioimage analysis (167)
+# Bioimage analysis (169)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1680,6 +1680,25 @@ Content type: Slide
 
 ---
 
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
+
+
+---
+
 ## Meeting in the Middle: Towards Successful Multidisciplinary Bioimage Analysis Collaboration
 
 Anjalie Schlaeppi, Wilson Adams, Robert Haase, Jan Huisken, Ryan B. MacDonald, Kevin W. Eliceiri, Elisabeth C. Kugler
@@ -2482,6 +2501,25 @@ Tags: Python, Napari, Bioimage Analysis
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+
+
+---
+
+## Tracking of mitochondria and capturing mitoflashes
+
+Leonid Kostrykin, Diana Chiang Jurado
+
+Published 2024-11-20
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Workflow, Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes)
 
 
 ---

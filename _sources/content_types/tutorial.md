@@ -1,4 +1,4 @@
-# Tutorial (40)
+# Tutorial (42)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 Carolina Wählby, Maxime Bombrun, Christian Tischer
@@ -480,6 +480,25 @@ Content type: Github Repository, Tutorial, Workshop, Slides
 
 ---
 
+## Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
+
+Riccardo Massei, Björn Grüning
+
+Published 2024-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Tags: OMERO, Galaxy, Metadata
+
+Content type: Tutorial, Framework, Workflow
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html)
+
+
+---
+
 ## Prompt-Engineering-LLMs-Course
 
 Published 2024-09-11T07:45:30+00:00
@@ -623,6 +642,25 @@ Tags: Fiji, Bioimage Analysis
 Content type: Tutorial
 
 [https://github.com/CamachoDejay/Teaching-ImageJ-FIJI](https://github.com/CamachoDejay/Teaching-ImageJ-FIJI)
+
+
+---
+
+## Tracking of mitochondria and capturing mitoflashes
+
+Leonid Kostrykin, Diana Chiang Jurado
+
+Published 2024-11-20
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Workflow, Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes)
 
 
 ---

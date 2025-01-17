@@ -1,4 +1,4 @@
-# Zenodo.org (164)
+# Zenodo.org (165)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -802,6 +802,27 @@ A more detailed understanding of the effect of plasmas on biological systems can
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
+## DataViz protocols - An introduction to data visualization protocols for wet lab scientists
+
+Joachim Goedhart
+
+Published 2024-12-10
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+Tags: Data Visualization, R
+
+Content type: Book
+
+[https://zenodo.org/records/7257808](https://zenodo.org/records/7257808)
+
+[https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
 
 
 ---

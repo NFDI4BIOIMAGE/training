@@ -1,4 +1,4 @@
-# Artificial intelligence (29)
+# Artificial intelligence (30)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -33,6 +33,27 @@ Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
 Content type: Documentation
 
 [https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
+
+
+---
+
+## Artificial Intelligence for Digital Pathology
+
+Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
+
+Published 2024-11-08
+
+Licensed UNKNOWN
+
+
+
+How can artificial intelligence be used for digital pathology?
+
+Tags: Artificial Intelligence
+
+Content type: Youtube Video
+
+[https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
 
 ---

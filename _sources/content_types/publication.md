@@ -1,4 +1,4 @@
-# Publication (60)
+# Publication (61)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -486,6 +486,25 @@ Tags: Research Data Management, Metadata
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01288-z](https://www.nature.com/articles/s41592-021-01288-z)
+
+
+---
+
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
 
 
 ---

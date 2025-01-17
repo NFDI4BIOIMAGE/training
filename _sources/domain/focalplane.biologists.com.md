@@ -1,4 +1,4 @@
-# Focalplane.biologists.com (13)
+# Focalplane.biologists.com (14)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -50,6 +50,25 @@ Tags: Research Data Management, Large Language Models, Artificial Intelligence
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
+## DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
+
+Iván Hidalgo-Cenalmor
+
+Published 2024-07-29
+
+Licensed UNKNOWN
+
+
+
+Tags: Deep Learning, Microscopy, Microsycopy Image Analysis, Bio Image Analysis, Artifical Intelligence
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/](https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/)
 
 
 ---

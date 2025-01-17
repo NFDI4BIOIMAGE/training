@@ -1,4 +1,4 @@
-# Microscopy image analysis (14)
+# Microscopy image analysis (15)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -136,6 +136,25 @@ Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
 Content type: Slides
 
 [https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
+
+
+---
+
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
 
 
 ---

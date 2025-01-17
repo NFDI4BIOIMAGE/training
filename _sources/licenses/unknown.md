@@ -1,4 +1,4 @@
-# Unknown (82)
+# Unknown (87)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -65,6 +65,27 @@ Licensed UNKNOWN
 
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
+
+
+---
+
+## Artificial Intelligence for Digital Pathology
+
+Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
+
+Published 2024-11-08
+
+Licensed UNKNOWN
+
+
+
+How can artificial intelligence be used for digital pathology?
+
+Tags: Artificial Intelligence
+
+Content type: Youtube Video
+
+[https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
 
 ---
@@ -137,6 +158,27 @@ Tags: Bioimage Analysis, Artificial Intelligence
 Content type: Collection
 
 [https://bioimage.io/](https://bioimage.io/)
+
+
+---
+
+## Biologists, stop putting UMAP plots in your papers
+
+Rafael Irizarry
+
+Published 2024-12-23
+
+Licensed UNKNOWN
+
+
+
+UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
+
+Tags: Biology, Data Analysis, Umap
+
+Content type: Blog Post
+
+[https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/](https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/)
 
 
 ---
@@ -307,6 +349,25 @@ Content type: Notebook
 
 ---
 
+## DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
+
+Iván Hidalgo-Cenalmor
+
+Published 2024-07-29
+
+Licensed UNKNOWN
+
+
+
+Tags: Deep Learning, Microscopy, Microsycopy Image Analysis, Bio Image Analysis, Artifical Intelligence
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/](https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/)
+
+
+---
+
 ## DL@MBL 2021 Exercises
 
 Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
@@ -337,6 +398,27 @@ Tags: Python, Bioimage Analysis, Big Data
 Content type: Notebook
 
 [https://github.com/guiwitz/DaskCourse](https://github.com/guiwitz/DaskCourse)
+
+
+---
+
+## Data Visualization with Flying Colors
+
+Joachim Goedhart
+
+Published 2019-08-29
+
+Licensed UNKNOWN
+
+
+
+The author discusses a number of color palettes that are suitable for coloring graphical elements in plots.
+
+Tags: Data Visualization
+
+Content type: Blog Post
+
+[https://thenode.biologists.com/data-visualization-with-flying-colors/research/](https://thenode.biologists.com/data-visualization-with-flying-colors/research/)
 
 
 ---
@@ -1001,6 +1083,25 @@ Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 Content type: Slide, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
+
+
+---
+
+## New report highlights the scientific impact of open source software
+
+UNKNOWN
+
+Published UNKNOWN
+
+Licensed UNKNOWN
+
+
+
+Tags: Open Source, Alphafold
+
+Content type: Report, Blog Post
+
+[https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/](https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/)
 
 
 ---

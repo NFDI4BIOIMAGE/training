@@ -1,4 +1,4 @@
-# Cc-by-4.0 (240)
+# Cc-by-4.0 (243)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3248,6 +3248,25 @@ PythonCode.txt : code ran to transform output results from QuPath to final resul
 
 ---
 
+## Making the most of bioimaging data through interdisciplinary interactions
+
+Virginie Uhlmann, Matthew Hartley, Josh Moore, Erin Weisbart, Assaf Zaritsky
+
+Published 2024-10-23
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
+
+
+---
+
 ## Making your package available on conda-forge
 
 Kevin Yamauchi
@@ -3916,6 +3935,25 @@ In the field of radiooncological research, individualised therapy is one of the 
 [https://zenodo.org/records/7209862](https://zenodo.org/records/7209862)
 
 [https://doi.org/10.5281/zenodo.7209862](https://doi.org/10.5281/zenodo.7209862)
+
+
+---
+
+## Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
+
+Riccardo Massei, Björn Grüning
+
+Published 2024-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Tags: OMERO, Galaxy, Metadata
+
+Content type: Tutorial, Framework, Workflow
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html)
 
 
 ---
@@ -4899,6 +4937,25 @@ The integration of Large Language Models (LLMs) in scientific research presents 
 [https://zenodo.org/records/13928832](https://zenodo.org/records/13928832)
 
 [https://doi.org/10.5281/zenodo.13928832](https://doi.org/10.5281/zenodo.13928832)
+
+
+---
+
+## Tracking of mitochondria and capturing mitoflashes
+
+Leonid Kostrykin, Diana Chiang Jurado
+
+Published 2024-11-20
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Workflow, Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes)
 
 
 ---
