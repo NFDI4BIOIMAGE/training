@@ -321,7 +321,11 @@ def read_zenodo(record):
     
     # Download the file
     response = requests.get(url)
-    data = response.json()
+    try:
+        data = response.json()
+    except json.JSONDecodeError:
+        data = {}
+
     return data
 
 
