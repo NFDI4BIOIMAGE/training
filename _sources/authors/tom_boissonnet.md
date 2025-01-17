@@ -1,4 +1,4 @@
-# Tom boissonnet (12)
+# Tom boissonnet (13)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -360,6 +360,27 @@ Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hal
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
+## ome2024-ngff-challenge
+
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+
+Published 2024-08-30T12:00:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
+
+Tags: Sharing
+
+Content type: Github Repository
+
+[https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
 
 
 ---

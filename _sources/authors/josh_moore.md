@@ -1,4 +1,4 @@
-# Josh moore (23)
+# Josh moore (24)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -417,6 +417,27 @@ Content type: Github Repository, Application
 [https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
 
 [https://github.com/ome/ome-ngff-validator](https://github.com/ome/ome-ngff-validator)
+
+
+---
+
+## ome2024-ngff-challenge
+
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+
+Published 2024-08-30T12:00:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
+
+Tags: Sharing
+
+Content type: Github Repository
+
+[https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
 
 
 ---

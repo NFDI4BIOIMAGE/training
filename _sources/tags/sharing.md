@@ -1,4 +1,4 @@
-# Sharing (11)
+# Sharing (12)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -194,6 +194,27 @@ Tags: FAIR-Principles, Data Stewardship, Sharing
 Content type: Publication
 
 [https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
+
+
+---
+
+## ome2024-ngff-challenge
+
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+
+Published 2024-08-30T12:00:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
+
+Tags: Sharing
+
+Content type: Github Repository
+
+[https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
 
 
 ---

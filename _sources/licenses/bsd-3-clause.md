@@ -1,4 +1,4 @@
-# Bsd-3-clause (22)
+# Bsd-3-clause (23)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -397,6 +397,27 @@ Tags: Python
 Content type: Notebook
 
 [https://github.com/guiwitz/NumpyPandas_course](https://github.com/guiwitz/NumpyPandas_course)
+
+
+---
+
+## ome2024-ngff-challenge
+
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+
+Published 2024-08-30T12:00:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
+
+Tags: Sharing
+
+Content type: Github Repository
+
+[https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
 
 
 ---
