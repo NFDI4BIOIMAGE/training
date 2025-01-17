@@ -5,4 +5,4 @@ numpy
 pandas
 pygithub
 toolz
-pdf2image
+pypdfium2
