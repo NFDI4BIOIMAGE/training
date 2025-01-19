@@ -1,4 +1,4 @@
-# Unknown (87)
+# Unknown (89)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1263,6 +1263,27 @@ Content type: Publication
 
 ---
 
+## Reference Collection to push back against “Common Statistical Myths”
+
+Andrew Althouse
+
+Published 2023-06-29
+
+Licensed UNKNOWN
+
+
+
+Reference Collection to understand how to deal with common statistical myths.
+
+Tags: Statistics
+
+Content type: Wiki
+
+[https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
+
+
+---
+
 ## Reporting and reproducibility in microscopy
 
 Published 2021-12-03
@@ -1357,6 +1378,27 @@ Licensed UNKNOWN
 Content type: Tutorial
 
 [https://github.com/JaneliaSciComp/2020AprilGitCourse](https://github.com/JaneliaSciComp/2020AprilGitCourse)
+
+
+---
+
+## Statistical Rethinking
+
+Richard McElreath
+
+Published 2023-01-02
+
+Licensed UNKNOWN
+
+
+
+Video Lectures for Statistical Rethinking Course
+
+Tags: Statistics
+
+Content type: Youtube Video
+
+[https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 
 
 ---

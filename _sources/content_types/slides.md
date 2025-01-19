@@ -1,4 +1,4 @@
-# Slides (41)
+# Slides (42)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -464,6 +464,27 @@ Tags: Napari
 Content type: Slides
 
 [https://thejacksonlaboratory.github.io/intro-napari-slides/#/section](https://thejacksonlaboratory.github.io/intro-napari-slides/#/section)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
 
 ---

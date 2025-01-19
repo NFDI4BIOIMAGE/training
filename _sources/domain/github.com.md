@@ -1,4 +1,4 @@
-# Github.com (121)
+# Github.com (122)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1652,6 +1652,27 @@ Licensed UNKNOWN
 Content type: Tutorial
 
 [https://github.com/JaneliaSciComp/2020AprilGitCourse](https://github.com/JaneliaSciComp/2020AprilGitCourse)
+
+
+---
+
+## Statistical Rethinking
+
+Richard McElreath
+
+Published 2024-03-01
+
+Licensed CC0-1.0 LICENSE
+
+
+
+This course teaches data analysis, but it focuses on scientific models. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
+
+Tags: Statistics
+
+Content type: Github Repository
+
+[https://github.com/rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 
 
 ---

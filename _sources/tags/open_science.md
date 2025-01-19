@@ -1,4 +1,4 @@
-# Open science (8)
+# Open science (9)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -77,6 +77,27 @@ Tags: Open Science, Teaching, Sharing
 Content type: Collection, Tutorial, Videos
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
 
 ---

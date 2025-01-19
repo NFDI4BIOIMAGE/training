@@ -1,4 +1,4 @@
-# Research data management (109)
+# Research data management (110)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1045,6 +1045,27 @@ Tags: Licensing, Research Data Management
 Content type: Blog
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
 
 ---

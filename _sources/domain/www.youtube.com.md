@@ -1,4 +1,4 @@
-# Www.youtube.com (21)
+# Www.youtube.com (22)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -315,6 +315,27 @@ Content type: Collection, Video
 Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1](https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1)
+
+
+---
+
+## Statistical Rethinking
+
+Richard McElreath
+
+Published 2023-01-02
+
+Licensed UNKNOWN
+
+
+
+Video Lectures for Statistical Rethinking Course
+
+Tags: Statistics
+
+Content type: Youtube Video
+
+[https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 
 
 ---

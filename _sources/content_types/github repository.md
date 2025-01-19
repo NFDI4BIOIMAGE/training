@@ -1,4 +1,4 @@
-# Github repository (43)
+# Github repository (44)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -507,6 +507,27 @@ Tags: Bioimage Analysis, Simpleitk
 Content type: Github Repository
 
 [https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
+
+
+---
+
+## Statistical Rethinking
+
+Richard McElreath
+
+Published 2024-03-01
+
+Licensed CC0-1.0 LICENSE
+
+
+
+This course teaches data analysis, but it focuses on scientific models. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
+
+Tags: Statistics
+
+Content type: Github Repository
+
+[https://github.com/rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
 
 
 ---

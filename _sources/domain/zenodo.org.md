@@ -1,4 +1,4 @@
-# Zenodo.org (166)
+# Zenodo.org (167)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2319,6 +2319,27 @@ Source publications are listed by DOI.
 [https://zenodo.org/records/12166710](https://zenodo.org/records/12166710)
 
 [https://doi.org/10.5281/zenodo.12166710](https://doi.org/10.5281/zenodo.12166710)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
 
 ---

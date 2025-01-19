@@ -1,4 +1,4 @@
-# Cc-by-4.0 (244)
+# Cc-by-4.0 (245)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2890,6 +2890,27 @@ Tags: Python, Imagej, Bioimage Analysis
 Content type: Book, Notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
 
 ---
