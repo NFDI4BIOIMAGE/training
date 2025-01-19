@@ -9520,3 +9520,51 @@ resources:
   - Youtube Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
 
+- authors: Shanmugasundaram
+  description: Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+  license: CC-BY-4.0
+  name: Introduction to Research Data Management and Open Research
+  publication_date: '2024-05-17'
+  tags:
+  - Research Data Management
+  - Open Science
+  type:
+  - Slides
+  url: https://zenodo.org/records/4778265 
+
+- authors: Richard McElreath
+  description: Video Lectures for Statistical Rethinking Course 
+  license: UNKNOWN
+  name: Statistical Rethinking 
+  publication_date: '2023-01-02'
+  tags:
+  - Statistics
+  type:
+  - Youtube Video
+  url: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
+
+- authors: Richard McElreath
+  description: This course teaches data analysis, but it focuses on scientific models. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
+  license: CC0-1.0 license
+  name: Statistical Rethinking
+  publication_date: '2024-03-01'
+  tags:
+  - Statistics
+  type:
+  - GitHub Repository
+  url: https://github.com/rmcelreath/stat_rethinking_2024
+
+- authors: Andrew Althouse 
+  description: Reference Collection to understand how to deal with common statistical myths.
+  license: UNKNOWN
+  name: Reference Collection to push back against “Common Statistical Myths”
+  publication_date: '2023-06-29'
+  tags:
+  - Statistics
+  type:
+  - Wiki
+  url: https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787
+
+  
+
+
