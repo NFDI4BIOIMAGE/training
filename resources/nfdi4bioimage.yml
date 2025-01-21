@@ -9568,3 +9568,41 @@ resources:
   
 
 
+- authors:
+  - Moore, Josh
+  description: 'CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th
+    January 2025
+
+    https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: '[CMCB] Scalable strategies for a next-generation of FAIR bioimaging'
+  num_downloads: 94
+  publication_date: '2025-01-16'
+  submission_date: '2025-01-21T11:17:16.073209'
+  url:
+  - https://zenodo.org/records/14650434
+  - https://doi.org/10.5281/zenodo.14650434
+- authors:
+  - Vermaercke, Ben
+  description: Intravital workshop 15/11/2024
+  license: cc-by-4.0
+  name: Optimized cranial window implantation for subcellular and functional imaging
+    in vivo
+  num_downloads: 15
+  publication_date: '2025-01-13'
+  submission_date: '2025-01-21T11:17:32.899045'
+  url:
+  - https://zenodo.org/records/14641777
+  - https://doi.org/10.5281/zenodo.14641777
+- authors:
+  - West-Foyle, Hoku
+  license: cc-zero
+  name: Andor Dragonfly confocal image of BPAE cells stained for actin, IMS file format
+  num_downloads: 2
+  publication_date: '2025-01-16'
+  submission_date: '2025-01-21T11:18:12.580279'
+  url:
+  - https://zenodo.org/records/14675120
+  - https://doi.org/10.5281/zenodo.14675120
