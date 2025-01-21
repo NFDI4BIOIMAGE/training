@@ -9602,6 +9602,7 @@ resources:
     \ Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski,\
     \ RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt"
   description: Scanpy Tutorials.
+  license: bsd-3
   name: scanpy-tutorials
   publication_date: '2018-12-16T03:42:46+00:00'
   tags: 
