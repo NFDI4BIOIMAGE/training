@@ -3,6 +3,7 @@ import os
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
 from github import Github, GithubException  
+from datetime import datetime
 
 def main():
     """
@@ -93,7 +94,7 @@ def complete_github_data(github_repo_url):
         contributors = repo.get_contributors()
         if contributors.totalCount > 0:
             # Use the contributor's full name if available, otherwise use the username
-            entry['authors'] = ", ".join([contrib.name if contrib.name else contrib.login for contrib in contributors])
+            entry['authors'] = [contrib.name if contrib.name else contrib.login for contrib in contributors]
         else:
             entry['authors'] = ""
     except GithubException as e:
@@ -119,6 +120,8 @@ def complete_github_data(github_repo_url):
 
     # Publication date (first release date or creation date)
     entry['publication_date'] = get_publication_date(repo)
+
+    entry['submission_date'] = datetime.now().isoformat()
 
     # Tags: always add the message "Dear users, please add tags."
     entry['tags'] = "TODO"

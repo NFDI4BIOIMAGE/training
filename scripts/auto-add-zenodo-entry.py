@@ -5,7 +5,7 @@
 import sys
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
-
+from datetime import datetime
 
 def main():
     """
@@ -93,12 +93,14 @@ def complete_zenodo_data(zenodo_url):
             entry['description'] = remove_html_tags(metadata['description'])
         if 'creators' in metadata.keys():
             creators = metadata['creators']
-            entry['authors'] = ", ".join([c['name'] for c in creators])
+            entry['authors'] = [c['name'] for c in creators]
         if 'license' in metadata.keys():
             entry['license'] = metadata['license']['id']
     
     if 'stats'  in zenodo_data.keys():
         entry['num_downloads'] = zenodo_data['stats']['downloads']
+    
+    entry['submission_date'] = datetime.now().isoformat()
 
     return entry
 

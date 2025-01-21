@@ -70,7 +70,6 @@ def main():
     author_toc = ""
     for author in sorted(list(all_author_counts.keys())):
         count = all_author_counts[author] 
-        print("AAACC", author, count)
         if count >= MINIMUM_ITEM_COUNT:
             selected_content = find_author(content, author)
             filename = "authors/" + author.replace(" ", "_")
@@ -78,10 +77,10 @@ def main():
             author_toc += "    - file: " + filename + "\n"    
     replace_in_file(toc_file, "{author_toc}", author_toc)
 
-    # Generate the 'What's New' page with content sorted by publication date
+    # Generate the 'What's New' page with content sorted by added date
     sorted_content = sorted(
         content['resources'],
-        key=lambda x: str(x.get('publication_date', '0000-00-00')),
+        key=lambda x: str(x.get('submission_date', '0000-00-00')),
         reverse=True
     )[:10]
 
@@ -112,7 +111,7 @@ def all_content(directory_path):
     content = {'resources':[]}
     for filename in os.listdir(directory_path):
         if filename.endswith('.yml'):
-            print("Adding", filename)
+            #print("Adding", filename)
             new_content = read_yaml_file(os.path.join(directory_path, filename))  # Corrected line
             content['resources'] = content['resources'] + new_content['resources']
     return content
@@ -318,11 +317,15 @@ def read_zenodo(record):
     record = record.replace("record/", "records/")
     url = "https://zenodo.org/api/" + record
 
-    print(url)
+    #print(url)
     
     # Download the file
     response = requests.get(url)
-    data = response.json()
+    try:
+        data = response.json()
+    except json.JSONDecodeError:
+        data = {}
+
     return data
 
 
@@ -400,7 +403,7 @@ def find_anything(content, what_to_look_in, what_to_find):
 
                 list_to_look_at = [str(i).lower().strip() for i in list_to_look_at]
                 if what_to_find in list_to_look_at:
-                    print("* listing", c['name'])
+                    #print("* listing", c['name'])
                     result[c['name']] = c
             except:
                 raise Exception("Error parsing " + str(c))
@@ -422,7 +425,7 @@ def write_md(resources, title, filename):
         for name in sorted(list(resources.keys())):
             properties = resources[name]
             
-            print("* ", name)
+            #print("* ", name)
             file.write("## " + name + '\n')
             if 'authors' in properties:
                 authors = properties['authors']
@@ -477,6 +480,53 @@ def add_domains_to_dicts(dict_list):
         if 'url' in item:
             item['domain'] = get_domains(item['url'])
     return dict_list
+
+
+def complete_zenodo_data(zenodo_url):
+    """
+    Completes Zenodo data retrieval and structuring for inclusion in a YAML file.
+
+    Parameters
+    ----------
+    zenodo_url : str
+        The URL of the Zenodo record.
+
+    Returns
+    -------
+    entry : dict
+        A dictionary containing structured metadata and statistics
+        fetched from the Zenodo record.
+    """
+    zenodo_data = read_zenodo(zenodo_url)
+    entry = {}
+    urls = [zenodo_url]
+
+    if 'doi_url' in zenodo_data.keys():
+        doi_url = zenodo_data['doi_url']
+
+        # Add DOI URL to the URLs list if it's not already there
+        if doi_url not in urls:
+            urls.append(doi_url)
+    entry['url'] = urls
+
+    if 'metadata' in zenodo_data.keys():
+        metadata = zenodo_data['metadata']
+        # Update entry with Zenodo metadata and statistics
+        entry['name'] = metadata['title']
+        if 'publication_date' in metadata.keys():
+            entry['publication_date'] = metadata['publication_date']
+        if 'description' in metadata.keys():
+            entry['description'] = remove_html_tags(metadata['description'])
+        if 'creators' in metadata.keys():
+            creators = metadata['creators']
+            entry['authors'] = [c['name'] for c in creators]
+        if 'license' in metadata.keys():
+            entry['license'] = metadata['license']['id']
+
+    if 'stats' in zenodo_data.keys():
+        entry['num_downloads'] = zenodo_data['stats']['downloads']
+
+    return entry
 
 
 if __name__ == "__main__":
