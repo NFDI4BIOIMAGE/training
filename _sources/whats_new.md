@@ -73,6 +73,25 @@ This slide deck introduces Large Language Models to an audience of life-scientis
 
 ---
 
+## Modular training resources for bioimage analysis
+
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+
+Published 2024-12-03
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
+
+[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
+
+
+---
+
 ## NFDI4BIOIMAGE data management illustrations by Henning Falk
 
 NFDI4BIOIMAGE Consortium
@@ -245,27 +264,6 @@ Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hal
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
-
-
----
-
-## rse-skills-workshop
-
-Jack Atkinson
-
-Published 2023-12-22T17:39:48+00:00
-
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
-
-
-
-Teaching materials for improving research software writing abilities.
-
-Tags: Research Software Engineering
-
-Content type: Github Repository, Slides
-
-[https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 
 
 ---

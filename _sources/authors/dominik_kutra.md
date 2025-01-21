@@ -1,4 +1,4 @@
-# Dominik kutra (5)
+# Dominik kutra (6)
 ## Image Processing with Python
 
 Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
@@ -33,6 +33,25 @@ Tags: Microscopy Image Analysis, Python, Deep Learning
 Content type: Video, Slides
 
 [https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
+## Modular training resources for bioimage analysis
+
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+
+Published 2024-12-03
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
+
+[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
 
 
 ---
