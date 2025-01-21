@@ -9568,3 +9568,33 @@ resources:
   
 
 
+
+- authors:
+  - Tischer, Christian
+  - Politi, Antonio
+  - Buchholz, Tim-Oliver
+  - Fazeli, Elnaz
+  - Gritti, Nicola
+  - Halavatyi, Aliaksandr
+  - Gonzalez Tirado, Sebastian
+  - Hennies, Julian
+  - Hodges, Toby
+  - Khan, Arif
+  - Kutra, Dominik
+  - Marcotti, Stefania
+  - Oezdemir, Bugra
+  - Schneider, Felix
+  - Schorb, Martin
+  - Stokkermans, Anniek
+  - Sun, Yi
+  - Vakili, Nima
+  description: Resources for teaching/preparing to teach bioimage analysis
+  license: cc-by-4.0
+  name: Modular training resources for bioimage analysis
+  num_downloads: 1
+  publication_date: '2024-12-03'
+  submission_date: '2025-01-21T10:24:25.466809'
+  url:
+  - https://zenodo.org/records/14264885
+  - https://doi.org/10.5281/zenodo.14264885
+   
