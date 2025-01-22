@@ -1,4 +1,4 @@
-# Github repository (44)
+# Github repository (45)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -814,6 +814,27 @@ Tags: Research Software Engineering
 Content type: Github Repository, Slides
 
 [https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
+
+
+---
+
+## scanpy-tutorials
+
+Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, Gökçen Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
+
+Published 2018-12-16T03:42:46+00:00
+
+Licensed BSD-3
+
+
+
+Scanpy Tutorials.
+
+Tags: Single-Cell Analysis, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/scverse/scanpy-tutorials](https://github.com/scverse/scanpy-tutorials)
 
 
 ---
