@@ -1,0 +1,29 @@
+name: Run Notebook on YML Change to export DALIA .csv
+
+on:
+  push:
+    paths:
+      - './resources/' 
+
+jobs:
+  execute-notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install nbconvert
+        pip install -r requirements.txt
+
+    - name: Execute the Jupyter notebook
+      run: |
+        jupyter nbconvert --to notebook --execute ./scripts/Export_to_DALIA.ipynb
