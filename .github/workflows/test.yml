@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        pip install nbconvert
+        pip install nbconvert transformers
         sudo apt-get install -y poppler-utils
 
     # Run data normalizer
