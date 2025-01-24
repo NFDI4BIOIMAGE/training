@@ -25,6 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        pip install nbconvert
         sudo apt-get install -y poppler-utils
 
     # Run data normalizer
@@ -45,5 +46,8 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build ./docs/
+    - name: Execute the Notebook to export CSV in DALIA format
+      run: |
+        jupyter nbconvert --to notebook --execute scripts/Export_to_DALIA.ipynb
         
 
