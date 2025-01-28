@@ -1,0 +1,157 @@
+Extracted Newsletter Links
+=========================
+
+Newsletter: 2023-12-20_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://www.elmi2024.org/ (new)
+- https://www.ebi.ac.uk/training/events/microscopy-data-analysis-machine-learningand-bioimage-archive/ (new)
+- https://www.focusonmicroscopy.org/ (new)
+- https://zenodo.org/communities/nfdi4biodiv?q=&l=list&p=1&s=10&sort=newest (new)
+- https://doi.org/10.52825/cordi.v1i.417 (new)
+- https://doi.org/10.5281/zenodo.10008465 (new)
+- https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC (new)
+- https://nfdi.social/@nfdi4bioimage (new)
+- https://doi.org/10.5281/zenodo.8349563 (new)
+- https://doi.org/10.5281/zenodo.8323588 (new)
+- https://doi.org/10.1101/2023.05.19.541329 (new)
+- https://www.embl.org/jobs/position/BIOHUB00006 (new)
+- https://developmental.cellatlas.io/webatlas (new)
+- https://gerbi-gmb.de/event/gerbi-annual-community-meeting2024/ (new)
+- https://doi.org/10.1038/d41586-023-03064-9 (new)
+- https://doi.org/10.52825/cordi.v1i.285 (new)
+- https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU (new)
+- https://www.ebi.ac.uk/bioimage-archive/galleries/galleries.html (new)
+
+Newsletter: 2022-11-04_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://www.nfdi4bioimage.de (new)
+- https://www.gwkbonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2022-13.pdf (new)
+
+Newsletter: 2023-09-08_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2 (new)
+- https://nfdi4bioimage.de (new)
+- https://globalbioimaging.org/exchange-ofexperience/exchange-of-experience-viii (new)
+- https://www.nfdi.de/cordi-2023/ (new)
+- https://twitter.com/nfdi4bioimage (new)
+- https://wwu.zoomx.de/j/68148607065?pwd=c1dyeUh0aWR5TjhCdStHcFZxK3VKdz09 (new)
+- https://hackmd.io/@sukunis/rJeaXrvCn (new)
+- https://doi.org/10.5281/zenodo.8070038 (new)
+- https://nfdi4plants.de), (new)
+
+Newsletter: 20241219_NFDI4BIOIMAGE_Newsletter_-_December_19th_2024.pdf
+--------------------
+- https://gerbi-gmb.de/event/tim2025/) (new)
+- https://nfdi4bioimage.de/community-integration/newsletter/ (new)
+- https://doi.org/10.5281/zenodo.14013025 (new)
+- https://github.com/ome/ome2024-ngff-challenge (new)
+- https://doi.org/10.5281/zenodo.14186101 (new)
+- https://www.nfdi.de/workshop-metadata-2025/ (new)
+- https://doi.org/10.1242/jcs.262139 (new)
+- https://www.nfdi.de/cordi-2025/ (new)
+- https://nfdi4bioimage.de/help-desk/ (new)
+- https://doi.org/10.1242/jcs.262322 (new)
+- https://e-science-tage.de/ (new)
+- https://open-sciencecloud.ec.europa.eu/ (new)
+- https://doi.org/10.1111/jmi.13360 (new)
+
+Newsletter: 2022-06-28_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://www.nfdi4bioimage.de (new)
+
+Newsletter: 20240301_NFDI4BIOIMAGE_Anniversary_Newsletter_-_March_1st_2024.pdf
+--------------------
+- https://www.clinkage.co.jp/iupab2024-bsj-kyoto/cfa.html (new)
+- https://gerbi-gmb.de/event/gerbi-annual-communitymeeting-2024/ (new)
+- https://unileipzig.talentstorm.de/stellenangebote/research-software-engineer-m-f-w-at-scads-ai16758 (new)
+- https://www.evolbio.mpg.de/1639156/Job_Offers. (new)
+- https://doi.org/10.1007/s00204-023-03633-x (new)
+- https://nfdi4bioimage.de (new)
+- https://www.focusonmicroscopy.org/ (new)
+- https://nfdi4bioimage.de/help-desk/ (new)
+- https://doi.org/10.5281/zenodo.10617006), (new)
+- https://nfdi4bioimage.de/resources-and-services/wall-calendar/ (new)
+- https://bsky.app/profile/nfdi4bioimage.bsky.social) (new)
+- https://nfdi4bioimage.de/home/social-media/ (new)
+- https://nfdi4plants.org/content/events/2024-04-08_boppard-arc-symposium.html (new)
+- https://www.elmi2024.org/ (new)
+- https://nfdi.social/@nfdi4bioimage). (new)
+- https://fairdo.org/fdof-summit-2024/ (new)
+- https://helmholtzimaging.de/news/helmholtz-imaging-conference-2024/ (new)
+- https://www.plasma-mds.org/ws-fair-data-plasma-science-3.html (new)
+- https://saxfdm.de/veranstaltungen/digital-kitchen-nfdi4bioimage-scads-ai/ (new)
+- https://doi.org/10.48550/arXiv.2401.13023 (new)
+- https://doi.org/10.48550/arXiv.2401.13022 (new)
+- https://doi.org/10.1063/5.0182672 (new)
+
+Newsletter: 20240910_NFDI4BIOIMAGE_Newsletter_-_September_10th_2024.pdf
+--------------------
+- https://converia.unimainz.de/frontend/index.php?page_id=4538 (new)
+- https://zenodo.org/records/13371196 (new)
+- https://events.gwdg.de/event/886/overview (new)
+- https://gbm-compact.org/gbmcompact-2.html (new)
+- https://scads.ai/event/leipzigresearch-data-forum/ (new)
+- https://asb-conference.hkijena.de/ (new)
+- https://base4nfdi.de/?view=article&id=100:services-roadshow-by-base4nfdi- (new)
+- https://zenodo.org/records/13374649 (new)
+- https://zenodo.org/records/13331351 (new)
+- https://zenodo.org/records/13506641 (new)
+- https://www.globias.org/activities/bia-seminarseries. (new)
+- https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix (new)
+- https://github.com/ScaDS/BIDS-lecture-2024 (new)
+- https://www.denbi.de/de-nbi-events/1678-biohackathon-germany-3 (new)
+- https://nfdi4bioimage.de/community-integration/newsletter/ (new)
+- https://www.i2kconference.org/ (new)
+- https://eosc.eu/symposium2024/#registration (new)
+- https://zenodo.org/records/12623730 (new)
+- https://events.gwdg.de/event/658/ (new)
+- https://doi.org/10.5281/zenodo.11235513 (new)
+- https://zenodo.org/doi/10.5281/zenodo.13168692 (new)
+- https://forum.image.sc/t/ome2024-ngffchallenge/97363) (new)
+- https://doi.org/10.5220/0012808000003756 (new)
+- https://www.ema.uzh.ch/de/register/ome-ngff-workflows-hackathon2024.html (new)
+
+Newsletter: 2023-06-06_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://doi.org/10.1101/2023.05.05.539647 (new)
+- https://eu02web.zoom.us/meeting/register/u5EpcuiqrTsqGdIGNQboo5rSYleyX3YtF4 (new)
+- https://www.nfdi.de/cordi-2023/ (new)
+- https://doi.org/10.1101/2023.05.19.541329 (new)
+- https://nfdi4bioimage.de/en/get-involved/ (new)
+- https://gerbi-gmb.de/news/ (new)
+
+Newsletter: 2023-03-13_NFDI4BIOIMAGE_Newsletter.pdf
+--------------------
+- https://forum.image.sc/t/community-call-metadata-in-omengff/77570 (new)
+- https://cvmi-workshop.github.io/ (new)
+- https://ncloud.lin-magdeburg.de/s/bHo6H7pKiHgwcmL (new)
+- https://eubias.org/NEUBIAS/neubias2020-conference/portugal-2023/ (new)
+- https://www.nfdi4bioimage.de (new)
+- https://www.nfdi.de/termine/ (new)
+- https://www.plasma-mds.org/ws-fair-data-plasma-science-2.html (new)
+- https://www.nfdi.de/jobs/ (new)
+- https://indico3.mpimagdeburg.mpg.de/event/31/ (new)
+- https://www.eurobioimaging.eu/upload/EuroBioImaging_FAIR_Workshop_Program.pdf (new)
+- https://gerbi-gmb.de/news/ (new)
+
+Newsletter: 20240617_NFDI4BIOIMAGE_Newsletter_-_June_17th_2024.pdf
+--------------------
+- https://doi.org/10.5281/zenodo.11350689 (new)
+- https://doi.org/10.1038/s41592-024-02212-x (new)
+- https://nfdi4bioimage.de/help-desk. (new)
+- https://f6-ge.ijs.si/icpm10/ (new)
+- https://gerbi-gmb.de/event/tim2025/ (new)
+- https://bsky.app/profile/somssich.bsky.social/post/3kthievllzt27 (new)
+- https://www.youtube.com/@EuroBioImagingCommunication/videos (new)
+- https://nfdi4bioimage.de/about-us/datastewardship-team/ (new)
+- https://indico.dkfz.de/e/omero-it-workshop (new)
+- https://gbm-compact.org/gbm-compact-2.html (new)
+- https://eosc.eu/symposium2024/ (new)
+- https://asb-conference.hkijena.de/ (new)
+- https://doi.org/10.5281/zenodo.11109616 (new)
+- https://doi.org/10.1111/jmi.13317 (new)
+- https://www.c-linkage.co.jp/iupab2024- (new)
+- https://www.rhein-mainuniversitaeten.de/news/open-science-festival-2024 (new)
+- https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU (new)
+- https://globalbioimaging.org/exchange-ofexperience/exchange-of-experience-ix (new)
+
