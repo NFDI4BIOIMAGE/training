@@ -1,4 +1,4 @@
-# Cc-by-4.0 (246)
+# Cc-by-4.0 (249)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3997,6 +3997,25 @@ In the field of radiooncological research, individualised therapy is one of the 
 
 ---
 
+## Optimized cranial window implantation for subcellular and functional imaging in vivo
+
+Ben Vermaercke
+
+Published 2025-01-13
+
+Licensed CC-BY-4.0
+
+
+
+Intravital workshop 15/11/2024
+
+[https://zenodo.org/records/14641777](https://zenodo.org/records/14641777)
+
+[https://doi.org/10.5281/zenodo.14641777](https://doi.org/10.5281/zenodo.14641777)
+
+
+---
+
 ## Overview of the Galaxy OMERO-suite - Upload images and metadata in OMERO using Galaxy
 
 Riccardo Massei, Björn Grüning
@@ -5235,6 +5254,47 @@ Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-c
 [https://zenodo.org/records/13831274](https://zenodo.org/records/13831274)
 
 [https://doi.org/10.5281/zenodo.13831274](https://doi.org/10.5281/zenodo.13831274)
+
+
+---
+
+## [CIDAS] Scalable strategies for a next-generation of FAIR bioimaging
+
+Josh Moore
+
+Published 2025-01-23
+
+Licensed CC-BY-4.0
+
+
+
+Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
+https://www.uni-goettingen.de/en/653203.html
+
+[https://zenodo.org/records/14716546](https://zenodo.org/records/14716546)
+
+[https://doi.org/10.5281/zenodo.14716546](https://doi.org/10.5281/zenodo.14716546)
+
+
+---
+
+## [CMCB] Scalable strategies for a next-generation of FAIR bioimaging
+
+Josh Moore
+
+Published 2025-01-16
+
+Licensed CC-BY-4.0
+
+
+
+CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
+https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
+&nbsp;
+
+[https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
+
+[https://doi.org/10.5281/zenodo.14650434](https://doi.org/10.5281/zenodo.14650434)
 
 
 ---
