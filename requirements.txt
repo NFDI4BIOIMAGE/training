@@ -6,6 +6,6 @@ pandas
 pygithub
 toolz
 pypdfium2
-beatifulsoup4
+lxml
 
 

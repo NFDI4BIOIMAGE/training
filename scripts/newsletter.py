@@ -2,7 +2,7 @@
 
 # 1. Import statements
 import requests
-from bs4 import BeautifulSoup
+from lxml import html
 import os
 import re
 import pypdfium2 as pdfium
@@ -49,10 +49,9 @@ def main():
     print("Newsletter Link Extraction Script completed!")
 
 
-# 4. Define necessary functions
 def fetch_pdf_links(url):
     """
-    Fetches PDF links from the given webpage URL.
+    Fetches PDF links from the given webpage URL using lxml.
 
     :param url: URL of the webpage to scrape.
     :return: List of PDF links found on the page.
@@ -60,14 +59,14 @@ def fetch_pdf_links(url):
     response = requests.get(url)
     response.raise_for_status()  # Raise an exception for HTTP errors
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+    tree = html.fromstring(response.content)
     pdf_links = []
 
-    for a_tag in soup.find_all('a', href=True):
-        href = a_tag['href']
-        if href.endswith('.pdf'):
+    for a_tag in tree.xpath("//a[@href]"):
+        href = a_tag.get("href")
+        if href.endswith(".pdf"):
             # Convert relative links to absolute links
-            if not href.startswith('http'):
+            if not href.startswith("http"):
                 href = requests.compat.urljoin(url, href)
             pdf_links.append(href)
 
