@@ -39,7 +39,9 @@ jobs:
 
           git add .
           git diff --staged --quiet || git commit -m "Auto-update CSV after modifying nfdi4bioimage.yml"
-
+          
+          git pull --rebase origin ${{ github.head_ref }}
+          
           # Authenticate and push
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.head_ref }}
 
