@@ -29,7 +29,7 @@ jobs:
       # Execute the Notebook to export CSV in DALIA format
       - name: Execute Jupyter Notebook
         run: |
-          jupyter nbconvert --to notebook --execute scripts/Export_to_DALIA.ipynb
+          jupyter nbconvert --execute --inplace scripts/Export_to_DALIA.ipynb
 
       # Commit and push changes if any file was updated
       - name: Commit and push changes
