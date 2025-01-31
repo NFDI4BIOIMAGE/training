@@ -2,6 +2,7 @@ resources:
 - authors:
   - Elisabeth Kugler
   name: 'Sharing Your Poster on Figshare: A Community Guide to How-To and Why'
+  proficiency_level: novice
   tags:
   - Sharing
   - Research Data Management
@@ -12,6 +13,7 @@ resources:
   - Marcelo Zoccoler
   license: CC-BY-4.0
   name: Running Deep-Learning Scripts in the BiA-PoL Omero Server
+  proficiency_level: proficient
   tags:
   - Python
   - Artificial Intelligence
@@ -23,6 +25,7 @@ resources:
   - Robert Haase
   license: CC-BY-4.0
   name: Browsing the Open Microscopy Image Data Resource with Python
+  proficiency_level: competent
   tags:
   - OMERO
   - Python
@@ -33,6 +36,7 @@ resources:
   - Mara Lampert
   license: CC-BY-4.0
   name: Getting started with Mambaforge and Python
+  proficiency_level: novice
   tags:
   - Python
   - Conda
@@ -44,6 +48,7 @@ resources:
   - Jennifer Waters
   name: Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy
     Facility
+  proficiency_level: novice
   tags:
   - Research Data Management
   type:
@@ -52,6 +57,7 @@ resources:
 - authors:
   - Job Fermie
   name: Data handling in large-scale electron microscopy
+  proficiency_level: novice
   tags:
   - Research Data Management
   type:
@@ -60,6 +66,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Tracking in napari
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -70,6 +77,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Feature extraction in napari
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -80,6 +88,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Annotating 3D images in napari
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -91,6 +100,7 @@ resources:
   - Robert Haase
   license: CC-BY-4.0
   name: Managing Scientific Python environments using Conda, Mamba and friends
+  proficiency_level: novice
   tags:
   - Python
   - Conda
@@ -101,6 +111,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Quality assurance of segmentation results
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -111,6 +122,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Rescaling images and pixel (an)isotropy
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -121,6 +133,7 @@ resources:
 - authors:
   - Jens Wendt
   name: User friendly Image metadata annotation tool/workflow for OMERO
+  proficiency_level: competent
   tags:
   - Metadata
   - Workflow
@@ -131,6 +144,7 @@ resources:
 - authors:
   - Mara Lampert
   name: How to write a bug report
+  proficiency_level: novice
   tags:
   - Github
   - Python
@@ -141,6 +155,7 @@ resources:
 - authors:
   - Mara Lampert
   name: Prompt Engineering in Bio-image Analysis
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Jupyter
@@ -175,12 +190,14 @@ resources:
 - event_date: September 10-15 2023
   event_location: Heidelberg, Germany
   name: EMBO Practical Course Advanced methods in bioimage analysis
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   type:
   - Event
   url: https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/
 - name: PoL Bio-Image Analysis GPU Accelerated Image Analysis Training School
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Python
@@ -189,6 +206,7 @@ resources:
   - Notebook
   url: https://biapol.github.io/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/intro.html
 - name: PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Python
@@ -212,6 +230,7 @@ resources:
   - Collection
   url: https://github.com/bioimage-io/Workshop-June2024-Madrid
 - name: Bio-image Analysis Workshop Taipei
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -219,6 +238,7 @@ resources:
   - Collection
   url: https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei/
 - name: Bio-image Analysis Workshop Kioto and Taipei 23/24
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -226,6 +246,7 @@ resources:
   - Collection
   url: https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24
 - name: Bio-image Analysis ICOB 2023
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -235,6 +256,7 @@ resources:
 - description: Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
   name: 'Fit for OMERO: How imaging facilities and IT departments work together to
     enable RDM for bioimaging'
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - OMERO
@@ -244,6 +266,7 @@ resources:
   url: https://indico.dkfz.de/event/1022/
 - license: CC-BY-4.0
   name: RDM4Mic Presentations
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -262,6 +285,7 @@ resources:
   - CC-BY-4.0
   - BSD-3-CLAUSE
   name: BioImage Analysis Notebooks
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -273,6 +297,7 @@ resources:
   - Pete Bankhead
   license: CC-BY-4.0
   name: Introduction to Bioimage Analysis
+  proficiency_level: novice
   tags:
   - Python
   - Imagej
@@ -285,6 +310,7 @@ resources:
   - Robert Haase
   license: CC-BY-4.0
   name: Generative artificial intelligence for bio-image analysis
+  proficiency_level: competent
   tags:
   - Python
   - Bioimage Analysis
@@ -299,6 +325,7 @@ resources:
   url: https://microscopydb.io/
 - license: CC-BY-4.0
   name: OME Documentation
+  proficiency_level: competent
   tags:
   - OMERO
   type:
@@ -306,6 +333,7 @@ resources:
   url: https://www.openmicroscopy.org/docs/
 - license: UNKNOWN
   name: OMERO documentation
+  proficiency_level: competent
   tags:
   - OMERO
   type:
@@ -313,6 +341,7 @@ resources:
   url: https://omero.readthedocs.io/en/stable/
 - license: BSD-2-CLAUSE
   name: OMERO Guide
+  proficiency_level: competent
   tags:
   - OMERO
   type:
@@ -320,6 +349,7 @@ resources:
   url: https://omero-guides.readthedocs.io/en/latest/
 - license: BSD-2-CLAUSE
   name: OMERO walkthrough for facility managers
+  proficiency_level: competent
   tags:
   - OMERO
   type:
@@ -327,6 +357,7 @@ resources:
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
 - license: BSD-2-CLAUSE
   name: OMERO walkthrough example
+  proficiency_level: advanced beginner
   tags:
   - OMERO
   type:
@@ -390,6 +421,7 @@ resources:
   name: Train-the-Trainer Concept on Research Data Management
   num_downloads: 4568
   publication_date: '2020-11-04'
+  proficiency_level: competent
   tags:
   - Research Data Management
   type:
@@ -428,6 +460,7 @@ resources:
   name: Efficiently starting institutional research data management
   num_downloads: 110
   publication_date: '2019-10-15'
+  proficiency_level: proficient
   tags:
   - Research Data Management
   type:
@@ -461,6 +494,7 @@ resources:
     pixel-based classification and quality control
   license: BSD-3-CLAUSE
   name: CellProfiler tutorials
+  proficiency_level: advanced beginner
   tags:
   - Cellprofiler
   - Bioimage Analysis
@@ -475,6 +509,7 @@ resources:
     DTC ONBI Image Analysis course.
   license: GPL-2.0
   name: ONBI Image Analysis Course
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -485,6 +520,7 @@ resources:
   - Albert Cardona
   license: CC0-1.0
   name: A Fiji Scripting Tutorial
+  proficiency_level: competent
   tags:
   - Imagej
   - Bioimage Analysis
@@ -496,6 +532,7 @@ resources:
   description: Slides, scripts, data and other exercise materials of the BioImage
     Analysis lecture at CMCB TU Dresden 2020
   name: Lecture Applied Bioimage Analysis 2020
+  proficiency_level: advanced beginner
   tags:
   - Imagej
   - Bioimage Analysis
@@ -506,6 +543,7 @@ resources:
   - Robert Haase
   license: BSD-3-CLAUSE
   name: ImageJ2 API-beating
+  proficiency_level: competent
   tags:
   - Neubias
   - Imagej
@@ -518,6 +556,7 @@ resources:
   description: Lecture slides of a session on Multiview Fusion in Fiji
   license: BSD-3-CLAUSE
   name: Multi-view fusion
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Imagej
@@ -530,6 +569,7 @@ resources:
   description: Lecture slides of a session on Cell Tracking in Fiji
   license: BSD-3-CLAUSE
   name: Tracking Theory, TrackMate, and Mastodon
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Imagej
@@ -541,6 +581,7 @@ resources:
   - Robert Haase
   license: BSD-3-CLAUSE
   name: Working with pixels
+  proficiency_level: novice
   tags:
   - Neubias
   - Imagej
@@ -552,6 +593,7 @@ resources:
   - Robert Haase
   license: BSD-3-CLAUSE
   name: Working with objects in 2D and 3D
+  proficiency_level: novice
   tags:
   - Neubias
   - Imagej
@@ -566,6 +608,7 @@ resources:
     for the image processing parts is heavily based on the scikit-image package.
   license: MIT
   name: Image processing with Python
+  proficiency_level: advanced beginner
   tags:
   - Python
   type:
@@ -573,6 +616,7 @@ resources:
   url: https://github.com/guiwitz/Python_image_processing
 - license: AGPL-3.0
   name: Deep Learning Based Segmentation For Biologists
+  proficiency_level: competent
   tags:
   - Python
   - R
@@ -584,6 +628,7 @@ resources:
   - Fabrizio Musacchio
   license: CC-BY-ND-SA-4.0
   name: Bioimage analysis with Napari
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Napari
@@ -593,6 +638,7 @@ resources:
   url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/
 - license: GPL-3.0
   name: ZEN & Python workshop
+  proficiency_level: competent
   tags:
   - Python
   - Napari
@@ -602,8 +648,7 @@ resources:
   - Notebook
   url: https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop
 - authors:
-  - Della Chiesa
-  - Stefano
+  - Stefano Della Chiesa
   description: "This Research Data Management (RDM) Slides introduce to the multidisciplinary\
     \ knowledge and competencies required to address policy compliance and research\
     \ data management best practices throughout a project lifecycle, and beyond it.\n\
@@ -615,6 +660,7 @@ resources:
   name: Research Data Management Seminar - Slides
   num_downloads: 1094
   publication_date: '2022-05-18'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -647,6 +693,7 @@ resources:
   - Beth A. Cimini
   license: BSD-3-CLAUSE
   name: A biologist’s guide to planning and performing quantitative bioimaging experiments
+  proficiency_level: novice
   type:
   - Collection
   - Publication
@@ -668,6 +715,7 @@ resources:
 - description: A tutorial explaining how to make Github repositories citable by automatically
     creating DOIs using the Github-Zenodo integration.
   name: Making your project citable
+  proficiency_level: advanced beginner
   tags:
   - Sharing
   - Citing
@@ -678,6 +726,7 @@ resources:
 - description: How to make your Github repository citable by adding a citation.cff
     file.
   name: Software Citation with CITATION.cff
+  proficiency_level: advanced beginner
   tags:
   - Sharing
   - Citing
@@ -691,6 +740,7 @@ resources:
   - CC-BY-4.0
   - MIT
   name: 'The Turing Way: Guide for reproducible research'
+  proficiency_level: competent
   type:
   - Book
   url: https://the-turing-way.netlify.app/reproducible-research/reproducible-research
@@ -698,6 +748,7 @@ resources:
   - Kota Miura
   license: ALL RIGHTS RESERVED
   name: Basics of Image Processing and Analysis
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -739,6 +790,7 @@ resources:
   license: UNKNOWN
   name: Introduction to ImageJ macro programming, Scientific Computing Facility, MPI
     CBG Dresden
+  proficiency_level: novice
   tags:
   - Imagej
   - Bioimage Analysis
@@ -750,6 +802,7 @@ resources:
   - Benoit Lombardot
   license: CC-BY-NC-4.0
   name: Introduction to Image Analysis with Fiji
+  proficiency_level: novice
   tags:
   - Imagej
   - Fiji
@@ -757,6 +810,7 @@ resources:
   url: https://github.com/mpicbg-scicomp/CourseIntroToIA
 - license: CC-BY-4.0
   name: Image Analysis Training Resources
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Bioimage Analysis
@@ -789,6 +843,7 @@ resources:
   - https://www.nature.com/articles/nmeth.4326
 - license: BSD-2-CLAUSE
   name: Omero Deployment examples
+  proficiency_level: competent
   tags:
   - OMERO
   type:
@@ -798,7 +853,7 @@ resources:
   - Jeremy Metz
   - Beatriz Serrano-Solano
   - Wei Ouyang
-  description: BioEnging is a cloud infrastructure to run BioImage model zoo based
+  description: BioEngine is a cloud infrastructure to run BioImage model zoo based
     workflows in the cloud.
   license: UNKNOWN
   name: BioEngine
@@ -812,6 +867,7 @@ resources:
   - Kevin Yamauchi
   license: CC-BY-4.0
   name: Making your package available on conda-forge
+  proficiency_level: competent
   tags:
   - Deployment
   - Python
@@ -863,6 +919,7 @@ resources:
     slides for local user training'
   num_downloads: 3717
   publication_date: '2023-11-13'
+  proficiency_level: advanced beginner
   tags:
   - OMERO
   - Research Data Management
@@ -877,11 +934,13 @@ resources:
   - https://doi.org/10.5281/zenodo.8323588
 - license: APACHE-2.0
   name: ITKElastix Examples
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
 - license: ALL RIGHTS RESERVED
   name: 'EPFLx: Image Processing and Analysis for Life Scientists'
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   type:
@@ -895,6 +954,7 @@ resources:
   - Book
   url: https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900
 - name: MorphoLibJ documentation
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -910,6 +970,7 @@ resources:
   - Todd Fallesen
   license: GPL-3.0
   name: IAFIG-RMS Python for Bioimage Analysis Course
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -923,6 +984,7 @@ resources:
   - Guillaume Witz
   license: UNKNOWN
   name: Fundamentals in digital image processing
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -932,6 +994,7 @@ resources:
   - Guillaume Witz
   license: BSD-3-CLAUSE
   name: numpy pandas course
+  proficiency_level: advanced beginner
   tags:
   - Python
   type:
@@ -939,6 +1002,7 @@ resources:
   url: https://github.com/guiwitz/NumpyPandas_course
 - license: BSD-3-CLAUSE
   name: 'NEUBIAS Academy @HOME: Interactive Bioimage Analysis with Python and Jupyter'
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Neubias
@@ -950,6 +1014,7 @@ resources:
   - Sreenivas Bhattiprolu
   license: MIT
   name: Python for Microscopists
+  proficiency_level: novice
   tags:
   - Python
   - Bioimage Analysis
@@ -961,6 +1026,7 @@ resources:
   - Volker Hilsenstein
   license: UNKNOWN
   name: Setting up a remote desktop to use Napari in a browser
+  proficiency_level: competent
   type:
   - Tutorial
   url: https://github.com/VolkerH/Jupyter-Napari-Desktop
@@ -968,6 +1034,7 @@ resources:
   - Nicolas P. Rougier
   license: CC-BY-ND-SA-4.0
   name: 'Scientific Visualization: Python + Matplotlib'
+  proficiency_level: advanced beginner
   tags:
   - Python
   type:
@@ -979,6 +1046,7 @@ resources:
   - Rafael Camacho
   license: MIT
   name: Teaching Bioimage Analysis with Python
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -989,6 +1057,7 @@ resources:
   - Rafael Camacho
   license: MIT
   name: Teaching ImageJ FIJI
+  proficiency_level: advanced beginner
   tags:
   - Fiji
   - Bioimage Analysis
@@ -999,6 +1068,7 @@ resources:
   - Juan Nunez-Iglesias
   license: BSD-3-CLAUSE
   name: Fundamentals of image analysis in Python with scikit-image, napari, and friends
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1010,6 +1080,7 @@ resources:
   license: BSD-3-CLAUSE
   name: Image analysis and visualization in Python with scikit-image, napari, and
     friends
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1020,6 +1091,7 @@ resources:
   - Guillaume Witz
   license: UNKNOWN
   name: Dask Course
+  proficiency_level: competent
   tags:
   - Python
   - Bioimage Analysis
@@ -1031,6 +1103,7 @@ resources:
   - Guillaume Witz
   license: UNKNOWN
   name: Course on Deep Learning for imaging using PyTorch
+  proficiency_level: competent
   tags:
   - Python
   - Bioimage Analysis
@@ -1042,6 +1115,7 @@ resources:
   - Guillaume Witz
   license: UNKNOWN
   name: 2022 MIC Workshop on Bioimage processing with Python
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1061,6 +1135,7 @@ resources:
   - et al.
   license: UNKNOWN
   name: NEUBIAS Bioimage Analyst Course 2017
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1075,6 +1150,7 @@ resources:
   name: 'quantixed/TheDigitalCell: First complete code set'
   num_downloads: 104
   publication_date: '2019-04-17'
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -1086,6 +1162,7 @@ resources:
 - authors:
   - Stephen Royle
   name: 'The Digital Cell: Cell Biology as a Data Science'
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -1101,6 +1178,7 @@ resources:
   - et al.
   license: UNKNOWN
   name: NEUBIAS Bioimage Analyst School 2020
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1122,6 +1200,7 @@ resources:
   - et al.
   license: UNKNOWN
   name: NEUBIAS Bioimage Analyst School 2019
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1139,6 +1218,7 @@ resources:
   - Vannary Meas-Yedid
   license: UNKNOWN
   name: NEUBIAS Analyst School 2018
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1151,6 +1231,7 @@ resources:
   - Marion Louveaux
   license: UNKNOWN
   name: Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1162,6 +1243,7 @@ resources:
   license: UNKNOWN
   name: 'EuBIAS course 2013: Intensity Dynamics at the Periphery of Nucleus'
   publication_date: 2013
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1177,14 +1259,16 @@ resources:
   - Aliaksandr Halavatyi
   license: UNKNOWN
   name: Analysis of High-Throughput Microscopy Image Data
+  proficiency_level: novice
   publication_date: 2014
+  tags:
+  - Bioimage Analysis
   url: https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md
 - authors:
   - Christian Tischer
   license: UNKNOWN
   name: Bio Image Analysis
-  tags:
-  - Bioimage Analysis
+  proficiency_level: novice
   type:
   - Slide
   url: https://github.com/tischi/presentation-image-analysis
@@ -1192,6 +1276,7 @@ resources:
   - Jonas Hartmann
   license: MIT
   name: Python BioImage Analysis Tutorial
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1202,6 +1287,7 @@ resources:
   - et al.
   license: UNKNOWN
   name: Materials for EMBL Coding Club Mini-Tutorials
+  proficiency_level: advanced beginner
   tags:
   - Python
   type:
@@ -1215,6 +1301,7 @@ resources:
   - Jonas Hartmann
   license: UNKNOWN
   name: Python Workshop - Image Processing
+  proficiency_level: advanced beginner
   tags:
   - Python
   type:
@@ -1226,6 +1313,7 @@ resources:
   - Aleksej Zelezniak
   license: UNKNOWN
   name: Metabolic networks modelling with COBRApy
+  proficiency_level: competent
   tags:
   - Python
   type:
@@ -1237,6 +1325,7 @@ resources:
   - Christian Tischer
   license: UNKNOWN
   name: CellProfiler Practical NeuBIAS Lisbon 2017
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Cellprofiler
@@ -1249,6 +1338,7 @@ resources:
   - Christian Tischer
   license: UNKNOWN
   name: i2k-2020-s3-zarr-workshop
+  proficiency_level: competent
   tags:
   - Python
   - Big Data
@@ -1266,6 +1356,7 @@ resources:
   - et al.
   license: CC-BY-4.0
   name: Image Processing with Python
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1278,6 +1369,7 @@ resources:
   - CC-BY-4.0
   - MIT
   name: Data Carpentry for Biologists
+  proficiency_level: advanced beginner
   type:
   - Tutorial
   - Code
@@ -1289,6 +1381,7 @@ resources:
   - Szymon Stoma
   license: UNKNOWN
   name: EMBL Deep Learning course 2019 exercises and materials
+  proficiency_level: competent
   tags:
   - Python
   - Artificial Intelligence
@@ -1303,6 +1396,7 @@ resources:
   - Buglakova Alyona
   license: UNKNOWN
   name: EMBL Deep Learning course 2023 exercises and materials
+  proficiency_level: competent
   tags:
   - Python
   - Artificial Intelligence
@@ -1314,6 +1408,7 @@ resources:
   - Constantin Pape
   license: UNKNOWN
   name: EMBL Deep Learning course 2021/22 exercises and materials
+  proficiency_level: competent
   tags:
   - Python
   - Artificial Intelligence
@@ -1326,6 +1421,7 @@ resources:
   - Viktoriia Checkalina
   license: MIT
   name: Deep Vision and Graphics
+  proficiency_level: competent
   tags:
   - Python
   - Artificial Intelligence
@@ -1339,6 +1435,7 @@ resources:
   - Buglakova Alyona
   license: UNKNOWN
   name: Kreshuk Lab's EMBL EIPP predoc course teaching material
+  proficiency_level: advanced beginner
   tags:
   - Artificial Intelligence
   type:
@@ -1355,6 +1452,7 @@ resources:
   - Adrian Wolny
   license: UNKNOWN
   name: Training Deep Learning Models for Vision - Compact Course
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1363,6 +1461,7 @@ resources:
   - Constantin Pape
   license: MIT
   name: Collection of teaching material for deep learning for (biomedical) image analysis
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1374,6 +1473,7 @@ resources:
   url: https://github.com/JaneliaSciComp/nf-demos
 - license: UNKNOWN
   name: Source Control Using Git and GitHub
+  proficiency_level: advanced beginner
   type:
   - Tutorial
   url: https://github.com/JaneliaSciComp/2020AprilGitCourse
@@ -1403,6 +1503,9 @@ resources:
   license: MIT
   name: 'ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source
     toolbox for Deep-Learning in microscopy'
+  proficiency_level: competent
+  tags:
+  - Bioimage Analysis
   type:
   - Notebook
   - Collection
@@ -1415,6 +1518,9 @@ resources:
   - et al.
   license: CC-BY-4.0
   name: DL4MicEverywhere
+  proficiency_level: novice
+  tags:
+  - Bioimage Analysis
   type:
   - Notebook
   - Collection
@@ -1423,6 +1529,7 @@ resources:
   - Guillaume Jacquemet
   license: MIT
   name: CellTrackColab
+  proficiency_level: advanced beginner
   type:
   - Notebook
   - Collection
@@ -1439,6 +1546,7 @@ resources:
   - Guillaume Witz
   license: BSD-3-CLAUSE
   name: Image processing for beginners
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1449,6 +1557,7 @@ resources:
   - Anna Klemm
   license: UNKNOWN
   name: ImageJ Macro Introduction
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Imagej Macro
@@ -1461,6 +1570,7 @@ resources:
   - Anna Klemm
   license: UNKNOWN
   name: CellProfiler Introduction
+  proficiency_level: novice
   tags:
   - Neubias
   - Cellprofiler
@@ -1473,6 +1583,7 @@ resources:
   license: UNKNOWN
   name: CARE/Stardist tutorials for EMBO Practical Course — Computational optical
     biology 2022
+  proficiency_level: competent
   tags:
   - Python
   - Artificial Intelligence
@@ -1487,6 +1598,7 @@ resources:
   - Uwe Schmidt
   license: UNKNOWN
   name: 'Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist'
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Neubias
@@ -1501,6 +1613,7 @@ resources:
   - Uwe Schmidt
   license: UNKNOWN
   name: CSBDeep and StarDist @ I2K 2020
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Artificial Intelligence
@@ -1512,6 +1625,7 @@ resources:
   - Martin Weigert
   license: UNKNOWN
   name: Deep Learning for image analysis - Exercises
+  proficiency_level: competent
   tags:
   - Fiji
   - Artificial Intelligence
@@ -1521,6 +1635,7 @@ resources:
   url: https://github.com/maweigert/zidas_2020_DL_intro_Part_2
 - license: UNKNOWN
   name: Machine Learning Workflow for Imaging Flow Cytometry (IFC)
+  proficiency_level: competent
   tags:
   - Cellprofiler
   - Bioimage Analysis
@@ -1536,6 +1651,7 @@ resources:
   - Callum Tromans-Coia
   license: CC0-1.0
   name: Image-based Profiling Handbook
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -1551,6 +1667,7 @@ resources:
   - Rebecca Senft
   license: UNKNOWN
   name: DeepProfiler Handbook
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1563,6 +1680,7 @@ resources:
   - Christian Tischer
   license: CC-BY-4.0
   name: Methods in bioimage analysis
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -1577,6 +1695,7 @@ resources:
   - Estibaliz Gómez-de-Mariscal
   license: UNKNOWN
   name: Building a Bioimage Analysis Workflow using Deep Learning
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1587,6 +1706,7 @@ resources:
   - Estibaliz Gómez-de-Mariscal
   license: UNKNOWN
   name: ZIDAS 2020 Introduction to Deep Learning
+  proficiency_level: advanced beginner
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1597,6 +1717,7 @@ resources:
   - Estibaliz Gómez-de-Mariscal
   license: UNKNOWN
   name: Machine Learning - Deep Learning. Applications to Bioimage Analysis
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1610,6 +1731,7 @@ resources:
   - Xiaoyan
   license: UNKNOWN
   name: DL@MBL 2021 Exercises
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1628,6 +1750,7 @@ resources:
   - Dominik Kutra
   license: CC-BY-4.0
   name: 'ilastik: interactive machine learning for (bio)image analysis'
+  proficiency_level: advanced beginner
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1651,6 +1774,7 @@ resources:
   name: 'Nextflow: Scalable and reproducible scientific workflows'
   num_downloads: 72
   publication_date: '2020-12-17'
+  proficiency_level: competent
   tags:
   - Workflow Engine
   type:
@@ -1686,6 +1810,7 @@ resources:
   name: Creating open computational curricula
   num_downloads: 31
   publication_date: '2020-12-11'
+  proficiency_level: competent
   type:
   - Slide
   url:
@@ -1695,6 +1820,7 @@ resources:
   - Guillaume Witz
   license: UNKNOWN
   name: Jupyter for interactive cloud computing
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1713,6 +1839,7 @@ resources:
   - Kota Miura
   license: UNKNOWN
   name: What is Bioimage Analysis? An Introduction
+  proficiency_level: novice
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1724,6 +1851,7 @@ resources:
   - Christian Tischer
   license: UNKNOWN
   name: OME-Zarr course
+  proficiency_level: competent
   type:
   - Tutorial
   url: https://git.embl.de/oezdemir/course_scripts#ome-zarr-course
@@ -1731,6 +1859,7 @@ resources:
   - Ignacio Arganda-Carreras
   license: UNKNOWN
   name: 'Machine and Deep Learning on the cloud: Segmentation'
+  proficiency_level: competent
   tags:
   - Neubias
   - Artificial Intelligence
@@ -1743,6 +1872,7 @@ resources:
   license: CC-BY-4.0
   name: 'Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated
     image processing'
+  proficiency_level: competent
   type:
   - Slide
   url:
@@ -1753,6 +1883,7 @@ resources:
   - Björn Grüning
   license: UNKNOWN
   name: Image analysis in Galaxy
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -1764,6 +1895,7 @@ resources:
   - Benjamin Pavie
   license: BSD-2-CLAUSE
   name: Adding a Workflow to BIAFLOWS
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1774,6 +1906,7 @@ resources:
   - Kota Miura
   license: ALL RIGHTS RESERVED
   name: BioImage Data Analysis
+  proficiency_level: competent
   tags:
   - Neubias
   - Bioimage Analysis
@@ -1787,6 +1920,7 @@ resources:
   - Valentin Gilet
   license: UNKNOWN
   name: 'DEEP NAPARI : Napari as a tool for deep learning project management'
+  proficiency_level: competent
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
@@ -1797,6 +1931,7 @@ resources:
   - Kevin Yamauchi
   license: CC-BY-4.0
   name: Open Image Data Handbook
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   - Research Data Management
@@ -1816,6 +1951,7 @@ resources:
   license: CC-BY-4.0
   name: Bio-image analysis, biostatistics, programming and machine learning for computational
     biology
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Bioimage Analysis
@@ -1835,6 +1971,7 @@ resources:
     Core Facilities
   num_downloads: 78
   publication_date: '2023-11-08'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Tu Dresden
@@ -1857,6 +1994,7 @@ resources:
   name: Bio-image Analysis with the Help of Large Language Models
   num_downloads: 306
   publication_date: '2024-03-13'
+  proficiency_level: advanced beginner
   tags:
   - Large Language Models
   - Python
@@ -1880,6 +2018,7 @@ resources:
     Image Analysis Track of the PoL Bio-Image Analysis Symposium.
   license: CC-BY-4.0
   name: PoL Bio-Image Analysis Training School on GPU-Accelerated Image Analysis
+  proficiency_level: competent
   tags:
   - Gpu
   - Clesperanto
@@ -1894,6 +2033,7 @@ resources:
     who want to dive into bio-image data science with Python.
   license: CC-BY-4.0
   name: Bio-image Data Science
+  proficiency_level: advanced beginner
   tags:
   - Image Data Management
   - Deep Learning
@@ -1909,6 +2049,7 @@ resources:
     segmentation analysis problems.
   license: MIT
   name: Introduction to Deep Learning for Microscopy
+  proficiency_level: competent
   tags:
   - Deep Learning
   - Pytorch
@@ -1927,6 +2068,7 @@ resources:
     especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
   license: CC-BY-4.0
   name: QM Course Lectures on Bio-Image Analysis with napari 2024
+  proficiency_level: advanced beginner
   tags:
   - Napari
   - Python
@@ -1941,6 +2083,7 @@ resources:
     2024
   license: CC-BY-4.0
   name: QI 2024 Analysis Lab Manual
+  proficiency_level: advanced beginner
   tags:
   - Segmentation
   - Python
@@ -1956,6 +2099,7 @@ resources:
   name: My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud
   num_downloads: 158
   publication_date: '2024-02-19'
+  proficiency_level: competent
   tags:
   - Teaching
   type:
@@ -1975,6 +2119,7 @@ resources:
   name: Cultivating Open Training
   num_downloads: 185
   publication_date: '2024-02-14'
+  proficiency_level: advanced beginner
   tags:
   - Teaching
   type:
@@ -2003,6 +2148,7 @@ resources:
     registration in microscopy images.
   license: BSD LICENSE
   name: Elastix tutorial
+  proficiency_level: advanced beginner
   tags:
   - Image Registration
   - Itk
@@ -2016,6 +2162,7 @@ resources:
   description: Introduction to napari workshop run at JAX (Spring 2024).
   license: MIT
   name: Intro napari slides
+  proficiency_level: advanced beginner
   tags:
   - Napari
   type:
@@ -2026,6 +2173,7 @@ resources:
   description: Tutorial for running CellPose advanced functions
   license: BSD-3-CLAUSE
   name: NeubiasPasteur2023_AdvancedCellPose
+  proficiency_level: competent
   tags:
   - Cellpose
   - Segmentation
@@ -2057,6 +2205,7 @@ resources:
     of bioimage data via the BioImage Archive, ran in May 2023.'
   license: CC-BY-4.0
   name: 'Microscopy data analysis: machine learning and the BioImage Archive'
+  proficiency_level: competent
   tags:
   - Microscopy Image Analysis
   - Python
@@ -2091,6 +2240,7 @@ resources:
   name: Kollaboratives Arbeiten und Versionskontrolle mit Git
   num_downloads: 168
   publication_date: '2024-04-15'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - FAIR-Principles
@@ -2113,6 +2263,7 @@ resources:
   name: Open Science, Sharing & Licensing
   num_downloads: 142
   publication_date: '2024-04-18'
+  proficiency_level: novice
   tags:
   - Research Data Management
   - Open Access
@@ -2135,6 +2286,7 @@ resources:
   name: Datenmanagement
   num_downloads: 91
   publication_date: '2024-04-14'
+  proficiency_level: novice
   tags:
   - Research Data Management
   type:
@@ -2157,6 +2309,7 @@ resources:
   name: Cultivating Open Training to advance Bio-image Analysis
   num_downloads: 88
   publication_date: '2024-04-25'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Licensing
@@ -2174,6 +2327,7 @@ resources:
     and reproducible manner (BioImage Model Zoo) are introduced.
   license: CC-BY-4.0
   name: FAIRy deep-learning for bioImage analysis
+  proficiency_level: competent
   tags:
   - Deep Learning
   - FAIR-Principles
@@ -2216,6 +2370,7 @@ resources:
     from raw images uploaded in OMERO.'
   license: MIT
   name: OMERO - HCS analysis pipeline using Jupyter Notebooks
+  proficiency_level: advanced beginner
   tags:
   - Teaching
   - Bioimage Analysis
@@ -2231,6 +2386,7 @@ resources:
     May-11-2024
   license: UNKNOWN
   name: Diffusion Models for Image Restoration - An Introduction
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Diffusion Models
@@ -2280,6 +2436,7 @@ resources:
   name: Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks
   num_downloads: 104
   publication_date: '2024-06-04'
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - FAIR-Principles
@@ -2331,6 +2488,7 @@ resources:
     of speakers'
   num_downloads: 544
   publication_date: '2024-06-10'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2401,6 +2559,7 @@ resources:
   license: CC-BY-4.0
   name: Combining the BIDS and ARC Directory Structures for Multimodal Research Data
     Organization
+  proficiency_level: competent
   tags:
   - Research Data Management
   - FAIR-Principles
@@ -2419,6 +2578,7 @@ resources:
   license: CC-BY-4.0
   name: '[CORDI 2023] Zarr: A Cloud-Optimized Storage for Interactive Access of Large
     Arrays'
+  proficiency_level: competent
   tags:
   - Research Data Management
   - Bioimage Analysis
@@ -2437,6 +2597,7 @@ resources:
   license: CC-BY-4.0
   name: High throughput & automated data analysis and data management workflow with
     Cellprofiler and OMERO
+  proficiency_level: competent
   tags:
   - OMERO
   - Data Analysis
@@ -2457,6 +2618,7 @@ resources:
   license: CC-BY-4.0
   name: A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and
     napari-flim-phasor-plotter
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Flim
@@ -2493,6 +2655,7 @@ resources:
   name: MicroSam-Talks
   num_downloads: 34
   publication_date: '2024-05-23'
+  proficiency_level: competent
   tags:
   - Image Segmentation
   - Bioimage Analysis
@@ -2517,6 +2680,7 @@ resources:
   name: 'Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz'
   num_downloads: 48
   publication_date: '2024-04-19'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2537,6 +2701,7 @@ resources:
   name: Sustainable Data Stewardship
   num_downloads: 38
   publication_date: '2024-03-25'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Data Stewardship
@@ -2557,6 +2722,7 @@ resources:
   name: Cultivating Open Training
   num_downloads: 62
   publication_date: '2024-03-14'
+  proficiency_level: advanced beginner
   tags:
   - Open Science
   - Research Data Management
@@ -2582,6 +2748,7 @@ resources:
   name: '"ZENODO und Co." Was bringt und wer braucht ein Repositorium?'
   num_downloads: 280
   publication_date: '2021-01-25'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2605,6 +2772,7 @@ resources:
   name: Alles meins – oder!? Urheberrechte klären für Forschungsdaten
   num_downloads: 35
   publication_date: '2024-06-04'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Licensing
@@ -2626,6 +2794,7 @@ resources:
     Forschungsdaten
   num_downloads: 30
   publication_date: '2024-05-30'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Data Protection
@@ -2654,6 +2823,7 @@ resources:
     im Umgang mit Forschungsdaten
   num_downloads: 243
   publication_date: '2021-05-11'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Data Protection
@@ -2689,6 +2859,7 @@ resources:
   name: Datenmanagementpläne erstellen - Teil 1
   num_downloads: 340
   publication_date: '2021-03-23'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2731,6 +2902,7 @@ resources:
   name: Datenmanagementpläne erstellen - Teil 2
   num_downloads: 271
   publication_date: '2021-03-30'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2761,6 +2933,7 @@ resources:
   name: Crashkurs Forschungsdatenmanagement
   num_downloads: 1733
   publication_date: '2020-04-30'
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -2775,6 +2948,7 @@ resources:
     between April and July 2024.
   license: CC-BY-4.0
   name: Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Deep Learning
@@ -2790,6 +2964,7 @@ resources:
     and July 2024.
   license: CC-BY-4.0
   name: BIDS-lecture-2024
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Deep Learning
@@ -2830,6 +3005,7 @@ resources:
   description: A short book with 6 steps that get you closer to making your work reproducible.
   license: CC-BY-4.0
   name: 6 Steps Towards Reproducible Research
+  proficiency_level: novice
   tags:
   - Reproducibility
   - Research Data Management
@@ -2884,6 +3060,7 @@ resources:
   license: CC-BY-4.0
   name: If you license it, it’ll be harder to steal it. Why we should license our
     work
+  proficiency_level: novice
   tags:
   - Licensing
   - Research Data Management
@@ -2895,6 +3072,7 @@ resources:
   description: Blog post about how to share data using zenodo.org
   license: CC-BY-4.0
   name: Sharing research data with Zenodo
+  proficiency_level: novice
   tags:
   - Sharing
   - Research Data Management
@@ -2907,6 +3085,7 @@ resources:
     script editing.
   license: CC-BY-4.0
   name: Collaborative bio-image analysis script editing with git
+  proficiency_level: advanced beginner
   tags:
   - Sharing
   - Research Data Management
@@ -2967,6 +3146,7 @@ resources:
     in the Context of Linked Data'
   num_downloads: 26
   publication_date: '2022-08-24'
+  proficiency_level: advanced beginner
   tags:
   - Nfdi4Bioimage
   - Research Data Management
@@ -3016,6 +3196,7 @@ resources:
     project.
   license: CC-BY-4.0
   name: A Hitchhiker's guide through the bio-image analysis software universe
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -3029,6 +3210,7 @@ resources:
     of interest that arise from these services.
   license: CC-BY-4.0
   name: Challenges and opportunities for bioimage analysis core-facilities
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Research Data Management
@@ -3064,6 +3246,7 @@ resources:
   license: CC-BY-4.0
   name: 'Developing open-source software for bioimage analysis: opportunities and
     challenges'
+  proficiency_level: advanced beginner
   tags:
   - Neubias
   type:
@@ -3466,6 +3649,7 @@ resources:
   description: Presentation given at PoL BioImage Analysis Symposium Dresden 2023
   license: CC-BY-4.0
   name: Thinking data management on different scales
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Nfdi4Bioimage
@@ -3542,7 +3726,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10939519
 - authors:
-  - Carsten Fortmann.Grote
+  - Carsten Fortmann-Grote
   description: Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about
     e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training
     (TA5), contributing.
@@ -3558,7 +3742,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
 - authors:
-  - Marcelo Zoccoler
+  - NFDI4BIOIMAGE Consortium
   description: 'Bioimaging refers to a collection of methods to visualize the internal
     structures and mechanisms of living organisms. The fundamental tool, the microscope,
     has enabled seminal discoveries like that of the cell as the smallest unit of
@@ -3811,6 +3995,7 @@ resources:
   - Sourabh Palande
   name: Plants & Python - A series of lessons in coding, plant biology, computation,
     and bioinformatics
+  proficiency_level: advanced beginner
   tags:
   - Notebook
   type:
@@ -3829,6 +4014,7 @@ resources:
   - Susanne Kunis
   - Stefanie Weidtkamp-Peters
   name: A practical guide to bioimaging research data management in core facilities
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -3990,6 +4176,7 @@ resources:
   description: A collection tutorial videos for using Python in general and for processing
     images using Python, machine learning and deep learning
   name: DigitalSreeni YouTube Channel
+  proficiency_level: novice
   tags:
   - Python
   type:
@@ -4004,6 +4191,7 @@ resources:
   - Video
   url: https://www.youtube.com/GlobalBioImaging
 - name: Bio Image Analysis Lecture 2020
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -4014,6 +4202,7 @@ resources:
     Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the
     Image Data Resource (IDR), the Omero platform and Omero plugins.
   name: Open Microscopy Environment YouTube channel
+  proficiency_level: advanced beginner
   tags:
   - OMERO
   type:
@@ -4027,6 +4216,7 @@ resources:
   url: https://www.youtube.com/c/eurobioimagingcommunication
 - license: CC BY-NC-ND 3.0 DEED
   name: Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -4042,6 +4232,7 @@ resources:
   url: https://www.youtube.com/@cobacenterforopenbioimagea1864
 - description: Collection of tutorial videos for Fiji users
   name: Melbourne Advanced Microscopy Facility
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -4049,6 +4240,7 @@ resources:
   - Video
   url: https://www.youtube.com/@melbourneadvancedmicroscop2617
 - name: Fiji Is Just ImageJ Tutorials
+  proficiency_level: novice
   tags:
   - Bioimage Analysis
   type:
@@ -4057,6 +4249,7 @@ resources:
   url: https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
 - license: ALL RIGHTS RESERVED
   name: Imaris Tutorials
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -4065,6 +4258,7 @@ resources:
   url: https://imaris.oxinst.com/tutorials
 - license: ALL RIGHTS RESERVED
   name: arivis Vision4D Tutorials
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   type:
@@ -4077,11 +4271,13 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1
 - name: How to get started with Jupyter and Colab
+  proficiency_level: advanced beginner
   type:
   - Video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
 - license: UNKNOWN
   name: Chris Halvin YouTube channel
+  proficiency_level: advanced beginner
   tags:
   - Napari
   - Python
@@ -4094,6 +4290,7 @@ resources:
   - https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1
 - license: UNKNOWN
   name: RDM4mic
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - OMERO
@@ -4104,6 +4301,7 @@ resources:
   - https://www.youtube.com/@RDM4mic
 - license: CC-BY-4.0
   name: FAIR BioImage Data
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Fair
@@ -4128,6 +4326,9 @@ resources:
   name: 'Large Language Models: An Introduction for Life Scientists'
   num_downloads: 259
   publication_date: '2024-08-27'
+  proficiency_level: advanced beginner
+  tags:
+  - Artificial Intelligence
   url:
   - https://zenodo.org/records/13379394
   - https://doi.org/10.5281/zenodo.13379394
@@ -4141,6 +4342,7 @@ resources:
   license: CC-BY-4.0
   name: ChatGPT for Image Analysis
   num_downloads: 434
+  proficiency_level: advanced beginner
   publication_date: '2024-08-25'
   url:
   - https://zenodo.org/records/13371196
@@ -4240,6 +4442,7 @@ resources:
   description: Jupyter notebooks for learning how to use SimpleITK
   license: APACHE-2.0 LICENSE
   name: SimpleITK-Notebooks
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Simpleitk
@@ -4252,6 +4455,7 @@ resources:
     package.
   license: CC0 1.0 UNIVERSAL
   name: skimage-tutorials
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Scikit-Image
@@ -4263,6 +4467,7 @@ resources:
   description: Machine learning in Python with scikit-learn MOOC
   license: CC-BY-4.0
   name: scikit-learn MOOC
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Machine Learning
@@ -4274,6 +4479,7 @@ resources:
   description: YSDA course in Natural Language Processing
   license: MIT
   name: NLP Course
+  proficiency_level: advanced beginner
   tags:
   - Natural Language Processing
   type:
@@ -4290,6 +4496,7 @@ resources:
     will find their science more interpretable and more reproducible.
   license: BSD LICENSE
   name: Community-developed checklists for publishing images and image analyses
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Research Data Management
@@ -4303,6 +4510,7 @@ resources:
     experts
   license: CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
   name: EMBL-EBI material collection
+  proficiency_level: advanced beginner
   tags:
   - Bioinformatics
   - Training
@@ -4424,6 +4632,7 @@ resources:
   name: '[Workshop] FAIR data handling for microscopy: Structured metadata annotation
     in OMERO'
   num_downloads: 234
+  proficiency_level: advanced beginner
   publication_date: '2024-05-06'
   url:
   - https://zenodo.org/records/11109616
@@ -4437,6 +4646,7 @@ resources:
   license: CC-BY-4.0
   name: 'Getting started with Python: intro and set-up a conda environment'
   num_downloads: 6
+  proficiency_level: novice
   publication_date: '2024-10-09'
   url:
   - https://zenodo.org/records/13908480
@@ -4451,6 +4661,10 @@ resources:
   name: Bio-image Analysis Code Generation using bia-bob
   num_downloads: 101
   publication_date: '2024-10-09'
+  proficiency_level: advanced beginner
+  tags:
+  - artificial intelligence
+  - bioimage analysis
   url:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
@@ -4749,6 +4963,7 @@ resources:
     DMP.
   license: CC-BY-4.0
   name: Creating a Research Data Management Plan using chatGPT
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Large Language Models
@@ -4772,6 +4987,7 @@ resources:
     kommen.
   license: CC-BY-4.0
   name: Rechtsfragen bei Open Science - Ein Leitfaden
+  proficiency_level: advanced beginner
   tags:
   - Open Science
   - Open Access
@@ -4784,6 +5000,7 @@ resources:
     ImageJ.
   license: BSD-2-CLAUSE
   name: Fiji
+  proficiency_level: advanced beginner
   tags:
   - Imagej
   - OMERO
@@ -4903,6 +5120,7 @@ resources:
     with a powerful and versatile database.
   license: AGPL-3.0
   name: Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW)
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   type:
@@ -4924,6 +5142,7 @@ resources:
     what makes open data open, and what sorts of data are we talking about?
   license: CC-BY-4.0
   name: What is Open Data?
+  proficiency_level: advanced beginner
   tags:
   - Open Science
   type:
@@ -4934,6 +5153,7 @@ resources:
     available.
   license: UNKNOWN
   name: Five great reasons to share your research data
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Sharing
@@ -4961,6 +5181,7 @@ resources:
     how does it get there?
   license: UNKNOWN
   name: Finding and Choosing a Data Repository
+  proficiency_level: advanced beginner
   tags:
   - I3Dbio
   - Research Data Management
@@ -4985,6 +5206,7 @@ resources:
     of digital assets.
   license: CC-BY-4.0
   name: FAIR Priciples
+  proficiency_level: advanced beginner
   tags:
   - FAIR-Principles
   - Data Stewardship
@@ -4997,6 +5219,7 @@ resources:
     These steps are explained here.
   license: CC0-1.0
   name: Submitting data to the BioImage Archive
+  proficiency_level: advanced beginner
   tags:
   - Research Data Management
   - Image Data Management
@@ -5049,6 +5272,7 @@ resources:
     materials FAIR, enabling others to find, (re)use, and adapt them.
   license: CC-BY-4.0
   name: Ten simple rules for making training materials FAIR
+  proficiency_level: novice
   tags:
   - Metadata
   - Bioinformatics
@@ -5196,6 +5420,7 @@ resources:
   url: https://workflowhub.eu/
 - license: CC-BY-4.0
   name: Creating Workflows and Advanced Workflow Options
+  proficiency_level: competent
   tags:
   - Workflow
   type:
@@ -5208,6 +5433,7 @@ resources:
     genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
   license: CC0-1.0
   name: Galaxy workflows
+  proficiency_level: advanced beginner
   tags:
   - Workflow
   type:
@@ -5218,6 +5444,7 @@ resources:
     community.
   license: CC-BY-4.0
   name: Galaxy Training
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Data Analysis
@@ -5270,7 +5497,7 @@ resources:
 - authors:
   - SciPy
   - Erick Martins Ratamero
-  license: YOUTTUBE STANDARD LICENSE
+  license: YOUTUBE STANDARD LICENSE
   name: Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management
     | SciPy 2024
   tags:
@@ -5492,6 +5719,7 @@ resources:
   license: CC-BY-4.0
   name: Bio-image Analysis Code Generation
   num_downloads: 4
+  proficiency_level: advanced beginner
   publication_date: '2024-10-28'
   url:
   - https://zenodo.org/records/14001044
@@ -5501,6 +5729,7 @@ resources:
   - Léo Leplat
   description: These are the notebooks and associated files for the i2k 2024 QuPath
     for Python programmers workshop.
+  proficiency_level: advanced beginner
   tags:
   - Python
   - Notebooks
@@ -5517,6 +5746,7 @@ resources:
 - authors:
   - Stephan Saalfeld
   - Tobias Pietzsch
+  proficiency_level: competent
   tags:
   - Training
   type:
@@ -5534,6 +5764,7 @@ resources:
 - authors:
   - Jordão Bragantini
   - Teun Huijben
+  proficiency_level: competent
   tags:
   - Segmentation
   - Bioimage Analysis
@@ -5554,6 +5785,7 @@ resources:
   - Kristína Lidayová
   description: Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches"
     workshop
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Microscopy Image Analysis
@@ -5571,6 +5803,7 @@ resources:
   description: This repository contains training materials for the Tutorial "Bio-Image
     Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual)
     October 28th-30th 2024.
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Notebooks
@@ -5586,6 +5819,7 @@ resources:
   - Joanna Pylvänäinen
   description: I2K 2024 workshop materials for "Object Tracking and Track Analysis
     using TrackMate and CellTracksColab"
+  proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
   - Training
@@ -5606,6 +5840,7 @@ resources:
     @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto
     project, focussing on how to use the library for users who want use GPU-acceleration
     for their Image Processing pipeline.
+  proficiency_level: competent
   tags:
   - Clesperanto
   - Training
@@ -5626,6 +5861,7 @@ resources:
     seeking to process microscopy images from start to finish. The goal of this example
     pipeline is to get the user familiar with working with napari-ndev for batch processing
     and reproducibility (view Image Utilities and Workflow Widget).
+  proficiency_level: advanced beginner
   tags:
   - Napari
   - Microscopy Image Analysis
@@ -5740,6 +5976,7 @@ resources:
   license: BSD-3-CLAUSE
   name: Virtual-I2K-2024-multiview-stitcher
   publication_date: '2024-10-30T07:38:11+00:00'
+  proficiency_level: advanced beginner
   tags:
   - Big Data
   - Bioimageanalysis
@@ -5866,6 +6103,7 @@ resources:
   license: CC-BY-4.0
   name: introduction-to-generative-ai
   publication_date: '2024-09-27T14:38:51+00:00'
+  proficiency_level: novice
   tags:
   - Artificial Intelligence
   type:
@@ -5887,6 +6125,7 @@ resources:
   license: CC-BY-4.0
   name: nextflow-workshop
   publication_date: '2023-03-29T10:40:04+00:00'
+  proficiency_level: advanced beginner
   tags:
   - Workflow
   - Nextflow
@@ -5923,6 +6162,7 @@ resources:
   license: MIT
   name: YMIA - Python-Based Event Series Training Material
   publication_date: null
+  proficiency_level: novice
   tags:
   - Python
   - Large Language Models
@@ -5956,6 +6196,7 @@ resources:
   license: CC-BY-4.0
   name: Finding and using publicly available data
   publication_date: '2024-01-01'
+  proficiency_level: novice
   tags:
   - Open Science
   - Teaching
@@ -6051,6 +6292,7 @@ resources:
   name: '[Workshop Material] Fit for OMERO - How imaging facilities and IT departments
     work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg'
   num_downloads: 101
+  proficiency_level: advanced beginner
   publication_date: '2024-10-30'
   url:
   - https://zenodo.org/records/14013026
@@ -6069,6 +6311,7 @@ resources:
   name: Lecture-materials of the DeepLife course
   publication_date: '2023-12-06'
   license: UNKNOWN
+  proficiency_level: competent
   tags:
   - Bioinformatics
   type:
@@ -6107,6 +6350,7 @@ resources:
   license: CC-BY-4.0
   name: training-resources
   publication_date: '2020-04-23T07:51:38+00:00'
+  proficiency_level: advanced beginner
   tags:
   - Bioimageanalysis
   - Neurobias
@@ -6135,6 +6379,7 @@ resources:
     on your machine for better software building and testing.
   license: UNKNOWN
   name: Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+  proficiency_level: competent
   tags:
   - Docker
   - Training
@@ -6148,6 +6393,7 @@ resources:
     Unit.
   license: CC-BY-4.0
   name: SWC/GCNU Software Skills
+  proficiency_level: competent
   tags:
   - Training
   type:
@@ -6183,6 +6429,7 @@ resources:
     processing.
   license: CC-BY-4.0
   name: Image Processing with Python
+  proficiency_level: advanced beginner
   tags:
   - Segmentation
   - Bioimage Analysis
@@ -6332,6 +6579,7 @@ resources:
   license: UNKNOWN
   name: AI ML DL in Bioimage Analysis - Webinar
   publication_date: '2024-11-14'
+  proficiency_level: advanced beginner
   tags:
   - Deep Learning
   - Machine Learning
@@ -6369,6 +6617,7 @@ resources:
     and pitfalls
   license: UNKNOWN
   name: Metrics Reloaded - A framework for trustworthy image analysis validation
+  proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Image Segmentation
@@ -6385,6 +6634,7 @@ resources:
   license: CC-BY-4.0
   name: Metadata Annotation Workflow for OMERO with Tabbles
   num_downloads: 131
+  proficiency_level: advanced beginner
   publication_date: '2023-09-04'
   url:
   - https://zenodo.org/records/8314968
@@ -6597,6 +6847,7 @@ resources:
   license: CC-BY-4.0
   name: Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
   num_downloads: 255
+  proficiency_level: advanced beginner
   publication_date: '2024-06-03'
   url:
   - https://zenodo.org/records/11445843
@@ -6607,6 +6858,7 @@ resources:
   license: CC0-1.0
   name: Online_R_learning
   publication_date: '2023-07-09T06:27:14+00:00'
+  proficiency_level: advanced beginner
   tags:
   - Statistics
   type:
@@ -6619,6 +6871,7 @@ resources:
   license: MIT
   name: FriendsDontLetFriends
   publication_date: '2024-03-10T15:34:07+00:00'
+  proficiency_level: advanced beginner
   tags:
   - Visualization
   type:
@@ -6711,6 +6964,7 @@ resources:
   name: '[Workshop Material] Fit for OMERO - How imaging facilities and IT departments
     work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg'
   num_downloads: 144
+  proficiency_level: advanced beginner
   publication_date: '2024-11-18'
   url:
   - https://zenodo.org/records/14178789
@@ -6953,6 +7207,7 @@ resources:
   license: CC-BY-4.0
   name: '[Workshop] Bioimage data management and analysis with OMERO'
   num_downloads: 211
+  proficiency_level: advanced beginner
   publication_date: '2024-05-13'
   url:
   - https://zenodo.org/records/11350689
@@ -8131,6 +8386,7 @@ resources:
   license: CC-BY-4.0
   name: Research Data Managemet and how not to get overwhelmed with data
   num_downloads: 229
+  proficiency_level: advanced beginner
   publication_date: '2023-09-23'
   url:
   - https://zenodo.org/records/8372703
@@ -8525,6 +8781,7 @@ resources:
   license: OTHER-AT
   name: Introduction to light-microscopy / Widefield microscopy
   num_downloads: 104
+  proficiency_level: novice
   publication_date: '2022-05-10'
   url:
   - https://zenodo.org/records/6535296
@@ -9137,7 +9394,8 @@ resources:
   name: introduction-to-image-analysis
   publication_date: '2024-10-23T14:05:55+00:00'
   submission_date: '2024-12-18T12:21:50.116196'
-  tags: 
+  proficiency_level: advanced beginner
+  tags:
   - BioImage Analysis
   type: 
   - GitHub Repository
@@ -9150,7 +9408,8 @@ resources:
   name: rse-skills-workshop
   publication_date: '2023-12-22T17:39:48+00:00'
   submission_date: '2024-12-18T12:33:59.429229'
-  tags: 
+  proficiency_level: advanced beginner
+  tags:
   - Research Software Engineering
   type: 
   - GitHub Repository
@@ -9166,6 +9425,7 @@ resources:
   license: cc-by-4.0
   name: 'Large Language Models: An Introduction for Life Scientists'
   num_downloads: 24
+  proficiency_level: advanced beginner
   publication_date: '2024-12-12'
   submission_date: '2024-12-24T11:17:37.842980'
   url:
@@ -9372,7 +9632,8 @@ resources:
   name: V4SDB_Winter_School_2025
   publication_date: '2025-01-13T08:29:22+00:00'
   submission_date: '2025-01-13T16:19:01.176180'
-  tags: 
+  proficiency_level: advanced beginner
+  tags:
   - Cell Tracking
   - BioImage analysis
   type: 
@@ -9388,6 +9649,7 @@ resources:
   license: cc-by-4.0
   name: Collaborative Working and Version Control with git[hub]
   num_downloads: 194
+  proficiency_level: advanced beginner
   publication_date: '2024-01-10'
   submission_date: '2025-01-14T08:13:50.559032'
   url:
@@ -9451,6 +9713,7 @@ resources:
   license: UNKNOWN
   name: DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
   publication_date: '2024-07-29'
+  proficiency_level: advanced beginner
   tags:
   - Deep Learning
   - Microscopy
