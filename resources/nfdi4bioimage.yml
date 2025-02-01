@@ -7,7 +7,7 @@ resources:
   - Sharing
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
 - authors:
   - Marcelo Zoccoler
@@ -19,7 +19,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
 - authors:
   - Robert Haase
@@ -30,7 +30,7 @@ resources:
   - OMERO
   - Python
   type:
-  - Blog
+  - Blog Post
   url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
 - authors:
   - Mara Lampert
@@ -42,7 +42,7 @@ resources:
   - Conda
   - Mamba
   type:
-  - Blog
+  - Blog Post
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 - authors:
   - Jennifer Waters
@@ -52,7 +52,7 @@ resources:
   tags:
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
 - authors:
   - Job Fermie
@@ -61,7 +61,7 @@ resources:
   tags:
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
 - authors:
   - Mara Lampert
@@ -72,7 +72,7 @@ resources:
   - Napari
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/06/01/tracking-in-napari/
 - authors:
   - Mara Lampert
@@ -83,7 +83,7 @@ resources:
   - Napari
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/
 - authors:
   - Mara Lampert
@@ -94,7 +94,7 @@ resources:
   - Napari
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
 - authors:
   - Robert Haase
@@ -106,7 +106,7 @@ resources:
   - Conda
   - Mamba
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
 - authors:
   - Mara Lampert
@@ -117,7 +117,7 @@ resources:
   - Napari
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
 - authors:
   - Mara Lampert
@@ -128,7 +128,7 @@ resources:
   - Napari
   - Bioimage Analysis
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/
 - authors:
   - Jens Wendt
@@ -150,7 +150,7 @@ resources:
   - Python
   - Science Communication
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
 - authors:
   - Mara Lampert
@@ -163,7 +163,7 @@ resources:
   - Prompt Engineering
   - Biabob
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/
 - name: TESS Event database
   tags:
@@ -316,7 +316,7 @@ resources:
   - Bioimage Analysis
   - Artificial Intelligence
   type:
-  - Slide
+  - Slides
   url: https://f1000research.com/slides/12-971
 - license: ALL RIGHTS RESERVED
   name: MicroscopyDB
@@ -537,7 +537,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
 - authors:
   - Robert Haase
@@ -549,7 +549,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
 - authors:
   - Robert Haase
@@ -562,7 +562,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
 - authors:
   - Robert Haase
@@ -575,7 +575,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
 - authors:
   - Robert Haase
@@ -587,7 +587,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
 - authors:
   - Robert Haase
@@ -599,7 +599,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
 - authors:
   - Guillaume Witz
@@ -664,7 +664,7 @@ resources:
   tags:
   - Research Data Management
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/record/6602101
   - https://doi.org/10.5281/zenodo.6602101
@@ -795,7 +795,7 @@ resources:
   - Imagej
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01
 - authors:
   - Robert Haase
@@ -926,7 +926,7 @@ resources:
   - Nfdi4Bioimage
   - I3Dbio
   type:
-  - Slide
+  - Slides
   - Video
   url:
   - https://zenodo.org/records/8323588
@@ -1140,7 +1140,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Tutorial
   url: https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017
 - authors:
@@ -1183,7 +1183,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Code
   - Notebook
   url: https://github.com/miura/NEUBIAS_AnalystSchool2020
@@ -1205,7 +1205,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Code
   - Notebook
   url: https://github.com/miura/NEUBIAS_AnalystSchool2019
@@ -1223,7 +1223,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Code
   - Notebook
   url: https://github.com/miura/NEUBIAS_AnalystSchool2018
@@ -1270,7 +1270,7 @@ resources:
   name: Bio Image Analysis
   proficiency_level: novice
   type:
-  - Slide
+  - Slides
   url: https://github.com/tischi/presentation-image-analysis
 - authors:
   - Jonas Hartmann
@@ -1343,7 +1343,7 @@ resources:
   - Python
   - Big Data
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/tischi/i2k-2020-s3-zarr-workshop
 - authors:
   - Jacob Deppen
@@ -1563,7 +1563,7 @@ resources:
   - Imagej Macro
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Code
   url: https://github.com/ahklemm/ImageJMacro_Introduction
 - authors:
@@ -1576,7 +1576,7 @@ resources:
   - Cellprofiler
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://github.com/ahklemm/CellProfiler_Introduction
 - authors:
   - Martin Weigert
@@ -1605,7 +1605,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Notebook
   url: https://github.com/maweigert/neubias_academy_stardist
 - authors:
@@ -1686,7 +1686,7 @@ resources:
   type:
   - Online Tutorial
   - Video
-  - Slide
+  - Slides
   url:
   - https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/
   - https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1
@@ -1700,7 +1700,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
 - authors:
   - Estibaliz Gómez-de-Mariscal
@@ -1711,7 +1711,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://github.com/esgomezm/zidas2020_intro_DL
 - authors:
   - Estibaliz Gómez-de-Mariscal
@@ -1722,7 +1722,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf
 - authors:
   - Jan Funke
@@ -1736,7 +1736,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Notebook
   url: https://github.com/JLrumberger/DL-MBL-2021
 - license: MIT
@@ -1755,7 +1755,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.4330625
 - name: 'CZI: Open Science Program Collection'
   type:
@@ -1778,7 +1778,7 @@ resources:
   tags:
   - Workflow Engine
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/4334697
   - https://doi.org/10.5281/zenodo.4334697
@@ -1792,7 +1792,7 @@ resources:
   tags:
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/4328911
   - https://doi.org/10.5281/zenodo.4328911
@@ -1812,7 +1812,7 @@ resources:
   publication_date: '2020-12-11'
   proficiency_level: competent
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/4317149
   - https://doi.org/10.5281/zenodo.4317149
@@ -1825,7 +1825,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53
 - authors:
   - Aastha Mathur
@@ -1833,7 +1833,7 @@ resources:
   name: 'Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image
     Data and Analysis Services'
   type:
-  - Slide
+  - Slides
   url: https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1
 - authors:
   - Kota Miura
@@ -1844,7 +1844,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0
 - authors:
   - Bugra Oezdemir
@@ -1865,7 +1865,7 @@ resources:
   - Artificial Intelligence
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54
 - authors:
   - Robert Haase
@@ -1874,7 +1874,7 @@ resources:
     image processing'
   proficiency_level: competent
   type:
-  - Slide
+  - Slides
   url:
   - https://f1000research.com/slides/11-1171
   - https://doi.org/10.7490/f1000research.1119154.1
@@ -1887,7 +1887,7 @@ resources:
   tags:
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
 - authors:
   - Sébastien Tosi
@@ -1900,7 +1900,7 @@ resources:
   - Neubias
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
 - authors:
   - Kota Miura
@@ -1974,11 +1974,9 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
-  - Tu Dresden
-  - Bioimage Data
   - Nfdi4Bioimage
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/10083555
   - https://doi.org/10.5281/zenodo.10083555
@@ -1996,10 +1994,10 @@ resources:
   publication_date: '2024-03-13'
   proficiency_level: advanced beginner
   tags:
-  - Large Language Models
+  - artificial intelligence
   - Python
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/10815329
   - https://doi.org/10.5281/zenodo.10815329
@@ -2035,9 +2033,9 @@ resources:
   name: Bio-image Data Science
   proficiency_level: advanced beginner
   tags:
-  - Image Data Management
-  - Deep Learning
-  - Microscopy Image Analysis
+  - Research Data Management
+  - artificial intelligence
+  - Bio-Image Analysis
   - Python
   type:
   - Notebook
@@ -2051,9 +2049,7 @@ resources:
   name: Introduction to Deep Learning for Microscopy
   proficiency_level: competent
   tags:
-  - Deep Learning
-  - Pytorch
-  - Segmentation
+  - artificial intelligence
   - Python
   type:
   - Notebook
@@ -2085,7 +2081,6 @@ resources:
   name: QI 2024 Analysis Lab Manual
   proficiency_level: advanced beginner
   tags:
-  - Segmentation
   - Python
   type:
   - Notebook
@@ -2146,7 +2141,7 @@ resources:
   - Marvin Albert
   description: Tutorial material for teaching the basics of (itk-)elastix for image
     registration in microscopy images.
-  license: BSD LICENSE
+  license: BSD-3-CLAUSE
   name: Elastix tutorial
   proficiency_level: advanced beginner
   tags:
@@ -2175,10 +2170,10 @@ resources:
   name: NeubiasPasteur2023_AdvancedCellPose
   proficiency_level: competent
   tags:
-  - Cellpose
-  - Segmentation
+  - bioimage analysis
+  - artificial intelligence
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose
 - authors:
   - Andrii Iudin
@@ -2207,9 +2202,9 @@ resources:
   name: 'Microscopy data analysis: machine learning and the BioImage Archive'
   proficiency_level: competent
   tags:
-  - Microscopy Image Analysis
+  - BioImage Analysis
   - Python
-  - Deep Learning
+  - artificial intelligence
   type:
   - Video
   - Slides
@@ -2329,9 +2324,9 @@ resources:
   name: FAIRy deep-learning for bioImage analysis
   proficiency_level: competent
   tags:
-  - Deep Learning
+  - artificial intelligence
   - FAIR-Principles
-  - Microscopy Image Analysis
+  - BioImage Analysis
   type:
   - Slides
   url: https://f1000research.com/slides/13-147
@@ -2339,7 +2334,7 @@ resources:
   name: BioImage Archive AI Gallery
   tags:
   - Bioimage Analysis
-  - Deep Learning
+  - artificial intelligence
   type:
   - Collection
   - Data
@@ -2378,7 +2373,7 @@ resources:
   - Python
   - OMERO
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/rmassei/2024-jn-omero-pipeline
 - authors:
   - Anirban Ray
@@ -2657,9 +2652,8 @@ resources:
   publication_date: '2024-05-23'
   proficiency_level: competent
   tags:
-  - Image Segmentation
   - Bioimage Analysis
-  - Deep Learning
+  - artificial intelligence
   type:
   - Slides
   url:
@@ -2951,8 +2945,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
-  - Deep Learning
-  - Microscopy Image Analysis
+  - artificial intelligence
   - Python
   type:
   - Slides
@@ -2967,11 +2960,10 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
-  - Deep Learning
-  - Microscopy Image Analysis
+  - artificial intelligence
   - Python
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/ScaDS/BIDS-lecture-2024/
 - authors:
   - Kate Hertweck
@@ -3051,7 +3043,7 @@ resources:
   - Sharing
   - Research Data Management
   type:
-  - Slide
+  - Slides
   url: https://f1000research.com/slides/10-519
 - authors:
   - Robert Haase
@@ -3065,7 +3057,7 @@ resources:
   - Licensing
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
 - authors:
   - Robert Haase
@@ -3077,7 +3069,7 @@ resources:
   - Sharing
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
 - authors:
   - Robert Haase
@@ -3090,7 +3082,7 @@ resources:
   - Sharing
   - Research Data Management
   type:
-  - Blog
+  - Blog Post
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
 - authors:
   - Thomas Zobel
@@ -3512,7 +3504,7 @@ resources:
   - Research Data Management
   - Nfdi4Bioimage
   type:
-  - Slide
+  - Slides
   url:
   - https://zenodo.org/records/8329306
   - https://doi.org/10.5281/zenodo.8329306
@@ -3525,7 +3517,7 @@ resources:
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
-  - Slide
+  - Slides
   url: https://f1000research.com/slides/12-1054
 - authors:
   - Mohamed M. Abdrabbou
@@ -3626,7 +3618,7 @@ resources:
   - Bioimage Analysis
   - Nfdi4Bioimage
   type:
-  - Github Repository
+  - Github repository
   url: https://zenodo.org/doi/10.5281/zenodo.10609770
 - authors:
   - Josh Moore
@@ -4157,7 +4149,7 @@ resources:
   name: BioEngine Documentation
   tags:
   - Workflow Engine
-  - Deep Learning
+  - artificial intelligence
   - Python
   type:
   - Documentation
@@ -4391,7 +4383,6 @@ resources:
   license: CC-BY-4.0
   name: Using Glittr.org to find, compare and re-use online training materials
   tags:
-  - Training
   - Bioimage Analysis
   - Research Data Management
   type:
@@ -4409,7 +4400,7 @@ resources:
   - OMERO
   - Bioimage Analysis
   type:
-  - Github Repository
+  - Github repository
   url: https://biapol.github.io/omero-tools/
 - authors:
   - Manan Lalit
@@ -4424,7 +4415,7 @@ resources:
   - Bioimage Analysis
   - Instance Segmentation
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/juglab/EmbedSeg
 - authors:
   - Pauli Virtanen et al.
@@ -4435,19 +4426,19 @@ resources:
   tags:
   - Bioimage Analysis
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/scipy/scipy-cookbook
 - authors:
   - Ziv Yaniv et al.
   description: Jupyter notebooks for learning how to use SimpleITK
-  license: APACHE-2.0 LICENSE
+  license: APACHE-2.0
   name: SimpleITK-Notebooks
   proficiency_level: competent
   tags:
   - Bioimage Analysis
   - Simpleitk
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
 - authors:
   - Juan Nunez-Iglesias et al.
@@ -4460,7 +4451,7 @@ resources:
   - Bioimage Analysis
   - Scikit-Image
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/scikit-image/skimage-tutorials
 - authors:
   - Loïc Estève et al.
@@ -4472,7 +4463,7 @@ resources:
   - Bioimage Analysis
   - Machine Learning
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/INRIA/scikit-learn-mooc
 - authors:
   - Yandex School of Data Analysis
@@ -4483,7 +4474,7 @@ resources:
   tags:
   - Natural Language Processing
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/yandexdataschool/nlp_course
 - authors:
   - Beth Cimini et al.
@@ -4494,7 +4485,7 @@ resources:
     goals. By following this guidance, we hope to remove some of the stress non-experts
     may face in determining what they need to do, and we also believe that researchers
     will find their science more interpretable and more reproducible.
-  license: BSD LICENSE
+  license: BSD-3-CLAUSE
   name: Community-developed checklists for publishing images and image analyses
   proficiency_level: advanced beginner
   tags:
@@ -4513,7 +4504,6 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioinformatics
-  - Training
   type:
   - Collection
   url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
@@ -4702,7 +4692,7 @@ resources:
   tags:
   - Bioimage Analysis
   type:
-  - Slide
+  - Slides
   - Presentation
   num_downloads: 86
   publication_date: '2022-07-22'
@@ -4786,10 +4776,8 @@ resources:
     specifications extending the OME model
   tags:
   - Reproducibility
-  - Microscopy Image Analysis
+  - BioImage Analysis
   - Metadata
-  - Image Data Management
-  - Bioimage Data
   type:
   - Publication
   publication_date: '2022-07-10'
@@ -4811,8 +4799,6 @@ resources:
     data in biology
   tags:
   - Metadata
-  - Bioimage Data
-  - Image Data Management
   - Research Data Management
   type:
   - Publication
@@ -4854,12 +4840,10 @@ resources:
     for Microscopy Data
   tags:
   - Nfdi4Bioimage
-  - Image Data Management
-  - Bioimage Data
   - Research Data Management
   type:
   - Conference Abstract
-  - Slide
+  - Slides
   publication_date: '2021-04-29'
   url: https://doi.org/10.11588/heidok.00029489
 - authors:
@@ -4966,10 +4950,9 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
-  - Large Language Models
   - Artificial Intelligence
   type:
-  - Blog
+  - Blog Post
   publication_date: '2023-11-06'
   url: https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/
 - authors:
@@ -5016,7 +4999,6 @@ resources:
   - Metadata
   - I3Dbio
   - Research Data Management
-  - Bioimage Data
   type:
   - Collection
   url:
@@ -5046,7 +5028,6 @@ resources:
   name: The Open Microscopy Environment (OME) Data Model and XML file - open tools
     for informatics and quantitative analysis in biological imaging
   tags:
-  - Microscopy Image Analysis
   - Bioimage Analysis
   type:
   - Publication
@@ -5068,8 +5049,6 @@ resources:
     Data
   tags:
   - Research Data Management
-  - Image Data Management
-  - Bioimage Data
   type:
   - Publication
   num_downloads: 768
@@ -5082,9 +5061,7 @@ resources:
   tags:
   - FAIR-Principles
   - Metadata
-  - Image Data Management
   - Research Data Management
-  - Bioimage Data
   type:
   - Collection
   url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
@@ -5106,8 +5083,6 @@ resources:
   - FAIR-Principles
   - Metadata
   - Research Data Management
-  - Image Data Management
-  - Bioimage Data
   type:
   - Publication
   publication_date: '2023-07-17'
@@ -5158,7 +5133,7 @@ resources:
   - Research Data Management
   - Sharing
   type:
-  - Blog
+  - Blog Post
   publication_date: '2022-03-18'
   url: https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
 - description: The website offers detailed advice on publishing research data, focusing
@@ -5222,8 +5197,6 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
-  - Image Data Management
-  - Bioimage Data
   type:
   - Tutorial
   - Video
@@ -5240,9 +5213,7 @@ resources:
   license: UNKNOWN
   name: The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
   tags:
-  - Image Data Management
   - Research Data Management
-  - Bioimage Data
   type:
   - Publication
   publication_date: '2022-06-22'
@@ -5277,7 +5248,6 @@ resources:
   - Metadata
   - Bioinformatics
   - FAIR-Principles
-  - Training
   type:
   - Publication
   num_downloads: 4311
@@ -5306,7 +5276,6 @@ resources:
   tags:
   - Research Data Management
   - Bioimage Analysis
-  - Image Data Management
   - Open Science
   type:
   - Slides
@@ -5320,7 +5289,6 @@ resources:
   name: DataPLANT knowledge base
   tags:
   - Research Data Management
-  - Training
   - Dataplant
   type:
   - Collection
@@ -5332,7 +5300,6 @@ resources:
   license: GPL-2.0
   name: NGFF Converter
   tags:
-  - Bioimage Data
   - Open Source Software
   type:
   - Application
@@ -5350,10 +5317,9 @@ resources:
   name: bioformats2raw Converter
   tags:
   - Open Source Software
-  - Bioimage Data
   type:
   - Application
-  - Github Repository
+  - Github repository
   url: https://github.com/glencoesoftware/bioformats2raw
 - authors:
   - Melissa Linkert
@@ -5366,10 +5332,9 @@ resources:
   name: raw2ometiff Converter
   tags:
   - Open Source Software
-  - Bioimage Data
   type:
   - Application
-  - Github Repository
+  - Github repository
   url: https://github.com/glencoesoftware/raw2ometiff
 - description: This Focus issue features a series of papers offering guidelines and
     tools for improving the tracking and reporting of microscopy metadata with an
@@ -5379,7 +5344,6 @@ resources:
   tags:
   - Reproducibility
   - Metadata
-  - Bioimage Data
   type:
   - Collection
   publication_date: '2021-12-03'
@@ -5392,8 +5356,7 @@ resources:
   license: CC0-1.0
   name: Checklists for publishing images and image analysis
   tags:
-  - Bioimage Data
-  - Microscopy Image Analysis
+  - BioImage Analysis
   type:
   - Forum Post
   publication_date: '2023-09-14'
@@ -5459,12 +5422,11 @@ resources:
     140 different kinds of images and to apply well known methods on images, like
     preprocessing. segmentation, feature extraction, tracking and classification in
     KNIME.
-  license: GPLV3
+  license: GPL-3.0
   name: KNIME Image Processing
   tags:
   - Imagej
   - OMERO
-  - Bioimage Data
   - Workflow
   type:
   - Tutorial
@@ -5486,8 +5448,6 @@ resources:
   name: Open Micoscropy Environment (OME) Youtube Channel
   tags:
   - Open Source Software
-  - Microscopy Image Analysis
-  - Bioimage Data
   type:
   - Video
   - Collection
@@ -5501,7 +5461,6 @@ resources:
   name: Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management
     | SciPy 2024
   tags:
-  - Image Data Management
   - OMERO
   - Bioimage Analysis
   type:
@@ -5523,7 +5482,7 @@ resources:
   - Github
   - Fiji
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/GReD-Clermont/simple-omero-client
 - description: An ImageJ plugin to run a script or macro on a batch of images from/to
     OMERO.
@@ -5535,7 +5494,7 @@ resources:
   - Imagej Macro
   - Github
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/GReD-Clermont/omero_batch-plugin
 - authors:
   - Torec T. Luik
@@ -5552,7 +5511,6 @@ resources:
   - OMERO
   - Workflow
   - Bioimage Analysis
-  - Image Data Management
   type:
   - Publication
   num_downloads: null
@@ -5570,7 +5528,7 @@ resources:
   - OMERO
   - Github
   type:
-  - Github Repository
+  - Github repository
   publication_date: '2024-07-24'
   url: https://github.com/NL-BioImaging/biomero
 - authors:
@@ -5587,7 +5545,7 @@ resources:
   tags:
   - OMERO
   type:
-  - Github Repository
+  - Github repository
   publication_date: '2024-09-14'
   url: https://github.com/ome/omero-cli-transfer
 - authors:
@@ -5598,10 +5556,8 @@ resources:
   description: Web page for validating OME-NGFF files.
   license: BSD-2-CLAUSE
   name: ome-ngff-validator
-  tags:
-  - Bioimage Data
   type:
-  - Github Repository
+  - Github repository
   - Application
   publication_date: '2022-09-29'
   url:
@@ -5612,8 +5568,6 @@ resources:
     the command line, which are listed here.
   license: CC-BY-4.0
   name: BioFormats Command line (CLI) tools
-  tags:
-  - Bioimage Data
   type:
   - Documentation
   publication_date: '2024-10-24'
@@ -5669,8 +5623,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13331351
 - authors:
   - Rémy Jean Daniel Dornier
-  license:
-  - CC-BY-NC-SA-4.0
+  license: CC-BY-NC-SA-4.0
   name: OMERO - QuPath
   description: OMERO-RAW extension for QuPath allows to directly access to the raw
     pixels of images. All types of images (RGB, fluorescence, ...) are supported with
@@ -5686,8 +5639,7 @@ resources:
   - Gaole Dai
   - Tiejun Huang
   - Jianxu Chen
-  license:
-  - CC-BY-NC-SA
+  license: CC-BY-NC-SA
   description: Multimodal large language models have been recognized as a historical
     milestone in the field of artificial intelligence and have demonstrated revolutionary
     potentials not only in commercial applications, but also for many scientific fields.
@@ -5697,7 +5649,6 @@ resources:
   name: Multimodal large language models for bioimage analysis
   tags:
   - Bioimage Analysis
-  - Large Language Models
   - FAIR-Principles
   - Workflow
   type:
@@ -5736,7 +5687,7 @@ resources:
   - Open Source Software
   - Bioimage Analysis
   type:
-  - Github Repository
+  - Github repository
   - Notebook
   - Collection
   license: UNKNOWN
@@ -5748,11 +5699,11 @@ resources:
   - Tobias Pietzsch
   proficiency_level: competent
   tags:
-  - Training
+  - Bioimage Analysis
   type:
   - Workshop
   - Notebook
-  - Github Repository
+  - Github repository
   license: APACHE-2.0
   name: I2K2024 workshop material - Lazy Parallel Processing and Visualization of
     Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
@@ -5766,12 +5717,10 @@ resources:
   - Teun Huijben
   proficiency_level: competent
   tags:
-  - Segmentation
   - Bioimage Analysis
-  - Training
   type:
   - Workshop
-  - Github Repository
+  - Github repository
   - Tutorial
   license: BSD3-CLAUSE
   name: Ultrack I2K 2024 Workshop Materials
@@ -5788,9 +5737,8 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
-  - Microscopy Image Analysis
   type:
-  - Github Repository
+  - Github repository
   - Slides
   - Workshop
   license: CC-BY-4.0
@@ -5809,7 +5757,7 @@ resources:
   - Notebooks
   - Biabob
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   - Notebook
   license: BSD-3-CLAUSE
@@ -5822,9 +5770,8 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
-  - Training
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   - Workshop
   - Slides
@@ -5842,13 +5789,9 @@ resources:
     for their Image Processing pipeline.
   proficiency_level: competent
   tags:
-  - Clesperanto
-  - Training
   - Bioimage Analysis
-  - Notebooks
-  - Workflow
   type:
-  - Github Repository
+  - Github repository
   - Workshop
   - Tutorial
   - Notebook
@@ -5864,11 +5807,10 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Napari
-  - Microscopy Image Analysis
   - Bioimage Analysis
   type:
   - Documentation
-  - Github Repository
+  - Github repository
   - Tutorial
   license: BSD-3-CLAUSE
   name: Example Pipeline Tutorial
@@ -5940,9 +5882,8 @@ resources:
   description: Example Workflows / usage of the Glencoe Software.
   tags:
   - OMERO
-  - Training
   type:
-  - Videos
+  - Video
   - Tutorial
   - Collection
   license: UNKNOWN
@@ -5960,8 +5901,6 @@ resources:
     of the art of bioimaging RDM and the community needs.
   tags:
   - Research Data Management
-  - Image Data Management
-  - Bioimage Data
   type:
   - Publication
   license: CC-BY-4.0
@@ -5981,7 +5920,7 @@ resources:
   - Big Data
   - Bioimageanalysis
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   url:
   - https://github.com/m-albert/Virtual-I2K-2024-multiview-stitcher
@@ -6031,7 +5970,7 @@ resources:
   - Prompt Engineering
   - Code Generation
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   url: https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
 - authors:
@@ -6107,7 +6046,7 @@ resources:
   tags:
   - Artificial Intelligence
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   url:
   - https://github.com/vibbits/introduction-to-generative-ai
@@ -6130,7 +6069,7 @@ resources:
   - Workflow
   - Nextflow
   type:
-  - Github Repository
+  - Github repository
   - Tutorial
   url:
   - https://github.com/vibbits/nextflow-workshop
@@ -6146,7 +6085,6 @@ resources:
   name: Upcoming Image Analysis Events
   tags:
   - Bioimage Analysis
-  - Microscopy Image Analysis
   type:
   - Collection
   - Event
@@ -6165,13 +6103,10 @@ resources:
   proficiency_level: novice
   tags:
   - Python
-  - Large Language Models
-  - Prompt Engineering
-  - Biabob
+  - artifical intelligence
   - Bioimage Analysis
-  - Microscopy Image Analysis
   type:
-  - Github Repository
+  - Github repository
   - Slides
   url: https://github.com/rmassei/ymia_python_event_series_material
 - authors:
@@ -6182,9 +6117,8 @@ resources:
   name: RDM_system_connector
   tags:
   - Research Data Management
-  - Image Data Management
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/SaibotMagd/RDM_system_connector
 - authors:
   - Anna Swan
@@ -6204,7 +6138,7 @@ resources:
   type:
   - Collection
   - Tutorial
-  - Videos
+  - Video
   url: https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/
 - authors:
   - Tom Boissonnet
@@ -6315,7 +6249,7 @@ resources:
   tags:
   - Bioinformatics
   type:
-  - Github Repository
+  - Github repository
   - Slides
   - Notebook
   url: https://github.com/deeplife4eu/Lecture-materials/
@@ -6355,7 +6289,7 @@ resources:
   - Bioimageanalysis
   - Neurobias
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/NEUBIAS/training-resources
 - authors:
   - Arif Khan
@@ -6382,9 +6316,8 @@ resources:
   proficiency_level: competent
   tags:
   - Docker
-  - Training
   type:
-  - Videos
+  - Video
   - Tutorial
   - Online Course
   url: https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW
@@ -6394,12 +6327,10 @@ resources:
   license: CC-BY-4.0
   name: SWC/GCNU Software Skills
   proficiency_level: competent
-  tags:
-  - Training
   type:
   - Collection
   - Online Course
-  - Videos
+  - Video
   - Tutorial
   url: https://software-skills.neuroinformatics.dev/index.html
 - authors:
@@ -6431,12 +6362,8 @@ resources:
   name: Image Processing with Python
   proficiency_level: advanced beginner
   tags:
-  - Segmentation
   - Bioimage Analysis
-  - Training
   - Python
-  - Scikit-Image
-  - Image Segmentation
   type:
   - Tutorial
   - Workflow
@@ -6581,13 +6508,10 @@ resources:
   publication_date: '2024-11-14'
   proficiency_level: advanced beginner
   tags:
-  - Deep Learning
-  - Machine Learning
   - Artificial Intelligence
   - Bioimage Analysis
-  - Large Language Models
   type:
-  - Youtube Video
+  - Video
   - Slides
   - Webinar
   url: https://www.youtube.com/watch?v=TJXNMIWtdac
@@ -6605,10 +6529,10 @@ resources:
     learning for microscopy
   publication_date: '2024-10-24'
   tags:
-  - Deep Learning
-  - Microscopy Image Analysis
+  - artificial intelligence
+  - BioImage Analysis
   type:
-  - Youtube Video
+  - Video
   - Slides
   url: https://www.youtube.com/watch?v=KTdZBgSCYJQ
 - description: The mission of Metrics Reloaded is to guide researchers in the selection
@@ -6620,8 +6544,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
-  - Image Segmentation
-  - Machine Learning
+  - Quality Control
   type:
   - Website
   - Collection
@@ -6862,7 +6785,7 @@ resources:
   tags:
   - Statistics
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/cxli233/Online_R_learning
 - authors:
   - C. Li
@@ -6875,7 +6798,7 @@ resources:
   tags:
   - Visualization
   type:
-  - Github Repository
+  - Github repository
   url: https://github.com/cxli233/FriendsDontLetFriends
 - submission_date: '2024-11-18T14:39:37.692470'
   authors:
@@ -6966,6 +6889,9 @@ resources:
   num_downloads: 144
   proficiency_level: advanced beginner
   publication_date: '2024-11-18'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/14178789
   - https://doi.org/10.5281/zenodo.14178789
@@ -6998,6 +6924,9 @@ resources:
   name: NFDI4Bioimage Calendar 2024 October; original image
   num_downloads: 8
   publication_date: '2024-09-25'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/13837146
   - https://doi.org/10.5281/zenodo.13837146
@@ -7041,6 +6970,9 @@ resources:
   name: Towards Preservation of Life Science Data with NFDI4BIOIMAGE
   num_downloads: 228
   publication_date: '2024-09-03'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/13640979
   - https://doi.org/10.5281/zenodo.13640979
@@ -7145,6 +7077,9 @@ resources:
     FAIR data management for microscopy and bioimage analysis
   num_downloads: 54
   publication_date: '2024-06-06'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/11501662
   - https://doi.org/10.5281/zenodo.11501662
@@ -7209,6 +7144,9 @@ resources:
   num_downloads: 211
   proficiency_level: advanced beginner
   publication_date: '2024-05-13'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/11350689
   - https://doi.org/10.5281/zenodo.11350689
@@ -7224,6 +7162,9 @@ resources:
     FAIR Data, It''s Just Fancy Math'
   num_downloads: 54
   publication_date: '2024-05-21'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/11235513
   - https://doi.org/10.5281/zenodo.11235513
@@ -7385,6 +7326,9 @@ resources:
   name: Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
   num_downloads: 10
   publication_date: '2024-06-26'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/12546808
   - https://doi.org/10.5281/zenodo.12546808
@@ -7423,6 +7367,9 @@ resources:
   name: A journey to FAIR microscopy data
   num_downloads: 68
   publication_date: '2023-05-03'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/7890311
   - https://doi.org/10.5281/zenodo.7890311
@@ -7835,6 +7782,9 @@ resources:
     acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
   num_downloads: 12
   publication_date: '2024-06-28'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/12578084
   - https://doi.org/10.5281/zenodo.12578084
@@ -8037,6 +7987,9 @@ resources:
     FAIR microscopy data management for the community
   num_downloads: 44
   publication_date: '2024-03-04'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/10805204
   - https://doi.org/10.5281/zenodo.10805204
@@ -8052,6 +8005,9 @@ resources:
   name: '[Community Meeting 2024] Overview Team Image Data Analysis and Management'
   num_downloads: 52
   publication_date: '2024-03-08'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/10796364
   - https://doi.org/10.5281/zenodo.10796364
@@ -8499,7 +8455,6 @@ resources:
   - https://doi.org/10.5281/zenodo.7409423
 - submission_date: '2024-11-18T16:34:30.357363'
   authors:
-  - Martin Schätz
   - Martin Schätz
   description: The slides were presented during the Macro programming with ImageJ
     workshop (https://www.16mcm.cz/programme/#workshops) which was part of the&nbsp;16th
@@ -9099,7 +9054,7 @@ resources:
   authors:
   - Cavanagh
   description: A test data set for troublshooting. no scientific meaning.
-  license: CC-ZERO
+  license: CC0-1.0
   name: Ink in a dish
   num_downloads: 3
   publication_date: '2024-09-03'
@@ -9211,6 +9166,9 @@ resources:
   num_downloads: 704
   publication_date: '2022-07-12'
   submission_date: '2024-11-19T15:37:57.161475'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/7018750
   - https://doi.org/10.5281/zenodo.7018750
@@ -9258,6 +9216,9 @@ resources:
   num_downloads: 60
   publication_date: '2022-05-30'
   submission_date: '2024-11-19T15:37:57.429914'
+  tags:
+  - nfdi4bioimage
+  - research data managementv
   url:
   - https://zenodo.org/records/6905931
   - https://doi.org/10.5281/zenodo.6905931
@@ -9287,6 +9248,9 @@ resources:
   num_downloads: 23
   publication_date: '2024-11-01'
   submission_date: '2024-12-03T11:19:33.910078'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/14234608
   - https://doi.org/10.5281/zenodo.14234608
@@ -9306,24 +9270,38 @@ resources:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
 
-- authors: "Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot],\
-    \ JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet"
+- authors: 
+  - Will Moore
+  - Josh Moore
+  - sherwoodf
+  - jean-marie burel
+  - Norman Rzepka
+  - dependabot[bot]
+  - JensWendt
+  - Joost de Folter
+  - Torsten St\xF6ter
+  - AybukeKY
+  - Eric Perlman
+  - Tom Boissonnet
   description: Project planning and material repository for the 2024 challenge to generate
     1 PB of OME-Zarr data
-  license: BSD 3-Clause "New" or "Revised" License
+  license: BSD 3-Clause
   name: ome2024-ngff-challenge
   publication_date: '2024-08-30T12:00:53+00:00'
   submission_date: '2024-12-04T07:10:23.182293'
-  tags: sharing
+  tags:
+  - sharing
+  - nfdi4bioimage
+  - research data management
   type: GitHub Repository
   url: https://github.com/ome/ome2024-ngff-challenge
   
 - authors:
-  - "K\xF6nig-Ries, Birgitta"
-  - Haase, Robert
-  - "N\xFCst, Daniel"
-  - "F\xF6rstner, Konrad"
-  - Engel, Judith Sophie
+  - "Birgitta K\xF6nig-Ries"
+  - Robert Haase
+  - "Daniel N\xFCst"
+  - "Konrad F\xF6rstner"
+  - Judith Sophie Engel
   description: In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste
     der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die
     Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
@@ -9332,12 +9310,15 @@ resources:
   num_downloads: 91
   publication_date: '2024-12-04'
   submission_date: '2024-12-10T11:19:45.214265'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/14278058
   - https://doi.org/10.5281/zenodo.14278058
 - authors:
-  - Marin, Zach
-  - Su, Maohan
+  - Zach Marin
+  - Maohan Su
   description: Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction
     requirement.
   license: cc-by-4.0
@@ -9349,8 +9330,8 @@ resources:
   - https://zenodo.org/records/14287640
   - https://doi.org/10.5281/zenodo.14287640
 - authors:
-  - Marin, Zach
-  - Su, Maohan
+  - Zach Marin
+  - Maohan Su
   description: 10 frames of fluorescent particles. They don't do much, but they are
     a DCIMG version 0x7 file example.
   license: cc-by-4.0
@@ -9362,7 +9343,7 @@ resources:
   - https://zenodo.org/records/14281237
   - https://doi.org/10.5281/zenodo.14281237
 - authors:
-  - Marin, Zach
+  - Zach Marin
   description: Bead stack taken on lower path of a 4Pi without deformable mirror corrections.
     DCIMG examples, not for other purposes.
   license: cc-by-4.0
@@ -9374,9 +9355,11 @@ resources:
   - https://zenodo.org/records/14268554
   - https://doi.org/10.5281/zenodo.14268554
 
-- authors: JanClusmann, Tim Lenz
+- authors:
+  - JanClusmann
+  - Tim Lenz
   description: ''
-  license: GNU General Public License v3.0
+  license: GPL-3.0
   name: patho_prompt_injection
   publication_date: '2024-11-08T08:32:03+00:00'
   submission_date: '2024-12-17T03:35:48.039490'
@@ -9384,13 +9367,16 @@ resources:
   - histopathology
   - bioimage analysis
   type: 
-  - GitHub Repository
+  - Github repository
   - notebook
   url: https://github.com/KatherLab/patho_prompt_injection
   
-- authors: Dave Barry, Stefania Marcotti, Martin Jones
+- authors:
+  - Dave Barry
+  - Stefania Marcotti
+  - Martin Jones
   description: ''
-  license: Creative Commons Attribution Share Alike 4.0 International
+  license: cc-by-sa-4.0
   name: introduction-to-image-analysis
   publication_date: '2024-10-23T14:05:55+00:00'
   submission_date: '2024-12-18T12:21:50.116196'
@@ -9398,13 +9384,13 @@ resources:
   tags:
   - BioImage Analysis
   type: 
-  - GitHub Repository
+  - Github repository
   - notebooks
   url: https://github.com/RMS-DAIM/introduction-to-image-analysis
   
 - authors: Jack Atkinson
   description: Teaching materials for improving research software writing abilities.
-  license: GNU General Public License v3.0
+  license: GPL-3.0
   name: rse-skills-workshop
   publication_date: '2023-12-22T17:39:48+00:00'
   submission_date: '2024-12-18T12:33:59.429229'
@@ -9412,11 +9398,11 @@ resources:
   tags:
   - Research Software Engineering
   type: 
-  - GitHub Repository
+  - Github repository
   - Slides
   url: https://github.com/jatkinson1000/rse-skills-workshop
 - authors:
-  - Haase, Robert
+  - Robert Haase
   description: 'This slide deck introduces Large Language Models to an audience of
     life-scientists. We first dive into terminology: Different kinds of Language Models
     and what they can be used for. The remaining slides are optional slides to allow
@@ -9428,13 +9414,16 @@ resources:
   proficiency_level: advanced beginner
   publication_date: '2024-12-12'
   submission_date: '2024-12-24T11:17:37.842980'
+  tags:
+  - globias
+  - artificial intelligence
   url:
   - https://zenodo.org/records/14418209
   - https://doi.org/10.5281/zenodo.14418209
 - authors:
-  - Becker, Markus M.
-  - Chaerony Siffa, Ihda
-  - Baum, Roman
+  - Markus M. Becker
+  - Ihda Chaerony Siffa
+  - Roman Baum
   description: "Abstract: \nTerminology services (TS) [1,2] play a pivotal role in\
     \ achieving structured metadata by providing controlled vocabularies and ontologies\
     \ that standardize the description of data. This is a crucial aspect of research\
@@ -9529,20 +9518,23 @@ resources:
   num_downloads: 136
   publication_date: '2024-11-29'
   submission_date: '2024-12-24T11:17:39.796497'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/14186101
   - https://doi.org/10.5281/zenodo.14186101
 - authors:
-  - Engel, Judith
-  - Helling, Patrick
-  - "Herrenbr\xFCck, Robert"
-  - Lemaire, Marina
-  - Mehrtens, Hela
-  - Schmidt, Marcus
-  - Stellmacher, Martha
-  - Weimer, Lukas
-  - Wiljes, Cord
-  - Zinke, Wolf
+  - Judith Engel
+  - Patrick Helling
+  - "Robert Herrenbr\xFCck"
+  - MarinaLemaire
+  - Hela Mehrtens
+  - Marcus Schmidt
+  - Martha Stellmacher
+  - Lukas Weimer
+  - Cord Wiljes
+  - Wolf Zinke
   description: 'Support is an essential component of an efficient infrastructure for
     research data management (RDM). Helpdesks guide researchers through this complex
     landscape and provide reliable support about all questions regarding research
@@ -9571,10 +9563,10 @@ resources:
   - https://zenodo.org/records/14035822
   - https://doi.org/10.5281/zenodo.14035822
 - authors:
-  - Schmidt, Christian
-  - Boissonnet, Tom
-  - Bortolomeazzi, Michele
-  - "Kroo\xDF, Ksenia"
+  - Christian Schmidt
+  - Tom Boissonnet
+  - Michele Bortolomeazzi
+  - "Ksenia Kroo\xDF"
   description: 'Research Data Management for Microscopy and BioImage Analysis
 
 
@@ -9598,6 +9590,9 @@ resources:
   num_downloads: 159
   publication_date: '2024-09-30'
   submission_date: '2024-12-24T11:17:45.069538'
+  tags:
+  - nfdi4bioimage
+  - research data management
   url:
   - https://zenodo.org/records/13861026
   - https://doi.org/10.5281/zenodo.13861026
@@ -9612,8 +9607,13 @@ resources:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
 
-- authors: Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev,
-    Jeffrey Gray
+- authors:
+  - Michael Chungyoun
+  - Courtney Thomas
+  - Britnie Carpentier
+  - GabeAu79
+  - puv-sreev
+  - Jeffrey Gray
   description: Colab Notebooks covering deep learning tools for biomolecular structure
     prediction and design
   name: DL4Proteins-notebooks
@@ -9622,7 +9622,7 @@ resources:
   tags: 
   - bioinformatics
   type: 
-  - GitHub Repository
+  - Github repository
   - collection
   url: https://github.com/Graylab/DL4Proteins-notebooks
   
@@ -9637,11 +9637,11 @@ resources:
   - Cell Tracking
   - BioImage analysis
   type: 
-  - GitHub Repository
+  - Github repository
   - collection
   url: https://github.com/CellMigrationLab/V4SDB_Winter_School_2025
   
-- authors: Haase, Robert
+- authors: Robert Haase
   description: This slide deck introduces the version control tool git, related terminology
     and the Github Desktop app for managing files in Git[hub] repositories. We furthermore
     dive into:* Working with repositories* Collaborative with others* Github-Zenodo
@@ -9652,6 +9652,11 @@ resources:
   proficiency_level: advanced beginner
   publication_date: '2024-01-10'
   submission_date: '2025-01-14T08:13:50.559032'
+  tags:
+  - nfdi4bioimage
+  - globias
+  - research data management
+  - research software management
   url:
   - https://zenodo.org/records/14626054
   - https://doi.org/10.5281/zenodo.14626054
@@ -9670,7 +9675,7 @@ resources:
   url: https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/
   
 - authors: Joachim Goedhart
-  license: CC BY-NC-SA 4.0
+  license: CC-BY-NC-SA-4.0
   name: DataViz protocols - An introduction to data visualization protocols for wet lab scientists
   publication_date: '2024-12-10'
   tags:
@@ -9703,6 +9708,7 @@ resources:
   - OMERO
   - Galaxy
   - Metadata
+  - nfdi4bioimage
   type:
   - Tutorial
   - Framework
@@ -9715,9 +9721,6 @@ resources:
   publication_date: '2024-07-29'
   proficiency_level: advanced beginner
   tags:
-  - Deep Learning
-  - Microscopy
-  - Microsycopy Image Analysis
   - Bio Image Analysis
   - Artifical Intelligence
   type:
@@ -9762,7 +9765,6 @@ resources:
   tags:
   - Bioimage Analysis
   - Open Science
-  - Microscopy Image Analysis
   - Microscopy
   type:
   - Publication
@@ -9779,7 +9781,7 @@ resources:
   tags:
   - Artificial Intelligence
   type:
-  - Youtube Video
+  - Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
 
 - authors: Shanmugasundaram
@@ -9802,18 +9804,18 @@ resources:
   tags:
   - Statistics
   type:
-  - Youtube Video
+  - Video
   url: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
 
 - authors: Richard McElreath
   description: This course teaches data analysis, but it focuses on scientific models. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
-  license: CC0-1.0 license
+  license: CC0-1.0
   name: Statistical Rethinking
   publication_date: '2024-03-01'
   tags:
   - Statistics
   type:
-  - GitHub Repository
+  - Github repository
   url: https://github.com/rmcelreath/stat_rethinking_2024
 
 - authors: Andrew Althouse 
@@ -9832,40 +9834,60 @@ resources:
 
 
 - authors:
-  - Tischer, Christian
-  - Politi, Antonio
-  - Buchholz, Tim-Oliver
-  - Fazeli, Elnaz
-  - Gritti, Nicola
-  - Halavatyi, Aliaksandr
-  - Gonzalez Tirado, Sebastian
-  - Hennies, Julian
-  - Hodges, Toby
-  - Khan, Arif
-  - Kutra, Dominik
-  - Marcotti, Stefania
-  - Oezdemir, Bugra
-  - Schneider, Felix
-  - Schorb, Martin
-  - Stokkermans, Anniek
-  - Sun, Yi
-  - Vakili, Nima
+  - Christian Tischer
+  - Antonio Politi
+  - Tim-Oliver Buchholz
+  - Elnaz Fazeli
+  - Nicola Gritti
+  - Aliaksandr Halavatyi
+  - Sebastian Gonzalez Tirado
+  - Julian Hennies
+  - Toby Hodges
+  - Arif Khan
+  - Dominik Kutra
+  - Stefania Marcotti
+  - Bugra Oezdemir
+  - Felix Schneider
+  - Martin Schorb
+  - Anniek Stokkermans
+  - Yi Sun
+  - Nima Vakili
   description: Resources for teaching/preparing to teach bioimage analysis
   license: cc-by-4.0
   name: Modular training resources for bioimage analysis
   num_downloads: 1
   publication_date: '2024-12-03'
   submission_date: '2025-01-21T10:24:25.466809'
+  tags:
+  - neubias
+  - bioimage analysis
   url:
   - https://zenodo.org/records/14264885
   - https://doi.org/10.5281/zenodo.14264885
    
-- authors: "Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni\
-    \ Palla, Fidel Ramirez, G\xF6k\xE7en Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam\
-    \ Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski,\
-    \ RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt"
+- authors: 
+  - Alex Wolf
+  - pre-commit-ci[bot]
+  - Philipp A.
+  - Isaac Virshup
+  - Ilan Gold
+  - Giovanni Palla
+  - Fidel Ramirez
+  - G\xF6k\xE7en Eraslan
+  - Sergei Rybakov
+  - Abolfazl (Abe)
+  - Adam Gayoso
+  - Dinesh Palli
+  - Gregor Sturm
+  - Jan Lause
+  - Karin Hrovatin
+  - Krzysztof Polanski
+  - RaphaelBuzzi
+  - Yimin Zheng
+  - Yishen Miao
+  - evanbiederstedt
   description: Scanpy Tutorials.
-  license: bsd-3
+  license: bsd 3-clause
   name: scanpy-tutorials
   publication_date: '2018-12-16T03:42:46+00:00'
   tags: 
@@ -9874,7 +9896,7 @@ resources:
   type: GitHub Repository
   url: https://github.com/scverse/scanpy-tutorials
 - authors:
-  - Moore, Josh
+  - Josh Moore
   description: 'Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus
     Institute Data Science23rd January 2025
 
@@ -9884,11 +9906,13 @@ resources:
   num_downloads: 66
   publication_date: '2025-01-23'
   submission_date: '2025-01-28T11:17:32.405764'
+  tags:
+  - nfdi4bioimage
   url:
   - https://zenodo.org/records/14716546
   - https://doi.org/10.5281/zenodo.14716546
 - authors:
-  - Moore, Josh
+  - Josh Moore
   description: 'CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th
     January 2025
 
@@ -9900,11 +9924,13 @@ resources:
   num_downloads: 190
   publication_date: '2025-01-16'
   submission_date: '2025-01-28T11:17:32.840529'
+  tags:
+  - nfdi4bioimage
   url:
   - https://zenodo.org/records/14650434
   - https://doi.org/10.5281/zenodo.14650434
 - authors:
-  - Vermaercke, Ben
+  - Ben Vermaercke
   description: Intravital workshop 15/11/2024
   license: cc-by-4.0
   name: Optimized cranial window implantation for subcellular and functional imaging
@@ -9916,8 +9942,8 @@ resources:
   - https://zenodo.org/records/14641777
   - https://doi.org/10.5281/zenodo.14641777
 - authors:
-  - West-Foyle, Hoku
-  license: cc-zero
+  - Hoku West-Foyle
+  license: CC0-1.0
   name: Andor Dragonfly confocal image of BPAE cells stained for actin, IMS file format
   num_downloads: 5
   publication_date: '2025-01-16'
