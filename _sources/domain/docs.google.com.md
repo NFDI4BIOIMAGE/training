@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
 
@@ -24,7 +24,7 @@ Licensed UNKNOWN
 
 Tags: Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
 
@@ -41,7 +41,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
@@ -58,7 +58,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
 
@@ -75,7 +75,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Slides, Workshop
 

@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy
 
 Content type: Publication
 
@@ -100,6 +100,8 @@ Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gid
 Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
 &nbsp;
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
 [https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
@@ -138,7 +140,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -232,6 +234,8 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/14716546](https://zenodo.org/records/14716546)
 
 [https://doi.org/10.5281/zenodo.14716546](https://doi.org/10.5281/zenodo.14716546)
@@ -252,6 +256,8 @@ Licensed CC-BY-4.0
 CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
 https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
 &nbsp;
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
@@ -310,6 +316,8 @@ Licensed CC-BY-4.0
 
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
 
@@ -449,7 +457,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
@@ -470,8 +478,6 @@ Licensed BSD-2-CLAUSE
 
 Web page for validating OME-NGFF files.
 
-Tags: Bioimage Data
-
 Content type: Github Repository, Application
 
 [https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
@@ -483,7 +489,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -493,7 +499,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
 
 Content type: Github Repository
 
@@ -512,7 +518,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 

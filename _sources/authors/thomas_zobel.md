@@ -54,7 +54,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -115,6 +115,8 @@ Content:
 	...
 
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
 [https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
@@ -134,6 +136,8 @@ Licensed CC-BY-4.0
 
 Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
 &nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
 

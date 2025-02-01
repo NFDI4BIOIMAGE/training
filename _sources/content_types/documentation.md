@@ -43,7 +43,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Deep Learning, Python
+Tags: Workflow Engine, Artificial Intelligence, Python
 
 Content type: Documentation
 
@@ -61,8 +61,6 @@ Licensed CC-BY-4.0
 
 
 Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
-
-Tags: Bioimage Data
 
 Content type: Documentation
 
@@ -106,7 +104,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -170,13 +168,13 @@ Content type: Publication, Documentation
 
 None
 
-Licensed GPLV3
+Licensed GPL-3.0
 
 
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Bioimage Data, Workflow
+Tags: Imagej, OMERO, Workflow
 
 Content type: Tutorial, Online Tutorial, Documentation
 

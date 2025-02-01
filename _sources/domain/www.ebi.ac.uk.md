@@ -5,7 +5,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Collection, Data
 
@@ -67,7 +67,7 @@ Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
 Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
 
-Tags: Bioinformatics, Training
+Tags: Bioinformatics
 
 Content type: Collection
 
@@ -90,7 +90,7 @@ Sharing knowledge and data in the life sciences allows us to learn from each oth
 
 Tags: Open Science, Teaching, Sharing
 
-Content type: Collection, Tutorial, Videos
+Content type: Collection, Tutorial, Video
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
@@ -107,7 +107,7 @@ Licensed CC-BY-4.0
 
 Tags: Bioimage Analysis
 
-Content type: Online Tutorial, Video, Slide
+Content type: Online Tutorial, Video, Slides
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -128,7 +128,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Microscopy Image Analysis, Python, Deep Learning
+Tags: Bioimage Analysis, Python, Artificial Intelligence
 
 Content type: Video, Slides
 
@@ -145,7 +145,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Collection
 
@@ -162,7 +162,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Tutorial, Video
 

@@ -30,7 +30,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 

@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Microscopy Image Analysis, Python, Deep Learning
+Tags: Bioimage Analysis, Python, Artificial Intelligence
 
 Content type: Video, Slides
 
@@ -39,7 +39,7 @@ Content type: Video, Slides
 
 ## Modular training resources for bioimage analysis
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
 
 Published 2024-12-03
 
@@ -48,6 +48,8 @@ Licensed CC-BY-4.0
 
 
 Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
 
 [https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
 
@@ -85,7 +87,7 @@ Licensed CC-BY-4.0
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 

@@ -51,7 +51,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
@@ -74,7 +74,7 @@ Sharing knowledge and data in the life sciences allows us to learn from each oth
 
 Tags: Open Science, Teaching, Sharing
 
-Content type: Collection, Tutorial, Videos
+Content type: Collection, Tutorial, Video
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
@@ -112,7 +112,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy
 
 Content type: Publication
 

@@ -64,7 +64,7 @@ Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
 Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
 
-Tags: Bioinformatics, Training
+Tags: Bioinformatics
 
 Content type: Collection
 
@@ -132,7 +132,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+Tags: Metadata, Bioinformatics, FAIR-Principles
 
 Content type: Publication
 

@@ -47,7 +47,7 @@ Licensed BSD-2-CLAUSE
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
@@ -81,7 +81,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Github Repository
 
@@ -115,7 +115,7 @@ Licensed UNKNOWN
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
 
@@ -171,7 +171,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
 
 Content type: Notebook
 
@@ -249,7 +249,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
 
@@ -300,7 +300,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
@@ -453,7 +453,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -646,7 +646,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -735,7 +735,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -754,7 +754,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -930,7 +930,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: Slide, Code
+Content type: Slides, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -947,7 +947,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Deep Learning, Pytorch, Segmentation, Python
+Tags: Artificial Intelligence, Python
 
 Content type: Notebook
 
@@ -1081,7 +1081,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Slides, Workshop
 
@@ -1117,7 +1117,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -1134,7 +1134,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -1151,7 +1151,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -1168,7 +1168,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -1223,7 +1223,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -1240,7 +1240,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial for running CellPose advanced functions
 
-Tags: Cellpose, Segmentation
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Github Repository
 
@@ -1312,7 +1312,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -1547,7 +1547,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management, Image Data Management
+Tags: Research Data Management
 
 Content type: Github Repository
 
@@ -1630,7 +1630,7 @@ Content type: Tutorial
 
 Ziv Yaniv et al.
 
-Licensed APACHE-2.0 LICENSE
+Licensed APACHE-2.0
 
 
 
@@ -1664,7 +1664,7 @@ Richard McElreath
 
 Published 2024-03-01
 
-Licensed CC0-1.0 LICENSE
+Licensed CC0-1.0
 
 
 
@@ -1736,7 +1736,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Segmentation, Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Github Repository, Tutorial
 
@@ -1812,7 +1812,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 
@@ -1846,7 +1846,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 
@@ -1884,7 +1884,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
@@ -2006,8 +2006,6 @@ Licensed BSD-2-CLAUSE
 
 Web page for validating OME-NGFF files.
 
-Tags: Bioimage Data
-
 Content type: Github Repository, Application
 
 [https://ome.github.io/ome-ngff-validator/](https://ome.github.io/ome-ngff-validator/)
@@ -2019,7 +2017,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -2029,7 +2027,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
 
 Content type: Github Repository
 
@@ -2044,7 +2042,7 @@ JanClusmann, Tim Lenz
 
 Published 2024-11-08T08:32:03+00:00
 
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
+Licensed GPL-3.0
 
 
 
@@ -2094,7 +2092,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
@@ -2109,7 +2107,7 @@ Jack Atkinson
 
 Published 2023-12-22T17:39:48+00:00
 
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
+Licensed GPL-3.0
 
 
 
@@ -2126,11 +2124,11 @@ Content type: Github Repository, Slides
 
 ## scanpy-tutorials
 
-Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, Gökçen Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
+Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, G\xF6k\xE7en Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
 
 Published 2018-12-16T03:42:46+00:00
 
-Licensed BSD-3
+Licensed BSD-3-CLAUSE
 
 
 

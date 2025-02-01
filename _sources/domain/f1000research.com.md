@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -62,7 +62,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
 
 Content type: Slides
 
@@ -81,7 +81,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -121,7 +121,7 @@ Overview about decision making and how to influence decisions in the bio-image a
 
 Tags: Bioimage Analysis
 
-Content type: Slide, Presentation
+Content type: Slides, Presentation
 
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
@@ -138,7 +138,7 @@ Licensed CC-BY-4.0
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
@@ -159,7 +159,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -197,7 +197,7 @@ Introduction to sharing resources online and licensing
 
 Tags: Sharing, Research Data Management
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 

@@ -158,7 +158,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
 
 Content type: Tutorial, Framework, Workflow
 
@@ -178,6 +178,8 @@ Licensed CC-BY-4.0
 
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
@@ -217,7 +219,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 
@@ -249,6 +251,8 @@ Who are the trainers?
 Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
 Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
 Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 

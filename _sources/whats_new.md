@@ -5,7 +5,7 @@ Hoku West-Foyle
 
 Published 2025-01-16
 
-Licensed CC-ZERO
+Licensed CC0-1.0
 
 
 
@@ -27,6 +27,8 @@ Licensed CC-BY-4.0
 
 
 This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
+
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
 
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
@@ -73,7 +75,7 @@ Licensed CC-BY-4.0
 
 ## Modular training resources for bioimage analysis
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
 
 Published 2024-12-03
 
@@ -82,6 +84,8 @@ Licensed CC-BY-4.0
 
 
 Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
 
 [https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
 
@@ -141,6 +145,8 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/14716546](https://zenodo.org/records/14716546)
 
 [https://doi.org/10.5281/zenodo.14716546](https://doi.org/10.5281/zenodo.14716546)
@@ -161,6 +167,8 @@ Licensed CC-BY-4.0
 CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
 https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
 &nbsp;
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
@@ -187,6 +195,8 @@ Reproducible image analysis workflows with OMERO software APIsMichele Bortolomea
 Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
 
 Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 

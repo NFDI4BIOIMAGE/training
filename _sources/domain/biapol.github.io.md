@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 Tags: OMERO, Python
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
@@ -88,7 +88,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
 

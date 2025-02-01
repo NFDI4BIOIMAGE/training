@@ -165,7 +165,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -180,7 +180,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 

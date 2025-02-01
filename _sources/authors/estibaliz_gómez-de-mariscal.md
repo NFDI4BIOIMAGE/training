@@ -9,7 +9,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
 
@@ -57,7 +57,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
 
@@ -74,7 +74,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -91,7 +91,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 

@@ -22,7 +22,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Collection, Data
 

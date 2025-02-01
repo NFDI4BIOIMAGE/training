@@ -39,7 +39,7 @@ Bioimaging has transformed our understanding of biological processes, yet extrac
 
 ## Modular training resources for bioimage analysis
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
 
 Published 2024-12-03
 
@@ -48,6 +48,8 @@ Licensed CC-BY-4.0
 
 
 Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
 
 [https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
 

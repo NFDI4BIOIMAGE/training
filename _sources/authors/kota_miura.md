@@ -132,7 +132,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -149,7 +149,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -166,7 +166,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -183,7 +183,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 

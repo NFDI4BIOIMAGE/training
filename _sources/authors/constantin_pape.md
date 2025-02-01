@@ -24,7 +24,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -65,7 +65,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Image Segmentation, Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Slides
 

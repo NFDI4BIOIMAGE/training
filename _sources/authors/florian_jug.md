@@ -28,7 +28,7 @@ How can artificial intelligence be used for digital pathology?
 
 Tags: Artificial Intelligence
 
-Content type: Youtube Video
+Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
@@ -81,7 +81,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Segmentation, Python
+Tags: Python
 
 Content type: Notebook
 

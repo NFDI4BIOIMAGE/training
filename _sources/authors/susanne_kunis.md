@@ -45,7 +45,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -165,6 +165,8 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
 [https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
@@ -204,6 +206,8 @@ Licensed CC-BY-4.0
 Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
 &nbsp;
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
 
 [https://doi.org/10.5281/zenodo.10796364](https://doi.org/10.5281/zenodo.10796364)
@@ -242,6 +246,8 @@ Licensed CC-BY-4.0
 
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
 
@@ -328,6 +334,8 @@ Establish a stakeholder process management for installing OMERO-based RDM
 Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 

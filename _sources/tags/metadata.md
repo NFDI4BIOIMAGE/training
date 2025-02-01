@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Publication
 
@@ -47,7 +47,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+Tags: Metadata, I3Dbio, Research Data Management
 
 Content type: Collection
 
@@ -153,7 +153,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
 
 Content type: Tutorial, Framework, Workflow
 
@@ -174,7 +174,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -195,7 +195,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Collection
 
@@ -214,7 +214,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata, Bioimage Data
+Tags: Reproducibility, Metadata
 
 Content type: Collection
 
@@ -235,7 +235,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+Tags: Metadata, Bioinformatics, FAIR-Principles
 
 Content type: Publication
 
@@ -256,7 +256,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+Tags: Reproducibility, Bioimage Analysis, Metadata
 
 Content type: Publication
 

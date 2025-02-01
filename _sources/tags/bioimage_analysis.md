@@ -1,4 +1,4 @@
-# Bioimage analysis (174)
+# Bioimage analysis (183)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -104,9 +104,9 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Youtube Video, Slides, Webinar
+Content type: Video, Slides, Webinar
 
 [https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
 
@@ -140,7 +140,7 @@ Licensed BSD-2-CLAUSE
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
@@ -172,7 +172,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 
@@ -189,7 +189,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Github Repository
 
@@ -210,7 +210,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+Tags: OMERO, Workflow, Bioimage Analysis
 
 Content type: Publication
 
@@ -326,6 +326,25 @@ Content type: Workshop, Collection
 
 ---
 
+## Bio-image Data Science
+
+Robert Haase
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+
+Content type: Notebook
+
+[https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
 ## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
 
 Robert Haase
@@ -336,7 +355,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Slides
 
@@ -385,7 +404,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Collection, Data
 
@@ -532,7 +551,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
 
@@ -647,7 +666,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
@@ -698,7 +717,7 @@ Licensed CC-BY-4.0
 
 Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -720,6 +739,27 @@ Tags: Bioimage Analysis, Research Data Management
 Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192)
+
+
+---
+
+## Checklists for publishing images and image analysis
+
+Christopher Schmied
+
+Published 2023-09-14
+
+Licensed CC0-1.0
+
+
+
+In this paper we introduce two sets of checklists. One is concerned with the publication of images. The other one gives instructions for the publication of image analysis.
+
+Tags: Bioimage Analysis
+
+Content type: Forum Post
+
+[https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304](https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304)
 
 
 ---
@@ -760,7 +800,7 @@ Tags: Artificial Intelligence, Bioimage Analysis
 
 Beth Cimini et al.
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -859,7 +899,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -891,7 +931,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
@@ -974,6 +1014,27 @@ Content type: Presentation
 
 ---
 
+## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
+
+Guillaume Jacquemet
+
+Published 2024-10-24
+
+Licensed UNKNOWN
+
+
+
+Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Video, Slides
+
+[https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
+
+
+---
+
 ## EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats
 
 Matúš Kalaš et al.
@@ -1050,7 +1111,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: Image Data Management, OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis
 
 Content type: Video, Presentation
 
@@ -1137,7 +1198,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -1163,6 +1224,25 @@ Content type: Collection, Video
 
 ---
 
+## FAIRy deep-learning for bioImage analysis
+
+Estibaliz Gómez de Mariscal
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
+
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
+
+Content type: Slides
+
+[https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
+
+
+---
+
 ## Feature extraction in napari
 
 Mara Lampert
@@ -1171,7 +1251,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -1269,7 +1349,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -1341,7 +1421,7 @@ Overview about decision making and how to influence decisions in the bio-image a
 
 Tags: Bioimage Analysis
 
-Content type: Slide, Presentation
+Content type: Slides, Presentation
 
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
@@ -1360,11 +1440,32 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
 [https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
+
+
+---
+
+## I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark
+
+Stephan Saalfeld, Tobias Pietzsch
+
+Published None
+
+Licensed APACHE-2.0
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Workshop, Notebook, Github Repository
+
+[https://saalfeldlab.github.io/i2k2024-lazy-workshop/](https://saalfeldlab.github.io/i2k2024-lazy-workshop/)
+
+[https://github.com/saalfeldlab/i2k2024-lazy-workshop](https://github.com/saalfeldlab/i2k2024-lazy-workshop)
 
 
 ---
@@ -1458,7 +1559,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -1494,7 +1595,7 @@ Licensed UNKNOWN
 
 Tags: Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
 
@@ -1547,7 +1648,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: Slide, Code
+Content type: Slides, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -1564,7 +1665,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -1628,7 +1729,7 @@ Licensed UNKNOWN
 
 Tags: Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -1645,7 +1746,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
@@ -1662,7 +1763,7 @@ Slides, scripts, data and other exercise materials of the BioImage Analysis lect
 
 Tags: Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -1679,7 +1780,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
 
@@ -1711,7 +1812,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
 
@@ -1728,7 +1829,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy
 
 Content type: Publication
 
@@ -1779,7 +1880,7 @@ Licensed CC-BY-4.0
 
 Tags: Bioimage Analysis
 
-Content type: Online Tutorial, Video, Slide
+Content type: Online Tutorial, Video, Slides
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -1798,7 +1899,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+Tags: Bioimage Analysis, Quality Control
 
 Content type: Website, Collection
 
@@ -1824,13 +1925,53 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Image Segmentation, Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Slides
 
 [https://zenodo.org/records/11265038](https://zenodo.org/records/11265038)
 
 [https://doi.org/10.5281/zenodo.11265038](https://doi.org/10.5281/zenodo.11265038)
+
+
+---
+
+## Microscopy data analysis: machine learning and the BioImage Archive
+
+Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans
+
+Licensed CC-BY-4.0
+
+
+
+The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
+
+Tags: Bioimage Analysis, Python, Artificial Intelligence
+
+Content type: Video, Slides
+
+[https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/](https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/)
+
+
+---
+
+## Modular training resources for bioimage analysis
+
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+
+Published 2024-12-03
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
+
+[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
+
+[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
 
 
 ---
@@ -1860,7 +2001,7 @@ Lecture slides of a session on Multiview Fusion in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -1871,13 +2012,13 @@ Content type: Slide
 
 Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
-Licensed ['CC-BY-NC-SA']
+Licensed CC-BY-NC-SA
 
 
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -1898,7 +2039,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Slides, Workshop
 
@@ -1934,7 +2075,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -1951,7 +2092,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -1968,7 +2109,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -1985,7 +2126,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -2078,9 +2219,28 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
+
+
+---
+
+## NeubiasPasteur2023_AdvancedCellPose
+
+Gaelle Letort
+
+Licensed BSD-3-CLAUSE
+
+
+
+Tutorial for running CellPose advanced functions
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Github Repository
+
+[https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose](https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose)
 
 
 ---
@@ -2108,7 +2268,7 @@ Content type: Github Repository
 
 Rémy Jean Daniel Dornier
 
-Licensed ['CC-BY-NC-SA-4.0']
+Licensed CC-BY-NC-SA-4.0
 
 
 
@@ -2154,7 +2314,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -2233,7 +2393,7 @@ Mara Lampert
 
 Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
@@ -2307,7 +2467,7 @@ Slides from the CZI/EOSS online meeting in December 2020.
 
 Tags: Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
 
@@ -2324,7 +2484,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -2358,7 +2518,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -2375,7 +2535,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
 
@@ -2422,7 +2582,7 @@ Content type: Code
 
 Ziv Yaniv et al.
 
-Licensed APACHE-2.0 LICENSE
+Licensed APACHE-2.0
 
 
 
@@ -2498,13 +2658,34 @@ Licensed CC-BY-4.0
 
 The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
 
-Tags: Microscopy Image Analysis, Bioimage Analysis
+Tags: Bioimage Analysis
 
 Content type: Publication
 
 [https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
 
 [https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
+## Towards community-driven metadata standards for light microscopy - tiered specifications extending the OME model
+
+Mathias Hammer, Maximiliaan Huisman, Alessandro Rigano, Ulrike Boehm, James J. Chambers, et al.
+
+Published 2022-07-10
+
+Licensed UNKNOWN
+
+
+
+Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
+
+Tags: Reproducibility, Bioimage Analysis, Metadata
+
+Content type: Publication
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
 
 
 ---
@@ -2521,7 +2702,7 @@ Lecture slides of a session on Cell Tracking in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -2536,7 +2717,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 
@@ -2585,7 +2766,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Segmentation, Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Github Repository, Tutorial
 
@@ -2623,7 +2804,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -2642,7 +2823,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Training, Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management
 
 Content type: Publication, Preprint
 
@@ -2699,7 +2880,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 
@@ -2735,7 +2916,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -2752,7 +2933,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 
@@ -2786,7 +2967,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 
@@ -2820,7 +3001,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 
@@ -2930,7 +3111,7 @@ Licensed CC-BY-4.0
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
 
@@ -2964,7 +3145,7 @@ JanClusmann, Tim Lenz
 
 Published 2024-11-08T08:32:03+00:00
 
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
+Licensed GPL-3.0
 
 
 
@@ -3006,11 +3187,11 @@ Content type: Code
 
 ## scanpy-tutorials
 
-Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, Gökçen Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
+Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, G\xF6k\xE7en Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
 
 Published 2018-12-16T03:42:46+00:00
 
-Licensed BSD-3
+Licensed BSD-3-CLAUSE
 
 
 

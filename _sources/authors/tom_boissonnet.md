@@ -56,7 +56,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -96,6 +96,8 @@ See cross reference:
 10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
 10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
 
 [https://doi.org/10.5281/zenodo.12578084](https://doi.org/10.5281/zenodo.12578084)
@@ -130,6 +132,8 @@ Note: By filling the values in the excel sheet, avoid the usage of decimal delim
 See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
@@ -226,6 +230,8 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
 [https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
@@ -273,6 +279,8 @@ Establish a stakeholder process management for installing OMERO-based RDM
 Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
@@ -357,6 +365,8 @@ Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Hein
 
 Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
@@ -366,7 +376,7 @@ Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hal
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -376,7 +386,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
 
 Content type: Github Repository
 

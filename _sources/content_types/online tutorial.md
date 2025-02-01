@@ -103,13 +103,13 @@ Content type: Online Tutorial, Tutorial
 
 None
 
-Licensed GPLV3
+Licensed GPL-3.0
 
 
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Bioimage Data, Workflow
+Tags: Imagej, OMERO, Workflow
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -128,7 +128,7 @@ Licensed CC-BY-4.0
 
 Tags: Bioimage Analysis
 
-Content type: Online Tutorial, Video, Slide
+Content type: Online Tutorial, Video, Slides
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -143,7 +143,7 @@ Content type: Online Tutorial, Video, Slide
 
 Rémy Jean Daniel Dornier
 
-Licensed ['CC-BY-NC-SA-4.0']
+Licensed CC-BY-NC-SA-4.0
 
 
 

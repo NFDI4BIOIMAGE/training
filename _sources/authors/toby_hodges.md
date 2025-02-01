@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 In this interactive session, Carpentries team members will guide attendees through three stages of the backward design process to create a lesson development plan for the open source tool of their choosing. Attendees will leave having identified what practical skills they aim to teach (learning objectives), an approach for designing challenge questions (formative assessment), and mechanisms to give and receive feedback.
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/4317149](https://zenodo.org/records/4317149)
 
@@ -30,7 +30,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -41,7 +41,7 @@ Content type: Tutorial, Workflow
 
 ## Modular training resources for bioimage analysis
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
 
 Published 2024-12-03
 
@@ -50,6 +50,8 @@ Licensed CC-BY-4.0
 
 
 Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
 
 [https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
 

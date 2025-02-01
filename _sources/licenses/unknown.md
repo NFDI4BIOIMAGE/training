@@ -28,9 +28,9 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Youtube Video, Slides, Webinar
+Content type: Video, Slides, Webinar
 
 [https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
 
@@ -85,7 +85,7 @@ How can artificial intelligence be used for digital pathology?
 
 Tags: Artificial Intelligence
 
-Content type: Youtube Video
+Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
@@ -121,7 +121,7 @@ Licensed UNKNOWN
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
 
@@ -193,7 +193,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/NEUBIAS_chapter_DL_2020](https://github.com/esgomezm/NEUBIAS_chapter_DL_2020)
 
@@ -274,7 +274,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
@@ -359,7 +359,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Deep Learning, Microscopy, Microsycopy Image Analysis, Bio Image Analysis, Artifical Intelligence
+Tags: Bio Image Analysis, Artifical Intelligence
 
 Content type: Blog Post
 
@@ -378,7 +378,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -488,9 +488,9 @@ Licensed UNKNOWN
 
 In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
 
-Tags: Docker, Training
+Tags: Docker
 
-Content type: Videos, Tutorial, Online Course
+Content type: Video, Tutorial, Online Course
 
 [https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
 
@@ -509,9 +509,9 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Deep Learning, Microscopy Image Analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Youtube Video, Slides
+Content type: Video, Slides
 
 [https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
 
@@ -621,7 +621,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog
+Content type: Blog Post
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -689,9 +689,9 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO, Training
+Tags: OMERO
 
-Content type: Videos, Tutorial, Collection
+Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
@@ -708,7 +708,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+Tags: Metadata, I3Dbio, Research Data Management
 
 Content type: Collection
 
@@ -742,7 +742,7 @@ Licensed UNKNOWN
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
 
@@ -759,7 +759,7 @@ Licensed UNKNOWN
 
 Tags: Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p](https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p)
 
@@ -776,7 +776,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: Slide, Code
+Content type: Slides, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -793,7 +793,7 @@ Licensed UNKNOWN
 
 Tags: Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -810,7 +810,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
@@ -880,7 +880,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
 
@@ -912,7 +912,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
 
@@ -963,7 +963,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+Tags: Bioimage Analysis, Quality Control
 
 Content type: Website, Collection
 
@@ -995,7 +995,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -1012,7 +1012,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -1029,7 +1029,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -1046,7 +1046,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -1080,7 +1080,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -1229,7 +1229,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management, Image Data Management
+Tags: Research Data Management
 
 Content type: Github Repository
 
@@ -1250,7 +1250,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -1294,7 +1294,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata, Bioimage Data
+Tags: Reproducibility, Metadata
 
 Content type: Collection
 
@@ -1396,7 +1396,7 @@ Video Lectures for Statistical Rethinking Course
 
 Tags: Statistics
 
-Content type: Youtube Video
+Content type: Video
 
 [https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 
@@ -1445,7 +1445,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Image Data Management, Research Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -1468,7 +1468,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+Tags: Reproducibility, Bioimage Analysis, Metadata
 
 Content type: Publication
 
@@ -1500,7 +1500,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -1519,7 +1519,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 
@@ -1536,7 +1536,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
 

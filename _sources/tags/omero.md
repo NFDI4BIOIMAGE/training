@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+Tags: OMERO, Workflow, Bioimage Analysis
 
 Content type: Publication
 
@@ -51,7 +51,7 @@ Licensed CC-BY-4.0
 
 Tags: OMERO, Python
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -68,7 +68,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: Image Data Management, OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis
 
 Content type: Video, Presentation
 
@@ -119,9 +119,9 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO, Training
+Tags: OMERO
 
-Content type: Videos, Tutorial, Collection
+Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
@@ -161,7 +161,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -176,13 +176,13 @@ Content type: Slide, Video
 
 None
 
-Licensed GPLV3
+Licensed GPL-3.0
 
 
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Bioimage Data, Workflow
+Tags: Imagej, OMERO, Workflow
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -278,7 +278,7 @@ Content type: Github Repository
 
 Rémy Jean Daniel Dornier
 
-Licensed ['CC-BY-NC-SA-4.0']
+Licensed CC-BY-NC-SA-4.0
 
 
 
@@ -431,7 +431,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
 
 Content type: Tutorial, Framework, Workflow
 

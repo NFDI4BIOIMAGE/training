@@ -76,7 +76,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -95,7 +95,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -116,7 +116,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Slides, Workshop
 
@@ -139,7 +139,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -156,7 +156,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Segmentation, Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Github Repository, Tutorial
 
@@ -175,7 +175,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 

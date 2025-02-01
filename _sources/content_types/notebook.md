@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
 
 Content type: Notebook
 
@@ -158,7 +158,7 @@ Content type: Notebook, Collection
 
 Beth Cimini et al.
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -234,7 +234,7 @@ Licensed UNKNOWN
 
 Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/JLrumberger/DL-MBL-2021](https://github.com/JLrumberger/DL-MBL-2021)
 
@@ -362,7 +362,7 @@ Content type: Notebook
 
 Marvin Albert
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -421,7 +421,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -440,7 +440,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -567,7 +567,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Deep Learning, Pytorch, Segmentation, Python
+Tags: Artificial Intelligence, Python
 
 Content type: Notebook
 
@@ -656,7 +656,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -673,7 +673,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -690,7 +690,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -707,7 +707,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -839,7 +839,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Segmentation, Python
+Tags: Python
 
 Content type: Notebook
 
@@ -947,7 +947,7 @@ JanClusmann, Tim Lenz
 
 Published 2024-11-08T08:32:03+00:00
 
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
+Licensed GPL-3.0
 
 
 

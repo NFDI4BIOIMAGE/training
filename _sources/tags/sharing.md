@@ -32,7 +32,7 @@ Introduction to version control using git for collaborative, reproducible script
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
@@ -53,7 +53,7 @@ Sharing knowledge and data in the life sciences allows us to learn from each oth
 
 Tags: Open Science, Teaching, Sharing
 
-Content type: Collection, Tutorial, Videos
+Content type: Collection, Tutorial, Video
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
@@ -72,7 +72,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog
+Content type: Blog Post
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -102,7 +102,7 @@ Elisabeth Kugler
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/](https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/)
 
@@ -121,7 +121,7 @@ Introduction to sharing resources online and licensing
 
 Tags: Sharing, Research Data Management
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -140,7 +140,7 @@ Blog post about how to share data using zenodo.org
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 
@@ -200,7 +200,7 @@ Content type: Publication
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -210,7 +210,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
 
 Content type: Github Repository
 

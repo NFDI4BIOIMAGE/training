@@ -17,6 +17,8 @@ Research data management is essential in nowadays research, and one of the big o
 
 In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
 
 [https://doi.org/10.5281/zenodo.7890311](https://doi.org/10.5281/zenodo.7890311)
@@ -336,7 +338,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -412,6 +414,8 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
 [https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
@@ -478,6 +482,8 @@ Establish a stakeholder process management for installing OMERO-based RDM
 Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 

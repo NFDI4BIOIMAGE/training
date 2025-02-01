@@ -84,7 +84,7 @@ Blog post about why we should license our work and what is important when choosi
 
 Tags: Licensing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 

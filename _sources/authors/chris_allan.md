@@ -9,9 +9,9 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO, Training
+Tags: OMERO
 
-Content type: Videos, Tutorial, Collection
+Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
@@ -47,7 +47,7 @@ Licensed CC-BY-4.0
 
 The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
 
-Tags: Microscopy Image Analysis, Bioimage Analysis
+Tags: Bioimage Analysis
 
 Content type: Publication
 
@@ -68,7 +68,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
@@ -87,7 +87,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 

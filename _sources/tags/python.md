@@ -24,7 +24,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 
@@ -41,7 +41,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Github Repository
 
@@ -79,9 +79,9 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Large Language Models, Python
+Tags: Artificial Intelligence, Python
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
 
@@ -100,7 +100,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
 
 Content type: Notebook
 
@@ -119,7 +119,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Slides
 
@@ -155,7 +155,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Deep Learning, Python
+Tags: Workflow Engine, Artificial Intelligence, Python
 
 Content type: Documentation
 
@@ -208,7 +208,7 @@ Licensed CC-BY-4.0
 
 Tags: OMERO, Python
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -410,7 +410,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -459,7 +459,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -476,7 +476,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
@@ -491,7 +491,7 @@ Mara Lampert
 
 Tags: Github, Python, Science Communication
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 
@@ -508,7 +508,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -597,7 +597,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Deep Learning, Pytorch, Segmentation, Python
+Tags: Artificial Intelligence, Python
 
 Content type: Notebook
 
@@ -633,7 +633,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
 
@@ -686,7 +686,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Microscopy Image Analysis, Python, Deep Learning
+Tags: Bioimage Analysis, Python, Artificial Intelligence
 
 Content type: Video, Slides
 
@@ -739,7 +739,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -869,7 +869,7 @@ Mara Lampert
 
 Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
@@ -935,7 +935,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Segmentation, Python
+Tags: Python
 
 Content type: Notebook
 
@@ -992,7 +992,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -1007,7 +1007,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -1024,7 +1024,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
 
@@ -1109,7 +1109,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 
@@ -1147,7 +1147,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 

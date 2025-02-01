@@ -1,4 +1,4 @@
-# Research data management (110)
+# Research data management (128)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -73,6 +73,33 @@ Content type: Publication
 
 ---
 
+## A journey to FAIR microscopy data
+
+Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
+
+Published 2023-05-03
+
+Licensed CC-BY-4.0
+
+
+
+Oral presentation, 32nd MoMAN &quot;From Molecules to Man&quot; Seminar, Ulm, online. Monday February 6th, 2023
+
+Abstract:
+
+Research data management is essential in nowadays research, and one of the big opportunities to accelerate collaborative and innovative scientific projects. To achieve this goal, all our data needs to be FAIR (findable, accessible, interoperable, reproducible). For data acquired on microscopes, however, a common ground for FAIR data sharing is still to be established. Plenty of work on file formats, data bases, and training needs to be performed to highlight the value of data sharing and exploit its potential for bioimaging data.
+
+In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
+
+[https://doi.org/10.5281/zenodo.7890311](https://doi.org/10.5281/zenodo.7890311)
+
+
+---
+
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -130,6 +157,27 @@ Content type: Slides
 
 ---
 
+## Angebote der NFDI für die Forschung im Bereich Zoologie
+
+Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Judith Sophie Engel
+
+Published 2024-12-04
+
+Licensed CC-BY-4.0
+
+
+
+In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
+
+[https://doi.org/10.5281/zenodo.14278058](https://doi.org/10.5281/zenodo.14278058)
+
+
+---
+
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -180,13 +228,32 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Tu Dresden, Bioimage Data, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 [https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
+
+---
+
+## Bio-image Data Science
+
+Robert Haase
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
+
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+
+Content type: Notebook
+
+[https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
 
 
 ---
@@ -229,7 +296,7 @@ Licensed CC-BY-4.0
 
 Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -255,6 +322,27 @@ Content type: Publication
 
 ---
 
+## Collaborative Working and Version Control with git[hub]
+
+Robert Haase
+
+Published 2024-01-10
+
+Licensed CC-BY-4.0
+
+
+
+This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
+
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
+
+[https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
+
+[https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
+
+
+---
+
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
@@ -267,7 +355,7 @@ Introduction to version control using git for collaborative, reproducible script
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
@@ -297,7 +385,7 @@ Content type: Poster
 
 Beth Cimini et al.
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -349,9 +437,9 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Large Language Models, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
 
@@ -431,7 +519,7 @@ Job Fermie
 
 Tags: Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy](https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy)
 
@@ -465,7 +553,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Image Data Management, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
@@ -484,7 +572,7 @@ Licensed CC-BY-4.0
 
 Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
 
-Tags: Research Data Management, Training, Dataplant
+Tags: Research Data Management, Dataplant
 
 Content type: Collection
 
@@ -767,7 +855,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Publication
 
@@ -841,7 +929,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog
+Content type: Blog Post
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -979,7 +1067,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+Tags: Metadata, I3Dbio, Research Data Management
 
 Content type: Collection
 
@@ -1019,7 +1107,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -1042,7 +1130,7 @@ Blog post about why we should license our work and what is important when choosi
 
 Tags: Licensing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 
@@ -1066,6 +1154,81 @@ Tags: Research Data Management, Open Science
 Content type: Slides
 
 [https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
+
+
+---
+
+## Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Silke Tulok, Anja Nobst, Anett Jannasch, Tom Boissonnet, Gunar Fabig
+
+Published 2024-06-28
+
+Licensed CC-BY-4.0
+
+
+
+This Key-Value pair template is used for the data documentation during imaging experiments and the later data annotation in OMERO. It is tailored for the usage and image acquisition at the slide scanning system Zeiss AxioScan 7 in the Core Facility Cellular Imaging (CFCI). It contains important metadata of the imaging experiment, which are not saved in the corresponding imaging files. All users of the Core Facility Cellular Imaging are trained to use that file to document their imaging parameters directly during the data acquisition with the possibility for a later upload to OMERO. Furthermore, there is a corresponding public example image used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here:
+https://omero.med.tu-dresden.de/webclient/?show=image-33248
+This template was developed by the CFCI staff during the setup and usage of the AxioScan 7 and is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015).
+With this template it is possible to create a csv-file, that can be used to annotate an image or dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+
+fill the template sheet&nbsp; with your metadata
+select and copy the data range containing the Keys and Values
+open a new excel sheet and paste transpose in cell A1&nbsp;
+Important: cell A1 contains always the name 'dataset' and cell A2 contains the exact name of the image/dataset, which should be annotated in OMERO
+save the new excel sheet in csv-file (comma separated values) format
+
+An example can be seen in sheet 3 'csv_AxioScan'.
+Important note: The code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might be not able to decode by the annotation script. We encountered this issue with old Microsoft-Office versions (MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of comma as decimal delimiter.
+See cross reference:
+10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
+10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
+
+[https://doi.org/10.5281/zenodo.12578084](https://doi.org/10.5281/zenodo.12578084)
+
+
+---
+
+## Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
+
+Anett Jannasch, Silke Tulok, Vanessa Aphaia Fiona Fuchs, Tom Boissonnet, Christian Schmidt, Michele Bortolomeazzi, Gunar Fabig, Chukwuebuka Okafornta
+
+Published 2024-06-26
+
+Licensed CC-BY-4.0
+
+
+
+This is a Key-Value pair template used for the annotation of datasets in OMERO. It is tailored for a research study (PERIKLES project) on the biocompatibility of newly designed biomaterials out of pericardial tissue for cardiovascular substitutes (https://doi.org/10.1063/5.0182672) conducted in the research department of Cardiac Surgery at the Faculty of Medicine Carl Gustav Carus at the Technische Universit&auml;t Dresden . A corresponding public example dataset is used in the publication "Setting up an institutional OMERO environment for bioimage data: perspectives from both facility staff and users" and is available here
+(https://omero.med.tu-dresden.de/webclient/?show=dataset-1557).
+The template is based on the REMBI recommendations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015) and it was developed during the PoL-Bio-Image Analysis Symposium in Dresden Aug 28th- Sept 1th 2023.&nbsp;
+With this template it is possible to create a csv-file, that can be used to annotate a dataset in OMERO using the annotation script (https://github.com/ome/omero-scripts/blob/develop/omero/annotation_scripts/).
+How to use:
+select and copy the data range containing Keys and Values
+open a new excel sheet and paste transpose in column B1
+type in A1 'dataset'
+insert in A2 the exact name of the dataset, which should be annotated in OMERO
+save the new excel sheet in csv- (comma seperated values) file format
+
+Example can be seen in sheet 1 'csv import'. Important note; the code has to be 8-Bit UCS transformation format (UTF-8) otherwise several characters (for example &micro;, %,&deg;) might not be able to decode by the annotation script. We encountered this issue with old Microsoft Office versions (e.g. MS Office 2016).&nbsp;
+Note: By filling the values in the excel sheet, avoid the usage of decimal delimiter.
+&nbsp;
+See cross reference:
+10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
+10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
+
+[https://doi.org/10.5281/zenodo.12546808](https://doi.org/10.5281/zenodo.12546808)
 
 
 ---
@@ -1178,7 +1341,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -1235,9 +1398,9 @@ Licensed CCY-BY-SA-4.0
 
 Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Tags: Nfdi4Bioimage, Image Data Management, Bioimage Data, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management
 
-Content type: Conference Abstract, Slide
+Content type: Conference Abstract, Slides
 
 [https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
 
@@ -1282,6 +1445,28 @@ Content type: Slides
 
 ---
 
+## NFDI4BIOIMAGE data management illustrations by Henning Falk
+
+NFDI4BIOIMAGE Consortium
+
+Published 2024-11-29
+
+Licensed CC-BY-4.0
+
+
+
+These illustrations were contracted by the Heinrich Heine University D&uuml;sseldorf in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.AttributionPlease include an attribution similar to: "Data annoation matters", NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by Henning Falk, Zenodo,&nbsp;https://doi.org/10.5281/zenodo.14186100, is used under a CC-BY 4.0 license. Modifications to this illustration include cropping.
+&nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/14186101](https://zenodo.org/records/14186101)
+
+[https://doi.org/10.5281/zenodo.14186101](https://doi.org/10.5281/zenodo.14186101)
+
+
+---
+
 ## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
 
 Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
@@ -1320,6 +1505,27 @@ Content type: Github Repository
 
 ---
 
+## NFDI4Bioimage Calendar 2024 October; original image
+
+Christian Jüngst, Peter Zentis
+
+Published 2024-09-25
+
+Licensed CC-BY-4.0
+
+
+
+Raw microscopy image from the NFDI4Bioimage calendar October 2024
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/13837146](https://zenodo.org/records/13837146)
+
+[https://doi.org/10.5281/zenodo.13837146](https://doi.org/10.5281/zenodo.13837146)
+
+
+---
+
 ## OME Event Database
 
 
@@ -1346,6 +1552,29 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
+
+
+---
+
+## OME2024 NGFF Challenge Results
+
+Josh Moore
+
+Published 2024-11-01
+
+Licensed CC-BY-4.0
+
+
+
+Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
+Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
+&nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
+
+[https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
 
 
 ---
@@ -1436,7 +1665,7 @@ Jennifer Waters
 
 Tags: Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility](https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility)
 
@@ -1553,7 +1782,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management, Image Data Management
+Tags: Research Data Management
 
 Content type: Github Repository
 
@@ -1574,7 +1803,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -1595,7 +1824,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Collection
 
@@ -1627,7 +1856,7 @@ This Research Data Management (RDM) Slides introduce to the multidisciplinary kn
 
 Tags: Research Data Management
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/record/6602101](https://zenodo.org/record/6602101)
 
@@ -1686,7 +1915,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -1737,7 +1966,7 @@ Elisabeth Kugler
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/](https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/)
 
@@ -1756,7 +1985,7 @@ Introduction to sharing resources online and licensing
 
 Tags: Sharing, Research Data Management
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -1775,7 +2004,7 @@ Blog post about how to share data using zenodo.org
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 
@@ -1822,27 +2051,40 @@ Content type: Tutorial
 
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
-Susanne Kunis
+Sarah Weischer, Jens Wendt, Thomas Zobel
 
-Published 2022-08-24
+Published 2022-07-12
 
 Licensed CC-BY-4.0
 
 
 
-guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
+Provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata. Visualizes the techniques for structuring this data as Linked Data. (Walkthrough Video: https://doi.org/10.5281/zenodo.7018928 )
 
-which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
+Content:
 
-You can also watch the video in the browser on the I3D:bio website.
+
+	Types of metadata
+	Data formats
+	Data Models Microscopy Data
+	Tools to edit/gather metadata
+	ISA Framework
+	FDO Framework
+	Ontology
+	RDF
+	JSON-LD
+	SPARQL
+	Knowledge Graph
+	Linked Data
+	Smart Data
+	...
+
 
 Tags: Nfdi4Bioimage, Research Data Management
 
-Content type: Video
+[https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
-[https://zenodo.org/record/7018929](https://zenodo.org/record/7018929)
-
-[https://doi.org/10.5281/zenodo.7018929](https://doi.org/10.5281/zenodo.7018929)
+[https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)
 
 
 ---
@@ -1855,7 +2097,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Tutorial, Video
 
@@ -1914,7 +2156,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Image Data Management, Research Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -1948,6 +2190,48 @@ Content type: Publication
 
 ---
 
+## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
+
+Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
+
+Published 2024-03-04
+
+Licensed CC-BY-4.0
+
+
+
+Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
+
+[https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
+
+
+---
+
+## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
+
+Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
+
+Published 2024-06-06
+
+Licensed CC-BY-4.0
+
+
+
+Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
+
+[https://doi.org/10.5281/zenodo.11501662](https://doi.org/10.5281/zenodo.11501662)
+
+
+---
+
 ## Thinking data management on different scales
 
 Susanne Kunis
@@ -1963,6 +2247,27 @@ Tags: Research Data Management, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8329305](https://zenodo.org/doi/10.5281/zenodo.8329305)
+
+
+---
+
+## Towards Preservation of Life Science Data with NFDI4BIOIMAGE
+
+Robert Haase
+
+Published 2024-09-03
+
+Licensed CC-BY-4.0
+
+
+
+This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
+
+[https://doi.org/10.5281/zenodo.13640979](https://doi.org/10.5281/zenodo.13640979)
 
 
 ---
@@ -2002,7 +2307,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Training, Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management
 
 Content type: Publication, Preprint
 
@@ -2045,6 +2350,50 @@ Tags: Research Data Management, Bioimage Analysis, Data Science
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [Community Meeting 2024] Overview Team Image Data Analysis and Management
+
+Susanne Kunis, Thomas Zobel
+
+Published 2024-03-08
+
+Licensed CC-BY-4.0
+
+
+
+Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
+&nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
+
+[https://doi.org/10.5281/zenodo.10796364](https://doi.org/10.5281/zenodo.10796364)
+
+
+---
+
+## [ELMI 2024]  AI's Dirty Little Secret: Without
+FAIR Data, It's Just Fancy Math
+
+Josh Moore, Susanne Kunis
+
+Published 2024-05-21
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
+
+[https://doi.org/10.5281/zenodo.11235513](https://doi.org/10.5281/zenodo.11235513)
 
 
 ---
@@ -2129,6 +2478,117 @@ Content type: Slides
 
 ---
 
+## [Workshop Material] Fit for OMERO - How imaging facilities and IT departments work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg
+
+Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
+
+Published 2024-11-18
+
+Licensed CC-BY-4.0
+
+
+
+Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+Description:
+Research data management (RDM) in bioimaging is challenging because of large file sizes, heterogeneous file formats and the variability of imaging methods. The image data management system OMERO (OME Remote Objects) allows for centralized and secure storage, organization, annotation, and interrogation of microscopy data by researchers. It is an internationally well-supported open-source software tool that has become one of the best-known image data management tools among bioimaging scientists. Nevertheless, the&nbsp;de novo&nbsp;setup of OMERO at an institute is a multi-stakeholder process that demands time, funds, organization and iterative implementation. In this workshop, participants learn how to begin setting up OMERO-based image data management at their institution. The topics include:
+
+Stakeholder identification at the university / research institute
+Process management, time line expectations, and resources planning
+Learning about each other&lsquo;s perspectives on chances and challenges for RDM
+Funding opportunities and strategies for IT and imaging core facilities
+Hands-on: Setting up an OMERO server in a virtual machine environment
+
+Target audience:
+This workshop was directed at universities and research institutions who consider or plan to implement OMERO, or are in an early phase of implementation. This workshop was intended for teams from IT departments and imaging facilities to participate together with one person from the IT department, and one person from the imaging core facility at the same institution.
+The trainers:
+
+Prof. Dr. Stefanie Weidtkamp-Peters (Imaging Core Facility Head, Center for Advanced Imaging, Heinrich Heine University of D&uuml;sseldorf)
+Dr. Susanne Kunis (Software architect, OMERO administrator, metadata specialist, University of Osnabr&uuml;ck)
+Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced Imaging, Heinrich Heine University of D&uuml;sseldorf)
+Dr. Bettina Hagen&nbsp;(IT Administration and service specialist, Max Planck Institute for the Biology of Ageing, Cologne)&nbsp;
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center (DKFZ), Heidelberg)
+
+Time and place
+The format was a two-day, in-person workshop (October 16-17, 2024).&nbsp;Location: Heidelberg, Germany
+Workshop learning goals
+
+Learn the steps to establish a local RDM environment fit for bioimaging data
+Create a network of IT experts and bioimaging specialists for bioimage RDM across institutions
+Establish a stakeholder process management for installing OMERO-based RDM
+Learn from each other, leverage different expertise
+Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
+
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
+
+[https://doi.org/10.5281/zenodo.14178789](https://doi.org/10.5281/zenodo.14178789)
+
+
+---
+
+## [Workshop] Bioimage data management and analysis with OMERO
+
+Riccardo Massei, Michele Bortolomeazzi, Christian Schmidt
+
+Published 2024-05-13
+
+Licensed CC-BY-4.0
+
+
+
+Here we share the material used in a workshop held on May 13th, 2024, at the German Cancer Research Center in Heidelberg (on-premise)
+Description:Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
+In this workshop, participants learn how to use OMERO to organize their data and enrich the bioimage data with structured metadata annotations.We also focus on image analysis workflows in combination with OMERO based on the Fiji/ImageJ software and using Jupyter Notebooks. In the last part, we explore how OMERO can be used to create publication figures and prepare bioimage data for publication in a suitable repository such as the Bioimage Archive.
+Module 1&nbsp;(9 am - 10.15 am):&nbsp;Basics of OMERO, data structuring and annotation
+Module 2&nbsp;(10.45 am - 12.45 pm):&nbsp;OMERO and Fiji
+Module 3&nbsp;(1.45 pm - 3.45 pm):&nbsp;OMERO and Jupyter Notebooks
+Module 4&nbsp;(4.15 pm - 6. pm):&nbsp;Publication-ready figures and data with OMERO
+The target group for this workshopThis workshop is directed at researchers at all career levels who plan to or have started to use OMERO for their microscopy research data management.&nbsp;We encourage the workshop participants to bring example data from their research to discuss suitable metadata annotation for their everyday practice.
+Prerequisites:Users should bring their laptops and have access to the internet through one of the following options:- eduroam- institutional WiFi- VPN connection to their institutional networks to access OMERO
+Who are the trainers?
+Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) - Data Steward for Bioimaging Data in NFDI4BIOIMAGE
+Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
+Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
+
+[https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
+
+
+---
+
+## [Workshop] Research Data Management for Microscopy and BioImage Analysis
+
+Christian Schmidt, Tom Boissonnet, Michele Bortolomeazzi, Ksenia Krooß
+
+Published 2024-09-30
+
+Licensed CC-BY-4.0
+
+
+
+Research Data Management for Microscopy and BioImage Analysis
+
+Introduction to BioImaging Research Data Management, NFDI4BIOIMAGE and I3D:bioChristian Schmidt /DKFZ Heidelberg
+OMERO as a tool for bioimaging data managementTom Boissonnet /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+Reproducible image analysis workflows with OMERO software APIsMichele Bortolomeazzi /DKFZ Heidelberg
+Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
+
+Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
+
+Tags: Nfdi4Bioimage, Research Data Management
+
+[https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
+
+[https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
 ## cba-support-template
 
 Arif Khan, Christian Tischer, Sebastian Gonzalez, Dominik Kutra, Felix Schneider, et al.
@@ -2144,6 +2604,27 @@ Tags: Workflow, Research Data Management
 Content type: Tutorial
 
 [https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
+## ome2024-ngff-challenge
+
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+
+Published 2024-08-30T12:00:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
+
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
+
+Content type: Github Repository
+
+[https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
 
 
 ---

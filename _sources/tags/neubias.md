@@ -1,4 +1,4 @@
-# Neubias (26)
+# Neubias (27)
 ## Adding a Workflow to BIAFLOWS
 
 Sébastien Tosi, Volker Baecker, Benjamin Pavie
@@ -9,7 +9,7 @@ Licensed BSD-2-CLAUSE
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
@@ -43,7 +43,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Cellprofiler, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/ahklemm/CellProfiler_Introduction](https://github.com/ahklemm/CellProfiler_Introduction)
 
@@ -149,7 +149,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Imagej Macro, Bioimage Analysis
 
-Content type: Slide, Code
+Content type: Slides, Code
 
 [https://github.com/ahklemm/ImageJMacro_Introduction](https://github.com/ahklemm/ImageJMacro_Introduction)
 
@@ -166,7 +166,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -183,7 +183,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
 
@@ -200,9 +200,30 @@ Licensed UNKNOWN
 
 Tags: Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54](https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54)
+
+
+---
+
+## Modular training resources for bioimage analysis
+
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+
+Published 2024-12-03
+
+Licensed CC-BY-4.0
+
+
+
+Resources for teaching/preparing to teach bioimage analysis
+
+Tags: Neubias, Bioimage Analysis
+
+[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
+
+[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
 
 
 ---
@@ -219,7 +240,7 @@ Lecture slides of a session on Multiview Fusion in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -251,7 +272,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2018](https://github.com/miura/NEUBIAS_AnalystSchool2018)
 
@@ -268,7 +289,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -285,7 +306,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -302,7 +323,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -334,7 +355,7 @@ Licensed UNKNOWN
 
 Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 
-Content type: Slide, Notebook
+Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
 
@@ -387,7 +408,7 @@ Lecture slides of a session on Cell Tracking in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -404,7 +425,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0](https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0)
 
@@ -421,7 +442,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -438,7 +459,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 

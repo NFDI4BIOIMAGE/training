@@ -130,7 +130,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+Tags: OMERO, Workflow, Bioimage Analysis
 
 Content type: Publication
 
@@ -373,7 +373,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Publication
 
@@ -500,7 +500,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy Image Analysis, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy
 
 Content type: Publication
 
@@ -604,7 +604,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -659,13 +659,13 @@ Content type: Publication, Documentation
 
 Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
-Licensed ['CC-BY-NC-SA']
+Licensed CC-BY-NC-SA
 
 
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -849,7 +849,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -895,7 +895,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -967,7 +967,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+Tags: Metadata, Bioinformatics, FAIR-Principles
 
 Content type: Publication
 
@@ -988,7 +988,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Image Data Management, Research Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -1074,7 +1074,7 @@ Licensed CC-BY-4.0
 
 The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
 
-Tags: Microscopy Image Analysis, Bioimage Analysis
+Tags: Bioimage Analysis
 
 Content type: Publication
 
@@ -1097,7 +1097,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+Tags: Reproducibility, Bioimage Analysis, Metadata
 
 Content type: Publication
 
@@ -1135,7 +1135,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Training, Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management
 
 Content type: Publication, Preprint
 

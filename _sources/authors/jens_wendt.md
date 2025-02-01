@@ -109,6 +109,8 @@ Content:
 	...
 
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
 [https://doi.org/10.5281/zenodo.7018750](https://doi.org/10.5281/zenodo.7018750)

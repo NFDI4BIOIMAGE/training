@@ -62,7 +62,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Deep Learning, Python
+Tags: Workflow Engine, Artificial Intelligence, Python
 
 Content type: Documentation
 
@@ -187,7 +187,7 @@ Nextflow is an open-source workflow management system that prioritizes portabili
 
 Tags: Workflow Engine
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 

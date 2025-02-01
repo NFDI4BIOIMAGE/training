@@ -34,7 +34,7 @@ The work was funded by the Ministry of Education, Youth and Sports by grant &lsq
 
 ## Interactive Image Data Flow Graphs
 
-Martin Schätz, Martin Schätz
+Martin Schätz
 
 Published 2022-10-17
 

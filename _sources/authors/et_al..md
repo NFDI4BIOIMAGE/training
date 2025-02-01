@@ -85,7 +85,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -157,7 +157,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -189,7 +189,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -206,7 +206,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -223,7 +223,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2020](https://github.com/miura/NEUBIAS_AnalystSchool2020)
 
@@ -280,7 +280,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -305,7 +305,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 
@@ -326,7 +326,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+Tags: Metadata, Bioinformatics, FAIR-Principles
 
 Content type: Publication
 
@@ -347,7 +347,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Microscopy Image Analysis, Metadata, Image Data Management, Bioimage Data
+Tags: Reproducibility, Bioimage Analysis, Metadata
 
 Content type: Publication
 
@@ -383,7 +383,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -440,7 +440,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 

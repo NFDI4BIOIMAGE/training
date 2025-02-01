@@ -73,9 +73,9 @@ Licensed UNKNOWN
 
 In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
 
-Tags: Docker, Training
+Tags: Docker
 
-Content type: Videos, Tutorial, Online Course
+Content type: Video, Tutorial, Online Course
 
 [https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
 
@@ -183,7 +183,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -229,7 +229,7 @@ Sharing knowledge and data in the life sciences allows us to learn from each oth
 
 Tags: Open Science, Teaching, Sharing
 
-Content type: Collection, Tutorial, Videos
+Content type: Collection, Tutorial, Video
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
@@ -295,9 +295,9 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO, Training
+Tags: OMERO
 
-Content type: Videos, Tutorial, Collection
+Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
@@ -314,7 +314,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -352,7 +352,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Segmentation, Bioimage Analysis, Training, Python, Scikit-Image, Image Segmentation
+Tags: Bioimage Analysis, Python
 
 Content type: Tutorial, Workflow
 
@@ -365,13 +365,13 @@ Content type: Tutorial, Workflow
 
 None
 
-Licensed GPLV3
+Licensed GPL-3.0
 
 
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Bioimage Data, Workflow
+Tags: Imagej, OMERO, Workflow
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -437,7 +437,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Tutorial
+Content type: Slides, Tutorial
 
 [https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017](https://github.com/miura/NEUBIAS_Bioimage_Analyst_Course2017)
 
@@ -471,7 +471,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -490,7 +490,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
 
 Content type: Tutorial, Framework, Workflow
 
@@ -543,9 +543,7 @@ Licensed CC-BY-4.0
 
 Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
 
-Tags: Training
-
-Content type: Collection, Online Course, Videos, Tutorial
+Content type: Collection, Online Course, Video, Tutorial
 
 [https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
 
@@ -603,7 +601,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Tutorial, Video
 
@@ -673,7 +671,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Segmentation, Bioimage Analysis, Training
+Tags: Bioimage Analysis
 
 Content type: Workshop, Github Repository, Tutorial
 

@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Microscopy Image Analysis, Python, Deep Learning
+Tags: Bioimage Analysis, Python, Artificial Intelligence
 
 Content type: Video, Slides
 
@@ -64,7 +64,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -89,7 +89,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Image Data Management, Research Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Publication
 

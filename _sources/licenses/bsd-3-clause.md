@@ -1,4 +1,4 @@
-# Bsd-3-clause (23)
+# Bsd-3-clause (26)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -92,6 +92,44 @@ Content type: Notebook
 
 ---
 
+## Community-developed checklists for publishing images and image analyses
+
+Beth Cimini et al.
+
+Licensed BSD-3-CLAUSE
+
+
+
+This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
+
+Tags: Bioimage Analysis, Research Data Management
+
+Content type: Notebook, Collection
+
+[https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
+
+
+---
+
+## Elastix tutorial
+
+Marvin Albert
+
+Licensed BSD-3-CLAUSE
+
+
+
+Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.
+
+Tags: Image Registration, Itk, Elastix
+
+Content type: Notebook, Collection
+
+[https://m-albert.github.io/elastix_tutorial/intro.html](https://m-albert.github.io/elastix_tutorial/intro.html)
+
+
+---
+
 ## Example Pipeline Tutorial
 
 Tim Monko
@@ -104,7 +142,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -142,7 +180,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -214,7 +252,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -233,7 +271,7 @@ Lecture slides of a session on Multiview Fusion in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -265,7 +303,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial for running CellPose advanced functions
 
-Tags: Cellpose, Segmentation
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Github Repository
 
@@ -305,7 +343,7 @@ Lecture slides of a session on Cell Tracking in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -360,7 +398,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -377,7 +415,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 
@@ -403,7 +441,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten Stöter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -413,11 +451,32 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing
+Tags: Sharing, Nfdi4Bioimage, Research Data Management
 
 Content type: Github Repository
 
 [https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
+
+
+---
+
+## scanpy-tutorials
+
+Alex Wolf, pre-commit-ci[bot], Philipp A., Isaac Virshup, Ilan Gold, Giovanni Palla, Fidel Ramirez, G\xF6k\xE7en Eraslan, Sergei Rybakov, Abolfazl (Abe), Adam Gayoso, Dinesh Palli, Gregor Sturm, Jan Lause, Karin Hrovatin, Krzysztof Polanski, RaphaelBuzzi, Yimin Zheng, Yishen Miao, evanbiederstedt
+
+Published 2018-12-16T03:42:46+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Scanpy Tutorials.
+
+Tags: Single-Cell Analysis, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/scverse/scanpy-tutorials](https://github.com/scverse/scanpy-tutorials)
 
 
 ---

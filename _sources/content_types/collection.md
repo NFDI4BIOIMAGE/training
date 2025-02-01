@@ -106,7 +106,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Deep Learning
+Tags: Bioimage Analysis, Artificial Intelligence
 
 Content type: Collection, Data
 
@@ -308,7 +308,7 @@ Content type: Collection, Video
 
 Beth Cimini et al.
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -388,7 +388,7 @@ Licensed CC-BY-4.0
 
 Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
 
-Tags: Research Data Management, Training, Dataplant
+Tags: Research Data Management, Dataplant
 
 Content type: Collection
 
@@ -426,7 +426,7 @@ Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
 Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
 
-Tags: Bioinformatics, Training
+Tags: Bioinformatics
 
 Content type: Collection
 
@@ -439,7 +439,7 @@ Content type: Collection
 
 Marvin Albert
 
-Licensed BSD LICENSE
+Licensed BSD-3-CLAUSE
 
 
 
@@ -548,7 +548,7 @@ Sharing knowledge and data in the life sciences allows us to learn from each oth
 
 Tags: Open Science, Teaching, Sharing
 
-Content type: Collection, Tutorial, Videos
+Content type: Collection, Tutorial, Video
 
 [https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
 
@@ -633,9 +633,9 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO, Training
+Tags: OMERO
 
-Content type: Videos, Tutorial, Collection
+Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
 
@@ -695,7 +695,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management, Bioimage Data
+Tags: Metadata, I3Dbio, Research Data Management
 
 Content type: Collection
 
@@ -823,7 +823,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+Tags: Bioimage Analysis, Quality Control
 
 Content type: Website, Collection
 
@@ -928,7 +928,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+Tags: Open Source Software
 
 Content type: Video, Collection
 
@@ -1054,7 +1054,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Collection
 
@@ -1073,7 +1073,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata, Bioimage Data
+Tags: Reproducibility, Metadata
 
 Content type: Collection
 
@@ -1090,9 +1090,7 @@ Licensed CC-BY-4.0
 
 Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
 
-Tags: Training
-
-Content type: Collection, Online Course, Videos, Tutorial
+Content type: Collection, Online Course, Video, Tutorial
 
 [https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
 
@@ -1150,7 +1148,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Microscopy Image Analysis
+Tags: Bioimage Analysis
 
 Content type: Collection, Event, Forum Post, Workshop
 

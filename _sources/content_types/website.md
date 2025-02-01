@@ -81,7 +81,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Image Segmentation, Machine Learning
+Tags: Bioimage Analysis, Quality Control
 
 Content type: Website, Collection
 

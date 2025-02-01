@@ -30,9 +30,9 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Tu Dresden, Bioimage Data, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 

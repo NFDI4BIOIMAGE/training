@@ -11,9 +11,9 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Deep Learning, Machine Learning, Artificial Intelligence, Bioimage Analysis, Large Language Models
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Youtube Video, Slides, Webinar
+Content type: Video, Slides, Webinar
 
 [https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
 
@@ -34,7 +34,7 @@ How can artificial intelligence be used for digital pathology?
 
 Tags: Artificial Intelligence
 
-Content type: Youtube Video
+Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
 
@@ -115,9 +115,9 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Deep Learning, Microscopy Image Analysis
+Tags: Artificial Intelligence, Bioimage Analysis
 
-Content type: Youtube Video, Slides
+Content type: Video, Slides
 
 [https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
 
@@ -134,7 +134,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: Image Data Management, OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis
 
 Content type: Video, Presentation
 
@@ -218,7 +218,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -269,7 +269,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+Tags: Open Source Software
 
 Content type: Video, Collection
 
@@ -333,7 +333,7 @@ Video Lectures for Statistical Rethinking Course
 
 Tags: Statistics
 
-Content type: Youtube Video
+Content type: Video
 
 [https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 

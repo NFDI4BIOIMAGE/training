@@ -80,6 +80,8 @@ See cross reference:
 10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
 10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
 
 [https://doi.org/10.5281/zenodo.12578084](https://doi.org/10.5281/zenodo.12578084)
@@ -114,6 +116,8 @@ Note: By filling the values in the excel sheet, avoid the usage of decimal delim
 See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 

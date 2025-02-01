@@ -7,7 +7,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 
@@ -77,7 +77,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Microscopy Image Analysis, Bioimage Analysis
+Tags: Napari, Bioimage Analysis
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -96,7 +96,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -166,7 +166,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -181,7 +181,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -196,7 +196,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 

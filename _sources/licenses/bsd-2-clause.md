@@ -9,7 +9,7 @@ Licensed BSD-2-CLAUSE
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
 
@@ -104,8 +104,6 @@ Licensed BSD-2-CLAUSE
 
 
 Web page for validating OME-NGFF files.
-
-Tags: Bioimage Data
 
 Content type: Github Repository, Application
 

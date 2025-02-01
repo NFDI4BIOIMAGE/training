@@ -1,4 +1,46 @@
-# Video (24)
+# Video (32)
+## AI ML DL in Bioimage Analysis - Webinar
+
+Yannick KREMPP
+
+Published 2024-11-14
+
+Licensed UNKNOWN
+
+
+
+A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Video, Slides, Webinar
+
+[https://www.youtube.com/watch?v=TJXNMIWtdac](https://www.youtube.com/watch?v=TJXNMIWtdac)
+
+
+---
+
+## Artificial Intelligence for Digital Pathology
+
+Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
+
+Published 2024-11-08
+
+Licensed UNKNOWN
+
+
+
+How can artificial intelligence be used for digital pathology?
+
+Tags: Artificial Intelligence
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
+
+
+---
+
 ## Bio Image Analysis Lecture 2020
 
 
@@ -61,6 +103,46 @@ Content type: Collection, Video
 
 ---
 
+## Docker Mastery - with Kubernetes + Swarm from a Docker Captain
+
+Bret Fisher
+
+Licensed UNKNOWN
+
+
+
+In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+
+Tags: Docker
+
+Content type: Video, Tutorial, Online Course
+
+[https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW](https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW)
+
+
+---
+
+## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
+
+Guillaume Jacquemet
+
+Published 2024-10-24
+
+Licensed UNKNOWN
+
+
+
+Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Video, Slides
+
+[https://www.youtube.com/watch?v=KTdZBgSCYJQ](https://www.youtube.com/watch?v=KTdZBgSCYJQ)
+
+
+---
+
 ## Erick Martins Ratamero - Expanding the OME ecosystem for imaging data management | SciPy 2024
 
 SciPy, Erick Martins Ratamero
@@ -71,7 +153,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: Image Data Management, OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis
 
 Content type: Video, Presentation
 
@@ -119,6 +201,46 @@ Content type: Collection, Video
 
 ---
 
+## Finding and using publicly available data
+
+Anna Swan
+
+Published 2024-01-01
+
+Licensed CC-BY-4.0
+
+
+
+Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
+
+Tags: Open Science, Teaching, Sharing
+
+Content type: Collection, Tutorial, Video
+
+[https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/](https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/)
+
+
+---
+
+## Glencoe Software Webinars
+
+Chris Allan, Emil Rozbicki
+
+Licensed UNKNOWN
+
+
+
+Example Workflows / usage of the Glencoe Software.
+
+Tags: OMERO
+
+Content type: Video, Tutorial, Collection
+
+[https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
+
+
+---
+
 ## Global BioImaging YouTube channel
 
 
@@ -155,7 +277,7 @@ The open-source software OME Remote Objects (OMERO) is a data management softwar
 
 Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
 
-Content type: Slide, Video
+Content type: Slides, Video
 
 [https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
 
@@ -221,7 +343,7 @@ Licensed CC-BY-4.0
 
 Tags: Bioimage Analysis
 
-Content type: Online Tutorial, Video, Slide
+Content type: Online Tutorial, Video, Slides
 
 [https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/](https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/)
 
@@ -242,7 +364,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Microscopy Image Analysis, Python, Deep Learning
+Tags: Bioimage Analysis, Python, Artificial Intelligence
 
 Content type: Video, Slides
 
@@ -276,7 +398,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+Tags: Open Source Software
 
 Content type: Video, Collection
 
@@ -326,6 +448,42 @@ Content type: Collection, Video
 
 ---
 
+## SWC/GCNU Software Skills
+
+Licensed CC-BY-4.0
+
+
+
+Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Content type: Collection, Online Course, Video, Tutorial
+
+[https://software-skills.neuroinformatics.dev/index.html](https://software-skills.neuroinformatics.dev/index.html)
+
+
+---
+
+## Statistical Rethinking
+
+Richard McElreath
+
+Published 2023-01-02
+
+Licensed UNKNOWN
+
+
+
+Video Lectures for Statistical Rethinking Course
+
+Tags: Statistics
+
+Content type: Video
+
+[https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+
+
+---
+
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
 Susanne Kunis
@@ -361,7 +519,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management, Image Data Management, Bioimage Data
+Tags: Research Data Management
 
 Content type: Tutorial, Video
 

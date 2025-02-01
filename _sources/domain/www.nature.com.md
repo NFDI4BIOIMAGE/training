@@ -60,7 +60,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Publication
 
@@ -160,13 +160,13 @@ Content type: Publication
 
 Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
-Licensed ['CC-BY-NC-SA']
+Licensed CC-BY-NC-SA
 
 
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -206,7 +206,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Bioimage Data, Image Data Management, Research Data Management
+Tags: Metadata, Research Data Management
 
 Content type: Publication
 
@@ -229,7 +229,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata, Bioimage Data
+Tags: Reproducibility, Metadata
 
 Content type: Collection
 

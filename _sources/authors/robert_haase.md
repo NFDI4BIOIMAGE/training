@@ -35,7 +35,7 @@ Content type: Publication, Poster
 
 ## Angebote der NFDI für die Forschung im Bereich Zoologie
 
-Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Engel, Judith Sophie
+Birgitta König-Ries, Robert Haase, Daniel Nüst, Konrad Förstner, Judith Sophie Engel
 
 Published 2024-12-04
 
@@ -44,6 +44,8 @@ Licensed CC-BY-4.0
 
 
 In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
 
@@ -62,7 +64,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Github Repository
 
@@ -126,9 +128,9 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Large Language Models, Python
+Tags: Artificial Intelligence, Python
 
-Content type: Slide
+Content type: Slides
 
 [https://zenodo.org/records/10815329](https://zenodo.org/records/10815329)
 
@@ -147,7 +149,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Image Data Management, Deep Learning, Microscopy Image Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
 
 Content type: Notebook
 
@@ -166,7 +168,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Deep Learning, Microscopy Image Analysis, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python
 
 Content type: Slides
 
@@ -202,7 +204,7 @@ Licensed CC-BY-4.0
 
 Tags: OMERO, Python
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -240,7 +242,7 @@ Licensed CC-BY-4.0
 
 Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
 
@@ -297,6 +299,8 @@ Licensed CC-BY-4.0
 
 This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
 
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
+
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
 [https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
@@ -316,7 +320,7 @@ Introduction to version control using git for collaborative, reproducible script
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
@@ -335,9 +339,9 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Large Language Models, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
 
@@ -461,7 +465,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Bioimage Analysis, Artificial Intelligence
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
 
@@ -626,7 +630,7 @@ Overview about decision making and how to influence decisions in the bio-image a
 
 Tags: Bioimage Analysis
 
-Content type: Slide, Presentation
+Content type: Slides, Presentation
 
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
@@ -645,7 +649,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
+Tags: Bioimage Analysis
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -685,7 +689,7 @@ Blog post about why we should license our work and what is important when choosi
 
 Tags: Licensing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 
@@ -702,7 +706,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev](https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev)
 
@@ -734,7 +738,7 @@ Licensed UNKNOWN
 
 Tags: Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01](https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01)
 
@@ -783,6 +787,8 @@ Licensed CC-BY-4.0
 
 This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
+Tags: Globias, Artificial Intelligence
+
 [https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
 [https://doi.org/10.5281/zenodo.14418209](https://doi.org/10.5281/zenodo.14418209)
@@ -800,7 +806,7 @@ Slides, scripts, data and other exercise materials of the BioImage Analysis lect
 
 Tags: Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 
@@ -817,7 +823,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
 
@@ -853,7 +859,7 @@ Lecture slides of a session on Multiview Fusion in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_multiview_registration](https://git.mpi-cbg.de/rhaase/lecture_multiview_registration)
 
@@ -870,7 +876,7 @@ Licensed UNKNOWN
 
 Tags: Neubias, Bioimage Analysis
 
-Content type: Slide, Code, Notebook
+Content type: Slides, Code, Notebook
 
 [https://github.com/miura/NEUBIAS_AnalystSchool2019](https://github.com/miura/NEUBIAS_AnalystSchool2019)
 
@@ -946,7 +952,7 @@ Licensed CC-BY-4.0
 
 
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
@@ -986,7 +992,7 @@ Introduction to sharing resources online and licensing
 
 Tags: Sharing, Research Data Management
 
-Content type: Slide
+Content type: Slides
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
 
@@ -1005,7 +1011,7 @@ Blog post about how to share data using zenodo.org
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 
@@ -1063,6 +1069,8 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
 [https://doi.org/10.5281/zenodo.13640979](https://doi.org/10.5281/zenodo.13640979)
@@ -1101,7 +1109,7 @@ Lecture slides of a session on Cell Tracking in Fiji
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
 
@@ -1118,7 +1126,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d](https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d)
 
@@ -1135,7 +1143,7 @@ Licensed BSD-3-CLAUSE
 
 Tags: Neubias, Imagej, Bioimage Analysis
 
-Content type: Slide
+Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
 
@@ -1154,7 +1162,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 

@@ -142,7 +142,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management, Image Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Publication
 
@@ -178,7 +178,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Deep Learning, FAIR-Principles, Microscopy Image Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
 
 Content type: Slides
 
@@ -265,13 +265,13 @@ Content type: Publication
 
 Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
-Licensed ['CC-BY-NC-SA']
+Licensed CC-BY-NC-SA
 
 
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow
 
 Content type: Publication
 
@@ -408,7 +408,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Image Data Management, Research Data Management, Bioimage Data
+Tags: FAIR-Principles, Metadata, Research Data Management
 
 Content type: Collection
 
@@ -469,7 +469,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles, Training
+Tags: Metadata, Bioinformatics, FAIR-Principles
 
 Content type: Publication
 

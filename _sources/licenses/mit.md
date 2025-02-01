@@ -9,7 +9,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Deep Learning, Python
+Tags: Workflow Engine, Artificial Intelligence, Python
 
 Content type: Documentation
 
@@ -177,7 +177,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Deep Learning, Pytorch, Segmentation, Python
+Tags: Artificial Intelligence, Python
 
 Content type: Notebook
 
@@ -376,7 +376,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Large Language Models, Prompt Engineering, Biabob, Bioimage Analysis, Microscopy Image Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis
 
 Content type: Github Repository, Slides
 

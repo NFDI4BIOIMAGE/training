@@ -1,4 +1,4 @@
-# Workflow (10)
+# Workflow (9)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis, Image Data Management
+Tags: OMERO, Workflow, Bioimage Analysis
 
 Content type: Publication
 
@@ -52,36 +52,17 @@ Content type: Online Tutorial, Tutorial
 
 ---
 
-## I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library
-
-Stephane Rigaud, Robert Haase
-
-Licensed BSD-3-CLAUSE
-
-
-
-Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
-
-Tags: Clesperanto, Training, Bioimage Analysis, Notebooks, Workflow
-
-Content type: Github Repository, Workshop, Tutorial, Notebook
-
-[https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file](https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file)
-
-
----
-
 ## KNIME Image Processing
 
 None
 
-Licensed GPLV3
+Licensed GPL-3.0
 
 
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Bioimage Data, Workflow
+Tags: Imagej, OMERO, Workflow
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -94,13 +75,13 @@ Content type: Tutorial, Online Tutorial, Documentation
 
 Shanghang Zhang, Gaole Dai, Tiejun Huang, Jianxu Chen
 
-Licensed ['CC-BY-NC-SA']
+Licensed CC-BY-NC-SA
 
 
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, Large Language Models, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow
 
 Content type: Publication
 

@@ -1,4 +1,4 @@
-# Blog (19)
+# Blog post (23)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -7,9 +7,30 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## Biologists, stop putting UMAP plots in your papers
+
+Rafael Irizarry
+
+Published 2024-12-23
+
+Licensed UNKNOWN
+
+
+
+UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
+
+Tags: Biology, Data Analysis, Umap
+
+Content type: Blog Post
+
+[https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/](https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/)
 
 
 ---
@@ -24,7 +45,7 @@ Licensed CC-BY-4.0
 
 Tags: OMERO, Python
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
 
@@ -43,7 +64,7 @@ Introduction to version control using git for collaborative, reproducible script
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/)
 
@@ -62,11 +83,51 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Large Language Models, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
+## DL4MicEverywhere – Overcoming reproducibility challenges in deep learning microscopy imaging
+
+Iván Hidalgo-Cenalmor
+
+Published 2024-07-29
+
+Licensed UNKNOWN
+
+
+
+Tags: Bio Image Analysis, Artifical Intelligence
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/](https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/)
+
+
+---
+
+## Data Visualization with Flying Colors
+
+Joachim Goedhart
+
+Published 2019-08-29
+
+Licensed UNKNOWN
+
+
+
+The author discusses a number of color palettes that are suitable for coloring graphical elements in plots.
+
+Tags: Data Visualization
+
+Content type: Blog Post
+
+[https://thenode.biologists.com/data-visualization-with-flying-colors/research/](https://thenode.biologists.com/data-visualization-with-flying-colors/research/)
 
 
 ---
@@ -79,7 +140,7 @@ Job Fermie
 
 Tags: Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy](https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy)
 
@@ -94,7 +155,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 
@@ -113,7 +174,7 @@ Sharing your data can benefit your career in some interesting ways. In this post
 
 Tags: Research Data Management, Sharing
 
-Content type: Blog
+Content type: Blog Post
 
 [https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data](https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data)
 
@@ -130,7 +191,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
 
@@ -145,7 +206,7 @@ Mara Lampert
 
 Tags: Github, Python, Science Communication
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 
@@ -164,7 +225,7 @@ Blog post about why we should license our work and what is important when choosi
 
 Tags: Licensing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/](https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/)
 
@@ -181,9 +242,28 @@ Licensed CC-BY-4.0
 
 Tags: Python, Conda, Mamba
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
+
+
+---
+
+## New report highlights the scientific impact of open source software
+
+UNKNOWN
+
+Published UNKNOWN
+
+Licensed UNKNOWN
+
+
+
+Tags: Open Source, Alphafold
+
+Content type: Report, Blog Post
+
+[https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/](https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/)
 
 
 ---
@@ -196,7 +276,7 @@ Jennifer Waters
 
 Tags: Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility](https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility)
 
@@ -211,7 +291,7 @@ Mara Lampert
 
 Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
 
@@ -226,7 +306,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
@@ -241,7 +321,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 
@@ -258,7 +338,7 @@ Licensed CC-BY-4.0
 
 Tags: Python, Artificial Intelligence, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
 
@@ -273,7 +353,7 @@ Elisabeth Kugler
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/](https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/)
 
@@ -292,7 +372,7 @@ Blog post about how to share data using zenodo.org
 
 Tags: Sharing, Research Data Management
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
 
@@ -307,7 +387,7 @@ Mara Lampert
 
 Tags: Python, Napari, Bioimage Analysis
 
-Content type: Blog
+Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 

@@ -26,7 +26,7 @@ Licensed GPL-2.0
 
 An easy to use and open source converter for bioimaging data. NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF.
 
-Tags: Bioimage Data, Open Source Software
+Tags: Open Source Software
 
 Content type: Application
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software, Microscopy Image Analysis, Bioimage Data
+Tags: Open Source Software
 
 Content type: Video, Collection
 
@@ -102,7 +102,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
@@ -121,7 +121,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software, Bioimage Data
+Tags: Open Source Software
 
 Content type: Application, Github Repository
 
