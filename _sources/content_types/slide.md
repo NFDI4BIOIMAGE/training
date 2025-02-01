@@ -24,8 +24,6 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
-
 Content type: Slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
@@ -595,7 +593,7 @@ Content type: Slide
 
 ## Research Data Management Seminar - Slides
 
-Della Chiesa, Stefano
+Stefano Della Chiesa
 
 Published 2022-05-18
 

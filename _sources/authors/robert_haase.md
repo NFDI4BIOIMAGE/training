@@ -105,6 +105,8 @@ Licensed CC-BY-4.0
 
 In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
 
+Tags: Artificial Intelligence, Bioimage Analysis
+
 [https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
 
 [https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)

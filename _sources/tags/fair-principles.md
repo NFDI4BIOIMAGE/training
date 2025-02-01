@@ -284,7 +284,7 @@ Content type: Publication
 
 ## NFDI4BIOIMAGE
 
-Carsten Fortmann.Grote
+Carsten Fortmann-Grote
 
 Licensed CC-BY-4.0
 

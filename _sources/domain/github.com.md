@@ -64,6 +64,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Bioimage Analysis
+
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
 
@@ -112,8 +114,6 @@ Christian Tischer
 Licensed UNKNOWN
 
 
-
-Tags: Bioimage Analysis
 
 Content type: Slide
 
@@ -414,6 +414,8 @@ Iván Hidalgo, et al.
 Licensed CC-BY-4.0
 
 
+
+Tags: Bioimage Analysis
 
 Content type: Notebook, Collection
 
@@ -1858,6 +1860,8 @@ Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Kre
 Licensed MIT
 
 
+
+Tags: Bioimage Analysis
 
 Content type: Notebook, Collection
 

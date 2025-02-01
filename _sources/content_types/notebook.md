@@ -215,6 +215,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Bioimage Analysis
+
 Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
@@ -908,6 +910,8 @@ Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Kre
 Licensed MIT
 
 
+
+Tags: Bioimage Analysis
 
 Content type: Notebook, Collection
 

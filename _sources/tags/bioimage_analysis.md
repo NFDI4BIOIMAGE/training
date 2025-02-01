@@ -1,4 +1,4 @@
-# Bioimage analysis (171)
+# Bioimage analysis (174)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -147,6 +147,23 @@ Content type: Slide
 
 ---
 
+## Analysis of High-Throughput Microscopy Image Data
+
+Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
+
+Published 2014
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis
+
+[https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
+
+
+---
+
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -236,23 +253,6 @@ Content type: Publication
 
 ---
 
-## Bio Image Analysis
-
-Christian Tischer
-
-Licensed UNKNOWN
-
-
-
-Tags: Bioimage Analysis
-
-Content type: Slide
-
-[https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
-
-
----
-
 ## Bio Image Analysis Lecture 2020
 
 
@@ -262,6 +262,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U](https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U)
+
+
+---
+
+## Bio-image Analysis Code Generation using bia-bob
+
+Robert Haase
+
+Published 2024-10-09
+
+Licensed CC-BY-4.0
+
+
+
+In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+[https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
+
+[https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)
 
 
 ---
@@ -811,6 +832,23 @@ Content type: Notebook
 
 ---
 
+## DL4MicEverywhere
+
+Iván Hidalgo, et al.
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Notebook, Collection
+
+[https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
+
+
+---
+
 ## DL@MBL 2021 Exercises
 
 Jan Funke, Constantin Pape, Morgan Schwartz, Xiaoyan
@@ -1008,7 +1046,7 @@ SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
-Licensed YOUTTUBE STANDARD LICENSE
+Licensed YOUTUBE STANDARD LICENSE
 
 
 
@@ -1956,7 +1994,7 @@ Content type: Slide, Code, Notebook
 
 ## NFDI4BIOIMAGE
 
-Carsten Fortmann.Grote
+Carsten Fortmann-Grote
 
 Licensed CC-BY-4.0
 
@@ -2785,6 +2823,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slide
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
+
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+
+Licensed MIT
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Notebook, Collection
+
+[https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
+
+[https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
+
+[https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
 
 
 ---

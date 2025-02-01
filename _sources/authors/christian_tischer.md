@@ -28,6 +28,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Bioimage Analysis
+
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
 
@@ -57,8 +59,6 @@ Christian Tischer
 Licensed UNKNOWN
 
 
-
-Tags: Bioimage Analysis
 
 Content type: Slide
 

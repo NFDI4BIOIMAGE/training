@@ -66,6 +66,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Bioimage Analysis
+
 Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)

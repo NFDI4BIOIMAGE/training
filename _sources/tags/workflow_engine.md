@@ -41,7 +41,7 @@ Licensed UNKNOWN
 
 
 
-BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
 Tags: Artificial Intelligence, Workflow Engine
 

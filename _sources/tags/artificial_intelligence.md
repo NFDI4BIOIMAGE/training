@@ -1,4 +1,4 @@
-# Artificial intelligence (30)
+# Artificial intelligence (32)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -58,6 +58,27 @@ Content type: Youtube Video
 
 ---
 
+## Bio-image Analysis Code Generation using bia-bob
+
+Robert Haase
+
+Published 2024-10-09
+
+Licensed CC-BY-4.0
+
+
+
+In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+[https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
+
+[https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)
+
+
+---
+
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
@@ -66,7 +87,7 @@ Licensed UNKNOWN
 
 
 
-BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
 Tags: Artificial Intelligence, Workflow Engine
 
@@ -379,6 +400,27 @@ Tags: Artificial Intelligence
 Content type: Tutorial
 
 [https://github.com/kreshuklab/predoc-course](https://github.com/kreshuklab/predoc-course)
+
+
+---
+
+## Large Language Models: An Introduction for Life Scientists
+
+Robert Haase
+
+Published 2024-08-27
+
+Licensed CC-BY-4.0
+
+
+
+Large Language Models (LLMs) are changing the way how humans interact with computers. This has impact on all scientific fields by enabling new ways to achieve for example data analysis goals. In this talk we will go through an introduction to LLMs with respect to applications in the life sciences, focusing on bio-image analysis. We will see how to generate text and images using LLMs and how LLMs can extract information from reproducibly images through code-generation. We will go through selected prompt engineering techniques enabling scientists to tune the output of LLMs towards their scientific goal and how to do quality assurance in this context.
+
+Tags: Artificial Intelligence
+
+[https://zenodo.org/records/13379394](https://zenodo.org/records/13379394)
+
+[https://doi.org/10.5281/zenodo.13379394](https://doi.org/10.5281/zenodo.13379394)
 
 
 ---

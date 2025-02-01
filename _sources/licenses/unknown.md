@@ -64,6 +64,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Bioimage Analysis
+
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
 
@@ -119,8 +121,6 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
-
 Content type: Slide
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
@@ -136,7 +136,7 @@ Licensed UNKNOWN
 
 
 
-BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
 Tags: Artificial Intelligence, Workflow Engine
 

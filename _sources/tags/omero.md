@@ -64,7 +64,7 @@ SciPy, Erick Martins Ratamero
 
 Published 2024-08-19
 
-Licensed YOUTTUBE STANDARD LICENSE
+Licensed YOUTUBE STANDARD LICENSE
 
 
 

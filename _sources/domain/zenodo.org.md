@@ -356,6 +356,8 @@ Licensed CC-BY-4.0
 
 In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
 
+Tags: Artificial Intelligence, Bioimage Analysis
+
 [https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
 
 [https://doi.org/10.5281/zenodo.13908108](https://doi.org/10.5281/zenodo.13908108)
@@ -2987,7 +2989,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and Bioimage Analysis
 
-Marcelo Zoccoler
+NFDI4BIOIMAGE Consortium
 
 Published 2024-08-07
 
@@ -3289,7 +3291,7 @@ The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine Carl Gustav
 
 ## Research Data Management Seminar - Slides
 
-Della Chiesa, Stefano
+Stefano Della Chiesa
 
 Published 2022-05-18
 

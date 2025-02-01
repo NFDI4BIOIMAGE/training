@@ -1206,7 +1206,7 @@ Content type: Website
 
 ## NFDI4BIOIMAGE
 
-Carsten Fortmann.Grote
+Carsten Fortmann-Grote
 
 Licensed CC-BY-4.0
 
@@ -1606,7 +1606,7 @@ Content type: Collection
 
 ## Research Data Management Seminar - Slides
 
-Della Chiesa, Stefano
+Stefano Della Chiesa
 
 Published 2022-05-18
 
