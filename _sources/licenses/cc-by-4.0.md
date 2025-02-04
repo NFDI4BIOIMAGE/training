@@ -1,4 +1,4 @@
-# Cc-by-4.0 (249)
+# Cc-by-4.0 (251)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1148,6 +1148,31 @@ Tags: Research Data Management, Dataplant
 Content type: Collection
 
 [https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html)
+
+
+---
+
+## Dataset from InCell 2200 microscope misread as a plate
+
+Fabien Kuttler, Rémy Dornier
+
+Published 2025-01-30
+
+Licensed CC-BY-4.0
+
+
+
+Two dummy datasets are provided in this repository :&nbsp;
+
+Dataset_Ok : 96 wells, 9 fields of view per well, 4 different channels (DAPI, Cy3, FITC, Brightfield), no Z, no T. The .xcde file of this dataset is correctly read by BioFormats, as the dataset is recognized as a plate, and can be imported on OMERO
+Dataset_fail: 20 wells, 4 fields of view per well, 5 channels, with one duplicate (DAPI, FITC, Cy3, Cy5 wix 4 , Cy5 wix 5), no Z, no T. The .xcde file of this dataset is not correctly read by BioFormats and no images are imported on OMERO.
+
+BioFormats version: 8.0.1
+A discussion thread has been open on this topic.
+
+[https://zenodo.org/records/14769820](https://zenodo.org/records/14769820)
+
+[https://doi.org/10.5281/zenodo.14769820](https://doi.org/10.5281/zenodo.14769820)
 
 
 ---
@@ -2762,6 +2787,35 @@ The work was funded by the Ministry of Education, Youth and Sports by grant &lsq
 [https://zenodo.org/records/7885379](https://zenodo.org/records/7885379)
 
 [https://doi.org/10.5281/zenodo.7885379](https://doi.org/10.5281/zenodo.7885379)
+
+
+---
+
+## InCell datasets with mix of 2D and 3D failed to be read
+
+Fabien Kuttler, Rémy Dornier
+
+Published 2025-01-31
+
+Licensed CC-BY-4.0
+
+
+
+The provided dataset contains 2 wells, 4 fields of view, 4 channels, no T but different number of Z according to the channel
+
+Cy3 : 1 Z
+DAPI : 16 Z
+FITC : 1 Z
+Brightfield : 1 Z
+
+The mix 2D/3D is not correctly supported and the .xcde file cannot be read.
+A discussion thread is already open on that topic.
+Bio-Formats version : 8.0.1
+&nbsp;
+
+[https://zenodo.org/records/14777242](https://zenodo.org/records/14777242)
+
+[https://doi.org/10.5281/zenodo.14777242](https://doi.org/10.5281/zenodo.14777242)
 
 
 ---

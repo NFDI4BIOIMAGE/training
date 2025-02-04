@@ -1,4 +1,4 @@
-# Doi.org (183)
+# Doi.org (186)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -913,6 +913,31 @@ A more detailed understanding of the effect of plasmas on biological systems can
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
+## Dataset from InCell 2200 microscope misread as a plate
+
+Fabien Kuttler, Rémy Dornier
+
+Published 2025-01-30
+
+Licensed CC-BY-4.0
+
+
+
+Two dummy datasets are provided in this repository :&nbsp;
+
+Dataset_Ok : 96 wells, 9 fields of view per well, 4 different channels (DAPI, Cy3, FITC, Brightfield), no Z, no T. The .xcde file of this dataset is correctly read by BioFormats, as the dataset is recognized as a plate, and can be imported on OMERO
+Dataset_fail: 20 wells, 4 fields of view per well, 5 channels, with one duplicate (DAPI, FITC, Cy3, Cy5 wix 4 , Cy5 wix 5), no Z, no T. The .xcde file of this dataset is not correctly read by BioFormats and no images are imported on OMERO.
+
+BioFormats version: 8.0.1
+A discussion thread has been open on this topic.
+
+[https://zenodo.org/records/14769820](https://zenodo.org/records/14769820)
+
+[https://doi.org/10.5281/zenodo.14769820](https://doi.org/10.5281/zenodo.14769820)
 
 
 ---
@@ -2325,6 +2350,35 @@ This upload contains the short version and is distributed under CC BY-ND 4.0 lic
 
 ---
 
+## InCell datasets with mix of 2D and 3D failed to be read
+
+Fabien Kuttler, Rémy Dornier
+
+Published 2025-01-31
+
+Licensed CC-BY-4.0
+
+
+
+The provided dataset contains 2 wells, 4 fields of view, 4 channels, no T but different number of Z according to the channel
+
+Cy3 : 1 Z
+DAPI : 16 Z
+FITC : 1 Z
+Brightfield : 1 Z
+
+The mix 2D/3D is not correctly supported and the .xcde file cannot be read.
+A discussion thread is already open on that topic.
+Bio-Formats version : 8.0.1
+&nbsp;
+
+[https://zenodo.org/records/14777242](https://zenodo.org/records/14777242)
+
+[https://doi.org/10.5281/zenodo.14777242](https://doi.org/10.5281/zenodo.14777242)
+
+
+---
+
 ## Ink in a dish
 
 Cavanagh
@@ -2396,6 +2450,23 @@ Beyond the University of Konstanz, the Team is involved in a range of national a
 [https://zenodo.org/records/12699637](https://zenodo.org/records/12699637)
 
 [https://doi.org/10.5281/zenodo.12699637](https://doi.org/10.5281/zenodo.12699637)
+
+
+---
+
+## Integration of Bioimage and *Omics data resources
+
+Carsten Fortmann-Grote, Mariana Meireles
+
+Published 2025-02-03
+
+
+
+This Poster was presented at the 2025 All Hands Meeting of the NFDI4BIOIMAGE Consortium. It presents the current state of data integration activities at the MPI for Evolutionary Biology. Various data and metadata resources such as the internal image data repository OMERO and the Electronic Lab Notebook System OpenBIS are converted into a RDF Knowledge Graph utilizing a R2RML mapping scheme based on the Ontop-VKG framework. The materialized Knowledge Graph is then served via the QLever SPARQL endpoint and user interface. A graphical query editor (SPARNatural) assists users with no SPARQL knowledge in constructing their queries by selecting triple elements from dropdown menus and other widgets.&nbsp;We also present a benchmark comparison of query response times on 10 selected SPARQL queries run against three different endpoint/triplestore implementations.&nbsp;
+
+[https://zenodo.org/records/14792534](https://zenodo.org/records/14792534)
+
+[https://doi.org/10.5281/zenodo.14792534](https://doi.org/10.5281/zenodo.14792534)
 
 
 ---

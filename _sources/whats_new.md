@@ -37,38 +37,73 @@ Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Manage
 
 ---
 
-## DL4Proteins-notebooks
+## Dataset from InCell 2200 microscope misread as a plate
 
-Michael Chungyoun, Courtney Thomas, Britnie Carpentier, GabeAu79, puv-sreev, Jeffrey Gray
+Fabien Kuttler, Rémy Dornier
 
-Published 2024-09-04T12:24:24+00:00
-
-
-
-Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
-
-Tags: Bioinformatics
-
-Content type: Github Repository, Collection
-
-[https://github.com/Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks)
-
-
----
-
-## LSM example J. Dubrulle
-
-Salama Lab Fred Hutchinson Cancer Center
-
-Published 2024-12-17
+Published 2025-01-30
 
 Licensed CC-BY-4.0
 
 
 
-[https://zenodo.org/records/14510432](https://zenodo.org/records/14510432)
+Two dummy datasets are provided in this repository :&nbsp;
 
-[https://doi.org/10.5281/zenodo.14510432](https://doi.org/10.5281/zenodo.14510432)
+Dataset_Ok : 96 wells, 9 fields of view per well, 4 different channels (DAPI, Cy3, FITC, Brightfield), no Z, no T. The .xcde file of this dataset is correctly read by BioFormats, as the dataset is recognized as a plate, and can be imported on OMERO
+Dataset_fail: 20 wells, 4 fields of view per well, 5 channels, with one duplicate (DAPI, FITC, Cy3, Cy5 wix 4 , Cy5 wix 5), no Z, no T. The .xcde file of this dataset is not correctly read by BioFormats and no images are imported on OMERO.
+
+BioFormats version: 8.0.1
+A discussion thread has been open on this topic.
+
+[https://zenodo.org/records/14769820](https://zenodo.org/records/14769820)
+
+[https://doi.org/10.5281/zenodo.14769820](https://doi.org/10.5281/zenodo.14769820)
+
+
+---
+
+## InCell datasets with mix of 2D and 3D failed to be read
+
+Fabien Kuttler, Rémy Dornier
+
+Published 2025-01-31
+
+Licensed CC-BY-4.0
+
+
+
+The provided dataset contains 2 wells, 4 fields of view, 4 channels, no T but different number of Z according to the channel
+
+Cy3 : 1 Z
+DAPI : 16 Z
+FITC : 1 Z
+Brightfield : 1 Z
+
+The mix 2D/3D is not correctly supported and the .xcde file cannot be read.
+A discussion thread is already open on that topic.
+Bio-Formats version : 8.0.1
+&nbsp;
+
+[https://zenodo.org/records/14777242](https://zenodo.org/records/14777242)
+
+[https://doi.org/10.5281/zenodo.14777242](https://doi.org/10.5281/zenodo.14777242)
+
+
+---
+
+## Integration of Bioimage and *Omics data resources
+
+Carsten Fortmann-Grote, Mariana Meireles
+
+Published 2025-02-03
+
+
+
+This Poster was presented at the 2025 All Hands Meeting of the NFDI4BIOIMAGE Consortium. It presents the current state of data integration activities at the MPI for Evolutionary Biology. Various data and metadata resources such as the internal image data repository OMERO and the Electronic Lab Notebook System OpenBIS are converted into a RDF Knowledge Graph utilizing a R2RML mapping scheme based on the Ontop-VKG framework. The materialized Knowledge Graph is then served via the QLever SPARQL endpoint and user interface. A graphical query editor (SPARNatural) assists users with no SPARQL knowledge in constructing their queries by selecting triple elements from dropdown menus and other widgets.&nbsp;We also present a benchmark comparison of query response times on 10 selected SPARQL queries run against three different endpoint/triplestore implementations.&nbsp;
+
+[https://zenodo.org/records/14792534](https://zenodo.org/records/14792534)
+
+[https://doi.org/10.5281/zenodo.14792534](https://doi.org/10.5281/zenodo.14792534)
 
 
 ---
@@ -173,34 +208,6 @@ Tags: Nfdi4Bioimage
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
 [https://doi.org/10.5281/zenodo.14650434](https://doi.org/10.5281/zenodo.14650434)
-
-
----
-
-## [Workshop] Research Data Management for Microscopy and BioImage Analysis
-
-Christian Schmidt, Tom Boissonnet, Michele Bortolomeazzi, Ksenia Krooß
-
-Published 2024-09-30
-
-Licensed CC-BY-4.0
-
-
-
-Research Data Management for Microscopy and BioImage Analysis
-
-Introduction to BioImaging Research Data Management, NFDI4BIOIMAGE and I3D:bioChristian Schmidt /DKFZ Heidelberg
-OMERO as a tool for bioimaging data managementTom Boissonnet /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
-Reproducible image analysis workflows with OMERO software APIsMichele Bortolomeazzi /DKFZ Heidelberg
-Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Heinrich-Heine Universit&auml;t D&uuml;sseldorf
-
-Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
-
-Tags: Nfdi4Bioimage, Research Data Management
-
-[https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
-
-[https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
 
 
 ---
