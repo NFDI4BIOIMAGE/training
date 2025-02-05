@@ -10104,6 +10104,26 @@ resources:
   - Tutorial
   url: https://cloud.denbi.de/wiki/registration/ 
 
+- authors:
+  - Kevin Frey
+  - Kevin Schneider
+  - Lukas Weil 
+  - Dominik Brilhaus
+  - Timo Mühlhaus
+  - Manuel Feser
+  - Hannah-Doerpholz
+  description: The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
+  license: UNKNOWN
+  name: Annotated Research Context (ARC
+  tags:
+  - Research Data Management
+  - FAIR
+  type:
+  - Framework
+  url: https://arc-rdm.org/
+
+
+
 
 
 
