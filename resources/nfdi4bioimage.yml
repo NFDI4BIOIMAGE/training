@@ -10030,3 +10030,16 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - Carsten Fortmann-Grote
+  - andrawaag
+  - Jerven Bolleman
+  description: ' ONTOP module for querying OMERO with SPARQL'
+  name: omero-ontop-mappings
+  publication_date: '2024-09-13T08:01:09+00:00'
+  submission_date: '2025-02-05T12:30:55.501203'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/German-BioImaging/omero-ontop-mappings
+  
