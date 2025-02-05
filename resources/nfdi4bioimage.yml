@@ -10081,4 +10081,29 @@ resources:
   - Website
   url: https://www.denbi.de/online-training-media-library 
 
+- authors: de.NBI
+  description: Tutorial for accessing de.NBI cloud
+  license: UNKNOWN
+  name: Get started accessing the de.NBI cloud. 
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/get-started/
+
+- authors: de.NBI
+  description: Tutorial for registering for de.NBI cloud access
+  license: UNKNOWN
+  name: de.NBI cloud access registration guide
+  publication_date: '2024-11-04'
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/wiki/registration/ 
+
+
+
 
