@@ -10030,3 +10030,15 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - Michele Bortolomeazzi
+  description: OMERO.web plugin for the Vitessce multimodal data viewer.
+  license: GNU Affero General Public License v3.0
+  name: omero-vitessce
+  publication_date: '2024-11-25T10:51:01+00:00'
+  submission_date: '2025-02-05T12:26:41.939652'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
+  
