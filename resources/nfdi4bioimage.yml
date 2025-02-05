@@ -10030,3 +10030,17 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - Christoph Moehl
+  - Peter Zentis
+  - Niraj Kandpal
+  description: Library to export OMERO projects to ARC repositories
+  license: GNU General Public License v3.0
+  name: omero-arc
+  publication_date: '2023-12-18T16:11:04+00:00'
+  submission_date: '2025-02-05T12:09:56.325939'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/cmohl2013/omero-arc
+  
