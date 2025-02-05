@@ -10187,6 +10187,24 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41587-023-01848-y
 
+- authors:
+  - Jullia Jakiela
+  - Laura Cooper
+  - Katarzyna Kamieniecka
+  - Krzysztof Poterlowicz
+  description: The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+  license: CC-BY-4.0 International
+  name: EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+  publication_date: '2025-02-05'
+  tags:
+  - Bioinformatics
+  - Bioimage Analysis
+  type:
+  - Tutorial
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
+
+
+
 
 
 
