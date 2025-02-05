@@ -10122,6 +10122,18 @@ resources:
   - Framework
   url: https://arc-rdm.org/
 
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+  license: UNKNOWN
+  name: de.NBI YouTube Channel
+  publication_date: '2015-08-28'
+  tags:
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@denbi5170
+  
+
 
 
 
