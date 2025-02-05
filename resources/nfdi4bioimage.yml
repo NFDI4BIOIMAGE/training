@@ -10070,5 +10070,15 @@ resources:
   - Tutorial
   url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html
 
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+  license: UNKNOWN
+  name: deNBI Online Training Media Library
+  tags:
+  - Bioinformatics
+  - Galaxy
+  type: 
+  - Website
+  url: https://www.denbi.de/online-training-media-library 
 
 
