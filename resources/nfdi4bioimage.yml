@@ -10030,3 +10030,17 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - Galaxy Team
+  description: Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+  license: UNKNOWN
+  name: GalaxyProject YouTube Channel
+  publication_date: '2020-06-16'
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/c/galaxyproject 
+
