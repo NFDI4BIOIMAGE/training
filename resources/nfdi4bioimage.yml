@@ -10044,3 +10044,18 @@ resources:
   - YouTube Channel
   url: https://www.youtube.com/c/galaxyproject 
 
+- authors:
+  - Galaxy Team
+  description: Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
+  license: 
+  - Academic Free License version 3.0
+  - Creative Commons Attribution 3.0 (CC BY 3.0) License
+  name: Galaxy Imaging
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - Tool
+  url: https://imaging.usegalaxy.eu 
+
+
