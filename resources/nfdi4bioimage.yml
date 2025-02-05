@@ -10030,3 +10030,15 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - "Torsten St\xF6ter"
+  description: ''
+  license: GNU General Public License v3.0
+  name: datenbiene
+  publication_date: '2025-02-02T18:50:20+00:00'
+  submission_date: '2025-02-05T12:27:52.033681'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/tstoeter/datenbiene
+  
