@@ -10143,6 +10143,50 @@ resources:
   - Website
   url: https://rdmkit.elixir-europe.org/data_life_cycle
 
+- authors: 
+  - Sebastian Lobentanzer
+  - Patrick Aloy
+  -Jan Baumbach
+  -Balazs Bohar
+  -Vincent Carey
+  - Pornpimol Charoentong
+  - Katharina Danhauser
+  - Tunca Doğan
+  - Johann Dreo
+  - Ian Dunham
+  - Elias Farr
+  - Adrià Fernandez-Torras
+  - Benjamin Gyori
+  - Michael Hartung
+  - Charles Tapley Hoyt
+  - Christoph Klein
+  - Tamas Korcsmaros
+  - Andreas Maier
+  - Matthias Mann
+  - David Ochoa
+  - Elena Pareja-Lorente
+  - Ferdinand Popp
+  - Martin Preusse
+  - Niklas Probul
+  - Benno Schwikowski
+  - Bünyamin Sen
+  - Maximilian Strauss
+  - Denes Turei
+  - Erva Ulusoy
+  - Dagmar Waltemath
+  - Judith Wodke 
+  - Julio Saez-Rodriguez 
+  description: BioCypher is a framework to support users in creating KGs
+  license: UNKNOWN
+  name: Democratizing knowledge representation with BioCypher
+  publication_date: '2023-06-19'
+  tags:
+  - Knowledge Graph
+  - Bioinformatics
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41587-023-01848-y
+
 
 
 
