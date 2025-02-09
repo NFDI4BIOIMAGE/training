@@ -10030,3 +10030,16 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors:
+  - Joran Deschamps
+  - Damian Dalle Nogare
+  description: ''
+  license: BSD 3-Clause "New" or "Revised" License
+  name: advanced-scripting
+  publication_date: '2023-06-14T08:25:35+00:00'
+  submission_date: '2025-02-09T09:03:49.051347'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/nobias-fht/advanced-scripting
+  
