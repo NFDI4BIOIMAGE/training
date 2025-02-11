@@ -10183,7 +10183,7 @@ resources:
 
 - authors: David Barry
   description: Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
-  license:
+  license: CC-BY-4.0 International
   name: Promoting Reproducibility in Biomedical Research through Image Analysis
   publication_date: '2025-01-29'
   tags:
@@ -10192,6 +10192,17 @@ resources:
   type:
   - Slides
   url: https://doi.org/10.5281/zenodo.14767944
+
+- authors: GloBIAS
+  description: This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024. 
+  license: UNKNOWN
+  name: GloBIAS
+  publication_date: '2024-07-17'
+  tags:
+  - Bioimage Analysis
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@globias
 
 
 
