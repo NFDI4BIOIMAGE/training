@@ -10181,6 +10181,17 @@ resources:
   - Tutorial
   url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
 
+- authors: David Barry
+  description: Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
+  license:
+  name: Promoting Reproducibility in Biomedical Research through Image Analysis
+  publication_date: '2025-01-29'
+  tags:
+  - Reproducibility
+  - Image Analysis
+  type:
+  - Slides
+  url: https://doi.org/10.5281/zenodo.14767944
 
 
 
