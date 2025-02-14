@@ -10038,7 +10038,10 @@ resources:
   name: datenbiene
   publication_date: '2025-02-02T18:50:20+00:00'
   submission_date: '2025-02-05T12:27:52.033681'
-  tags: TODO
-  type: GitHub Repository
+  tags:
+  - Research Data Management
+  type: 
+  - GitHub Repository
+  - Software
   url: https://github.com/tstoeter/datenbiene
   
