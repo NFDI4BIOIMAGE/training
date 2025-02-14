@@ -10059,7 +10059,7 @@ resources:
   type: 
   - GitHub Repository
   - Software
-  url: https://github.com/cmohl2013/omero-arc
+  url: https://github.com/tstoeter/datenbiene
   
 - authors:
   - Christoph Moehl
@@ -10076,7 +10076,7 @@ resources:
   type: 
   - GitHub Repository
   - Software
-  url: https://github.com/tstoeter/datenbiene
+  url: https://github.com/cmohl2013/omero-arc
   
 - authors:
   - Moore, Josh
