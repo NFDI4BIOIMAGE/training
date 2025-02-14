@@ -10040,7 +10040,11 @@ resources:
   name: omero-arc
   publication_date: '2023-12-18T16:11:04+00:00'
   submission_date: '2025-02-05T12:09:56.325939'
-  tags: TODO
-  type: GitHub Repository
+  tags:
+  - Omero
+  - Research Data Management
+  type: 
+  - GitHub Repository
+  - Software
   url: https://github.com/cmohl2013/omero-arc
   
