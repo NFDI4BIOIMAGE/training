@@ -9951,6 +9951,22 @@ resources:
   url:
   - https://zenodo.org/records/14675120
   - https://doi.org/10.5281/zenodo.14675120
+
+- authors:
+  - Haase, Robert
+  description: In these two slide-decks we explore applications of large language models.
+    In the first slide deck we dive into prompt engineering, function calling and how
+    to build agentic workflows. In the second slide-deck we explore multi-modal large
+    language models focusing on vision language models and image generation models.&nbsp;
+  license: cc-by-4.0
+  name: Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+  num_downloads: 79
+  publication_date: '2025-01-19'
+  submission_date: '2025-01-29T13:05:13.342534'
+  url:
+  - https://zenodo.org/records/14692037
+  - https://doi.org/10.5281/zenodo.14692037
+  
 - authors:
   - Fortmann-Grote, Carsten
   - Meireles, Mariana
@@ -10098,4 +10114,3 @@ resources:
   url:
   - https://zenodo.org/records/14832855
   - https://doi.org/10.5281/zenodo.14832855
-
