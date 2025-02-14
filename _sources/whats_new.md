@@ -108,27 +108,6 @@ The three files in this Zenodo Record are all the same poster saved in different
 
 ---
 
-## Modular training resources for bioimage analysis
-
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
-
-Published 2024-12-03
-
-Licensed CC-BY-4.0
-
-
-
-Resources for teaching/preparing to teach bioimage analysis
-
-Tags: Neubias, Bioimage Analysis
-
-[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
-
-[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
-
-
----
-
 ## Optimized cranial window implantation for subcellular and functional imaging in vivo
 
 Ben Vermaercke
@@ -189,6 +168,27 @@ Tags: Nfdi4Bioimage
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
 [https://doi.org/10.5281/zenodo.14650434](https://doi.org/10.5281/zenodo.14650434)
+
+
+---
+
+## datenbiene
+
+Torsten Stöter
+
+Published 2025-02-02T18:50:20+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
 
 
 ---

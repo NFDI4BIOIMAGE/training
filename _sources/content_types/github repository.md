@@ -1,4 +1,4 @@
-# Github repository (45)
+# Github repository (46)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -625,6 +625,27 @@ Tags: Open Source Software
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## datenbiene
+
+Torsten Stöter
+
+Published 2025-02-02T18:50:20+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
 
 
 ---

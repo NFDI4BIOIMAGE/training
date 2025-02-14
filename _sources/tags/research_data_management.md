@@ -1,4 +1,4 @@
-# Research data management (128)
+# Research data management (129)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2604,6 +2604,27 @@ Tags: Workflow, Research Data Management
 Content type: Tutorial
 
 [https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
+## datenbiene
+
+Torsten Stöter
+
+Published 2025-02-02T18:50:20+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+
+
+Tags: Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
 
 
 ---
