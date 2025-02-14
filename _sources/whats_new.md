@@ -1,4 +1,4 @@
-# Recently added (10)
+# Recently added (9)
 ## Andor Dragonfly confocal image of BPAE cells stained for actin, IMS file format
 
 Hoku West-Foyle
@@ -12,27 +12,6 @@ Licensed CC0-1.0
 [https://zenodo.org/records/14675120](https://zenodo.org/records/14675120)
 
 [https://doi.org/10.5281/zenodo.14675120](https://doi.org/10.5281/zenodo.14675120)
-
-
----
-
-## Collaborative Working and Version Control with git[hub]
-
-Robert Haase
-
-Published 2024-01-10
-
-Licensed CC-BY-4.0
-
-
-
-This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
-
-Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
-
-[https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
-
-[https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
 
 
 ---
@@ -108,6 +87,27 @@ This Poster was presented at the 2025 All Hands Meeting of the NFDI4BIOIMAGE Con
 
 ---
 
+## Introducing OMERO-vitessce: an OMERO.web plugin for multi-modal data
+
+Michele Bortolomeazzi, Christian Schmidt, Jan-Philipp Mallm
+
+Published 2025-02-07
+
+Licensed CC-BY-4.0
+
+
+
+omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
+OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
+The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
+
+[https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
+
+[https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
+
+
+---
+
 ## Modular training resources for bioimage analysis
 
 Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
@@ -144,25 +144,6 @@ Intravital workshop 15/11/2024
 [https://zenodo.org/records/14641777](https://zenodo.org/records/14641777)
 
 [https://doi.org/10.5281/zenodo.14641777](https://doi.org/10.5281/zenodo.14641777)
-
-
----
-
-## V4SDB_Winter_School_2025
-
-Joanna Pylvänäinen
-
-Published 2025-01-13T08:29:22+00:00
-
-
-
-Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
-
-Tags: Cell Tracking, Bioimage Analysis
-
-Content type: Github Repository, Collection
-
-[https://github.com/CellMigrationLab/V4SDB_Winter_School_2025](https://github.com/CellMigrationLab/V4SDB_Winter_School_2025)
 
 
 ---

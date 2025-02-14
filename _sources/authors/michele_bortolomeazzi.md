@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (9)
+# Michele bortolomeazzi (10)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -20,6 +20,27 @@ Content type: Slides, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## Introducing OMERO-vitessce: an OMERO.web plugin for multi-modal data
+
+Michele Bortolomeazzi, Christian Schmidt, Jan-Philipp Mallm
+
+Published 2025-02-07
+
+Licensed CC-BY-4.0
+
+
+
+omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
+OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
+The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
+
+[https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
+
+[https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
 
 
 ---

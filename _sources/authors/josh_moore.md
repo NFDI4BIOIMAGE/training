@@ -71,7 +71,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -234,11 +234,9 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
-Tags: Nfdi4Bioimage
+[https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
-[https://zenodo.org/records/14716546](https://zenodo.org/records/14716546)
-
-[https://doi.org/10.5281/zenodo.14716546](https://doi.org/10.5281/zenodo.14716546)
+[https://doi.org/10.5281/zenodo.14845059](https://doi.org/10.5281/zenodo.14845059)
 
 
 ---
@@ -489,7 +487,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
