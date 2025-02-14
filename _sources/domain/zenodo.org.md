@@ -1,4 +1,4 @@
-# Zenodo.org (176)
+# Zenodo.org (177)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3319,6 +3319,25 @@ Licensed CC-BY-4.0
 [https://zenodo.org/records/8338931](https://zenodo.org/records/8338931)
 
 [https://doi.org/10.5281/zenodo.8338931](https://doi.org/10.5281/zenodo.8338931)
+
+
+---
+
+## Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+
+Robert Haase
+
+Published 2025-01-19
+
+Licensed CC-BY-4.0
+
+
+
+In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
+
+[https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
+
+[https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
 
 
 ---

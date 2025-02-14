@@ -1,4 +1,4 @@
-# Recently added (9)
+# Recently added (10)
 ## Andor Dragonfly confocal image of BPAE cells stained for actin, IMS file format
 
 Hoku West-Foyle
@@ -127,6 +127,25 @@ Intravital workshop 15/11/2024
 
 ---
 
+## Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+
+Robert Haase
+
+Published 2025-01-19
+
+Licensed CC-BY-4.0
+
+
+
+In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
+
+[https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
+
+[https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
+
+
+---
+
 ## [CIDAS] Scalable strategies for a next-generation of FAIR bioimaging
 
 Josh Moore
@@ -140,11 +159,9 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
-Tags: Nfdi4Bioimage
+[https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
-[https://zenodo.org/records/14716546](https://zenodo.org/records/14716546)
-
-[https://doi.org/10.5281/zenodo.14716546](https://doi.org/10.5281/zenodo.14716546)
+[https://doi.org/10.5281/zenodo.14845059](https://doi.org/10.5281/zenodo.14845059)
 
 
 ---

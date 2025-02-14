@@ -1,4 +1,4 @@
-# Robert haase (56)
+# Robert haase (57)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -976,6 +976,25 @@ Tags: Gpu, Clesperanto, Dask, Python
 Content type: Notebook
 
 [https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/)
+
+
+---
+
+## Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+
+Robert Haase
+
+Published 2025-01-19
+
+Licensed CC-BY-4.0
+
+
+
+In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
+
+[https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
+
+[https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
 
 
 ---
