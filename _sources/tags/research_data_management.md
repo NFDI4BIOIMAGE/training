@@ -1,4 +1,4 @@
-# Research data management (129)
+# Research data management (130)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1541,7 +1541,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -2631,7 +2631,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -2646,6 +2646,27 @@ Tags: Sharing, Nfdi4Bioimage, Research Data Management
 Content type: Github Repository
 
 [https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
+
+
+---
+
+## omero-arc
+
+Christoph Moehl, Peter Zentis, Niraj Kandpal
+
+Published 2023-12-18T16:11:04+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Library to export OMERO projects to ARC repositories
+
+Tags: OMERO, Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
 
 
 ---

@@ -166,29 +166,6 @@ https://www.uni-goettingen.de/en/653203.html
 
 ---
 
-## [CMCB] Scalable strategies for a next-generation of FAIR bioimaging
-
-Josh Moore
-
-Published 2025-01-16
-
-Licensed CC-BY-4.0
-
-
-
-CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
-https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
-&nbsp;
-
-Tags: Nfdi4Bioimage
-
-[https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
-
-[https://doi.org/10.5281/zenodo.14650434](https://doi.org/10.5281/zenodo.14650434)
-
-
----
-
 ## datenbiene
 
 Torsten Stöter
@@ -206,6 +183,27 @@ Tags: Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
+
+
+---
+
+## omero-arc
+
+Christoph Moehl, Peter Zentis, Niraj Kandpal
+
+Published 2023-12-18T16:11:04+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Library to export OMERO projects to ARC repositories
+
+Tags: OMERO, Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
 
 
 ---

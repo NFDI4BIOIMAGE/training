@@ -1,4 +1,4 @@
-# Omero (31)
+# Omero (32)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -459,7 +459,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -480,7 +480,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -542,6 +542,27 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## omero-arc
+
+Christoph Moehl, Peter Zentis, Niraj Kandpal
+
+Published 2023-12-18T16:11:04+00:00
+
+Licensed GNU GENERAL PUBLIC LICENSE V3.0
+
+
+
+Library to export OMERO projects to ARC repositories
+
+Tags: OMERO, Research Data Management
+
+Content type: Github Repository, Software
+
+[https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
 
 
 ---
