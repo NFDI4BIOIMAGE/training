@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [DALIA Interchange Format](https://zenodo.org/records/11521029) by "Geiger, Jonathan and Steiner, Petra and Desouki, Abdelmoneim Amer and Lange, Frank" (80 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (241 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (64 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (102 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)](https://zenodo.org/records/11445843) by "Heber, Maximilian and Jakob, Moritz and Landwehr, Matthias and Leendertse, Jan and Müller, Maximilian and Schneider, Gabriel and von Suchodoletz, Dirk and Ulrich, Robert" (55 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [From Paper to Pixels: Navigation through your Research Data - presentations of speakers](https://zenodo.org/records/11548617) by "Zoccoler, Marcelo and Bekemeier, Simon and Boissonnet, Tom and Parker, Simon and Bertinetti, Luca and Gentzel, Marc and Massei, Riccardo and Wetzker, Cornelia" (40 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
