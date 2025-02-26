@@ -1,21 +1,4 @@
 # Recently added (10)
-## Andor Dragonfly confocal image of BPAE cells stained for actin, IMS file format
-
-Hoku West-Foyle
-
-Published 2025-01-16
-
-Licensed CC0-1.0
-
-
-
-[https://zenodo.org/records/14675120](https://zenodo.org/records/14675120)
-
-[https://doi.org/10.5281/zenodo.14675120](https://doi.org/10.5281/zenodo.14675120)
-
-
----
-
 ## Dataset from InCell 2200 microscope misread as a plate
 
 Fabien Kuttler, Rémy Dornier
@@ -41,48 +24,48 @@ A discussion thread has been open on this topic.
 
 ---
 
-## InCell datasets with mix of 2D and 3D failed to be read
+## Developing a Training Strategy
 
-Fabien Kuttler, Rémy Dornier
+Robert Haase
 
-Published 2025-01-31
+Published 2024-11-08
 
 Licensed CC-BY-4.0
 
 
 
-The provided dataset contains 2 wells, 4 fields of view, 4 channels, no T but different number of Z according to the channel
+When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
-Cy3 : 1 Z
-DAPI : 16 Z
-FITC : 1 Z
-Brightfield : 1 Z
+[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
-The mix 2D/3D is not correctly supported and the .xcde file cannot be read.
-A discussion thread is already open on that topic.
-Bio-Formats version : 8.0.1
-&nbsp;
-
-[https://zenodo.org/records/14777242](https://zenodo.org/records/14777242)
-
-[https://doi.org/10.5281/zenodo.14777242](https://doi.org/10.5281/zenodo.14777242)
+[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
 
 
 ---
 
-## Integration of Bioimage and *Omics data resources
+## Gut Analysis Toolbox
 
-Carsten Fortmann-Grote, Mariana Meireles
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
 
-Published 2025-02-03
+Published 2025-02-23
+
+Licensed BSD-3-CLAUSE
 
 
 
-This Poster was presented at the 2025 All Hands Meeting of the NFDI4BIOIMAGE Consortium. It presents the current state of data integration activities at the MPI for Evolutionary Biology. Various data and metadata resources such as the internal image data repository OMERO and the Electronic Lab Notebook System OpenBIS are converted into a RDF Knowledge Graph utilizing a R2RML mapping scheme based on the Ontop-VKG framework. The materialized Knowledge Graph is then served via the QLever SPARQL endpoint and user interface. A graphical query editor (SPARNatural) assists users with no SPARQL knowledge in constructing their queries by selecting triple elements from dropdown menus and other widgets.&nbsp;We also present a benchmark comparison of query response times on 10 selected SPARQL queries run against three different endpoint/triplestore implementations.&nbsp;
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+Skip versions to 1.0
+Fixed major bugs:
 
-[https://zenodo.org/records/14792534](https://zenodo.org/records/14792534)
+Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+Fixed ganglia model to be compatible with new versions of deepImageJ
+Updated all scripts to accommodate for new deepImageJ workflow
+Added macros to generate user dialog when running GAT for first time
 
-[https://doi.org/10.5281/zenodo.14792534](https://doi.org/10.5281/zenodo.14792534)
+
+[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
+
+[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
 
 
 ---
@@ -108,40 +91,59 @@ The three files in this Zenodo Record are all the same poster saved in different
 
 ---
 
-## Optimized cranial window implantation for subcellular and functional imaging in vivo
+## LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"
 
-Ben Vermaercke
+Laurent Thomas, Pierre Trehin
 
-Published 2025-01-13
+Published 2025-02-24
 
-Licensed CC-BY-4.0
+Licensed MIT
 
 
 
-Intravital workshop 15/11/2024
+Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
 
-[https://zenodo.org/records/14641777](https://zenodo.org/records/14641777)
+[https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
 
-[https://doi.org/10.5281/zenodo.14641777](https://doi.org/10.5281/zenodo.14641777)
+[https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
 
 
 ---
 
-## Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+## Reconstructed images of a 2DSIM multiposition acquisition.
 
-Robert Haase
+Louis Romette
 
-Published 2025-01-19
+Published 2025-02-19
 
 Licensed CC-BY-4.0
 
 
 
-In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
+Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with 30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin. Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed multiposition acquisition (10 positions). Uploaded to show a probable issue with Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static noise.&nbsp;
 
-[https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
+[https://zenodo.org/records/14893791](https://zenodo.org/records/14893791)
 
-[https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
+[https://doi.org/10.5281/zenodo.14893791](https://doi.org/10.5281/zenodo.14893791)
+
+
+---
+
+## Training Computational Skills in the Age of AI
+
+Robert Haase
+
+Published 2024-11-06
+
+Licensed CC-BY-4.0
+
+
+
+Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+
+[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
 
 
 ---

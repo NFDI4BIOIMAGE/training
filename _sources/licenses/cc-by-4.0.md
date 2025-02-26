@@ -1,4 +1,4 @@
-# Cc-by-4.0 (253)
+# Cc-by-4.0 (256)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1328,6 +1328,25 @@ Tags: Bioimage Analysis
 Content type: Poster
 
 [https://doi.org/10.5281/zenodo.8434325](https://doi.org/10.5281/zenodo.8434325)
+
+
+---
+
+## Developing a Training Strategy
+
+Robert Haase
+
+Published 2024-11-08
+
+Licensed CC-BY-4.0
+
+
+
+When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
+
+[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
+
+[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
 
 
 ---
@@ -3959,7 +3978,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -4204,7 +4223,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -4422,6 +4441,25 @@ Tags: Open Science, Open Access, Copyright
 Content type: Book
 
 [https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205](https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205)
+
+
+---
+
+## Reconstructed images of a 2DSIM multiposition acquisition.
+
+Louis Romette
+
+Published 2025-02-19
+
+Licensed CC-BY-4.0
+
+
+
+Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with 30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin. Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed multiposition acquisition (10 positions). Uploaded to show a probable issue with Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static noise.&nbsp;
+
+[https://zenodo.org/records/14893791](https://zenodo.org/records/14893791)
+
+[https://doi.org/10.5281/zenodo.14893791](https://doi.org/10.5281/zenodo.14893791)
 
 
 ---
@@ -5024,7 +5062,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -5180,6 +5218,25 @@ Content type: Book
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 
 [https://doi.org/10.5281/zenodo.4071471](https://doi.org/10.5281/zenodo.4071471)
+
+
+---
+
+## Training Computational Skills in the Age of AI
+
+Robert Haase
+
+Published 2024-11-06
+
+Licensed CC-BY-4.0
+
+
+
+Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+
+[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
 
 
 ---

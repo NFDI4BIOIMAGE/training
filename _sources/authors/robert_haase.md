@@ -1,4 +1,4 @@
-# Robert haase (57)
+# Robert haase (59)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -419,6 +419,25 @@ Content type: Slides
 
 ---
 
+## Developing a Training Strategy
+
+Robert Haase
+
+Published 2024-11-08
+
+Licensed CC-BY-4.0
+
+
+
+When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
+
+[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
+
+[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
+
+
+---
+
 ## Developing open-source software for bioimage analysis: opportunities and challenges
 
 Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
@@ -474,31 +493,27 @@ Content type: Slides
 
 ## Gut Analysis Toolbox
 
-Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Estibaliz Gómez-de-Mariscal, Arrate Muñoz Barrutia, Julia A. Kaltschmidt, Sebastian K. King, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
 
-Published 2024-09-10
+Published 2025-02-23
 
-Licensed CC-BY-4.0
+Licensed BSD-3-CLAUSE
 
 
 
-What's Changed
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+Skip versions to 1.0
+Fixed major bugs:
 
-Updating User Dialogs by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
-Added Dialog Boxes and Grammar Corrections by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/19
-Updated Dialog Prompts for Clarity by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/20
-Batch analysis option added.
-fixed a bunch of bugs related to ganglia segmentation and user workflow
+Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+Fixed ganglia model to be compatible with new versions of deepImageJ
+Updated all scripts to accommodate for new deepImageJ workflow
+Added macros to generate user dialog when running GAT for first time
 
-New Contributors
 
-@mattyrowey made their first contribution in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
 
-Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.6...v0.7
-
-[https://zenodo.org/records/13739137](https://zenodo.org/records/13739137)
-
-[https://doi.org/10.5281/zenodo.13739137](https://doi.org/10.5281/zenodo.13739137)
+[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
 
 
 ---
@@ -1131,6 +1146,25 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate](https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate)
+
+
+---
+
+## Training Computational Skills in the Age of AI
+
+Robert Haase
+
+Published 2024-11-06
+
+Licensed CC-BY-4.0
+
+
+
+Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+
+[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bsd-3-clause (26)
+# Bsd-3-clause (27)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -166,6 +166,33 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/jni/halfway-to-i2k-skimage-napari](https://github.com/jni/halfway-to-i2k-skimage-napari)
+
+
+---
+
+## Gut Analysis Toolbox
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+
+Published 2025-02-23
+
+Licensed BSD-3-CLAUSE
+
+
+
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+Skip versions to 1.0
+Fixed major bugs:
+
+Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+Fixed ganglia model to be compatible with new versions of deepImageJ
+Updated all scripts to accommodate for new deepImageJ workflow
+Added macros to generate user dialog when running GAT for first time
+
+
+[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
+
+[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
 
 
 ---
@@ -441,7 +468,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

@@ -1,4 +1,4 @@
-# Mit (24)
+# Mit (25)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -207,6 +207,25 @@ Latest tested with Fiji 2.1.0/ImageJ 1.53j
 [https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
 
 [https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
+
+
+---
+
+## LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"
+
+Laurent Thomas, Pierre Trehin
+
+Published 2025-02-24
+
+Licensed MIT
+
+
+
+Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
+
+[https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
+
+[https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
 
 
 ---

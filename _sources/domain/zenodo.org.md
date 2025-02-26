@@ -1,4 +1,4 @@
-# Zenodo.org (177)
+# Zenodo.org (181)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1032,6 +1032,25 @@ This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acq
 
 ---
 
+## Developing a Training Strategy
+
+Robert Haase
+
+Published 2024-11-08
+
+Licensed CC-BY-4.0
+
+
+
+When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
+
+[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
+
+[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
+
+
+---
+
 ## Development of a platform for advanced optics education, training and prototyping
 
 Nadine Utz, Sabine Reither, Ruth Hans, Christian Feldhaus
@@ -1795,31 +1814,27 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 
 ## Gut Analysis Toolbox
 
-Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Estibaliz Gómez-de-Mariscal, Arrate Muñoz Barrutia, Julia A. Kaltschmidt, Sebastian K. King, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
 
-Published 2024-09-10
+Published 2025-02-23
 
-Licensed CC-BY-4.0
+Licensed BSD-3-CLAUSE
 
 
 
-What's Changed
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+Skip versions to 1.0
+Fixed major bugs:
 
-Updating User Dialogs by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
-Added Dialog Boxes and Grammar Corrections by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/19
-Updated Dialog Prompts for Clarity by @mattyrowey in https://github.com/pr4deepr/GutAnalysisToolbox/pull/20
-Batch analysis option added.
-fixed a bunch of bugs related to ganglia segmentation and user workflow
+Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+Fixed ganglia model to be compatible with new versions of deepImageJ
+Updated all scripts to accommodate for new deepImageJ workflow
+Added macros to generate user dialog when running GAT for first time
 
-New Contributors
 
-@mattyrowey made their first contribution in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
+[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
 
-Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.6...v0.7
-
-[https://zenodo.org/records/13739137](https://zenodo.org/records/13739137)
-
-[https://doi.org/10.5281/zenodo.13739137](https://doi.org/10.5281/zenodo.13739137)
+[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
 
 
 ---
@@ -2778,6 +2793,25 @@ Latest tested with Fiji 2.1.0/ImageJ 1.53j
 
 ---
 
+## LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"
+
+Laurent Thomas, Pierre Trehin
+
+Published 2025-02-24
+
+Licensed MIT
+
+
+
+Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
+
+[https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
+
+[https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
+
+
+---
+
 ## Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
 
 Maximilian Heber, Moritz Jakob, Matthias Landwehr, Jan Leendertse, Maximilian Müller, Gabriel Schneider, Dirk von Suchodoletz, Robert Ulrich
@@ -3306,7 +3340,7 @@ Intravital workshop 15/11/2024
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -3399,6 +3433,25 @@ The poster is part of the work of the German consortium NFDI4BIOIMAGE funded by 
 [https://zenodo.org/records/13684187](https://zenodo.org/records/13684187)
 
 [https://doi.org/10.5281/zenodo.13684187](https://doi.org/10.5281/zenodo.13684187)
+
+
+---
+
+## Reconstructed images of a 2DSIM multiposition acquisition.
+
+Louis Romette
+
+Published 2025-02-19
+
+Licensed CC-BY-4.0
+
+
+
+Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with 30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin. Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed multiposition acquisition (10 positions). Uploaded to show a probable issue with Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static noise.&nbsp;
+
+[https://zenodo.org/records/14893791](https://zenodo.org/records/14893791)
+
+[https://doi.org/10.5281/zenodo.14893791](https://doi.org/10.5281/zenodo.14893791)
 
 
 ---
@@ -3910,6 +3963,25 @@ Content type: Book
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 
 [https://doi.org/10.5281/zenodo.4071471](https://doi.org/10.5281/zenodo.4071471)
+
+
+---
+
+## Training Computational Skills in the Age of AI
+
+Robert Haase
+
+Published 2024-11-06
+
+Licensed CC-BY-4.0
+
+
+
+Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+
+[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
 
 
 ---
