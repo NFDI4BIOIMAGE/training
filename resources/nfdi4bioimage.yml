@@ -10239,3 +10239,39 @@ resources:
   - https://zenodo.org/records/14043615
   - https://doi.org/10.5281/zenodo.14043615
 
+
+- authors:
+  - Schimmler, Sonja
+  - "Altenh\xF6ner, Reinhard"
+  - Bernard, Lars
+  - Fluck, Juliane
+  - Klinger, Axel
+  - "Lorenz, S\xF6ren"
+  - Mathiak, Brigitte
+  - Miller, Bernhard
+  - Ritz, Raphael
+  - "Sch\xF6rner-Sadenius, Thomas"
+  - Sczyrba, Alexander
+  - Stein, Regine
+  description: 'Today, research data is often stored in many different places, difficult
+    to find and only available for a limited time. Base4NFDI creates the basis for better
+    findability, accessibility, interoperability ans reusability of research data. For
+    this purpose, common, technical services are developed together with experts for
+    the data in the different research disciplines. Since many scientific fields have
+    similar requirements for research data, Base4NFDI supports common solutions to avoid
+    parallel developments. Already existing services are thereby adapted or extended
+    to be usable for researchers from other disciplines.
+  
+    This slides were presented from Sonja Schimmler at the first Conference on Research
+    Data Infrastructure (CoRDI 2023) on September 14, 2023 in Karlsruhe, Germany. The
+    presentation will give an insight into the idea and structure of Base4NFDI, the
+    processes for developing basic services and the services currently funded.'
+  license: cc-by-4.0
+  name: Base4NFDI - Creating NFDI-wide basic services in a  world of specific domains
+  num_downloads: 270
+  publication_date: '2023-09-27'
+  submission_date: '2025-02-28T08:14:00.219728'
+  url:
+  - https://zenodo.org/records/8383123
+  - https://doi.org/10.5281/zenodo.8383123
+  
