@@ -10038,7 +10038,10 @@ resources:
   name: LEO
   publication_date: '2025-01-08T10:20:30+00:00'
   submission_date: '2025-02-05T12:26:11.745472'
-  tags: TODO
+  tags: 
+  - Omero
+  - Research Data Management
+  - Electronic lab notebooks
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/LEO
   
