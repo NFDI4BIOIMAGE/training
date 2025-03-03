@@ -2,7 +2,7 @@ name: URL Validity Check
 
 on:
   schedule:
-    - cron: '0 0 4 */3 *'  # Runs at midnight (UTC) on the 4st day of every 3rd month
+    - cron: '0 0 4 * *'  # Runs at midnight (UTC) on the 4st day of every month
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
