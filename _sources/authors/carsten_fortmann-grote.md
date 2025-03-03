@@ -1,4 +1,4 @@
-# Carsten fortmann-grote (4)
+# Carsten fortmann-grote (5)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -73,6 +73,25 @@ This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
 [https://zenodo.org/records/11031747](https://zenodo.org/records/11031747)
 
 [https://doi.org/10.5281/zenodo.11031747](https://doi.org/10.5281/zenodo.11031747)
+
+
+---
+
+## omero-ontop-mappings
+
+Carsten Fortmann-Grote, andrawaag, Jerven Bolleman
+
+Published 2024-09-13T08:01:09+00:00
+
+
+
+ ONTOP module for querying OMERO with SPARQL
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
 
 
 ---

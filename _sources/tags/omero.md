@@ -1,4 +1,4 @@
-# Omero (34)
+# Omero (35)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -480,7 +480,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -501,7 +501,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
+Pierre Pouchin, Rdornier, kekunn, jean-marie burel
 
 Licensed GPL-2.0
 
@@ -584,6 +584,25 @@ Tags: OMERO, Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
+
+
+---
+
+## omero-ontop-mappings
+
+Carsten Fortmann-Grote, andrawaag, Jerven Bolleman
+
+Published 2024-09-13T08:01:09+00:00
+
+
+
+ ONTOP module for querying OMERO with SPARQL
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
 
 
 ---

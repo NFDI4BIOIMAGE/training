@@ -182,23 +182,21 @@ https://www.uni-goettingen.de/en/653203.html
 
 ---
 
-## datenbiene
+## omero-ontop-mappings
 
-Torsten Stöter
+Carsten Fortmann-Grote, andrawaag, Jerven Bolleman
 
-Published 2025-02-02T18:50:20+00:00
-
-Licensed GNU GENERAL PUBLIC LICENSE V3.0
+Published 2024-09-13T08:01:09+00:00
 
 
 
+ ONTOP module for querying OMERO with SPARQL
 
+Tags: OMERO
 
-Tags: Research Data Management
+Content type: Github Repository
 
-Content type: Github Repository, Software
-
-[https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
+[https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
 
 
 ---
