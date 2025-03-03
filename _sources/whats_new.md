@@ -1,4 +1,24 @@
 # Recently added (10)
+## Base4NFDI - Creating NFDI-wide basic services in a  world of specific domains
+
+Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
+
+Published 2023-09-27
+
+Licensed CC-BY-4.0
+
+
+
+Today, research data is often stored in many different places, difficult to find and only available for a limited time. Base4NFDI creates the basis for better findability, accessibility, interoperability ans reusability of research data. For this purpose, common, technical services are developed together with experts for the data in the different research disciplines. Since many scientific fields have similar requirements for research data, Base4NFDI supports common solutions to avoid parallel developments. Already existing services are thereby adapted or extended to be usable for researchers from other disciplines.
+This slides were presented from Sonja Schimmler at the first Conference on Research Data Infrastructure (CoRDI 2023) on September 14, 2023 in Karlsruhe, Germany. The presentation will give an insight into the idea and structure of Base4NFDI, the processes for developing basic services and the services currently funded.
+
+[https://zenodo.org/records/8383123](https://zenodo.org/records/8383123)
+
+[https://doi.org/10.5281/zenodo.8383123](https://doi.org/10.5281/zenodo.8383123)
+
+
+---
+
 ## BioImage.IO Chatbot, GloBIAS Seminar
 
 Caterina Fuster-Barcelo
@@ -81,26 +101,6 @@ The three files in this Zenodo Record are all the same poster saved in different
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
 [https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
-
-
----
-
-## Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement
-
-Linda Zollitsch, Swantje Piotrowski
-
-Published 2025-01-24
-
-Licensed CC-BY-4.0
-
-
-
-Im Rahmen von FDM-SH Kontor &ndash; einem Projekt, das im Kontext der AG Kompetenzentwicklung von der Landesinitiative FDM-SH durchgef&uuml;hrt wurde - haben wir zum Ziel, eine kuratierte Materialbasis f&uuml;r Fortbildungen und Schulungen zu schaffen. Dies stellte uns vor die Herausforderung, festzulegen, wie die Materialien ausgew&auml;hlt werden sollen.
-Dieser Kriterienkatalog ist ein Versuch, erste Qualit&auml;tskriterien (insbesondere hinsichtlich der Nachnutzbarkeit und den FAIR-Prinzipien) f&uuml;r Materialien auf Basis von Metadaten zu erstellen. Dabei wurde das Vorgehen des Open Science Learning Gates (https://zenodo.org/records/12772135), als Vorbild genommen. Neben dem Metadatenschema der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) haben wir auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zur&uuml;ckgegriffen.
-
-[https://zenodo.org/records/14729452](https://zenodo.org/records/14729452)
-
-[https://doi.org/10.5281/zenodo.14729452](https://doi.org/10.5281/zenodo.14729452)
 
 
 ---
