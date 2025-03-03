@@ -1,29 +1,4 @@
 # Recently added (10)
-## Dataset from InCell 2200 microscope misread as a plate
-
-Fabien Kuttler, Rémy Dornier
-
-Published 2025-01-30
-
-Licensed CC-BY-4.0
-
-
-
-Two dummy datasets are provided in this repository :&nbsp;
-
-Dataset_Ok : 96 wells, 9 fields of view per well, 4 different channels (DAPI, Cy3, FITC, Brightfield), no Z, no T. The .xcde file of this dataset is correctly read by BioFormats, as the dataset is recognized as a plate, and can be imported on OMERO
-Dataset_fail: 20 wells, 4 fields of view per well, 5 channels, with one duplicate (DAPI, FITC, Cy3, Cy5 wix 4 , Cy5 wix 5), no Z, no T. The .xcde file of this dataset is not correctly read by BioFormats and no images are imported on OMERO.
-
-BioFormats version: 8.0.1
-A discussion thread has been open on this topic.
-
-[https://zenodo.org/records/14769820](https://zenodo.org/records/14769820)
-
-[https://doi.org/10.5281/zenodo.14769820](https://doi.org/10.5281/zenodo.14769820)
-
-
----
-
 ## Developing a Training Strategy
 
 Robert Haase
@@ -185,6 +160,27 @@ Tags: Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
+
+
+---
+
+## dmtxSampleCreator
+
+SaibotMagd
+
+Published 2023-06-06T11:52:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
+
+Tags: Nfdi4Bioimage
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
 
 
 ---

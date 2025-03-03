@@ -1,4 +1,4 @@
-# Github.com (125)
+# Github.com (126)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1910,6 +1910,27 @@ Tags: Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
+
+
+---
+
+## dmtxSampleCreator
+
+SaibotMagd
+
+Published 2023-06-06T11:52:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
+
+Tags: Nfdi4Bioimage
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
 
 
 ---

@@ -1,4 +1,4 @@
-# Nfdi4bioimage (44)
+# Nfdi4bioimage (45)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -962,6 +962,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
+## dmtxSampleCreator
+
+SaibotMagd
+
+Published 2023-06-06T11:52:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
+
+Tags: Nfdi4Bioimage
+
+Content type: Github Repository
+
+[https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
 
 
 ---
