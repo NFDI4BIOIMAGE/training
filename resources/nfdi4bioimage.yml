@@ -10087,6 +10087,20 @@ resources:
   - https://doi.org/10.5281/zenodo.14769820
 
 - authors:
+  - Matthew Mueller
+  - Aaron
+  - Advanced Bioimaging Center
+  description: ''
+  license: BSD 3-Clause "New" or "Revised" License
+  name: Parallel_Fiji_Visualizer
+  publication_date: '2024-05-15T06:14:24+00:00'
+  submission_date: '2025-02-14T08:24:33.843320'
+  tags: 
+  - Fiji
+  type: GitHub Repository
+  url: https://github.com/abcucberkeley/Parallel_Fiji_Visualizer
+  
+- authors:
   - Joran Deschamps
   - Damian Dalle Nogare
   description: ''
