@@ -10087,6 +10087,190 @@ resources:
   - https://doi.org/10.5281/zenodo.14769820
 
 - authors:
+  - Galaxy Team
+  description: Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+  license: UNKNOWN
+  name: GalaxyProject YouTube Channel
+  publication_date: '2020-06-16'
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/c/galaxyproject 
+
+- authors:
+  - Galaxy Team
+  description: Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
+  license: 
+  - Academic Free License version 3.0
+  - Creative Commons Attribution 3.0 (CC BY 3.0) License
+  name: Galaxy Imaging
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - Tool
+  url: https://imaging.usegalaxy.eu 
+
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+  license: UNKNOWN
+  name: deNBI Online Training Media Library
+  tags:
+  - Bioinformatics
+  - Galaxy
+  type: 
+  - Website
+  url: https://www.denbi.de/online-training-media-library 
+
+- authors: de.NBI
+  description: Tutorial for accessing de.NBI cloud
+  license: UNKNOWN
+  name: Get started accessing the de.NBI cloud. 
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/get-started/
+
+- authors: de.NBI
+  description: Tutorial for registering for de.NBI cloud access
+  license: UNKNOWN
+  name: de.NBI cloud access registration guide
+  publication_date: '2024-11-04'
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/wiki/registration/ 
+
+- authors:
+  - Kevin Frey
+  - Kevin Schneider
+  - Lukas Weil 
+  - Dominik Brilhaus
+  - Timo Mühlhaus
+  - Manuel Feser
+  - Hannah-Doerpholz
+  description: The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
+  license: UNKNOWN
+  name: Annotated Research Context (ARC
+  tags:
+  - Research Data Management
+  - FAIR
+  type:
+  - Framework
+  url: https://arc-rdm.org/
+
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+  license: UNKNOWN
+  name: de.NBI YouTube Channel
+  publication_date: '2015-08-28'
+  tags:
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@denbi5170
+
+- authors: 
+  - Sebastian Lobentanzer
+  - Patrick Aloy
+  - Jan Baumbach
+  - Balazs Bohar
+  - Vincent Carey
+  - Pornpimol Charoentong
+  - Katharina Danhauser
+  - Tunca Doğan
+  - Johann Dreo
+  - Ian Dunham
+  - Elias Farr
+  - Adrià Fernandez-Torras
+  - Benjamin Gyori
+  - Michael Hartung
+  - Charles Tapley Hoyt
+  - Christoph Klein
+  - Tamas Korcsmaros
+  - Andreas Maier
+  - Matthias Mann
+  - David Ochoa
+  - Elena Pareja-Lorente
+  - Ferdinand Popp
+  - Martin Preusse
+  - Niklas Probul
+  - Benno Schwikowski
+  - Bünyamin Sen
+  - Maximilian Strauss
+  - Denes Turei
+  - Erva Ulusoy
+  - Dagmar Waltemath
+  - Judith Wodke 
+  - Julio Saez-Rodriguez 
+  description: BioCypher is a framework to support users in creating KGs
+  license: UNKNOWN
+  name: Democratizing knowledge representation with BioCypher
+  publication_date: '2023-06-19'
+  tags:
+  - Knowledge Graph
+  - Bioinformatics
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41587-023-01848-y
+
+- authors:
+  - Jullia Jakiela
+  - Laura Cooper
+  - Katarzyna Kamieniecka
+  - Krzysztof Poterlowicz
+  description: The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+  license: CC-BY-4.0 International
+  name: EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+  publication_date: '2025-02-05'
+  tags:
+  - Bioinformatics
+  - Bioimage Analysis
+  type:
+  - Tutorial
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
+
+- authors: David Barry
+  description: Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
+  license: CC-BY-4.0 International
+  name: Promoting Reproducibility in Biomedical Research through Image Analysis
+  publication_date: '2025-01-29'
+  tags:
+  - Reproducibility
+  - Image Analysis
+  type:
+  - Slides
+  url: https://doi.org/10.5281/zenodo.14767944
+
+- authors: GloBIAS
+  description: This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024. 
+  license: UNKNOWN
+  name: GloBIAS
+  publication_date: '2024-07-17'
+  tags:
+  - Bioimage Analysis
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@globias
+
+- authors: GloBIAS
+  description: The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
+  license: UNKNOWN
+  name: BIA Seminar Series
+  tags:
+  - Bioimage Analysis
+  type:
+  - Collection
+  url: https://www.globias.org/activities/bia-seminar-series
+
+
+- authors:
   - "Torsten St\xF6ter"
   description: ''
   license: GNU General Public License v3.0
@@ -10277,4 +10461,5 @@ resources:
   url:
   - https://zenodo.org/records/14043615
   - https://doi.org/10.5281/zenodo.14043615
+
 
