@@ -1,4 +1,4 @@
-# Research data management (131)
+# Research data management (132)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1282,6 +1282,27 @@ Content type: Slides
 
 ---
 
+## LEO
+
+Rodrigo Escobar Diaz Guerrero
+
+Published 2025-01-08T10:20:30+00:00
+
+Licensed MIT
+
+
+
+Linking Electronic Lab Notebooks and other sources with OMERO objects 
+
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/LEO](https://github.com/NFDI4BIOIMAGE/LEO)
+
+
+---
+
 ## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
 
 Bea Hiemenz, Monika Kuberek
@@ -1560,7 +1581,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -2650,7 +2671,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

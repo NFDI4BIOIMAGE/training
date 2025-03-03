@@ -1,4 +1,4 @@
-# Mit (26)
+# Mit (27)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -212,6 +212,27 @@ Tags: Artificial Intelligence, Python
 Content type: Notebook
 
 [https://github.com/computational-cell-analytics/dl-for-micro](https://github.com/computational-cell-analytics/dl-for-micro)
+
+
+---
+
+## LEO
+
+Rodrigo Escobar Diaz Guerrero
+
+Published 2025-01-08T10:20:30+00:00
+
+Licensed MIT
+
+
+
+Linking Electronic Lab Notebooks and other sources with OMERO objects 
+
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/LEO](https://github.com/NFDI4BIOIMAGE/LEO)
 
 
 ---

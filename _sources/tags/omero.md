@@ -1,4 +1,4 @@
-# Omero (32)
+# Omero (33)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -204,6 +204,27 @@ Tags: OMERO
 Content type: Documentation, Collection
 
 [https://guide-kvpairs-scripts.readthedocs.io/en/latest/](https://guide-kvpairs-scripts.readthedocs.io/en/latest/)
+
+
+---
+
+## LEO
+
+Rodrigo Escobar Diaz Guerrero
+
+Published 2025-01-08T10:20:30+00:00
+
+Licensed MIT
+
+
+
+Linking Electronic Lab Notebooks and other sources with OMERO objects 
+
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/LEO](https://github.com/NFDI4BIOIMAGE/LEO)
 
 
 ---
@@ -459,7 +480,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -480,7 +501,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
+Pierre Pouchin, Rdornier, kekunn, jean-marie burel
 
 Licensed GPL-2.0
 
