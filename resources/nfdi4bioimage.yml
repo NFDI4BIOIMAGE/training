@@ -10249,7 +10249,9 @@ resources:
   name: napari-scipy2025-workshop
   publication_date: '2025-02-28T23:41:10+00:00'
   submission_date: '2025-03-01T11:30:43.571747'
-  tags: TODO
+  tags: 
+  - Python
+  - Napari
   type: GitHub Repository
   url: https://github.com/DragaDoncila/napari-scipy2025-workshop
   
