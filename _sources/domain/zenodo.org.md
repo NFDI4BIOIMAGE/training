@@ -1,4 +1,4 @@
-# Zenodo.org (182)
+# Zenodo.org (183)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2685,6 +2685,26 @@ Content type: Slides
 [https://zenodo.org/records/10972692](https://zenodo.org/records/10972692)
 
 [https://doi.org/10.5281/zenodo.10972692](https://doi.org/10.5281/zenodo.10972692)
+
+
+---
+
+## Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement
+
+Linda Zollitsch, Swantje Piotrowski
+
+Published 2025-01-24
+
+Licensed CC-BY-4.0
+
+
+
+Im Rahmen von FDM-SH Kontor &ndash; einem Projekt, das im Kontext der AG Kompetenzentwicklung von der Landesinitiative FDM-SH durchgef&uuml;hrt wurde - haben wir zum Ziel, eine kuratierte Materialbasis f&uuml;r Fortbildungen und Schulungen zu schaffen. Dies stellte uns vor die Herausforderung, festzulegen, wie die Materialien ausgew&auml;hlt werden sollen.
+Dieser Kriterienkatalog ist ein Versuch, erste Qualit&auml;tskriterien (insbesondere hinsichtlich der Nachnutzbarkeit und den FAIR-Prinzipien) f&uuml;r Materialien auf Basis von Metadaten zu erstellen. Dabei wurde das Vorgehen des Open Science Learning Gates (https://zenodo.org/records/12772135), als Vorbild genommen. Neben dem Metadatenschema der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) haben wir auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zur&uuml;ckgegriffen.
+
+[https://zenodo.org/records/14729452](https://zenodo.org/records/14729452)
+
+[https://doi.org/10.5281/zenodo.14729452](https://doi.org/10.5281/zenodo.14729452)
 
 
 ---
