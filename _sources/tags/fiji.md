@@ -1,4 +1,4 @@
-# Fiji (5)
+# Fiji (6)
 ## Advanced scripting with Fiji
 
 Joran Deschamps, Damian Dalle Nogare
@@ -48,6 +48,27 @@ Licensed CC-BY-NC-4.0
 Tags: Imagej, Fiji, Bioimage Analysis
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
+
+
+---
+
+## Parallel_Fiji_Visualizer
+
+Matthew Mueller, Aaron, Advanced Bioimaging Center
+
+Published 2024-05-15T06:14:24+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
 
 
 ---

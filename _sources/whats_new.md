@@ -1,25 +1,4 @@
 # Recently added (10)
-## Advanced scripting with Fiji
-
-Joran Deschamps, Damian Dalle Nogare
-
-Published 2023-06-14T08:25:35+00:00
-
-Licensed BSD-3-CLAUSE
-
-
-
-
-
-Tags: Fiji
-
-Content type: Github Repository
-
-[https://github.com/nobias-fht/advanced-scripting](https://github.com/nobias-fht/advanced-scripting)
-
-
----
-
 ## BioImage.IO Chatbot, GloBIAS Seminar
 
 Caterina Fuster-Barcelo
@@ -141,6 +120,27 @@ Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix
 [https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
 
 [https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
+
+
+---
+
+## Parallel_Fiji_Visualizer
+
+Matthew Mueller, Aaron, Advanced Bioimaging Center
+
+Published 2024-05-15T06:14:24+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github repository (52)
+# Github repository (53)
 ## Advanced scripting with Fiji
 
 Joran Deschamps, Damian Dalle Nogare
@@ -395,6 +395,27 @@ Tags: Statistics
 Content type: Github Repository
 
 [https://github.com/cxli233/Online_R_learning](https://github.com/cxli233/Online_R_learning)
+
+
+---
+
+## Parallel_Fiji_Visualizer
+
+Matthew Mueller, Aaron, Advanced Bioimaging Center
+
+Published 2024-05-15T06:14:24+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
 
 
 ---
