@@ -1,4 +1,4 @@
-# Research data management (130)
+# Research data management (131)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -174,6 +174,25 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
 
 [https://doi.org/10.5281/zenodo.14278058](https://doi.org/10.5281/zenodo.14278058)
+
+
+---
+
+## Annotated Research Context (ARC
+
+Kevin Frey, Kevin Schneider, Lukas Weil, Dominik Brilhaus, Timo Mühlhaus, Manuel Feser, Hannah-Doerpholz
+
+Licensed UNKNOWN
+
+
+
+The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
+
+Tags: Research Data Management, Fair
+
+Content type: Framework
+
+[https://arc-rdm.org/](https://arc-rdm.org/)
 
 
 ---
@@ -1541,7 +1560,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -2631,7 +2650,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

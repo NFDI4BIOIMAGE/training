@@ -1,4 +1,4 @@
-# Unknown (89)
+# Unknown (98)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -71,6 +71,25 @@ Tags: Bioimage Analysis
 
 ---
 
+## Annotated Research Context (ARC
+
+Kevin Frey, Kevin Schneider, Lukas Weil, Dominik Brilhaus, Timo Mühlhaus, Manuel Feser, Hannah-Doerpholz
+
+Licensed UNKNOWN
+
+
+
+The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
+
+Tags: Research Data Management, Fair
+
+Content type: Framework
+
+[https://arc-rdm.org/](https://arc-rdm.org/)
+
+
+---
+
 ## Artificial Intelligence for Digital Pathology
 
 Jakob Nikolas Kather, Faisal Mahmood, Florian Jug
@@ -88,6 +107,25 @@ Tags: Artificial Intelligence
 Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
+
+
+---
+
+## BIA Seminar Series
+
+GloBIAS
+
+Licensed UNKNOWN
+
+
+
+The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
+
+Tags: Bioimage Analysis
+
+Content type: Collection
+
+[https://www.globias.org/activities/bia-seminar-series](https://www.globias.org/activities/bia-seminar-series)
 
 
 ---
@@ -459,6 +497,27 @@ Content type: Book
 
 ---
 
+## Democratizing knowledge representation with BioCypher
+
+Sebastian Lobentanzer, Patrick Aloy, Jan Baumbach, Balazs Bohar, Vincent Carey, Pornpimol Charoentong, Katharina Danhauser, Tunca Doğan, Johann Dreo, Ian Dunham, Elias Farr, Adrià Fernandez-Torras, Benjamin Gyori, Michael Hartung, Charles Tapley Hoyt, Christoph Klein, Tamas Korcsmaros, Andreas Maier, Matthias Mann, David Ochoa, Elena Pareja-Lorente, Ferdinand Popp, Martin Preusse, Niklas Probul, Benno Schwikowski, Bünyamin Sen, Maximilian Strauss, Denes Turei, Erva Ulusoy, Dagmar Waltemath, Judith Wodke, Julio Saez-Rodriguez
+
+Published 2023-06-19
+
+Licensed UNKNOWN
+
+
+
+BioCypher is a framework to support users in creating KGs
+
+Tags: Knowledge Graph, Bioinformatics
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41587-023-01848-y](https://www.nature.com/articles/s41587-023-01848-y)
+
+
+---
+
 ## Diffusion Models for Image Restoration - An Introduction
 
 Anirban Ray
@@ -645,6 +704,27 @@ Content type: Notebook
 
 ---
 
+## GalaxyProject YouTube Channel
+
+Galaxy Team
+
+Published 2020-06-16
+
+Licensed UNKNOWN
+
+
+
+Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+
+Tags: Galaxy, Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/c/galaxyproject](https://www.youtube.com/c/galaxyproject)
+
+
+---
+
 ## GerBI Teaching Resources Link List
 
 Licensed UNKNOWN
@@ -656,6 +736,25 @@ List of training materials by the German BioImaging community provided by facili
 Content type: Collection
 
 [https://gerbi-gmb.de/resources/teaching-resources/](https://gerbi-gmb.de/resources/teaching-resources/)
+
+
+---
+
+## Get started accessing the de.NBI cloud.
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+Tutorial for accessing de.NBI cloud
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/get-started/](https://cloud.denbi.de/get-started/)
 
 
 ---
@@ -694,6 +793,27 @@ Tags: OMERO
 Content type: Video, Tutorial, Collection
 
 [https://www.glencoesoftware.com/media/webinars/](https://www.glencoesoftware.com/media/webinars/)
+
+
+---
+
+## GloBIAS
+
+GloBIAS
+
+Published 2024-07-17
+
+Licensed UNKNOWN
+
+
+
+This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024.
+
+Tags: Bioimage Analysis
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@globias](https://www.youtube.com/@globias)
 
 
 ---
@@ -1539,6 +1659,67 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## de.NBI YouTube Channel
+
+de.NBI
+
+Published 2015-08-28
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+
+Tags: Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@denbi5170](https://www.youtube.com/@denbi5170)
+
+
+---
+
+## de.NBI cloud access registration guide
+
+de.NBI
+
+Published 2024-11-04
+
+Licensed UNKNOWN
+
+
+
+Tutorial for registering for de.NBI cloud access
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/wiki/registration/](https://cloud.denbi.de/wiki/registration/)
+
+
+---
+
+## deNBI Online Training Media Library
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+
+Tags: Bioinformatics, Galaxy
+
+Content type: Website
+
+[https://www.denbi.de/online-training-media-library](https://www.denbi.de/online-training-media-library)
 
 
 ---

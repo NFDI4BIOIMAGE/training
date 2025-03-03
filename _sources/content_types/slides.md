@@ -1,4 +1,4 @@
-# Slides (82)
+# Slides (83)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1295,6 +1295,27 @@ Content type: Slides
 [https://f1000research.com/slides/11-1171](https://f1000research.com/slides/11-1171)
 
 [https://doi.org/10.7490/f1000research.1119154.1](https://doi.org/10.7490/f1000research.1119154.1)
+
+
+---
+
+## Promoting Reproducibility in Biomedical Research through Image Analysis
+
+David Barry
+
+Published 2025-01-29
+
+Licensed CC-BY-4.0 INTERNATIONAL
+
+
+
+Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
+
+Tags: Reproducibility, Image Analysis
+
+Content type: Slides
+
+[https://doi.org/10.5281/zenodo.14767944](https://doi.org/10.5281/zenodo.14767944)
 
 
 ---

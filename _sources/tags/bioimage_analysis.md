@@ -1,4 +1,4 @@
-# Bioimage analysis (183)
+# Bioimage analysis (186)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -175,6 +175,25 @@ Tags: Python, Napari, Bioimage Analysis
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## BIA Seminar Series
+
+GloBIAS
+
+Licensed UNKNOWN
+
+
+
+The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
+
+Tags: Bioimage Analysis
+
+Content type: Collection
+
+[https://www.globias.org/activities/bia-seminar-series](https://www.globias.org/activities/bia-seminar-series)
 
 
 ---
@@ -1054,6 +1073,27 @@ Content type: Poster
 
 ---
 
+## EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+
+Jullia Jakiela, Laura Cooper, Katarzyna Kamieniecka, Krzysztof Poterlowicz
+
+Published 2025-02-05
+
+Licensed CC-BY-4.0 INTERNATIONAL
+
+
+
+The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html)
+
+
+---
+
 ## EMBO Practical Course Advanced methods in bioimage analysis
 
 
@@ -1352,6 +1392,27 @@ Tags: Python, Bioimage Analysis, Artificial Intelligence
 Content type: Slides
 
 [https://f1000research.com/slides/12-971](https://f1000research.com/slides/12-971)
+
+
+---
+
+## GloBIAS
+
+GloBIAS
+
+Published 2024-07-17
+
+Licensed UNKNOWN
+
+
+
+This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024.
+
+Tags: Bioimage Analysis
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@globias](https://www.youtube.com/@globias)
 
 
 ---
@@ -2648,7 +2709,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

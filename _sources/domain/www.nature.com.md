@@ -1,4 +1,4 @@
-# Www.nature.com (16)
+# Www.nature.com (17)
 ## A call for public archives for biological image data
 
 Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney
@@ -44,6 +44,27 @@ Tags: Bioimage Analysis
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
+
+
+---
+
+## Democratizing knowledge representation with BioCypher
+
+Sebastian Lobentanzer, Patrick Aloy, Jan Baumbach, Balazs Bohar, Vincent Carey, Pornpimol Charoentong, Katharina Danhauser, Tunca Doğan, Johann Dreo, Ian Dunham, Elias Farr, Adrià Fernandez-Torras, Benjamin Gyori, Michael Hartung, Charles Tapley Hoyt, Christoph Klein, Tamas Korcsmaros, Andreas Maier, Matthias Mann, David Ochoa, Elena Pareja-Lorente, Ferdinand Popp, Martin Preusse, Niklas Probul, Benno Schwikowski, Bünyamin Sen, Maximilian Strauss, Denes Turei, Erva Ulusoy, Dagmar Waltemath, Judith Wodke, Julio Saez-Rodriguez
+
+Published 2023-06-19
+
+Licensed UNKNOWN
+
+
+
+BioCypher is a framework to support users in creating KGs
+
+Tags: Knowledge Graph, Bioinformatics
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41587-023-01848-y](https://www.nature.com/articles/s41587-023-01848-y)
 
 
 ---
@@ -179,7 +200,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 

@@ -1,4 +1,4 @@
-# Publication (61)
+# Publication (62)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -298,6 +298,27 @@ Tags: Bioimage Analysis
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-023-01987-9](https://www.nature.com/articles/s41592-023-01987-9)
+
+
+---
+
+## Democratizing knowledge representation with BioCypher
+
+Sebastian Lobentanzer, Patrick Aloy, Jan Baumbach, Balazs Bohar, Vincent Carey, Pornpimol Charoentong, Katharina Danhauser, Tunca Doğan, Johann Dreo, Ian Dunham, Elias Farr, Adrià Fernandez-Torras, Benjamin Gyori, Michael Hartung, Charles Tapley Hoyt, Christoph Klein, Tamas Korcsmaros, Andreas Maier, Matthias Mann, David Ochoa, Elena Pareja-Lorente, Ferdinand Popp, Martin Preusse, Niklas Probul, Benno Schwikowski, Bünyamin Sen, Maximilian Strauss, Denes Turei, Erva Ulusoy, Dagmar Waltemath, Judith Wodke, Julio Saez-Rodriguez
+
+Published 2023-06-19
+
+Licensed UNKNOWN
+
+
+
+BioCypher is a framework to support users in creating KGs
+
+Tags: Knowledge Graph, Bioinformatics
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41587-023-01848-y](https://www.nature.com/articles/s41587-023-01848-y)
 
 
 ---
@@ -731,7 +752,7 @@ Content type: Event, Publication, Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -1064,7 +1085,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

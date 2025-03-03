@@ -1,4 +1,4 @@
-# Bioinformatics (10)
+# Bioinformatics (18)
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -54,6 +54,48 @@ Content type: Github Repository, Collection
 
 ---
 
+## Democratizing knowledge representation with BioCypher
+
+Sebastian Lobentanzer, Patrick Aloy, Jan Baumbach, Balazs Bohar, Vincent Carey, Pornpimol Charoentong, Katharina Danhauser, Tunca Doğan, Johann Dreo, Ian Dunham, Elias Farr, Adrià Fernandez-Torras, Benjamin Gyori, Michael Hartung, Charles Tapley Hoyt, Christoph Klein, Tamas Korcsmaros, Andreas Maier, Matthias Mann, David Ochoa, Elena Pareja-Lorente, Ferdinand Popp, Martin Preusse, Niklas Probul, Benno Schwikowski, Bünyamin Sen, Maximilian Strauss, Denes Turei, Erva Ulusoy, Dagmar Waltemath, Judith Wodke, Julio Saez-Rodriguez
+
+Published 2023-06-19
+
+Licensed UNKNOWN
+
+
+
+BioCypher is a framework to support users in creating KGs
+
+Tags: Knowledge Graph, Bioinformatics
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41587-023-01848-y](https://www.nature.com/articles/s41587-023-01848-y)
+
+
+---
+
+## EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+
+Jullia Jakiela, Laura Cooper, Katarzyna Kamieniecka, Krzysztof Poterlowicz
+
+Published 2025-02-05
+
+Licensed CC-BY-4.0 INTERNATIONAL
+
+
+
+The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html)
+
+
+---
+
 ## EMBL-EBI material collection
 
 EMBL-EBI
@@ -69,6 +111,65 @@ Tags: Bioinformatics
 Content type: Collection
 
 [https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=](https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=)
+
+
+---
+
+## Galaxy Imaging
+
+Galaxy Team
+
+Licensed ['ACADEMIC FREE LICENSE VERSION 3.0', 'CREATIVE COMMONS ATTRIBUTION 3.0 (CC BY 3.0) LICENSE']
+
+
+
+Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
+
+Tags: Galaxy, Bioinformatics
+
+Content type: Tool
+
+[https://imaging.usegalaxy.eu](https://imaging.usegalaxy.eu)
+
+
+---
+
+## GalaxyProject YouTube Channel
+
+Galaxy Team
+
+Published 2020-06-16
+
+Licensed UNKNOWN
+
+
+
+Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+
+Tags: Galaxy, Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/c/galaxyproject](https://www.youtube.com/c/galaxyproject)
+
+
+---
+
+## Get started accessing the de.NBI cloud.
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+Tutorial for accessing de.NBI cloud
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/get-started/](https://cloud.denbi.de/get-started/)
 
 
 ---
@@ -175,6 +276,67 @@ Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
 Content type: Collection
 
 [https://workflowhub.eu/](https://workflowhub.eu/)
+
+
+---
+
+## de.NBI YouTube Channel
+
+de.NBI
+
+Published 2015-08-28
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+
+Tags: Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@denbi5170](https://www.youtube.com/@denbi5170)
+
+
+---
+
+## de.NBI cloud access registration guide
+
+de.NBI
+
+Published 2024-11-04
+
+Licensed UNKNOWN
+
+
+
+Tutorial for registering for de.NBI cloud access
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/wiki/registration/](https://cloud.denbi.de/wiki/registration/)
+
+
+---
+
+## deNBI Online Training Media Library
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+
+Tags: Bioinformatics, Galaxy
+
+Content type: Website
+
+[https://www.denbi.de/online-training-media-library](https://www.denbi.de/online-training-media-library)
 
 
 ---

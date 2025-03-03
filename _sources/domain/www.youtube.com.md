@@ -1,4 +1,4 @@
-# Www.youtube.com (22)
+# Www.youtube.com (25)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -182,6 +182,48 @@ Content type: Collection, Video
 
 ---
 
+## GalaxyProject YouTube Channel
+
+Galaxy Team
+
+Published 2020-06-16
+
+Licensed UNKNOWN
+
+
+
+Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+
+Tags: Galaxy, Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/c/galaxyproject](https://www.youtube.com/c/galaxyproject)
+
+
+---
+
+## GloBIAS
+
+GloBIAS
+
+Published 2024-07-17
+
+Licensed UNKNOWN
+
+
+
+This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024.
+
+Tags: Bioimage Analysis
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@globias](https://www.youtube.com/@globias)
+
+
+---
+
 ## Global BioImaging YouTube channel
 
 
@@ -351,6 +393,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
+
+
+---
+
+## de.NBI YouTube Channel
+
+de.NBI
+
+Published 2015-08-28
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+
+Tags: Bioinformatics
+
+Content type: Youtube Channel
+
+[https://www.youtube.com/@denbi5170](https://www.youtube.com/@denbi5170)
 
 
 ---

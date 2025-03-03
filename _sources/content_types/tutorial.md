@@ -1,4 +1,4 @@
-# Tutorial (42)
+# Tutorial (45)
 ## CellProfiler Practical NeuBIAS Lisbon 2017
 
 Carolina Wählby, Maxime Bombrun, Christian Tischer
@@ -101,6 +101,27 @@ Content type: Documentation, Document, Tutorial
 [https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf](https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf)
 
 [https://www.elabftw.net/](https://www.elabftw.net/)
+
+
+---
+
+## EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+
+Jullia Jakiela, Laura Cooper, Katarzyna Kamieniecka, Krzysztof Poterlowicz
+
+Published 2025-02-05
+
+Licensed CC-BY-4.0 INTERNATIONAL
+
+
+
+The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+
+Tags: Bioinformatics, Bioimage Analysis
+
+Content type: Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html)
 
 
 ---
@@ -281,6 +302,25 @@ Tags: Workflow
 Content type: Online Tutorial, Tutorial
 
 [https://galaxy-au-training.github.io/tutorials/modules/workflows/](https://galaxy-au-training.github.io/tutorials/modules/workflows/)
+
+
+---
+
+## Get started accessing the de.NBI cloud.
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+Tutorial for accessing de.NBI cloud
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/get-started/](https://cloud.denbi.de/get-started/)
 
 
 ---
@@ -716,6 +756,27 @@ Tags: Workflow, Research Data Management
 Content type: Tutorial
 
 [https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
+## de.NBI cloud access registration guide
+
+de.NBI
+
+Published 2024-11-04
+
+Licensed UNKNOWN
+
+
+
+Tutorial for registering for de.NBI cloud access
+
+Tags: Bioinformatics, Cloud Computing
+
+Content type: Tutorial
+
+[https://cloud.denbi.de/wiki/registration/](https://cloud.denbi.de/wiki/registration/)
 
 
 ---

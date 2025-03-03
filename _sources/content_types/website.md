@@ -1,4 +1,4 @@
-# Website (9)
+# Website (10)
 ## Data Stewardship Wizard
 
 Licensed UNKOWN
@@ -139,6 +139,25 @@ Tags: Research Data Management, Open Source Software
 Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
+
+
+---
+
+## deNBI Online Training Media Library
+
+de.NBI
+
+Licensed UNKNOWN
+
+
+
+The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+
+Tags: Bioinformatics, Galaxy
+
+Content type: Website
+
+[https://www.denbi.de/online-training-media-library](https://www.denbi.de/online-training-media-library)
 
 
 ---

@@ -1,4 +1,4 @@
-# Collection (81)
+# Collection (82)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -29,6 +29,25 @@ Content type: Collection, Data
 [https://www.nature.com/articles/nmeth.2083](https://www.nature.com/articles/nmeth.2083)
 
 [https://bbbc.broadinstitute.org/](https://bbbc.broadinstitute.org/)
+
+
+---
+
+## BIA Seminar Series
+
+GloBIAS
+
+Licensed UNKNOWN
+
+
+
+The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
+
+Tags: Bioimage Analysis
+
+Content type: Collection
+
+[https://www.globias.org/activities/bia-seminar-series](https://www.globias.org/activities/bia-seminar-series)
 
 
 ---
