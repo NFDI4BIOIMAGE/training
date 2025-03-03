@@ -1,4 +1,4 @@
-# Python (70)
+# Python (71)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1184,6 +1184,27 @@ Tags: Python, Big Data
 Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
+
+
+---
+
+## napari-scipy2025-workshop
+
+Draga Doncila Pop
+
+Published 2025-02-28T23:41:10+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
+
+Tags: Python, Napari
+
+Content type: Github Repository
+
+[https://github.com/DragaDoncila/napari-scipy2025-workshop](https://github.com/DragaDoncila/napari-scipy2025-workshop)
 
 
 ---

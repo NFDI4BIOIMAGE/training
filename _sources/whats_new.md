@@ -183,22 +183,23 @@ Artificial intelligence (AI) and large language models (LLMs) are changing the w
 
 ---
 
-## [CIDAS] Scalable strategies for a next-generation of FAIR bioimaging
+## napari-scipy2025-workshop
 
-Josh Moore
+Draga Doncila Pop
 
-Published 2025-01-23
+Published 2025-02-28T23:41:10+00:00
 
-Licensed CC-BY-4.0
+Licensed BSD-3-CLAUSE
 
 
 
-Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
-https://www.uni-goettingen.de/en/653203.html
+This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
 
-[https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
+Tags: Python, Napari
 
-[https://doi.org/10.5281/zenodo.14845059](https://doi.org/10.5281/zenodo.14845059)
+Content type: Github Repository
+
+[https://github.com/DragaDoncila/napari-scipy2025-workshop](https://github.com/DragaDoncila/napari-scipy2025-workshop)
 
 
 ---

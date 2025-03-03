@@ -1,4 +1,4 @@
-# Bsd-3-clause (29)
+# Bsd-3-clause (30)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -487,6 +487,27 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
+
+
+---
+
+## napari-scipy2025-workshop
+
+Draga Doncila Pop
+
+Published 2025-02-28T23:41:10+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
+
+Tags: Python, Napari
+
+Content type: Github Repository
+
+[https://github.com/DragaDoncila/napari-scipy2025-workshop](https://github.com/DragaDoncila/napari-scipy2025-workshop)
 
 
 ---
