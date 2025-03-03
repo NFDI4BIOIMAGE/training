@@ -1,4 +1,25 @@
 # Recently added (10)
+## Advanced scripting with Fiji
+
+Joran Deschamps, Damian Dalle Nogare
+
+Published 2023-06-14T08:25:35+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/nobias-fht/advanced-scripting](https://github.com/nobias-fht/advanced-scripting)
+
+
+---
+
 ## BioImage.IO Chatbot, GloBIAS Seminar
 
 Caterina Fuster-Barcelo
@@ -178,25 +199,6 @@ https://www.uni-goettingen.de/en/653203.html
 [https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
 [https://doi.org/10.5281/zenodo.14845059](https://doi.org/10.5281/zenodo.14845059)
-
-
----
-
-## omero-ontop-mappings
-
-Carsten Fortmann-Grote, andrawaag, Jerven Bolleman
-
-Published 2024-09-13T08:01:09+00:00
-
-
-
- ONTOP module for querying OMERO with SPARQL
-
-Tags: OMERO
-
-Content type: Github Repository
-
-[https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
 
 
 ---

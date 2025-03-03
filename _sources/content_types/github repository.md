@@ -1,4 +1,25 @@
-# Github repository (51)
+# Github repository (52)
+## Advanced scripting with Fiji
+
+Joran Deschamps, Damian Dalle Nogare
+
+Published 2023-06-14T08:25:35+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/nobias-fht/advanced-scripting](https://github.com/nobias-fht/advanced-scripting)
+
+
+---
+
 ## BIDS-lecture-2024
 
 Robert Haase

@@ -1,4 +1,4 @@
-# Github.com (129)
+# Github.com (130)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -50,6 +50,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Slides
 
 [https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf](https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf)
+
+
+---
+
+## Advanced scripting with Fiji
+
+Joran Deschamps, Damian Dalle Nogare
+
+Published 2023-06-14T08:25:35+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Fiji
+
+Content type: Github Repository
+
+[https://github.com/nobias-fht/advanced-scripting](https://github.com/nobias-fht/advanced-scripting)
 
 
 ---

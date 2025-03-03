@@ -198,6 +198,7 @@
 <li class="toctree-l1"><a class="reference internal" href="tags/bioinformatics.html">Bioinformatics (18)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tags/data_stewardship.html">Data stewardship (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tags/fiji.html">Fiji (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tags/imagej.html">Imagej (19)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tags/licensing.html">Licensing (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tags/metadata.html">Metadata (15)</a></li>
@@ -224,7 +225,7 @@
 <li class="toctree-l1"><a class="reference internal" href="content_types/document.html">Document (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="content_types/documentation.html">Documentation (19)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="content_types/event.html">Event (8)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="content_types/github%20repository.html">Github repository (51)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="content_types/github%20repository.html">Github repository (52)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="content_types/notebook.html">Notebook (55)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="content_types/online%20tutorial.html">Online tutorial (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="content_types/poster.html">Poster (10)</a></li>
@@ -241,7 +242,7 @@
 <li class="toctree-l1"><a class="reference internal" href="licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licenses/apache-2.0.html">Apache-2.0 (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="licenses/bsd-3-clause.html">Bsd-3-clause (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="licenses/bsd-3-clause.html">Bsd-3-clause (28)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licenses/cc-by-4.0.html">Cc-by-4.0 (258)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licenses/cc-by-sa-4.0.html">Cc-by-sa-4.0 (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="licenses/cc0-1.0.html">Cc0-1.0 (13)</a></li>
@@ -258,7 +259,7 @@
 <li class="toctree-l1"><a class="reference internal" href="domain/f1000research.com.html">F1000research.com (11)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="domain/github.com.html">Github.com (129)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="domain/github.com.html">Github.com (130)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="domain/www.biorxiv.org.html">Www.biorxiv.org (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="domain/www.nature.com.html">Www.nature.com (17)</a></li>
@@ -466,6 +467,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-scripting-with-fiji">Advanced scripting with Fiji</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bioimage-io-chatbot-globias-seminar">BioImage.IO Chatbot, GloBIAS Seminar</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#developing-a-training-strategy">Developing a Training Strategy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox">Gut Analysis Toolbox</a></li>
@@ -475,7 +477,6 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reconstructed-images-of-a-2dsim-multiposition-acquisition">Reconstructed images of a 2DSIM multiposition acquisition.</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#training-computational-skills-in-the-age-of-ai">Training Computational Skills in the Age of AI</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cidas-scalable-strategies-for-a-next-generation-of-fair-bioimaging">[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-ontop-mappings">omero-ontop-mappings</a></li>
 </ul>
             </nav>
         </div>
@@ -489,6 +490,16 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="recently-added-10">
 <h1>Recently added (10)<a class="headerlink" href="#recently-added-10" title="Link to this heading">#</a></h1>
+<section id="advanced-scripting-with-fiji">
+<h2>Advanced scripting with Fiji<a class="headerlink" href="#advanced-scripting-with-fiji" title="Link to this heading">#</a></h2>
+<p>Joran Deschamps, Damian Dalle Nogare</p>
+<p>Published 2023-06-14T08:25:35+00:00</p>
+<p>Licensed BSD-3-CLAUSE</p>
+<p>Tags: Fiji</p>
+<p>Content type: Github Repository</p>
+<p><a class="github reference external" href="https://github.com/nobias-fht/advanced-scripting">nobias-fht/advanced-scripting</a></p>
+</section>
+<hr class="docutils" />
 <section id="bioimage-io-chatbot-globias-seminar">
 <h2><a class="reference external" href="http://BioImage.IO">BioImage.IO</a> Chatbot, GloBIAS Seminar<a class="headerlink" href="#bioimage-io-chatbot-globias-seminar" title="Link to this heading">#</a></h2>
 <p>Caterina Fuster-Barcelo</p>
@@ -587,16 +598,6 @@ Dieser Kriterienkatalog ist ein Versuch, erste Qualitätskriterien (insbesondere
 <a class="reference external" href="https://www.uni-goettingen.de/en/653203.html">https://www.uni-goettingen.de/en/653203.html</a></p>
 <p><a class="reference external" href="https://zenodo.org/records/14845059">https://zenodo.org/records/14845059</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.14845059">https://doi.org/10.5281/zenodo.14845059</a></p>
-</section>
-<hr class="docutils" />
-<section id="omero-ontop-mappings">
-<h2>omero-ontop-mappings<a class="headerlink" href="#omero-ontop-mappings" title="Link to this heading">#</a></h2>
-<p>Carsten Fortmann-Grote, andrawaag, Jerven Bolleman</p>
-<p>Published 2024-09-13T08:01:09+00:00</p>
-<p>ONTOP module for querying OMERO with SPARQL</p>
-<p>Tags: OMERO</p>
-<p>Content type: Github Repository</p>
-<p><a class="github reference external" href="https://github.com/German-BioImaging/omero-ontop-mappings">German-BioImaging/omero-ontop-mappings</a></p>
 <hr class="docutils" />
 </section>
 </section>
@@ -665,6 +666,7 @@ Dieser Kriterienkatalog ist ein Versuch, erste Qualitätskriterien (insbesondere
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-scripting-with-fiji">Advanced scripting with Fiji</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bioimage-io-chatbot-globias-seminar">BioImage.IO Chatbot, GloBIAS Seminar</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#developing-a-training-strategy">Developing a Training Strategy</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox">Gut Analysis Toolbox</a></li>
@@ -674,7 +676,6 @@ Dieser Kriterienkatalog ist ein Versuch, erste Qualitätskriterien (insbesondere
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reconstructed-images-of-a-2dsim-multiposition-acquisition">Reconstructed images of a 2DSIM multiposition acquisition.</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#training-computational-skills-in-the-age-of-ai">Training Computational Skills in the Age of AI</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cidas-scalable-strategies-for-a-next-generation-of-fair-bioimaging">[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-ontop-mappings">omero-ontop-mappings</a></li>
 </ul>
   </nav></div>
 
