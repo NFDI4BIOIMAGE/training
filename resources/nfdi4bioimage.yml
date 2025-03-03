@@ -10087,6 +10087,20 @@ resources:
   - https://doi.org/10.5281/zenodo.14769820
 
 - authors:
+  - Rodrigo Escobar Diaz Guerrero
+  description: 'Linking Electronic Lab Notebooks and other sources with OMERO objects '
+  license: MIT License
+  name: LEO
+  publication_date: '2025-01-08T10:20:30+00:00'
+  submission_date: '2025-02-05T12:26:11.745472'
+  tags: 
+  - Omero
+  - Research Data Management
+  - Electronic lab notebooks
+  type: GitHub Repository
+  url: https://github.com/NFDI4BIOIMAGE/LEO
+  
+- authors:
   - Zollitsch, Linda
   - Piotrowski, Swantje
   description: 'Im Rahmen von FDM-SH Kontor &ndash; einem Projekt, das im Kontext der
@@ -10522,4 +10536,3 @@ resources:
   url:
   - https://zenodo.org/records/14043615
   - https://doi.org/10.5281/zenodo.14043615
-
