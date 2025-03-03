@@ -1,4 +1,4 @@
-# Doi.org (192)
+# Doi.org (193)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2244,6 +2244,36 @@ Three seperate trees are provided for different classes of imaging data: open bi
 [https://zenodo.org/records/13945179](https://zenodo.org/records/13945179)
 
 [https://doi.org/10.5281/zenodo.13945179](https://doi.org/10.5281/zenodo.13945179)
+
+
+---
+
+## Image handling using Fiji - training materials
+
+Joanna Pylvänäinen
+
+Published 2025-01-30
+
+Licensed MIT
+
+
+
+Description:This training package provides a guide to image processing and analysis using ImageJ/Fiji, an open-source software widely used in biological and medical imaging. The manual includes step-by-step exercises demonstrating practical workflows for measuring size distribution and signal intensity using both conventional thresholding and advanced tools like StarDist. This resource is ideal for researchers, students, and professionals looking to enhance their image analysis skills using Fiji.
+Key topics include:
+
+Image calibration and intensity adjustments
+Channel splitting and merging
+Projection techniques and scale bar addition
+Segmentation and thresholding methods
+Quantitative analysis of nuclei and fluorescence signal intensity
+
+Publication Date: January 2025
+Keywords: Fiji, ImageJ, Image Analysis, Microscopy, Segmentation, Particle Analysis, 3D Visualization, StarDist
+License: MIT
+
+[https://zenodo.org/records/14771563](https://zenodo.org/records/14771563)
+
+[https://doi.org/10.5281/zenodo.14771563](https://doi.org/10.5281/zenodo.14771563)
 
 
 ---
