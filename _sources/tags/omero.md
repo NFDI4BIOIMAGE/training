@@ -1,4 +1,4 @@
-# Omero (33)
+# Omero (34)
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -480,7 +480,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -501,7 +501,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -584,6 +584,27 @@ Tags: OMERO, Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
+
+
+---
+
+## omero-vitessce
+
+Michele Bortolomeazzi
+
+Published 2024-11-25T10:51:01+00:00
+
+Licensed AGPL-3.0
+
+
+
+OMERO.web plugin for the Vitessce multimodal data viewer.
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/omero-vitessce](https://github.com/NFDI4BIOIMAGE/omero-vitessce)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github repository (49)
+# Github repository (50)
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -397,7 +397,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -418,7 +418,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -799,7 +799,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -835,6 +835,27 @@ Tags: OMERO, Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/cmohl2013/omero-arc](https://github.com/cmohl2013/omero-arc)
+
+
+---
+
+## omero-vitessce
+
+Michele Bortolomeazzi
+
+Published 2024-11-25T10:51:01+00:00
+
+Licensed AGPL-3.0
+
+
+
+OMERO.web plugin for the Vitessce multimodal data viewer.
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/omero-vitessce](https://github.com/NFDI4BIOIMAGE/omero-vitessce)
 
 
 ---

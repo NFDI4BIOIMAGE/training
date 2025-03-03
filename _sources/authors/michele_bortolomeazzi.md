@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (10)
+# Michele bortolomeazzi (11)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -257,6 +257,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
+## omero-vitessce
+
+Michele Bortolomeazzi
+
+Published 2024-11-25T10:51:01+00:00
+
+Licensed AGPL-3.0
+
+
+
+OMERO.web plugin for the Vitessce multimodal data viewer.
+
+Tags: OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/omero-vitessce](https://github.com/NFDI4BIOIMAGE/omero-vitessce)
 
 
 ---
