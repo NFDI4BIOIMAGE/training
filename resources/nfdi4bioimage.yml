@@ -10591,6 +10591,21 @@ resources:
 
 
 - authors:
+  - Draga Doncila Pop
+  description: This is a three-part workshop guiding you through using napari to view
+    images, a brief bioimaging analysis application, and extending napari's functionality
+    with your own custom workflows.
+  license: BSD 3-Clause "New" or "Revised" License
+  name: napari-scipy2025-workshop
+  publication_date: '2025-02-28T23:41:10+00:00'
+  submission_date: '2025-03-01T11:30:43.571747'
+  tags: 
+  - Python
+  - Napari
+  type: GitHub Repository
+  url: https://github.com/DragaDoncila/napari-scipy2025-workshop
+
+- authors:
   - Schimmler, Sonja
   - "Altenh\xF6ner, Reinhard"
   - Bernard, Lars
@@ -10624,4 +10639,5 @@ resources:
   url:
   - https://zenodo.org/records/8383123
   - https://doi.org/10.5281/zenodo.8383123
+
   
