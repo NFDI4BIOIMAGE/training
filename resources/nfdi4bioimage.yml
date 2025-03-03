@@ -10170,3 +10170,111 @@ resources:
   url:
   - https://zenodo.org/records/14832855
   - https://doi.org/10.5281/zenodo.14832855
+
+- authors:
+  - Laurent Thomas
+  - Pierre Trehin
+  description: Also re-uploaded the compiled FilenameGetter.py$class to the update
+    site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
+  license: mit-license
+  name: 'LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"'
+  num_downloads: 44
+  publication_date: '2025-02-24'
+  submission_date: '2025-02-25T11:18:42.895597'
+  url:
+  - https://zenodo.org/records/14917722
+  - https://doi.org/10.5281/zenodo.14917722
+- authors:
+  - Sorensen, Luke
+  - Saito, Ayame
+  - Poon, Sabrina
+  - Noe Han, Myat
+  - Hamnett, Ryan
+  - Neckel, Peter
+  - Humenick, Adam
+  - Mutunduwe, Keith
+  - Glennan, Christie
+  - Mahdavian, Narges
+  - JH Brookes, Simon
+  - M McQuade, Rachel
+  - PP Foong, Jaime
+  - "G\xF3mez-de-Mariscal, Estibaliz"
+  - "Mu\xF1oz Barrutia, Arrate"
+  - Kaltschmidt, Julia A.
+  - King, Sebastian K.
+  - Haase, Robert
+  - Carbone, Simona
+  - A. Veldhuis, Nicholas
+  - P. Poole, Daniel
+  - Rajasekhar, Pradeep
+  description: 'Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+
+    Skip versions to 1.0
+
+    Fixed major bugs:
+
+
+    Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+
+    Fixed ganglia model to be compatible with new versions of deepImageJ
+
+    Updated all scripts to accommodate for new deepImageJ workflow
+
+    Added macros to generate user dialog when running GAT for first time
+
+    '
+  license: bsd-3-clause
+  name: Gut Analysis Toolbox
+  num_downloads: 102
+  publication_date: '2025-02-23'
+  submission_date: '2025-02-25T11:18:43.275561'
+  url:
+  - https://zenodo.org/records/14913673
+  - https://doi.org/10.5281/zenodo.14913673
+- authors:
+  - Romette, Louis
+  description: Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with
+    30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin.
+    Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed
+    multiposition acquisition (10 positions). Uploaded to show a probable issue with
+    Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static
+    noise.&nbsp;
+  license: cc-by-4.0
+  name: Reconstructed images of a 2DSIM multiposition acquisition.
+  num_downloads: 3
+  publication_date: '2025-02-19'
+  submission_date: '2025-02-25T11:19:01.034304'
+  url:
+  - https://zenodo.org/records/14893791
+  - https://doi.org/10.5281/zenodo.14893791
+- authors:
+  - Haase, Robert
+  description: When training people in topics such as programming, bio-image analysis
+    or data science, it makes sense to define a training strategy with a wider perspective
+    than just trainees needs. This slide deck gives insights into aspects to consider
+    when defining a training strategy. It considers funder's interests, financial
+    aspects, metrics / goals, steps towards sustainability and opportunities for outreach
+    and for founding future collaborations.
+  license: cc-by-4.0
+  name: Developing a Training Strategy
+  num_downloads: 149
+  publication_date: '2024-11-08'
+  submission_date: '2025-02-25T11:19:03.838955'
+  url:
+  - https://zenodo.org/records/14053758
+  - https://doi.org/10.5281/zenodo.14053758
+- authors:
+  - Haase, Robert
+  description: Artificial intelligence (AI) and large language models (LLMs) are changing
+    the way we use computers in science. This slide deck introduces ways for using
+    AI and LLMs for making training materials and for exchanging knowledge about how
+    to use AI in joint discussions between humans and LLM-based AI-systems.
+  license: cc-by-4.0
+  name: Training Computational Skills in the Age of AI
+  num_downloads: 318
+  publication_date: '2024-11-06'
+  submission_date: '2025-02-25T11:19:04.474855'
+  url:
+  - https://zenodo.org/records/14043615
+  - https://doi.org/10.5281/zenodo.14043615
+
