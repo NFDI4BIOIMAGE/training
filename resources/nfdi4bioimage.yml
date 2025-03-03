@@ -10394,6 +10394,29 @@ resources:
   - https://doi.org/10.5281/zenodo.14832855
 
 - authors:
+  - Fuster-Barcelo, Caterina
+  description: The dynamic field of bioimage analysis continually seeks innovative tools
+    to democratize access to analysis tools and its documentation. The BioImage.IO Chatbot,
+    leveraging state-of-the-art AI technologies including Large Language Models (LLMs)
+    and Retrieval Augmented Generation (RAG), provides an interactive platform that
+    significantly integrates the exploration and application of bioimage analysis tools
+    and models. This seminar will introduce the BioImage.IO Chatbot's capabilities,
+    focusing on how it facilitates access to advanced analysis tools and documentation,
+    allows for the execution of complex models, and enables users to create customized
+    extensions adjusted to specific research needs. In a live demo, attendees will see
+    how to interact with the chatbot and all its assistants and capabilities. Join us
+    to explore how the BioImage.IO Chatbot ca transform your research by making sophisticated
+    analysis more intuitive and accessible.
+  license: cc-by-4.0
+  name: BioImage.IO Chatbot, GloBIAS Seminar
+  num_downloads: 48
+  publication_date: '2024-10-02'
+  submission_date: '2025-02-22T16:18:56.093547'
+  url:
+  - https://zenodo.org/records/13880367
+  - https://doi.org/10.5281/zenodo.13880367
+
+- authors:
   - Laurent Thomas
   - Pierre Trehin
   description: Also re-uploaded the compiled FilenameGetter.py$class to the update
@@ -10499,3 +10522,4 @@ resources:
   url:
   - https://zenodo.org/records/14043615
   - https://doi.org/10.5281/zenodo.14043615
+
