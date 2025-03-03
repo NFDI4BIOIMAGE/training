@@ -9951,6 +9951,61 @@ resources:
   url:
   - https://zenodo.org/records/14675120
   - https://doi.org/10.5281/zenodo.14675120
+
+- authors:
+  - "Pylv\xE4n\xE4inen, Joanna"
+  description: 'Description:This training package provides a guide to image processing
+    and analysis using ImageJ/Fiji, an open-source software widely used in biological
+    and medical imaging. The manual includes step-by-step exercises demonstrating practical
+    workflows for measuring size distribution and signal intensity using both conventional
+    thresholding and advanced tools like StarDist. This resource is ideal for researchers,
+    students, and professionals looking to enhance their image analysis skills using
+    Fiji.
+  
+    Key topics include:
+  
+  
+    Image calibration and intensity adjustments
+  
+    Channel splitting and merging
+  
+    Projection techniques and scale bar addition
+  
+    Segmentation and thresholding methods
+  
+    Quantitative analysis of nuclei and fluorescence signal intensity
+  
+  
+    Publication Date: January 2025
+  
+    Keywords: Fiji, ImageJ, Image Analysis, Microscopy, Segmentation, Particle Analysis,
+    3D Visualization, StarDist
+  
+    License: MIT'
+  license: mit-license
+  name: Image handling using Fiji - training materials
+  num_downloads: 34
+  publication_date: '2025-01-30'
+  submission_date: '2025-01-30T19:21:32.417455'
+  url:
+  - https://zenodo.org/records/14771563
+  - https://doi.org/10.5281/zenodo.14771563
+  
+- authors:
+  - Haase, Robert
+  description: In these two slide-decks we explore applications of large language models.
+    In the first slide deck we dive into prompt engineering, function calling and how
+    to build agentic workflows. In the second slide-deck we explore multi-modal large
+    language models focusing on vision language models and image generation models.&nbsp;
+  license: cc-by-4.0
+  name: Prompt Engineering, Agentic Workflows and Multi-modal Large Language Models
+  num_downloads: 79
+  publication_date: '2025-01-19'
+  submission_date: '2025-01-29T13:05:13.342534'
+  url:
+  - https://zenodo.org/records/14692037
+  - https://doi.org/10.5281/zenodo.14692037
+  
 - authors:
   - Fortmann-Grote, Carsten
   - Meireles, Mariana
@@ -10043,3 +10098,454 @@ resources:
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
   
+- authors:
+  - Rodrigo Escobar Diaz Guerrero
+  description: 'Linking Electronic Lab Notebooks and other sources with OMERO objects '
+  license: MIT License
+  name: LEO
+  publication_date: '2025-01-08T10:20:30+00:00'
+  submission_date: '2025-02-05T12:26:11.745472'
+  tags: 
+  - Omero
+  - Research Data Management
+  - Electronic lab notebooks
+  type: GitHub Repository
+  url: https://github.com/NFDI4BIOIMAGE/LEO
+  
+- authors:
+  - Zollitsch, Linda
+  - Piotrowski, Swantje
+  description: 'Im Rahmen von FDM-SH Kontor &ndash; einem Projekt, das im Kontext der
+    AG Kompetenzentwicklung von der Landesinitiative FDM-SH durchgef&uuml;hrt wurde
+    - haben wir zum Ziel, eine kuratierte Materialbasis f&uuml;r Fortbildungen und Schulungen
+    zu schaffen. Dies stellte uns vor die Herausforderung, festzulegen, wie die Materialien
+    ausgew&auml;hlt werden sollen.
+  
+    Dieser Kriterienkatalog ist ein Versuch, erste Qualit&auml;tskriterien (insbesondere
+    hinsichtlich der Nachnutzbarkeit und den FAIR-Prinzipien) f&uuml;r Materialien auf
+    Basis von Metadaten zu erstellen. Dabei wurde das Vorgehen des Open Science Learning
+    Gates (https://zenodo.org/records/12772135), als Vorbild genommen. Neben dem Metadatenschema
+    der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) haben wir auf das Metadatenschema
+    der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398)
+    sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zur&uuml;ckgegriffen.'
+  license: cc-by-4.0
+  name: "Kriterienkatalog f\xFCr Materialien aus dem Themenbereich Forschungsdatenmanagement"
+  num_downloads: 9
+  publication_date: '2025-01-24'
+  submission_date: '2025-02-11T09:46:40.525798'
+  url:
+  - https://zenodo.org/records/14729452
+  - https://doi.org/10.5281/zenodo.14729452
+  
+- authors:
+  - SaibotMagd
+  description: 'firefox extension: reads datamatrix code from camera and create a sample
+    in an inventory to link it into an ELN.'
+  license: Apache License 2.0
+  name: dmtxSampleCreator
+  publication_date: '2023-06-06T11:52:14+00:00'
+  submission_date: '2025-02-05T12:25:17.287990'
+  tags: 
+  - NFDI4BioImage
+  type: GitHub Repository
+  url: https://github.com/SaibotMagd/dmtxSampleCreator
+  
+- authors:
+  - Galaxy Team
+  description: Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
+  license: UNKNOWN
+  name: GalaxyProject YouTube Channel
+  publication_date: '2020-06-16'
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/c/galaxyproject 
+
+- authors:
+  - Galaxy Team
+  description: Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
+  license: 
+  - Academic Free License version 3.0
+  - Creative Commons Attribution 3.0 (CC BY 3.0) License
+  name: Galaxy Imaging
+  tags:
+  - Galaxy
+  - Bioinformatics
+  type:
+  - Tool
+  url: https://imaging.usegalaxy.eu 
+
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
+  license: UNKNOWN
+  name: deNBI Online Training Media Library
+  tags:
+  - Bioinformatics
+  - Galaxy
+  type: 
+  - Website
+  url: https://www.denbi.de/online-training-media-library 
+
+- authors: de.NBI
+  description: Tutorial for accessing de.NBI cloud
+  license: UNKNOWN
+  name: Get started accessing the de.NBI cloud. 
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/get-started/
+
+- authors: de.NBI
+  description: Tutorial for registering for de.NBI cloud access
+  license: UNKNOWN
+  name: de.NBI cloud access registration guide
+  publication_date: '2024-11-04'
+  tags:
+  - Bioinformatics
+  - Cloud Computing
+  type:
+  - Tutorial
+  url: https://cloud.denbi.de/wiki/registration/ 
+
+- authors:
+  - Kevin Frey
+  - Kevin Schneider
+  - Lukas Weil 
+  - Dominik Brilhaus
+  - Timo Mühlhaus
+  - Manuel Feser
+  - Hannah-Doerpholz
+  description: The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
+  license: UNKNOWN
+  name: Annotated Research Context (ARC
+  tags:
+  - Research Data Management
+  - FAIR
+  type:
+  - Framework
+  url: https://arc-rdm.org/
+
+- authors: de.NBI
+  description: The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
+  license: UNKNOWN
+  name: de.NBI YouTube Channel
+  publication_date: '2015-08-28'
+  tags:
+  - Bioinformatics
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@denbi5170
+
+- authors: 
+  - Sebastian Lobentanzer
+  - Patrick Aloy
+  - Jan Baumbach
+  - Balazs Bohar
+  - Vincent Carey
+  - Pornpimol Charoentong
+  - Katharina Danhauser
+  - Tunca Doğan
+  - Johann Dreo
+  - Ian Dunham
+  - Elias Farr
+  - Adrià Fernandez-Torras
+  - Benjamin Gyori
+  - Michael Hartung
+  - Charles Tapley Hoyt
+  - Christoph Klein
+  - Tamas Korcsmaros
+  - Andreas Maier
+  - Matthias Mann
+  - David Ochoa
+  - Elena Pareja-Lorente
+  - Ferdinand Popp
+  - Martin Preusse
+  - Niklas Probul
+  - Benno Schwikowski
+  - Bünyamin Sen
+  - Maximilian Strauss
+  - Denes Turei
+  - Erva Ulusoy
+  - Dagmar Waltemath
+  - Judith Wodke 
+  - Julio Saez-Rodriguez 
+  description: BioCypher is a framework to support users in creating KGs
+  license: UNKNOWN
+  name: Democratizing knowledge representation with BioCypher
+  publication_date: '2023-06-19'
+  tags:
+  - Knowledge Graph
+  - Bioinformatics
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41587-023-01848-y
+
+- authors:
+  - Jullia Jakiela
+  - Laura Cooper
+  - Katarzyna Kamieniecka
+  - Krzysztof Poterlowicz
+  description: The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
+  license: CC-BY-4.0 International
+  name: EMBI - Recommended Metadata for Biological Images – metadata guidelines for bioimaging data
+  publication_date: '2025-02-05'
+  tags:
+  - Bioinformatics
+  - Bioimage Analysis
+  type:
+  - Tutorial
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
+
+- authors: David Barry
+  description: Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
+  license: CC-BY-4.0 International
+  name: Promoting Reproducibility in Biomedical Research through Image Analysis
+  publication_date: '2025-01-29'
+  tags:
+  - Reproducibility
+  - Image Analysis
+  type:
+  - Slides
+  url: https://doi.org/10.5281/zenodo.14767944
+
+- authors: GloBIAS
+  description: This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024. 
+  license: UNKNOWN
+  name: GloBIAS
+  publication_date: '2024-07-17'
+  tags:
+  - Bioimage Analysis
+  type:
+  - YouTube Channel
+  url: https://www.youtube.com/@globias
+
+- authors: GloBIAS
+  description: The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
+  license: UNKNOWN
+  name: BIA Seminar Series
+  tags:
+  - Bioimage Analysis
+  type:
+  - Collection
+  url: https://www.globias.org/activities/bia-seminar-series
+
+
+- authors:
+  - "Torsten St\xF6ter"
+  description: ''
+  license: GNU General Public License v3.0
+  name: datenbiene
+  publication_date: '2025-02-02T18:50:20+00:00'
+  submission_date: '2025-02-05T12:27:52.033681'
+  tags:
+  - Research Data Management
+  type: 
+  - GitHub Repository
+  - Software
+  url: https://github.com/tstoeter/datenbiene
+  
+- authors:
+  - Christoph Moehl
+  - Peter Zentis
+  - Niraj Kandpal
+  description: Library to export OMERO projects to ARC repositories
+  license: GNU General Public License v3.0
+  name: omero-arc
+  publication_date: '2023-12-18T16:11:04+00:00'
+  submission_date: '2025-02-05T12:09:56.325939'
+  tags:
+  - Omero
+  - Research Data Management
+  type: 
+  - GitHub Repository
+  - Software
+  url: https://github.com/cmohl2013/omero-arc
+  
+- authors:
+  - Moore, Josh
+  description: 'Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus
+    Institute Data Science23rd January 2025
+
+    https://www.uni-goettingen.de/en/653203.html'
+  license: cc-by-4.0
+  name: '[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging'
+  num_downloads: 99
+  publication_date: '2025-01-23'
+  submission_date: '2025-02-11T11:18:09.744263'
+  url:
+  - https://zenodo.org/records/14845059
+  - https://doi.org/10.5281/zenodo.14845059
+- authors:
+  - Bortolomeazzi, Michele
+  - Schmidt, Christian
+  - Mallm, Jan-Philipp
+  description: 'omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
+
+    OMERO is the most used research data management system (RDM) in the bioimaging
+    domain, and has been adopted as a centralized RDM solution by several academic
+    and research institutions. A main reason for this is the ability to directly view
+    and annotate images from a web-based interface. However, this feature of OMERO
+    is currently underpowered for the visualization of very large or multimodal datasets.
+    These datasets, are becoming a more and more common foundation for biological
+    and biomedical studies, due to the recent developments in imaging, and sequencing
+    technologies which enabled their application to spatial-omics. In order to begin
+    to provide this multimodal-data capability to OMERO, we developed omero-vitessce
+    (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin
+    for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal
+    data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy
+    (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive
+    visualizations of their images of cells and tissues through interactive plots
+    which are directly linked to the image. This enables the visual exploration of
+    bioimage-analysis results and of multimodal data such as those generated through
+    spatial-omics experiments. The data visualization is highly customizable and can
+    be configured not only through custom configuration files, but also with the graphical
+    interface provided by the plugin, thus making omero-vitessce a highly user-friendly
+    solution for multimodal data viewing. most biological datasets. We plan to extend
+    the interoperability of omero-vitessce with the OME-NGFF and SpatialData file
+    formats to leverage the efficiency of these cloud optimized formats.
+
+    The three files in this Zenodo Record are all the same poster saved in different
+    format all with high resolution images.'
+  license: cc-by-4.0
+  name: 'Introducing OMERO-vitessce: an OMERO.web plugin for multi-modal data'
+  num_downloads: 111
+  publication_date: '2025-02-07'
+  submission_date: '2025-02-11T11:18:10.238121'
+  url:
+  - https://zenodo.org/records/14832855
+  - https://doi.org/10.5281/zenodo.14832855
+
+- authors:
+  - Fuster-Barcelo, Caterina
+  description: The dynamic field of bioimage analysis continually seeks innovative tools
+    to democratize access to analysis tools and its documentation. The BioImage.IO Chatbot,
+    leveraging state-of-the-art AI technologies including Large Language Models (LLMs)
+    and Retrieval Augmented Generation (RAG), provides an interactive platform that
+    significantly integrates the exploration and application of bioimage analysis tools
+    and models. This seminar will introduce the BioImage.IO Chatbot's capabilities,
+    focusing on how it facilitates access to advanced analysis tools and documentation,
+    allows for the execution of complex models, and enables users to create customized
+    extensions adjusted to specific research needs. In a live demo, attendees will see
+    how to interact with the chatbot and all its assistants and capabilities. Join us
+    to explore how the BioImage.IO Chatbot ca transform your research by making sophisticated
+    analysis more intuitive and accessible.
+  license: cc-by-4.0
+  name: BioImage.IO Chatbot, GloBIAS Seminar
+  num_downloads: 48
+  publication_date: '2024-10-02'
+  submission_date: '2025-02-22T16:18:56.093547'
+  url:
+  - https://zenodo.org/records/13880367
+  - https://doi.org/10.5281/zenodo.13880367
+
+- authors:
+  - Laurent Thomas
+  - Pierre Trehin
+  description: Also re-uploaded the compiled FilenameGetter.py$class to the update
+    site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
+  license: mit-license
+  name: 'LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"'
+  num_downloads: 44
+  publication_date: '2025-02-24'
+  submission_date: '2025-02-25T11:18:42.895597'
+  url:
+  - https://zenodo.org/records/14917722
+  - https://doi.org/10.5281/zenodo.14917722
+- authors:
+  - Sorensen, Luke
+  - Saito, Ayame
+  - Poon, Sabrina
+  - Noe Han, Myat
+  - Hamnett, Ryan
+  - Neckel, Peter
+  - Humenick, Adam
+  - Mutunduwe, Keith
+  - Glennan, Christie
+  - Mahdavian, Narges
+  - JH Brookes, Simon
+  - M McQuade, Rachel
+  - PP Foong, Jaime
+  - "G\xF3mez-de-Mariscal, Estibaliz"
+  - "Mu\xF1oz Barrutia, Arrate"
+  - Kaltschmidt, Julia A.
+  - King, Sebastian K.
+  - Haase, Robert
+  - Carbone, Simona
+  - A. Veldhuis, Nicholas
+  - P. Poole, Daniel
+  - Rajasekhar, Pradeep
+  description: 'Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
+
+    Skip versions to 1.0
+
+    Fixed major bugs:
+
+
+    Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
+
+    Fixed ganglia model to be compatible with new versions of deepImageJ
+
+    Updated all scripts to accommodate for new deepImageJ workflow
+
+    Added macros to generate user dialog when running GAT for first time
+
+    '
+  license: bsd-3-clause
+  name: Gut Analysis Toolbox
+  num_downloads: 102
+  publication_date: '2025-02-23'
+  submission_date: '2025-02-25T11:18:43.275561'
+  url:
+  - https://zenodo.org/records/14913673
+  - https://doi.org/10.5281/zenodo.14913673
+- authors:
+  - Romette, Louis
+  description: Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with
+    30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin.
+    Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed
+    multiposition acquisition (10 positions). Uploaded to show a probable issue with
+    Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static
+    noise.&nbsp;
+  license: cc-by-4.0
+  name: Reconstructed images of a 2DSIM multiposition acquisition.
+  num_downloads: 3
+  publication_date: '2025-02-19'
+  submission_date: '2025-02-25T11:19:01.034304'
+  url:
+  - https://zenodo.org/records/14893791
+  - https://doi.org/10.5281/zenodo.14893791
+- authors:
+  - Haase, Robert
+  description: When training people in topics such as programming, bio-image analysis
+    or data science, it makes sense to define a training strategy with a wider perspective
+    than just trainees needs. This slide deck gives insights into aspects to consider
+    when defining a training strategy. It considers funder's interests, financial
+    aspects, metrics / goals, steps towards sustainability and opportunities for outreach
+    and for founding future collaborations.
+  license: cc-by-4.0
+  name: Developing a Training Strategy
+  num_downloads: 149
+  publication_date: '2024-11-08'
+  submission_date: '2025-02-25T11:19:03.838955'
+  url:
+  - https://zenodo.org/records/14053758
+  - https://doi.org/10.5281/zenodo.14053758
+- authors:
+  - Haase, Robert
+  description: Artificial intelligence (AI) and large language models (LLMs) are changing
+    the way we use computers in science. This slide deck introduces ways for using
+    AI and LLMs for making training materials and for exchanging knowledge about how
+    to use AI in joint discussions between humans and LLM-based AI-systems.
+  license: cc-by-4.0
+  name: Training Computational Skills in the Age of AI
+  num_downloads: 318
+  publication_date: '2024-11-06'
+  submission_date: '2025-02-25T11:19:04.474855'
+  url:
+  - https://zenodo.org/records/14043615
+  - https://doi.org/10.5281/zenodo.14043615
+
