@@ -10039,7 +10039,8 @@ resources:
   name: advanced-scripting
   publication_date: '2023-06-14T08:25:35+00:00'
   submission_date: '2025-02-09T09:03:49.051347'
-  tags: TODO
+  tags: 
+  - Fiji
   type: GitHub Repository
   url: https://github.com/nobias-fht/advanced-scripting
   
