@@ -10087,6 +10087,19 @@ resources:
   - https://doi.org/10.5281/zenodo.14769820
 
 - authors:
+  - SaibotMagd
+  description: 'firefox extension: reads datamatrix code from camera and create a sample
+    in an inventory to link it into an ELN.'
+  license: Apache License 2.0
+  name: dmtxSampleCreator
+  publication_date: '2023-06-06T11:52:14+00:00'
+  submission_date: '2025-02-05T12:25:17.287990'
+  tags: 
+  - NFDI4BioImage
+  type: GitHub Repository
+  url: https://github.com/SaibotMagd/dmtxSampleCreator
+  
+- authors:
   - Galaxy Team
   description: Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
   license: UNKNOWN
@@ -10461,5 +10474,4 @@ resources:
   url:
   - https://zenodo.org/records/14043615
   - https://doi.org/10.5281/zenodo.14043615
-
 
