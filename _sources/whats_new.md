@@ -1,4 +1,23 @@
 # Recently added (10)
+## BioImage.IO Chatbot, GloBIAS Seminar
+
+Caterina Fuster-Barcelo
+
+Published 2024-10-02
+
+Licensed CC-BY-4.0
+
+
+
+The dynamic field of bioimage analysis continually seeks innovative tools to democratize access to analysis tools and its documentation. The BioImage.IO Chatbot, leveraging state-of-the-art AI technologies including Large Language Models (LLMs) and Retrieval Augmented Generation (RAG), provides an interactive platform that significantly integrates the exploration and application of bioimage analysis tools and models. This seminar will introduce the BioImage.IO Chatbot's capabilities, focusing on how it facilitates access to advanced analysis tools and documentation, allows for the execution of complex models, and enables users to create customized extensions adjusted to specific research needs. In a live demo, attendees will see how to interact with the chatbot and all its assistants and capabilities. Join us to explore how the BioImage.IO Chatbot ca transform your research by making sophisticated analysis more intuitive and accessible.
+
+[https://zenodo.org/records/13880367](https://zenodo.org/records/13880367)
+
+[https://doi.org/10.5281/zenodo.13880367](https://doi.org/10.5281/zenodo.13880367)
+
+
+---
+
 ## Developing a Training Strategy
 
 Robert Haase
@@ -180,27 +199,6 @@ Tags: Research Data Management
 Content type: Github Repository, Software
 
 [https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
-
-
----
-
-## dmtxSampleCreator
-
-SaibotMagd
-
-Published 2023-06-06T11:52:14+00:00
-
-Licensed APACHE-2.0
-
-
-
-firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
-
-Tags: Nfdi4Bioimage
-
-Content type: Github Repository
-
-[https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
 
 
 ---
