@@ -10094,7 +10094,8 @@ resources:
   name: dmtxSampleCreator
   publication_date: '2023-06-06T11:52:14+00:00'
   submission_date: '2025-02-05T12:25:17.287990'
-  tags: TODO
+  tags: 
+  - NFDI4BioImage
   type: GitHub Repository
   url: https://github.com/SaibotMagd/dmtxSampleCreator
   
