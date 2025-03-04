@@ -1,24 +1,4 @@
 # Recently added (10)
-## Base4NFDI - Creating NFDI-wide basic services in a  world of specific domains
-
-Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
-
-Published 2023-09-27
-
-Licensed CC-BY-4.0
-
-
-
-Today, research data is often stored in many different places, difficult to find and only available for a limited time. Base4NFDI creates the basis for better findability, accessibility, interoperability ans reusability of research data. For this purpose, common, technical services are developed together with experts for the data in the different research disciplines. Since many scientific fields have similar requirements for research data, Base4NFDI supports common solutions to avoid parallel developments. Already existing services are thereby adapted or extended to be usable for researchers from other disciplines.
-This slides were presented from Sonja Schimmler at the first Conference on Research Data Infrastructure (CoRDI 2023) on September 14, 2023 in Karlsruhe, Germany. The presentation will give an insight into the idea and structure of Base4NFDI, the processes for developing basic services and the services currently funded.
-
-[https://zenodo.org/records/8383123](https://zenodo.org/records/8383123)
-
-[https://doi.org/10.5281/zenodo.8383123](https://doi.org/10.5281/zenodo.8383123)
-
-
----
-
 ## BioImage.IO Chatbot, GloBIAS Seminar
 
 Caterina Fuster-Barcelo
@@ -84,23 +64,33 @@ Added macros to generate user dialog when running GAT for first time
 
 ---
 
-## Introducing OMERO-vitessce: an OMERO.web plugin for multi-modal data
+## Image Analysis using Galaxy
 
-Michele Bortolomeazzi, Christian Schmidt, Jan-Philipp Mallm
+Beatriz Serrano-Solano, Leonid Kostrykin, Anne Fouilloux, Riccardo Massei
 
-Published 2025-02-07
+Published 2025-02-28
 
 Licensed CC-BY-4.0
 
 
 
-omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
-OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
-The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
+GloBIAS seminar series
+&nbsp;
+Part 3 in the topic:&nbsp;
+Infrastructure for deploying image analysis workflows
+Image analysis using Galaxy
 
-[https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
+Beatrix Serrano-Solano, Euro-BioImaging ERIC Bio-Hub, EMBL Heidelberg, Germany
+&amp; Anne Fouilloux , Simula Research Laboratory, Oslo, Norway
+&amp; Leonid Kostrykin, Biomedical Computer Vision Group, Heidelberg University, BioQuant, IPMB, Heidelberg, Germany
+&amp; Ricardo Massei, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
+Abstract: This webinar will introduce the Galaxy Image Analysis Community and highlight our mission to advance the development of FAIR and reproducible image analysis workflows. As part of our commitment to making image data analysis more accessible and collaborative, we will showcase how Galaxy can serve the imaging community. The session will explore Galaxy&rsquo;s capabilities for integrating popular image analysis tools, interactive environments, and notebooks, making it a versatile platform for researchers across various scientific domains. We will also present how Galaxy facilitates the creation and sharing of reusable workflows, promoting open science and fostering collaboration. To give participants hands-on insight, we&rsquo;ll provide a live demonstration on designing and running image analysis workflows within Galaxy.&nbsp;
 
-[https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
+&nbsp;
+
+[https://zenodo.org/records/14944040](https://zenodo.org/records/14944040)
+
+[https://doi.org/10.5281/zenodo.14944040](https://doi.org/10.5281/zenodo.14944040)
 
 
 ---
@@ -124,23 +114,137 @@ Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix
 
 ---
 
-## Parallel_Fiji_Visualizer
+## Leica (.lif) file with errors in channel order when imported with Bio-formats
 
-Matthew Mueller, Aaron, Advanced Bioimaging Center
+Areli Rodriguez
 
-Published 2024-05-15T06:14:24+00:00
-
-Licensed BSD-3-CLAUSE
+Published 2025-02-26
 
 
 
+The blue and red channels get swapped when imported with Bio-formats. Happens consistently with .lif imports in QuPath and ImageJ.
+
+[https://zenodo.org/records/14933318](https://zenodo.org/records/14933318)
+
+[https://doi.org/10.5281/zenodo.14933318](https://doi.org/10.5281/zenodo.14933318)
 
 
-Tags: Fiji
+---
 
-Content type: Github Repository
+## NFDI4Bioimage Calendar 2025 March; original image
 
-[https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
+Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
+
+Published 2025-02-27
+
+Licensed CC-BY-4.0
+
+
+
+Raw microscopy image from the NFDI4Bioimage calendar March 2025.
+The image shows 125x magnified microscopic details of a biofilm formed by Pseudomonas fluorescence on the surface of a liquid culture medium. The culture was inoculated with a cellulose-overexpressing and surface-colonizing mScarlet-tagged wild type and a GFP-tagged mutant that is unable to colonize the surface. The biofilm can collapse over time due to its own mass, so that new strategies have to be developed and thus a life cycle emerges.
+Image Metadata (using REMBI template):
+
+
+
+Study
+&nbsp;
+
+
+Study description
+Biofilm formation
+
+
+Study Component
+&nbsp;
+
+
+Imaging method
+Stereo microscopy
+
+
+Biosample
+&nbsp;
+
+
+Biological entity
+Bacteria
+
+
+Organism
+Pseudomonas fluorescence
+
+
+Specimen
+&nbsp;
+
+
+Signal/contrast mechanism
+Relief, fluorescence
+
+
+Channel 1 - content
+Relief, grey
+
+
+Channel 1 - biological entity
+Details of the biofilm in transmitted light
+
+
+Channel 2 - content
+mScarlet, red
+
+
+Channel 2 - biological entity
+WT over-expressing cellulose and colonizing the surface
+
+
+Channel 3 - content
+GFP, green
+
+
+Channel 3 - biological entity
+∆wss mutant unable to colonize the surface
+
+
+Image Acquisition
+&nbsp;
+
+
+Microscope model
+Zeiss Axio Zoom V16
+
+
+Image Data
+&nbsp;
+
+
+Magnification
+125x
+
+
+Objective
+PlanNeoFluar Z 1.0x
+
+
+Dimension extents
+x: 2752, y: 2208
+
+
+Pixel size description
+0.91 &micro;m x 0.91 &micro;m
+
+
+Image area
+2500&micro;m x 2500&micro;m
+
+
+
+&nbsp;
+
+[https://zenodo.org/records/14937632](https://zenodo.org/records/14937632)
+
+[https://doi.org/10.5281/zenodo.14937632](https://doi.org/10.5281/zenodo.14937632)
 
 
 ---

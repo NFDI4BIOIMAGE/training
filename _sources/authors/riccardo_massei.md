@@ -1,4 +1,4 @@
-# Riccardo massei (12)
+# Riccardo massei (13)
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
 Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
@@ -106,6 +106,37 @@ Results of the project "Conversion of KNIME image analysis workflows to Galaxy" 
 [https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
 
 [https://doi.org/10.5281/zenodo.10793700](https://doi.org/10.5281/zenodo.10793700)
+
+
+---
+
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Leonid Kostrykin, Anne Fouilloux, Riccardo Massei
+
+Published 2025-02-28
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS seminar series
+&nbsp;
+Part 3 in the topic:&nbsp;
+Infrastructure for deploying image analysis workflows
+Image analysis using Galaxy
+
+Beatrix Serrano-Solano, Euro-BioImaging ERIC Bio-Hub, EMBL Heidelberg, Germany
+&amp; Anne Fouilloux , Simula Research Laboratory, Oslo, Norway
+&amp; Leonid Kostrykin, Biomedical Computer Vision Group, Heidelberg University, BioQuant, IPMB, Heidelberg, Germany
+&amp; Ricardo Massei, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
+Abstract: This webinar will introduce the Galaxy Image Analysis Community and highlight our mission to advance the development of FAIR and reproducible image analysis workflows. As part of our commitment to making image data analysis more accessible and collaborative, we will showcase how Galaxy can serve the imaging community. The session will explore Galaxy&rsquo;s capabilities for integrating popular image analysis tools, interactive environments, and notebooks, making it a versatile platform for researchers across various scientific domains. We will also present how Galaxy facilitates the creation and sharing of reusable workflows, promoting open science and fostering collaboration. To give participants hands-on insight, we&rsquo;ll provide a live demonstration on designing and running image analysis workflows within Galaxy.&nbsp;
+
+&nbsp;
+
+[https://zenodo.org/records/14944040](https://zenodo.org/records/14944040)
+
+[https://doi.org/10.5281/zenodo.14944040](https://doi.org/10.5281/zenodo.14944040)
 
 
 ---

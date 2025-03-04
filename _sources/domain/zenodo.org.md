@@ -1,4 +1,4 @@
-# Zenodo.org (185)
+# Zenodo.org (187)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -299,26 +299,6 @@ Best,J
 [https://zenodo.org/records/12533989](https://zenodo.org/records/12533989)
 
 [https://doi.org/10.5281/zenodo.12533989](https://doi.org/10.5281/zenodo.12533989)
-
-
----
-
-## Base4NFDI - Creating NFDI-wide basic services in a  world of specific domains
-
-Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
-
-Published 2023-09-27
-
-Licensed CC-BY-4.0
-
-
-
-Today, research data is often stored in many different places, difficult to find and only available for a limited time. Base4NFDI creates the basis for better findability, accessibility, interoperability ans reusability of research data. For this purpose, common, technical services are developed together with experts for the data in the different research disciplines. Since many scientific fields have similar requirements for research data, Base4NFDI supports common solutions to avoid parallel developments. Already existing services are thereby adapted or extended to be usable for researchers from other disciplines.
-This slides were presented from Sonja Schimmler at the first Conference on Research Data Infrastructure (CoRDI 2023) on September 14, 2023 in Karlsruhe, Germany. The presentation will give an insight into the idea and structure of Base4NFDI, the processes for developing basic services and the services currently funded.
-
-[https://zenodo.org/records/8383123](https://zenodo.org/records/8383123)
-
-[https://doi.org/10.5281/zenodo.8383123](https://doi.org/10.5281/zenodo.8383123)
 
 
 ---
@@ -2153,6 +2133,37 @@ Thanks for your help !Best,Laurent
 
 ---
 
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Leonid Kostrykin, Anne Fouilloux, Riccardo Massei
+
+Published 2025-02-28
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS seminar series
+&nbsp;
+Part 3 in the topic:&nbsp;
+Infrastructure for deploying image analysis workflows
+Image analysis using Galaxy
+
+Beatrix Serrano-Solano, Euro-BioImaging ERIC Bio-Hub, EMBL Heidelberg, Germany
+&amp; Anne Fouilloux , Simula Research Laboratory, Oslo, Norway
+&amp; Leonid Kostrykin, Biomedical Computer Vision Group, Heidelberg University, BioQuant, IPMB, Heidelberg, Germany
+&amp; Ricardo Massei, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
+Abstract: This webinar will introduce the Galaxy Image Analysis Community and highlight our mission to advance the development of FAIR and reproducible image analysis workflows. As part of our commitment to making image data analysis more accessible and collaborative, we will showcase how Galaxy can serve the imaging community. The session will explore Galaxy&rsquo;s capabilities for integrating popular image analysis tools, interactive environments, and notebooks, making it a versatile platform for researchers across various scientific domains. We will also present how Galaxy facilitates the creation and sharing of reusable workflows, promoting open science and fostering collaboration. To give participants hands-on insight, we&rsquo;ll provide a live demonstration on designing and running image analysis workflows within Galaxy.&nbsp;
+
+&nbsp;
+
+[https://zenodo.org/records/14944040](https://zenodo.org/records/14944040)
+
+[https://doi.org/10.5281/zenodo.14944040](https://doi.org/10.5281/zenodo.14944040)
+
+
+---
+
 ## Image Repository Decision Tree - Where do I deposit my imaging data
 
 Isabel Kemmer, Feriel Romdhane, Euro-BioImaging ERIC
@@ -2901,6 +2912,23 @@ Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix
 
 ---
 
+## Leica (.lif) file with errors in channel order when imported with Bio-formats
+
+Areli Rodriguez
+
+Published 2025-02-26
+
+
+
+The blue and red channels get swapped when imported with Bio-formats. Happens consistently with .lif imports in QuPath and ImageJ.
+
+[https://zenodo.org/records/14933318](https://zenodo.org/records/14933318)
+
+[https://doi.org/10.5281/zenodo.14933318](https://doi.org/10.5281/zenodo.14933318)
+
+
+---
+
 ## Leitfaden zur digitalen Datensparsamkeit (mit Praxisbeispielen)
 
 Maximilian Heber, Moritz Jakob, Matthias Landwehr, Jan Leendertse, Maximilian Müller, Gabriel Schneider, Dirk von Suchodoletz, Robert Ulrich
@@ -3300,6 +3328,124 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ---
 
+## NFDI4Bioimage Calendar 2025 March; original image
+
+Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
+
+Published 2025-02-27
+
+Licensed CC-BY-4.0
+
+
+
+Raw microscopy image from the NFDI4Bioimage calendar March 2025.
+The image shows 125x magnified microscopic details of a biofilm formed by Pseudomonas fluorescence on the surface of a liquid culture medium. The culture was inoculated with a cellulose-overexpressing and surface-colonizing mScarlet-tagged wild type and a GFP-tagged mutant that is unable to colonize the surface. The biofilm can collapse over time due to its own mass, so that new strategies have to be developed and thus a life cycle emerges.
+Image Metadata (using REMBI template):
+
+
+
+Study
+&nbsp;
+
+
+Study description
+Biofilm formation
+
+
+Study Component
+&nbsp;
+
+
+Imaging method
+Stereo microscopy
+
+
+Biosample
+&nbsp;
+
+
+Biological entity
+Bacteria
+
+
+Organism
+Pseudomonas fluorescence
+
+
+Specimen
+&nbsp;
+
+
+Signal/contrast mechanism
+Relief, fluorescence
+
+
+Channel 1 - content
+Relief, grey
+
+
+Channel 1 - biological entity
+Details of the biofilm in transmitted light
+
+
+Channel 2 - content
+mScarlet, red
+
+
+Channel 2 - biological entity
+WT over-expressing cellulose and colonizing the surface
+
+
+Channel 3 - content
+GFP, green
+
+
+Channel 3 - biological entity
+∆wss mutant unable to colonize the surface
+
+
+Image Acquisition
+&nbsp;
+
+
+Microscope model
+Zeiss Axio Zoom V16
+
+
+Image Data
+&nbsp;
+
+
+Magnification
+125x
+
+
+Objective
+PlanNeoFluar Z 1.0x
+
+
+Dimension extents
+x: 2752, y: 2208
+
+
+Pixel size description
+0.91 &micro;m x 0.91 &micro;m
+
+
+Image area
+2500&micro;m x 2500&micro;m
+
+
+
+&nbsp;
+
+[https://zenodo.org/records/14937632](https://zenodo.org/records/14937632)
+
+[https://doi.org/10.5281/zenodo.14937632](https://doi.org/10.5281/zenodo.14937632)
+
+
+---
+
 ## New Kid on the (NFDI) Block: NFDI4BIOIMAGE  - A National Initiative for FAIR Data Management in Bioimaging and Bioimage Analysis
 
 Cornelia Wetzker
@@ -3429,7 +3575,7 @@ Intravital workshop 15/11/2024
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
