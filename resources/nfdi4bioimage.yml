@@ -10725,3 +10725,17 @@ resources:
   url:
   - https://zenodo.org/records/14944040
   - https://doi.org/10.5281/zenodo.14944040
+
+- authors:
+  - Marcelo Zoccoler
+  - Johannes Soltwedel
+  description: Course contents for biapol course at Trends in Microscopy conference
+    2025
+  license: Creative Commons Attribution 4.0 International
+  name: TrendsInMicroscopy2025
+  publication_date: '2025-03-10T13:42:57+00:00'
+  submission_date: '2025-03-17T20:49:27.146359'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/BiAPoL/TrendsInMicroscopy2025
+  
