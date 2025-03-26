@@ -10725,6 +10725,26 @@ resources:
   url:
   - https://zenodo.org/records/14944040
   - https://doi.org/10.5281/zenodo.14944040
+
+
+
+- authors:
+  - Marcelo Zoccoler
+  - Johannes Soltwedel
+  description: Course contents for biapol course at Trends in Microscopy conference
+    2025
+  license: Creative Commons Attribution 4.0 International
+  name: TrendsInMicroscopy2025
+  publication_date: '2025-03-10T13:42:57+00:00'
+  submission_date: '2025-03-17T20:49:27.146359'
+  tags: 
+  - Bio-image analysis
+  type: GitHub Repository
+  url: 
+  - https://biapol.github.io/TrendsInMicroscopy_2025/
+  - https://github.com/BiAPoL/TrendsInMicroscopy_2025
+
+
 - authors:
   - Moore, Josh
   description: "Keynote at the NFDI4BIOIMAGE All-Hands Meeting in D\xFCsseldorf, Germany,\
@@ -10958,3 +10978,5 @@ resources:
   url:
   - https://zenodo.org/records/14968770
   - https://doi.org/10.5281/zenodo.14968770
+
+
