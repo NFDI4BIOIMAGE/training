@@ -415,13 +415,9 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Research Data Management
+[https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
-Content type: Slides
-
-[https://zenodo.org/records/10008465](https://zenodo.org/records/10008465)
-
-[https://doi.org/10.5281/zenodo.10008465](https://doi.org/10.5281/zenodo.10008465)
+[https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
 
 
 ---

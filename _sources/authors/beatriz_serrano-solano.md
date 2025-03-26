@@ -1,4 +1,21 @@
-# Beatriz serrano-solano (7)
+# Beatriz serrano-solano (9)
+## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
+
+Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
+
+Published 2025-03-06
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
+
+[https://doi.org/10.5281/zenodo.14979253](https://doi.org/10.5281/zenodo.14979253)
+
+
+---
+
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
@@ -20,9 +37,9 @@ Content type: Publication
 
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
-Riccardo Massei, Matthias Berndt, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger, Lucille Lopez-Delisle
+Riccardo Massei, Matthias Berndt, Lucille Lopez-Delisle, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger
 
-Published 2024-11-06
+Published 2025-02-25
 
 Licensed CC-BY-4.0
 
@@ -33,11 +50,9 @@ In the frame of NFDI4BioImaging (the National Research Data Infrastructure focus
 Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of HCS bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation.
 In the present study, we proposed an automated analysis pipeline for storing, processing, analysing, and sharing HCS bioimaging data. The (semi)automatic workflow was developed by taking as a case study a dataset of zebrafish larvae and cell lines images previously obtained from an automated imaging system generating data in an HCS fashion. In our workflows, images are automatically enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to the UFZ-OME Remote Objects (OMERO) server using a novel OMERO tool suite developed with GALAXY. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation) or even more complex toxicological analyses (dose response modelling). Furthermore, we want to improve the FAIRness of the protocol by adding a direct upload link to the Image Data Resource (IDR) repository to automatically prepare the data for publication and sharing.
 
-[https://zenodo.org/records/14044640](https://zenodo.org/records/14044640)
+[https://zenodo.org/records/14909526](https://zenodo.org/records/14909526)
 
-[https://doi.org/10.5281/zenodo.14044640](https://doi.org/10.5281/zenodo.14044640)
-
-[https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/](https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/)
+[https://doi.org/10.5281/zenodo.14909526](https://doi.org/10.5281/zenodo.14909526)
 
 
 ---
@@ -76,6 +91,23 @@ Graduation presentation for the 7th cohort of the Open Seeds mentoring &amp; tra
 [https://zenodo.org/records/8182154](https://zenodo.org/records/8182154)
 
 [https://doi.org/10.5281/zenodo.8182154](https://doi.org/10.5281/zenodo.8182154)
+
+
+---
+
+## Galaxy meets OMERO! Overview on the Galaxy OMERO-suite and Vizarr Viewer
+
+Riccardo Massei, Matthias Bernt, Beatriz Serrano-Solano, Lucille Lopez-Delisle, Jan Bumberger, Björn Grüning, Leonid Kostrykin
+
+Published 2025-03-05
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
+
+[https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
 
 
 ---

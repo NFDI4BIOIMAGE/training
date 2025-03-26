@@ -1,65 +1,56 @@
 # Recently added (10)
-## BioImage.IO Chatbot, GloBIAS Seminar
+## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
-Caterina Fuster-Barcelo
+Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
 
-Published 2024-10-02
-
-Licensed CC-BY-4.0
-
-
-
-The dynamic field of bioimage analysis continually seeks innovative tools to democratize access to analysis tools and its documentation. The BioImage.IO Chatbot, leveraging state-of-the-art AI technologies including Large Language Models (LLMs) and Retrieval Augmented Generation (RAG), provides an interactive platform that significantly integrates the exploration and application of bioimage analysis tools and models. This seminar will introduce the BioImage.IO Chatbot's capabilities, focusing on how it facilitates access to advanced analysis tools and documentation, allows for the execution of complex models, and enables users to create customized extensions adjusted to specific research needs. In a live demo, attendees will see how to interact with the chatbot and all its assistants and capabilities. Join us to explore how the BioImage.IO Chatbot ca transform your research by making sophisticated analysis more intuitive and accessible.
-
-[https://zenodo.org/records/13880367](https://zenodo.org/records/13880367)
-
-[https://doi.org/10.5281/zenodo.13880367](https://doi.org/10.5281/zenodo.13880367)
-
-
----
-
-## Developing a Training Strategy
-
-Robert Haase
-
-Published 2024-11-08
+Published 2025-03-06
 
 Licensed CC-BY-4.0
 
 
 
-When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
+[https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
 
-[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
-
-[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
+[https://doi.org/10.5281/zenodo.14979253](https://doi.org/10.5281/zenodo.14979253)
 
 
 ---
 
-## Gut Analysis Toolbox
+## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
-Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+Riccardo Massei, Matthias Berndt, Lucille Lopez-Delisle, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger
 
-Published 2025-02-23
+Published 2025-02-25
 
-Licensed BSD-3-CLAUSE
-
-
-
-Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
-Skip versions to 1.0
-Fixed major bugs:
-
-Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
-Fixed ganglia model to be compatible with new versions of deepImageJ
-Updated all scripts to accommodate for new deepImageJ workflow
-Added macros to generate user dialog when running GAT for first time
+Licensed CC-BY-4.0
 
 
-[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
 
-[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
+Imaging is crucial across various scientific disciplines, particularly in life sciences, where it plays a key role in studies ranging from single molecules to whole organisms. However, the complexity and sheer volume of image data, especially from high-content screening (HCS) experiments involving cell lines or other organisms, present significant challenges. Managing and analysing this data efficiently requires well-defined image processing tools and analysis pipelines that align with the FAIR principles&mdash;ensuring they are findable, accessible, interoperable, and reusable across different domains.
+In the frame of NFDI4BioImaging (the National Research Data Infrastructure focusing on bioimaging in Germany), we want to find viable solutions for storing, processing, analysing, and sharing HCS data. In particular, we want to develop solutions to make findable and machine-readable metadata using (semi)automatic analysis pipelines. In scientific research, such pipelines are crucial for maintaining data integrity, supporting reproducibility, and enabling interdisciplinary collaboration. These tools can be used by different users to retrieve images based on specific attributes as well as support quality control by identifying appropriate metadata.
+Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of HCS bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation.
+In the present study, we proposed an automated analysis pipeline for storing, processing, analysing, and sharing HCS bioimaging data. The (semi)automatic workflow was developed by taking as a case study a dataset of zebrafish larvae and cell lines images previously obtained from an automated imaging system generating data in an HCS fashion. In our workflows, images are automatically enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to the UFZ-OME Remote Objects (OMERO) server using a novel OMERO tool suite developed with GALAXY. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation) or even more complex toxicological analyses (dose response modelling). Furthermore, we want to improve the FAIRness of the protocol by adding a direct upload link to the Image Data Resource (IDR) repository to automatically prepare the data for publication and sharing.
+
+[https://zenodo.org/records/14909526](https://zenodo.org/records/14909526)
+
+[https://doi.org/10.5281/zenodo.14909526](https://doi.org/10.5281/zenodo.14909526)
+
+
+---
+
+## Galaxy meets OMERO! Overview on the Galaxy OMERO-suite and Vizarr Viewer
+
+Riccardo Massei, Matthias Bernt, Beatriz Serrano-Solano, Lucille Lopez-Delisle, Jan Bumberger, Björn Grüning, Leonid Kostrykin
+
+Published 2025-03-05
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
+
+[https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
 
 
 ---
@@ -95,25 +86,6 @@ Abstract: This webinar will introduce the Galaxy Image Analysis Community and hi
 
 ---
 
-## LauLauThom/MaskFromRois-Fiji: v1.0.1 - better handle "cancel"
-
-Laurent Thomas, Pierre Trehin
-
-Published 2025-02-24
-
-Licensed MIT
-
-
-
-Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
-
-[https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
-
-[https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
-
-
----
-
 ## Leica (.lif) file with errors in channel order when imported with Bio-formats
 
 Areli Rodriguez
@@ -131,179 +103,112 @@ The blue and red channels get swapped when imported with Bio-formats. Happens co
 
 ---
 
-## NFDI4Bioimage Calendar 2025 March; original image
+## Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)
 
-Sonja Schimmler, Reinhard Altenhöner, Lars Bernard, Juliane Fluck, Axel Klinger, Sören Lorenz, Brigitte Mathiak, Bernhard Miller, Raphael Ritz, Thomas Schörner-Sadenius, Alexander Sczyrba, Regine Stein
+Jürgen Bohl
 
-Published 2025-02-27
-
-Licensed CC-BY-4.0
-
-
-
-Raw microscopy image from the NFDI4Bioimage calendar March 2025.
-The image shows 125x magnified microscopic details of a biofilm formed by Pseudomonas fluorescence on the surface of a liquid culture medium. The culture was inoculated with a cellulose-overexpressing and surface-colonizing mScarlet-tagged wild type and a GFP-tagged mutant that is unable to colonize the surface. The biofilm can collapse over time due to its own mass, so that new strategies have to be developed and thus a life cycle emerges.
-Image Metadata (using REMBI template):
-
-
-
-Study
-&nbsp;
-
-
-Study description
-Biofilm formation
-
-
-Study Component
-&nbsp;
-
-
-Imaging method
-Stereo microscopy
-
-
-Biosample
-&nbsp;
-
-
-Biological entity
-Bacteria
-
-
-Organism
-Pseudomonas fluorescence
-
-
-Specimen
-&nbsp;
-
-
-Signal/contrast mechanism
-Relief, fluorescence
-
-
-Channel 1 - content
-Relief, grey
-
-
-Channel 1 - biological entity
-Details of the biofilm in transmitted light
-
-
-Channel 2 - content
-mScarlet, red
-
-
-Channel 2 - biological entity
-WT over-expressing cellulose and colonizing the surface
-
-
-Channel 3 - content
-GFP, green
-
-
-Channel 3 - biological entity
-∆wss mutant unable to colonize the surface
-
-
-Image Acquisition
-&nbsp;
-
-
-Microscope model
-Zeiss Axio Zoom V16
-
-
-Image Data
-&nbsp;
-
-
-Magnification
-125x
-
-
-Objective
-PlanNeoFluar Z 1.0x
-
-
-Dimension extents
-x: 2752, y: 2208
-
-
-Pixel size description
-0.91 &micro;m x 0.91 &micro;m
-
-
-Image area
-2500&micro;m x 2500&micro;m
-
-
-
-&nbsp;
-
-[https://zenodo.org/records/14937632](https://zenodo.org/records/14937632)
-
-[https://doi.org/10.5281/zenodo.14937632](https://doi.org/10.5281/zenodo.14937632)
-
-
----
-
-## Reconstructed images of a 2DSIM multiposition acquisition.
-
-Louis Romette
-
-Published 2025-02-19
+Published 2025-03-04
 
 Licensed CC-BY-4.0
 
 
 
-Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with 30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin. Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed multiposition acquisition (10 positions). Uploaded to show a probable issue with Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static noise.&nbsp;
+With this file the problem addressed in PR#4284 can be reproduced: when runningbfconvert -series 4 -channel 0 2025_01_27__0007_offline_Zen_3_9_5.czi output.png
+the result is garbled.
 
-[https://zenodo.org/records/14893791](https://zenodo.org/records/14893791)
+[https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
-[https://doi.org/10.5281/zenodo.14893791](https://doi.org/10.5281/zenodo.14893791)
+[https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
 
 
 ---
 
-## Training Computational Skills in the Age of AI
+## Workflow for user introduction into microscopy, OMERO and data management at Center for Advanced imaging
 
-Robert Haase
+Ksenia Krooß, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Stefanie Weidtkamp-Peters
 
-Published 2024-11-06
+Published 2025-03-07
 
 Licensed CC-BY-4.0
 
 
 
-Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml;sseldorf, Germany, we have established a workflow to guide users through all aspects of bioimaging. The process begins with an initial consultation with our imaging specialists regarding microscopy techniques for their specific project. Users then receive training in microscope operation, ensuring they can handle the equipment effectively. If needed, our specialists also provide support in image analysis. Next, we introduce users to OMERO, highlighting its features and the advantages of using a bioimage data management system. They are then trained to structure and annotate their data within OMERO according to the Recommended Metadata for Biological Images (REMBI), taking their specific research topics into account. As users prepare for data publication, we assist with data organization and repository uploads. Our goal is to educate researchers in managing bioimage data&nbsp;throughout its entire lifecycle, with a strong emphasis on the FAIR (findable, accessible, interoperable, reusable) principles.
 
-[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+[https://zenodo.org/records/14988921](https://zenodo.org/records/14988921)
 
-[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+[https://doi.org/10.5281/zenodo.14988921](https://doi.org/10.5281/zenodo.14988921)
 
 
 ---
 
-## napari-scipy2025-workshop
+## [N4BI AHM] Welcome to BioImage Town
 
-Draga Doncila Pop
+Josh Moore
 
-Published 2025-02-28T23:41:10+00:00
+Published 2023-10-16
 
-Licensed BSD-3-CLAUSE
+Licensed CC-BY-4.0
 
 
 
-This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
+Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Python, Napari
+[https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
-Content type: Github Repository
+[https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
 
-[https://github.com/DragaDoncila/napari-scipy2025-workshop](https://github.com/DragaDoncila/napari-scipy2025-workshop)
+
+---
+
+## [Workshop] Managing FAIR microscopy data at scale for universities and research institutions: an introduction for non-imaging stakeholders
+
+Christian Schmidt, Michele Bortolomeazzi, Ksenia Krooß, Jan-Philipp Mallm, Elisa Ferrando-May, Stefanie Weidtkamp-Peters
+
+Published 2025-03-14
+
+Licensed CC-BY-4.0
+
+
+
+These slides were used in a workshop at the 2025 E-Science Tage in Heidelberg.
+Workshop Abstract:
+Effective Research Data Management (RDM) requires collaboration between infrastructure providers, support units, and domain-specific experts across scientific disciplines. Microscopy, or bioimaging, is a widely used technology at universities and research institutions, generating large, multi-dimensional datasets. Scientists now routinely produce microscopy data using advanced imaging modalities, often through centrally-provided instruments maintained by core facilities.
+Bioimaging data management presents unique challenges: files are often large (e.g., 15+ GB for whole slide images), come in various proprietary formats, and are accessed frequently for viewing as well as for complex image processing and analysis workflows. Collaboration between experimenters, clinicians, group leaders, core facility staff, and image analysts adds to the complexity, increasing the risk of data fragmentation and metadata loss.
+The DFG-funded project I3D:bio and the consortium NFDI4BIOIMAGE, part of Germany&rsquo;s National Research Data Infrastructure (NFDI), are addressing these challenges by developing solutions and best practices for managing large, complex microscopy datasets. This workshop introduces the challenges of bioimaging RDM to institutional support personnel, including, for example, library staff, IT departments, and data stewards. Participants will explore the bioimaging RDM system OMERO, and apply structured metadata annotation and object-oriented data organization to a simple training dataset. OMERO offers centralized, secure access to data, allowing collaboration and reducing the data fragementation risk. Moreover, participants will experience the benefits of OME-Zarr, a chunked open file format designed for FAIR data sharing and remote access. OME-Zarr enables streaming of large, N-dimensional array-typed data over the Internet without the need to download whole files. An expanding toolbox for leveraging OME-Zarr for bioimaging data renders this file type a promising candidate for a standard file format suitable for use in FAIR Digital Object (FDO) implementations for microscopy data. OME-Zarr has become a pillar for imaging data sharing in two bioimaging-specific data repositories, i.e., the Image Data Resource (IDR) and the BioImage Archive (BIA). The team of Data Stewards from both abovenmentioned projects help researchers and research support staff to manage und publish bioimaging data.
+By the end of the workshop, participants will have gained hands-on experience with bioimaging data and will be aware of support resources like the NFDI4BIOIMAGE Help Desk for addressing specific local use cases. Our goal is to promote collaboration across disciplines to effectively manage complex bioimaging data in compliance with the FAIR principles.
+&nbsp;
+
+
+
+
+
+
+
+
+
+[https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
+
+[https://doi.org/10.5281/zenodo.15026373](https://doi.org/10.5281/zenodo.15026373)
+
+
+---
+
+## imaris file not read by bfGetReader()
+
+Julien Dubrulle
+
+Published 2025-03-10
+
+Licensed CC-BY-4.0
+
+
+
+This file cannot be read by bfGetReader() v8.1.1 on a Windows operating workstation.
+
+[https://zenodo.org/records/15001649](https://zenodo.org/records/15001649)
+
+[https://doi.org/10.5281/zenodo.15001649](https://doi.org/10.5281/zenodo.15001649)
 
 
 ---
