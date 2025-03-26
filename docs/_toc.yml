@@ -35,4 +35,5 @@ parts:
     chapters:
     - file: statistics/readme
     - file: export/readme
+    - file: gdpr_compliance
     - file: imprint
