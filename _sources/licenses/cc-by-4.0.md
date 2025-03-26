@@ -1,4 +1,4 @@
-# Cc-by-4.0 (266)
+# Cc-by-4.0 (267)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -5477,6 +5477,29 @@ Artificial intelligence (AI) and large language models (LLMs) are changing the w
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
 [https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+
+
+---
+
+## TrendsInMicroscopy2025
+
+Marcelo Zoccoler, Johannes Soltwedel
+
+Published 2025-03-10T13:42:57+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course contents for biapol course at Trends in Microscopy conference 2025
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/TrendsInMicroscopy_2025/](https://biapol.github.io/TrendsInMicroscopy_2025/)
+
+[https://github.com/BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)
 
 
 ---

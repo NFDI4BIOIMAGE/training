@@ -1,4 +1,4 @@
-# Bioimage analysis (186)
+# Bioimage analysis (187)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2815,6 +2815,29 @@ Licensed UNKNOWN
 Tags: Artificial Intelligence, Bioimage Analysis
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
+## TrendsInMicroscopy2025
+
+Marcelo Zoccoler, Johannes Soltwedel
+
+Published 2025-03-10T13:42:57+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course contents for biapol course at Trends in Microscopy conference 2025
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/TrendsInMicroscopy_2025/](https://biapol.github.io/TrendsInMicroscopy_2025/)
+
+[https://github.com/BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)
 
 
 ---

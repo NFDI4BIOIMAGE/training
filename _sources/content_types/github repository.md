@@ -1,4 +1,4 @@
-# Github repository (54)
+# Github repository (55)
 ## Advanced scripting with Fiji
 
 Joran Deschamps, Damian Dalle Nogare
@@ -591,6 +591,29 @@ Tags: Statistics
 Content type: Github Repository
 
 [https://github.com/rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024)
+
+
+---
+
+## TrendsInMicroscopy2025
+
+Marcelo Zoccoler, Johannes Soltwedel
+
+Published 2025-03-10T13:42:57+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course contents for biapol course at Trends in Microscopy conference 2025
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/TrendsInMicroscopy_2025/](https://biapol.github.io/TrendsInMicroscopy_2025/)
+
+[https://github.com/BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)
 
 
 ---

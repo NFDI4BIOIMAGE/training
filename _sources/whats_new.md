@@ -86,23 +86,6 @@ Abstract: This webinar will introduce the Galaxy Image Analysis Community and hi
 
 ---
 
-## Leica (.lif) file with errors in channel order when imported with Bio-formats
-
-Areli Rodriguez
-
-Published 2025-02-26
-
-
-
-The blue and red channels get swapped when imported with Bio-formats. Happens consistently with .lif imports in QuPath and ImageJ.
-
-[https://zenodo.org/records/14933318](https://zenodo.org/records/14933318)
-
-[https://doi.org/10.5281/zenodo.14933318](https://doi.org/10.5281/zenodo.14933318)
-
-
----
-
 ## Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)
 
 Jürgen Bohl
@@ -119,6 +102,29 @@ the result is garbled.
 [https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
 [https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
+
+
+---
+
+## TrendsInMicroscopy2025
+
+Marcelo Zoccoler, Johannes Soltwedel
+
+Published 2025-03-10T13:42:57+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Course contents for biapol course at Trends in Microscopy conference 2025
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://biapol.github.io/TrendsInMicroscopy_2025/](https://biapol.github.io/TrendsInMicroscopy_2025/)
+
+[https://github.com/BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)
 
 
 ---
