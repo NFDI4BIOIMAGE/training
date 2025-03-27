@@ -10980,3 +10980,17 @@ resources:
   - https://doi.org/10.5281/zenodo.14968770
 
 
+
+- authors:
+  - Chu, Wei-Chen
+  description: 'Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei
+    (Lesson_04)Video Recording (in Mandarin): https://www.youtube.com/watch?v=uheSMSENnzE'
+  license: cc-by-4.0
+  name: Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event)
+  num_downloads: 127
+  publication_date: '2025-03-23'
+  submission_date: '2025-03-27T06:49:57.905428'
+  url:
+  - https://zenodo.org/records/15070246
+  - https://doi.org/10.5281/zenodo.15070246
+  
