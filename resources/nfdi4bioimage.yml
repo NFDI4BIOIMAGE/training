@@ -10030,3 +10030,15 @@ resources:
   url:
   - https://zenodo.org/records/14769820
   - https://doi.org/10.5281/zenodo.14769820
+
+- authors: Nfdi4Bioimage
+  license: UNKNOWN
+  name: NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+  tags:
+  - BioImage Analysis
+  - Research Data Management
+  - nfdi4bioimage
+  type:
+  - Collection 
+  url: https://nfdi4bioimage.de/home/
+
