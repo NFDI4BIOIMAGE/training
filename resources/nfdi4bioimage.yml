@@ -5271,7 +5271,7 @@ resources:
   - Publication
   publication_date: '2018-05-17'
   url: https://www.nature.com/articles/s41431-018-0160-0
-- license: CC-BY-SA-4.0
+- license: UNKNOWN
   name: Data management at France BioImaging
   tags:
   - Research Data Management
@@ -5280,8 +5280,8 @@ resources:
   type:
   - Slides
   - Presentation
-  publication_date: '2023-07-05'
-  url: https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide
+  publication_date: '2024-29-05'
+  url: https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf 
 - description: Explore fundamental topics on research data management (RDM), how DataPLANT
     implements these aspects to support plant researchers with RDM tools and services,
     read guides and manuals or search for some teaching materials.
