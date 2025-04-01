@@ -10980,3 +10980,36 @@ resources:
   - https://doi.org/10.5281/zenodo.14968770
 
 
+- authors:
+  - Moore, Josh
+  - Kunis, Susanne
+  description: Presentation given to the Search &amp; Harvesting workgroup of the
+    Metadata section of NFDI on March 25th, 2025
+  license: cc-by-4.0
+  name: Metadata in Bioimaging
+  num_downloads: 9
+  publication_date: '2025-03-25'
+  submission_date: '2025-04-01T11:19:54.656989'
+  url:
+  - https://zenodo.org/records/15083018
+  - https://doi.org/10.5281/zenodo.15083018
+- authors:
+  - Massei, Riccardo
+  - Bernt, Matthias
+  - Kostrykin, Leonid
+  - Bumberger, Jan
+  description: Imaging plays a crucial role across various scientific disciplines,
+    particularly in life sciences. However, image data often proves complex, and the
+    volume of images requiring analysis is steadily increasing, especially in high-content
+    screening (HCS) experiments involving cell lines or other organisms. Specifically,
+    analysis pipelines must align to the FAIR principles, ensuring they are reusable
+    and interchangeable across different domains
+  license: mit-license
+  name: Building FAIR image analysis pipelines for high-content-screening (HCS) data
+    using Galaxy
+  num_downloads: 9
+  publication_date: '2024-05-14'
+  submission_date: '2025-04-01T11:19:55.125039'
+  url:
+  - https://zenodo.org/records/15047849
+  - https://doi.org/10.5281/zenodo.15047849
