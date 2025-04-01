@@ -1,4 +1,4 @@
-# Josh moore (27)
+# Josh moore (28)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -48,6 +48,25 @@ Tags: Bioimage Analysis, Open Science, Microscopy
 Content type: Publication
 
 [https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
+
+
+---
+
+## Metadata in Bioimaging
+
+Josh Moore, Susanne Kunis
+
+Published 2025-03-25
+
+Licensed CC-BY-4.0
+
+
+
+Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
+
+[https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
+
+[https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
 
 
 ---

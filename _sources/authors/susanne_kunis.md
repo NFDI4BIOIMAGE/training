@@ -1,4 +1,4 @@
-# Susanne kunis (16)
+# Susanne kunis (17)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -69,6 +69,25 @@ Tags: Research Data Management, Metadata
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01288-z](https://www.nature.com/articles/s41592-021-01288-z)
+
+
+---
+
+## Metadata in Bioimaging
+
+Josh Moore, Susanne Kunis
+
+Published 2025-03-25
+
+Licensed CC-BY-4.0
+
+
+
+Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
+
+[https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
+
+[https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
 
 
 ---

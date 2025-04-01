@@ -1,4 +1,4 @@
-# Cc-by-4.0 (267)
+# Cc-by-4.0 (268)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3601,6 +3601,25 @@ Short presentation given at at PoL BioImage Analysis Symposium Dresden 2023
 [https://zenodo.org/records/8314968](https://zenodo.org/records/8314968)
 
 [https://doi.org/10.5281/zenodo.8314968](https://doi.org/10.5281/zenodo.8314968)
+
+
+---
+
+## Metadata in Bioimaging
+
+Josh Moore, Susanne Kunis
+
+Published 2025-03-25
+
+Licensed CC-BY-4.0
+
+
+
+Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
+
+[https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
+
+[https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
 
 
 ---

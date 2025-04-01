@@ -1,4 +1,4 @@
-# Mit (27)
+# Mit (28)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -14,6 +14,25 @@ Tags: Workflow Engine, Artificial Intelligence, Python
 Content type: Documentation
 
 [https://bioimage-io.github.io/bioengine/#/](https://bioimage-io.github.io/bioengine/#/)
+
+
+---
+
+## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
+
+Riccardo Massei, Matthias Bernt, Leonid Kostrykin, Jan Bumberger
+
+Published 2024-05-14
+
+Licensed MIT
+
+
+
+Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
+
+[https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
+
+[https://doi.org/10.5281/zenodo.15047849](https://doi.org/10.5281/zenodo.15047849)
 
 
 ---

@@ -1,4 +1,4 @@
-# Recently added (10)
+# Recently added (9)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -55,33 +55,21 @@ Licensed CC-BY-4.0
 
 ---
 
-## Image Analysis using Galaxy
+## Metadata in Bioimaging
 
-Beatriz Serrano-Solano, Leonid Kostrykin, Anne Fouilloux, Riccardo Massei
+Josh Moore, Susanne Kunis
 
-Published 2025-02-28
+Published 2025-03-25
 
 Licensed CC-BY-4.0
 
 
 
-GloBIAS seminar series
-&nbsp;
-Part 3 in the topic:&nbsp;
-Infrastructure for deploying image analysis workflows
-Image analysis using Galaxy
+Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
 
-Beatrix Serrano-Solano, Euro-BioImaging ERIC Bio-Hub, EMBL Heidelberg, Germany
-&amp; Anne Fouilloux , Simula Research Laboratory, Oslo, Norway
-&amp; Leonid Kostrykin, Biomedical Computer Vision Group, Heidelberg University, BioQuant, IPMB, Heidelberg, Germany
-&amp; Ricardo Massei, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
-Abstract: This webinar will introduce the Galaxy Image Analysis Community and highlight our mission to advance the development of FAIR and reproducible image analysis workflows. As part of our commitment to making image data analysis more accessible and collaborative, we will showcase how Galaxy can serve the imaging community. The session will explore Galaxy&rsquo;s capabilities for integrating popular image analysis tools, interactive environments, and notebooks, making it a versatile platform for researchers across various scientific domains. We will also present how Galaxy facilitates the creation and sharing of reusable workflows, promoting open science and fostering collaboration. To give participants hands-on insight, we&rsquo;ll provide a live demonstration on designing and running image analysis workflows within Galaxy.&nbsp;
+[https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
-&nbsp;
-
-[https://zenodo.org/records/14944040](https://zenodo.org/records/14944040)
-
-[https://doi.org/10.5281/zenodo.14944040](https://doi.org/10.5281/zenodo.14944040)
+[https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
 
 
 ---
@@ -102,29 +90,6 @@ the result is garbled.
 [https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
 [https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
-
-
----
-
-## TrendsInMicroscopy2025
-
-Marcelo Zoccoler, Johannes Soltwedel
-
-Published 2025-03-10T13:42:57+00:00
-
-Licensed CC-BY-4.0
-
-
-
-Course contents for biapol course at Trends in Microscopy conference 2025
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository
-
-[https://biapol.github.io/TrendsInMicroscopy_2025/](https://biapol.github.io/TrendsInMicroscopy_2025/)
-
-[https://github.com/BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)
 
 
 ---
