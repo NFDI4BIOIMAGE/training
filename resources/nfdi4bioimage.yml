@@ -10225,6 +10225,96 @@ resources:
   - Publication
   url: https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in
 
+- authors: 
+  - Peter Bajcsy
+  - Sreenivas Bhattiprolu
+  - Katy Boerner
+  - Beth A Cimini
+  - Lucy Collinson 
+  - Jan Ellenberg
+  - Reto Fiolka
+  - Maryellen Giger
+  - Wojtek Goscinski
+  - Matthew Hartley
+  - Nathan Hotaling
+  - Rick Horwitz
+  - Florian Jug
+  - Anna Kreshuk
+  - Emma Lundberg
+  - Aastha Mathur
+  - Kedar Narayan
+  - Shuichi Onami
+  - Anne L. Plant
+  - Fred Prior
+  - Jason Swedlow,
+  - Adam Taylor
+  - Antje Keppler
+  description: "Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). "
+  license: CC-BY-NC-SA-4.0 International
+  name: Enabling Global Image Data Sharing in the Life Sciences
+  publication_date: '2024-01-23'
+  tags:
+  - Research Data Management
+  type:
+  - Publication
+  url: https://arxiv.org/abs/2401.13023
+
+- authors: 
+  - Nikki Bialy
+  - Frank Alber
+  - Brenda Andrews
+  - Michael Angelo
+  - Brian Beliveau
+  - Lacramioara Bintu
+  - Alistair Boettiger
+  - Ulrike Boehm
+  - Claire M. Brown
+  - Mahmoud Bukar Maina
+  - James J. Chambers
+  - Beth A. Cimini
+  - Kevin Eliceiri
+  - Rachel Errington
+  - Orestis Faklaris
+  - Nathalie Gaudreault
+  - Ronald N. Germain
+  - Wojtek Goscinski
+  - David Grunwald
+  - Michael Halter
+  - Dorit Hanein
+  - John W. Hickey
+  - Judith Lacoste
+  - Alex Laude
+  - Emma Lundberg
+  - Jian Ma
+  - Leonel Malacrida
+  - Josh Moore
+  - Glyn Nelson
+  - Elizabeth Kathleen Neumann
+  - Roland Nitschke
+  - Shuichi Onami
+  - Jaime A. Pimentel
+  - Anne L. Plant
+  - Andrea J. Radtke
+  - Bikash Sabata
+  - Denis Schapiro
+  - Johannes Schöneberg
+  - Jeffrey M. Spraggins
+  - Damir Sudar
+  - Wouter-Michiel Adrien Maria Vierdag
+  - Niels Volkmann
+  - Carolina Wählby
+  - Siyuan (Steven)Wang
+  - Ziv Yaniv
+  - Caterina Strambio-De-Castillia
+  description: "Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated."
+  license: CC-BY-NC-SA-4.0 International
+  name: Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data
+  publication_date: '2024-08-30'
+  tags:
+  - Research Data Management
+  type:
+  - Publication
+  url: https://arxiv.org/abs/2401.13022
 
 
 
