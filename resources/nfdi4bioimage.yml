@@ -10138,7 +10138,7 @@ resources:
   - Sebastian Schaaf
   - Bjoern Gruening
   description: "The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture."
-  license: CC-BY-4.0
+  license: CC-BY-4.0 
   name: Conda, Container and Bots - How to Build and Maintain Tool Dependencies in Workflows and Training Materials
   publication_date: '2023-09-07'
   tags:
@@ -10162,14 +10162,68 @@ resources:
   url: https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756
 
 - authors: 
-  description:
-  license:
-  name: 
-  publication_date: 
+  - Anett Jannasch
+  - Silke Tulok
+  - Chukwuebuka William Okafornta
+  - Thomas Kugel
+  - Michele Bortolomeazzi
+  - Tom Boissonnet
+  - Christian Schmidt
+  - Andy Vogelsang
+  description: "Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. "
+  license: CC-BY-4.0
+  name: Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+  publication_date: '2024-09-14'
   tags:
+  - OMERO
+  - Bioimage Analysis
   type:
-  url: 
+  - Publication
+  url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360
 
+- authors: 
+  - Beth A. Cimini
+  - Peter Bankhead
+  - Rocco D' Antuono
+  - Elnaz Fazeli
+  - Julia Fernandez-Rondriguez
+  - Caterina Fuster-Barcelo
+  - Robert Haase
+  - Helena Klara Jambor
+  - Martin L. Jones
+  - Florian Jug
+  - Anna H. Klemm
+  - Anna Kreshuk
+  - Stefania Marcotti
+  - Gabriel G. Martins 
+  - Sara Mc Ardle
+  - Kota Miura
+  - Arrate Muñoz-Barrutia 
+  - Laura C. Murphy 
+  - Michael S. Nelson 
+  - Simon F. Nørrelykke 
+  - Perrine Paul-Gilloteaux 
+  - Thomas Pengo 
+  - Joanna W. Pylvänäinen 
+  - Lior Pytowski 
+  - Arianna Ravera 
+  - Annika Reinke 
+  - Yousr Rekik 
+  - Caterina Strambio-De-Castillia 
+  - Daniel Thédié 
+  - Virginie Uhlmann 
+  - Oliver Umney 
+  - Laura Wiggins 
+  - Kevin W. Eliceiri 
+  description: "Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions"
+  license: CC-BY-4.0
+  name: The crucial role of bioimage analysts in scientific research and publication 
+  publication_date: '2024-10-30'
+  tags:
+  - Bioimage Analysis
+  type:
+  - Publication
+  url: https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in
 
 
 
