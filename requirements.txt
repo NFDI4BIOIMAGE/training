@@ -6,3 +6,6 @@ pandas
 pygithub
 toolz
 pypdfium2
+lxml
+
+
