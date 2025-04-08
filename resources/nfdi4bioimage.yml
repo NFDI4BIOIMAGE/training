@@ -11013,3 +11013,27 @@ resources:
   url:
   - https://zenodo.org/records/15047849
   - https://doi.org/10.5281/zenodo.15047849
+- authors:
+  - Marin, Zach
+  description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
+  license: cc-by-4.0
+  name: Beads imaged over time
+  num_downloads: 0
+  publication_date: '2025-04-04'
+  submission_date: '2025-04-08T11:20:17.403001'
+  url:
+  - https://zenodo.org/records/15150937
+  - https://doi.org/10.5281/zenodo.15150937
+- authors:
+  - Walther, Christa
+  description: This document reports on the first in-person workshop supported by
+    GloBIAS. Each session has its own chapter provided by the people chairing the
+    sessions, summarising the outputs achieved.&nbsp;
+  license: cc-by-4.0
+  name: GloBIAS in-person workshop 2024
+  num_downloads: 22
+  publication_date: '2025-04-07'
+  submission_date: '2025-04-08T11:20:26.190624'
+  url:
+  - https://zenodo.org/records/15168241
+  - https://doi.org/10.5281/zenodo.15168241
