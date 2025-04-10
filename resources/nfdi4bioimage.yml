@@ -11013,3 +11013,22 @@ resources:
   url:
   - https://zenodo.org/records/15047849
   - https://doi.org/10.5281/zenodo.15047849
+
+- authors:
+  - Wei Ouyang
+  - Wanlu Lei
+  - "Caterina Fuster-Barcel\xF3"
+  - Gabe Reder
+  - arratemunoz
+  - Weize
+  - Curtis Rueden
+  - Matt McCormick
+  description: Your Personal Assistant in Computational Bioimaging.
+  license: MIT License
+  name: bioimageio-chatbot
+  publication_date: '2023-10-10T16:05:49+00:00'
+  submission_date: '2025-04-10T09:13:40.282163'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/bioimage-io/bioimageio-chatbot
+  
