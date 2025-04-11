@@ -63,19 +63,23 @@ def check_url(url):
             elif response.status_code == 429:
                 return f"✅ {url} is rate-limited (429), considering it reachable."
             elif response.status_code in [403, 404]:
-                return f"❌ {url} returned status {response.status_code}. It may be blocking bots. (Attempt {attempt})"
+                # These are usually persistent issues, but maybe retry could help
+                # so we don't return immediately—just log and try again
+                pass
             else:
-                return f"❌ {url} returned status {response.status_code} (Attempt {attempt})"
+                # Same here—only log, don’t return yet
+                pass
         except requests.exceptions.ConnectionError:
-            return f"❌ {url} is unreachable (Connection Error) (Attempt {attempt})"
+            pass  # Try again
         except requests.exceptions.Timeout:
-            return f"❌ {url} is unreachable (Timeout) (Attempt {attempt})"
+            pass  # Try again
         except requests.exceptions.RequestException as e:
-            return f"❌ {url} failed due to {e} (Attempt {attempt})"
-        
+            pass  # Try again
+
         # Wait before retrying
         time.sleep(random.uniform(1, 3))
 
+    # If we got here, all attempts failed
     return f"❌ {url} is unreachable after {max_retries} attempts."
 
 def log_results(results):
