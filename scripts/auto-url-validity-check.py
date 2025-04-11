@@ -64,16 +64,17 @@ def check_url(url):
     for attempt in range(1, max_retries + 1):
         try:
             response = requests.get(url, headers=headers, timeout=5, allow_redirects=True)
+            status = response.status_code
 
-            if response.status_code == 200:
+            if status == 200:
                 return f"✅ {url} is reachable (Attempt {attempt})"
-            elif response.status_code in [404, 410]:
-                return f"❌ {url} returned {response.status_code} (Attempt {attempt})"
-            elif response.status_code == 429:
+            elif status == 429:
                 return f"✅ {url} is rate-limited (429), considering it reachable."
+            elif status in (404, 410):
+                return f"❌ {url} returned {status} (Attempt {attempt})"
             else:
-                last_error = f"{url} returned status {response.status_code} (Attempt {attempt}), final URL: {response.url}"
-                # Don't return, just try again
+                last_error = f"{url} returned status {status} (Attempt {attempt}), final URL: {response.url}"
+
         except requests.exceptions.SSLError as e:
             last_error = f"{url} SSL Error: {e}"
         except requests.exceptions.ConnectionError as e:
@@ -85,8 +86,8 @@ def check_url(url):
 
         time.sleep(random.uniform(1, 3))
 
-    # Only log as a fail if it's a hard 404/410 or all retries failed
-    if "returned 404" in last_error or "returned 410" in last_error:
+    # Final classification
+    if any(code in last_error for code in ["returned 404", "returned 410"]):
         return f"❌ {last_error}"
     else:
         return f"⚠️ {url} is potentially reachable but failed after {max_retries} attempts. Last error: {last_error}"
