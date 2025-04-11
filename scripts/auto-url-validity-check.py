@@ -49,38 +49,47 @@ def extract_urls(file_path):
     return urls
 
 def check_url(url):
-    """Check if a URL is reachable with retries and logging."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/91.0.4472.124 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://www.google.com"
     }
 
+    last_error = ""
     for attempt in range(1, max_retries + 1):
         try:
             response = requests.get(url, headers=headers, timeout=5, allow_redirects=True)
-            
+
             if response.status_code == 200:
                 return f"✅ {url} is reachable (Attempt {attempt})"
+            elif response.status_code in [404, 410]:
+                return f"❌ {url} returned {response.status_code} (Attempt {attempt})"
             elif response.status_code == 429:
                 return f"✅ {url} is rate-limited (429), considering it reachable."
-            elif response.status_code in [403, 404]:
-                # These are usually persistent issues, but maybe retry could help
-                # so we don't return immediately—just log and try again
-                pass
             else:
-                # Same here—only log, don’t return yet
-                pass
-        except requests.exceptions.ConnectionError:
-            pass  # Try again
+                last_error = f"{url} returned status {response.status_code} (Attempt {attempt}), final URL: {response.url}"
+                # Don't return, just try again
+        except requests.exceptions.SSLError as e:
+            last_error = f"{url} SSL Error: {e}"
+        except requests.exceptions.ConnectionError as e:
+            last_error = f"{url} Connection Error: {e}"
         except requests.exceptions.Timeout:
-            pass  # Try again
+            last_error = f"{url} Timeout"
         except requests.exceptions.RequestException as e:
-            pass  # Try again
+            last_error = f"{url} failed: {e}"
 
-        # Wait before retrying
         time.sleep(random.uniform(1, 3))
 
-    # If we got here, all attempts failed
-    return f"❌ {url} is unreachable after {max_retries} attempts."
+    # Only log as a fail if it's a hard 404/410 or all retries failed
+    if "returned 404" in last_error or "returned 410" in last_error:
+        return f"❌ {last_error}"
+    else:
+        return f"⚠️ {url} is potentially reachable but failed after {max_retries} attempts. Last error: {last_error}"
 
 def log_results(results):
     """Log results to a file."""
