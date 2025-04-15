@@ -1,4 +1,4 @@
-# Imagej (19)
+# Imagej (20)
 ## A Fiji Scripting Tutorial
 
 Albert Cardona
@@ -27,6 +27,30 @@ Tags: Imagej
 Content type: Publication, Poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## ABIC - Intermediate Fiji Image Analysis Course 2024
+
+Rensu Petrus Theart
+
+Licensed CC-BY-4.0
+
+
+
+A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
+
+
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+
+Content type: Workshop, Video, Document
+
+[https://www.youtube.com/playlist?list=PL0RrV4sTNwh2S9Lb7d1TzJWPGgdw_YVnb](https://www.youtube.com/playlist?list=PL0RrV4sTNwh2S9Lb7d1TzJWPGgdw_YVnb)
+
+[https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing](https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing)
+
+[https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0](https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0)
 
 
 ---
