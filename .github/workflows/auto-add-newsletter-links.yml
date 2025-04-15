@@ -2,7 +2,7 @@ name: Generate Newsletter Links
 
 on:
   schedule:
-    - cron: '0 0 4 9,3 *'  # Runs at midnight on the 4th of March and September
+    - cron: '0 0 4 9,5,3 *'  # Runs at midnight on the 4th of March, May and September
     # Runs at 8:00 AM UTC on the first Monday of every 2nd month
     #- cron: "0 8 * 1,3,5,7,9,11 1"
 
