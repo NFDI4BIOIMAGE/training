@@ -2,7 +2,7 @@ name: URL Validity Check
 
 on:
   schedule:
-    - cron: '0 0 4 * *'  # Runs at midnight (UTC) on the 4st day of every month
+    - cron: '0 0 4 9,5,3 *'  # Runs at midnight on the 4th of March and September
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
       - name: Extract Failing URLs
         run: |
           echo "Please be so kind to double-check the validity of the following urls:" > failing_urls.md
-          grep -E '❌' url_check_results.log >> failing_urls.md || echo "No issues found!" >> failing_urls.md
+          grep -E '❌|⚠️' url_check_results.log >> failing_urls.md || echo "No issues found!" >> failing_urls.md
 
       - name: Create GitHub Issue
         if: success()
