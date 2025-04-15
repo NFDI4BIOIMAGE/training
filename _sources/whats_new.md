@@ -1,21 +1,4 @@
 # Recently added (9)
-## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
-
-Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
-
-Published 2025-03-06
-
-Licensed CC-BY-4.0
-
-
-
-[https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
-
-[https://doi.org/10.5281/zenodo.14979253](https://doi.org/10.5281/zenodo.14979253)
-
-
----
-
 ## Beads imaged over time
 
 Zach Marin
@@ -53,23 +36,6 @@ In the present study, we proposed an automated analysis pipeline for storing, pr
 [https://zenodo.org/records/14909526](https://zenodo.org/records/14909526)
 
 [https://doi.org/10.5281/zenodo.14909526](https://doi.org/10.5281/zenodo.14909526)
-
-
----
-
-## Galaxy meets OMERO! Overview on the Galaxy OMERO-suite and Vizarr Viewer
-
-Riccardo Massei, Matthias Bernt, Beatriz Serrano-Solano, Lucille Lopez-Delisle, Jan Bumberger, Björn Grüning, Leonid Kostrykin
-
-Published 2025-03-05
-
-Licensed CC-BY-4.0
-
-
-
-[https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
-
-[https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
 
 
 ---
@@ -131,6 +97,25 @@ Presentation given to the Search &amp; Harvesting workgroup of the Metadata sect
 
 ---
 
+## Pasteur-BioImage-Analysis-Course-2025
+
+Jean-Yves Tinevez
+
+Published 2025-04-10T13:26:22+00:00
+
+
+
+Teaching materials and outline for the Pasteur Bioimage Analysis vour
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
+
+
+---
+
 ## Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)
 
 Jürgen Bohl
@@ -147,6 +132,27 @@ the result is garbled.
 [https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
 [https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
+
+
+---
+
+## bioimageio-chatbot
+
+Wei Ouyang, Wanlu Lei, Caterina Fuster-Barceló, Gabe Reder, arratemunoz, Weize, Curtis Rueden, Matt McCormick
+
+Published 2023-10-10T16:05:49+00:00
+
+Licensed MIT
+
+
+
+Your Personal Assistant in Computational Bioimaging.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
 
 
 ---

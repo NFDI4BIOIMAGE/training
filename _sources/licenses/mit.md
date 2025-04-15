@@ -1,4 +1,4 @@
-# Mit (28)
+# Mit (29)
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
@@ -491,6 +491,27 @@ Content type: Notebook, Collection
 [https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
 
 [https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+
+
+---
+
+## bioimageio-chatbot
+
+Wei Ouyang, Wanlu Lei, Caterina Fuster-Barceló, Gabe Reder, arratemunoz, Weize, Curtis Rueden, Matt McCormick
+
+Published 2023-10-10T16:05:49+00:00
+
+Licensed MIT
+
+
+
+Your Personal Assistant in Computational Bioimaging.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
 
 
 ---

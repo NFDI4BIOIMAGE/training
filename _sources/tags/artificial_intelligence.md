@@ -1,4 +1,4 @@
-# Artificial intelligence (44)
+# Artificial intelligence (45)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -760,6 +760,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## bioimageio-chatbot
+
+Wei Ouyang, Wanlu Lei, Caterina Fuster-Barceló, Gabe Reder, arratemunoz, Weize, Curtis Rueden, Matt McCormick
+
+Published 2023-10-10T16:05:49+00:00
+
+Licensed MIT
+
+
+
+Your Personal Assistant in Computational Bioimaging.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
 
 
 ---

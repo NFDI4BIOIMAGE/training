@@ -1,4 +1,4 @@
-# Github.com (133)
+# Github.com (135)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1420,6 +1420,25 @@ Content type: Github Repository
 
 ---
 
+## Pasteur-BioImage-Analysis-Course-2025
+
+Jean-Yves Tinevez
+
+Published 2025-04-10T13:26:22+00:00
+
+
+
+Teaching materials and outline for the Pasteur Bioimage Analysis vour
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
+
+
+---
+
 ## Plugin "omero-batch-plugin"
 
 Licensed GPL-2.0
@@ -1975,6 +1994,27 @@ Tags: Open Source Software
 Content type: Application, Github Repository
 
 [https://github.com/glencoesoftware/bioformats2raw](https://github.com/glencoesoftware/bioformats2raw)
+
+
+---
+
+## bioimageio-chatbot
+
+Wei Ouyang, Wanlu Lei, Caterina Fuster-Barceló, Gabe Reder, arratemunoz, Weize, Curtis Rueden, Matt McCormick
+
+Published 2023-10-10T16:05:49+00:00
+
+Licensed MIT
+
+
+
+Your Personal Assistant in Computational Bioimaging.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (188)
+# Bioimage analysis (190)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2444,6 +2444,25 @@ Content type: Book, Notebook
 
 ---
 
+## Pasteur-BioImage-Analysis-Course-2025
+
+Jean-Yves Tinevez
+
+Published 2025-04-10T13:26:22+00:00
+
+
+
+Teaching materials and outline for the Pasteur Bioimage Analysis vour
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
+
+
+---
+
 ## PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
 
 
@@ -3205,6 +3224,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
+
+
+---
+
+## bioimageio-chatbot
+
+Wei Ouyang, Wanlu Lei, Caterina Fuster-Barceló, Gabe Reder, arratemunoz, Weize, Curtis Rueden, Matt McCormick
+
+Published 2023-10-10T16:05:49+00:00
+
+Licensed MIT
+
+
+
+Your Personal Assistant in Computational Bioimaging.
+
+Tags: Artificial Intelligence, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
 
 
 ---
