@@ -1,4 +1,4 @@
-# Jens wendt (7)
+# Jens wendt (8)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -36,6 +36,25 @@ Tags: OMERO, Data Analysis, Bioimage Analysis
 Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
+
+
+---
+
+## Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+
+Lars Bernard, Maike Brück, Christian Busse, Judith Engel, Jan Eufinger, Frank Ewert, Juliane Fluck, Konrad Förstner, Julia Fürst, Holger Gauza, Klaus Getzlaff, Glöckner, Frank Oliver, Johannes Hunold, Oliver Koepler, Ksenia Krooß, Birte Lindstädt, McHardy, Alice C., Hela Mehrtens, Elena Rey-Mazon, Marcus Schmidt, Isabel Schober, Annett Schröter, Oliver Stegle, Christoph Steinbeck, Feray Steinhart, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Jens Wendt, Conni Wetzker
+
+Published 2025-04-02
+
+Licensed CC-BY-4.0
+
+
+
+In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+
+[https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
+
+[https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
 
 
 ---

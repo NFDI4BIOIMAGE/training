@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 595 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-04-15.
+This Jupyter Book contains 598 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-04-15.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (221 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)](https://zenodo.org/records/14968770) by "Bohl, Jürgen" (183 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (25 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Implantation of abdominal imaging windows on the mouse kidney](https://zenodo.org/records/13682928) by "Gerlach, Michael" (149 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [[N4BI AHM] Welcome to BioImage Town](https://zenodo.org/records/10008465) by "Moore, Josh" (23 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Large Language Models: An Introduction for Life Scientists](https://zenodo.org/records/14418209) by "Haase, Robert" (113 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 

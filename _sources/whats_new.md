@@ -16,6 +16,25 @@ Licensed CC-BY-4.0
 
 ---
 
+## Beads imaged over time
+
+Zach Marin
+
+Published 2025-04-04
+
+Licensed CC-BY-4.0
+
+
+
+DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
+
+[https://zenodo.org/records/15150937](https://zenodo.org/records/15150937)
+
+[https://doi.org/10.5281/zenodo.15150937](https://doi.org/10.5281/zenodo.15150937)
+
+
+---
+
 ## Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy
 
 Riccardo Massei, Matthias Berndt, Lucille Lopez-Delisle, Beatriz Serrano-Solano, Wibke Busch, Stefan Scholz, Hannes Bohring, Jo Nyffeler, Luise Reger, Jan Bumberger
@@ -55,6 +74,44 @@ Licensed CC-BY-4.0
 
 ---
 
+## GloBIAS in-person workshop 2024
+
+Christa Walther
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+This document reports on the first in-person workshop supported by GloBIAS. Each session has its own chapter provided by the people chairing the sessions, summarising the outputs achieved.&nbsp;
+
+[https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
+
+[https://doi.org/10.5281/zenodo.15168241](https://doi.org/10.5281/zenodo.15168241)
+
+
+---
+
+## Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+
+Lars Bernard, Maike Brück, Christian Busse, Judith Engel, Jan Eufinger, Frank Ewert, Juliane Fluck, Konrad Förstner, Julia Fürst, Holger Gauza, Klaus Getzlaff, Glöckner, Frank Oliver, Johannes Hunold, Oliver Koepler, Ksenia Krooß, Birte Lindstädt, McHardy, Alice C., Hela Mehrtens, Elena Rey-Mazon, Marcus Schmidt, Isabel Schober, Annett Schröter, Oliver Stegle, Christoph Steinbeck, Feray Steinhart, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Jens Wendt, Conni Wetzker
+
+Published 2025-04-02
+
+Licensed CC-BY-4.0
+
+
+
+In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+
+[https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
+
+[https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
+
+
+---
+
 ## Metadata in Bioimaging
 
 Josh Moore, Susanne Kunis
@@ -90,77 +147,6 @@ the result is garbled.
 [https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
 [https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
-
-
----
-
-## Workflow for user introduction into microscopy, OMERO and data management at Center for Advanced imaging
-
-Ksenia Krooß, Fuchs, Vanessa Aphaia Fiona, Tom Boissonnet, Stefanie Weidtkamp-Peters
-
-Published 2025-03-07
-
-Licensed CC-BY-4.0
-
-
-
-At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml;sseldorf, Germany, we have established a workflow to guide users through all aspects of bioimaging. The process begins with an initial consultation with our imaging specialists regarding microscopy techniques for their specific project. Users then receive training in microscope operation, ensuring they can handle the equipment effectively. If needed, our specialists also provide support in image analysis. Next, we introduce users to OMERO, highlighting its features and the advantages of using a bioimage data management system. They are then trained to structure and annotate their data within OMERO according to the Recommended Metadata for Biological Images (REMBI), taking their specific research topics into account. As users prepare for data publication, we assist with data organization and repository uploads. Our goal is to educate researchers in managing bioimage data&nbsp;throughout its entire lifecycle, with a strong emphasis on the FAIR (findable, accessible, interoperable, reusable) principles.
-
-[https://zenodo.org/records/14988921](https://zenodo.org/records/14988921)
-
-[https://doi.org/10.5281/zenodo.14988921](https://doi.org/10.5281/zenodo.14988921)
-
-
----
-
-## [N4BI AHM] Welcome to BioImage Town
-
-Josh Moore
-
-Published 2023-10-16
-
-Licensed CC-BY-4.0
-
-
-
-Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
-
-[https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
-
-[https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
-
-
----
-
-## [Workshop] Managing FAIR microscopy data at scale for universities and research institutions: an introduction for non-imaging stakeholders
-
-Christian Schmidt, Michele Bortolomeazzi, Ksenia Krooß, Jan-Philipp Mallm, Elisa Ferrando-May, Stefanie Weidtkamp-Peters
-
-Published 2025-03-14
-
-Licensed CC-BY-4.0
-
-
-
-These slides were used in a workshop at the 2025 E-Science Tage in Heidelberg.
-Workshop Abstract:
-Effective Research Data Management (RDM) requires collaboration between infrastructure providers, support units, and domain-specific experts across scientific disciplines. Microscopy, or bioimaging, is a widely used technology at universities and research institutions, generating large, multi-dimensional datasets. Scientists now routinely produce microscopy data using advanced imaging modalities, often through centrally-provided instruments maintained by core facilities.
-Bioimaging data management presents unique challenges: files are often large (e.g., 15+ GB for whole slide images), come in various proprietary formats, and are accessed frequently for viewing as well as for complex image processing and analysis workflows. Collaboration between experimenters, clinicians, group leaders, core facility staff, and image analysts adds to the complexity, increasing the risk of data fragmentation and metadata loss.
-The DFG-funded project I3D:bio and the consortium NFDI4BIOIMAGE, part of Germany&rsquo;s National Research Data Infrastructure (NFDI), are addressing these challenges by developing solutions and best practices for managing large, complex microscopy datasets. This workshop introduces the challenges of bioimaging RDM to institutional support personnel, including, for example, library staff, IT departments, and data stewards. Participants will explore the bioimaging RDM system OMERO, and apply structured metadata annotation and object-oriented data organization to a simple training dataset. OMERO offers centralized, secure access to data, allowing collaboration and reducing the data fragementation risk. Moreover, participants will experience the benefits of OME-Zarr, a chunked open file format designed for FAIR data sharing and remote access. OME-Zarr enables streaming of large, N-dimensional array-typed data over the Internet without the need to download whole files. An expanding toolbox for leveraging OME-Zarr for bioimaging data renders this file type a promising candidate for a standard file format suitable for use in FAIR Digital Object (FDO) implementations for microscopy data. OME-Zarr has become a pillar for imaging data sharing in two bioimaging-specific data repositories, i.e., the Image Data Resource (IDR) and the BioImage Archive (BIA). The team of Data Stewards from both abovenmentioned projects help researchers and research support staff to manage und publish bioimaging data.
-By the end of the workshop, participants will have gained hands-on experience with bioimaging data and will be aware of support resources like the NFDI4BIOIMAGE Help Desk for addressing specific local use cases. Our goal is to promote collaboration across disciplines to effectively manage complex bioimaging data in compliance with the FAIR principles.
-&nbsp;
-
-
-
-
-
-
-
-
-
-[https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
-
-[https://doi.org/10.5281/zenodo.15026373](https://doi.org/10.5281/zenodo.15026373)
 
 
 ---

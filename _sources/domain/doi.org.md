@@ -1,4 +1,4 @@
-# Doi.org (206)
+# Doi.org (209)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -373,6 +373,25 @@ Tags: OMERO, Workflow, Bioimage Analysis
 Content type: Publication
 
 [https://doi.org/10.1016/j.patter.2024.101024](https://doi.org/10.1016/j.patter.2024.101024)
+
+
+---
+
+## Beads imaged over time
+
+Zach Marin
+
+Published 2025-04-04
+
+Licensed CC-BY-4.0
+
+
+
+DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
+
+[https://zenodo.org/records/15150937](https://zenodo.org/records/15150937)
+
+[https://doi.org/10.5281/zenodo.15150937](https://doi.org/10.5281/zenodo.15150937)
 
 
 ---
@@ -1948,6 +1967,25 @@ Presentation :&nbsp; "Getting started with Python: intro and set-up a conda envi
 
 ---
 
+## GloBIAS in-person workshop 2024
+
+Christa Walther
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+This document reports on the first in-person workshop supported by GloBIAS. Each session has its own chapter provided by the people chairing the sessions, summarising the outputs achieved.&nbsp;
+
+[https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
+
+[https://doi.org/10.5281/zenodo.15168241](https://doi.org/10.5281/zenodo.15168241)
+
+
+---
+
 ## Guidance for Developing a Research Data Management (RDM) Policy
 
 Published 2017
@@ -3152,6 +3190,25 @@ This imagej macro analyses the reporter intensity activity and expression domain
 [https://zenodo.org/records/7409423](https://zenodo.org/records/7409423)
 
 [https://doi.org/10.5281/zenodo.7409423](https://doi.org/10.5281/zenodo.7409423)
+
+
+---
+
+## Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+
+Lars Bernard, Maike Brück, Christian Busse, Judith Engel, Jan Eufinger, Frank Ewert, Juliane Fluck, Konrad Förstner, Julia Fürst, Holger Gauza, Klaus Getzlaff, Glöckner, Frank Oliver, Johannes Hunold, Oliver Koepler, Ksenia Krooß, Birte Lindstädt, McHardy, Alice C., Hela Mehrtens, Elena Rey-Mazon, Marcus Schmidt, Isabel Schober, Annett Schröter, Oliver Stegle, Christoph Steinbeck, Feray Steinhart, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Jens Wendt, Conni Wetzker
+
+Published 2025-04-02
+
+Licensed CC-BY-4.0
+
+
+
+In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+
+[https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
+
+[https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
 
 
 ---

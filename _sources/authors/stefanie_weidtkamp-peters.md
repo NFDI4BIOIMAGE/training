@@ -1,4 +1,4 @@
-# Stefanie weidtkamp-peters (13)
+# Stefanie weidtkamp-peters (14)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -362,6 +362,25 @@ Tags: Research Data Management, Metadata
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01288-z](https://www.nature.com/articles/s41592-021-01288-z)
+
+
+---
+
+## Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+
+Lars Bernard, Maike Brück, Christian Busse, Judith Engel, Jan Eufinger, Frank Ewert, Juliane Fluck, Konrad Förstner, Julia Fürst, Holger Gauza, Klaus Getzlaff, Glöckner, Frank Oliver, Johannes Hunold, Oliver Koepler, Ksenia Krooß, Birte Lindstädt, McHardy, Alice C., Hela Mehrtens, Elena Rey-Mazon, Marcus Schmidt, Isabel Schober, Annett Schröter, Oliver Stegle, Christoph Steinbeck, Feray Steinhart, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Jens Wendt, Conni Wetzker
+
+Published 2025-04-02
+
+Licensed CC-BY-4.0
+
+
+
+In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+
+[https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
+
+[https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
 
 
 ---
