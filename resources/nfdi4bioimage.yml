@@ -10979,8 +10979,6 @@ resources:
   - https://zenodo.org/records/14968770
   - https://doi.org/10.5281/zenodo.14968770
 
-
-
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei
@@ -10994,3 +10992,157 @@ resources:
   - https://zenodo.org/records/15070246
   - https://doi.org/10.5281/zenodo.15070246
   
+- authors:
+  - Moore, Josh
+  - Kunis, Susanne
+  description: Presentation given to the Search &amp; Harvesting workgroup of the
+    Metadata section of NFDI on March 25th, 2025
+  license: cc-by-4.0
+  name: Metadata in Bioimaging
+  num_downloads: 9
+  publication_date: '2025-03-25'
+  submission_date: '2025-04-01T11:19:54.656989'
+  url:
+  - https://zenodo.org/records/15083018
+  - https://doi.org/10.5281/zenodo.15083018
+- authors:
+  - Massei, Riccardo
+  - Bernt, Matthias
+  - Kostrykin, Leonid
+  - Bumberger, Jan
+  description: Imaging plays a crucial role across various scientific disciplines,
+    particularly in life sciences. However, image data often proves complex, and the
+    volume of images requiring analysis is steadily increasing, especially in high-content
+    screening (HCS) experiments involving cell lines or other organisms. Specifically,
+    analysis pipelines must align to the FAIR principles, ensuring they are reusable
+    and interchangeable across different domains
+  license: mit-license
+  name: Building FAIR image analysis pipelines for high-content-screening (HCS) data
+    using Galaxy
+  num_downloads: 9
+  publication_date: '2024-05-14'
+  submission_date: '2025-04-01T11:19:55.125039'
+  url:
+  - https://zenodo.org/records/15047849
+  - https://doi.org/10.5281/zenodo.15047849
+
+- authors:
+  - Wei Ouyang
+  - Wanlu Lei
+  - "Caterina Fuster-Barcel\xF3"
+  - Gabe Reder
+  - arratemunoz
+  - Weize
+  - Curtis Rueden
+  - Matt McCormick
+  description: Your Personal Assistant in Computational Bioimaging.
+  license: MIT License
+  name: bioimageio-chatbot
+  publication_date: '2023-10-10T16:05:49+00:00'
+  submission_date: '2025-04-10T09:13:40.282163'
+  tags:
+  - artificial intelligence
+  - bioimage analysis
+  type: GitHub Repository
+  url: https://github.com/bioimage-io/bioimageio-chatbot
+ 
+
+- authors:
+  - Jean-Yves Tinevez
+  description: Teaching materials and outline for the Pasteur Bioimage Analysis vour
+  name: Pasteur-BioImage-Analysis-Course-2025
+  publication_date: '2025-04-10T13:26:22+00:00'
+  submission_date: '2025-04-10T15:06:24.589294'
+  tags: 
+  - bioimage analysis
+  type: GitHub Repository
+  url: https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025
+
+- authors:
+  - Rensu Petrus Theart
+  name: ABIC - Intermediate Fiji Image Analysis Course 2024
+  description: >
+    A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024. 
+    It includes a video lecture playlist, course documentation, and participant image files.
+  proficiency_level: intermediate
+  tags:
+  - Bioimage Analysis
+  - Image Processing
+  - Teaching Resource
+  - ImageJ
+  type:
+  - Workshop
+  - Video
+  - Document
+  url:
+  - https://www.youtube.com/playlist?list=PL0RrV4sTNwh2S9Lb7d1TzJWPGgdw_YVnb
+  - https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing
+  - https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0
+  license: CC-BY-4.0
+- authors:
+  - Bernard, Lars
+  - "Br\xFCck, Maike"
+  - Busse, Christian
+  - Engel, Judith
+  - Eufinger, Jan
+  - Ewert, Frank
+  - Fluck, Juliane
+  - "F\xF6rstner, Konrad"
+  - "F\xFCrst, Julia"
+  - Gauza, Holger
+  - Getzlaff, Klaus
+  - "Gl\xF6ckner, Frank Oliver"
+  - Hunold, Johannes
+  - Koepler, Oliver
+  - "Kroo\xDF, Ksenia"
+  - "Lindst\xE4dt, Birte"
+  - McHardy, Alice C.
+  - Mehrtens, Hela
+  - Rey-Mazon, Elena
+  - Schmidt, Marcus
+  - Schober, Isabel
+  - "Schr\xF6ter, Annett"
+  - Stegle, Oliver
+  - Steinbeck, Christoph
+  - Steinhart, Feray
+  - von Suchodoletz, Dirk
+  - Weidtkamp-Peters, Stefanie
+  - Wendt, Jens
+  - Wetzker, Conni
+  description: In a Memorandum of Understanding, the undersigned consortia agree to
+    work together to enhance their support capabilities (helpdesks) to meet the needs
+    of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+  license: cc-by-4.0
+  name: Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life
+    Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+  num_downloads: 113
+  publication_date: '2025-04-02'
+  submission_date: '2025-04-15T11:19:23.120722'
+  url:
+  - https://zenodo.org/records/15065070
+  - https://doi.org/10.5281/zenodo.15065070
+- authors:
+  - Marin, Zach
+  description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
+  license: cc-by-4.0
+  name: Beads imaged over time
+  num_downloads: 1
+  publication_date: '2025-04-04'
+  submission_date: '2025-04-15T11:20:21.288543'
+  url:
+  - https://zenodo.org/records/15150937
+  - https://doi.org/10.5281/zenodo.15150937
+- authors:
+  - Walther, Christa
+  description: This document reports on the first in-person workshop supported by
+    GloBIAS. Each session has its own chapter provided by the people chairing the
+    sessions, summarising the outputs achieved.&nbsp;
+  license: cc-by-4.0
+  name: GloBIAS in-person workshop 2024
+  num_downloads: 42
+  publication_date: '2025-04-07'
+  submission_date: '2025-04-15T11:20:33.775844'
+  url:
+  - https://zenodo.org/records/15168241
+  - https://doi.org/10.5281/zenodo.15168241
+
