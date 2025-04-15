@@ -11014,6 +11014,27 @@ resources:
   - https://zenodo.org/records/15047849
   - https://doi.org/10.5281/zenodo.15047849
 - authors:
+  - Rensu Petrus Theart
+  name: ABIC - Intermediate Fiji Image Analysis Course 2024
+  description: >
+    A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024. 
+    It includes a video lecture playlist, course documentation, and participant image files.
+  proficiency_level: intermediate
+  tags:
+  - Bioimage Analysis
+  - Image Processing
+  - Teaching Resource
+  - ImageJ
+  type:
+  - Workshop
+  - Video
+  - Document
+  url:
+  - https://www.youtube.com/playlist?list=PL0RrV4sTNwh2S9Lb7d1TzJWPGgdw_YVnb
+  - https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing
+  - https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0
+  license: CC-BY-4.0
+- authors:
   - Bernard, Lars
   - "Br\xFCck, Maike"
   - Busse, Christian
@@ -11079,3 +11100,4 @@ resources:
   url:
   - https://zenodo.org/records/15168241
   - https://doi.org/10.5281/zenodo.15168241
+
