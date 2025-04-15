@@ -11034,3 +11034,70 @@ resources:
   - https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing
   - https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0
   license: CC-BY-4.0
+- authors:
+  - Bernard, Lars
+  - "Br\xFCck, Maike"
+  - Busse, Christian
+  - Engel, Judith
+  - Eufinger, Jan
+  - Ewert, Frank
+  - Fluck, Juliane
+  - "F\xF6rstner, Konrad"
+  - "F\xFCrst, Julia"
+  - Gauza, Holger
+  - Getzlaff, Klaus
+  - "Gl\xF6ckner, Frank Oliver"
+  - Hunold, Johannes
+  - Koepler, Oliver
+  - "Kroo\xDF, Ksenia"
+  - "Lindst\xE4dt, Birte"
+  - McHardy, Alice C.
+  - Mehrtens, Hela
+  - Rey-Mazon, Elena
+  - Schmidt, Marcus
+  - Schober, Isabel
+  - "Schr\xF6ter, Annett"
+  - Stegle, Oliver
+  - Steinbeck, Christoph
+  - Steinhart, Feray
+  - von Suchodoletz, Dirk
+  - Weidtkamp-Peters, Stefanie
+  - Wendt, Jens
+  - Wetzker, Conni
+  description: In a Memorandum of Understanding, the undersigned consortia agree to
+    work together to enhance their support capabilities (helpdesks) to meet the needs
+    of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
+  license: cc-by-4.0
+  name: Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life
+    Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster
+  num_downloads: 113
+  publication_date: '2025-04-02'
+  submission_date: '2025-04-15T11:19:23.120722'
+  url:
+  - https://zenodo.org/records/15065070
+  - https://doi.org/10.5281/zenodo.15065070
+- authors:
+  - Marin, Zach
+  description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
+  license: cc-by-4.0
+  name: Beads imaged over time
+  num_downloads: 1
+  publication_date: '2025-04-04'
+  submission_date: '2025-04-15T11:20:21.288543'
+  url:
+  - https://zenodo.org/records/15150937
+  - https://doi.org/10.5281/zenodo.15150937
+- authors:
+  - Walther, Christa
+  description: This document reports on the first in-person workshop supported by
+    GloBIAS. Each session has its own chapter provided by the people chairing the
+    sessions, summarising the outputs achieved.&nbsp;
+  license: cc-by-4.0
+  name: GloBIAS in-person workshop 2024
+  num_downloads: 42
+  publication_date: '2025-04-07'
+  submission_date: '2025-04-15T11:20:33.775844'
+  url:
+  - https://zenodo.org/records/15168241
+  - https://doi.org/10.5281/zenodo.15168241
+
