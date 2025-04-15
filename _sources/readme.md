@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)](https://zenodo.org/records/14968770) by "Bohl, Jürgen" (183 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (64 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Implantation of abdominal imaging windows on the mouse kidney](https://zenodo.org/records/13682928) by "Gerlach, Michael" (149 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Collaborative Working and Version Control with git[hub]](https://zenodo.org/records/14626054) by "Haase, Robert" (50 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Large Language Models: An Introduction for Life Scientists](https://zenodo.org/records/14418209) by "Haase, Robert" (113 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Image Repository Decision Tree - Where do I deposit my imaging data](https://zenodo.org/records/13945179) by "Kemmer, Isabel and Romdhane, Feriel and Euro-BioImaging ERIC" (27 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
