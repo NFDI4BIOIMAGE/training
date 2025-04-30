@@ -1,4 +1,4 @@
-# Zenodo.org (197)
+# Zenodo.org (198)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -3613,6 +3613,23 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
 [https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
+
+
+---
+
+## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
+
+Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
+
+Published 2025-02-21
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
+
+[https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
 
 
 ---

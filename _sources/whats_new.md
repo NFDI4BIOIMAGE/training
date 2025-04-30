@@ -115,6 +115,23 @@ Presentation given to the Search &amp; Harvesting workgroup of the Metadata sect
 
 ---
 
+## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
+
+Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
+
+Published 2025-02-21
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
+
+[https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
+
+
+---
+
 ## Pasteur-BioImage-Analysis-Course-2025
 
 Jean-Yves Tinevez
@@ -171,25 +188,6 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Github Repository
 
 [https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
-
-
----
-
-## imaris file not read by bfGetReader()
-
-Julien Dubrulle
-
-Published 2025-03-10
-
-Licensed CC-BY-4.0
-
-
-
-This file cannot be read by bfGetReader() v8.1.1 on a Windows operating workstation.
-
-[https://zenodo.org/records/15001649](https://zenodo.org/records/15001649)
-
-[https://doi.org/10.5281/zenodo.15001649](https://doi.org/10.5281/zenodo.15001649)
 
 
 ---

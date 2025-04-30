@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (12)
+# Michele bortolomeazzi (13)
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -154,6 +154,23 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
+
+Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
+
+Published 2025-02-21
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
+
+[https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
 
 
 ---

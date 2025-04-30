@@ -1,4 +1,4 @@
-# Josh moore (28)
+# Josh moore (29)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -124,6 +124,23 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
 [https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
+
+
+---
+
+## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
+
+Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
+
+Published 2025-02-21
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
+
+[https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
 
 
 ---
