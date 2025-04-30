@@ -11135,6 +11135,24 @@ resources:
   - https://doi.org/10.5281/zenodo.15168241
 
 - authors:
+  - Dvoretskii, Stefan
+  - Bortolomeazzi, Michele
+  - Nolden, Marco
+  - Schmidt, Christian
+  - Maier-Hein, Klaus
+  - Moore, Josh
+  license: cc-by-4.0
+  name: 'OMExcavator: a tool for exporting and connecting domain-specific metadata
+    in a wider knowledge graph'
+  num_downloads: 41
+  publication_date: '2025-02-21'
+  submission_date: '2025-04-29T11:20:07.445623'
+  url:
+  - https://zenodo.org/records/15268798
+  - https://doi.org/10.5281/zenodo.15268798
+
+
+- authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in Portuguese.
   license: MIT License
