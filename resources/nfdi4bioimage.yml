@@ -11133,6 +11133,7 @@ resources:
   url:
   - https://zenodo.org/records/15168241
   - https://doi.org/10.5281/zenodo.15168241
+
 - authors:
   - Dvoretskii, Stefan
   - Bortolomeazzi, Michele
@@ -11149,3 +11150,18 @@ resources:
   url:
   - https://zenodo.org/records/15268798
   - https://doi.org/10.5281/zenodo.15268798
+
+
+- authors:
+  - Fernanda Fossa
+  description: Course about image analysis with materials in English and videos in Portuguese.
+  license: MIT License
+  name: 2023_CourseImageAnalysis_NanoCell
+  publication_date: '2023-08-24T10:15:11+00:00'
+  submission_date: '2025-04-30T06:55:25.155955'
+  tags:
+  - cell profiler
+  - bioimage analysis
+  type: GitHub Repository
+  url: https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
+  
