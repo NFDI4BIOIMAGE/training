@@ -115,6 +115,25 @@ Presentation given to the Search &amp; Harvesting workgroup of the Metadata sect
 
 ---
 
+## Modular training resources for bioimage analysis
+
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+
+Published 2025-01-21
+
+Licensed CC-BY-4.0
+
+
+
+The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
+
+[https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
+
+[https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
 
 Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
@@ -147,26 +166,6 @@ Tags: Bioimage Analysis
 Content type: Github Repository
 
 [https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
-
-
----
-
-## Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)
-
-Jürgen Bohl
-
-Published 2025-03-04
-
-Licensed CC-BY-4.0
-
-
-
-With this file the problem addressed in PR#4284 can be reproduced: when runningbfconvert -series 4 -channel 0 2025_01_27__0007_offline_Zen_3_9_5.czi output.png
-the result is garbled.
-
-[https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
-
-[https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
 
 
 ---

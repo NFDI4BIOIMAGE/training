@@ -3208,21 +3208,19 @@ Content type: Slides
 
 ## Modular training resources for bioimage analysis
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Sebastian Gonzalez Tirado, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
+Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
 
-Published 2024-12-03
+Published 2025-01-21
 
 Licensed CC-BY-4.0
 
 
 
-Resources for teaching/preparing to teach bioimage analysis
+The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
 
-Tags: Neubias, Bioimage Analysis
+[https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
-[https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
-
-[https://doi.org/10.5281/zenodo.14264885](https://doi.org/10.5281/zenodo.14264885)
+[https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
 
 
 ---
