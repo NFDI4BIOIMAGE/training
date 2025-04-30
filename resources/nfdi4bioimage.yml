@@ -11035,16 +11035,6 @@ resources:
   url: https://github.com/bioimage-io/bioimageio-chatbot
  
 
-- authors:
-  - Jean-Yves Tinevez
-  description: Teaching materials and outline for the Pasteur Bioimage Analysis vour
-  name: Pasteur-BioImage-Analysis-Course-2025
-  publication_date: '2025-04-10T13:26:22+00:00'
-  submission_date: '2025-04-10T15:06:24.589294'
-  tags: 
-  - bioimage analysis
-  type: GitHub Repository
-  url: https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025
 
 - authors:
   - Rensu Petrus Theart
