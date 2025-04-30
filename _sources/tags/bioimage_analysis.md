@@ -1,4 +1,4 @@
-# Bioimage analysis (190)
+# Bioimage analysis (191)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -33,6 +33,27 @@ Tags: Python, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/guiwitz/MICPy_Workshop_2022](https://github.com/guiwitz/MICPy_Workshop_2022)
+
+
+---
+
+## 2023_CourseImageAnalysis_NanoCell
+
+Fernanda Fossa
+
+Published 2023-08-24T10:15:11+00:00
+
+Licensed MIT
+
+
+
+Course about image analysis with materials in English and videos in Portuguese.
+
+Tags: Cell Profiler, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell](https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell)
 
 
 ---
@@ -2752,7 +2773,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

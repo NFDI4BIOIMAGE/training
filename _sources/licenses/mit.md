@@ -1,4 +1,25 @@
-# Mit (29)
+# Mit (30)
+## 2023_CourseImageAnalysis_NanoCell
+
+Fernanda Fossa
+
+Published 2023-08-24T10:15:11+00:00
+
+Licensed MIT
+
+
+
+Course about image analysis with materials in English and videos in Portuguese.
+
+Tags: Cell Profiler, Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell](https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell)
+
+
+---
+
 ## BioEngine Documentation
 
 Wei Ouyang, Nanguage, Jeremy Metz, Craig Russell
