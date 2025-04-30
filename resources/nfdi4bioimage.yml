@@ -11135,6 +11135,36 @@ resources:
   - https://doi.org/10.5281/zenodo.15168241
 
 - authors:
+  - Tischer, Christian
+  - Politi, Antonio
+  - Buchholz, Tim-Oliver
+  - Fazeli, Elnaz
+  - Gritti, Nicola
+  - Halavatyi, Aliaksandr
+  - Gonzalez Tirado, Sebastian
+  - Hennies, Julian
+  - Hodges, Toby
+  - Khan, Arif
+  - Kutra, Dominik
+  - Marcotti, Stefania
+  - Oezdemir, Bugra
+  - Schneider, Felix
+  - Schorb, Martin
+  - Stokkermans, Anniek
+  - Sun, Yi
+  - Vakili, Nima
+  description: 'The newly developed image data formats course was taught for the first
+    time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md'
+  license: cc-by-4.0
+  name: Modular training resources for bioimage analysis
+  num_downloads: 6
+  publication_date: '2025-01-21'
+  submission_date: '2025-04-15T11:42:16.691966'
+  url:
+  - https://zenodo.org/records/14710820
+  - https://doi.org/10.5281/zenodo.14710820
+  
+- authors:
   - Dvoretskii, Stefan
   - Bortolomeazzi, Michele
   - Nolden, Marco
@@ -11164,4 +11194,7 @@ resources:
   - bioimage analysis
   type: GitHub Repository
   url: https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
+
+
+
   
