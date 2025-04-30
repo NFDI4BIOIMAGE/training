@@ -1,4 +1,4 @@
-# Bioimage analysis (191)
+# Bioimage analysis (190)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2461,25 +2461,6 @@ Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
 Content type: Book, Notebook
 
 [https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
-
-
----
-
-## Pasteur-BioImage-Analysis-Course-2025
-
-Jean-Yves Tinevez
-
-Published 2025-04-10T13:26:22+00:00
-
-
-
-Teaching materials and outline for the Pasteur Bioimage Analysis vour
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository
-
-[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
 
 
 ---

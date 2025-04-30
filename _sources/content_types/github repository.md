@@ -1,4 +1,4 @@
-# Github repository (58)
+# Github repository (57)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -437,25 +437,6 @@ Tags: Fiji
 Content type: Github Repository
 
 [https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
-
-
----
-
-## Pasteur-BioImage-Analysis-Course-2025
-
-Jean-Yves Tinevez
-
-Published 2025-04-10T13:26:22+00:00
-
-
-
-Teaching materials and outline for the Pasteur Bioimage Analysis vour
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository
-
-[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
 
 
 ---

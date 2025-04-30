@@ -1,4 +1,4 @@
-# Github.com (136)
+# Github.com (135)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1437,25 +1437,6 @@ Tags: Fiji
 Content type: Github Repository
 
 [https://github.com/abcucberkeley/Parallel_Fiji_Visualizer](https://github.com/abcucberkeley/Parallel_Fiji_Visualizer)
-
-
----
-
-## Pasteur-BioImage-Analysis-Course-2025
-
-Jean-Yves Tinevez
-
-Published 2025-04-10T13:26:22+00:00
-
-
-
-Teaching materials and outline for the Pasteur Bioimage Analysis vour
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository
-
-[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
 
 
 ---

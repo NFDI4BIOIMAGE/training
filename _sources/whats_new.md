@@ -151,21 +151,22 @@ Licensed CC-BY-4.0
 
 ---
 
-## Pasteur-BioImage-Analysis-Course-2025
+## Sample data for PR#4284 (https://github.com/ome/bioformats/pull/4284)
 
-Jean-Yves Tinevez
+Jürgen Bohl
 
-Published 2025-04-10T13:26:22+00:00
+Published 2025-03-04
+
+Licensed CC-BY-4.0
 
 
 
-Teaching materials and outline for the Pasteur Bioimage Analysis vour
+With this file the problem addressed in PR#4284 can be reproduced: when runningbfconvert -series 4 -channel 0 2025_01_27__0007_offline_Zen_3_9_5.czi output.png
+the result is garbled.
 
-Tags: Bioimage Analysis
+[https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
-Content type: Github Repository
-
-[https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
+[https://doi.org/10.5281/zenodo.14968770](https://doi.org/10.5281/zenodo.14968770)
 
 
 ---
