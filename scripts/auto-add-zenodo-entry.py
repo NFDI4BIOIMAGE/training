@@ -93,7 +93,7 @@ def complete_zenodo_data(zenodo_url):
             entry['description'] = remove_html_tags(metadata['description'])
         if 'creators' in metadata.keys():
             creators = metadata['creators']
-            entry['authors'] = [c['name'] for c in creators]
+            entry['authors'] = [reformat_author(c['name']) for c in creators]
         if 'license' in metadata.keys():
             entry['license'] = metadata['license']['id']
     
@@ -103,6 +103,25 @@ def complete_zenodo_data(zenodo_url):
     entry['submission_date'] = datetime.now().isoformat()
 
     return entry
+
+def reformat_author(author_name):
+    """
+    Reformat author names from 'Lastname, Firstname' format to 'Firstname Lastname'.
+
+    Parameters
+    ----------
+    author_name : str
+        The author name in 'Lastname, Firstname' or other format.
+
+    Returns
+    -------
+    str
+        The reformatted author name in 'Firstname Lastname' format.
+    """
+    if ',' in author_name:
+        parts = author_name.split(',', 1)
+        return parts[1].strip() + ' ' + parts[0].strip()
+    return author_name
 
 
 if __name__ == "__main__":
