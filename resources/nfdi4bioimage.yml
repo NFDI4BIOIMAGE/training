@@ -11188,3 +11188,28 @@ resources:
 
 
   
+
+- authors:
+  - Frisch, Katrin
+  description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
+    k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen.
+    Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen,
+    ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung
+    des Ombudsman f&uuml;r die Wissenschaft (OfdW) dar, sondern beschreiben den Status
+    Quo und ordnen bereits bestehende Empfehlungen aus Sicht der GWP ein, identifizieren
+    L&uuml;cken und verweisen auf weiterf&uuml;hrende Literatur. Diese FAQ-Sammlung
+    richtet sich prim&auml;r an Forschende. F&uuml;r die Nutzung von KI in der Lehre
+    und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re KI-Richtlinien,
+    angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen sowie
+    Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle
+    Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen
+    FAQ nicht besprochen.
+  license: cc-by-4.0
+  name: "FAQ K\xFCnstliche Intelligenz und gute wissenschaftliche Praxis"
+  num_downloads: 1422
+  publication_date: '2024-11-06'
+  submission_date: '2025-05-07T08:49:59.255762'
+  url:
+  - https://zenodo.org/records/14045172
+  - https://doi.org/10.5281/zenodo.14045172
+  
