@@ -1,4 +1,4 @@
-# Doi.org (210)
+# Doi.org (211)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2732,6 +2732,27 @@ As stated in the presentation, illustrations are copyrighted but can be reproduc
 [https://zenodo.org/records/6535296](https://zenodo.org/records/6535296)
 
 [https://doi.org/10.5281/zenodo.6535296](https://doi.org/10.5281/zenodo.6535296)
+
+
+---
+
+## JIPipe Spring Course (JSC) 2025: Workshop Recordings, Slides, Homework, and Materials
+
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
+
+Published 2025-05-12:T13:37:00+00:00
+
+Licensed CC-BY-4.0
+
+
+
+The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
+
+Tags: Jipipe, Bioimage Analysis
+
+Content type: Workshop, Video, Tutorial, Slides
+
+[https://doi.org/10.5281/zenodo.15373555](https://doi.org/10.5281/zenodo.15373555)
 
 
 ---
