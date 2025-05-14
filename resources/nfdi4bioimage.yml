@@ -11515,6 +11515,25 @@ resources:
   - Blog post 
   url: https://cs231n.github.io/convolutional-networks/
 
+- authors: 
+  description: "Ressource that helps to choose an open source license for your project."
+  license: CC-BY-3.0 Unported
+  name: Choose an open source license
+  tags:
+  - Open Source
+  - Licensing
+  type:
+  - Website
+  url: https://choosealicense.com 
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
 
 
   
