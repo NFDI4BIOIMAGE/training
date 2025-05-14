@@ -11541,14 +11541,18 @@ resources:
   - Publication
   url: https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in
 
-- authors:
-  description:
-  license:
-  name:
-  publication_date:
+- authors: 
+  - Robert Kosara
+  - Allison Horst
+  description: "This post explores how animation can enhance data visualizations by improving viewer understanding and engagement, while also acknowledging the risks of misuse. It presents five practical techniques, supported by examples and implementation tips using D3 or Observable Plot."
+  license: UNKNOWN
+  name: Five ways to effectively use animation in data visualization
+  publication_date: '2024-12-05'
   tags:
+  - Data Visualization
   type:
-  url:
+  - Blog post
+  url: https://observablehq.com/blog/effective-animation 
 
 
 
