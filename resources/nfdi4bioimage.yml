@@ -3583,7 +3583,10 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://doi.org/10.5281/zenodo.8070038
+  url: 
+  - https://doi.org/10.5281/zenodo.8070038
+  - https://zenodo.org/records/8070038
+
 - authors:
   - Mohamed Abdrabbou
   - Mehrnaz Babaki
@@ -11252,7 +11255,9 @@ resources:
   type:
   - Collection
   - Atlas
-  url: https://developmental.cellatlas.io/webatlas
+  url: 
+  - https://developmental.cellatlas.io/webatlas
+  - https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1
 
 - authors: 
   - Josh Moore
