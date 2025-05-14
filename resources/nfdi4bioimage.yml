@@ -11470,6 +11470,20 @@ resources:
   - Publication
   url: https://arxiv.org/abs/2401.13022
 
+- authors: 
+  - Cameron Watson
+  - Allison Creason
+  description: "This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge."
+  license: CC-BY-4.0
+  name: End-to-End Tissue Microarray Image Analysis with Galaxy-ME
+  publication_date: '2023-02-14'
+  tags:
+  - Galaxy
+  - Multiplex Imaging
+  type:
+  - Tutorial
+  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me
+
 
 
 
