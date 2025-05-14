@@ -11515,7 +11515,7 @@ resources:
   - Blog post 
   url: https://cs231n.github.io/convolutional-networks/
 
-- authors: 
+- authors: GitHub
   description: "Ressource that helps to choose an open source license for your project."
   license: CC-BY-3.0 Unported
   name: Choose an open source license
@@ -11526,6 +11526,21 @@ resources:
   - Website
   url: https://choosealicense.com 
 
+- authors: 
+  - Joanna W. Pylvänäinen 
+  - Hanna Grobe 
+  - Guillaume Jacquemet
+  description: "This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research."
+  license: CC-BY-4.0
+  name: Practical considerations for data exploration in quantitative cell biology
+  publication_date: '2025-04-07'
+  tags:
+  - Bioimage Analysis
+  - Data Exploration
+  type:
+  - Publication
+  url: https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in
+
 - authors:
   description:
   license:
@@ -11534,6 +11549,7 @@ resources:
   tags:
   type:
   url:
+
 
 
   
