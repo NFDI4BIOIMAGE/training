@@ -11171,7 +11171,6 @@ resources:
   - https://zenodo.org/records/15268798
   - https://doi.org/10.5281/zenodo.15268798
 
-
 - authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in Portuguese.
@@ -11184,6 +11183,19 @@ resources:
   - bioimage analysis
   type: GitHub Repository
   url: https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
+
+- authors: Nfdi4Bioimage
+  license: UNKNOWN
+  name: NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+  tags:
+  - BioImage Analysis
+  - Research Data Management
+  - nfdi4bioimage
+  type:
+  - Collection 
+  url: https://nfdi4bioimage.de/home/
+
+
 
 
 
