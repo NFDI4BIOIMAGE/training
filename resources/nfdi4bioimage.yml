@@ -11610,4 +11610,16 @@ resources:
   - Video
   url: https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z 
 
+- authors: Julien Sindt
+  description: "This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation."
+  license: CC-BY-4.0
+  name: Introduction to High Performance Computing for Life Scientists
+  publication_date: '2021-03-22'
+  tags:
+  - High Performance Computing
+  type:
+  - Github Repository
+  url: https://epcced.github.io/20210322-intro-hpc-life-scientists/ 
+
+
   
