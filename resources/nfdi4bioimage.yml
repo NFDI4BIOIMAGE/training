@@ -11588,6 +11588,26 @@ resources:
   - GitHub Repository
   url: https://github.com/aicjanelia/BioImagingAI 
 
+- authors: Radiology Tutorials
+  description: "This is a playlist of videos about how CT works"
+  license: UNKNOWN
+  name: CT Physics
+  publication_date: '2025-01-01'
+  tags: 
+  - Imaging
+  type:
+  - Video
+  url: https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd 
 
+- authors: Radiology Tutorials
+  description: "This is a playlist of videos about how MRI works"
+  license: UNKNOWN
+  name: MRI Physics
+  publication_date: '2025-01-01'
+  tags: 
+  - Imaging
+  type:
+  - Video
+  url: https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z 
 
   
