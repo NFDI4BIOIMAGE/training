@@ -11497,7 +11497,23 @@ resources:
   - Book
   url: http://neuralnetworksanddeeplearning.com
 
-
+- authors:
+  - Geeth Sethi
+  - Sumith Kulal
+  - Kevin Zakka
+  - William Shen
+  - Rachel Gardner
+  description: " ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network."
+  license: UNKNOWN
+  name: CS231n Convolutional Neural Networks for Visual Recognition
+  tags:
+  - Deep Learning
+  - Computer Vision
+  - Neural Networks
+  - Machine Learning
+  type:
+  - Blog post 
+  url: https://cs231n.github.io/convolutional-networks/
 
 
 
