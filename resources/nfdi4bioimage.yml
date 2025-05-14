@@ -11554,6 +11554,32 @@ resources:
   - Blog post
   url: https://observablehq.com/blog/effective-animation 
 
+- authors:
+  - Beatriz Serrano-Solano
+  - Anne Fouilloux
+  - Leonid Kostrykin
+  - Riccardo Massei
+  description: "This video is a tutorial on how to use the Galaxy platform for bioimage analysis."  
+  license: UNKNOWN
+  name: Image Analysis using Galaxy
+  publication_date: '2025-03-07'
+  tags:
+  - Galaxy
+  - Bioimage Analysis
+  type:
+  - Tutorial
+  - Video
+  url: https://www.youtube.com/watch?v=wAHOPT6lRV0 
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
+
 
 
   
