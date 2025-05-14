@@ -11300,6 +11300,20 @@ resources:
   - Publication
   url: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417
 
+- authors: 
+  - Robert Wagner
+  - Dagmar Waltemath
+  - Kristina Yordanova
+  - Markus Becker
+  description: "This paper focuses on the ongoing process of establishing a FAIR (Findable, Accessible, Interoperable and Reusable) data workflow for multidisciplinary research and development in applied plasma science. The presented workflow aims to support researchers in handling their project data while also fulfilling the requirements of modern digital research data management. "
+  license: CC BY-NC-ND 4.0
+  name: Towards FAIR Data Workflows for Multidisciplinary Science: Ongoing Endeavors and Future Perspectives in Plasma Technology
+  tags:
+  - Research Data Management
+  type:
+  - Publication
+  url: https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756
+
 
 
   
