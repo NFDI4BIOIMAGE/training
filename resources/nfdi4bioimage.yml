@@ -11571,14 +11571,22 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=wAHOPT6lRV0 
 
-- authors:
-  description:
-  license:
-  name:
-  publication_date:
+- authors: 
+  - Rachel Lee
+  - Owen Puls
+  - Wei Ouyang
+  - Beth Cimini
+  description: "This is a repository containing a textbook written for BioImaging scientists and other microscopists."
+  license: BSD-3-Clause
+  name: Bioimaging AI Textbook
+  publication_date: '2025-02-20'
   tags:
+  - Bioimage Analysis
+  - Artificial Intelligence
   type:
-  url:
+  - Book
+  - GitHub Repository
+  url: https://github.com/aicjanelia/BioImagingAI 
 
 
 
