@@ -21,6 +21,7 @@ os.makedirs(os.path.dirname(log_file), exist_ok=True)
 
 # Max retries for failed requests
 max_retries = 3
+base_backoff = 2  
 
 def main():
     """
@@ -90,7 +91,8 @@ def check_url(url):
         except requests.exceptions.RequestException as e:
             last_error = f"{url} failed: {repr(e)}"
 
-        time.sleep(random.uniform(2, 5))  # Add jitter
+        sleep_time = base_backoff ** attempt + random.uniform(0, 1)
+        time.sleep(sleep_time)
 
     return f"⚠️ {url} is potentially reachable but failed after {max_retries} attempts. Last error: {last_error}"
 
