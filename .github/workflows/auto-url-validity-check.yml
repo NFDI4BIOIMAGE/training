@@ -32,7 +32,7 @@ jobs:
       - name: Extract Failing URLs
         run: |
           echo "Please be so kind to double-check the validity of the following urls:" > failing_urls.md
-          grep -E '❌|⚠️' url_check_results.log >> failing_urls.md || echo "No issues found!" >> failing_urls.md
+          grep -E '❌' url_check_results.log >> failing_urls.md || echo "No issues found!" >> failing_urls.md
 
       - name: Create GitHub Issue
         if: success()
