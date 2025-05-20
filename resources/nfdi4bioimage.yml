@@ -11212,3 +11212,190 @@ resources:
 
 
   
+- authors:
+  - Dvoretskii, Stefan
+  - Maier-Hein, Klaus
+  - Nolden, Marco
+  - Schmidt, Christian
+  - Bortolomeazzi, Michele
+  - Moore, Josh
+  license: cc-by-4.0
+  name: 'OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata
+    in wider knowledge graphs'
+  num_downloads: 13
+  publication_date: '2025-05-15'
+  submission_date: '2025-05-20T11:20:42.407166'
+  url:
+  - https://zenodo.org/records/15423904
+  - https://doi.org/10.5281/zenodo.15423904
+- authors:
+  - Bortolomeazzi, Michele
+  - Boissonnet, Tom
+  description: 'These slides were presented during an online introductory session
+    to OMERO for the UB Frankfurt.
+
+    The two-hour session consisted of a first part highlighting the benefits that
+    image data management brings to the lab. The second part showcased image analysis
+    workflows with a Fiji macro and a Python notebook.
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Introduction to OMERO - Frankfurt - online
+  num_downloads: 4
+  publication_date: '2025-04-05'
+  submission_date: '2025-05-20T11:20:44.699279'
+  url:
+  - https://zenodo.org/records/15152576
+  - https://doi.org/10.5281/zenodo.15152576
+- authors:
+  - Kemmer, Isabel
+  - Romdhane, Feriel
+  - Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+
+    To guide you in the selection of appropriate repositories, we have created an
+    overview of available repositories for different types of image data, including
+    their scope and requirements. This decision tree guides you through questions
+    about your data and directs you to the correct repository, and/or provides instructions
+    for further processing to meet the critera of the repositories.&nbsp;
+
+    Three seperate trees are provided for different classes of imaging data: open
+    bioimage data, preclinical data, and human imaging data. These versions with three
+    trees can be used for web-view. Update: also the editable versions in powerpoint
+    format (.pptx) are now provided. Please be aware that opening the versions with
+    another program might lead to shifted formatting.
+
+    Update: we now also provide ready-to-print versions designed to be printed on
+    A3 format. One page shows the open bioimaging data tree and one page combines
+    the preclinical and human imaging data trees. Also the editable versions of these
+    are provided.'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 489
+  publication_date: '2025-05-15'
+  submission_date: '2025-05-20T11:21:11.394474'
+  url:
+  - https://zenodo.org/records/15425770
+  - https://doi.org/10.5281/zenodo.15425770
+- authors:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han
+  - Adam Humenick
+  - Peter Neckel
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes
+  - Rachel M McQuade
+  - Jaime PP Foong
+  - Sebastian K. King
+  - "Estibaliz  G\xF3mez-de-Mariscal"
+  - "Arrate Mu\xF1oz-Barrutia"
+  - Robert Haase
+  - Simona Carbone
+  - Nicholas A. Veldhuis
+  - Daniel P. Poole
+  - Pradeep Rajasekhar
+  description: "This upload is associated with the software, Gut Analysis Toolbox&nbsp;(GAT).\n\
+    If you use it please cite:\nSorensen et al.&nbsp;Gut Analysis Toolbox: Automating\
+    \ quantitative analysis of enteric neurons.&nbsp;J Cell Sci&nbsp;2024; jcs.261950.\
+    \ doi:&nbsp;https://doi.org/10.1242/jcs.261950\nThe upload contains StarDist models\
+    \ for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and FPN+ResNet101\
+    \ model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented\
+    \ in Fiji, but the models can be used in any software that supports StarDist and\
+    \ the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks\
+    \ (Google Colab), training and test data as well as reports on model performance.\n\
+    Note: The enteric ganglia model is has been updated to v3 which uses pytorch and\
+    \ is a different architecture (FPN+ResNet101).\nThe model files are located in\
+    \ the respective folders as zip files. The folders have also been zipped:\n\n\
+    Neuron (Hu; StarDist&nbsp;model):\n\nMain folder: 2D_enteric_neuron_model_QA.zip\n\
+    StarDist Model File:2D_enteric_neuron_v4_1.zip&nbsp;\nDeepImageJ compatible model:\
+    \ 2D_enteric_neuron.bioimage.io.model.zip (used currently in GAT)\n\n\nNeuronal\
+    \ subtype (StarDist&nbsp;model):&nbsp;\n\nMain folder: 2D_enteric_neuron_subtype_model_QA.zip\n\
+    Model File: 2D_enteric_neuron_subtype_v4.zip\nDeepImageJ compatible model: 2D_enteric_neuron_subtype.bioimage.io.model.zip\
+    \ (used currently in GAT)\n\n\nEnteric ganglia (2D FPN_ResNet101; Use in FIJI\
+    \ with&nbsp;deepImageJ)\n\nMain folder: 2D_enteric_ganglia_v3_training.zip\nModel\
+    \ File: 2D_Ganglia_RGB_v3.bioimage.io.model.zip (used currently in GAT)\n\n\n\n\
+    For the all models, files included are:\n\nModel for segmenting cells or ganglia\
+    \ in 2D FIJI. StarDist or 2D UNet.\nTraining and Test datasets used for training.\n\
+    Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic\
+    \ notebooks).\nPython notebook and code for training ganglia model with QA.\n\
+    Quality assurance reports generated from above notebooks.\nStarDist model exported\
+    \ for use in QuPath.\n\nThe model files can be used within can be used within\
+    \ the software,&nbsp;StarDist. They&nbsp;are intended to be used within FIJI or\
+    \ QuPath, but can be used in any software that supports the implementation of\
+    \ StarDist in 2D.\nData:\nAll the images were collected from 4 different research\
+    \ labs and a public database (SPARC database) to account for variations in image\
+    \ acquisition, sample preparation and immunolabelling.\nFor enteric neurons&nbsp;the\
+    \ pan-neuronal marker, Hu&nbsp;has been used and the&nbsp; 2D wholemounts images\
+    \ from mouse, rat and human tissue.\nFor enteric neuronal subtypes, 2D images\
+    \ for nNOS, MOR, DOR, ChAT, Calretinin, Calbindin, Neurofilament, CGRP and SST\
+    \ from mouse tissue have been used..\n25 images were used&nbsp;from the following\
+    \ entries in the&nbsp;SPARC database:\n\nHoward, M. (2021). 3D imaging of enteric\
+    \ neurons in mouse (Version 1) [Data set]. SPARC Consortium. \nGraham, K. D.,\
+    \ Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman,\
+    \ M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M.,\
+    \ &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon\
+    \ enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC\
+    \ Consortium.\nWang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies\
+    \ Tested in theColon &ndash; Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h\n\
+    \nAdditional images for new ganglia model:\n\nHamnett, R., Dershowitz, L. B.,\
+    \ Sampathkumar, V., Wang, Z., Gomez-Frittelli, J., De Andrade, V., Kasthuri, N.,\
+    \ Druckmann, S. and Kaltschmidt, J. A. (2022b). Regional cytoarchitecture of the\
+    \ adult and developing mouse enteric nervous system. Curr. Biol. 32, 4483-4492.e5.\n\
+    \nThe images have been acquired using a combination different microscopes. The\
+    \ images for the mouse tissue were acquired using:&nbsp;\n\n\nLeica TCS-SP8 confocal\
+    \ system (20x HC PL APO NA 1.33, 40 x HC PL APO NA 1.3)&nbsp;\n\n\nLeica TCS-SP8\
+    \ lightning confocal system (20x HC PL APO NA 0.88)&nbsp;\n\n\nZeiss Axio Imager\
+    \ M2 (20X HC PL APO NA 0.3)&nbsp;\n\n\nZeiss Axio Imager Z1 (10X HC PL APO NA\
+    \ 0.45)&nbsp;\n\n\nHuman tissue images were acquired using:&nbsp;\n\n\nIX71 Olympus\
+    \ microscope (10X HC PL APO NA 0.3)&nbsp;\n\n\nFor more information, visit the&nbsp;Documentation\
+    \ website.\nNOTE: The images for enteric neurons and neuronal subtypes have been\
+    \ rescaled to 0.568 &micro;m/pixel for mouse and rat. For human neurons, it has\
+    \ been rescaled to 0.9 &micro;m/pixel . This is to ensure the neuronal cell bodies\
+    \ have similar pixel area across images. The area of cells in pixels can vary\
+    \ based on resolution of image, magnification of objective used, animal species\
+    \ (larger animals -&gt; larger neurons) and potentially how the tissue is stretched\
+    \ during wholemount preparation&nbsp;\nAverage neuron area for neuronal model:&nbsp;701.2\
+    \ &plusmn; 195.9 pixel2 (Mean &plusmn; SD, 6267 cells)\nAverage neuron area for\
+    \ neuronal subtype model:&nbsp;880.9 &plusmn; 316 pixel2 (Mean &plusmn; SD, 924\
+    \ cells)\nSoftware References:\nStardist\nSchmidt, U., Weigert, M., Broaddus,\
+    \ C., &amp; Myers, G. (2018, September). Cell detection with star-convex polygons.\
+    \ In&nbsp;International Conference on Medical Image Computing and Computer-Assisted\
+    \ Intervention&nbsp;(pp. 265-273). Springer, Cham.\ndeepImageJ\nG&oacute;mez-de-Mariscal,\
+    \ E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W., Donati, L., Lundberg,\
+    \ E., Unser, M., Mu&ntilde;oz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly\
+    \ environment to run deep learning models in ImageJ.&nbsp;Nature Methods,&nbsp;18(10),\
+    \ pp.1192-1195.\nZeroCost DL4Mic\nvon Chamier, L., Laine, R.F., Jukkala, J., Spahn,\
+    \ C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S.,\
+    \ Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning\
+    \ for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1),\
+    \ pp.1-18."
+  license: cc-by-4.0
+  name: 'Gut Analysis Toolbox: Training data and 2D models for segmenting enteric
+    neurons, neuronal subtypes and ganglia'
+  num_downloads: 518
+  publication_date: '2025-05-01'
+  submission_date: '2025-05-20T11:21:18.142561'
+  url:
+  - https://zenodo.org/records/15314214
+  - https://doi.org/10.5281/zenodo.15314214
+- authors:
+  - Young, Pamela
+  description: .lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens
+    fine in LASX but FIJI only likes some of the files.&nbsp; I think it was captured
+    during a poweroutage so may have lived on a temp drive and been recovered when
+    the power came back.&nbsp; LASX uses the .lifext but I don't think FIJI does.&nbsp;
+    I have included it however since it is part of the dataset output from the microscope.
+  license: cc-by-4.0
+  name: .lif files misbehaving in fiji but fine in LASX
+  num_downloads: 74
+  publication_date: '2025-05-07'
+  submission_date: '2025-05-20T11:21:33.548578'
+  url:
+  - https://zenodo.org/records/15353569
+  - https://doi.org/10.5281/zenodo.15353569
