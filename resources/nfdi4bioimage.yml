@@ -11621,5 +11621,45 @@ resources:
   - Github Repository
   url: https://epcced.github.io/20210322-intro-hpc-life-scientists/ 
 
+- authors: Joseph Scott
+  description: "In this blog post, the author emphasizes problematic characters (e.g., spaces, slashes, colons) that should be avoided in filenames to ensure cross-platform compatibility across operating systems like Windows, macOS, and Linux, emphasizing the chaos caused by differing filesystem rules and naming conventions."
+  license: UNKNOWN
+  name: Things that shouldn't be in file names for $1000 Alex
+  publication_date: '2007-02-12'
+  tags: 
+  - Reseach Data Management
+  type:
+  - Blog post
+  url: https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/ 
 
+- authors: Kristin Briney
+  description: "This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version."
+  license: CC-BY-4.0
+  name: File Naming Convention Worksheet
+  publication_date: '2020-06-02'
+  tags:
+  - Research Data Management
+  type:
+  - Worksheet
+  url: https://authors.library.caltech.edu/records/mmnpf-cez11
+  
+- authors: Nick Radcliffe
+  description: "This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards."
+  license: UNKNOWN
+  name: Name Styles
+  publication_date:
+  tags: 
+  - Research Data Management
+  type:
+  - Blog post
+  url: https://www.tdda.info/name-styles
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
   
