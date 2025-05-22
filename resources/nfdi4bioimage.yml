@@ -11212,3 +11212,25 @@ resources:
 
 
   
+
+- authors:
+  - Chu, Wei-Chen
+  description: 'Presentation file used in the &nbsp;Open source AI Tools for bioimage
+    analysis workshop @ICOB, Academia Sinica, Taiwan (2024)Introduce ilastik, StarDist,
+    Cellpose, Segment Anything Model (SAM), and how to use it briefly.
+  
+    Full video recording (in Chinese) is available on YouTube: https://youtu.be/KqwssouW0G0
+  
+    This document is part III of the previous document:Chu, W.-C. (2024). Bioimage Analysis
+    with FIJI /ImageJ &amp; Friends workshop (2024) @ICOB, Academia Sinica, Taiwan.
+    Zenodo. https://doi.org/10.5281/zenodo.12803966'
+  license: cc-by-4.0
+  name: Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica,
+    Taiwan
+  num_downloads: 29
+  publication_date: '2024-08-09'
+  submission_date: '2025-05-22T17:31:19.706146'
+  url:
+  - https://zenodo.org/records/13284351
+  - https://doi.org/10.5281/zenodo.13284351
+  
