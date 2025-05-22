@@ -11212,3 +11212,76 @@ resources:
 
 
   
+
+- authors:
+  - "Burd\xEDkov\xE1, Zuzana"
+  - "\u0160vindrych, Zden\u011Bk"
+  - "Sch\xE4tz, Martin"
+  - Soukup, Jakub
+  - Robison, Pat
+  description: 'The full program is available in the repository (Schedule DMW 2023.rtf)
+    with most of the presentations and all exercises. All exercise files are in ZIP
+    files Data.zip and&nbsp;ThunderSTORM sample data 2023.zip.
+  
+  
+    Date: June 6-7, 2023
+  
+    Time: 9am - 5pm
+  
+    Location: Dartmouth College, 74 College St, Hanover, Kellogg 200
+  
+    Sponsor: bioMT (Lunch and coffee breaks)
+  
+  
+    Summary:
+  
+    The BioImage Analysis and Superresolution Microscopy Workshop 2023 took place at
+    Dartmouth College, offering participants a comprehensive learning experience in
+    the field of bioimage analysis and superresolution microscopy. Over the course of
+    two days, researchers, scientists, and students immersed themselves in cutting-edge
+    microscopy techniques and expanded their knowledge and practical skills.
+  
+  
+    Day 1 (Tue, June 6):
+  
+    The workshop began with Zdenek Svindrych providing an overview of microscopy principles,
+    methods, and theoretical foundations. Participants gained insights into image formation
+    in fluorescence microscopes, resolution, and noise. This was followed by an introduction
+    to superresolution microscopy techniques, including Single-Molecule localization
+    Microscopy (STORM, PALM, DNA-PAINT) and Structured Illumination Microscopy (SIM,
+    ISM, Airyscan, SoRa). Zuzana Burdikova then guided attendees through the theoretical
+    aspects of bioimage processing in Fiji, covering image formats, multi-dimensional
+    image analysis, data visualization, and quantitative analysis. Practical sessions
+    allowed participants to apply their knowledge, exploring two-channel colocalization,
+    image filtering, and quantitative measurements in Fiji.
+  
+  
+    Day 2 (Wed, June 7):
+  
+    The second day commenced with a remote presentation by SVI.nl, introducing participants
+    to the Huygens deconvolution software used in widefield, confocal, and superresolution
+    microscopy. Zdenek Svindrych demonstrated the practical applications of ThunderSTORM,
+    an ImageJ plug-in for single molecule localization microscopy (SMLM) data analysis
+    and superresolution imaging. The session included an overview of the ThunderSTORM
+    workflow, covering localization, filtering, rendering, and 3D STORM using the astigmatism
+    method. Jakub Soukup explored advanced noise reduction algorithms such as Noise2Void
+    and StarDist. Martin Sch&auml;tz discussed data management strategies.
+  
+  
+    In the afternoon, participants engaged in practical sessions. Martin Sch&auml;tz
+    presented Ilastik, a versatile software for image classification and segmentation.
+    Pat Robison delivered a scientific lecture on the role of detyrosinated microtubules
+    in contracting cardiomyocytes. Zdenek Svindrych, along with other experts, led a
+    hands-on session on customizing Fiji using the ImageJ Macro language. The day concluded
+    with a practical session on the interactive design of GPU-accelerated image data
+    flow graphs in Fiji, guided by Martin Sch&auml;tz and the workshop team.'
+  license: cc-by-4.0
+  name: BioImage Analysis and Superresolution Microscopy Workshop 2023 (at Dartmouth
+    College)
+  num_downloads: 730
+  publication_date: '2023-06-07'
+  submission_date: '2025-05-22T17:46:53.581644'
+  url:
+  - https://zenodo.org/records/8025067
+  - https://doi.org/10.5281/zenodo.8025067
+  
