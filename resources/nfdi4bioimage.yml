@@ -11219,7 +11219,10 @@ resources:
   name: data_visualization_tutorial
   publication_date: '2025-04-25T21:00:39+00:00'
   submission_date: '2025-05-24T22:49:56.192727'
-  tags: TODO
-  type: GitHub Repository
+  tags: data visualization
+  type: 
+  - GitHub Repository
+  - slides
+  license: cc-by-4.0
   url: https://github.com/klauck/data_visualization_tutorial
   
