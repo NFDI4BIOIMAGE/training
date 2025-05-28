@@ -11664,4 +11664,36 @@ resources:
   type:
   - Video
   url: https://www.youtube.com/watch?v=o_cAOa5fMhE 
+
+- authors: 
+  - Alexis Lebon
+  - Anatole Chessel
+  - Raphael Braud-Mussi
+  - Marine Breuilly
+  - Denis Ressnikoff
+  - Dorian Kauffmann
+  - Elvire Guiot
+  - Emmanuel Faure
+  - Perrine Gilloteaux
+  - Guillaume Gay 
+  - Guillaume Jean-François 
+  - Jerome Mutterer
+  - Paulette Lieby 
+  - Julio Mateos-Langerak
+  - Guillaume Maucort
+  - Marc Mongy
+  - Mylene Pezet 
+  - Sotirios Papadiamantis
+  - Théo Barnouin
+  - Mathieu Vigneau
+  description: "omero-quay is a microscopy data transport layer between data management tools. Currently, it supports the iRODS — OMERO architecture built at France BioImaging fbi-omero."
+  license: Mozilla Public License 2.0
+  name: omero-quay
+  publication_date: '2023-06-16'
+  tags:
+  - Data Management
+  - omero
+  type:
+  - GitLab Repository
+  url: https://gitlab.in2p3.fr/fbi-data/omero-quay 
   
