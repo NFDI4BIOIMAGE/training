@@ -1,0 +1,963 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Joanna pylvänäinen (12) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'authors/joanna_pylvänäinen';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="2025-05-29"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../tags/ai-ready.html">Ai-ready (54)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (199)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (140)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (62)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (60)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (55)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (70)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/apache-2.0.html">Apache-2.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (330)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (30)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (109)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (264)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (137)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.biorxiv.org.html">Www.biorxiv.org (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (252)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gdpr_compliance.html">GDPR Compliance Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fauthors/joanna_pylvänäinen.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/authors/joanna_pylvänäinen.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Joanna pylvänäinen (12)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-handling-using-fiji-training-materials">Image handling using Fiji - training materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#object-tracking-and-track-analysis-using-trackmate-and-celltrackscolab">Object Tracking and Track Analysis using TrackMate and CellTracksColab</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-aspc1-lifeact">StarDist_AsPC1_Lifeact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-monocytes-dataset">StarDist_BF_Monocytes_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-neutrophil-dataset">StarDist_BF_Neutrophil_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-cancer-cell-dataset-10x">StarDist_BF_cancer_cell_dataset_10x</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-cancer-cell-dataset-20x">StarDist_BF_cancer_cell_dataset_20x</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-fluorescent-cells">StarDist_Fluorescent_cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-huvec-nuclei-dataset">StarDist_HUVEC_nuclei_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-tumorcell-nuclei">StarDist_TumorCell_nuclei</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-miapaca2-from-cd44">Stardist_MiaPaCa2_from_CD44</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#v4sdb-winter-school-2025">V4SDB_Winter_School_2025</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="joanna-pylvanainen-12">
+<h1>Joanna pylvänäinen (12)<a class="headerlink" href="#joanna-pylvanainen-12" title="Link to this heading">#</a></h1>
+<section id="image-handling-using-fiji-training-materials">
+<h2>Image handling using Fiji - training materials<a class="headerlink" href="#image-handling-using-fiji-training-materials" title="Link to this heading">#</a></h2>
+<p>Joanna Pylvänäinen</p>
+<p>Published 2025-01-30</p>
+<p>Licensed MIT</p>
+<p>Description:This training package provides a guide to image processing and analysis using ImageJ/Fiji, an open-source software widely used in biological and medical imaging. The manual includes step-by-step exercises demonstrating practical workflows for measuring size distribution and signal intensity using both conventional thresholding and advanced tools like StarDist. This resource is ideal for researchers, students, and professionals looking to enhance their image analysis skills using Fiji.
+Key topics include:</p>
+<p>Image calibration and intensity adjustments
+Channel splitting and merging
+Projection techniques and scale bar addition
+Segmentation and thresholding methods
+Quantitative analysis of nuclei and fluorescence signal intensity</p>
+<p>Publication Date: January 2025
+Keywords: Fiji, ImageJ, Image Analysis, Microscopy, Segmentation, Particle Analysis, 3D Visualization, StarDist
+License: MIT</p>
+<p><a class="reference external" href="https://zenodo.org/records/14771563">https://zenodo.org/records/14771563</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.14771563">https://doi.org/10.5281/zenodo.14771563</a></p>
+</section>
+<hr class="docutils" />
+<section id="object-tracking-and-track-analysis-using-trackmate-and-celltrackscolab">
+<h2>Object Tracking and Track Analysis using TrackMate and CellTracksColab<a class="headerlink" href="#object-tracking-and-track-analysis-using-trackmate-and-celltrackscolab" title="Link to this heading">#</a></h2>
+<p>Joanna Pylvänäinen</p>
+<p>Published None</p>
+<p>Licensed GPL-3.0</p>
+<p>I2K 2024 workshop materials for “Object Tracking and Track Analysis using TrackMate and CellTracksColab”</p>
+<p>Tags: Bioimage Analysis</p>
+<p>Content type: Github Repository, Tutorial, Workshop, Slides</p>
+<p><a class="github reference external" href="https://github.com/CellMigrationLab/I2K_2024">CellMigrationLab/I2K_2024</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-aspc1-lifeact">
+<h2>StarDist_AsPC1_Lifeact<a class="headerlink" href="#stardist-aspc1-lifeact" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-08-29</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository includes a StarDist deep learning model designed for segmenting AsPC1 cells labeled with Lifeact from fluorescence microscopy images. The model distinguishes individual AsPC1 cells within clusters and separates them from the background. The model was trained on a small dataset and achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.967, indicating high accuracy in cell segmentation.
+Specifications</p>
+<p>Model: StarDist for segmenting AsPC1 cells in fluorescence microscopy images</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 10 paired fluorescence microscopy images and label masks</p>
+<p>Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8</p>
+<p>Data Type: Fluorescence microscopy images of the AsPC1 Lifeact channel with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Fluorescence Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1024 pixels (Pixel size: 0.6337 x 0.6337 µm²)</p>
+<p>Model Capabilities:</p>
+<p>Segment AsPC1 Cells: Detects individual AsPC1 cells from a cluster and separates them from the background</p>
+<p>Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity under individual cells in respective channels</p>
+<p>Performance:</p>
+<p>Average IoU: 0.884</p>
+<p>Average F1 Score: 0.967</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a>
+ </p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/13442128">https://zenodo.org/records/13442128</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.13442128">https://doi.org/10.5281/zenodo.13442128</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-bf-monocytes-dataset">
+<h2>StarDist_BF_Monocytes_dataset<a class="headerlink" href="#stardist-bf-monocytes-dataset" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-01-26</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository includes a StarDist deep learning model and its training and validation datasets for detecting mononucleated cells perfused over an endothelial cell monolayer. The model was trained on 27 manually annotated images and achieved an average F1 Score of 0.941. The dataset and model are helpful for biomedical research, especially in studying interactions between mononucleated and endothelial cells.
+Specifications</p>
+<p>Model: StarDist for mononucleated cell detection on endothelial cells</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 27 paired brightfield microscopy images and label masks</p>
+<p>Microscope: Nikon Eclipse Ti2-E, 20x objective</p>
+<p>Data Type: Brightfield microscopy images with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 400</p>
+<p>Patch Size: 992 x 992 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.941</p>
+<p>Average IoU: 0.831</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/10572200">https://zenodo.org/records/10572200</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10572200">https://doi.org/10.5281/zenodo.10572200</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-bf-neutrophil-dataset">
+<h2>StarDist_BF_Neutrophil_dataset<a class="headerlink" href="#stardist-bf-neutrophil-dataset" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-01-26</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository includes a StarDist deep learning model and its training and validation datasets for detecting neutrophils perfused over an endothelial cell monolayer. The model was trained on 36 manually annotated images, achieving an average F1 Score of 0.969. The dataset and model are intended for use in biomedical research, particularly for analyzing interactions between neutrophils and endothelial cells.
+Specifications</p>
+<p>Model: StarDist for neutrophil detection on endothelial cells</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 36 paired brightfield microscopy images and label masks</p>
+<p>Microscope: Nikon Eclipse Ti2-E, 20x objective</p>
+<p>Data Type: Brightfield microscopy images with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 400</p>
+<p>Patch Size: 992 x 992 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.969</p>
+<p>Average IoU: 0.914</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/10572231">https://zenodo.org/records/10572231</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10572231">https://doi.org/10.5281/zenodo.10572231</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-bf-cancer-cell-dataset-10x">
+<h2>StarDist_BF_cancer_cell_dataset_10x<a class="headerlink" href="#stardist-bf-cancer-cell-dataset-10x" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-08-12</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository includes a StarDist deep learning model and its training dataset designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 10x magnification. The model was trained on 77 manually annotated images, with the dataset being computationally augmented during training by a factor of 8. The model was trained for 500 epochs and achieved an average F1 Score of 0.968, indicating high accuracy in segmenting cancer cells on endothelial cells.
+Specifications</p>
+<p>Model: StarDist for cancer cell segmentation on endothelial cells (10x magnification)</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 77 paired brightfield microscopy images and label masks</p>
+<p>Augmented Dataset: Computational augmentation by a factor of 8 during training</p>
+<p>Microscope: Nikon Eclipse Ti2-E, 10x objective</p>
+<p>Data Type: Brightfield microscopy images with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 16-bit</p>
+<p>Masks: 8-bit or 16-bit</p>
+<p>Image Size: 1024 x 1022 pixels (pixel size: 1.3148 μm)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 500</p>
+<p>Patch Size: 992 x 992 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.968</p>
+<p>Average IoU: 0.882</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/13304399">https://zenodo.org/records/13304399</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.13304399">https://doi.org/10.5281/zenodo.13304399</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-bf-cancer-cell-dataset-20x">
+<h2>StarDist_BF_cancer_cell_dataset_20x<a class="headerlink" href="#stardist-bf-cancer-cell-dataset-20x" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-01-26</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository contains a StarDist deep learning model and its training and validation datasets designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 20x magnification. Using computational methods, the initial dataset of 20 manually annotated images was augmented to 160 paired images. The model was trained over 400 epochs and achieved an average F1 Score of 0.921, demonstrating high accuracy in cell segmentation tasks.
+Specifications</p>
+<p>Model: StarDist for cancer cell segmentation on endothelial cells (20x magnification)</p>
+<p>Training Dataset:</p>
+<p>Number of Original Images: 20 paired brightfield microscopy images and label masks</p>
+<p>Microscope: Nikon Eclipse Ti2-E, 20x objective</p>
+<p>Data Type: Brightfield microscopy images with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 400</p>
+<p>Patch Size: 992 x 992 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.921</p>
+<p>Average IoU: 0.793</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p> </p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/10572122">https://zenodo.org/records/10572122</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10572122">https://doi.org/10.5281/zenodo.10572122</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-fluorescent-cells">
+<h2>StarDist_Fluorescent_cells<a class="headerlink" href="#stardist-fluorescent-cells" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-01-26</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository includes a StarDist deep learning model and its training and validation datasets for detecting fluorescently labeled cancer cells perfused over an endothelial cell monolayer. The model was trained on 66 images labeled with CellTrace and demonstrated high accuracy, achieving an average F1 Score of 0.877. The dataset and the trained model can be used for biomedical image analysis, particularly in cancer research.
+Specifications</p>
+<p>Model: StarDist for cancer cell detection</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 66 paired fluorescent microscopy images and label masks</p>
+<p>Microscope: Nikon Eclipse Ti2-E, 10x objective</p>
+<p>Data Type: Fluorescent microscopy images with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1024 pixels (Pixel size: 1.3205 μm)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 200</p>
+<p>Patch Size: 1024 x 1024 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.877</p>
+<p>Average IoU: 0.646</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/10572310">https://zenodo.org/records/10572310</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10572310">https://doi.org/10.5281/zenodo.10572310</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-huvec-nuclei-dataset">
+<h2>StarDist_HUVEC_nuclei_dataset<a class="headerlink" href="#stardist-huvec-nuclei-dataset" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-02-05</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository contains a StarDist deep learning model and its training and validation datasets for segmenting endothelial nuclei while ignoring cancer cells. The cancer cells were perfused over an endothelial cell monolayer. The initial dataset consisted of 17 images, where cancer cell nuclei were manually removed after segmentation with the StarDist Versatile Nuclei model. This dataset was augmented to 68 paired images using computational techniques like rotation and flipping. The model was trained for 200 epochs, achieving an average F1 Score of 0.976, demonstrating high accuracy in segmenting endothelial nuclei while excluding cancer cells.
+Specifications</p>
+<p>Model: StarDist for segmenting endothelial nuclei while ignoring cancer cells</p>
+<p>Training Dataset:</p>
+<p>Number of Original Images: 17 paired predictions of nuclei and label images</p>
+<p>Augmented Dataset: Expanded to 68 paired images using rotation and flipping</p>
+<p>Source Image Generation: Generated using a pix2pix model trained to predict nuclei from brightfield images of cancer cells on top of an endothelium (DOI: 10.5281/zenodo.10617532)</p>
+<p>Target Image Generation: Masks obtained via manual segmentation</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Brightfield Images: 8-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 1024 x 1022 pixels (uncalibrated)</p>
+<p>Training Parameters:</p>
+<p>Epochs: 200</p>
+<p>Patch Size: 1024 x 1024 pixels</p>
+<p>Batch Size: 2</p>
+<p>Performance:</p>
+<p>Average F1 Score: 0.976</p>
+<p>Average IoU: 0.927</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/10617532">https://zenodo.org/records/10617532</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.10617532">https://doi.org/10.5281/zenodo.10617532</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-tumorcell-nuclei">
+<h2>StarDist_TumorCell_nuclei<a class="headerlink" href="#stardist-tumorcell-nuclei" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-08-29</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository contains a StarDist deep learning model designed for segmenting tumor cell nuclei from the DAPI channel in fluorescence microscopy images while excluding HUVEC nuclei. The model was trained to accurately detect individual tumor cell nuclei for subsequent measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under the nuclei. The model achieved an Intersection over Union (IoU) score of 0.558 and an F1 Score of 0.793, reflecting its capability to distinguish tumor cell nuclei from HUVEC nuclei.
+Specifications</p>
+<p>Model: StarDist for segmenting tumor cell nuclei from the DAPI fluorescence channel</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 48 paired fluorescence microscopy images and label masks</p>
+<p>Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8</p>
+<p>Data Type: Fluorescence microscopy images of the DAPI channel with manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Fluorescence Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 µm²)</p>
+<p>Model Capabilities:</p>
+<p>Segment Tumor Cell Nuclei: Detects individual tumor cell nuclei in the DAPI channel while distinguishing them from HUVEC nuclei</p>
+<p>Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under tumor cell nuclei in respective channels</p>
+<p>Performance:</p>
+<p>Average IoU: 0.558</p>
+<p>Average F1 Score: 0.793</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a>
+ </p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/13443221">https://zenodo.org/records/13443221</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.13443221">https://doi.org/10.5281/zenodo.13443221</a></p>
+</section>
+<hr class="docutils" />
+<section id="stardist-miapaca2-from-cd44">
+<h2>Stardist_MiaPaCa2_from_CD44<a class="headerlink" href="#stardist-miapaca2-from-cd44" title="Link to this heading">#</a></h2>
+<p>Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet</p>
+<p>Published 2024-08-29</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This repository contains a StarDist deep learning model designed for segmenting MiaPaCa2 cells from the CD44 channel in fluorescence microscopy images. The model is capable of accurately segmenting individual MiaPaCa2 cells while excluding HUVECs. Trained on a small dataset, the model achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.950, indicating high precision in cell segmentation.
+Specifications</p>
+<p>Model: StarDist for segmenting MiaPaCa2 cells from the CD44 fluorescence channel</p>
+<p>Training Dataset:</p>
+<p>Number of Images: 8 paired fluorescence microscopy images and label masks</p>
+<p>Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8</p>
+<p>Data Type: Fluorescence microscopy images of the CD44 channel, obtained after immunofluorescence staining with primary and secondary antibodies and manually segmented masks</p>
+<p>File Format: TIFF (.tif)</p>
+<p>Fluorescence Images: 16-bit</p>
+<p>Masks: 8-bit</p>
+<p>Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 µm²)</p>
+<p>Model Capabilities:</p>
+<p>Segment MiaPaCa2 Cells: Accurately detects individual MiaPaCa2 cells while ignoring HUVECs</p>
+<p>Measure CD44 Intensity: Allows for the measurement of CD44 intensity around MiaPaCa2 cells, specifically from the CD44 channel</p>
+<p>Performance:</p>
+<p>Average IoU: 0.884</p>
+<p>Average F1 Score: 0.950</p>
+<p>Model Training: Conducted using ZeroCostDL4Mic (<a class="github reference external" href="https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki">HenriquesLab/ZeroCostDL4Mic</a>)</p>
+<p>Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers</p>
+<p>Gautier Follain, Sujan Ghimire, Joanna W. Pylvänäinen, Monika Vaitkevičiūtė, Diana Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet
+bioRxiv 2024.09.30.615654; doi: <a class="reference external" href="https://doi.org/10.1101/2024.09.30.615654">https://doi.org/10.1101/2024.09.30.615654</a></p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://zenodo.org/records/13442877">https://zenodo.org/records/13442877</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.13442877">https://doi.org/10.5281/zenodo.13442877</a></p>
+</section>
+<hr class="docutils" />
+<section id="v4sdb-winter-school-2025">
+<h2>V4SDB_Winter_School_2025<a class="headerlink" href="#v4sdb-winter-school-2025" title="Link to this heading">#</a></h2>
+<p>Joanna Pylvänäinen</p>
+<p>Published 2025-01-13T08:29:22+00:00</p>
+<p>Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary</p>
+<p>Tags: Cell Tracking, Bioimage Analysis</p>
+<p>Content type: Github Repository, Collection</p>
+<p><a class="github reference external" href="https://github.com/CellMigrationLab/V4SDB_Winter_School_2025">CellMigrationLab/V4SDB_Winter_School_2025</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./authors"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-handling-using-fiji-training-materials">Image handling using Fiji - training materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#object-tracking-and-track-analysis-using-trackmate-and-celltrackscolab">Object Tracking and Track Analysis using TrackMate and CellTracksColab</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-aspc1-lifeact">StarDist_AsPC1_Lifeact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-monocytes-dataset">StarDist_BF_Monocytes_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-neutrophil-dataset">StarDist_BF_Neutrophil_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-cancer-cell-dataset-10x">StarDist_BF_cancer_cell_dataset_10x</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-bf-cancer-cell-dataset-20x">StarDist_BF_cancer_cell_dataset_20x</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-fluorescent-cells">StarDist_Fluorescent_cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-huvec-nuclei-dataset">StarDist_HUVEC_nuclei_dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-tumorcell-nuclei">StarDist_TumorCell_nuclei</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stardist-miapaca2-from-cd44">Stardist_MiaPaCa2_from_CD44</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#v4sdb-winter-school-2025">V4SDB_Winter_School_2025</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on 2025-05-29.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

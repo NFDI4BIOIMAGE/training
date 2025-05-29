@@ -1,4 +1,47 @@
-# Martin weigert (8)
+# Martin weigert (10)
+## 3D nuclei instance segmentation dataset of fluorescence microscopy volumes of C. elegans
+
+Fuhui Long, Hanchuan Peng, Xiao Liu, Stuart K Kim, Eugene Myers, Dagmar Kainmüller, Martin Weigert
+
+Published 2022-02-01
+
+Licensed CC-BY-4.0
+
+
+
+The dataset consists of 28 confocal microscopy volumes of C. elegans worms at the L1 stage and&nbsp; corresponding stacks of densely annotated nuclei instance segmentation masks.
+
+* 28 raw images and corresponding masks of average dimension (xyz) 1050 x 140 x 140
+* Pixelsize (xyz): 0.116 x 0.116 x 0.122&mu;m
+* Microscope: Leica confocal microscopy, 63x oil objective
+
+
+The original raw data and preliminary annotations were&nbsp; part of the following publication (please cite if you use the dataset):
+&nbsp;
+Long, F., Peng, H., Liu, X., Kim, S. K., &amp; Myers, E. (2009). A 3D digital atlas of C. elegans and its application to single-cell analyses. Nature methods, 6(9), 667-672.
+
+The nuclei annotation masks were further manually curated by Dagmar Kainmueller (MDC Berlin) for the following publication:
+
+Hirsch, P., &amp; Kainmueller, D. (2020). An auxiliary task for learning nuclei segmentation in 3d microscopy images. In&nbsp;Medical Imaging with Deep Learning&nbsp;(pp. 304-321). PMLR.
+
+We provide the dataset already structured into the train/validation/test split as used by the above as well as the following publications:&nbsp;
+
+Weigert, M., Schmidt, U., Haase, R., Sugawara, K., &amp; Myers, G. (2020). Star-convex polyhedra for 3d object detection and segmentation in microscopy. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3666-3673).
+&nbsp;
+
+&nbsp;
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/5942575](https://zenodo.org/records/5942575)
+
+[https://doi.org/10.5281/zenodo.5942575](https://doi.org/10.5281/zenodo.5942575)
+
+
+---
+
 ## CARE/Stardist tutorials for EMBO Practical Course — Computational optical biology 2022
 
 Martin Weigert
@@ -133,6 +176,29 @@ Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
 Content type: Slides, Notebook
 
 [https://github.com/maweigert/neubias_academy_stardist](https://github.com/maweigert/neubias_academy_stardist)
+
+
+---
+
+## Training set of microscopy images for Dietler et al. Nature Communications 2020
+
+Nicola Dietler, Matthias Minder, Vojislav Gligorovski, Economou, Augoustina Maria, Joly, Denis Alain Henri Lucien, Ahmad Sadeghi, Chan, Chun Hei Michael, Mateusz Kozinski, Martin Weigert, Anne-Florence Bitbol, Rahi, Sahand Jamal
+
+Published 2021-12-07
+
+Licensed CC-BY-4.0
+
+
+
+Training set of microscopy images for Dietler et al. Nature Communications 2020
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/5765648](https://zenodo.org/records/5765648)
+
+[https://doi.org/10.5281/zenodo.5765648](https://doi.org/10.5281/zenodo.5765648)
 
 
 ---

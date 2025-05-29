@@ -1,0 +1,818 @@
+# Sujan ghimire (9)
+## StarDist_AsPC1_Lifeact
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-08-29
+
+Licensed CC-BY-4.0
+
+
+
+This repository includes a StarDist deep learning model designed for segmenting AsPC1 cells labeled with Lifeact from fluorescence microscopy images. The model distinguishes individual AsPC1 cells within clusters and separates them from the background. The model was trained on a small dataset and achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.967, indicating high accuracy in cell segmentation.
+Specifications
+
+
+Model: StarDist for segmenting AsPC1 cells in fluorescence microscopy images
+
+
+Training Dataset:
+
+
+
+Number of Images: 10 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the AsPC1 Lifeact channel with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1024 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment AsPC1 Cells: Detects individual AsPC1 cells from a cluster and separates them from the background
+
+
+Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity under individual cells in respective channels
+
+
+
+Performance:
+
+
+
+Average IoU: 0.884
+
+
+Average F1 Score: 0.967
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+&nbsp;
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/13442128](https://zenodo.org/records/13442128)
+
+[https://doi.org/10.5281/zenodo.13442128](https://doi.org/10.5281/zenodo.13442128)
+
+
+---
+
+## StarDist_BF_Monocytes_dataset
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-01-26
+
+Licensed CC-BY-4.0
+
+
+
+This repository includes a StarDist deep learning model and its training and validation datasets for detecting mononucleated cells perfused over an endothelial cell monolayer. The model was trained on 27 manually annotated images and achieved an average F1 Score of 0.941. The dataset and model are helpful for biomedical research, especially in studying interactions between mononucleated and endothelial cells.
+Specifications
+
+
+Model: StarDist for mononucleated cell detection on endothelial cells
+
+
+Training Dataset:
+
+
+
+Number of Images: 27 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.941
+
+
+Average IoU: 0.831
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/10572200](https://zenodo.org/records/10572200)
+
+[https://doi.org/10.5281/zenodo.10572200](https://doi.org/10.5281/zenodo.10572200)
+
+
+---
+
+## StarDist_BF_Neutrophil_dataset
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-01-26
+
+Licensed CC-BY-4.0
+
+
+
+This repository includes a StarDist deep learning model and its training and validation datasets for detecting neutrophils perfused over an endothelial cell monolayer. The model was trained on 36 manually annotated images, achieving an average F1 Score of 0.969. The dataset and model are intended for use in biomedical research, particularly for analyzing interactions between neutrophils and endothelial cells.
+Specifications
+
+
+Model: StarDist for neutrophil detection on endothelial cells
+
+
+Training Dataset:
+
+
+
+Number of Images: 36 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.969
+
+
+Average IoU: 0.914
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/10572231](https://zenodo.org/records/10572231)
+
+[https://doi.org/10.5281/zenodo.10572231](https://doi.org/10.5281/zenodo.10572231)
+
+
+---
+
+## StarDist_BF_cancer_cell_dataset_10x
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-08-12
+
+Licensed CC-BY-4.0
+
+
+
+This repository includes a StarDist deep learning model and its training dataset designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 10x magnification. The model was trained on 77 manually annotated images, with the dataset being computationally augmented during training by a factor of 8. The model was trained for 500 epochs and achieved an average F1 Score of 0.968, indicating high accuracy in segmenting cancer cells on endothelial cells.
+Specifications
+
+
+Model: StarDist for cancer cell segmentation on endothelial cells (10x magnification)
+
+
+Training Dataset:
+
+
+
+Number of Images: 77 paired brightfield microscopy images and label masks
+
+
+Augmented Dataset: Computational augmentation by a factor of 8 during training
+
+
+Microscope: Nikon Eclipse Ti2-E, 10x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit or 16-bit
+
+
+
+Image Size: 1024 x 1022 pixels (pixel size: 1.3148 &mu;m)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 500
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.968
+
+
+Average IoU: 0.882
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/13304399](https://zenodo.org/records/13304399)
+
+[https://doi.org/10.5281/zenodo.13304399](https://doi.org/10.5281/zenodo.13304399)
+
+
+---
+
+## StarDist_BF_cancer_cell_dataset_20x
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-01-26
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a StarDist deep learning model and its training and validation datasets designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 20x magnification. Using computational methods, the initial dataset of 20 manually annotated images was augmented to 160 paired images. The model was trained over 400 epochs and achieved an average F1 Score of 0.921, demonstrating high accuracy in cell segmentation tasks.
+Specifications
+
+
+Model: StarDist for cancer cell segmentation on endothelial cells (20x magnification)
+
+
+Training Dataset:
+
+
+
+Number of Original Images: 20 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.921
+
+
+Average IoU: 0.793
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+&nbsp;
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/10572122](https://zenodo.org/records/10572122)
+
+[https://doi.org/10.5281/zenodo.10572122](https://doi.org/10.5281/zenodo.10572122)
+
+
+---
+
+## StarDist_Fluorescent_cells
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-01-26
+
+Licensed CC-BY-4.0
+
+
+
+This repository includes a StarDist deep learning model and its training and validation datasets for detecting fluorescently labeled cancer cells perfused over an endothelial cell monolayer. The model was trained on 66 images labeled with CellTrace and demonstrated high accuracy, achieving an average F1 Score of 0.877. The dataset and the trained model can be used for biomedical image analysis, particularly in cancer research.
+Specifications
+
+
+Model: StarDist for cancer cell detection
+
+
+Training Dataset:
+
+
+
+Number of Images: 66 paired fluorescent microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 10x objective
+
+
+Data Type: Fluorescent microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1024 pixels (Pixel size: 1.3205 &mu;m)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 200
+
+
+Patch Size: 1024 x 1024 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.877
+
+
+Average IoU: 0.646
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/10572310](https://zenodo.org/records/10572310)
+
+[https://doi.org/10.5281/zenodo.10572310](https://doi.org/10.5281/zenodo.10572310)
+
+
+---
+
+## StarDist_HUVEC_nuclei_dataset
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-02-05
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a StarDist deep learning model and its training and validation datasets for segmenting endothelial nuclei while ignoring cancer cells. The cancer cells were perfused over an endothelial cell monolayer. The initial dataset consisted of 17 images, where cancer cell nuclei were manually removed after segmentation with the StarDist Versatile Nuclei model. This dataset was augmented to 68 paired images using computational techniques like rotation and flipping. The model was trained for 200 epochs, achieving an average F1 Score of 0.976, demonstrating high accuracy in segmenting endothelial nuclei while excluding cancer cells.
+Specifications
+
+
+Model: StarDist for segmenting endothelial nuclei while ignoring cancer cells
+
+
+Training Dataset:
+
+
+
+Number of Original Images: 17 paired predictions of nuclei and label images
+
+
+Augmented Dataset: Expanded to 68 paired images using rotation and flipping
+
+
+Source Image Generation: Generated using a pix2pix model trained to predict nuclei from brightfield images of cancer cells on top of an endothelium (DOI: 10.5281/zenodo.10617532)
+
+
+Target Image Generation: Masks obtained via manual segmentation
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 8-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (uncalibrated)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 200
+
+
+Patch Size: 1024 x 1024 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.976
+
+
+Average IoU: 0.927
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/10617532](https://zenodo.org/records/10617532)
+
+[https://doi.org/10.5281/zenodo.10617532](https://doi.org/10.5281/zenodo.10617532)
+
+
+---
+
+## StarDist_TumorCell_nuclei
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-08-29
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a StarDist deep learning model designed for segmenting tumor cell nuclei from the DAPI channel in fluorescence microscopy images while excluding HUVEC nuclei. The model was trained to accurately detect individual tumor cell nuclei for subsequent measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under the nuclei. The model achieved an Intersection over Union (IoU) score of 0.558 and an F1 Score of 0.793, reflecting its capability to distinguish tumor cell nuclei from HUVEC nuclei.
+Specifications
+
+
+Model: StarDist for segmenting tumor cell nuclei from the DAPI fluorescence channel
+
+
+Training Dataset:
+
+
+
+Number of Images: 48 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the DAPI channel with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment Tumor Cell Nuclei: Detects individual tumor cell nuclei in the DAPI channel while distinguishing them from HUVEC nuclei
+
+
+Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under tumor cell nuclei in respective channels
+
+
+
+Performance:
+
+
+
+Average IoU: 0.558
+
+
+Average F1 Score: 0.793
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+&nbsp;
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/13443221](https://zenodo.org/records/13443221)
+
+[https://doi.org/10.5281/zenodo.13443221](https://doi.org/10.5281/zenodo.13443221)
+
+
+---
+
+## Stardist_MiaPaCa2_from_CD44
+
+Gautier Follain, Sujan Ghimire, Joanna Pylvänäinen, Johanna Ivaska, Guillaume Jacquemet
+
+Published 2024-08-29
+
+Licensed CC-BY-4.0
+
+
+
+This repository contains a StarDist deep learning model designed for segmenting MiaPaCa2 cells from the CD44 channel in fluorescence microscopy images. The model is capable of accurately segmenting individual MiaPaCa2 cells while excluding HUVECs. Trained on a small dataset, the model achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.950, indicating high precision in cell segmentation.
+Specifications
+
+
+Model: StarDist for segmenting MiaPaCa2 cells from the CD44 fluorescence channel
+
+
+Training Dataset:
+
+
+
+Number of Images: 8 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the CD44 channel, obtained after immunofluorescence staining with primary and secondary antibodies and manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment MiaPaCa2 Cells: Accurately detects individual MiaPaCa2 cells while ignoring HUVECs
+
+
+Measure CD44 Intensity: Allows for the measurement of CD44 intensity around MiaPaCa2 cells, specifically from the CD44 channel
+
+
+
+Performance:
+
+
+
+Average IoU: 0.884
+
+
+Average F1 Score: 0.950
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/13442877](https://zenodo.org/records/13442877)
+
+[https://doi.org/10.5281/zenodo.13442877](https://doi.org/10.5281/zenodo.13442877)
+
+
+---
+

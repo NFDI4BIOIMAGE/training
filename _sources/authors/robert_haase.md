@@ -522,7 +522,7 @@ Added macros to generate user dialog when running GAT for first time
 
 Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Adam Humenick, Peter Neckel, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Sebastian K. King, Estibaliz  Gómez-de-Mariscal, Arrate Muñoz-Barrutia, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar
 
-Published 2022-02-15
+Published 2025-05-01
 
 Licensed CC-BY-4.0
 
@@ -531,25 +531,28 @@ Licensed CC-BY-4.0
 This upload is associated with the software, Gut Analysis Toolbox&nbsp;(GAT).
 If you use it please cite:
 Sorensen et al.&nbsp;Gut Analysis Toolbox: Automating quantitative analysis of enteric neurons.&nbsp;J Cell Sci&nbsp;2024; jcs.261950. doi:&nbsp;https://doi.org/10.1242/jcs.261950
-The upload contains&nbsp;StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and UNet model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks (Google Colab), training and test data as well as reports on model performance.
+The upload contains StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and FPN+ResNet101 model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks (Google Colab), training and test data as well as reports on model performance.
+Note: The enteric ganglia model is has been updated to v3 which uses pytorch and is a different architecture (FPN+ResNet101).
 The model files are located in the respective folders as zip files. The folders have also been zipped:
 
 Neuron (Hu; StarDist&nbsp;model):
 
 Main folder: 2D_enteric_neuron_model_QA.zip
-Model File:2D_enteric_neuron_v4_1.zip&nbsp;
+StarDist Model File:2D_enteric_neuron_v4_1.zip&nbsp;
+DeepImageJ compatible model: 2D_enteric_neuron.bioimage.io.model.zip (used currently in GAT)
 
 
 Neuronal subtype (StarDist&nbsp;model):&nbsp;
 
 Main folder: 2D_enteric_neuron_subtype_model_QA.zip
 Model File: 2D_enteric_neuron_subtype_v4.zip
+DeepImageJ compatible model: 2D_enteric_neuron_subtype.bioimage.io.model.zip (used currently in GAT)
 
 
-Enteric ganglia (2D UNet model; Use in FIJI with deepImageJ)
+Enteric ganglia (2D FPN_ResNet101; Use in FIJI with&nbsp;deepImageJ)
 
-Main folder: 2D_enteric_ganglia_model_QA.zip
-Model File: 2D_Ganglia_RGB_v2.bioimage.io.model.zip (Compatible with deepimageJ v3)
+Main folder: 2D_enteric_ganglia_v3_training.zip
+Model File: 2D_Ganglia_RGB_v3.bioimage.io.model.zip (used currently in GAT)
 
 
 
@@ -558,6 +561,7 @@ For the all models, files included are:
 Model for segmenting cells or ganglia in 2D FIJI. StarDist or 2D UNet.
 Training and Test datasets used for training.
 Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic notebooks).
+Python notebook and code for training ganglia model with QA.
 Quality assurance reports generated from above notebooks.
 StarDist model exported for use in QuPath.
 
@@ -571,6 +575,10 @@ For enteric neuronal subtypes, 2D images for nNOS, MOR, DOR, ChAT, Calretinin, C
 Howard, M. (2021). 3D imaging of enteric neurons in mouse (Version 1) [Data set]. SPARC Consortium. 
 Graham, K. D., Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman, M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M., &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC Consortium.
 Wang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies Tested in theColon &ndash; Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h
+
+Additional images for new ganglia model:
+
+Hamnett, R., Dershowitz, L. B., Sampathkumar, V., Wang, Z., Gomez-Frittelli, J., De Andrade, V., Kasthuri, N., Druckmann, S. and Kaltschmidt, J. A. (2022b). Regional cytoarchitecture of the adult and developing mouse enteric nervous system. Curr. Biol. 32, 4483-4492.e5.
 
 The images have been acquired using a combination different microscopes. The images for the mouse tissue were acquired using:&nbsp;
 
@@ -605,9 +613,13 @@ G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
 
-[https://zenodo.org/records/10460434](https://zenodo.org/records/10460434)
+Tags: Ai-Ready
 
-[https://doi.org/10.5281/zenodo.10460434](https://doi.org/10.5281/zenodo.10460434)
+Content type: Data
+
+[https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
+
+[https://doi.org/10.5281/zenodo.15314214](https://doi.org/10.5281/zenodo.15314214)
 
 
 ---

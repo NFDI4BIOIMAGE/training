@@ -1,4 +1,4 @@
-# Olivier burri (6)
+# Olivier burri (8)
 ## Cellpose model for Digital Phase Contrast images
 
 Laura Capolupo, Olivier Burri, Romain Guiet
@@ -95,6 +95,83 @@ NOTE: Make sure that you delete the &ldquo;_flow&rdquo; images that are auto-com
 [https://zenodo.org/records/6140111](https://zenodo.org/records/6140111)
 
 [https://doi.org/10.5281/zenodo.6140111](https://doi.org/10.5281/zenodo.6140111)
+
+
+---
+
+## Cellpose training data and scripts from "Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments"
+
+Martin Wohlwend, Olivier Burri, Johan Auwerx
+
+Published 2024-02-27
+
+Licensed CC-BY-4.0
+
+
+
+This Workflow contains all the material necessary to reproduce the results of the QuPath analysis performed in the paper
+&nbsp;"Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments"
+Inside this workflow and dataset, you will find the following folders
+
+QuPath Training Project: A QuPath 0.3.2 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
+QuPath Demo Project: A QuPath 0.3.2 project containing an example image that can be segmented using cellpose, followed by the classification of the CD45 expressing fibers
+Training Images and Demo Images: The raw whole slide scanner 20x images needed by the above QuPath projects
+Model: The fodler contianing the trained cellpose model
+Cellpose Training Folder: The exported raw and ground truth images that the above cellpose model was trained on
+Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
+QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
+
+Installation and Use
+If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
+Instructions for installation are available from the links above.
+After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/7041137](https://zenodo.org/records/7041137)
+
+[https://doi.org/10.5281/zenodo.7041137](https://doi.org/10.5281/zenodo.7041137)
+
+
+---
+
+## Cellpose training data and scripts from "Machine learning for histological annotation and quantification of cortical layers"
+
+Jean Jacquemier, Julie Meystre, Olivier Burri
+
+Published 2024-07-04
+
+Licensed CC-BY-4.0
+
+
+
+This Workflow contains all the material necessary to reproduce the cells detection, thanks to the QuPath performed in the paper
+&nbsp;"Machine learning for histological annotation and quantification of cortical layers"
+Inside this workflow and dataset, you will find the following folders
+
+QuPath Training Project: A QuPath 0.5.0 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
+Training Images and Demo Images: The raw whole slide scanner images needed by the above QuPath project
+Model: The fodler containing the trained cellpose model
+cellpose-training Folder: The exported raw and ground truth images that the above cellpose model was trained on
+Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
+QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
+
+Installation and Use
+If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
+Instructions for installation are available from the links above.
+After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
+1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
+2. trigger cell segmentation from a QuPath project in a semi-automated pipeline
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/12656468](https://zenodo.org/records/12656468)
+
+[https://doi.org/10.5281/zenodo.12656468](https://doi.org/10.5281/zenodo.12656468)
 
 
 ---

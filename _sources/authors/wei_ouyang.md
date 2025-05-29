@@ -1,4 +1,4 @@
-# Wei ouyang (5)
+# Wei ouyang (6)
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
@@ -54,6 +54,29 @@ Tags: Bioimage Analysis, Artificial Intelligence
 Content type: Book, Github Repository
 
 [https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
+
+
+---
+
+## HPA Nucleus Segmentation (DPNUnet)
+
+Hao Xu, Wei Ouyang
+
+Published 2023-03-02
+
+Licensed CC-BY-4.0
+
+
+
+Download RDF Package
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://zenodo.org/records/7690494](https://zenodo.org/records/7690494)
+
+[https://doi.org/10.5281/zenodo.7690494](https://doi.org/10.5281/zenodo.7690494)
 
 
 ---
