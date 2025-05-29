@@ -11743,6 +11743,10 @@ resources:
   num_downloads: 452
   publication_date: '2021-08-19'
   submission_date: '2025-05-29T19:38:24.237753'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5220610
   - https://doi.org/10.5281/zenodo.5220610
@@ -11762,6 +11766,10 @@ resources:
   num_downloads: 53
   publication_date: '2022-05-18'
   submission_date: '2025-05-29T19:38:24.766943'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6560910
   - https://doi.org/10.5281/zenodo.6560910
@@ -11825,6 +11833,10 @@ resources:
   num_downloads: 142
   publication_date: '2022-02-01'
   submission_date: '2025-05-29T19:38:25.339506'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5942575
   - https://doi.org/10.5281/zenodo.5942575
@@ -11843,6 +11855,10 @@ resources:
   num_downloads: 90
   publication_date: '2022-05-18'
   submission_date: '2025-05-29T19:38:25.822989'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6560759
   - https://doi.org/10.5281/zenodo.6560759
@@ -11884,6 +11900,10 @@ resources:
   num_downloads: 39
   publication_date: '2024-08-29'
   submission_date: '2025-05-29T19:38:26.275354'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/13443221
   - https://doi.org/10.5281/zenodo.13443221
@@ -11960,6 +11980,10 @@ resources:
   num_downloads: 151
   publication_date: '2022-02-25'
   submission_date: '2025-05-29T19:38:26.752489'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6140064
   - https://doi.org/10.5281/zenodo.6140064
@@ -12002,6 +12026,10 @@ resources:
   num_downloads: 518
   publication_date: '2022-06-17'
   submission_date: '2025-05-29T19:38:27.205731'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6657260
   - https://doi.org/10.5281/zenodo.6657260
@@ -12065,6 +12093,10 @@ resources:
   num_downloads: 142
   publication_date: '2022-02-01'
   submission_date: '2025-05-29T19:38:27.635189'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5942575
   - https://doi.org/10.5281/zenodo.5942575
@@ -12105,6 +12137,10 @@ resources:
   num_downloads: 19
   publication_date: '2024-02-05'
   submission_date: '2025-05-29T19:38:28.073452'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10617532
   - https://doi.org/10.5281/zenodo.10617532
@@ -12123,6 +12159,10 @@ resources:
   num_downloads: 90
   publication_date: '2022-05-18'
   submission_date: '2025-05-29T19:38:28.536706'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6560759
   - https://doi.org/10.5281/zenodo.6560759
@@ -12162,6 +12202,10 @@ resources:
   num_downloads: 39
   publication_date: '2024-08-29'
   submission_date: '2025-05-29T19:38:28.990624'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/13442128
   - https://doi.org/10.5281/zenodo.13442128
@@ -12196,6 +12240,10 @@ resources:
   num_downloads: 25
   publication_date: '2024-01-26'
   submission_date: '2025-05-29T19:38:29.421953'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10572200
   - https://doi.org/10.5281/zenodo.10572200
@@ -12231,6 +12279,10 @@ resources:
   num_downloads: 51
   publication_date: '2024-01-26'
   submission_date: '2025-05-29T19:38:29.860975'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10572122
   - https://doi.org/10.5281/zenodo.10572122
@@ -12265,6 +12317,10 @@ resources:
   num_downloads: 22
   publication_date: '2024-01-26'
   submission_date: '2025-05-29T19:38:30.285796'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10572231
   - https://doi.org/10.5281/zenodo.10572231
@@ -12299,6 +12355,10 @@ resources:
   num_downloads: 7
   publication_date: '2024-02-22'
   submission_date: '2025-05-29T19:38:30.751680'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10669918
   - https://doi.org/10.5281/zenodo.10669918
@@ -12333,6 +12393,10 @@ resources:
   num_downloads: 19
   publication_date: '2024-01-26'
   submission_date: '2025-05-29T19:38:31.190324'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10572310
   - https://doi.org/10.5281/zenodo.10572310
@@ -12346,6 +12410,10 @@ resources:
   num_downloads: 57081
   publication_date: '2023-03-02'
   submission_date: '2025-05-29T19:38:31.700518'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7690494
   - https://doi.org/10.5281/zenodo.7690494
@@ -12384,6 +12452,10 @@ resources:
   num_downloads: 37
   publication_date: '2024-08-29'
   submission_date: '2025-05-29T19:38:32.180777'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/13442877
   - https://doi.org/10.5281/zenodo.13442877
@@ -12411,6 +12483,10 @@ resources:
   num_downloads: 6704
   publication_date: '2018-02-16'
   submission_date: '2025-05-29T19:38:32.603510'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/2579118
   - https://doi.org/10.5281/zenodo.2579118
@@ -12447,6 +12523,10 @@ resources:
   num_downloads: 15
   publication_date: '2024-08-12'
   submission_date: '2025-05-29T19:38:33.127511'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/13304399
   - https://doi.org/10.5281/zenodo.13304399
@@ -12492,6 +12572,10 @@ resources:
   num_downloads: 64
   publication_date: '2024-05-21'
   submission_date: '2025-05-29T19:38:33.657404'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/11235393
   - https://doi.org/10.5281/zenodo.11235393
@@ -12538,6 +12622,10 @@ resources:
   num_downloads: 127
   publication_date: '2021-05-26'
   submission_date: '2025-05-29T19:38:34.087908'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4811213
   - https://doi.org/10.5281/zenodo.4811213
@@ -12573,6 +12661,10 @@ resources:
   num_downloads: 23
   publication_date: '2021-05-16'
   submission_date: '2025-05-29T19:38:34.505684'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4765599
   - https://doi.org/10.5281/zenodo.4765599
@@ -12611,6 +12703,10 @@ resources:
   num_downloads: 16
   publication_date: '2024-05-02'
   submission_date: '2025-05-29T19:38:35.530116'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/11105050
   - https://doi.org/10.5281/zenodo.11105050
@@ -12643,6 +12739,10 @@ resources:
   num_downloads: 131
   publication_date: '2020-09-17'
   submission_date: '2025-05-29T19:38:35.970086'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4034939
   - https://doi.org/10.5281/zenodo.4034939
@@ -12676,6 +12776,10 @@ resources:
   num_downloads: 164
   publication_date: '2020-09-17'
   submission_date: '2025-05-29T19:38:36.414752'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4034976
   - https://doi.org/10.5281/zenodo.4034976
@@ -12725,6 +12829,10 @@ resources:
   num_downloads: 197
   publication_date: '2022-08-17'
   submission_date: '2025-05-29T19:38:36.879772'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7003909
   - https://doi.org/10.5281/zenodo.7003909
@@ -12759,6 +12867,10 @@ resources:
   num_downloads: 188
   publication_date: '2020-09-17'
   submission_date: '2025-05-29T19:38:37.341752'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4034929
   - https://doi.org/10.5281/zenodo.4034929
@@ -12774,6 +12886,10 @@ resources:
   num_downloads: 47
   publication_date: '2023-06-28'
   submission_date: '2025-05-29T19:38:37.758199'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/8091914
   - https://doi.org/10.5281/zenodo.8091914
@@ -12937,6 +13053,10 @@ resources:
   num_downloads: 525
   publication_date: '2021-10-05'
   submission_date: '2025-05-29T19:38:38.194976'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5551009
   - https://doi.org/10.5281/zenodo.5551009
@@ -12961,6 +13081,10 @@ resources:
   num_downloads: 195
   publication_date: '2023-08-11'
   submission_date: '2025-05-29T19:38:38.748023'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/8252039
   - https://doi.org/10.5281/zenodo.8252039
@@ -13065,6 +13189,10 @@ resources:
   num_downloads: 695
   publication_date: '2025-05-01'
   submission_date: '2025-05-29T19:38:39.675784'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/15314214
   - https://doi.org/10.5281/zenodo.15314214
@@ -13136,6 +13264,10 @@ resources:
   num_downloads: 2539
   publication_date: '2020-03-17'
   submission_date: '2025-05-29T19:38:40.141372'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/3715492
   - https://doi.org/10.5281/zenodo.3715492
@@ -13189,6 +13321,10 @@ resources:
   num_downloads: 707
   publication_date: '2022-06-15'
   submission_date: '2025-05-29T19:38:40.673359'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6645978
   - https://doi.org/10.5281/zenodo.6645978
@@ -13252,6 +13388,10 @@ resources:
   num_downloads: 1654
   publication_date: '2023-05-19'
   submission_date: '2025-05-29T19:38:41.093509'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7949940
   - https://doi.org/10.5281/zenodo.7949940
@@ -13293,6 +13433,10 @@ resources:
   num_downloads: 39
   publication_date: '2024-08-29'
   submission_date: '2025-05-29T19:38:42.528986'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/13443221
   - https://doi.org/10.5281/zenodo.13443221
@@ -13333,6 +13477,10 @@ resources:
   num_downloads: 130
   publication_date: '2024-02-28'
   submission_date: '2025-05-29T19:38:43.007344'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10720439
   - https://doi.org/10.5281/zenodo.10720439
@@ -13409,6 +13557,10 @@ resources:
   num_downloads: 151
   publication_date: '2022-02-25'
   submission_date: '2025-05-29T19:38:43.441251'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6140064
   - https://doi.org/10.5281/zenodo.6140064
@@ -13483,6 +13635,10 @@ resources:
   num_downloads: 455
   publication_date: '2021-10-05'
   submission_date: '2025-05-29T19:38:43.922418'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5550933
   - https://doi.org/10.5281/zenodo.5550933
@@ -13565,6 +13721,10 @@ resources:
   num_downloads: 294
   publication_date: '2021-10-05'
   submission_date: '2025-05-29T19:38:44.386655'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5550968
   - https://doi.org/10.5281/zenodo.5550968
@@ -13643,6 +13803,10 @@ resources:
   num_downloads: 739
   publication_date: '2021-10-05'
   submission_date: '2025-05-29T19:38:44.860796'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5550935
   - https://doi.org/10.5281/zenodo.5550935
@@ -13659,6 +13823,10 @@ resources:
   num_downloads: 91
   publication_date: '2021-03-09'
   submission_date: '2025-05-29T19:38:45.337769'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/4590066
   - https://doi.org/10.5281/zenodo.4590066
@@ -13681,6 +13849,10 @@ resources:
   num_downloads: 124
   publication_date: '2024-05-03'
   submission_date: '2025-05-29T19:38:45.843825'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10913446
   - https://doi.org/10.5281/zenodo.10913446
@@ -13703,6 +13875,10 @@ resources:
   num_downloads: 554
   publication_date: '2022-01-12'
   submission_date: '2025-05-29T19:38:46.275062'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5841376
   - https://doi.org/10.5281/zenodo.5841376
@@ -13732,6 +13908,10 @@ resources:
   num_downloads: 382
   publication_date: '2020-02-19'
   submission_date: '2025-05-29T19:38:46.745073'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/3675220
   - https://doi.org/10.5281/zenodo.3675220
@@ -13795,6 +13975,10 @@ resources:
   num_downloads: 142
   publication_date: '2022-02-01'
   submission_date: '2025-05-29T19:38:47.150806'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5942575
   - https://doi.org/10.5281/zenodo.5942575
@@ -13836,6 +14020,10 @@ resources:
   num_downloads: 600
   publication_date: '2024-11-20'
   submission_date: '2025-05-29T19:38:47.680929'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/15370205
   - https://doi.org/10.5281/zenodo.15370205
@@ -13853,6 +14041,10 @@ resources:
   num_downloads: 204
   publication_date: '2023-10-26'
   submission_date: '2025-05-29T19:38:48.150464'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10043461
   - https://doi.org/10.5281/zenodo.10043461
@@ -13903,6 +14095,10 @@ resources:
   num_downloads: 15
   publication_date: '2024-12-01'
   submission_date: '2025-05-29T19:38:48.620043'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/14330011
   - https://doi.org/10.5281/zenodo.14330011
@@ -13926,6 +14122,10 @@ resources:
   num_downloads: 18
   publication_date: '2021-12-07'
   submission_date: '2025-05-29T19:38:49.073075'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5765648
   - https://doi.org/10.5281/zenodo.5765648
@@ -13968,6 +14168,10 @@ resources:
   num_downloads: 518
   publication_date: '2022-06-17'
   submission_date: '2025-05-29T19:38:49.505767'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/6657260
   - https://doi.org/10.5281/zenodo.6657260
@@ -13984,6 +14188,10 @@ resources:
   num_downloads: 5
   publication_date: '2023-03-16'
   submission_date: '2025-05-29T19:38:49.958446'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7739793
   - https://doi.org/10.5281/zenodo.7739793
@@ -14015,6 +14223,10 @@ resources:
   num_downloads: 15
   publication_date: '2022-11-18'
   submission_date: '2025-05-29T19:38:50.490184'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7335439
   - https://doi.org/10.5061/dryad.rxwdbrvct
@@ -14073,6 +14285,10 @@ resources:
   num_downloads: 84
   publication_date: '2024-02-27'
   submission_date: '2025-05-29T19:38:50.949394'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/7041137
   - https://doi.org/10.5281/zenodo.7041137
@@ -14132,6 +14348,10 @@ resources:
   num_downloads: 135
   publication_date: '2024-07-04'
   submission_date: '2025-05-29T19:38:51.500727'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/12656468
   - https://doi.org/10.5281/zenodo.12656468
@@ -14165,6 +14385,10 @@ resources:
   num_downloads: 202
   publication_date: '2023-06-16'
   submission_date: '2025-05-29T19:38:52.025441'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/8188948
   - https://doi.org/10.5281/zenodo.8188948
@@ -14206,6 +14430,10 @@ resources:
   num_downloads: 600
   publication_date: '2024-11-20'
   submission_date: '2025-05-29T19:38:52.495957'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/15370205
   - https://doi.org/10.5281/zenodo.15370205
@@ -14285,6 +14513,10 @@ resources:
   num_downloads: 8259
   publication_date: '2024-02-27'
   submission_date: '2025-05-29T19:38:52.964225'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10719375
   - https://doi.org/10.5281/zenodo.10719375
@@ -14346,6 +14578,10 @@ resources:
   num_downloads: 843
   publication_date: '2023-06-21'
   submission_date: '2025-05-29T19:38:53.423116'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/8065174
   - https://doi.org/10.5281/zenodo.8065174
@@ -14425,6 +14661,10 @@ resources:
   num_downloads: 7595
   publication_date: '2025-03-19'
   submission_date: '2025-05-29T19:38:53.883896'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/15050523
   - https://doi.org/10.5281/zenodo.15050523
@@ -14488,6 +14728,10 @@ resources:
   num_downloads: 1044
   publication_date: '2023-03-23'
   submission_date: '2025-05-29T19:38:54.561573'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/8417503
   - https://doi.org/10.5281/zenodo.8417503
@@ -14567,6 +14811,10 @@ resources:
   num_downloads: 8259
   publication_date: '2024-02-27'
   submission_date: '2025-05-29T19:38:55.014371'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/10719375
   - https://doi.org/10.5281/zenodo.10719375
@@ -14606,6 +14854,10 @@ resources:
   num_downloads: 364
   publication_date: '2021-12-13'
   submission_date: '2025-05-29T19:38:55.457337'
+  tags:
+  - AI-ready
+  type:
+  - Data
   url:
   - https://zenodo.org/records/5979761
   - https://doi.org/10.5281/zenodo.5979761
