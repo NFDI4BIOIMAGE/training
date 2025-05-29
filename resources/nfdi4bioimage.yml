@@ -11681,7 +11681,7 @@ resources:
 - authors: Deepia
   description: "This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder."
   license: UNKNOWN
-  name: Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+  name: "Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated"
   publication_date: '2024-08-05'
   tags:
   - Dimensionality Reduction
