@@ -26,31 +26,29 @@ def main():
     
     yml_filename = "resources/nfdi4bioimage.yml"
     
-    
     issue_text = get_issue_body(repository, issue)
-    if "\n" in issue_text or not issue_text.startswith("https://zenodo.org/records"):
-        print(issue_text, " is not a zenodo link. I show myself out.")
-        return
-
-    zenodo_url = issue_text
+    zenodo_urls = [line for line in issue_text.splitlines() if line.startswith("https://zenodo.org/records")]
     
-    # read data from zenodo
-    zenodo_data_dict = complete_zenodo_data(zenodo_url)
-    zenodo_yml = "\n- " + yaml.dump(zenodo_data_dict).replace("\n", "\n  ")
+    if not zenodo_urls:
+        print(issue_text, " does not contain any zenodo link. I show myself out.")
+        return
 
     # read "database"
     branch = create_branch(repository)
     file_content = get_file_in_repository(repository, branch, yml_filename).decoded_content.decode()
-    
     print("yml file content length:", len(file_content))
 
-    # add entry
-    file_content += zenodo_yml
-    file_content
-
+    for zenodo_url in zenodo_urls:
+        # read data from zenodo
+        zenodo_data_dict = complete_zenodo_data(zenodo_url)
+        zenodo_yml = "\n- " + yaml.dump(zenodo_data_dict).replace("\n", "\n  ")
+        
+        # add entry
+        file_content += zenodo_yml
+    
     # save back to github
-    write_file(repository, branch, yml_filename, file_content, "Add " + zenodo_url)
-    res = send_pull_request(repository, branch, "Add " + zenodo_url, f"closes #{issue}") 
+    write_file(repository, branch, yml_filename, file_content, "Add multiple Zenodo entries")
+    res = send_pull_request(repository, branch, "Add multiple Zenodo entries", f"closes #{issue}")
 
     print("Done.", res)
     
