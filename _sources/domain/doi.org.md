@@ -1,4 +1,4 @@
-# Doi.org (267)
+# Doi.org (271)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -696,6 +696,25 @@ Content type: Slides
 
 ---
 
+## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Published 2025-05-29
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
+
+[https://zenodo.org/records/15546497](https://zenodo.org/records/15546497)
+
+[https://doi.org/10.5281/zenodo.15546497](https://doi.org/10.5281/zenodo.15546497)
+
+
+---
+
 ## BioImage.IO Chatbot, GloBIAS Seminar
 
 Caterina Fuster-Barcelo
@@ -1115,6 +1134,39 @@ Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Manage
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
 [https://doi.org/10.5281/zenodo.14626054](https://doi.org/10.5281/zenodo.14626054)
+
+
+---
+
+## Collaborative working and  Version Control with Git[Hub]
+
+Robert Haase
+
+Published 2025-05-10
+
+Licensed CC-BY-4.0
+
+
+
+Working together on the internet presents us with new challenges: Who uploaded a file and when? Who contributed to the project when and why? How can content be merged when multiple team members make changes at the same time? The version control tool&nbsp;Git offers a comprehensive solution to these questions. The online platform GitHub.com provides a Git-driven platform that enables effective collaboration. Attendees of this hands-on tutorial will learn:
+
+
+Introduction to version control with Git[Hub]
+
+
+Working with Git: Pull requests
+
+
+Resolving merge conflicts
+
+
+Artificial intelligence that can respond to GitHub issues
+
+
+
+[https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
+
+[https://doi.org/10.5281/zenodo.15379632](https://doi.org/10.5281/zenodo.15379632)
 
 
 ---
@@ -2582,6 +2634,26 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 ---
 
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
+
+
+---
+
 ## Fiber and vessel dataset for segmentation and characterization
 
 Saqib Qamar, Baba, Abu Imran, Stèphane Verger, Magnus Andersson
@@ -4019,6 +4091,25 @@ Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix
 [https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
 
 [https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
+
+
+---
+
+## Learning and Training Bio-image Analysis in the Age of AI
+
+Robert Haase
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+The advent of large language models (LLMs) such as ChatGPT changes the way we analyse images. We ask LLMs to generate code, apply it to images and spend less time on learning implementation details. This also has impact on how we learn image analysis. While coding skills are still required, we can use LLMs to explain code, make proposals how to analyse the images and yet still decide how the analysis is done.
+
+[https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
+
+[https://doi.org/10.5281/zenodo.15165424](https://doi.org/10.5281/zenodo.15165424)
 
 
 ---

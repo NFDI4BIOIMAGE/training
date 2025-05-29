@@ -1,4 +1,23 @@
 # Recently added (10)
+## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Published 2025-05-29
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
+
+[https://zenodo.org/records/15546497](https://zenodo.org/records/15546497)
+
+[https://doi.org/10.5281/zenodo.15546497](https://doi.org/10.5281/zenodo.15546497)
+
+
+---
+
 ## CellBinDB: A Large-Scale Multimodal Annotated Dataset
 
 Can Shi, Jinghong Fan, Zhonghan Deng, Huanlin Liu, Qiang Kang, Yumei Li, Jing Guo, Jingwen Wang, Jinjiang Gong, Sha Liao, Ao Chen, Ying Zhang, Mei Li
@@ -24,102 +43,55 @@ Content type: Data
 
 ---
 
-## Cellpose training data and scripts from "Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments"
+## Collaborative working and  Version Control with Git[Hub]
 
-Martin Wohlwend, Olivier Burri, Johan Auwerx
+Robert Haase
 
-Published 2024-02-27
-
-Licensed CC-BY-4.0
-
-
-
-This Workflow contains all the material necessary to reproduce the results of the QuPath analysis performed in the paper
-&nbsp;"Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments"
-Inside this workflow and dataset, you will find the following folders
-
-QuPath Training Project: A QuPath 0.3.2 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
-QuPath Demo Project: A QuPath 0.3.2 project containing an example image that can be segmented using cellpose, followed by the classification of the CD45 expressing fibers
-Training Images and Demo Images: The raw whole slide scanner 20x images needed by the above QuPath projects
-Model: The fodler contianing the trained cellpose model
-Cellpose Training Folder: The exported raw and ground truth images that the above cellpose model was trained on
-Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
-QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
-
-Installation and Use
-If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
-Instructions for installation are available from the links above.
-After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
-
-Tags: Ai-Ready
-
-Content type: Data
-
-[https://zenodo.org/records/7041137](https://zenodo.org/records/7041137)
-
-[https://doi.org/10.5281/zenodo.7041137](https://doi.org/10.5281/zenodo.7041137)
-
-
----
-
-## Cellpose training data and scripts from "Machine learning for histological annotation and quantification of cortical layers"
-
-Jean Jacquemier, Julie Meystre, Olivier Burri
-
-Published 2024-07-04
+Published 2025-05-10
 
 Licensed CC-BY-4.0
 
 
 
-This Workflow contains all the material necessary to reproduce the cells detection, thanks to the QuPath performed in the paper
-&nbsp;"Machine learning for histological annotation and quantification of cortical layers"
-Inside this workflow and dataset, you will find the following folders
+Working together on the internet presents us with new challenges: Who uploaded a file and when? Who contributed to the project when and why? How can content be merged when multiple team members make changes at the same time? The version control tool&nbsp;Git offers a comprehensive solution to these questions. The online platform GitHub.com provides a Git-driven platform that enables effective collaboration. Attendees of this hands-on tutorial will learn:
 
-QuPath Training Project: A QuPath 0.5.0 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
-Training Images and Demo Images: The raw whole slide scanner images needed by the above QuPath project
-Model: The fodler containing the trained cellpose model
-cellpose-training Folder: The exported raw and ground truth images that the above cellpose model was trained on
-Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
-QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
 
-Installation and Use
-If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
-Instructions for installation are available from the links above.
-After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
-1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
-2. trigger cell segmentation from a QuPath project in a semi-automated pipeline
+Introduction to version control with Git[Hub]
 
-Tags: Ai-Ready
 
-Content type: Data
+Working with Git: Pull requests
 
-[https://zenodo.org/records/12656468](https://zenodo.org/records/12656468)
 
-[https://doi.org/10.5281/zenodo.12656468](https://doi.org/10.5281/zenodo.12656468)
+Resolving merge conflicts
+
+
+Artificial intelligence that can respond to GitHub issues
+
+
+
+[https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
+
+[https://doi.org/10.5281/zenodo.15379632](https://doi.org/10.5281/zenodo.15379632)
 
 
 ---
 
-## Deep learning training data (JOVE)
+## Explainable AI for Computer Vision
 
-Jessica Heebner, Carson Purnell, Ryan Hylton, Mike Marsh, Michael Grillo, Matt Swulius
+Robert Haase
 
-Published 2022-11-18
+Published 2025-03-09
 
-Licensed CC-ZERO
+Licensed CC-BY-4.0
 
 
 
-Cryo-electron tomography (cryo-ET) allows researchers to image cells in their native, hydrated state at the highest resolution currently possible. However, the technique has several limitations that make analyzing the data it generates time-intensive and difficult. Hand-segmenting a single tomogram can take hours to days of human effort, but the microscope can easily generate 50 or more tomograms a day. Current deep learning segmentation programs for cryo-ET do exist but are limited to segmenting one structure at a time. Here multi-slice U-Net convolutional neural networks are trained and applied to automatically segment multiple structures simultaneously within cryo-tomograms. With proper preprocessing, these networks can be robustly inferred to many tomograms without the need for training individual networks for each tomogram. This workflow dramatically improves the speed with which cryo-electron tomograms can be analyzed by cutting segmentation time down to under 30 min in most cases. Further, segmentations can be used to improve the accuracy of filament tracing within a cellular context and to rapidly extract coordinates for subtomogram averaging.
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
 
-Tags: Ai-Ready
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
-Content type: Data
-
-[https://zenodo.org/records/7335439](https://zenodo.org/records/7335439)
-
-[https://doi.org/10.5061/dryad.rxwdbrvct](https://doi.org/10.5061/dryad.rxwdbrvct)
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
 
 
 ---
@@ -151,6 +123,25 @@ Content type: Data
 [https://zenodo.org/records/5979761](https://zenodo.org/records/5979761)
 
 [https://doi.org/10.5281/zenodo.5979761](https://doi.org/10.5281/zenodo.5979761)
+
+
+---
+
+## Learning and Training Bio-image Analysis in the Age of AI
+
+Robert Haase
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+The advent of large language models (LLMs) such as ChatGPT changes the way we analyse images. We ask LLMs to generate code, apply it to images and spend less time on learning implementation details. This also has impact on how we learn image analysis. While coding skills are still required, we can use LLMs to explain code, make proposals how to analyse the images and yet still decide how the analysis is done.
+
+[https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
+
+[https://doi.org/10.5281/zenodo.15165424](https://doi.org/10.5281/zenodo.15165424)
 
 
 ---
@@ -305,59 +296,6 @@ Content type: Data
 [https://zenodo.org/records/8417503](https://zenodo.org/records/8417503)
 
 [https://doi.org/10.5281/zenodo.8417503](https://doi.org/10.5281/zenodo.8417503)
-
-
----
-
-## Volumetric segmentation of biological cells and subcellular structures for optical diffraction tomography images - dataset
-
-Martyna Mazur, Wojciech Krauze
-
-Published 2023-06-16
-
-Licensed CC-BY-4.0
-
-
-
-This dataset includes 4&nbsp;files with segmentation results for 4&nbsp;different ODT reconstructions of SH-SY5Y neuroblastoma cell. The segmentation results contain:
-
-
-	3D binary masks of biological cells obtained through Cellpose [1] and ODT-SAS;
-	3D binary masks of organelles: nucleoli and lipid structures (LS) obtained through slice-by-slice manual segmentation&nbsp;and ODT-SAS.
-
-
-All files are .*mat files.
-
-The files REC_SH-SY5Y_1.mat,&nbsp;REC_SH-SY5Y_2.mat and&nbsp;REC_SH-SY5Y_3.mat&nbsp;consist of 7 variables:
-
-RECON &ndash;&nbsp;tomographic reconstruction of SH-SY5Y neuroblastoma cell;
-n_imm &ndash;&nbsp;refractive index of object immersion medium;
-dx &ndash;&nbsp;object space sample size in XY [\(\mu m\)];
-rayXY &ndash;&nbsp;xy-coordinates of illumination vectors;
-
-maskManual &ndash;&nbsp;table with manually determined 3D binary masks of organelles;
-maskCellpose &ndash;&nbsp;3D binary mask of biological cell obtained through Cellpose;
-maskODTSAS &ndash;&nbsp;table with 3D binary masks of biological cell and their organelles obtained through ODT-SAS.
-
-File REC_SH-SY5Y_4.mat&nbsp;includes masks for the ODT-SAS and Cellpose segmentation of three closely packed cells and consists of 5 variables: RECON, n_imm, dx, maskCellpose and maskODTSAS.
-
-Access a particular 3D binary mask from &#39;maskManual&#39; and &#39;maskODTSAS&#39; tables, using the following names: &#39;Cell&#39;, &#39;Nucleoli&#39;, &#39;LS&#39;.
-For example:
-
-cellMask = maskODTSAS.Cell{1};
-
-
-[1] Stringer, C., Wang, T., Michaelos, M., &amp; Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106.
-
-&nbsp;
-
-Tags: Ai-Ready
-
-Content type: Data
-
-[https://zenodo.org/records/8188948](https://zenodo.org/records/8188948)
-
-[https://doi.org/10.5281/zenodo.8188948](https://doi.org/10.5281/zenodo.8188948)
 
 
 ---

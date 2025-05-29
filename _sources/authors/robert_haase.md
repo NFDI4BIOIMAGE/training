@@ -1,4 +1,4 @@
-# Robert haase (60)
+# Robert haase (64)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -154,6 +154,25 @@ Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Pyth
 Content type: Notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Published 2025-05-29
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
+
+[https://zenodo.org/records/15546497](https://zenodo.org/records/15546497)
+
+[https://doi.org/10.5281/zenodo.15546497](https://doi.org/10.5281/zenodo.15546497)
 
 
 ---
@@ -327,6 +346,39 @@ Content type: Blog Post
 
 ---
 
+## Collaborative working and  Version Control with Git[Hub]
+
+Robert Haase
+
+Published 2025-05-10
+
+Licensed CC-BY-4.0
+
+
+
+Working together on the internet presents us with new challenges: Who uploaded a file and when? Who contributed to the project when and why? How can content be merged when multiple team members make changes at the same time? The version control tool&nbsp;Git offers a comprehensive solution to these questions. The online platform GitHub.com provides a Git-driven platform that enables effective collaboration. Attendees of this hands-on tutorial will learn:
+
+
+Introduction to version control with Git[Hub]
+
+
+Working with Git: Pull requests
+
+
+Resolving merge conflicts
+
+
+Artificial intelligence that can respond to GitHub issues
+
+
+
+[https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
+
+[https://doi.org/10.5281/zenodo.15379632](https://doi.org/10.5281/zenodo.15379632)
+
+
+---
+
 ## Creating a Research Data Management Plan using chatGPT
 
 Robert Haase
@@ -470,6 +522,26 @@ Tags: Metadata
 Content type: Publication, Poster
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
+
+
+---
+
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
 
 
 ---
@@ -815,6 +887,25 @@ Tags: Globias, Artificial Intelligence
 [https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
 [https://doi.org/10.5281/zenodo.14418209](https://doi.org/10.5281/zenodo.14418209)
+
+
+---
+
+## Learning and Training Bio-image Analysis in the Age of AI
+
+Robert Haase
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+The advent of large language models (LLMs) such as ChatGPT changes the way we analyse images. We ask LLMs to generate code, apply it to images and spend less time on learning implementation details. This also has impact on how we learn image analysis. While coding skills are still required, we can use LLMs to explain code, make proposals how to analyse the images and yet still decide how the analysis is done.
+
+[https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
+
+[https://doi.org/10.5281/zenodo.15165424](https://doi.org/10.5281/zenodo.15165424)
 
 
 ---
