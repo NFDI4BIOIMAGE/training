@@ -3,8 +3,8 @@ Running Deep-Learning Scripts in the BiA-PoL Omero Server,proficient,Python * Ar
 Browsing the Open Microscopy Image Data Resource with Python,competent,OMERO * Python,https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html,CC-BY-4.0,,,Text,text,"Haase, Robert",,,en
 Getting started with Mambaforge and Python,novice,Python * Conda * Mamba,https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html,CC-BY-4.0,,,Text,text,"Lampert, Mara",,,en
 "Managing Scientific Python environments using Conda, Mamba and friends",novice,Python * Conda * Mamba,https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/,CC-BY-4.0,,,Text,text,"Haase, Robert",,,en
-BioImage Analysis Notebooks,advanced beginner,Python * Bioimage Analysis,https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html,CC-BY-4.0 * BSD-3-Clause,,,Code Notebook * Book,code * text,Robert Haase et al.,,,en
-Introduction to Bioimage Analysis,novice,Python * Imagej * Bioimage Analysis,https://bioimagebook.github.io/index.html,CC-BY-4.0,,,Code Notebook * Book,code * text,"Bankhead, Pete",,,en
+BioImage Analysis Notebooks,advanced beginner,Python * Bioimage Analysis,https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html,CC-BY-4.0 * BSD-3-Clause,,,Book * Code Notebook,code * text,Robert Haase et al.,,,en
+Introduction to Bioimage Analysis,novice,Python * Imagej * Bioimage Analysis,https://bioimagebook.github.io/index.html,CC-BY-4.0,,,Book * Code Notebook,code * text,"Bankhead, Pete",,,en
 Generative artificial intelligence for bio-image analysis,competent,Python * Bioimage Analysis * Artificial Intelligence,https://f1000research.com/slides/12-971,CC-BY-4.0,,,Presentation,presentation,"Haase, Robert",,,en
 Train-the-Trainer Concept on Research Data Management,competent,Research Data Management,https://zenodo.org/record/4071471 * https://doi.org/10.5281/zenodo.4071471,CC-BY-4.0,"Within the project FDMentor, a German Train-the-Trainer Programme on Research Data Management (RDM) was developed and piloted in a series of workshops. The topics cover many aspects of research data management, such as data management plans and the publication of research data, as well as didactic units on learning concepts, workshop design and a range of didactic methods.
 
@@ -37,7 +37,7 @@ Making your package available on conda-forge,competent,Deployment * Python,https
 "I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training",advanced beginner,OMERO * Research Data Management * Nfdi4Bioimage * I3Dbio,https://zenodo.org/records/8323588 * https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU * https://doi.org/10.5281/zenodo.8323588,CC-BY-4.0,"The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.",2023-11-13,Presentation,video * presentation,"Schmidt, Christian * Bortolomeazzi, Michele * Boissonnet, Tom * Fortmann-Grote, Carsten * Dohle, Julia * Zentis, Peter * Kandpal, Niraj * Kunis, Susanne * Zobel, Thomas * Weidtkamp-Peters, Stefanie * Ferrando-May, Elisa",,odp * pdf * pptx,en
 IAFIG-RMS Python for Bioimage Analysis Course,advanced beginner,Bioimage Analysis,https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis,GPL-3.0,,,Code Notebook,code,"Barbotin, Aurelien * Nelson, Chas * Waithe, Dominic * Tarkowska, Ola(Alexandra) * Kundegorski, Mikolaj * Cross, Stephen * Fallesen, Todd",,,en
 numpy pandas course,advanced beginner,Python,https://github.com/guiwitz/NumpyPandas_course,BSD-3-Clause,,,Code Notebook,code,"Witz, Guillaume",,,
-Python for Microscopists,novice,Python * Bioimage Analysis,https://github.com/bnsreenu/python_for_microscopists,MIT,,,Code Notebook * Other,code,"Bhattiprolu, Sreenivas",,,en
+Python for Microscopists,novice,Python * Bioimage Analysis,https://github.com/bnsreenu/python_for_microscopists,MIT,,,Other * Code Notebook,code,"Bhattiprolu, Sreenivas",,,en
 Scientific Visualization: Python + Matplotlib,advanced beginner,Python,https://github.com/rougier/scientific-visualization-book * https://inria.hal.science/hal-03427242/document,CC-BY-ND-SA-4.0,,,Book,text,"Rougier, NicolasP.",,,
 Teaching Bioimage Analysis with Python,advanced beginner,Python * Bioimage Analysis,https://github.com/CamachoDejay/teaching-bioimage-analysis-python,MIT,,,Tutorial,,"Camacho, Rafael",,,en
 Teaching ImageJ FIJI,advanced beginner,Fiji * Bioimage Analysis,https://github.com/CamachoDejay/Teaching-ImageJ-FIJI,MIT,,,Tutorial,,"Camacho, Rafael",,,
@@ -48,13 +48,13 @@ Python BioImage Analysis Tutorial,advanced beginner,Python * Bioimage Analysis,h
 Image Processing with Python,advanced beginner,Python * Bioimage Analysis,https://datacarpentry.org/image-processing/ * https://github.com/datacarpentry/image-processing,CC-BY-4.0,,,Other,,"Deppen, Jacob * Meechan, Kimberly * Palmquist, David * Schiller, Ulf * Turner, Robert * Corvellec, Marianne * Hodges, Toby * et al.",,,en
 Deep Vision and Graphics,competent,Python * Artificial Intelligence,https://github.com/yandexdataschool/deep_vision_and_graphics,MIT,,,Code Notebook,code,"Yurchenko, Victor * Ratnikov, Fedor * Checkalina, Viktoriia",,,en
 Collection of teaching material for deep learning for (biomedical) image analysis,competent,Artificial Intelligence * Bioimage Analysis,https://github.com/constantinpape/dl-teaching-resources,MIT,,,,,"Pape, Constantin",,,en
-ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy,competent,Bioimage Analysis,https://github.com/HenriquesLab/ZeroCostDL4Mic * https://www.nature.com/articles/s41467-021-22518-0 * https://doi.org/10.1038/s41467-021-22518-0,MIT,,,Code Notebook * Other,code,"Chamier, Lucasvon * Laine, RomainF. * Jukkala, Johanna * Spahn, Christoph * Krentzel, Daniel * Nehme, Elias * Lerche, Martina * Hernández-pérez, Sara * Mattila, Pieta * Karinou, Eleni * Holden, Séamus * Solak, AhmetCan * Krull, Alexander * Buchholz, Tim-Oliver * Jones, MartinL * Royer, LoicAlain * Leterrier, Christophe * Shechtman, Yoav * Jug, Florian * Heilemann, Mike * Jacquemet, Guillaume * Henriques, Ricardo",,,en
-DL4MicEverywhere,novice,Bioimage Analysis,https://github.com/HenriquesLab/DL4MicEverywhere,CC-BY-4.0,,,Code Notebook * Other,code,"Hidalgo, Iván * et al.",,,en
-CellTrackColab,advanced beginner,,https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2 * https://github.com/guijacquemet/CellTracksColab,MIT,,,Code Notebook * Other,code,"Jacquemet, Guillaume",,,
+ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy,competent,Bioimage Analysis,https://github.com/HenriquesLab/ZeroCostDL4Mic * https://www.nature.com/articles/s41467-021-22518-0 * https://doi.org/10.1038/s41467-021-22518-0,MIT,,,Other * Code Notebook,code,"Chamier, Lucasvon * Laine, RomainF. * Jukkala, Johanna * Spahn, Christoph * Krentzel, Daniel * Nehme, Elias * Lerche, Martina * Hernández-pérez, Sara * Mattila, Pieta * Karinou, Eleni * Holden, Séamus * Solak, AhmetCan * Krull, Alexander * Buchholz, Tim-Oliver * Jones, MartinL * Royer, LoicAlain * Leterrier, Christophe * Shechtman, Yoav * Jug, Florian * Heilemann, Mike * Jacquemet, Guillaume * Henriques, Ricardo",,,en
+DL4MicEverywhere,novice,Bioimage Analysis,https://github.com/HenriquesLab/DL4MicEverywhere,CC-BY-4.0,,,Other * Code Notebook,code,"Hidalgo, Iván * et al.",,,en
+CellTrackColab,advanced beginner,,https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2 * https://github.com/guijacquemet/CellTracksColab,MIT,,,Other * Code Notebook,code,"Jacquemet, Guillaume",,,
 Image analysis course material,,,https://github.com/tischi/image-analysis-course-material,MIT,"Training materials about image registration, big warp and elastix",,,,"Tischer, Christian",,,en
 Image processing for beginners,advanced beginner,Python * Bioimage Analysis,https://github.com/guiwitz/PyImageCourse_beginner,BSD-3-Clause,,,Code Notebook,code,"Witz, Guillaume",,,en
 Image-based Profiling Handbook,advanced beginner,Bioimage Analysis,https://github.com/cytomining/profiling-handbook * https://cytomining.github.io/profiling-handbook/,CC0-1.0,,,Book,text,"Cimini, Beth * Becker, Tim * Singh, Shantanu * Way, Gregory * Abbasi, Hamdah * Tromans-Coia, Callum",,,en
-Methods in bioimage analysis,advanced beginner,Bioimage Analysis,https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/ * https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1 * https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view,CC-BY-4.0,,,Presentation * Tutorial,video * presentation,"Tischer, Christian",,,en
+Methods in bioimage analysis,advanced beginner,Bioimage Analysis,https://www.ebi.ac.uk/training/events/methods-bioimage-analysis/ * https://doi.org/10.6019/TOL.BioImageAnalysis22-w.2022.00001.1 * https://drive.google.com/file/d/1MhuqfKhZcYu3bchWMqogIybKjamU5Msg/view,CC-BY-4.0,,,Tutorial * Presentation,video * presentation,"Tischer, Christian",,,en
 ilastik: interactive machine learning for (bio)image analysis,advanced beginner,Artificial Intelligence * Bioimage Analysis,https://zenodo.org/doi/10.5281/zenodo.4330625,CC-BY-4.0,,,Presentation,presentation,"Kreshuk, Anna * Kutra, Dominik",,,
 Nextflow: Scalable and reproducible scientific workflows,competent,Workflow Engine,https://zenodo.org/records/4334697 * https://doi.org/10.5281/zenodo.4334697,CC-BY-4.0,"Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.",2020-12-17,Presentation,presentation,"Evan, Floden * Paolo, DiTommaso",,pdf,en
 QuPath: Open source software for analysing (awkward) images,,Bioimage Analysis,https://zenodo.org/records/4328911 * https://doi.org/10.5281/zenodo.4328911,CC-BY-4.0,Slides from the CZI/EOSS online meeting in December 2020.,2020-12-16,Presentation,presentation,"Bankhead, Peter",,pdf,en
@@ -62,7 +62,7 @@ Creating open computational curricula,competent,,https://zenodo.org/records/4317
 Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing,competent,,https://f1000research.com/slides/11-1171 * https://doi.org/10.7490/f1000research.1119154.1,CC-BY-4.0,,,Presentation,presentation,"Haase, Robert",,,en
 Adding a Workflow to BIAFLOWS,competent,Neubias * Bioimage Analysis,https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf,BSD-2-Clause,,,Presentation,presentation,"Tosi, Sébastien * Baecker, Volker * Pavie, Benjamin",,,en
 BioImage Data Analysis,competent,Neubias * Bioimage Analysis,https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf,ALL RIGHTS RESERVED,,,Book,text,"Miura, Kota",,,en
-Open Image Data Handbook,advanced beginner,Neubias * Research Data Management * Napari * Python * Bioimage Analysis,https://kevinyamauchi.github.io/open-image-data/intro.html,CC-BY-4.0,,,Code Notebook * Book,code * text,"Yamauchi, Kevin",,,en
+Open Image Data Handbook,advanced beginner,Neubias * Research Data Management * Napari * Python * Bioimage Analysis,https://kevinyamauchi.github.io/open-image-data/intro.html,CC-BY-4.0,,,Book * Code Notebook,code * text,"Yamauchi, Kevin",,,en
 "Bio-image analysis, biostatistics, programming and machine learning for computational biology",advanced beginner,Python * Bioimage Analysis * Napari,https://github.com/BiAPoL/Bio-image_Analysis_with_Python,CC-BY-4.0,,,Code Notebook,code,"Poetsch, Anna * Dresden, Biotec * Zoccoler, MarceloLeomil * Müller, JohannesRichard * Haase, Robert",,,en
 Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities,advanced beginner,Research Data Management * Nfdi4Bioimage,https://zenodo.org/records/10083555 * https://doi.org/10.5281/zenodo.10083555,CC-BY-4.0,This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;,2023-11-08,Presentation,presentation,"Wetzker, Cornelia",,pdf * pptx,en
 Bio-image Analysis with the Help of Large Language Models,advanced beginner,artificial intelligence * Python,https://zenodo.org/records/10815329 * https://doi.org/10.5281/zenodo.10815329,CC-BY-4.0,"Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.",2024-03-13,Presentation,presentation,"Haase, Robert",,odp * pdf * pptx,en
@@ -74,7 +74,7 @@ QI 2024 Analysis Lab Manual,advanced beginner,Python,https://bethac07.github.io/
 My Journey Through Bioimage Analysis Teaching Methods From Classroom to Cloud,competent,Teaching,https://zenodo.org/records/10679054 * https://doi.org/10.5281/zenodo.10679054,CC-BY-4.0,"In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences.&nbsp;",2024-02-19,Presentation,presentation,"Fazeli, Elnaz",,pdf,en
 Cultivating Open Training,advanced beginner,Teaching,https://zenodo.org/records/10654775 * https://doi.org/10.5281/zenodo.10654775,CC-BY-4.0,"In these slides introduce current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.",2024-02-14,Presentation,presentation,"Haase, Robert",,pptx,en
 [N4BI AHM] Welcome to BioImage Town,,Research Data Management,https://zenodo.org/records/10008465 * https://doi.org/10.5281/zenodo.10008465,CC-BY-4.0,"Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.",2023-10-16,Presentation,presentation,"Moore, Josh",,pdf,
-Elastix tutorial,advanced beginner,Image Registration * Itk * Elastix,https://m-albert.github.io/elastix_tutorial/intro.html,BSD-3-Clause,Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.,,Code Notebook * Other,code,"Albert, Marvin",,,
+Elastix tutorial,advanced beginner,Image Registration * Itk * Elastix,https://m-albert.github.io/elastix_tutorial/intro.html,BSD-3-Clause,Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.,,Other * Code Notebook,code,"Albert, Marvin",,,
 Intro napari slides,advanced beginner,Napari,https://thejacksonlaboratory.github.io/intro-napari-slides/#/section,MIT,Introduction to napari workshop run at JAX (Spring 2024).,,Presentation,presentation,"Sobolewski, Peter",,,
 NeubiasPasteur2023_AdvancedCellPose,competent,bioimage analysis * artificial intelligence,https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose,BSD-3-Clause,Tutorial for running CellPose advanced functions,,,,"Letort, Gaelle",,,
 Microscopy data analysis: machine learning and the BioImage Archive,competent,BioImage Analysis * Python * artificial intelligence,https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/,CC-BY-4.0,"The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.",,Presentation,video * presentation,"Iudin, Andrii * Foix-Romero, Anna * Kreshuk, Anna * Athar, Awais * Cimini, Beth * Kutra, Dominik * Estibalis Gomez de Mariscal * Wong, Frances * Jacquemet, Guillaume * Narayan, Kedar * Weigert, Martin * Gogoberidze, Nodar * Salih, Osman * Walczysko, Petr * Conrad, Ryan * Weyend, Simone * Somasundharam, SriramSundar * Sivagurunathan, Suganya * Sarkans, Ugis",,,en
@@ -95,7 +95,7 @@ FAIRy deep-learning for bioImage analysis,competent,artificial intelligence * FA
 OMERO - HCS analysis pipeline using Jupyter Notebooks,advanced beginner,Teaching * Bioimage Analysis * Notebooks * Python * OMERO,https://github.com/rmassei/2024-jn-omero-pipeline,MIT,"Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.",,,,"Massei, Riccardo",,,en
 Euro-BioImaging's Template for Research Data Management Plans,,Bioimage Analysis * FAIR-Principles * Research Data Management,https://zenodo.org/records/11473803 * https://doi.org/10.5281/zenodo.11473803,CC-BY-4.0,"Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;",2024-06-04,Tutorial * Other,,"Kemmer, Isabel * ERIC, Euro-BioImaging",,pdf,en
-Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks,advanced beginner,Bioimage Analysis * FAIR-Principles * Research Data Management,https://zenodo.org/records/11474407 * https://doi.org/10.5281/zenodo.11474407,CC-BY-4.0,"Hands-on exercises on FAIR Bioimage Data from the interactive online workshop ""Euro-BioImaging's Guide to FAIR BioImage Data 2024"" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories",2024-06-04,Presentation * Tutorial,presentation,"Kemmer, Isabel * ERIC, Euro-BioImaging",,pdf,en
+Euro-BioImaging's Guide to FAIR BioImage Data - Practical Tasks,advanced beginner,Bioimage Analysis * FAIR-Principles * Research Data Management,https://zenodo.org/records/11474407 * https://doi.org/10.5281/zenodo.11474407,CC-BY-4.0,"Hands-on exercises on FAIR Bioimage Data from the interactive online workshop ""Euro-BioImaging's Guide to FAIR BioImage Data 2024"" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories",2024-06-04,Tutorial * Presentation,presentation,"Kemmer, Isabel * ERIC, Euro-BioImaging",,pdf,en
 From Paper to Pixels: Navigation through your Research Data - presentations of speakers,advanced beginner,Research Data Management,https://zenodo.org/records/11548617 * https://doi.org/10.5281/zenodo.11548617,CC-BY-4.0,"The workshop introduced key topics of research data management (RDM) and the implementation thereof on a life science campus. Internal and external experts of RDM including scientists that apply chosen software tools presented the basic concepts and their implementation to a broad audience.&nbsp;
 Talks covered general aspects of data handling and sorting, naming conventions, data storage repositories and archives, licensing of material, data and code management using git, data protection particularly regarding patient data and in genome sequencing and more. Two data management concepts and exemplary tools were highlighted in particular, being electronic lab notebooks with eLabFTW and the bio-image management software OMERO. Those were chosen because of three aspects: the large benefit of these management tools for a life science campus, their free availability as open source tools with the option of contribution of required functionalities and first existing use cases on campus already supported by CMCB/PoL IT.
 Two talks by Robert Haase (ScaDS.AI/ Uni Leipzig) and Robert M&uuml;ller (Kontaktstelle Forschungsdaten, TU Dresden with contributions from Denise D&ouml;rfel) that opened the symposium were shared independently:
@@ -155,7 +155,7 @@ Sharing and licensing material,,Sharing * Research Data Management,https://f1000
 Sharing research data with Zenodo,novice,Sharing * Research Data Management,https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/,CC-BY-4.0,Blog post about how to share data using zenodo.org,,Text,text,"Haase, Robert",,,en
 Collaborative bio-image analysis script editing with git,advanced beginner,Sharing * Research Data Management,https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/,CC-BY-4.0,"Introduction to version control using git for collaborative, reproducible script editing.",,Text,text,"Haase, Robert",,,en
 OMERO for microscopy research data management,,Nfdi4Bioimage * OMERO * Research Data Management,https://analyticalscience.wiley.com/do/10.1002/was.0004000267/,ALL RIGHTS RESERVED,A use case example from the Münster Imaging Network,,Article,text,"Zobel, Thomas * Weischner, Sarah * Wendt, Jens",,,en
-A Cloud-Optimized Storage for Interactive Access of Large Arrays,,Nfdi4Bioimage * Research Data Management,https://doi.org/10.52825/cordi.v1i.285,CC-BY-4.0,,,Text * Article,text,"Moore, Josh * Kunis, Susanne",,,en
+A Cloud-Optimized Storage for Interactive Access of Large Arrays,,Nfdi4Bioimage * Research Data Management,https://doi.org/10.52825/cordi.v1i.285,CC-BY-4.0,,,Article * Text,text,"Moore, Josh * Kunis, Susanne",,,en
 Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data,advanced beginner,Nfdi4Bioimage * Research Data Management,https://zenodo.org/record/7018929 * https://doi.org/10.5281/zenodo.7018929,CC-BY-4.0,"guided walkthrough of poster at https://doi.org/10.5281/zenodo.6821815
 
 which provides an overview of contexts, frameworks, and models from the world of bioimage data as well as metadata and the techniques for structuring this data as Linked Data.
@@ -173,13 +173,13 @@ MDEmic: a metadata annotation tool to facilitate management of FAIR image data i
 QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy,,Quareo-Limi,https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041,CC-BY-4.0,,,Article,text,"Nelson, Glyn * Boehme, Ulrike * et al.",,,en
 OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies,,Nfdi4Bioimage * Research Data Management,https://www.nature.com/articles/s41592-021-01326-w,CC-BY-4.0,,,Article,text,"Moore, Josh * Allan, Chris * Besson, Sébastien * Burel, Jean-Marie * Diel, Erin * Gault, David * Kozlowski, Kevin * Lindner, Dominik * Linkert, Melissa * Manz, Trevor * Moore, Will * Pape, Constantin * Tischer, Christian * Swedlow, JasonR.",,,en
 NFDI4BIOIMAGE: Perspective for a national bioimaging standard,,Nfdi4Bioimage,https://ceur-ws.org/Vol-3415/paper-27.pdf,CC-BY-4.0,,,Article,text,"Moore, Josh * Kunis, Susanne",NFDI4Bioimage,,
-SpatialData: an open and universal data framework for spatial omics,,Python,https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract,CC-BY-4.0,,,Text * Article,text,"Marconato, Luca * Palla, Giovanni * Yamauchi, KevinA * Virshup, Isaac * Heidari, Elyas * Treis, Tim * Toth, Marcella * Shrestha, Rahul * Vöhringer, Harald * Huber, Wolfgang * Gerstung, Moritz * Moore, Josh * Theis, FabianJ * Stegle, Oliver",,,en
+SpatialData: an open and universal data framework for spatial omics,,Python,https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract,CC-BY-4.0,,,Article * Text,text,"Marconato, Luca * Palla, Giovanni * Yamauchi, KevinA * Virshup, Isaac * Heidari, Elyas * Treis, Tim * Toth, Marcella * Shrestha, Rahul * Vöhringer, Harald * Huber, Wolfgang * Gerstung, Moritz * Moore, Josh * Theis, FabianJ * Stegle, Oliver",,,en
 Community-developed checklists for publishing images and image analyses,,Bioimage Analysis,https://www.nature.com/articles/s41592-023-01987-9,ALL RIGHTS RESERVED,,,Article,text,"Schmied, Christopher * Nelson, MichaelS * Avilov, Sergiy * Bakker, Gert-Jan * Bertocchi, Cristina * Bischof, Johanna * Boehm, Ulrike * Brocher, Jan * Carvalho, MarianaT * Chiritescu, Catalin * Christopher, Jana * Cimini, BethA * Conde-Sousa, Eduardo * Ebner, Michael * Ecker, Rupert * Eliceiri, Kevin * Fernandez-Rodriguez, Julia * Gaudreault, Nathalie * Gelman, Laurent * Grunwald, David * Gu, Tingting * Halidi, Nadia * Hammer, Mathias * Hartley, Matthew * Held, Marie * Jug, Florian * Kapoor, Varun * Koksoy, AyseAslihan * Lacoste, Judith * Dévédec, SylviaLe * Guyader, SylvieLe * Liu, Penghuan * Martins, GabrielG * Mathur, Aastha * Miura, Kota * Llopis, PaulaMontero * Nitschke, Roland * North, Alison * Parslow, AdamC * Payne-Dwyer, Alex * Plantard, Laure * Ali, Rizwan * Schroth-Diez, Britta * Schütz, Lucas * Scott, RyanT * Seitz, Arne * Selchow, Olaf * Sharma, VedP * Spitaler, Martin * Srinivasan, Sathya * Strambio-De-Castillia, Caterina * Taatjes, Douglas * Tischer, Christian * Jambor, HelenaKlara",,,en
 BigDataProcessor2: A free and open-source Fiji plugin for inspection and processing of TB sized image data,,Research Data Management * Bioimage Analysis,https://doi.org/10.1093/bioinformatics/btab106,CC-BY-4.0,,,Article,text,"Tischer, Christian * Ravindran, Ashis * Reither, Sabine * Chiaruttini, Nicolas * Pepperkok, Rainer * Norlin, Nils",,,en
 "EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)",,Metadata,https://f1000research.com/posters/9-162,CC-BY-4.0,,,Article * Poster,text,"Kalaš, Matúš * Plantard, Laure * Lindblad, Joakim * Jones, Martin * Sladoje, Nataša * Kirschmann, MoritzA * Chessel, Anatole * Scholz, Leandro * Rössler, Fabianne * Sáenz, LauraNicolás * Estibaliz Gómez de Mariscal * Bogovic, John * Dufour, Alexandre * Heiligenstein, Xavier * Waithe, Dominic * Domart, Marie-Charlotte * Karreman, Matthia * Raf Van de Plas * Haase, Robert * Hörl, David * Paavolainen, Lassi * Madunić, IvanaVrhovac * Karaica, Dean * Muñoz-Barrutia, Arrate * Sampaio, Paula * Sage, Daniel * Munck, Sebastian * Golani, Ofra * Moore, Josh * Levet, Florian * Ison, Jon * Gaignard, Alban * Ménager, Hervé * Zhang, Chong * Miura, Kota * Colombelli, Julien * Paul-Gilloteaux, Perrine",,,en
 Thinking data management on different scales,,Research Data Management * Nfdi4Bioimage,https://zenodo.org/records/8329306 * https://doi.org/10.5281/zenodo.8329306,CC-BY-4.0,Presentation given at PoL BioImage Analysis Symposium Dresden 2023,2023-08-31,Presentation,presentation,"Kunis, Susanne",,pdf * pptx,en
 Challenges and opportunities for bio-image analysis core-facilities,,Research Data Management * Bioimage Analysis * Nfdi4Bioimage,https://f1000research.com/slides/12-1054,CC-BY-4.0,,,Presentation,presentation,"Haase, Robert",,,en
-NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon),,Arc * Dataplant * Hackathon * Nfdi4Bioimage * OMERO * Python * Research Data Management,https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023 * https://doi.org/10.5281/zenodo.10609770,CC-BY-4.0,,,Text * Article * Other,text,"Abdrabbou, MohamedM. * Babaki, Mehrnaz * Boissonnet, Tom * Bortolomeazzi, Michele * Dahms, Eik * Vanessa A. F. Fuchs * Hoevels, Moritz * Kandpal, Niraj * Möhl, Christoph * Moore, JoshuaA. * Schauss, Astrid * Schrader, Andrea * Stöter, Torsten * Thönnißen, Julia * Valencia-S., Monica * Weil, H.Lukas * Jens Wendt and Peter Zentis",,,
+NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon),,Arc * Dataplant * Hackathon * Nfdi4Bioimage * OMERO * Python * Research Data Management,https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023 * https://doi.org/10.5281/zenodo.10609770,CC-BY-4.0,,,Article * Text * Other,text,"Abdrabbou, MohamedM. * Babaki, Mehrnaz * Boissonnet, Tom * Bortolomeazzi, Michele * Dahms, Eik * Vanessa A. F. Fuchs * Hoevels, Moritz * Kandpal, Niraj * Möhl, Christoph * Moore, JoshuaA. * Schauss, Astrid * Schrader, Andrea * Stöter, Torsten * Thönnißen, Julia * Valencia-S., Monica * Weil, H.Lukas * Jens Wendt and Peter Zentis",,,
 Welcome to BioImage Town,,OMERO * Bioimage Analysis * Nfdi4Bioimage,https://zenodo.org/doi/10.5281/zenodo.10008464,CC-BY-4.0,"Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023",,Presentation,presentation,"Moore, Josh",,,en
 NFDI4BIOIMAGE - National Research Data Infrastructure for Microscopy and BioImage Analysis - Online Kick-Off 2023,,Research Data Management * FAIR-Principles * Bioimage Analysis * Nfdi4Bioimage,https://doi.org/10.5281/zenodo.8070038 * https://zenodo.org/records/8070038,CC-BY-4.0,"NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.",,Presentation,presentation,"Weidtkamp-Peters, Stefanie",,pdf * pptx,en
 "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",,Research Data Management * FAIR-Principles * Bioimage Analysis * Nfdi4Bioimage,https://zenodo.org/doi/10.5281/zenodo.10609770,CC-BY-4.0,"This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.",,,,"Abdrabbou, Mohamed * Babaki, Mehrnaz * Boissonnet, Tom * Bortolomeazzi, Michele * Dahms, Eik * Fuchs, Vanessa * A. F. Moritz Hoevels * Kandpal, Niraj * Möhl, Christoph * Moore, JoshuaA. * Schauss, Astrid * Schrader, Andrea * Stöter, Torsten * Thönnißen, Julia * Valencia-S., Monica * Weil, H.Lukas * Wendt, Jens * Zentis, Peter",,,
@@ -199,14 +199,14 @@ The DIF was developed in close consultation with the scientific community. This 
 The DIF is provided as a PDF document and in table form (ODS) to convey the attributes of the teaching and learning materials and their definitions in an easily understandable form and to facilitate communication. It also includes a legend and an example in tabular form. In addition, a template (CSV) with the attributes as column headers is provided, which can be used for recording the metadata of the teaching and learning materials. The tables can also be transferred to technical application profiles.
 We would like to thank all the commentators of the previous versions, especially Susanne Arndt, Sophie Bo&szlig;e, Sonja Felder, Marc Fuhrmans, Jan-Michael Haugwitz, Marina Lemaire, Karoline Lemke, Birte Lindst&auml;dt, Juliane R&ouml;der, and Jakob Vo&szlig;. Without their feedback and advice, the DIF would be less transparent.",2024-06-07,,,"Geiger, Jonathan * Steiner, Petra * Desouki, AbdelmoneimAmer * Lange, Frank",,csv * ods * pdf,
 2020 BioImage Analysis Survey: Community experiences and needs for the future,,Bioimage Analysis,https://doi.org/10.1017/s2633903x21000039 * https://github.com/ciminilab/2021_Jamali_BiologicalImaging,BSD-3-Clause,,2021,Article,text,"Jamali, Nasim * Ellen T. A. Dobson * Eliceiri, KevinW. * Carpenter, AnneE. * Cimini, BethA.",,,en
-Bridging Imaging Users to Imaging Analysis - A community survey,,Bioimage Analysis,https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 * https://github.com/COBA-NIH/2023_ImageAnalysisSurvey,BSD-3-Clause,,2023,Text * Article,text,"Sivagurunathan, Suganya * Marcotti, Stefania * Nelson, CarlJ * Jones, MartinL * Barry, DavidJ * Thomas J A Slater * Eliceiri, KevinW * Cimini, BethA",,,en
+Bridging Imaging Users to Imaging Analysis - A community survey,,Bioimage Analysis,https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1 * https://github.com/COBA-NIH/2023_ImageAnalysisSurvey,BSD-3-Clause,,2023,Article * Text,text,"Sivagurunathan, Suganya * Marcotti, Stefania * Nelson, CarlJ * Jones, MartinL * Barry, DavidJ * Thomas J A Slater * Eliceiri, KevinW * Cimini, BethA",,,en
 Photonic data analysis in 2050,,FAIR-Principles * Machine Learning * Research Data Management,https://doi.org/10.1016/j.vibspec.2024.103685,CC-BY-4.0,"Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.",,Article,text,"Ryabchykov, Oleg * Guo, Shuxia * Bocklitz, Thomas",,,
 BioEngine Documentation,,Workflow Engine * artificial intelligence * Python,https://bioimage-io.github.io/bioengine/#/,MIT,"BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.",,Text,text,"Ouyang, Wei * Nanguage * Metz, Jeremy * Russell, Craig",,,en
 Large Language Models: An Introduction for Life Scientists,advanced beginner,Artificial Intelligence,https://zenodo.org/records/13379394 * https://doi.org/10.5281/zenodo.13379394,CC-BY-4.0,"Large Language Models (LLMs) are changing the way how humans interact with computers. This has impact on all scientific fields by enabling new ways to achieve for example data analysis goals. In this talk we will go through an introduction to LLMs with respect to applications in the life sciences, focusing on bio-image analysis. We will see how to generate text and images using LLMs and how LLMs can extract information from reproducibly images through code-generation. We will go through selected prompt engineering techniques enabling scientists to tune the output of LLMs towards their scientific goal and how to do quality assurance in this context.",2024-08-27,,,"Haase, Robert",,pdf * pptx,en
 ChatGPT for Image Analysis,advanced beginner,,https://zenodo.org/records/13371196 * https://doi.org/10.5281/zenodo.13371196,CC-BY-4.0,"Large Language Models (LLMs) such as ChatGPT are changing the way we interact with computers, including how we analye microscopy imaging data. In this talk I introduce basic concepts of asking LLMs to write code and how to modify the questions to get the best out of it. For trying out these prompt engineering basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html",2024-08-25,,,"Haase, Robert",,pdf * pptx * zip,en
 Towards Preservation of Life Science Data with NFDI4BIOIMAGE,,,https://zenodo.org/records/13506641 * https://doi.org/10.5281/zenodo.13506641,CC-BY-4.0,"This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.",2024-08-29,,,"Haase, Robert",,pdf * pptx,en
 "EDAM-bioimaging - The ontology of bioimage informatics operations, topics, data, and formats",,Ontology * Bioimage Analysis,https://hal.science/hal-02267597/document,CC-BY-4.0,"EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.",,Poster,,Matúš Kalaš et al.,,,en
-"Using Glittr.org to find, compare and re-use online training materials",,Bioimage Analysis * Research Data Management,https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1,CC-BY-4.0,"Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.",,Text * Article,text,"Geest, Geertvan * Haefliger, Yann * Zahn-Zabal, Monique * Palagi, PatriciaM.",,,en
+"Using Glittr.org to find, compare and re-use online training materials",,Bioimage Analysis * Research Data Management,https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1,CC-BY-4.0,"Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.",,Article * Text,text,"Geest, Geertvan * Haefliger, Yann * Zahn-Zabal, Monique * Palagi, PatriciaM.",,,en
 Omero-tools,,OMERO * Bioimage Analysis,https://biapol.github.io/omero-tools/,CC-BY-4.0,"This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.",,,,"Soltwedel, Johannes",,,en
 EmbedSeg Repository,,Bioimage Analysis * Instance Segmentation,https://github.com/juglab/EmbedSeg,CC-BY-NC-4.0,"Code Implementation for EmbedSeg, an Instance Segmentation Method for Microscopy Images",,,,"Lalit, Manan * Deschamps, Joran * Jug, Florian * Kulkarni, Ajinkya",,,
 Scipy Cookbook,,Bioimage Analysis,https://github.com/scipy/scipy-cookbook,BSD-3-Clause,This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.,,,,Pauli Virtanen et al.,,,en
@@ -214,7 +214,7 @@ SimpleITK-Notebooks,competent,Bioimage Analysis * Simpleitk,https://github.com/I
 skimage-tutorials,advanced beginner,Bioimage Analysis * Scikit-Image,https://github.com/scikit-image/skimage-tutorials,CC0-1.0,skimage-tutorials - a collection of tutorials for the scikit-image package.,,,,Juan Nunez-Iglesias et al.,,,en
 scikit-learn MOOC,advanced beginner,Bioimage Analysis * Machine Learning,https://github.com/INRIA/scikit-learn-mooc,CC-BY-4.0,Machine learning in Python with scikit-learn MOOC,,,,Loïc Estève et al.,,,
 NLP Course,advanced beginner,Natural Language Processing,https://github.com/yandexdataschool/nlp_course,MIT,YSDA course in Natural Language Processing,,,,Yandex School of Data Analysis,,,en
-Community-developed checklists for publishing images and image analyses,advanced beginner,Bioimage Analysis * Research Data Management,https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html,BSD-3-Clause,"This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.",,Code Notebook * Other,code,Beth Cimini et al.,,,en
+Community-developed checklists for publishing images and image analyses,advanced beginner,Bioimage Analysis * Research Data Management,https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html,BSD-3-Clause,"This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.",,Other * Code Notebook,code,Beth Cimini et al.,,,en
 EMBL-EBI material collection,advanced beginner,Bioinformatics,https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=,CC0-1.0,"Online tutorial and webinar library, designed and delivered by EMBL-EBI experts",,Other,,EMBL-EBI,,,
 [Workshop] FAIR data handling for microscopy: Structured metadata annotation in OMERO,advanced beginner,,https://zenodo.org/records/11109616 * https://doi.org/10.5281/zenodo.11109616,CC-BY-4.0,"Description
 Microscopy experiments generate information-rich, multi-dimensional data, allowing us to investigate biological processes at high spatial and temporal resolution. Image processing and analysis is a standard procedure to retrieve quantitative information from biological imaging. Due to the complex nature of bioimaging files that often come in proprietary formats, it can be challenging to organize, structure, and annotate bioimaging data throughout a project. Data often needs to be moved between collaboration partners, transformed into open formats, processed with a variety of software tools, and exported to smaller-sized images for presentation. The path from image acquisition to final publication figures with quantitative results must be documented and reproducible.
@@ -263,7 +263,7 @@ Hitchhiking through a diverse Bio-image Analysis Software Universe,,Bioimage Ana
 "Research Data Reusability - Conceptual Foundations, Barriers and Enabling Technologies",,Research Data Management * Open Science * Data Protection,https://www.mdpi.com/2304-6775/5/1/2,CC-BY-4.0,"This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.",2017-01-09,Article,text,"Thanos, Costantino",,,en
 The FAIR Guiding Principles for scientific data management and stewardship,,FAIR-Principles * Research Data Management,https://www.nature.com/articles/sdata201618 * https://doi.org/10.1038/sdata.2016.18,CC-BY-4.0,"This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.",2016-03-15,Article,text,"Wilkinson, MarkD. * Dumontier, Michel * Aalbersberg, IJsbrandJan * Appleton, Gabrielle * Axton, Myles * al, et.",,,en
 Modeling community standards for metadata as templates makes data FAIR,,Data Stewardship * FAIR-Principles * Metadata,https://pubmed.ncbi.nlm.nih.gov/36371407/ * https://www.nature.com/articles/s41597-022-01815-3,CC-BY-4.0,"The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.",2022-11-12,Article,text,"Musen, MarkA * O'Connor, MartinJ * Schultes, Erik * Martínez-Romero, Marcos * Hardi, Josef * Graybeal, John",,,en
-NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data,,Nfdi4Bioimage * Research Data Management,https://doi.org/10.11588/heidok.00029489,CC-BY-SA-4.0,Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.,2021-04-29,Text * Presentation,presentation * text,"Schmidt, Christian * Ferrando-May, Elisa",,,en
+NFDI4BIOIMAGE - An Initiative for a National Research Data Infrastructure for Microscopy Data,,Nfdi4Bioimage * Research Data Management,https://doi.org/10.11588/heidok.00029489,CC-BY-SA-4.0,Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.,2021-04-29,Text * Presentation,text * presentation,"Schmidt, Christian * Ferrando-May, Elisa",,,en
 Data life cycle,,Data Life Cycle * Research Data Management,https://rdmkit.elixir-europe.org/data_life_cycle,CC-BY-4.0,"In this section, information is organised according to the stages of the research data life cycle.",,Tutorial * Web Page * Other,,ELIXIR (2021) Research Data Management Kit,,,en
 Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy,,Research Data Management,https://bausteine-fdm.de/article/view/7945 * https://doi.org/10.17192/bfdm.2018.1.7945,CC-BY-4.0,Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung., 2018-10-22,Article,text,"Hahn, Uli * Helbig, Kerstin * Jagusch, Gerald * Rex, Jessica",,,de
 Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten,,Research Data Management * FAIR-Principles,https://www.o-bib.de/bib/article/view/2018H2S1-13,CC-BY-4.0,"As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.",2018-07-13,Article,text,"Hiemenz, Bea * Kuberek, Monika",,,de
@@ -272,7 +272,7 @@ Rechtsfragen bei Open Science - Ein Leitfaden,advanced beginner,Open Science * O
 The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging,,Bioimage Analysis,https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47 * https://doi.org/10.1186/gb-2005-6-5-r47,CC-BY-4.0,"The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.",2005-05-03,Article,text,"Goldberg, IlyaG. * Allan, Chris * Burel, Jean-Marie * Creager, Doug * Falconi, Andrea * al, et.",,,en
 Microscopy-BIDS - An Extension to the Brain Imaging Data Structure for Microscopy Data,,Research Data Management,https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full,CC-BY-4.0,"The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.",2022-04-19,Article,text,"Bourget, Marie-Hélène * Kamentsky, Lee * Ghosh, SatrajitS. * Mazzamuto, Giacomo * Lazari, Alberto * et al.",,,en
 FAIR High Content Screening in Bioimaging,,FAIR-Principles * Metadata * Research Data Management,https://www.nature.com/articles/s41597-023-02367-w,CC-BY-4.0,"The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.",2023-07-17,Article,text,"Hosseini, Rohola * Vlasveld, Matthijs * Willemse, Joost * Bob van de Water * Sylvia E. Le Dévédec * Wolstencroft, KatherineJ.",,,en
-Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW),advanced beginner,Research Data Management,https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf * https://www.elabftw.net/,AGPL-3.0,"Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.",2020-03-23,Text * Tutorial,text,"Wegewitz, Lienhard * Strauß, F.",,,de
+Dokumentation und Anleitung zum elektronischen Laborbuch (eLabFTW),advanced beginner,Research Data Management,https://www.fdm.tu-clausthal.de/fileadmin/FDM/documents/Manual_eLab_v0.3_20200323.pdf * https://www.elabftw.net/,AGPL-3.0,"Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.",2020-03-23,Tutorial * Text,text,"Wegewitz, Lienhard * Strauß, F.",,,de
 What is Open Data?,advanced beginner,Open Science,http://opendatahandbook.org/guide/en/what-is-open-data/,CC-BY-4.0,"This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?",,Other,,"Dietrich, Daniel * Gray, Jonathan * McNamara, Tim * Poikola, Antti * Pollock, Rufus * et al.",,,en
 Ten simple rules for making training materials FAIR,novice,Metadata * Bioinformatics * FAIR-Principles,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854,CC-BY-4.0,"The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.",2020-05-21,Article,text,"Garcia, Leyla * Batut, Bérénice * Burke, MelissaL. * Kuzak, Mateusz * Psomopoulos, Fotis * et al.",,,en
 The FAIR guiding principles for data stewardship - fair enough?,,FAIR-Principles * Data Stewardship * Sharing,https://www.nature.com/articles/s41431-018-0160-0,CC-BY-4.0,"The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.",2018-05-17,Article,text,"Boeckhout, Martin * Zielhuis, GerhardA. * Bredenoord, AnnelienL.",,,en
@@ -295,12 +295,12 @@ https://github.com/haesleinhuepf/bia-bob
 https://github.com/haesleinhuepf/git-bob
 &nbsp;",2024-10-28,,,"Haase, Robert",,pdf * pptx,en
 "I2K2024 workshop material - Lazy Parallel Processing and Visualization of Large Data with ImgLib2, BigDataViewer, the N5-API, and Spark",competent,Bioimage Analysis,https://saalfeldlab.github.io/i2k2024-lazy-workshop/ * https://github.com/saalfeldlab/i2k2024-lazy-workshop,Apache-2.0,,,Course * Code Notebook,code,"Saalfeld, Stephan * Pietzsch, Tobias",,,en
-Ultrack I2K 2024 Workshop Materials,competent,Bioimage Analysis,https://github.com/royerlab/ultrack-i2k2024 * https://royerlab.github.io/ultrack-i2k2024/,BSD-3-Clause,,,Course * Tutorial,,"Bragantini, Jordão * Huijben, Teun",,,en
-Multiplexed tissue imaging - tools and approaches,competent,Bioimage Analysis,https://github.com/BIIFSweden/I2K2024-MTIWorkshop * https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1,CC-BY-4.0,"Material for the I2K 2024 ""Multiplexed tissue imaging - tools and approaches"" workshop",,Course * Presentation,presentation,"Corbat, AgustínAndrés * OmFrederic * Windhager, Jonas * Lidayová, Kristína",,,en
-I2K2024(virtual) - Bio-Image Analysis Code Generation,advanced beginner,Bioimage Analysis * Notebooks * Biabob,https://github.com/haesleinhuepf/i2k2024-ai-code-generation,BSD-3-Clause,"This repository contains training materials for the Tutorial ""Bio-Image Analysis Code Generation"" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.",,Code Notebook * Tutorial,code,"Haase, Robert",,,en
-Object Tracking and Track Analysis using TrackMate and CellTracksColab,advanced beginner,Bioimage Analysis,https://github.com/CellMigrationLab/I2K_2024,GPL-3.0,"I2K 2024 workshop materials for ""Object Tracking and Track Analysis using TrackMate and CellTracksColab""",,Course * Presentation * Tutorial,presentation,"Pylvänäinen, Joanna",,,en
-I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library,competent,Bioimage Analysis,https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file,BSD-3-Clause,"Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.",,Course * Code Notebook * Tutorial,code,"Rigaud, Stephane * Haase, Robert",,,
-Example Pipeline Tutorial,advanced beginner,Napari * Bioimage Analysis,https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/ * https://github.com/timmonko/napari-ndev,BSD-3-Clause,Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).,2024-10-28,Text * Tutorial,text,"Monko, Tim",,,en
+Ultrack I2K 2024 Workshop Materials,competent,Bioimage Analysis,https://github.com/royerlab/ultrack-i2k2024 * https://royerlab.github.io/ultrack-i2k2024/,BSD-3-Clause,,,Tutorial * Course,,"Bragantini, Jordão * Huijben, Teun",,,en
+Multiplexed tissue imaging - tools and approaches,competent,Bioimage Analysis,https://github.com/BIIFSweden/I2K2024-MTIWorkshop * https://docs.google.com/presentation/d/1R9-4lXAmTYuyFZpTMDR85SjnLsPZhVZ8/edit#slide=id.p1,CC-BY-4.0,"Material for the I2K 2024 ""Multiplexed tissue imaging - tools and approaches"" workshop",,Presentation * Course,presentation,"Corbat, AgustínAndrés * OmFrederic * Windhager, Jonas * Lidayová, Kristína",,,en
+I2K2024(virtual) - Bio-Image Analysis Code Generation,advanced beginner,Bioimage Analysis * Notebooks * Biabob,https://github.com/haesleinhuepf/i2k2024-ai-code-generation,BSD-3-Clause,"This repository contains training materials for the Tutorial ""Bio-Image Analysis Code Generation"" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.",,Tutorial * Code Notebook,code,"Haase, Robert",,,en
+Object Tracking and Track Analysis using TrackMate and CellTracksColab,advanced beginner,Bioimage Analysis,https://github.com/CellMigrationLab/I2K_2024,GPL-3.0,"I2K 2024 workshop materials for ""Object Tracking and Track Analysis using TrackMate and CellTracksColab""",,Tutorial * Presentation * Course,presentation,"Pylvänäinen, Joanna",,,en
+I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library,competent,Bioimage Analysis,https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file,BSD-3-Clause,"Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.",,Tutorial * Course * Code Notebook,code,"Rigaud, Stephane * Haase, Robert",,,
+Example Pipeline Tutorial,advanced beginner,Napari * Bioimage Analysis,https://timmonko.github.io/napari-ndev/tutorial/01_example_pipeline/ * https://github.com/timmonko/napari-ndev,BSD-3-Clause,Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).,2024-10-28,Tutorial * Text,text,"Monko, Tim",,,en
 "[GBI EoE IX] NFDI4BIOIMAGE
 National Research Data Infrastructure 
 for Microscopy and BioImage Analysis",,,https://zenodo.org/records/14001388 * https://doi.org/10.5281/zenodo.14001388,CC-BY-4.0,"Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix in Okazaki, Japan.",2024-10-29,,,"Moore, Josh",,pdf,en
@@ -357,7 +357,7 @@ Learn how to train users, establish sustainability strategies, and foster FAIR R
 ",2024-10-30,,,"Boissonnet, Tom * Hagen, Bettina * Kunis, Susanne * Schmidt, Christian * Weidtkamp-Peters, Stefanie",,pdf,en
 training-resources,advanced beginner,Bioimageanalysis * Neurobias,https://github.com/NEUBIAS/training-resources,CC-BY-4.0,Resources for teaching/preparing to teach bioimage analysis,2020-04-23T07:51:38+00:00,,,"Tischer, Christian * Politi, Antonio * Hodges, Toby * maulakhan * grinic * bugraoezdemir * Buchholz, Tim-Oliver * Fazeli, Elnaz * Halavatyi, Aliaksandr * Kutra, Dominik * Marcotti, Stefania * AnniekStok * Felix * jhennies * Klaus, Severina * Schorb, Martin * Vakili, Nima * Tirado, SebastianGonzalez * Helfrich, Stefan * Sun, Yi * Huang, Ziqiang * Eglinger, Jan * Pape, Constantin * Lüthi, Joel * McCormick, Matt * Gros, Oane",,,en
 cba-support-template,,Workflow * Research Data Management,https://git.embl.de/grp-cba/cba-support-template,MIT,,2021-12-01,Tutorial,,"Khan, Arif * Tischer, Christian * Gonzalez, Sebastian * Kutra, Dominik * Schneider, Felix * et al.",,,
-Diátaxis - A systematic approach to technical documentation authoring.,,Documentation,https://www.diataxis.fr/,CC-BY-SA-4.0,"Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.",,Web Page * Tutorial,,"Procida, Daniele",,,en
+Diátaxis - A systematic approach to technical documentation authoring.,,Documentation,https://www.diataxis.fr/,CC-BY-SA-4.0,"Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.",,Tutorial * Web Page,,"Procida, Daniele",,,en
 Image Processing with Python,advanced beginner,Bioimage Analysis * Python,https://datacarpentry.org/image-processing/key-points.html,CC-BY-4.0,This lesson shows how to use Python and scikit-image to do basic image processing.,,Tutorial,,"Meysenburg, Mark * Hodges, Toby * Kutra, Dominik * Becker, Erin * Palmquist, David * et al.",,,en
 Evident OIR sample files tiles + stitched image - FV 4000,,,https://zenodo.org/records/13680725 * https://doi.org/10.5281/zenodo.13680725,CC-BY-4.0,"The files contained in this repository are confocal images taken with the Evident FV 4000 of a sample containing DAPI and mCherry stains, excited with a 405 nm laser and a 561 nm laser
 
@@ -1618,7 +1618,7 @@ Metadata in Bioimaging,,,https://zenodo.org/records/15083018 * https://doi.org/1
 Building FAIR image analysis pipelines for high-content-screening (HCS) data using Galaxy,,,https://zenodo.org/records/15047849 * https://doi.org/10.5281/zenodo.15047849,mit-license,"Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains",2024-05-14,,,"Massei, Riccardo * Bernt, Matthias * Kostrykin, Leonid * Bumberger, Jan",,pdf,en
 bioimageio-chatbot,,artificial intelligence * bioimage analysis,https://github.com/bioimage-io/bioimageio-chatbot,MIT License,Your Personal Assistant in Computational Bioimaging.,2023-10-10T16:05:49+00:00,,,"Ouyang, Wei * Lei, Wanlu * Fuster-Barceló, Caterina * Reder, Gabe * arratemunoz * Weize * Rueden, Curtis * McCormick, Matt",,,
 ABIC - Intermediate Fiji Image Analysis Course 2024,intermediate,Bioimage Analysis * Image Processing * Teaching Resource * ImageJ,https://www.youtube.com/playlist?list=PL0RrV4sTNwh2S9Lb7d1TzJWPGgdw_YVnb * https://docs.google.com/document/d/1h-3oJDR7gd_y3tfgN3clPwt2O4g34QRPp_FJ4v2Q7kA/edit?usp=sharing * https://www.dropbox.com/scl/fi/7njq2wp680vubt6rwhn5f/ParticipantImages.zip?rlkey=pk3kttbsclk69ixxp1yv9j8p3&dl=0,CC-BY-4.0,"A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
-",,Course * Text,video * text,"Theart, RensuPetrus",,,en
+",,Text * Course,text * video,"Theart, RensuPetrus",,,en
 "Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster",,,https://zenodo.org/records/15065070 * https://doi.org/10.5281/zenodo.15065070, CC-BY-4.0,"In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.",2025-04-02,,,"Bernard, Lars * Brück, Maike * Busse, Christian * Engel, Judith * Eufinger, Jan * Ewert, Frank * Fluck, Juliane * Förstner, Konrad * Fürst, Julia * Gauza, Holger * Getzlaff, Klaus * Glöckner, Frank Oliver * Hunold, Johannes * Koepler, Oliver * Krooß, Ksenia * Lindstädt, Birte * McHardy, Alice C. * Mehrtens, Hela * Rey-Mazon, Elena * Schmidt, Marcus * Schober, Isabel * Schröter, Annett * Stegle, Oliver * Steinbeck, Christoph * Steinhart, Feray * von Suchodoletz, Dirk * Weidtkamp-Peters, Stefanie * Wendt, Jens * Wetzker, Conni",,pdf,en
 Beads imaged over time,,,https://zenodo.org/records/15150937 * https://doi.org/10.5281/zenodo.15150937, CC-BY-4.0,"DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;",2025-04-04,,,"Marin, Zach",,dcimg,en
 GloBIAS in-person workshop 2024,,,https://zenodo.org/records/15168241 * https://doi.org/10.5281/zenodo.15168241, CC-BY-4.0,"This document reports on the first in-person workshop supported by GloBIAS. Each session has its own chapter provided by the people chairing the sessions, summarising the outputs achieved.&nbsp;",2025-04-07,,,"Walther, Christa",,pdf,
@@ -1634,7 +1634,7 @@ Setting up an institutional OMERO environment for bioimage data: Perspectives fr
 The crucial role of bioimage analysts in scientific research and publication,,Bioimage Analysis,https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in,CC-BY-4.0,"Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions",2024-10-30,Article,text,"Cimini, BethA. * Bankhead, Peter * Antuono, RoccoD' * Fazeli, Elnaz * Fernandez-Rondriguez, Julia * Fuster-Barcelo, Caterina * Haase, Robert * Jambor, HelenaKlara * Jones, MartinL. * Jug, Florian * Klemm, AnnaH. * Kreshuk, Anna * Marcotti, Stefania * Martins, GabrielG. * Ardle, SaraMc * Miura, Kota * Muñoz-Barrutia, Arrate * Murphy, LauraC. * Nelson, MichaelS. * Nørrelykke, SimonF. * Paul-Gilloteaux, Perrine * Pengo, Thomas * Pylvänäinen, JoannaW. * Pytowski, Lior * Ravera, Arianna * Reinke, Annika * Rekik, Yousr * Strambio-De-Castillia, Caterina * Thédié, Daniel * Uhlmann, Virginie * Umney, Oliver * Wiggins, Laura * Eliceiri, KevinW.",,,en
 Enabling Global Image Data Sharing in the Life Sciences,,Research Data Management,https://arxiv.org/abs/2401.13023,CC-BY-NC-SA-4.0 International,"Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). ",2024-01-23,Article,text,"Bajcsy, Peter * Bhattiprolu, Sreenivas * Boerner, Katy * Cimini, BethA * Collinson, Lucy * Ellenberg, Jan * Fiolka, Reto * Giger, Maryellen * Goscinski, Wojtek * Hartley, Matthew * Hotaling, Nathan * Horwitz, Rick * Jug, Florian * Kreshuk, Anna * Lundberg, Emma * Mathur, Aastha * Narayan, Kedar * Onami, Shuichi * Plant, AnneL. * Prior, Fred * Jason Swedlow, * Taylor, Adam * Keppler, Antje",,,en
 Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data,,Research Data Management,https://arxiv.org/abs/2401.13022,CC-BY-NC-SA-4.0 International,"Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.",2024-08-30,Article,text,"Bialy, Nikki * Alber, Frank * Andrews, Brenda * Angelo, Michael * Beliveau, Brian * Bintu, Lacramioara * Boettiger, Alistair * Boehm, Ulrike * Brown, ClaireM. * Maina, MahmoudBukar * Chambers, JamesJ. * Cimini, BethA. * Eliceiri, Kevin * Errington, Rachel * Faklaris, Orestis * Gaudreault, Nathalie * Germain, RonaldN. * Goscinski, Wojtek * Grunwald, David * Halter, Michael * Hanein, Dorit * Hickey, JohnW. * Lacoste, Judith * Laude, Alex * Lundberg, Emma * Ma, Jian * Malacrida, Leonel * Moore, Josh * Nelson, Glyn * Neumann, ElizabethKathleen * Nitschke, Roland * Onami, Shuichi * Pimentel, JaimeA. * Plant, AnneL. * Radtke, AndreaJ. * Sabata, Bikash * Schapiro, Denis * Schöneberg, Johannes * Spraggins, JeffreyM. * Sudar, Damir * Wouter-Michiel Adrien Maria Vierdag * Volkmann, Niels * Wählby, Carolina * (Steven)Wang, Siyuan * Yaniv, Ziv * Strambio-De-Castillia, Caterina",,,en
-"JIPipe Spring Course (JSC) 2025: Workshop Recordings, Slides, Homework, and Materials",,jipipe * bioimage analysis,https://doi.org/10.5281/zenodo.15373555, CC-BY-4.0,"The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.",2025-05-12:T13:37:00+00:00,Course * Presentation * Tutorial,video * presentation,"Gerst, Ruman * Cseresnyés, Zoltán * Figge, MarcThilo",,,en
+"JIPipe Spring Course (JSC) 2025: Workshop Recordings, Slides, Homework, and Materials",,jipipe * bioimage analysis,https://doi.org/10.5281/zenodo.15373555, CC-BY-4.0,"The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.",2025-05-12:T13:37:00+00:00,Tutorial * Presentation * Course,video * presentation,"Gerst, Ruman * Cseresnyés, Zoltán * Figge, MarcThilo",,,en
 End-to-End Tissue Microarray Image Analysis with Galaxy-ME,,Galaxy * Multiplex Imaging,https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me,CC-BY-4.0,"This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge.",2023-02-14,Tutorial,,"Watson, Cameron * Creason, Allison",,,en
 Neural Networks and Deep Learning,,Deep Learning * Neural Networks * Machine Learning,http://neuralnetworksanddeeplearning.com,CC-BY-NC-3.0 Unported,"Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.",2019-12-01,Book,text,"Nielsen, Michael",,,en
 Choose an open source license,,Open Source * Licensing,https://choosealicense.com,CC-BY-3.0 Unported,Ressource that helps to choose an open source license for your project.,,Web Page,,GitHub,,,en
@@ -1643,3 +1643,1303 @@ Bioimaging AI Textbook,,Bioimage Analysis * Artificial Intelligence,https://gith
 Introduction to High Performance Computing for Life Scientists,,High Performance Computing,https://epcced.github.io/20210322-intro-hpc-life-scientists/,CC-BY-4.0,"This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation.",2021-03-22,Other,,"Sindt, Julien",,,en
 File Naming Convention Worksheet,,Research Data Management,https://authors.library.caltech.edu/records/mmnpf-cez11,CC-BY-4.0,"This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version.",2020-06-02,,,"Briney, Kristin",,,en
 omero-quay,,Data Management * omero,https://gitlab.in2p3.fr/fbi-data/omero-quay,Mozilla Public License 2.0,"omero-quay is a microscopy data transport layer between data management tools. Currently, it supports the iRODS — OMERO architecture built at France BioImaging fbi-omero.",2023-06-16,,,"Lebon, Alexis * Chessel, Anatole * Braud-Mussi, Raphael * Breuilly, Marine * Ressnikoff, Denis * Kauffmann, Dorian * Guiot, Elvire * Faure, Emmanuel * Gilloteaux, Perrine * Gay, Guillaume * Jean-François, Guillaume * Mutterer, Jerome * Lieby, Paulette * Mateos-Langerak, Julio * Maucort, Guillaume * Mongy, Marc * Pezet, Mylene * Papadiamantis, Sotirios * Barnouin, Théo * Vigneau, Mathieu",,,
+Segmenting cells in a spheroid in 3D using 2D StarDist within TrackMate,,AI-ready,https://zenodo.org/records/5220610 * https://doi.org/10.5281/zenodo.5220610, CC-BY-4.0,"3D image of cells in a spheroid, imaged on a confocal microscope, used in a tutorial to demonstrate how to hack TrackMate to segment cells in 3D using the 2D segmentation algorithms it ships.
+
+Image by Guillaume Jacquemet.
+
+For more details see&nbsp;https://imagej.net/plugins/trackmate/trackmate-stardist#generation-of-3d-labels-by-tracking-2d-labels-using-trackmate
+
+&nbsp;",2021-08-19,Data,,"Tinevez, Jean-Yves * Pylvänäinen, JoannaW. * Jacquemet, Guillaume",,png * tif,en
+LMRG Image Analysis Study - FISH datasets,,AI-ready,https://zenodo.org/records/6560910 * https://doi.org/10.5281/zenodo.6560910, CC-BY-4.0,"Original image files, label (ground truth) files, and PSF files used in the ABRF Light Microscopy Research Group (LMRG) image analysis study. Simulated 3D confocal fluorescence images of sub-diffraction punctate staining (fluorescence in situ hybridization (FISH) in C. elegans).
+
+See https://github.com/ABRFLMRG/image-analysis-study for more details.",2022-05-18,Data,,"Kubow, Kristopoher * Pengo, Thomas",,ics * tiff,en
+3D nuclei instance segmentation dataset of fluorescence microscopy volumes of C. elegans,,AI-ready,https://zenodo.org/records/5942575 * https://doi.org/10.5281/zenodo.5942575, CC-BY-4.0,"The dataset consists of 28 confocal microscopy volumes of C. elegans worms at the L1 stage and&nbsp; corresponding stacks of densely annotated nuclei instance segmentation masks.
+
+* 28 raw images and corresponding masks of average dimension (xyz) 1050 x 140 x 140
+* Pixelsize (xyz): 0.116 x 0.116 x 0.122&mu;m
+* Microscope: Leica confocal microscopy, 63x oil objective
+
+
+The original raw data and preliminary annotations were&nbsp; part of the following publication (please cite if you use the dataset):
+&nbsp;
+Long, F., Peng, H., Liu, X., Kim, S. K., &amp; Myers, E. (2009). A 3D digital atlas of C. elegans and its application to single-cell analyses. Nature methods, 6(9), 667-672.
+
+The nuclei annotation masks were further manually curated by Dagmar Kainmueller (MDC Berlin) for the following publication:
+
+Hirsch, P., &amp; Kainmueller, D. (2020). An auxiliary task for learning nuclei segmentation in 3d microscopy images. In&nbsp;Medical Imaging with Deep Learning&nbsp;(pp. 304-321). PMLR.
+
+We provide the dataset already structured into the train/validation/test split as used by the above as well as the following publications:&nbsp;
+
+Weigert, M., Schmidt, U., Haase, R., Sugawara, K., &amp; Myers, G. (2020). Star-convex polyhedra for 3d object detection and segmentation in microscopy. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3666-3673).
+&nbsp;
+
+&nbsp;",2022-02-01,Data,,"Long, Fuhui * Peng, Hanchuan * Liu, Xiao * Kim, StuartK * Myers, Eugene * Kainmüller, Dagmar * Weigert, Martin",,zip,en
+LMRG Image Analysis Study - nuclei datasets,,AI-ready,https://zenodo.org/records/6560759 * https://doi.org/10.5281/zenodo.6560759, CC-BY-4.0,"Original image files, label (ground truth) files, and PSF files used in the ABRF Light Microscopy Research Group (LMRG) image analysis study. Simulated 3D widefield fluorescence images of nuclei.
+
+See https://github.com/ABRFLMRG/image-analysis-study for more details.",2022-05-18,Data,,"Kubow, Kristopher * Pengo, Thomas",,ics * tif,en
+"Automatic labelling of HeLa ""Kyoto"" cells using Deep Learning tools",,AI-ready,https://zenodo.org/records/6140064 * https://doi.org/10.5281/zenodo.6140064, CC-BY-4.0,"Name: Automatic labelling&nbsp;of HeLa &ldquo;Kyoto&rdquo; cells using Deep Learning tools
+
+Data type: Microscopy images from the dataset &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope&rdquo;, Brightfield (BF), Digital Phase Contrast (DPC, either &ldquo;raw&rdquo; or &ldquo;square-rooted&rdquo;), Tubulin and H2B fluorescent channel, paired with their corresponding nuclei or cell/cyto label images.
+
+Labels images: Labels images were generated using the script &ldquo;prepare_trainingDataset_cellpose.ijm&rdquo;.
+
+Briefly, for 5 defined time-points (1,10,50,100,150), channels of interest were duplicated, resaved and :
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nuclei label images were obtained using StarDist on H2B channel
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cell label images were obtained using Cellpose on Tubulin and H2B channels
+
+A quick visual inspection of the resulting label images concluded that they were satisfying enough, despite certainly not being perfect.
+
+Notes :
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This labelling&nbsp;strategy:
+
+o&nbsp;&nbsp; will not produce 100% accurate labels, but they might be more reproducible than labels generated by humans and are (definitely) much faster to obtain.
+
+o&nbsp;&nbsp; is NOT a recommended way of generating labels images, but for educational purposes.
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fluorescent channels are part of the dataset to ease the process of review of the labels and are NOT used for training. We generated the labels from the fluorescent channels to later predict labels from the BF or DPC channels only. As such, the fluorescent channels should not be &ldquo;reused&rdquo; with our labels during training.
+
+File format: .tif (16-bit)
+
+Image size: 540x540 (Pixel size: 0.299 nm)
+
+&nbsp;
+
+NOTE: This dataset uses&nbsp;the &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;under the scope&rdquo; &nbsp;dataset (https://doi.org/10.5281/zenodo.6139958) to automatically generate annotations
+
+NOTE: This dataset was used to train cellpose models in the following Zenodo entry&nbsp;https://doi.org/10.5281/zenodo.6140111",2022-02-25,Data,,"Guiet, Romain",,ijm * png * zip,en
+An annotated high-content fluorescence microscopy dataset with Hoechst 33342-stained nuclei and manually labelled outlines,,AI-ready,https://zenodo.org/records/6657260 * https://doi.org/10.5281/zenodo.6657260, CC-BY-4.0,"Here we present a benchmarking dataset of fluorescence microscopy images with Hoechst 33342-stained nuclei together with annotations of nuclei, nuclear fragments and micronuclei. Images were randomly selected from an RNA interference screen with a modified U2OS osteosarcoma cell line, acquired on a Thermo Fischer CX7 high-content imaging system at 20x magnification. Labelling was performed by a single annotator and reviewed by a biomedical expert.
+
+The dataset contains 50 images showing over 2000 labelled nuclear objects in total, which is sufficiently large to train well-performing neural networks for instance or semantic segmentation. It is pre-split into training, development and test set, each in a zip file. The dataset should be referred to as Aitslab_bioimaging1. A brief article describing the dataset is also available (Arvidsson M, Kazemi Rashed S, Aits S. 10.1016/j.dib.2022.108769 )
+
+Dataset description:
+
+Fluorescence microscopy images: original .C01 files and files converted to 8-bit .png format (Grayscale)
+
+Annotations: 24-bit .png format (RGB)
+
+Script used to convert C01 to png images:&nbsp;C01_to_png.py file with python code and readme.md file with instructions to run it",2022-06-17,Data,,"Arvidsson, Malou * Rashed, SalmaKazemi * Aits, Sonja",,md * py * zip,en
+StarDist_HUVEC_nuclei_dataset,,AI-ready,https://zenodo.org/records/10617532 * https://doi.org/10.5281/zenodo.10617532, CC-BY-4.0,"This repository contains a StarDist deep learning model and its training and validation datasets for segmenting endothelial nuclei while ignoring cancer cells. The cancer cells were perfused over an endothelial cell monolayer. The initial dataset consisted of 17 images, where cancer cell nuclei were manually removed after segmentation with the StarDist Versatile Nuclei model. This dataset was augmented to 68 paired images using computational techniques like rotation and flipping. The model was trained for 200 epochs, achieving an average F1 Score of 0.976, demonstrating high accuracy in segmenting endothelial nuclei while excluding cancer cells.
+Specifications
+
+
+Model: StarDist for segmenting endothelial nuclei while ignoring cancer cells
+
+
+Training Dataset:
+
+
+
+Number of Original Images: 17 paired predictions of nuclei and label images
+
+
+Augmented Dataset: Expanded to 68 paired images using rotation and flipping
+
+
+Source Image Generation: Generated using a pix2pix model trained to predict nuclei from brightfield images of cancer cells on top of an endothelium (DOI: 10.5281/zenodo.10617532)
+
+
+Target Image Generation: Masks obtained via manual segmentation
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 8-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (uncalibrated)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 200
+
+
+Patch Size: 1024 x 1024 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.976
+
+
+Average IoU: 0.927
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654",2024-02-05,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+StarDist_AsPC1_Lifeact,,AI-ready,https://zenodo.org/records/13442128 * https://doi.org/10.5281/zenodo.13442128, CC-BY-4.0,"This repository includes a StarDist deep learning model designed for segmenting AsPC1 cells labeled with Lifeact from fluorescence microscopy images. The model distinguishes individual AsPC1 cells within clusters and separates them from the background. The model was trained on a small dataset and achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.967, indicating high accuracy in cell segmentation.
+Specifications
+
+
+Model: StarDist for segmenting AsPC1 cells in fluorescence microscopy images
+
+
+Training Dataset:
+
+
+
+Number of Images: 10 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the AsPC1 Lifeact channel with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1024 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment AsPC1 Cells: Detects individual AsPC1 cells from a cluster and separates them from the background
+
+
+Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity under individual cells in respective channels
+
+
+
+Performance:
+
+
+
+Average IoU: 0.884
+
+
+Average F1 Score: 0.967
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+&nbsp;",2024-08-29,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,en
+StarDist_BF_Monocytes_dataset,,AI-ready,https://zenodo.org/records/10572200 * https://doi.org/10.5281/zenodo.10572200, CC-BY-4.0,"This repository includes a StarDist deep learning model and its training and validation datasets for detecting mononucleated cells perfused over an endothelial cell monolayer. The model was trained on 27 manually annotated images and achieved an average F1 Score of 0.941. The dataset and model are helpful for biomedical research, especially in studying interactions between mononucleated and endothelial cells.
+Specifications
+
+
+Model: StarDist for mononucleated cell detection on endothelial cells
+
+
+Training Dataset:
+
+
+
+Number of Images: 27 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.941
+
+
+Average IoU: 0.831
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654",2024-01-26,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+StarDist_BF_cancer_cell_dataset_20x,,AI-ready,https://zenodo.org/records/10572122 * https://doi.org/10.5281/zenodo.10572122, CC-BY-4.0,"This repository contains a StarDist deep learning model and its training and validation datasets designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 20x magnification. Using computational methods, the initial dataset of 20 manually annotated images was augmented to 160 paired images. The model was trained over 400 epochs and achieved an average F1 Score of 0.921, demonstrating high accuracy in cell segmentation tasks.
+Specifications
+
+
+Model: StarDist for cancer cell segmentation on endothelial cells (20x magnification)
+
+
+Training Dataset:
+
+
+
+Number of Original Images: 20 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.921
+
+
+Average IoU: 0.793
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+&nbsp;
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654",2024-01-26,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+StarDist_BF_Neutrophil_dataset,,AI-ready,https://zenodo.org/records/10572231 * https://doi.org/10.5281/zenodo.10572231, CC-BY-4.0,"This repository includes a StarDist deep learning model and its training and validation datasets for detecting neutrophils perfused over an endothelial cell monolayer. The model was trained on 36 manually annotated images, achieving an average F1 Score of 0.969. The dataset and model are intended for use in biomedical research, particularly for analyzing interactions between neutrophils and endothelial cells.
+Specifications
+
+
+Model: StarDist for neutrophil detection on endothelial cells
+
+
+Training Dataset:
+
+
+
+Number of Images: 36 paired brightfield microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 20x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1022 pixels (Pixel size: 650 nm)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 400
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.969
+
+
+Average IoU: 0.914
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654",2024-01-26,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+StarDist_Fluorescent_cells,,AI-ready,https://zenodo.org/records/10572310 * https://doi.org/10.5281/zenodo.10572310, CC-BY-4.0,"This repository includes a StarDist deep learning model and its training and validation datasets for detecting fluorescently labeled cancer cells perfused over an endothelial cell monolayer. The model was trained on 66 images labeled with CellTrace and demonstrated high accuracy, achieving an average F1 Score of 0.877. The dataset and the trained model can be used for biomedical image analysis, particularly in cancer research.
+Specifications
+
+
+Model: StarDist for cancer cell detection
+
+
+Training Dataset:
+
+
+
+Number of Images: 66 paired fluorescent microscopy images and label masks
+
+
+Microscope: Nikon Eclipse Ti2-E, 10x objective
+
+
+Data Type: Fluorescent microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 1024 x 1024 pixels (Pixel size: 1.3205 &mu;m)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 200
+
+
+Patch Size: 1024 x 1024 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.877
+
+
+Average IoU: 0.646
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654",2024-01-26,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,en
+HPA Nucleus Segmentation (DPNUnet),,AI-ready,https://zenodo.org/records/7690494 * https://doi.org/10.5281/zenodo.7690494, CC-BY-4.0,Download RDF Package,2023-03-02,Data,,"Xu, Hao * Ouyang, Wei",,ijm * md * npy * png * pt * tif * yaml,
+Stardist_MiaPaCa2_from_CD44,,AI-ready,https://zenodo.org/records/13442877 * https://doi.org/10.5281/zenodo.13442877, CC-BY-4.0,"This repository contains a StarDist deep learning model designed for segmenting MiaPaCa2 cells from the CD44 channel in fluorescence microscopy images. The model is capable of accurately segmenting individual MiaPaCa2 cells while excluding HUVECs. Trained on a small dataset, the model achieved an Intersection over Union (IoU) score of 0.884 and an F1 Score of 0.950, indicating high precision in cell segmentation.
+Specifications
+
+
+Model: StarDist for segmenting MiaPaCa2 cells from the CD44 fluorescence channel
+
+
+Training Dataset:
+
+
+
+Number of Images: 8 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the CD44 channel, obtained after immunofluorescence staining with primary and secondary antibodies and manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment MiaPaCa2 Cells: Accurately detects individual MiaPaCa2 cells while ignoring HUVECs
+
+
+Measure CD44 Intensity: Allows for the measurement of CD44 intensity around MiaPaCa2 cells, specifically from the CD44 channel
+
+
+
+Performance:
+
+
+
+Average IoU: 0.884
+
+
+Average F1 Score: 0.950
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654",2024-08-29,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+Segmentation of Nuclei in Histopathology Images by deep regression of the distance map,,AI-ready,https://zenodo.org/records/2579118 * https://doi.org/10.5281/zenodo.2579118, CC-BY-4.0,"This dataset has been annonced in our accepted paper &quot;Segmentation of Nuclei in Histopathology Images by deep regression of the distance map&quot; in Transcation on Medical Imaging on the 13th of August.
+This dataset consists of 50 annotated images, divided into 11 patients.
+
+&nbsp;
+
+v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.",2018-02-16,Data,,"Jack, NaylorPeter * Thomas, Walter * Marick, Laé * Fabien, Reyal",,zip,en
+StarDist_BF_cancer_cell_dataset_10x,,AI-ready,https://zenodo.org/records/13304399 * https://doi.org/10.5281/zenodo.13304399, CC-BY-4.0,"This repository includes a StarDist deep learning model and its training dataset designed for segmenting cancer cells perfused over an endothelial cell monolayer captured at 10x magnification. The model was trained on 77 manually annotated images, with the dataset being computationally augmented during training by a factor of 8. The model was trained for 500 epochs and achieved an average F1 Score of 0.968, indicating high accuracy in segmenting cancer cells on endothelial cells.
+Specifications
+
+
+Model: StarDist for cancer cell segmentation on endothelial cells (10x magnification)
+
+
+Training Dataset:
+
+
+
+Number of Images: 77 paired brightfield microscopy images and label masks
+
+
+Augmented Dataset: Computational augmentation by a factor of 8 during training
+
+
+Microscope: Nikon Eclipse Ti2-E, 10x objective
+
+
+Data Type: Brightfield microscopy images with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Brightfield Images: 16-bit
+
+
+Masks: 8-bit or 16-bit
+
+
+
+Image Size: 1024 x 1022 pixels (pixel size: 1.3148 &mu;m)
+
+
+
+Training Parameters:
+
+
+
+Epochs: 500
+
+
+Patch Size: 992 x 992 pixels
+
+
+Batch Size: 2
+
+
+
+Performance:
+
+
+
+Average F1 Score: 0.968
+
+
+Average IoU: 0.882
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654",2024-08-12,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+Breast Cancer Nuclei images for DL Training + ZeroCostDL4Mic StarDist Model,,AI-ready,https://zenodo.org/records/11235393 * https://doi.org/10.5281/zenodo.11235393, CC-BY-4.0,"
+Training dataset:Paired microscopy images (fluorescence) and corresponding masks
+Microscopy data type: Fluorescence microscopy and masks obtained via manual correction of automatic segmentation with pre-trained StarDist model (see https://github.com/qupath/models/tree/main/stardist)&nbsp;
+Cells were imaged using a 20x objective with a 1x camera adapter was used in conjunction with a pco.edge 4.2 4MP camera on Pannoramic SCAN 150 scanner.
+Cell type: FFPE tissue sections were sliced from all cancer-containing paraffin blocks
+File format: .tif (8-bit for fluorescence and 16-bit for the masks)
+&nbsp;
+StarDist Model:The StarDist model was generated using the ZeroCostDL4Mic platform (Chamier et al., 2021). This custom StarDist model was trained for 100 epochs using 80 manually annotated paired images (image dimensions: (257, 257)) with a batch size of 2, an augmentation factor of 10 and a mae loss function. The StarDist &ldquo;Versatile fluorescent nuclei&rdquo; model was used as a training starting point. Key python packages used include TensorFlow (v 2.2.0), Keras (v 1.1.2), CSBdeep (v 0.7.2), NumPy (v 1.21.6), Cuda (v 11..1.105). The training was accelerated using a Tesla P100GPU.The model weights can be used in the ZeroCostDL4Mic StarDist 2D notebook or in the StarDist Fiji plugin. a QuPath-compatible model is also provided.
+&nbsp;
+&nbsp;
+",2024-05-21,Data,,"Golani, Ofra * Mohan, Vishnu * Geiger, Tamar",,zip,en
+Stardist model and training dataset for automated tracking of MDA-MB-231 and BT20 cells,,AI-ready,https://zenodo.org/records/4811213 * https://doi.org/10.5281/zenodo.4811213, CC-BY-4.0,"StarDist Model:
+The StarDist model was generated using the ZeroCostDL4Mic platform (Chamier et al., 2021). This custom StarDist model was trained for 300 epochs using 46 manually annotated paired images (image dimensions: (1024, 1024)) with a batch size of 2, an augmentation factor of 4 and a mae loss function. The StarDist &ldquo;Versatile fluorescent nuclei&rdquo; model was used as a training starting point. Key python packages used include TensorFlow (v 0.1.12), Keras (v 2.3.1), CSBdeep (v 0.6.1), NumPy (v 1.19.5), Cuda (v 11.0.221). The training was accelerated using a Tesla P100GPU.
+The model weights can be used in the ZeroCostDL4Mic StarDist 2D notebook or in the StarDist Fiji plugin.
+
+StarDist Training dataset:
+Paired microscopy images (fluorescence) and corresponding masks
+
+Microscopy data type: Fluorescence microscopy (SiR-DNA) and masks obtained via manual segmentation (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist for details about the segmentation)
+
+Cells were imaged using a 20x Nikon CFI Plan Apo Lambda objective (NA 0.75) one frame every 10 minutes for 16h.
+
+Cell type: MDA-MB-231 cells and BT20 cells
+
+File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)",2021-05-26,Data,,"Al-Akhrass, Hussein * Ivaska, Johanna * Jacquemet, Guillaume",,zip,en
+Effect of local topography on cell division of Staphylococci sp.,,AI-ready,https://zenodo.org/records/4765599 * https://doi.org/10.5281/zenodo.4765599, CC-BY-4.0,"Dataset.zip
+
+This dataset includes the raw and annotated images used to train a Stardist 2D deep learning model for segmentation of surface attached S.aureus as described in Effect of local topography on cell division of Staphylococci sp.
+
+&nbsp;
+
+Stardist2d_Model.zip
+
+Stardist 2D deep learning model for segmentation of surface attached S.aureus, obtained using the StarDist 2D ZeroCostDL4Mic notebook (v 1.12.3).",2021-05-16,Data,,"Sorzabal Bellido, Ioritz * Barbieri, Luca * Beckett, Alison J. * Prior, Ian A. * Susarrey-Arce, Arturo * Tiggelaar, Roald M. * Forthergill, Jo * Raval, Rasmita * Diaz Fernandez, Yuri A.",,zip,en
+StarDist model and data for the segmentation of Yersinia enterocolitica cells in widefield images,,AI-ready,https://zenodo.org/records/11105050 * https://doi.org/10.5281/zenodo.11105050, CC-BY-4.0,"Dataset and StarDist model for the segmentation of Yersinia enterocolitica cells
+This dataset and StarDist model are part of the publication ""Active downregulation of the type III secretion system at higher local cell densities promotes Yersinia replication and dissemination"".
+It contains the dataset that was used for training the provided StarDist model using ZeroCostDL4Mic.
+Data:
+Yersinia enterocolitica cells were spotted on an agarose pad (1.5% low melting agarose (Sigma-Aldrich) in minimal medium, 1% Casamino acids, 5 mM EGTA, &nbsp;glass depression slides (Marienfeld)). For imaging, a Deltavision Elite Optical Sectioning Microscope equipped with a UPlanSApo 100&times;/1.40 oil objective (Olympus) and an EDGE sCMOS_5.5 camera (Photometrics) was used. Z-stacks with 9 slices (∆z = 0.15 &micro;m) per fluorescence channel were acquired and &nbsp;5 slices were selected for network training. Images were annotated in Fiji using the Freehand selection tool, and brightlight and mask images were quartered to obtain the final dataset of 300 paired images. 260 images were used for training, while 40 images were used to test model performance.
+Model:
+The StarDist 2D model was trained from scratch for 100 epochs on 300 paired image patches (image dimensions: (480 x 480 px&sup2;), patch size: (480 x 480 px&sup2;)) with a batch size of 4 and a mae loss function, using the StarDist 2D ZeroCostDL4Mic notebook (v 1) (von Chamier &amp; Laine et al., 2020). Grid parameter was set to 2 and the number of rays to 120. The model was trained with an initial learning rate of 0.0003 using a 80/20 train/test split. The dataset was augmented 4-fold by flipping and rotation.
+Key python packages used include tensorflow (v 0.1.12), Keras (v2.3.1), csbdeep (v 0.7.2), numpy (v 1.21.6), cuda (v 11.1.105Build cuda_11.1.TC455_06.29190527_0). The training was accelerated using a Tesla T4 GPU.",2024-05-02,Data,,"Spahn, Christoph * Diepold, Andreas * Ermoli, Francesca",,png * zip,en
+Combining StarDist and TrackMate example 3 -  Flow chamber dataset,,AI-ready,https://zenodo.org/records/4034939 * https://doi.org/10.5281/zenodo.4034939, CC-BY-4.0,"Description: Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist)
+
+Training dataset: Paired microscopy images (brightfield) and corresponding masks
+
+Microscopy data type: brightfield microscopy and masks obtained via manual segmentation (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist for details about the segmentation)
+
+Microscope: Images were acquired with a brightfield microscope (Zeiss Laser-TIRF 3 Imaging System, Carl Zeiss) and a 10X objective.
+
+File format: .tif (8-bit for brightfield images and 8 and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 650 nm)",2020-09-17,Data,,"Follain, Gautier * Jacquemet, Guillaume",,zip,en
+Combining StarDist and TrackMate example 1 -  Breast cancer cell dataset,,AI-ready,https://zenodo.org/records/4034976 * https://doi.org/10.5281/zenodo.4034976, CC-BY-4.0,"Description: Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist)
+
+Training dataset: 72 Paired microscopy images (fluorescence) and corresponding masks
+
+Microscopy data type: Fluorescence microscopy (SiR-DNA) and masks obtained via manual segmentation (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist for details about the segmentation)
+
+Microscope: Spinning disk confocal microscope with a 20x 0.8 NA objective
+
+Cell type: DCIS.COM Lifeact-RFP cells
+
+File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 634 nm)",2020-09-17,Data,,"Jacquemet, Guillaume",,zip,en
+"StarDist Adipocyte Segmentation Training data, Training Notebook and Model",,AI-ready,https://zenodo.org/records/7003909 * https://doi.org/10.5281/zenodo.7003909, CC-BY-4.0,"Data from H&amp;E human bone marrow whole slide scanner images used in the paper: &quot;MarrowQuant 2.0: a digital pathology workflow assisting bone marrow evaluation in clinical and experimental hematology&quot; (https://doi.org/10.21203/rs.3.rs-1860140/v1)
+
+&nbsp;
+
+292 image patches
+
+Ground truth were manually annotated using QuPath and split into 263 images for training and 29 for validation.
+
+Training in StarDist was done on a Windows 10 PC with an RTX 2080 GPU. The requirements file for installing a Python 3.7 environment to run the attached notebooks is provided (stardist-val.txt).
+
+The StarDist model configuration can be found in the Jupyter Notebook :
+
+Adipocyte Training.ipynb
+
+Model validation and metrics can be performed by running the notebook after finishing the Adipocyte Training notebook.
+
+Quality Control.ipynb
+
+&nbsp;",2022-08-17,Data,,"Rita, Sarkis * Olaia, Naveiras * Olivier, Burri * Martin, Weigert * Laurence, DeLeval",,ipynb * pb * txt * zip,en
+Combining StarDist and TrackMate example 2 -  T cell dataset,,AI-ready,https://zenodo.org/records/4034929 * https://doi.org/10.5281/zenodo.4034929, CC-BY-4.0,"Description: Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist)
+
+Training dataset: 209 Paired microscopy images (brightfield) and corresponding masks
+
+Microscopy data type: brightfield microscopy and masks obtained via manual segmentation (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist for details about the segmentation)
+
+Microscope: Imaging was done using a 10x phase contrast objective at 37&deg;C on a Zeiss Axiovert 200M microscope equipped with an automated X-Y stage and a Roper EMCCD camera. Time-lapse images were collected every 30 sec for 10 min using SlideBook 6 software (Intelligent Imaging Innovations).
+
+File format: .tif (16-bit for brightfield images and 8 and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 645 nm)",2020-09-17,Data,,"Roy, NathanH. * Jacquemet, Guillaume",,zip,en
+ProdgerLab-StarDist-HIV Target Cell Training Set,,AI-ready,https://zenodo.org/records/8091914 * https://doi.org/10.5281/zenodo.8091914, CC-BY-4.0,40 annotated immunofluorescence microscopy images (600 microns x 600 microns) of foreskin tissue stained for CD3/CD4/CCR5/Nuclei. These images were used to train StarDist models used for the identification of HIV Target Cells in foreskin tissue section scans.&nbsp;,2023-06-28,Data,,"Shao, Zhongtian",,zip,en
+DeepBacs – Mixed segmentation dataset and StarDist model,,AI-ready,https://zenodo.org/records/5551009 * https://doi.org/10.5281/zenodo.5551009, CC-BY-4.0,"Mixed training and test images of S. aureus, E. coli and B. subtilis for cell segmentation using StarDist, as well as the trained StarDist model.
+
+Additional information can be found on this github wiki.
+
+&nbsp;
+
+Data type: Paired bright field / fluorescence and segmented mask images
+
+Microscopy data type: 2D widefield images; DIC and fluorescence for S. aureus, bright field images for E. coli, and fluorescence images for B. subtilis
+
+Microscopes:&nbsp;
+
+S. aureus:&nbsp;
+
+GE HealthCare Deltavision OMX system (with temperature and humidity control, 37&deg;C) equipped with an Olympus 60x 1.42NA Oil immersion objective and 2 PCO Edge 5.5 sCMOS cameras (one for DIC, one for fluorescence)
+
+E.coli:
+
+Nikon Eclipse Ti-E equipped with an Apo TIRF 1.49NA 100x oil immersion objective
+
+B. subtilis:
+
+Custom-built 100x inverted microscope bearing a 100x TIRF objective (Nikon CFI Apochromat TIRF 100XC Oil); images were captured on a Prime BSI sCMOS camera (Teledyne Photometrics)
+
+&nbsp;
+
+Cell types: S. aureus strain JE2, E. coli MG1655 (CGSC #6300) and B. subtilis strain SH130; all grown under agarose pads
+
+File format: .tif (8-bit and 16-bit)
+
+Image size: 512 x 512 px&sup2; @ 80 nm pixel size (S. aureus); 1024 x 1024 px&sup2; @ 79 nm pixel size (E. coli); 1024 x 1024 px&sup2; @ 65 nm pixel size (B. subtilis)
+
+Image preprocessing:&nbsp;
+
+S. aureus:
+
+Raw images were manually annotated by drawing ellipses in the NR fluorescence image and segmented images were created using the LOCI plugin (&ldquo;ROI Map&rdquo;). For training, images and masks were quartered into four 256 x 256 px&sup2; patches.
+
+E. coli:
+
+Raw images were recorded in 16-bit mode (image size 512x512 px&sup2; @ 158 nm/px). Images were upscaled with a factor of 2 (no interpolation) to enable generation of higher-quality segmentation masks.
+
+B. subtilis:
+
+Images were denoised using PureDenoise and resulting 32-bit images were converted into 8-bit images after normalizing to 1% and 99.98% percentiles. Images were manually annotated using the Labkit Fiji plugin
+
+&nbsp;
+
+StarDist model:
+
+The StarDist 2D model was generated using the ZeroCostDL4Mic platform (Chamier et al., 2021). It was trained from scratch for 200 epochs (120 steps/epoch) on 155 paired image patches (image dimensions: (1024, 1024), patch size: (256,256)) with a batch size of 4, 10% validation data, 64 rays on grid 2, a learning rate of 0.0003 and a mae loss function, using the StarDist 2D ZeroCostDL4Mic notebook (v 1.12.2). Key python packages used include tensorflow (v 0.1.12), Keras (v 2.3.1), csbdeep (v 0.6.1), numpy (v 1.19.5), cuda (v 11.0.221). The training was accelerated using a Tesla P100GPU. The dataset was augmented by a factor of 3.
+
+&nbsp;
+
+The model weights can be used in the ZeroCostDL4Mic StarDist 2D notebook, the StarDist Fiji plugin or the TrackMate Fiji plugin (v7+).
+
+&nbsp;
+
+Author(s): Christoph Spahn1,2, Mike Heilemann1,3, Mia Conduit4, S&eacute;amus Holden4,5, Pedro Matos Pereira6,7, Mariana Pinho6,8
+
+Contact email: christoph.spahn@mpi-marburg.mpg.de, Seamus.Holden@newcastle.ac.uk, pmatos@itqb.unl.pt and mgpinho@itqb.unl.pt
+
+&nbsp;
+
+Affiliation(s):&nbsp;
+
+1) Institute of Physical and Theoretical Chemistry, Max-von-Laue Str. 7, Goethe-University Frankfurt, 60439 Frankfurt, Germany
+
+2) ORCID: 0000-0001-9886-2263&nbsp;
+
+3) ORCID: 0000-0002-9821-3578
+
+4) Centre for Bacterial Cell Biology, Biosciences Institute, Newcastle University, NE2 4AX UK
+
+5) ORCID: 0000-0002-7169-907X
+
+6) Bacterial Cell Biology, Instituto de Tecnologia Qu&iacute;mica e Biol&oacute;gica Ant&oacute;nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+
+7) ORCID: 0000-0002-1426-9540
+
+8) ORCID: 0000-0002-7132-8842",2021-10-05,Data,,"Spahn, Christoph * Heilemann, Mike * Holden, Séamus * Conduit, Mia * Pereira, Pedro Matos * Pinho, Mariana",,zip,en
+Parhyale 3D segmentation dataset,,AI-ready,https://zenodo.org/records/8252039 * https://doi.org/10.5281/zenodo.8252039, CC-BY-4.0,"The Parhyale 3D Segmentation dataset consists of 50 timepoints (TP01-TP50) of 3D images (512x512x34), where the manual annotations can be found at discrete 6 timepoints (at TP01, TP11, TP21, TP31, TP41 and TP50).
+
+For further&nbsp;details, see README&nbsp;file.
+
+This version fixes&nbsp;the duplicated label IDs found in the previous version of label files. This version ensures that each instance has a unique ID. Thanks to&nbsp;Jackson Borchardt for reporting that error.",2023-08-11,Data,,"Alwes, Frederike * Sugawara, Ko * Averof, Michalis",,pdf * tif,en
+"Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia",,AI-ready,https://zenodo.org/records/15314214 * https://doi.org/10.5281/zenodo.15314214, CC-BY-4.0,"This upload is associated with the software, Gut Analysis Toolbox&nbsp;(GAT).
+If you use it please cite:
+Sorensen et al.&nbsp;Gut Analysis Toolbox: Automating quantitative analysis of enteric neurons.&nbsp;J Cell Sci&nbsp;2024; jcs.261950. doi:&nbsp;https://doi.org/10.1242/jcs.261950
+The upload contains StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and FPN+ResNet101 model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models.&nbsp;The files here also consist of&nbsp;Python notebooks (Google Colab), training and test data as well as reports on model performance.
+Note: The enteric ganglia model is has been updated to v3 which uses pytorch and is a different architecture (FPN+ResNet101).
+The model files are located in the respective folders as zip files. The folders have also been zipped:
+
+Neuron (Hu; StarDist&nbsp;model):
+
+Main folder: 2D_enteric_neuron_model_QA.zip
+StarDist Model File:2D_enteric_neuron_v4_1.zip&nbsp;
+DeepImageJ compatible model: 2D_enteric_neuron.bioimage.io.model.zip (used currently in GAT)
+
+
+Neuronal subtype (StarDist&nbsp;model):&nbsp;
+
+Main folder: 2D_enteric_neuron_subtype_model_QA.zip
+Model File: 2D_enteric_neuron_subtype_v4.zip
+DeepImageJ compatible model: 2D_enteric_neuron_subtype.bioimage.io.model.zip (used currently in GAT)
+
+
+Enteric ganglia (2D FPN_ResNet101; Use in FIJI with&nbsp;deepImageJ)
+
+Main folder: 2D_enteric_ganglia_v3_training.zip
+Model File: 2D_Ganglia_RGB_v3.bioimage.io.model.zip (used currently in GAT)
+
+
+
+For the all models, files included are:
+
+Model for segmenting cells or ganglia in 2D FIJI. StarDist or 2D UNet.
+Training and Test datasets used for training.
+Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic notebooks).
+Python notebook and code for training ganglia model with QA.
+Quality assurance reports generated from above notebooks.
+StarDist model exported for use in QuPath.
+
+The model files can be used within can be used within the software,&nbsp;StarDist. They&nbsp;are intended to be used within FIJI or QuPath, but can be used in any software that supports the implementation of StarDist in 2D.
+Data:
+All the images were collected from 4 different research labs and a public database (SPARC database) to account for variations in image acquisition, sample preparation and immunolabelling.
+For enteric neurons&nbsp;the pan-neuronal marker, Hu&nbsp;has been used and the&nbsp; 2D wholemounts images from mouse, rat and human tissue.
+For enteric neuronal subtypes, 2D images for nNOS, MOR, DOR, ChAT, Calretinin, Calbindin, Neurofilament, CGRP and SST from mouse tissue have been used..
+25 images were used&nbsp;from the following entries in the&nbsp;SPARC database:
+
+Howard, M. (2021). 3D imaging of enteric neurons in mouse (Version 1) [Data set]. SPARC Consortium. 
+Graham, K. D., Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman, M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M., &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC Consortium.
+Wang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies Tested in theColon &ndash; Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h
+
+Additional images for new ganglia model:
+
+Hamnett, R., Dershowitz, L. B., Sampathkumar, V., Wang, Z., Gomez-Frittelli, J., De Andrade, V., Kasthuri, N., Druckmann, S. and Kaltschmidt, J. A. (2022b). Regional cytoarchitecture of the adult and developing mouse enteric nervous system. Curr. Biol. 32, 4483-4492.e5.
+
+The images have been acquired using a combination different microscopes. The images for the mouse tissue were acquired using:&nbsp;
+
+
+Leica TCS-SP8 confocal system (20x HC PL APO NA 1.33, 40 x HC PL APO NA 1.3)&nbsp;
+
+
+Leica TCS-SP8 lightning confocal system (20x HC PL APO NA 0.88)&nbsp;
+
+
+Zeiss Axio Imager M2 (20X HC PL APO NA 0.3)&nbsp;
+
+
+Zeiss Axio Imager Z1 (10X HC PL APO NA 0.45)&nbsp;
+
+
+Human tissue images were acquired using:&nbsp;
+
+
+IX71 Olympus microscope (10X HC PL APO NA 0.3)&nbsp;
+
+
+For more information, visit the&nbsp;Documentation website.
+NOTE: The images for enteric neurons and neuronal subtypes have been rescaled to 0.568 &micro;m/pixel for mouse and rat. For human neurons, it has been rescaled to 0.9 &micro;m/pixel . This is to ensure the neuronal cell bodies have similar pixel area across images. The area of cells in pixels can vary based on resolution of image, magnification of objective used, animal species (larger animals -&gt; larger neurons) and potentially how the tissue is stretched during wholemount preparation&nbsp;
+Average neuron area for neuronal model:&nbsp;701.2 &plusmn; 195.9 pixel2 (Mean &plusmn; SD, 6267 cells)
+Average neuron area for neuronal subtype model:&nbsp;880.9 &plusmn; 316 pixel2 (Mean &plusmn; SD, 924 cells)
+Software References:
+Stardist
+Schmidt, U., Weigert, M., Broaddus, C., &amp; Myers, G. (2018, September). Cell detection with star-convex polygons. In&nbsp;International Conference on Medical Image Computing and Computer-Assisted Intervention&nbsp;(pp. 265-273). Springer, Cham.
+deepImageJ
+G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W., Donati, L., Lundberg, E., Unser, M., Mu&ntilde;oz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly environment to run deep learning models in ImageJ.&nbsp;Nature Methods,&nbsp;18(10), pp.1192-1195.
+ZeroCost DL4Mic
+von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.",2025-05-01,Data,,"Sorensen, Luke * Saito, Ayame * Poon, Sabrina * Han, MyatNoe * Humenick, Adam * Neckel, Peter * Mutunduwe, Keith * Glennan, Christie * Mahdavian, Narges * Brookes, SimonJH * McQuade, RachelM * Foong, JaimePP * King, SebastianK. * Gómez-de-Mariscal, Estibaliz * Muñoz-Barrutia, Arrate * Haase, Robert * Carbone, Simona * Veldhuis, NicholasA. * Poole, DanielP. * Rajasekhar, Pradeep",,zip,en
+ZeroCostDL4Mic - Stardist example training and test dataset,,AI-ready,https://zenodo.org/records/3715492 * https://doi.org/10.5281/zenodo.3715492, CC-BY-4.0,"Name: ZeroCostDL4Mic - Stardist example training and test dataset
+
+(see our Wiki for details)
+
+&nbsp;
+
+Data type: Paired microscopy images (fluorescence) and corresponding masks
+
+Microscopy data type: Fluorescence microscopy (SiR-DNA) and masks obtained via manual segmentation (see https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist for details about the segmentation)
+
+Microscope: Spinning disk confocal microscope with a 20x 0.8 NA objective
+
+Cell type: DCIS.COM LifeAct-RFP cells
+
+File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 634 nm)
+
+&nbsp;
+
+Author(s): Johanna Jukkala1,2 and Guillaume Jacquemet1,2
+
+Contact email: guillaume.jacquemet@abo.fi
+
+Affiliation :&nbsp;
+
+1) Faculty of Science and Engineering, Cell Biology, &Aring;bo Akademi University, 20520 Turku, Finland
+
+2) Turku Bioscience Centre, University of Turku and &Aring;bo Akademi University, FI-20520 Turku, Finland
+
+&nbsp;
+
+Associated publications: Unpublished
+
+Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.",2020-03-17,Data,,"Jukkala, Johanna * Jacquemet, Guillaume",,zip,en
+ZeroCostDL4Mic - Stardist 2D example training and test dataset (light),,AI-ready,https://zenodo.org/records/7949940 * https://doi.org/10.5281/zenodo.7949940, CC-BY-4.0,"Name: ZeroCostDL4Mic - Stardist 2D example training and test dataset (light)
+
+(see&nbsp;our Wiki&nbsp;for details)
+
+Data type: Paired microscopy images (fluorescence) and corresponding masks
+
+Microscopy data type: Fluorescence microscopy (SiR-DNA) and masks obtained via manual segmentation (see&nbsp;https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki/Stardist&nbsp;for details about the segmentation)
+
+Microscope: Spinning disk confocal microscope with a 20x 0.8 NA objective
+
+Cell type: DCIS.COM LifeAct-RFP cells
+
+File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
+
+Image size: 1024x1024 (Pixel size: 634 nm)
+
+&nbsp;
+
+Author(s): Johanna Jukkala1,2&nbsp;and Guillaume Jacquemet1,2
+
+Contact email: guillaume.jacquemet@abo.fi
+
+Affiliation&nbsp;:&nbsp;
+
+1) Faculty of Science and Engineering, Cell Biology, &Aring;bo Akademi University, 20520 Turku, Finland
+
+2) Turku Bioscience Centre, University of Turku and &Aring;bo Akademi University, FI-20520 Turku, Finland
+
+Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.",2023-05-19,Data,,"Jukkala, Johanna * Jacquemet, Guillaume",,zip,en
+StarDist_TumorCell_nuclei,,AI-ready,https://zenodo.org/records/13443221 * https://doi.org/10.5281/zenodo.13443221, CC-BY-4.0,"This repository contains a StarDist deep learning model designed for segmenting tumor cell nuclei from the DAPI channel in fluorescence microscopy images while excluding HUVEC nuclei. The model was trained to accurately detect individual tumor cell nuclei for subsequent measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under the nuclei. The model achieved an Intersection over Union (IoU) score of 0.558 and an F1 Score of 0.793, reflecting its capability to distinguish tumor cell nuclei from HUVEC nuclei.
+Specifications
+
+
+Model: StarDist for segmenting tumor cell nuclei from the DAPI fluorescence channel
+
+
+Training Dataset:
+
+
+
+Number of Images: 48 paired fluorescence microscopy images and label masks
+
+
+Microscope: Spinning disk confocal microscope (3i CSU-W1) with a 20x objective, NA 0.8
+
+
+Data Type: Fluorescence microscopy images of the DAPI channel with manually segmented masks
+
+
+File Format: TIFF (.tif)
+
+
+
+Fluorescence Images: 16-bit
+
+
+Masks: 8-bit
+
+
+
+Image Size: 920 x 920 pixels (Pixel size: 0.6337 x 0.6337 &micro;m&sup2;)
+
+
+
+Model Capabilities:
+
+
+
+Segment Tumor Cell Nuclei: Detects individual tumor cell nuclei in the DAPI channel while distinguishing them from HUVEC nuclei
+
+
+Measure Intensity: Enables measurement of CD44, ICAM1, ICAM2, or Fibronectin intensity around or under tumor cell nuclei in respective channels
+
+
+
+Performance:
+
+
+
+Average IoU: 0.558
+
+
+Average F1 Score: 0.793
+
+
+
+Model Training: Conducted using ZeroCostDL4Mic (https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki)
+
+
+
+Reference
+Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+
+Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
+bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
+&nbsp;",2024-08-29,Data,,"Follain, Gautier * Ghimire, Sujan * Pylvänäinen, Joanna * Ivaska, Johanna * Jacquemet, Guillaume",,zip,
+Single-cell approach dissecting agr quorum sensing dynamics in Staphylococcus aureus,,AI-ready,https://zenodo.org/records/10720439 * https://doi.org/10.5281/zenodo.10720439, CC-BY-4.0,"Training data for the two StarDist2D models and the DeLTA 2.0 2D tracking model used in the publication on&nbsp;bioarxiv. The trained stardist models are included in the respective zip files of the training data. mm: mother-machine; cc: connected chamber. Each of them contains two folders, img and seg_label. They contain matching pairs of phasecontrast images (img) and label images (seg_label).&nbsp;
+&nbsp;
+tracking_set_subset.zip contains the training data for the DeLTA tracking model following the default folder structure. We used custom weight functions to create the training weight maps in the folder wei. The folder wei_bck contains weights generated with the original function.
+The unet_pads_tracking.hdf5 is the retrained tracking model used in the associated publication.
+See associated GitHub repository for example code on how to use the models for segmentation and tracking.
+The four numbered zip files contain the data used to create all figures displaying image analysis output.
+Abstract:
+Staphylococcus aureus both colonizes humans and causes severe virulent infections. Virulence is regulated by the agr quorum sensing system and its autoinducing peptide (AIP), with dynamics at the single-cell level across four agr-types &ndash; each defined by distinct AIP sequences and capable of cross-inhibition &ndash; remaining elusive. Employing microfluidics, time-lapse microscopy, and deep-learning image analysis, we uncovered significant differences in AIP sensitivity among agr-types. We observed bimodal agr activation, attributed to intergenerational phenotypic stability and influenced by AIP concentration. Upon AIP stimulation, agr‑III showed AIP insensitivity, while agr‑II exhibited increased sensitivity and prolonged generation time. Beyond expected cross-inhibition of agr‑I by heterologous AIP‑II and ‑III, the presumably cross-activating AIP‑IV also inhibited agr‑I. Community interactions across different agr-type pairings revealed four main patterns: stable or switched dominance, and delayed or stable dual activation, influenced by community characteristics. These insights underscore the potential of personalized treatment strategies considering virulence and genetic diversity.",2024-02-28,Data,,"Bär, Julian",,hdf5 * zip,en
+DeepBacs – Staphylococcus aureus widefield segmentation dataset,,AI-ready,https://zenodo.org/records/5550933 * https://doi.org/10.5281/zenodo.5550933, CC-BY-4.0,"Training and test images of live S. aureus cells for the task of cell segmentation.
+
+Additional information can be found in the github wiki.
+
+The example shows the bright field and Nile Red fluorescence image of live S. aureus cells, as well as the manually annotated segmentation mask.
+
+&nbsp;
+
+Data type: Paired DIC/fluorescence and segmented mask images
+
+Microscopy data type: 2D widefield images (DIC and fluorescence)
+
+Microscope:&nbsp; GE HealthCare Deltavision OMX system (with temperature and humidity control, 37&deg;C) equipped with an Olympus 60x 1.42NA Oil immersion objective and 2 PCO Edge 5.5 sCMOS cameras (one for DIC, one for fluorescence)
+
+Cell type: S. aureus strain JE2 grown under agarose pads
+
+File format: .tif (16-bit)
+
+Image size: 512 x 512 px&sup2; (80 nm/px)
+Image preprocessing: Raw images were manually annotated by drawing ellipses in the NR fluorescence image and segmented images were created using the LOCI plugin (&ldquo;ROI Map&rdquo;). For training, images and masks were quartered into four 256 x 256 px&sup2; patches.
+
+&nbsp;
+
+Author(s): Pedro Matos Pereira1,2, Mariana Pinho1,3
+
+Contact email: pmatos@itqb.unl.pt and mgpinho@itqb.unl.pt
+
+&nbsp;
+
+Affiliation:&nbsp;
+
+1) Bacterial Cell Biology, Instituto de Tecnologia Qu&iacute;mica e Biol&oacute;gica Ant&oacute;nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+
+2) ORCID: https://orcid.org/0000-0002-1426-9540
+
+3) ORCID: https://orcid.org/0000-0002-7132-8842",2021-10-05,Data,,"Pereira, Pedro Matos * Pinho, Mariana",,png * zip,
+DeepBacs – Bacillus subtilis fluorescence segmentation dataset,,AI-ready,https://zenodo.org/records/5550968 * https://doi.org/10.5281/zenodo.5550968, CC-BY-4.0,"Training and test images of live B. subtilis cells expressing FtsZ-GFP for the task of segmentation.
+
+Additional information can be found on this github wiki.
+
+The example shows the fluorescence widefield image of live B. subtilis cells expressing FtsZ-GFP and the manually annotated segmentation mask.
+
+&nbsp;
+
+Data type: Paired fluorescence and segmented mask images
+
+Microscopy data type: 2D widefield images (fluorescence)&nbsp;
+
+Microscope: Custom-built 100x inverted microscope bearing a 100x TIRF objective (Nikon CFI Apochromat TIRF 100XC Oil); images were captured on a Prime BSI sCMOS camera (Teledyne Photometrics)
+
+Cell type: B. subtilis strain SH130 grown under agarose pads
+
+File format: .tiff (8-bit) or .png (8-bit)
+
+For segmented masks, binary masks are used for training of CARE/U-Net models, 8-bit .tif ROI maps for training of StarDist models and .png images for training of pix2pix models
+
+Image size: 1024 x 1024 px&sup2; (Pixel size: 65 nm)
+
+Image preprocessing: Images were denoised using PureDenoise and resulting 32-bit images were converted into 8-bit images after normalizing to 1% and 99.98% percentiles. Images were manually annotated using the Labkit Fiji plugin
+
+&nbsp;
+
+Author(s): Mia Conduit1,2, S&eacute;amus Holden1,3
+
+Contact email: Seamus.Holden@newcastle.ac.uk
+
+&nbsp;
+
+Affiliation:
+
+1) Centre for Bacterial Cell Biology, Biosciences Institute, Newcastle University, NE2 4AX UK
+
+2) ORCID: 0000-0002-7169-907X
+
+&nbsp;
+
+&nbsp;Associated publications: Whitley et al., 2021, Nature Communications, https://doi.org/10.15252/embj.201696235",2021-10-05,Data,,"Holden, Séamus * Conduit, Mia",,png * zip,
+DeepBacs – Escherichia coli bright field segmentation dataset,,AI-ready,https://zenodo.org/records/5550935 * https://doi.org/10.5281/zenodo.5550935, CC-BY-4.0,"Training and test images of live E. coli cells imaged under bright field for the task of segmentation.
+
+Additional information can be found on this github wiki.
+
+The example shows a bright field image of live E. coli cells and the manually annotated segmentation mask.
+
+&nbsp;
+
+Data type: Paired bright field and segmented mask images&nbsp;
+
+Microscopy data type: 2D bright field images recorded at 1 min interval
+
+Microscope: Nikon Eclipse Ti-E equipped with an Apo TIRF 1.49NA 100x oil immersion objective
+
+Cell type: E. coli MG1655 wild type strain (CGSC #6300).
+
+File format: .tif (8-bit)
+
+Image size: 1024 x 1024 px&sup2; (79 nm / pixel), 19/15 individual frames (training/test dataset)
+
+1024 x 1024 px&sup2; (79 nm / pixel), 9 regions of interest with 80 frames @ 1 min time interval (live-cell time series)
+
+Image preprocessing: Raw images were recorded in 16-bit mode (image size 512 x 512 px&sup2; @ 158 nm/px). Images were upscaled with a factor of 2 (no interpolation) to enable generation of higher-quality segmentation masks. Two sets of mask images are provided: RoiMaps for instance segmentation using e.g. StarDist or binary images for CARE or U-Net.
+
+
+Author(s): Christoph Spahn1,2, Mike Heilemann1,3
+
+Contact email: christoph.spahn@mpi-marburg.mpg.de
+
+&nbsp;
+
+Affiliation(s):&nbsp;
+
+1) Institute of Physical and Theoretical Chemistry, Max-von-Laue Str. 7, Goethe-University Frankfurt, 60439 Frankfurt, Germany
+
+2) ORCID: 0000-0001-9886-2263&nbsp;
+
+3) ORCID: 0000-0002-9821-3578",2021-10-05,Data,,"Spahn, Christoph * Heilemann, Mike",,png * zip,
+A deep learning approach to quantify auditory hair cells,,AI-ready,https://zenodo.org/records/4590066 * https://doi.org/10.5281/zenodo.4590066, CC-BY-4.0,StarDist 2D deep learning model and training dataset.,2021-03-09,Data,,"Cortada, Maurizio * Sauteur, Loïc * Lanz, Michael * Levano, Soledad * Bodmer, Daniel",,zip,en
+Fiber and vessel dataset for segmentation and characterization,,AI-ready,https://zenodo.org/records/10913446 * https://doi.org/10.5281/zenodo.10913446, CC-BY-4.0,"This repository hosts a comprehensive collection of datasets used to develop an innovative deep learning model designed to enhance the segmentation and characterization of macerated fibers and vessel forms in microscopy images. Included in the deposit are raw images, alongside meticulously prepared training and validation datasets. We present an automated segmentation approach that utilizes the one-stage YOLOv8 model, which has been specifically adapted to process high-resolution microscopy images up to 32640 x 25920 pixels. Our model excels in cell detection and segmentation, demonstrating exceptional proficiency.",2024-05-03,Data,,"Qamar, Saqib * Baba, Abu Imran * Verger, Stèphane * Andersson, Magnus",,zip,en
+Root tissue segmentation dataset,,AI-ready,https://zenodo.org/records/5841376 * https://doi.org/10.5281/zenodo.5841376, CC-BY-4.0,"The PHDFM dataset is composed of fluorescence microscopy images of root tissue samples from A. thaliana, using the ratiometric fluorescent indicator 8‐hydroxypyrene‐1,3,6‐trisulfonic acid trisodium salt (HPTS). This semantic segmentation training dataset consists of 2D microscopy images (the brightfield channel for excitation at 405 nm), each containing a segmentation mask as an additional image channel (manually annotated by plant biologists). The segmentation masks classify pixels into the following 5 labels with the corresponding IDs: background (0), root tissue (1), early elongation zone (2), late elongation zone (3), and meristematic zone (4).",2022-01-12,Data,,"Wanner, Julian * Kuhn Cuellar, Luis * Wanke, Friederike",,gz,en
+Platynereis EM training data,,AI-ready,https://zenodo.org/records/3675220 * https://doi.org/10.5281/zenodo.3675220, CC-BY-4.0,"Training data for Convolutional Neural Networks used in the publication Whole-body integration of gene expression and single-cell morphology. We provide training data for segmenting structures in the SerialBlockface Electron Microscopy data-set containing a complete 6 day old Platynereis dumerilii larva, in particular for:
+- cell membranes: 9 training blocks @ resolution 20x20x25 nm. Based on initial training data provided by https://ariadne.ai/.
+- cilia: 3 training and 2 validation blocks @ resolution 20x20x25 nm.
+- cuticle: 5 training blocks @ resolution 40x40x50 nm.
+- nuclei: 12 training blocks @ resolution 80x80x100 nm. Based on initial training data provided by https://ariadne.ai/.
+
+For details on how to use this data for training, see https://github.com/platybrowser/platybrowser-backend/tree/master/segmentation.",2020-02-19,Data,,"Pape, Constantin",,zip,
+Deep learning segmentation projects of FIB-SEM dataset of U2-OS cell,,AI-ready,https://zenodo.org/records/10043461 * https://doi.org/10.5281/zenodo.10043461, CC-BY-4.0,"This submission includes ground truth datasets that were used to segment the nuclear envelope (NE), mitochondria, endoplasmic reticulum (ER) and Golgi from a human bone osteosarcoma epithelial cell (U2-OS) imaged using focused-ion beam scanning electron microscopy (FIB-SEM).The full FIB-SEM dataset is deposited to EMPIAR (https://www.ebi.ac.uk/empiar, EMPIAR-11746).&nbsp;",2023-10-26,Data,,"Ilya, Belevich * Jokitalo, Eija",,pdf * zip,en
+SynapseNet Training Data,,AI-ready,https://zenodo.org/records/14330011 * https://doi.org/10.5281/zenodo.14330011, CC-BY-4.0,"This dataset contains room-temperature single-axis TEM tomograms from Schaffer collateral and mossy fiber synapses in organotypic hippocampal slices.&nbsp;The tomograms were published in the two studies [1, 2]. The data was re-used for training deep neural networks to segment different synaptic structures in electron micrographs in [3].&nbsp;For the tomograms, organotypic slices were prepared from the hippocampi of neonatal mice according to the interface protocol55 and vitrified after 28 days in vitro in culture medium supplemented with 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. The dataset also contains 23 tomograms resulting from chemically-fixed material, which were also published in (Maus et al., 2020). For these tomograms, wild-type animals at postnatal day 28 were transcardially perfused under deep anesthesia, first with 0.9% sodium chloride solution, and then one of two fixatives (Fixative 1: Ice-cold 4% paraformaldehyde, 2.5% glutaraldehyde in 0.1 M phosphate buffer16; Fixative 2: 37&deg; C 2% paraformaldehyde, 2.5% glutaraldehyde, 2 mM CaCl2, in 0.1 M cacodylate buffer56). Brains were rinsed and sectioned coronally through the dorsal hippocampus in an ice-cold 0.1 M phosphate buffer using a VT 1200S vibratome (Leica) (step size 100 &micro;m; amplitude 1.5 mm, speed 0.1 mm/sec). Hippocampal CA3 subregions were excised using a 1.5 mm diameter biopsy punch and high-pressure frozen on the same day in 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. For both sample preparations, automated freeze-substitution was performed. Tomograms were collected using a 200 kV JEM-2100 (JEOL) transmission electron microscope equipped with an 11 MP Orius SC1000 CCD camera (Gatan). Tilt-series (tilt range +/- 60&deg;; 1&deg; angular increments) were acquired at 30 000x magnification using SerialEM58. Tomographic reconstructions were generated using weighted back-projection with etomo.The data is organized into two different subfolders for data with annotations for ""vesicles"" and ""active_zones"". Each of these subfolders is further subdivided into ""train"" and ""test"" folders, which containtomograms for the two different sample preparations in ""chemical_fixation"" and ""single_axis_tem"".Each tomogram and the corresponding annotation is stored as a hdf5 file, containing the following internal datasets:- raw: The tomogram data.- labels/vesicles: Annotations for the synaptic vesicles, annotated with IMOD, further postprocessed and then exported to instance masks. (for tomograms in ""vesicles"")- labels/AZ: Annotations for the active zone, annotated with IMOD and exported to binary masks.
+[1] Imig et al., The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones, Neuron, 2014, DOI:10.1016/j.neuron.2014.10.009[2] Maus et al., Ultrastructural Correlates of Presynaptic Functional Heterogeneity in Hippocampal Synapses, Cell Reports, 2020, DOI: 10.1016/j.celrep.2020.02.083[3] Muth, Moschref et al., 2024, Preprint to be published",2024-12-01,Data,,"Pape, Constantin",,zip,
+Training set of microscopy images for Dietler et al. Nature Communications 2020,,AI-ready,https://zenodo.org/records/5765648 * https://doi.org/10.5281/zenodo.5765648, CC-BY-4.0,Training set of microscopy images for Dietler et al. Nature Communications 2020,2021-12-07,Data,,"Dietler, Nicola * Minder, Matthias * Gligorovski, Vojislav * Economou, Augoustina Maria * Joly, Denis Alain Henri Lucien * Sadeghi, Ahmad * Chan, Chun Hei Michael * Kozinski, Mateusz * Weigert, Martin * Bitbol, Anne-Florence * Rahi, Sahand Jamal",,gz,en
+MemBrain-seg training data,,AI-ready,https://zenodo.org/records/7739793 * https://doi.org/10.5281/zenodo.7739793, CC-BY-4.0,"This dataset contains training data for segmenting membranes in cryo-electron tomograms.
+
+More details will follow.",2023-03-16,Data,,"Lamm, Lorenz",,zip,
+Deep learning training data (JOVE),,AI-ready,https://zenodo.org/records/7335439 * https://doi.org/10.5061/dryad.rxwdbrvct,cc-zero,"Cryo-electron tomography (cryo-ET) allows researchers to image cells in their native, hydrated state at the highest resolution currently possible. However, the technique has several limitations that make analyzing the data it generates time-intensive and difficult. Hand-segmenting a single tomogram can take hours to days of human effort, but the microscope can easily generate 50 or more tomograms a day. Current deep learning segmentation programs for cryo-ET do exist but are limited to segmenting one structure at a time. Here multi-slice U-Net convolutional neural networks are trained and applied to automatically segment multiple structures simultaneously within cryo-tomograms. With proper preprocessing, these networks can be robustly inferred to many tomograms without the need for training individual networks for each tomogram. This workflow dramatically improves the speed with which cryo-electron tomograms can be analyzed by cutting segmentation time down to under 30 min in most cases. Further, segmentations can be used to improve the accuracy of filament tracing within a cellular context and to rapidly extract coordinates for subtomogram averaging.",2022-11-18,Data,,"Heebner, Jessica * Purnell, Carson * Hylton, Ryan * Marsh, Mike * Grillo, Michael * Swulius, Matt",,md * zip,en
+"Cellpose training data and scripts from ""Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments""",,AI-ready,https://zenodo.org/records/7041137 * https://doi.org/10.5281/zenodo.7041137, CC-BY-4.0,"This Workflow contains all the material necessary to reproduce the results of the QuPath analysis performed in the paper
+&nbsp;""Inhibition of CERS1 in aging skeletal muscle exacerbates age-related muscle impairments""
+Inside this workflow and dataset, you will find the following folders
+
+QuPath Training Project: A QuPath 0.3.2 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
+QuPath Demo Project: A QuPath 0.3.2 project containing an example image that can be segmented using cellpose, followed by the classification of the CD45 expressing fibers
+Training Images and Demo Images: The raw whole slide scanner 20x images needed by the above QuPath projects
+Model: The fodler contianing the trained cellpose model
+Cellpose Training Folder: The exported raw and ground truth images that the above cellpose model was trained on
+Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
+QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
+
+Installation and Use
+If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
+Instructions for installation are available from the links above.
+After that, you should be able to open the QuPath project, navigate to the ""Automate &gt; Project scripts"" menu and locate the script you wish to run.",2024-02-27,Data,,"Wohlwend, Martin * Burri, Olivier * Auwerx, Johan",,md * zip,en
+"Cellpose training data and scripts from ""Machine learning for histological annotation and quantification of cortical layers""",,AI-ready,https://zenodo.org/records/12656468 * https://doi.org/10.5281/zenodo.12656468, CC-BY-4.0,"This Workflow contains all the material necessary to reproduce the cells detection, thanks to the QuPath performed in the paper
+&nbsp;""Machine learning for histological annotation and quantification of cortical layers""
+Inside this workflow and dataset, you will find the following folders
+
+QuPath Training Project: A QuPath 0.5.0 project containing all the manual annotations (ground truths) used to train the cellpose model, as well as the script to start the training
+Training Images and Demo Images: The raw whole slide scanner images needed by the above QuPath project
+Model: The fodler containing the trained cellpose model
+cellpose-training Folder: The exported raw and ground truth images that the above cellpose model was trained on
+Scripts: The QuPath scripts, also located in their respective QuPath projects, that were created for this whole workflow
+QC: A Jupyter notebook, based on ZeroCostDL4Mic that computes quality metrics in order to assess the performance of the trained cellpose model. The folder also contains the resulting metrics.
+
+Installation and Use
+If you are going to use the QuPath projects, you need a local QuPath Installation https://qupath.github.io/ that is configured to run the QuPath Cellpose Extension https://github.com/BIOP/qupath-extension-cellpose as well as a working Cellpose installation https://github.com/MouseLand/cellpose
+Instructions for installation are available from the links above.
+After that, you should be able to open the QuPath project, navigate to the ""Automate &gt; Project scripts"" menu and locate the script you wish to run.
+1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
+2. trigger cell segmentation from a QuPath project in a semi-automated pipeline",2024-07-04,Data,,"Jacquemier, Jean * Meystre, Julie * Burri, Olivier",,pdf * zip,en
+Volumetric segmentation of biological cells and subcellular structures for optical diffraction tomography images - dataset,,AI-ready,https://zenodo.org/records/8188948 * https://doi.org/10.5281/zenodo.8188948, CC-BY-4.0,"This dataset includes 4&nbsp;files with segmentation results for 4&nbsp;different ODT reconstructions of SH-SY5Y neuroblastoma cell. The segmentation results contain:
+
+
+	3D binary masks of biological cells obtained through Cellpose [1] and ODT-SAS;
+	3D binary masks of organelles: nucleoli and lipid structures (LS) obtained through slice-by-slice manual segmentation&nbsp;and ODT-SAS.
+
+
+All files are .*mat files.
+
+The files REC_SH-SY5Y_1.mat,&nbsp;REC_SH-SY5Y_2.mat and&nbsp;REC_SH-SY5Y_3.mat&nbsp;consist of 7 variables:
+
+RECON &ndash;&nbsp;tomographic reconstruction of SH-SY5Y neuroblastoma cell;
+n_imm &ndash;&nbsp;refractive index of object immersion medium;
+dx &ndash;&nbsp;object space sample size in XY [\(\mu m\)];
+rayXY &ndash;&nbsp;xy-coordinates of illumination vectors;
+
+maskManual &ndash;&nbsp;table with manually determined 3D binary masks of organelles;
+maskCellpose &ndash;&nbsp;3D binary mask of biological cell obtained through Cellpose;
+maskODTSAS &ndash;&nbsp;table with 3D binary masks of biological cell and their organelles obtained through ODT-SAS.
+
+File REC_SH-SY5Y_4.mat&nbsp;includes masks for the ODT-SAS and Cellpose segmentation of three closely packed cells and consists of 5 variables: RECON, n_imm, dx, maskCellpose and maskODTSAS.
+
+Access a particular 3D binary mask from &#39;maskManual&#39; and &#39;maskODTSAS&#39; tables, using the following names: &#39;Cell&#39;, &#39;Nucleoli&#39;, &#39;LS&#39;.
+For example:
+
+cellMask = maskODTSAS.Cell{1};
+
+
+[1] Stringer, C., Wang, T., Michaelos, M., &amp; Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106.
+
+&nbsp;",2023-06-16,Data,,"Mazur, Martyna * Krauze, Wojciech",,mat,en
+CellBinDB: A Large-Scale Multimodal Annotated Dataset,,AI-ready,https://zenodo.org/records/15370205 * https://doi.org/10.5281/zenodo.15370205,cc-zero,"CellBinDB is a large-scale, multimodal annotated dataset for cell segmentation. It contains 1,044 annotated microscope images and 109,083 cell annotations, covering four staining types: DAPI, ssDNA, H&amp;E, and mIF. CellBinDB contains samples from two species, human and mouse, covering more than 30 histologically different tissue types, including disease-related tissues. The images in CellBinDB come from two sources: 844 mouse images from internal experiments and 200 human images from the open access platform 10x Genomics. We annotated all images in CellBinDB and provide two types of image annotations: semantic and instance masks. A xlsx file is attached to record the detailed information of each image.
+In addition, we provide the images and annotations of nine other widely used publicly available cell segmentation datasets downloaded from their original sources, retaining their original formats for ease of use.&nbsp;
+The file 'mixed_licenses.txt' contains the original accessions of the public datasets used in our project and their associated licenses. Please refer to these links for more information about each dataset and its licensing terms, and use it according to the specifications.",2024-11-20,Data,,"Shi, Can * Fan, Jinghong * Deng, Zhonghan * Liu, Huanlin * Kang, Qiang * Li, Yumei * Guo, Jing * Wang, Jingwen * Gong, Jinjiang * Liao, Sha * Chen, Ao * Zhang, Ying * Li, Mei",,txt * xlsx * zip,en
+NeurIPS 2022 Cell Segmentation Competition Dataset,,AI-ready,https://zenodo.org/records/10719375 * https://doi.org/10.5281/zenodo.10719375,cc-by-nc-nd-4.0,"The official data set for the NeurIPS 2022 competition: cell segmentation in multi-modality microscopy images.
+https://neurips22-cellseg.grand-challenge.org/
+Please cite the following paper if this dataset is used in your research.&nbsp;
+&nbsp;
+@article{NeurIPS-CellSeg,
+      title = {The Multi-modality Cell Segmentation Challenge: Towards Universal Solutions},
+      author = {Jun Ma and Ronald Xie and Shamini Ayyadhury and Cheng Ge and Anubha Gupta and Ritu Gupta and Song Gu and Yao Zhang and Gihun Lee and Joonkee Kim and Wei Lou and Haofeng Li and Eric Upschulte and Timo Dickscheid and Jos&eacute; Guilherme de Almeida and Yixin Wang and Lin Han and Xin Yang and Marco Labagnara and Vojislav Gligorovski and Maxime Scheder and Sahand Jamal Rahi and Carly Kempster and Alice Pollitt and Leon Espinosa and T&acirc;m Mignot and Jan Moritz Middeke and Jan-Niklas Eckardt and Wangkai Li and Zhaoyang Li and Xiaochen Cai and Bizhe Bai and Noah F. Greenwald and David Van Valen and Erin Weisbart and Beth A. Cimini and Trevor Cheung and Oscar Br&uuml;ck and Gary D. Bader and Bo Wang},
+      journal = {Nature Methods}, &nbsp; &nbsp; &nbsp;volume={21},      pages={1103&ndash;1113},      year = {2024},
+      doi = {https://doi.org/10.1038/s41592-024-02233-6}
+  }
+&nbsp;
+This is an instance segmentation task where each cell has an individual label under the same category (cells). The training set contains both labeled images and unlabeled images. You can only use the labeled images to develop your model but we encourage participants to try to explore the unlabeled images through weakly supervised learning, semi-supervised learning, and self-supervised learning.
+&nbsp;
+The images are provided with original formats, including tiff, tif, png, jpg, bmp... The original formats contain the most amount of information for competitors and you have free choice over different normalization methods. For the ground truth, we standardize them as tiff formats.
+&nbsp;
+We aim to maintain this challenge as a sustainable benchmark platform. If you find the top algorithms (https://neurips22-cellseg.grand-challenge.org/awards/) don't perform well on your images, welcome to send us the dataset (neurips.cellseg@gmail.com)! We will include them in the new testing set and credit your contributions on the challenge website!
+&nbsp;
+Dataset License: CC-BY-NC-ND",2024-02-27,Data,,"Ma, Jun * Xie, Ronald * Ayyadhury, Shamini * Ge, Cheng * Gupta, Anubha * Gupta, Ritu * Gu, Song * Zhang, Yao * Lee, Gihun * Kim, Joonkee * Lou, Wei * Li, Haofeng * Upschulte, Eric * Dickscheid, Timo * de Almeida, José Guilherme * Wang, Yixin * Han, Lin * Yang, Xin * Labagnara, Marco * Gligorovski, Vojislav * Scheder, Maxime * Rahi, Sahand Jamal * Kempster, Carly * Pollitt, Alice * Espinosa, Leon * Mignot, Tam * Middeke, Jan Moritz * Eckardt, Jan-Niklas * Li, Wangkai * Li, Zhaoyang * Cai, Xiaochen * Bai, Bizhe * Greenwald, Noah F. * Van Valen, David * Weisbart, Erin * Cimini, Beth A * Cheung, Trevor * Brück, Oscar * Bader, Gary D. * Wang, Bo",,md * zip,en
+LyNSeC: Lymphoma Nuclear Segmentation and Classification,,AI-ready,https://zenodo.org/records/8065174 * https://doi.org/10.5281/zenodo.8065174, CC-BY-4.0,"Over the last years, there has been large progress in automated segmentation and classification methods in histological whole slide images (WSIs) stained with hematoxylin and eosin (H&amp;E). Current state-of-the-art techniques are based on diverse datasets of H&amp;E-stained WSIs of different types of predominantly solid cancer. However, there is a lack of publicly available annotated datasets of lymphoma, which is why we generated a labeled diffuse large B-cell lymphoma dataset and denoted it LyNSeC (lymphoma nuclear segmentation and classification). LyNSeC comprises three subsets: LyNSeC 1 consists of 379 IHC images of size 512 x 512 pixels at 40x magnification. In the images, we annotated the contours of each cell nuclei and the cell class: marker-positive or marker-negative.
+
+In total, LyNSeC 1 contains 87,316 annotated cell nuclei of four different cases, with 48,171 of them assigned the class negative and 39,145 positive. We included three markers in this dataset showing visually different staining patterns: cluster of differentiation 3 (CD3), Ki67 as a marker of proliferation, and erythroblast transformation-specific (EST)-related gene (ERG).
+
+LyNSeC 2 and 3 contain H&amp;E-stained images of 70 different patients. LyNSeC 2 consists of 280 images and LyNSeC 3 of 40 images of size 512 x 512 pixels at 40x magnification. 65,479 and 8,452 nuclei were annotated in LyNSeC 2 and 3, respectively. In LyNSeC 3, the nuclei were also assigned a class label (tumor and non-tumor). 3,747 nuclei were identified as tumors and 4,705 as non-tumors.
+
+In the annotation procedure, the contours of the H&amp;E images (LyNSeC 2 and LyNSeC 3) were annotated by two pathologists and by two students (trained by the pathologists). Annotation of the cell classes in LyNSeC 3 was done by the pathologists only. LyNSeC 1 was annotated by the two students who were additionally trained to annotate the contours and to distinguish marker-positive and marker-negative cells. The pathologists inspected and (if necessary) adjusted the LyNSeC 3 annotations.
+
+The files are uploaded in &#39;.npy&#39; format. The files of LyNSeC 1 (x_l1.npy) and LyNSeC 3&nbsp;(x_l3.npy) contain five channels, respectively: the first three are the RGB channels of the images, channel 4 contains the instance maps, and channel 5 the class type maps (for LyNSeC 1 a pixel value of 1 corresponds to the class negative and 2 to the class positive, whereas in LyNSeC 3 1 corresponds to the class non-tumor and 2 to the class tumor). The files of LyNSeC 2 (x_l2.npy) have 4 channels (without the class type map).
+
+Additionally, we also make our HoVer-Net-based pre-trained nuclei segmentation and classification models available (he.tar for H&amp;E images and ihc.tar for IHC images).",2023-06-21,Data,,"Hussein, Naji * Reinhard, Büttner * Adrian, Simon * Marie-Lisa, Eich * Philipp, Lohneis * Katarzyna, Bozek",,tar * zip,en
+Melanoma Histopathology Dataset with Tissue and Nuclei Annotations,,AI-ready,https://zenodo.org/records/15050523 * https://doi.org/10.5281/zenodo.15050523,cc-zero,"Description:
+This dataset is designed for development of deep learning models for segmentation of nuclei and tissue in melanoma H&amp;E stained histopathology. Existing nuclei segmentation models that are trained on non-melanoma specific datasets have low performance due to the ability of melanocytes to mimic other cell types, whereas existing melanoma specific models utilize older, sub-optimal techniques. Moreover, these models do not provide tissue annotations necessary for determining the localization of tumor-infiltrating lymphocytes, which may hold value for predictive and prognostic tasks. To address this, we created a melanoma specific dataset with nuclei and tissue annotations.&nbsp;
+Methodology:
+Sample Collection:
+Regions of interest (ROIs) were sampled from H&amp;E stained slides of 103 primary melanoma specimens and 102 metastatic melanoma specimens, scanned using a Hamamatsu scanner at 40&times; magnification (0.23 &mu;m per pixel). All slides were obtained from regular diagnostic procedures.From each specimen, a 40&times; magnified ROI of 1024&times;1024 pixels was selected for annotation. Additionally, a context ROI of 5120&times;5120 pixels was sampled to provide information about the broader context for the annotation process. Selection was performed by a trained medical expert (M.S.) and subsequently verified by a dermatopathologist (W.B.). Manual ROI selection ensured the inclusion of diverse tissue and nuclei types.
+Annotation Process:
+
+Nuclei segmentationNuclei segmentations were generated using Hover-Net pretrained on the PanNuke dataset. Manual annotation adjustments were performed by author M.S. using QuPath, with the following nuclei categories: tumor, stroma, vascular endothelium, histiocyte, melanophage, lymphocyte, plasma cell, neutrophil, apoptotic cell, and epithelium. All annotations were reviewed and corrected, where needed, by a dermatopathologist (W.B.).
+Tissue segmentationTissue segmentations were created manually using QuPath by M.S., with the following categories: tumor, stroma, epidermis, necrosis, blood vessel, and background. Annotations were reviewed and corrected, where needed, by a dermatopathologist (W.B.).
+
+Quality Control: To assess the reliability of the annotations, intra- and interobserver agreement (by pathologist G.B.) were determined on 12 randomly selected ROIs.
+
+Nuclei segmentationThe intraobserver overall precision was 84.89%, with a recall of 86.45%, and an F1 score of 85.66%. Interobserver overall precision was 80.34%, with a recall of 80.62%, and an F1 score of 80.20%. These results are based on the sum of all true positive, false positive, and false negative counts for the 12 ROIs.
+Tissue segmentationThe DICE score was determined on the same 12 randomly selected ROIs. The average intraobserver DICE score was 0.90, and the interobserver DICE score was also 0.90.
+
+&nbsp;
+Version 3:Removed sample ""training_set_metastatic_roi_103"" due to inconsistencies in annotation file.
+Version 4:Sample training_set_metastatic_roi_088 missed one color annotation for a nuclei_apoptosis in the geojson file rendering it qupath uncompatible. This is fixed in the new version.&nbsp;
+Version 5:Addition of correct sample of training_set_metastatic_roi_103"" after deadline of panoptic segmentation of nuclei and tissue in advanced melanoma challenge test phase.&nbsp;",2025-03-19,Data,,"Schuiveling, Mark",,zip,en
+HT1080WT cells embedded in 3D collagen type I matrices - manual annotations for cell instance segmentation and tracking,,AI-ready,https://zenodo.org/records/5979761 * https://doi.org/10.5281/zenodo.5979761, CC-BY-4.0,"Human fibrosarcoma HT1080WT (ATCC) cells at low cell densities embedded in 3D collagen type I matrices [1]. The time-lapse videos were recorded every 2 minutes for 16.7 hours and covered a field of view of 1002 pixels &times; 1004 pixels with a pixel size of 0.802 &mu;m/pixel The videos were pre-processed to correct frame-to-frame drift artifacts, resulting in a final size of 983 pixels &times; 985 pixels pixels.
+
+Hasini Jayatilaka, Anjil Giri, Michelle Karl, Ivie Aifuwa, Nicholaus J Trenton, Jude M Phillip, Shyam Khatau, and Denis Wirtz. EB1 and cytoplasmic dynein mediate protrusion dynamics for efficient 3-dimensional cell migration. FASEB J., 32(3):1207&ndash;1221, 2018. ISSN 0892-6638. doi: 10.1096/fj.201700444RR.
+
+Further information about how to use this data is given in&nbsp;https://github.com/esgomezm/microscopy-dl-suite-tf
+
+This dataset is provided together with the following preprint and if you use it, we would like to kindly ask you to cite it properly:
+
+Estibaliz G&oacute;mez-de-Mariscal, Hasini Jayatilaka, &Ouml;zg&uuml;n &Ccedil;i&ccedil;ek, Thomas Brox, Denis Wirtz, Arrate Mu&ntilde;oz-Barrutia, *Search for temporal cell segmentation robustness in phase-contrast microscopy videos*, arXiv 2021 (arXiv:2112.08817)",2021-12-13,Data,,"Gómez-de-Mariscal, Estibaliz * Jayatilaka, Hasini * Wirtz, Denis * Muñoz-Barrutia, Arrate",,zip,en
