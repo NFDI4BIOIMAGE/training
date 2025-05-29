@@ -11689,6 +11689,20 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=o_cAOa5fMhE 
 
+
+
+- authors:
+  - Myles Scolnick
+  description: Teaching material for image processing and analysis
+  license: Apache License 2.0
+  name: image-processing-basics
+  publication_date: '2025-05-27T08:31:14+00:00'
+  submission_date: '2025-05-27T15:33:41.327576'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/fmi-faim/image-processing-basics
+
+
 - authors: 
   - Alexis Lebon
   - Anatole Chessel
@@ -14537,3 +14551,4 @@ resources:
   url:
   - https://zenodo.org/records/15353569
   - https://doi.org/10.5281/zenodo.15353569
+
