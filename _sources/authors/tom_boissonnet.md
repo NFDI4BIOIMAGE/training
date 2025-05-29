@@ -1,4 +1,4 @@
-# Tom boissonnet (14)
+# Tom boissonnet (16)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -10,6 +10,25 @@ Tags: Research Data Management
 Content type: Publication
 
 [https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13317)
+
+
+---
+
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
 
 
 ---
@@ -218,6 +237,27 @@ Content type: Github Repository
 
 ---
 
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
+
+
+---
+
 ## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -395,7 +435,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

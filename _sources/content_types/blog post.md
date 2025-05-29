@@ -1,4 +1,4 @@
-# Blog post (23)
+# Blog post (28)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -48,6 +48,25 @@ Tags: OMERO, Python
 Content type: Blog Post
 
 [https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html](https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html)
+
+
+---
+
+## CS231n Convolutional Neural Networks for Visual Recognition
+
+Geeth Sethi, Sumith Kulal, Kevin Zakka, William Shen, Rachel Gardner
+
+Licensed UNKNOWN
+
+
+
+ ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
+
+Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning
+
+Content type: Blog Post
+
+[https://cs231n.github.io/convolutional-networks/](https://cs231n.github.io/convolutional-networks/)
 
 
 ---
@@ -181,6 +200,27 @@ Content type: Blog Post
 
 ---
 
+## Five ways to effectively use animation in data visualization
+
+Robert Kosara, Allison Horst
+
+Published 2024-12-05
+
+Licensed UNKNOWN
+
+
+
+This post explores how animation can enhance data visualizations by improving viewer understanding and engagement, while also acknowledging the risks of misuse. It presents five practical techniques, supported by examples and implementation tips using D3 or Observable Plot.
+
+Tags: Data Visualization
+
+Content type: Blog Post
+
+[https://observablehq.com/blog/effective-animation](https://observablehq.com/blog/effective-animation)
+
+
+---
+
 ## Getting started with Mambaforge and Python
 
 Mara Lampert
@@ -194,6 +234,27 @@ Tags: Python, Conda, Mamba
 Content type: Blog Post
 
 [https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
+
+
+---
+
+## How open-source software could finally get the world’s microscopes speaking the same language
+
+Michael Brooks
+
+Published 2023-10-02
+
+Licensed UNKNOWN
+
+
+
+A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
+
+Tags: Research Data Management, Microscopy
+
+Content type: Blog Post
+
+[https://www.nature.com/articles/d41586-023-03064-9](https://www.nature.com/articles/d41586-023-03064-9)
 
 
 ---
@@ -245,6 +306,27 @@ Tags: Python, Conda, Mamba
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/](https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/)
+
+
+---
+
+## Name Styles
+
+Nick Radcliffe
+
+Published None
+
+Licensed UNKNOWN
+
+
+
+This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
+
+Tags: Research Data Management
+
+Content type: Blog Post
+
+[https://www.tdda.info/name-styles](https://www.tdda.info/name-styles)
 
 
 ---
@@ -375,6 +457,27 @@ Tags: Sharing, Research Data Management
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Things that shouldn't be in file names for $1000 Alex
+
+Joseph Scott
+
+Published 2007-02-12
+
+Licensed UNKNOWN
+
+
+
+In this blog post, the author emphasizes problematic characters (e.g., spaces, slashes, colons) that should be avoided in filenames to ensure cross-platform compatibility across operating systems like Windows, macOS, and Linux, emphasizing the chaos caused by differing filesystem rules and naming conventions.
+
+Tags: Reseach Data Management
+
+Content type: Blog Post
+
+[https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/](https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/)
 
 
 ---

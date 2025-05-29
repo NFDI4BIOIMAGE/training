@@ -1,4 +1,4 @@
-# Cc-by-4.0 (274)
+# Cc-by-4.0 (283)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -358,6 +358,25 @@ Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction requir
 [https://zenodo.org/records/14287640](https://zenodo.org/records/14287640)
 
 [https://doi.org/10.5281/zenodo.14287640](https://doi.org/10.5281/zenodo.14287640)
+
+
+---
+
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
 
 
 ---
@@ -975,19 +994,42 @@ Content type: Blog Post
 
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
+Torsten Stöter, Tobias Gottschall, Andrea Schrager, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
+
+Published 2023-09-12
 
 Licensed CC-BY-4.0
 
 
 
-Interdisciplinary collaboration and integrating large, diverse datasets are crucial for answering complex research questions, requiring multimodal data analysis and adherence to FAIR principles. To address challenges in capturing the full research cycle and contextualizing data, DataPLANT developed the Annotated Research Context (ARC), while the neuroimaging community extended the Brain Imaging Data Structure (BIDS) for microscopic image data, both providing standardized, file system-based storage structures for organizing and sharing data with metadata.
+Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Research Data Management, FAIR-Principles
+Tags: Research Data Management
 
 Content type: Poster
 
-[https://zenodo.org/doi/10.5281/zenodo.8349562](https://zenodo.org/doi/10.5281/zenodo.8349562)
+[https://zenodo.org/records/8349563](https://zenodo.org/records/8349563)
+
+
+---
+
+## Conda, Container and Bots - How to Build and Maintain Tool Dependencies in Workflows and Training Materials
+
+Paul Zierep, Sanjay Kumar Srikakulam, Sebastian Schaaf, Bjoern Gruening
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417)
 
 
 ---
@@ -1590,6 +1632,27 @@ Content type: Slides
 
 ---
 
+## End-to-End Tissue Microarray Image Analysis with Galaxy-ME
+
+Cameron Watson, Allison Creason
+
+Published 2023-02-14
+
+Licensed CC-BY-4.0
+
+
+
+This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge.
+
+Tags: Galaxy, Multiplex Imaging
+
+Content type: Tutorial
+
+[https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me)
+
+
+---
+
 ## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
 
 Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex
@@ -2178,6 +2241,27 @@ Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
 Content type: Slides
 
 [https://f1000research.com/slides/13-147](https://f1000research.com/slides/13-147)
+
+
+---
+
+## File Naming Convention Worksheet
+
+Kristin Briney
+
+Published 2020-06-02
+
+Licensed CC-BY-4.0
+
+
+
+This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version.
+
+Tags: Research Data Management
+
+Content type: Worksheet
+
+[https://authors.library.caltech.edu/records/mmnpf-cez11](https://authors.library.caltech.edu/records/mmnpf-cez11)
 
 
 ---
@@ -3139,6 +3223,27 @@ Content type: Book, Notebook
 
 ---
 
+## Introduction to High Performance Computing for Life Scientists
+
+Julien Sindt
+
+Published 2021-03-22
+
+Licensed CC-BY-4.0
+
+
+
+This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation.
+
+Tags: High Performance Computing
+
+Content type: Github Repository
+
+[https://epcced.github.io/20210322-intro-hpc-life-scientists/](https://epcced.github.io/20210322-intro-hpc-life-scientists/)
+
+
+---
+
 ## Introduction to Research Data Management and Open Research
 
 Shanmugasundaram
@@ -3999,6 +4104,8 @@ Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
+[https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
+
 
 ---
 
@@ -4317,7 +4424,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -4577,9 +4684,30 @@ Content type: Book
 
 ---
 
+## Practical considerations for data exploration in quantitative cell biology
+
+Joanna W. Pylvänäinen, Hanna Grobe, Guillaume Jacquemet
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
+
+Tags: Bioimage Analysis, Data Exploration
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in](https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in)
+
+
+---
+
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -5040,6 +5168,27 @@ the result is garbled.
 
 ---
 
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
+
+
+---
+
 ## Sharing and licensing material
 
 Robert Haase
@@ -5438,7 +5587,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -5470,6 +5619,27 @@ A guide which covers topics related to skills, tools and best practices for rese
 Content type: Book
 
 [https://the-turing-way.netlify.app/reproducible-research/reproducible-research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+
+
+---
+
+## The crucial role of bioimage analysts in scientific research and publication
+
+Beth A. Cimini, Peter Bankhead, Rocco D' Antuono, Elnaz Fazeli, Julia Fernandez-Rondriguez, Caterina Fuster-Barcelo, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara Mc Ardle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri
+
+Published 2024-10-30
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in)
 
 
 ---
@@ -5750,6 +5920,27 @@ Support is an essential component of an efficient infrastructure for research da
 [https://zenodo.org/records/14035822](https://zenodo.org/records/14035822)
 
 [https://doi.org/10.5281/zenodo.14035822](https://doi.org/10.5281/zenodo.14035822)
+
+
+---
+
+## Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore, Susanne Kunis
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285)
 
 
 ---

@@ -1,4 +1,4 @@
-# Christian schmidt (22)
+# Christian schmidt (23)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -291,6 +291,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
+
+
+---
+
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
 
 
 ---

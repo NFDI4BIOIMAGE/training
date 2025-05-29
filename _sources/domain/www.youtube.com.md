@@ -1,4 +1,4 @@
-# Www.youtube.com (26)
+# Www.youtube.com (28)
 ## ABIC - Intermediate Fiji Image Analysis Course 2024
 
 Rensu Petrus Theart
@@ -291,6 +291,48 @@ Content type: Slides, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Anne Fouilloux, Leonid Kostrykin, Riccardo Massei
+
+Published 2025-03-07
+
+Licensed UNKNOWN
+
+
+
+This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
+
+Tags: Galaxy, Bioimage Analysis
+
+Content type: Tutorial, Video
+
+[https://www.youtube.com/watch?v=wAHOPT6lRV0](https://www.youtube.com/watch?v=wAHOPT6lRV0)
+
+
+---
+
+## Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+
+Deepia
+
+Published 2024-08-05
+
+Licensed UNKNOWN
+
+
+
+This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
+
+Tags: Dimensionality Reduction
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=o_cAOa5fMhE](https://www.youtube.com/watch?v=o_cAOa5fMhE)
 
 
 ---

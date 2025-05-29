@@ -1,4 +1,4 @@
-# Www.biorxiv.org (5)
+# Www.biorxiv.org (6)
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
@@ -84,6 +84,29 @@ Tags: Bioimage Analysis, Research Data Management
 Content type: Publication, Preprint
 
 [https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
+
+
+---
+
+## WebAtlas pipeline for integrated single cell and spatial transcriptomic data
+
+Tong Li, David Horsfall, Daniela Basurto-Lozada
+
+Published 2023-04-28
+
+Licensed None
+
+
+
+Single cell and spatial transcriptomics illuminate complementary features of tissues. However, the online dissemination and exploration of multi-modal datasets is challenging. We introduce the WebAtlas pipeline for user-friendly sharing and interactive navigation of integrated datasets. WebAtlas unifies commonly used atlassing technologies into the cloud-optimised Zarr format and builds on Vitessce to enable remote data navigation. We showcase WebAtlas on the developing human lower limb to cross-query cell types and genes across single cell, sequencing- and imaging-based spatial transcriptomic data.
+
+Tags: Spatial Transcriptomics, Single Cell, Bioimage Analysis
+
+Content type: Collection, Atlas
+
+[https://developmental.cellatlas.io/webatlas](https://developmental.cellatlas.io/webatlas)
+
+[https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1](https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1)
 
 
 ---

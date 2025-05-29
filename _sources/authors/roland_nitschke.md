@@ -1,4 +1,4 @@
-# Roland nitschke (5)
+# Roland nitschke (6)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -291,6 +291,27 @@ If you want to learn more about the importance of metadata and quality control t
 [https://zenodo.org/records/5847477](https://zenodo.org/records/5847477)
 
 [https://doi.org/10.5281/zenodo.5847477](https://doi.org/10.5281/zenodo.5847477)
+
+
+---
+
+## Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data
+
+Nikki Bialy, Frank Alber, Brenda Andrews, Michael Angelo, Brian Beliveau, Lacramioara Bintu, Alistair Boettiger, Ulrike Boehm, Claire M. Brown, Mahmoud Bukar Maina, James J. Chambers, Beth A. Cimini, Kevin Eliceiri, Rachel Errington, Orestis Faklaris, Nathalie Gaudreault, Ronald N. Germain, Wojtek Goscinski, David Grunwald, Michael Halter, Dorit Hanein, John W. Hickey, Judith Lacoste, Alex Laude, Emma Lundberg, Jian Ma, Leonel Malacrida, Josh Moore, Glyn Nelson, Elizabeth Kathleen Neumann, Roland Nitschke, Shuichi Onami, Jaime A. Pimentel, Anne L. Plant, Andrea J. Radtke, Bikash Sabata, Denis Schapiro, Johannes Schöneberg, Jeffrey M. Spraggins, Damir Sudar, Wouter-Michiel Adrien Maria Vierdag, Niels Volkmann, Carolina Wählby, Siyuan (Steven)Wang, Ziv Yaniv, Caterina Strambio-De-Castillia
+
+Published 2024-08-30
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13022](https://arxiv.org/abs/2401.13022)
 
 
 ---

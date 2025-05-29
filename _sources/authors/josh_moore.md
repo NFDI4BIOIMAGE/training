@@ -1,4 +1,4 @@
-# Josh moore (29)
+# Josh moore (32)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -16,6 +16,25 @@ Content type: Publication, Conference Abstract
 
 ---
 
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
+
+
+---
+
 ## EDAM-bioimaging: The ontology of bioimage informatics operations, topics, data, and formats (update 2020)
 
 Matúš Kalaš, Laure Plantard, Joakim Lindblad, Martin Jones, Nataša Sladoje, Moritz A Kirschmann, Anatole Chessel, Leandro Scholz, Fabianne Rössler, Laura Nicolás Sáenz, Estibaliz Gómez de Mariscal, John Bogovic, Alexandre Dufour, Xavier Heiligenstein, Dominic Waithe, Marie-Charlotte Domart, Matthia Karreman, Raf Van de Plas, Robert Haase, David Hörl, Lassi Paavolainen, Ivana Vrhovac Madunić, Dean Karaica, Arrate Muñoz-Barrutia, Paula Sampaio, Daniel Sage, Sebastian Munck, Ofra Golani, Josh Moore, Florian Levet, Jon Ison, Alban Gaignard, Hervé Ménager, Chong Zhang, Kota Miura, Julien Colombelli, Perrine Paul-Gilloteaux
@@ -29,6 +48,27 @@ Tags: Metadata
 Content type: Publication, Poster
 
 [https://f1000research.com/posters/9-162](https://f1000research.com/posters/9-162)
+
+
+---
+
+## Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data
+
+Nikki Bialy, Frank Alber, Brenda Andrews, Michael Angelo, Brian Beliveau, Lacramioara Bintu, Alistair Boettiger, Ulrike Boehm, Claire M. Brown, Mahmoud Bukar Maina, James J. Chambers, Beth A. Cimini, Kevin Eliceiri, Rachel Errington, Orestis Faklaris, Nathalie Gaudreault, Ronald N. Germain, Wojtek Goscinski, David Grunwald, Michael Halter, Dorit Hanein, John W. Hickey, Judith Lacoste, Alex Laude, Emma Lundberg, Jian Ma, Leonel Malacrida, Josh Moore, Glyn Nelson, Elizabeth Kathleen Neumann, Roland Nitschke, Shuichi Onami, Jaime A. Pimentel, Anne L. Plant, Andrea J. Radtke, Bikash Sabata, Denis Schapiro, Johannes Schöneberg, Jeffrey M. Spraggins, Damir Sudar, Wouter-Michiel Adrien Maria Vierdag, Niels Volkmann, Carolina Wählby, Siyuan (Steven)Wang, Ziv Yaniv, Caterina Strambio-De-Castillia
+
+Published 2024-08-30
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13022](https://arxiv.org/abs/2401.13022)
 
 
 ---
@@ -90,7 +130,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -234,6 +274,27 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore, Susanne Kunis
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285)
 
 
 ---
@@ -519,7 +580,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

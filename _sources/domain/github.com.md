@@ -1,4 +1,4 @@
-# Github.com (135)
+# Github.com (137)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -109,6 +109,25 @@ Licensed UNKNOWN
 Tags: Bioimage Analysis
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
+
+
+---
+
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
 
 
 ---
@@ -235,6 +254,27 @@ Tags: Python, Bioimage Analysis, Napari
 Content type: Notebook
 
 [https://github.com/BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)
+
+
+---
+
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
 
 
 ---
@@ -1460,7 +1500,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -1481,7 +1521,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -2208,7 +2248,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

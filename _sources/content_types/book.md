@@ -1,4 +1,4 @@
-# Book (19)
+# Book (21)
 ## 6 Steps Towards Reproducible Research
 
 Heidi Seibold
@@ -65,6 +65,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Book
 
 [https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)
+
+
+---
+
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
 
 
 ---
@@ -196,6 +217,27 @@ Tags: Python, Imagej, Bioimage Analysis
 Content type: Book, Notebook
 
 [https://bioimagebook.github.io/index.html](https://bioimagebook.github.io/index.html)
+
+
+---
+
+## Neural Networks and Deep Learning
+
+Michael Nielsen
+
+Published 2019-12-01
+
+Licensed CC-BY-NC-3.0 UNPORTED
+
+
+
+Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
+
+Tags: Deep Learning, Neural Networks, Machine Learning
+
+Content type: Book
+
+[http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
 
 
 ---

@@ -1,4 +1,4 @@
-# Research data management (132)
+# Research data management (140)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -383,19 +383,21 @@ Content type: Blog Post
 
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
-Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
+Torsten Stöter, Tobias Gottschall, Andrea Schrager, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
+
+Published 2023-09-12
 
 Licensed CC-BY-4.0
 
 
 
-Interdisciplinary collaboration and integrating large, diverse datasets are crucial for answering complex research questions, requiring multimodal data analysis and adherence to FAIR principles. To address challenges in capturing the full research cycle and contextualizing data, DataPLANT developed the Annotated Research Context (ARC), while the neuroimaging community extended the Brain Imaging Data Structure (BIDS) for microscopic image data, both providing standardized, file system-based storage structures for organizing and sharing data with metadata.
+Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Research Data Management, FAIR-Principles
+Tags: Research Data Management
 
 Content type: Poster
 
-[https://zenodo.org/doi/10.5281/zenodo.8349562](https://zenodo.org/doi/10.5281/zenodo.8349562)
+[https://zenodo.org/records/8349563](https://zenodo.org/records/8349563)
 
 
 ---
@@ -415,6 +417,27 @@ Tags: Bioimage Analysis, Research Data Management
 Content type: Notebook, Collection
 
 [https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
+
+
+---
+
+## Conda, Container and Bots - How to Build and Maintain Tool Dependencies in Workflows and Training Materials
+
+Paul Zierep, Sanjay Kumar Srikakulam, Sebastian Schaaf, Bjoern Gruening
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417)
 
 
 ---
@@ -566,9 +589,9 @@ Content type: Collection, Website, Online Tutorial
 
 ## Data management at France BioImaging
 
-Published 2023-07-05
+Published 2024-29-05
 
-Licensed CC-BY-SA-4.0
+Licensed UNKNOWN
 
 
 
@@ -576,7 +599,7 @@ Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
-[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+[https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
 
 
 ---
@@ -777,6 +800,27 @@ Content type: Slides
 
 ---
 
+## Enabling Global Image Data Sharing in the Life Sciences
+
+Peter Bajcsy, Sreenivas Bhattiprolu, Katy Boerner, Beth A Cimini, Lucy Collinson, Jan Ellenberg, Reto Fiolka, Maryellen Giger, Wojtek Goscinski, Matthew Hartley, Nathan Hotaling, Rick Horwitz, Florian Jug, Anna Kreshuk, Emma Lundberg, Aastha Mathur, Kedar Narayan, Shuichi Onami, Anne L. Plant, Fred Prior, Jason Swedlow,, Adam Taylor, Antje Keppler
+
+Published 2024-01-23
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13023](https://arxiv.org/abs/2401.13023)
+
+
+---
+
 ## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
 
 Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex
@@ -896,6 +940,27 @@ Tags: FAIR-Principles, Data Stewardship, Research Data Management
 Content type: Collection
 
 [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
+
+
+---
+
+## File Naming Convention Worksheet
+
+Kristin Briney
+
+Published 2020-06-02
+
+Licensed CC-BY-4.0
+
+
+
+This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version.
+
+Tags: Research Data Management
+
+Content type: Worksheet
+
+[https://authors.library.caltech.edu/records/mmnpf-cez11](https://authors.library.caltech.edu/records/mmnpf-cez11)
 
 
 ---
@@ -1072,6 +1137,48 @@ Tags: Research Data Management
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10793699](https://zenodo.org/doi/10.5281/zenodo.10793699)
+
+
+---
+
+## Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data
+
+Nikki Bialy, Frank Alber, Brenda Andrews, Michael Angelo, Brian Beliveau, Lacramioara Bintu, Alistair Boettiger, Ulrike Boehm, Claire M. Brown, Mahmoud Bukar Maina, James J. Chambers, Beth A. Cimini, Kevin Eliceiri, Rachel Errington, Orestis Faklaris, Nathalie Gaudreault, Ronald N. Germain, Wojtek Goscinski, David Grunwald, Michael Halter, Dorit Hanein, John W. Hickey, Judith Lacoste, Alex Laude, Emma Lundberg, Jian Ma, Leonel Malacrida, Josh Moore, Glyn Nelson, Elizabeth Kathleen Neumann, Roland Nitschke, Shuichi Onami, Jaime A. Pimentel, Anne L. Plant, Andrea J. Radtke, Bikash Sabata, Denis Schapiro, Johannes Schöneberg, Jeffrey M. Spraggins, Damir Sudar, Wouter-Michiel Adrien Maria Vierdag, Niels Volkmann, Carolina Wählby, Siyuan (Steven)Wang, Ziv Yaniv, Caterina Strambio-De-Castillia
+
+Published 2024-08-30
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13022](https://arxiv.org/abs/2401.13022)
+
+
+---
+
+## How open-source software could finally get the world’s microscopes speaking the same language
+
+Michael Brooks
+
+Published 2023-10-02
+
+Licensed UNKNOWN
+
+
+
+A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
+
+Tags: Research Data Management, Microscopy
+
+Content type: Blog Post
+
+[https://www.nature.com/articles/d41586-023-03064-9](https://www.nature.com/articles/d41586-023-03064-9)
 
 
 ---
@@ -1463,6 +1570,8 @@ Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
+[https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
+
 
 ---
 
@@ -1481,6 +1590,23 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+
+Nfdi4Bioimage
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+
+Content type: Collection
+
+[https://nfdi4bioimage.de/home/](https://nfdi4bioimage.de/home/)
 
 
 ---
@@ -1566,6 +1692,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ---
 
+## Name Styles
+
+Nick Radcliffe
+
+Published None
+
+Licensed UNKNOWN
+
+
+
+This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
+
+Tags: Research Data Management
+
+Content type: Blog Post
+
+[https://www.tdda.info/name-styles](https://www.tdda.info/name-styles)
+
+
+---
+
 ## OME Event Database
 
 
@@ -1581,7 +1728,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -2291,6 +2438,25 @@ Content type: Slides
 
 ---
 
+## Towards FAIR Data Workflows for Multidisciplinary Science: Ongoing Endeavors and Future Perspectives in Plasma Technology
+
+Robert Wagner, Dagmar Waltemath, Kristina Yordanova, Markus Becker
+
+Licensed CC-BY-NC-ND-4.0
+
+
+
+This paper focuses on the ongoing process of establishing a FAIR (Findable, Accessible, Interoperable and Reusable) data workflow for multidisciplinary research and development in applied plasma science. The presented workflow aims to support researchers in handling their project data while also fulfilling the requirements of modern digital research data management. 
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756](https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756)
+
+
+---
+
 ## Towards Preservation of Life Science Data with NFDI4BIOIMAGE
 
 Robert Haase
@@ -2671,7 +2837,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

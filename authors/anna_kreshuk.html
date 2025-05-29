@@ -1,0 +1,662 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Anna kreshuk (6) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'authors/anna_kreshuk';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="2025-05-29"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (199)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (140)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (60)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (55)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (70)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/apache-2.0.html">Apache-2.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (283)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (30)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (109)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (211)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (137)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.biorxiv.org.html">Www.biorxiv.org (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (199)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gdpr_compliance.html">GDPR Compliance Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fauthors/anna_kreshuk.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/authors/anna_kreshuk.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Anna kreshuk (6)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#developing-open-source-software-for-bioimage-analysis-opportunities-and-challenges">Developing open-source software for bioimage analysis: opportunities and challenges</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#enabling-global-image-data-sharing-in-the-life-sciences">Enabling Global Image Data Sharing in the Life Sciences</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#microscopy-data-analysis-machine-learning-and-the-bioimage-archive">Microscopy data analysis: machine learning and the BioImage Archive</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#neubias-analyst-school-2018">NEUBIAS Analyst School 2018</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">The crucial role of bioimage analysts in scientific research and publication</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ilastik-interactive-machine-learning-for-bio-image-analysis">ilastik: interactive machine learning for (bio)image analysis</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="anna-kreshuk-6">
+<h1>Anna kreshuk (6)<a class="headerlink" href="#anna-kreshuk-6" title="Link to this heading">#</a></h1>
+<section id="developing-open-source-software-for-bioimage-analysis-opportunities-and-challenges">
+<h2>Developing open-source software for bioimage analysis: opportunities and challenges<a class="headerlink" href="#developing-open-source-software-for-bioimage-analysis-opportunities-and-challenges" title="Link to this heading">#</a></h2>
+<p>Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This article outlines common challenges and practices when developing open-source software for bio-image analysis.</p>
+<p>Tags: Neubias</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://f1000research.com/articles/10-302">https://f1000research.com/articles/10-302</a></p>
+</section>
+<hr class="docutils" />
+<section id="enabling-global-image-data-sharing-in-the-life-sciences">
+<h2>Enabling Global Image Data Sharing in the Life Sciences<a class="headerlink" href="#enabling-global-image-data-sharing-in-the-life-sciences" title="Link to this heading">#</a></h2>
+<p>Peter Bajcsy, Sreenivas Bhattiprolu, Katy Boerner, Beth A Cimini, Lucy Collinson, Jan Ellenberg, Reto Fiolka, Maryellen Giger, Wojtek Goscinski, Matthew Hartley, Nathan Hotaling, Rick Horwitz, Florian Jug, Anna Kreshuk, Emma Lundberg, Aastha Mathur, Kedar Narayan, Shuichi Onami, Anne L. Plant, Fred Prior, Jason Swedlow,, Adam Taylor, Antje Keppler</p>
+<p>Published 2024-01-23</p>
+<p>Licensed CC-BY-NC-SA-4.0 INTERNATIONAL</p>
+<p>Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects).</p>
+<p>Tags: Research Data Management</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://arxiv.org/abs/2401.13023">https://arxiv.org/abs/2401.13023</a></p>
+</section>
+<hr class="docutils" />
+<section id="microscopy-data-analysis-machine-learning-and-the-bioimage-archive">
+<h2>Microscopy data analysis: machine learning and the BioImage Archive<a class="headerlink" href="#microscopy-data-analysis-machine-learning-and-the-bioimage-archive" title="Link to this heading">#</a></h2>
+<p>Andrii Iudin, Anna Foix-Romero, Anna Kreshuk, Awais Athar, Beth Cimini, Dominik Kutra, Estibalis Gomez de Mariscal, Frances Wong, Guillaume Jacquemet, Kedar Narayan, Martin Weigert, Nodar Gogoberidze, Osman Salih, Petr Walczysko, Ryan Conrad, Simone Weyend, Sriram Sundar Somasundharam, Suganya Sivagurunathan, Ugis Sarkans</p>
+<p>Licensed CC-BY-4.0</p>
+<p>The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.</p>
+<p>Tags: Bioimage Analysis, Python, Artificial Intelligence</p>
+<p>Content type: Video, Slides</p>
+<p><a class="reference external" href="https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/">https://www.ebi.ac.uk/training/materials/microscopy-data-analysis-machine-learning-and-the-bioimage-archive-materials/</a></p>
+</section>
+<hr class="docutils" />
+<section id="neubias-analyst-school-2018">
+<h2>NEUBIAS Analyst School 2018<a class="headerlink" href="#neubias-analyst-school-2018" title="Link to this heading">#</a></h2>
+<p>Assaf Zaritsky, Csaba Molnar, Vasja Urbancic, Richard Butler, Anna Kreshuk, Vannary Meas-Yedid</p>
+<p>Licensed UNKNOWN</p>
+<p>Tags: Neubias, Bioimage Analysis</p>
+<p>Content type: Slides, Code, Notebook</p>
+<p><a class="github reference external" href="https://github.com/miura/NEUBIAS_AnalystSchool2018">miura/NEUBIAS_AnalystSchool2018</a></p>
+</section>
+<hr class="docutils" />
+<section id="the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">
+<h2>The crucial role of bioimage analysts in scientific research and publication<a class="headerlink" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication" title="Link to this heading">#</a></h2>
+<p>Beth A. Cimini, Peter Bankhead, Rocco D’ Antuono, Elnaz Fazeli, Julia Fernandez-Rondriguez, Caterina Fuster-Barcelo, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara Mc Ardle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri</p>
+<p>Published 2024-10-30</p>
+<p>Licensed CC-BY-4.0</p>
+<p>Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions</p>
+<p>Tags: Bioimage Analysis</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in">https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in</a></p>
+</section>
+<hr class="docutils" />
+<section id="ilastik-interactive-machine-learning-for-bio-image-analysis">
+<h2>ilastik: interactive machine learning for (bio)image analysis<a class="headerlink" href="#ilastik-interactive-machine-learning-for-bio-image-analysis" title="Link to this heading">#</a></h2>
+<p>Anna Kreshuk, Dominik Kutra</p>
+<p>Licensed CC-BY-4.0</p>
+<p>Tags: Artificial Intelligence, Bioimage Analysis</p>
+<p>Content type: Slides</p>
+<p><a class="reference external" href="https://zenodo.org/doi/10.5281/zenodo.4330625">https://zenodo.org/doi/10.5281/zenodo.4330625</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./authors"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#developing-open-source-software-for-bioimage-analysis-opportunities-and-challenges">Developing open-source software for bioimage analysis: opportunities and challenges</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#enabling-global-image-data-sharing-in-the-life-sciences">Enabling Global Image Data Sharing in the Life Sciences</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#microscopy-data-analysis-machine-learning-and-the-bioimage-archive">Microscopy data analysis: machine learning and the BioImage Archive</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#neubias-analyst-school-2018">NEUBIAS Analyst School 2018</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">The crucial role of bioimage analysts in scientific research and publication</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ilastik-interactive-machine-learning-for-bio-image-analysis">ilastik: interactive machine learning for (bio)image analysis</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on 2025-05-29.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

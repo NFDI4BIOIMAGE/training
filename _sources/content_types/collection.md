@@ -1,4 +1,4 @@
-# Collection (82)
+# Collection (84)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -879,6 +879,23 @@ Content type: Collection, Video
 
 ---
 
+## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+
+Nfdi4Bioimage
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+
+Content type: Collection
+
+[https://nfdi4bioimage.de/home/](https://nfdi4bioimage.de/home/)
+
+
+---
+
 ## NextFlow core
 
 
@@ -1191,6 +1208,29 @@ Tags: Cell Tracking, Bioimage Analysis
 Content type: Github Repository, Collection
 
 [https://github.com/CellMigrationLab/V4SDB_Winter_School_2025](https://github.com/CellMigrationLab/V4SDB_Winter_School_2025)
+
+
+---
+
+## WebAtlas pipeline for integrated single cell and spatial transcriptomic data
+
+Tong Li, David Horsfall, Daniela Basurto-Lozada
+
+Published 2023-04-28
+
+Licensed None
+
+
+
+Single cell and spatial transcriptomics illuminate complementary features of tissues. However, the online dissemination and exploration of multi-modal datasets is challenging. We introduce the WebAtlas pipeline for user-friendly sharing and interactive navigation of integrated datasets. WebAtlas unifies commonly used atlassing technologies into the cloud-optimised Zarr format and builds on Vitessce to enable remote data navigation. We showcase WebAtlas on the developing human lower limb to cross-query cell types and genes across single cell, sequencing- and imaging-based spatial transcriptomic data.
+
+Tags: Spatial Transcriptomics, Single Cell, Bioimage Analysis
+
+Content type: Collection, Atlas
+
+[https://developmental.cellatlas.io/webatlas](https://developmental.cellatlas.io/webatlas)
+
+[https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1](https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1)
 
 
 ---

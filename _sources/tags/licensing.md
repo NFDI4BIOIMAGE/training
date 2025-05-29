@@ -1,4 +1,4 @@
-# Licensing (6)
+# Licensing (7)
 ## Alles meins – oder!? Urheberrechte klären für Forschungsdaten
 
 Stephan Wünsche
@@ -20,6 +20,25 @@ Content type: Slides
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 [https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
+
+---
+
+## Choose an open source license
+
+GitHub
+
+Licensed CC-BY-3.0 UNPORTED
+
+
+
+Ressource that helps to choose an open source license for your project.
+
+Tags: Open Source, Licensing
+
+Content type: Website
+
+[https://choosealicense.com](https://choosealicense.com)
 
 
 ---

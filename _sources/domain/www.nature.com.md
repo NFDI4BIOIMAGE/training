@@ -1,4 +1,4 @@
-# Www.nature.com (17)
+# Www.nature.com (18)
 ## A call for public archives for biological image data
 
 Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney
@@ -86,6 +86,27 @@ Tags: FAIR-Principles, Metadata, Research Data Management
 Content type: Publication
 
 [https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## How open-source software could finally get the world’s microscopes speaking the same language
+
+Michael Brooks
+
+Published 2023-10-02
+
+Licensed UNKNOWN
+
+
+
+A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
+
+Tags: Research Data Management, Microscopy
+
+Content type: Blog Post
+
+[https://www.nature.com/articles/d41586-023-03064-9](https://www.nature.com/articles/d41586-023-03064-9)
 
 
 ---
@@ -200,7 +221,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 

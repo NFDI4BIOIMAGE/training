@@ -1,4 +1,4 @@
-# Unknown (98)
+# Unknown (109)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -255,6 +255,25 @@ Content type: Notebook
 
 ---
 
+## CS231n Convolutional Neural Networks for Visual Recognition
+
+Geeth Sethi, Sumith Kulal, Kevin Zakka, William Shen, Rachel Gardner
+
+Licensed UNKNOWN
+
+
+
+ ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
+
+Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning
+
+Content type: Blog Post
+
+[https://cs231n.github.io/convolutional-networks/](https://cs231n.github.io/convolutional-networks/)
+
+
+---
+
 ## CSBDeep and StarDist @ I2K 2020
 
 Martin Weigert, Uwe Schmidt
@@ -268,6 +287,27 @@ Tags: Python, Artificial Intelligence, Bioimage Analysis
 Content type: Notebook
 
 [https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
+
+
+---
+
+## CT Physics
+
+Radiology Tutorials
+
+Published 2025-01-01
+
+Licensed UNKNOWN
+
+
+
+This is a playlist of videos about how CT works
+
+Tags: Imaging
+
+Content type: Video
+
+[https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd](https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd)
 
 
 ---
@@ -457,6 +497,23 @@ Tags: Data Visualization
 Content type: Blog Post
 
 [https://thenode.biologists.com/data-visualization-with-flying-colors/research/](https://thenode.biologists.com/data-visualization-with-flying-colors/research/)
+
+
+---
+
+## Data management at France BioImaging
+
+Published 2024-29-05
+
+Licensed UNKNOWN
+
+
+
+Tags: Research Data Management, Bioimage Analysis, Open Science
+
+Content type: Slides, Presentation
+
+[https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
 
 
 ---
@@ -687,6 +744,27 @@ Content type: Blog Post
 
 ---
 
+## Five ways to effectively use animation in data visualization
+
+Robert Kosara, Allison Horst
+
+Published 2024-12-05
+
+Licensed UNKNOWN
+
+
+
+This post explores how animation can enhance data visualizations by improving viewer understanding and engagement, while also acknowledging the risks of misuse. It presents five practical techniques, supported by examples and implementation tips using D3 or Observable Plot.
+
+Tags: Data Visualization
+
+Content type: Blog Post
+
+[https://observablehq.com/blog/effective-animation](https://observablehq.com/blog/effective-animation)
+
+
+---
+
 ## Fundamentals in digital image processing
 
 Guillaume Witz
@@ -818,6 +896,27 @@ Content type: Youtube Channel
 
 ---
 
+## How open-source software could finally get the world’s microscopes speaking the same language
+
+Michael Brooks
+
+Published 2023-10-02
+
+Licensed UNKNOWN
+
+
+
+A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
+
+Tags: Research Data Management, Microscopy
+
+Content type: Blog Post
+
+[https://www.nature.com/articles/d41586-023-03064-9](https://www.nature.com/articles/d41586-023-03064-9)
+
+
+---
+
 ## I3D bio – Information Infrastructure for BioImage Data - Bioimage Metadata
 
 Christian Schmidt
@@ -850,6 +949,27 @@ Tags: Research Data Management
 Content type: Collection
 
 [https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/](https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/)
+
+
+---
+
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Anne Fouilloux, Leonid Kostrykin, Riccardo Massei
+
+Published 2025-03-07
+
+Licensed UNKNOWN
+
+
+
+This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
+
+Tags: Galaxy, Bioimage Analysis
+
+Content type: Tutorial, Video
+
+[https://www.youtube.com/watch?v=wAHOPT6lRV0](https://www.youtube.com/watch?v=wAHOPT6lRV0)
 
 
 ---
@@ -971,6 +1091,27 @@ Content type: Tutorial
 
 ---
 
+## Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+
+Deepia
+
+Published 2024-08-05
+
+Licensed UNKNOWN
+
+
+
+This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
+
+Tags: Dimensionality Reduction
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=o_cAOa5fMhE](https://www.youtube.com/watch?v=o_cAOa5fMhE)
+
+
+---
+
 ## Lecture-materials of the DeepLife course
 
 Carl Herrmann, annavonbachmann, David Hoksza, Martin Schätz, Dario Malchiodi, jnguyenvan, Britta Velten, Elodie Laine, JanaBraunger, barwil
@@ -986,6 +1127,27 @@ Tags: Bioinformatics
 Content type: Github Repository, Slides, Notebook
 
 [https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
+
+
+---
+
+## MRI Physics
+
+Radiology Tutorials
+
+Published 2025-01-01
+
+Licensed UNKNOWN
+
+
+
+This is a playlist of videos about how MRI works
+
+Tags: Imaging
+
+Content type: Video
+
+[https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z](https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z)
 
 
 ---
@@ -1186,6 +1348,44 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Website
 
 [https://www.nfdi.de/](https://www.nfdi.de/)
+
+
+---
+
+## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+
+Nfdi4Bioimage
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+
+Content type: Collection
+
+[https://nfdi4bioimage.de/home/](https://nfdi4bioimage.de/home/)
+
+
+---
+
+## Name Styles
+
+Nick Radcliffe
+
+Published None
+
+Licensed UNKNOWN
+
+
+
+This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
+
+Tags: Research Data Management
+
+Content type: Blog Post
+
+[https://www.tdda.info/name-styles](https://www.tdda.info/name-styles)
 
 
 ---
@@ -1572,6 +1772,27 @@ Content type: Publication
 [https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub)
 
 [https://doi.org/10.1016/j.jmb.2022.167505](https://doi.org/10.1016/j.jmb.2022.167505)
+
+
+---
+
+## Things that shouldn't be in file names for $1000 Alex
+
+Joseph Scott
+
+Published 2007-02-12
+
+Licensed UNKNOWN
+
+
+
+In this blog post, the author emphasizes problematic characters (e.g., spaces, slashes, colons) that should be avoided in filenames to ensure cross-platform compatibility across operating systems like Windows, macOS, and Linux, emphasizing the chaos caused by differing filesystem rules and naming conventions.
+
+Tags: Reseach Data Management
+
+Content type: Blog Post
+
+[https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/](https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/)
 
 
 ---

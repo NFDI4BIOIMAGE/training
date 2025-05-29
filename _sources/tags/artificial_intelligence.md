@@ -1,4 +1,4 @@
-# Artificial intelligence (45)
+# Artificial intelligence (46)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -223,6 +223,27 @@ Tags: Bioimage Analysis, Artificial Intelligence
 Content type: Collection
 
 [https://bioimage.io/](https://bioimage.io/)
+
+
+---
+
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
 
 
 ---

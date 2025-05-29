@@ -1,4 +1,4 @@
-# Susanne kunis (17)
+# Susanne kunis (18)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -208,6 +208,27 @@ Tags: Research Data Management, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8329305](https://zenodo.org/doi/10.5281/zenodo.8329305)
+
+
+---
+
+## Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore, Susanne Kunis
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285)
 
 
 ---

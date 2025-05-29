@@ -1,4 +1,4 @@
-# Publication (62)
+# Publication (70)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -302,6 +302,27 @@ Content type: Publication
 
 ---
 
+## Conda, Container and Bots - How to Build and Maintain Tool Dependencies in Workflows and Training Materials
+
+Paul Zierep, Sanjay Kumar Srikakulam, Sebastian Schaaf, Bjoern Gruening
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417)
+
+
+---
+
 ## Democratizing knowledge representation with BioCypher
 
 Sebastian Lobentanzer, Patrick Aloy, Jan Baumbach, Balazs Bohar, Vincent Carey, Pornpimol Charoentong, Katharina Danhauser, Tunca Doğan, Johann Dreo, Ian Dunham, Elias Farr, Adrià Fernandez-Torras, Benjamin Gyori, Michael Hartung, Charles Tapley Hoyt, Christoph Klein, Tamas Korcsmaros, Andreas Maier, Matthias Mann, David Ochoa, Elena Pareja-Lorente, Ferdinand Popp, Martin Preusse, Niklas Probul, Benno Schwikowski, Bünyamin Sen, Maximilian Strauss, Denes Turei, Erva Ulusoy, Dagmar Waltemath, Judith Wodke, Julio Saez-Rodriguez
@@ -359,6 +380,27 @@ Content type: Publication, Poster
 
 ---
 
+## Enabling Global Image Data Sharing in the Life Sciences
+
+Peter Bajcsy, Sreenivas Bhattiprolu, Katy Boerner, Beth A Cimini, Lucy Collinson, Jan Ellenberg, Reto Fiolka, Maryellen Giger, Wojtek Goscinski, Matthew Hartley, Nathan Hotaling, Rick Horwitz, Florian Jug, Anna Kreshuk, Emma Lundberg, Aastha Mathur, Kedar Narayan, Shuichi Onami, Anne L. Plant, Fred Prior, Jason Swedlow,, Adam Taylor, Antje Keppler
+
+Published 2024-01-23
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13023](https://arxiv.org/abs/2401.13023)
+
+
+---
+
 ## Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
 
 Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex
@@ -399,6 +441,27 @@ Tags: FAIR-Principles, Metadata, Research Data Management
 Content type: Publication
 
 [https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data
+
+Nikki Bialy, Frank Alber, Brenda Andrews, Michael Angelo, Brian Beliveau, Lacramioara Bintu, Alistair Boettiger, Ulrike Boehm, Claire M. Brown, Mahmoud Bukar Maina, James J. Chambers, Beth A. Cimini, Kevin Eliceiri, Rachel Errington, Orestis Faklaris, Nathalie Gaudreault, Ronald N. Germain, Wojtek Goscinski, David Grunwald, Michael Halter, Dorit Hanein, John W. Hickey, Judith Lacoste, Alex Laude, Emma Lundberg, Jian Ma, Leonel Malacrida, Josh Moore, Glyn Nelson, Elizabeth Kathleen Neumann, Roland Nitschke, Shuichi Onami, Jaime A. Pimentel, Anne L. Plant, Andrea J. Radtke, Bikash Sabata, Denis Schapiro, Johannes Schöneberg, Jeffrey M. Spraggins, Damir Sudar, Wouter-Michiel Adrien Maria Vierdag, Niels Volkmann, Carolina Wählby, Siyuan (Steven)Wang, Ziv Yaniv, Caterina Strambio-De-Castillia
+
+Published 2024-08-30
+
+Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
+
+
+
+Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://arxiv.org/abs/2401.13022](https://arxiv.org/abs/2401.13022)
 
 
 ---
@@ -752,7 +815,7 @@ Content type: Event, Publication, Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -837,6 +900,27 @@ Content type: Publication
 [https://academic.oup.com/plcell/article/34/7/e1/6628764](https://academic.oup.com/plcell/article/34/7/e1/6628764)
 
 [https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html)
+
+
+---
+
+## Practical considerations for data exploration in quantitative cell biology
+
+Joanna W. Pylvänäinen, Hanna Grobe, Guillaume Jacquemet
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
+
+Tags: Bioimage Analysis, Data Exploration
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in](https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in)
 
 
 ---
@@ -955,6 +1039,27 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Publication
 
 [https://doi.org/10.1515/hsz-2022-0304](https://doi.org/10.1515/hsz-2022-0304)
+
+
+---
+
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
 
 
 ---
@@ -1085,7 +1190,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -1102,6 +1207,46 @@ Content type: Publication
 [https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
 
 [https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
+## The crucial role of bioimage analysts in scientific research and publication
+
+Beth A. Cimini, Peter Bankhead, Rocco D' Antuono, Elnaz Fazeli, Julia Fernandez-Rondriguez, Caterina Fuster-Barcelo, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara Mc Ardle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri
+
+Published 2024-10-30
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in)
+
+
+---
+
+## Towards FAIR Data Workflows for Multidisciplinary Science: Ongoing Endeavors and Future Perspectives in Plasma Technology
+
+Robert Wagner, Dagmar Waltemath, Kristina Yordanova, Markus Becker
+
+Licensed CC-BY-NC-ND-4.0
+
+
+
+This paper focuses on the ongoing process of establishing a FAIR (Findable, Accessible, Interoperable and Reusable) data workflow for multidisciplinary research and development in applied plasma science. The presented workflow aims to support researchers in handling their project data while also fulfilling the requirements of modern digital research data management. 
+
+Tags: Research Data Management
+
+Content type: Publication
+
+[https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756](https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756)
 
 
 ---
@@ -1161,6 +1306,27 @@ Tags: Bioimage Analysis, Research Data Management
 Content type: Publication, Preprint
 
 [https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1](https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1)
+
+
+---
+
+## Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore, Susanne Kunis
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285)
 
 
 ---

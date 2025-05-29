@@ -1,4 +1,4 @@
-# Nfdi4bioimage (45)
+# Nfdi4bioimage (46)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -317,6 +317,8 @@ Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
+[https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
+
 
 ---
 
@@ -335,6 +337,23 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+
+Nfdi4Bioimage
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+
+Content type: Collection
+
+[https://nfdi4bioimage.de/home/](https://nfdi4bioimage.de/home/)
 
 
 ---
@@ -439,7 +458,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -989,7 +1008,7 @@ Content type: Github Repository
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

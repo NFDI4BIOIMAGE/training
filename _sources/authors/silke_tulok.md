@@ -1,4 +1,4 @@
-# Silke tulok (6)
+# Silke tulok (7)
 ## GerBI-Chat: Teil 1 - Vom Bedarf bis zum Großgeräteantrag-Schreiben
 
 Financial & Legal Framework of Core Facilities, Elmar Endl, Jana Hedrich, Juliane Hoth, Julia Nagy, Astrid Schauss, Nina Schulze, Silke Tulok
@@ -179,6 +179,27 @@ The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine Carl Gustav
 [https://zenodo.org/records/10103316](https://zenodo.org/records/10103316)
 
 [https://doi.org/10.5281/zenodo.10103316](https://doi.org/10.5281/zenodo.10103316)
+
+
+---
+
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
 
 
 ---

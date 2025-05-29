@@ -1,4 +1,4 @@
-# Github repository (57)
+# Github repository (60)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -41,6 +41,25 @@ Content type: Github Repository
 
 ---
 
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
+
+
+---
+
 ## BIDS-lecture-2024
 
 Robert Haase
@@ -56,6 +75,27 @@ Tags: Bioimage Analysis, Artificial Intelligence, Python
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
 
 
 ---
@@ -218,6 +258,27 @@ Tags: Bioimage Analysis, Notebooks, Biabob
 Content type: Github Repository, Tutorial, Notebook
 
 [https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
+
+
+---
+
+## Introduction to High Performance Computing for Life Scientists
+
+Julien Sindt
+
+Published 2021-03-22
+
+Licensed CC-BY-4.0
+
+
+
+This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation.
+
+Tags: High Performance Computing
+
+Content type: Github Repository
+
+[https://epcced.github.io/20210322-intro-hpc-life-scientists/](https://epcced.github.io/20210322-intro-hpc-life-scientists/)
 
 
 ---
@@ -460,7 +521,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -481,7 +542,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -927,7 +988,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

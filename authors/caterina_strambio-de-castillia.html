@@ -1,0 +1,876 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Caterina strambio-de-castillia (6) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'authors/caterina_strambio-de-castillia';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="2025-05-29"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (199)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (140)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (60)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (55)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (70)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/apache-2.0.html">Apache-2.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (283)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (30)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (109)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (211)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (137)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.biorxiv.org.html">Www.biorxiv.org (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (199)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gdpr_compliance.html">GDPR Compliance Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fauthors/caterina_strambio-de-castillia.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/authors/caterina_strambio-de-castillia.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Caterina strambio-de-castillia (6)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#community-developed-checklists-for-publishing-images-and-image-analyses">Community-developed checklists for publishing images and image analyses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#example-microscopy-metadata-json-files-produced-using-micro-meta-app-to-document-example-microscopy-experiments-performed-at-individual-core-facilities">Example Microscopy Metadata JSON files produced using Micro-Meta App to document example microscopy experiments performed at individual core facilities</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#harmonizing-the-generation-and-pre-publication-stewardship-of-fair-image-data">Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mdemic-a-metadata-annotation-tool-to-facilitate-management-of-fair-image-data-in-the-bioimaging-community">MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methodsj2-a-software-tool-to-capture-metadata-and-generate-comprehensive-microscopy-methods-text">MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">The crucial role of bioimage analysts in scientific research and publication</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="caterina-strambio-de-castillia-6">
+<h1>Caterina strambio-de-castillia (6)<a class="headerlink" href="#caterina-strambio-de-castillia-6" title="Link to this heading">#</a></h1>
+<section id="community-developed-checklists-for-publishing-images-and-image-analyses">
+<h2>Community-developed checklists for publishing images and image analyses<a class="headerlink" href="#community-developed-checklists-for-publishing-images-and-image-analyses" title="Link to this heading">#</a></h2>
+<p>Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor</p>
+<p>Licensed ALL RIGHTS RESERVED</p>
+<p>Tags: Bioimage Analysis</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.nature.com/articles/s41592-023-01987-9">https://www.nature.com/articles/s41592-023-01987-9</a></p>
+</section>
+<hr class="docutils" />
+<section id="example-microscopy-metadata-json-files-produced-using-micro-meta-app-to-document-example-microscopy-experiments-performed-at-individual-core-facilities">
+<h2>Example Microscopy Metadata JSON files produced using Micro-Meta App to document example microscopy experiments performed at individual core facilities<a class="headerlink" href="#example-microscopy-metadata-json-files-produced-using-micro-meta-app-to-document-example-microscopy-experiments-performed-at-individual-core-facilities" title="Link to this heading">#</a></h2>
+<p>Alessandro Rigano, Ulrike Boehm, Claire M. Brown, Joel Ryan, James J. Chambers, Robert A. Coleman, Orestis Faklaris, Thomas Guilbert, Michelle S. Itano, Judith Lacoste, Alex Laude, Marco Marcello, Paula Montero-Llopis, Glyn Nelson, Roland Nitschke, Jaime A. Pimentel, Stefanie Weidtkamp-Peters, Caterina Strambio-De-Castillia</p>
+<p>Published 2022-01-15</p>
+<p>Licensed CC-BY-4.0</p>
+<p>Example Microscopy Metadata (Microscope.JSON and Settings.JSON) files produced using Micro-Meta App to document the Hardware Specifications of example Microscopes and the Image Acquisition Settings utilized to acquire example images as listed in the table below.</p>
+<p>For each facility, the dataset contains two JSON files:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Microscope.JSON file (e.g., 01_marcello_uliverpool_cci_zeiss_axioobserz1_lsm710.json)
+Settings.JSON file (indicated with the name of the image and with the _AS suffix)
+</pre></div>
+</div>
+<p>Micro-Meta App was developed as part of a global community initiative including the 4D Nucleome (4DN) Imaging Working Group, BioImaging North America (BINA) Quality Control and Data Management Working Group, and QUAlity and REProducibility for Instrument and Images in Light Microscopy (QUAREP-LiMi), to extend the Open Microscopy Environment (OME) data model.</p>
+<p>The works of this global community effort resulted in multiple publications featured on a recent Nature Methods FOCUS ISSUE dedicated to Reporting and reproducibility in microscopy.</p>
+<p>Learn More! For a thorough description of Micro-Meta App consult our recent Nature Methods and <a class="reference external" href="http://BioRxiv.org">BioRxiv.org</a> publications!</p>
+<p> </p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>		Nr.
+		Manufacturer
+		Model
+		Tier
+		&amp;Epsilon;xperiment Type
+		Facility Name
+		Department and Institution
+		URL
+		References
+	
+	
+		1
+		Carl Zeiss Microscopy
+		Axio Observer Z1 (with LSM 710 scan head)
+		1
+		3D visualization of superhydrophobic polymer-nanoparticles
+		Centre for Cell Imaging (CCI)
+		University of Liverpool
+		https://cci.liv.ac.uk/equipment_710.html
+		Upton et al., 2020
+	
+	
+		2
+		Carl Zeiss Microscopy
+		Axio Observer (Axiovert 200M)
+		2
+		&amp;Mu;easurement of illumination stability on Chinese Hamster Ovary cells expressing Paxillin-EGFP
+		Advanced BioImaging Facility (ABIF).
+		McGill University
+		https://www.mcgill.ca/abif/equipment/axiovert-1
+		Kiepas et al., 2020
+	
+	
+		3
+		Carl Zeiss Microscopy
+		Axio Observer Z1 (with Spinning Disk)
+		2
+		Immunofluorescence imaging of cryosection of Mouse kidney
+		Imagerie Cellulaire; Quality Control managed by Miacellavie (https://miacellavie.com/)
+		Centre de recherche du Centre Hospitalier Universit&amp;eacute; de Montr&amp;eacute;al (CR CHUM), University of Montreal
+		https://www.chumontreal.qc.ca/crchum/plateformes-et-services&amp;nbsp; (the web site is for all core facilities, not specifically for the core facility hosting this microscope)
+		Pilliod et al., 2020
+	
+	
+		4
+		Carl Zeiss Microscopy
+		Axio Imager Z2 (with Apotome)
+		2
+		Immunofluorescence imaging of mitotic division in Hela cells using&amp;nbsp;&amp;nbsp;
+		Bioimaging Unit
+		Newcastle University
+		https://www.ncl.ac.uk/bioimaging/
+		Watson et al., 2020
+	
+	
+		5
+		Carl Zeiss Microscopy
+		Axio Observer Z1
+		2
+		Fluorescence microscopy of human skin fibroblasts from Glycogen Storage Disease patients.
+		Life Imaging Center (LIC)
+		Centre for Integrative Signalling Analysis (CISA), University of Freiburg
+		https://miap.eu/equipments/sd-i-abl/
+		Hannibal et al., 2020
+	
+	
+		6
+		Leica Microsystems
+		DMI6000B
+		2
+		3D immunofluorescence imaging&amp;nbsp; rhinovirus infected macrophages&amp;nbsp;
+		IMAG&amp;#39;IC Confocal Microscopy Facility
+		Institut Cochin, CNRS, INSERM, Universit&amp;eacute; de Paris
+		https://www.institutcochin.fr/core_facilities/confocal-microscopy/cochin-imaging-photonic-microscopy/organigram_team/10054/view
+		Jubrail et al., 2020
+	
+	
+		7
+		Leica Microsystems
+		DM5500B
+		2
+		Immunofluorescence analysis of the colocalization of PML bodies with DNA double-strand breaks
+		Bioimaging Unit
+		Edwardson Building on the Campus for Ageing and Vitality, Newcastle University
+		https://www.ncl.ac.uk/bioimaging/equipment/leica-dm5500/#overview
+		da Silva et al., 2019; Nelson et al., 2012
+		&amp;nbsp;&amp;nbsp;
+	
+	
+		8
+		Leica Microsystems
+		DMI8-CS (with TCS SP8 STED 3X)
+		2
+		Live-cell imaging of N. benthamiana leaves cells-derived protoplasts
+		Center for Advanced Imaging (CAi)
+		School of Mathematics/Natural Sciences, Heinrich-Heine-Universit&amp;auml;t D&amp;uuml;sseldorf
+		https://www.cai.hhu.de/en/equipment/super-resolution-microscopy/leica-tcs-sp8-sted-3x
+		Singer et al., 2017; H&amp;auml;nsch et al., 2020
+	
+	
+		9
+		Nikon Instruments
+		Eclipse Ti
+		2
+		Immunofluorescence analysis of the cytoskeleton structure in COS cells
+		Advanced Imaging Center (AIC)
+		Janelia Research Campus, Howard Hughes Medical Institute
+		https://www.janelia.org/support-team/light-microscopy/equipment
+		Abdelfattah et al., 2019; Qian et al., 2019; Grimm et al., 2020
+	
+	
+		10
+		Nikon Instruments
+		Eclipse Ti-E (HCA)
+		2
+		&amp;Tau;ime-lapse analysis of the bursting behavior of amine-functionalized vesicular assemblies
+		Light Microscopy Facility (IALS-LIF)
+		Institute for Applied Life Sciences, University of Massachusetts at Amherst
+		https://www.umass.edu/ials/light-microscopy
+		Fernandez et al., 2020
+	
+	
+		11
+		Nikon Instruments/Coleman laboratory (customized)
+		TIRF HILO Epifluorescence light Microscope (THEM)/ Eclipse Ti
+		2
+		Single-particle tracking of Halo-tagged PCNA in Lox cells
+		Coleman laboratory
+		Anatomy and Structural Biology Department, The Albert Einstein College of Medicine
+		https://einsteinmed.org/faculty/12252/robert-coleman/
+		Drosopoulos et al., 2020
+	
+	
+		12
+		Nikon Instruments
+		Eclipse Ti (with Andor Dragon Fly Spinning Disk)
+		2
+		Investigation of the 3D structure of cerebral organoids
+		Montpellier Resources Imagerie
+		Centre de Recherche de Biologie cellulaire de Montpellier (MRI-CRBM), CNRS, Univerity of Montpellier
+		https://www.mri.cnrs.fr/en/optical-imaging/our-facilities/mri-crbm.html
+		Ayala-Nunez et al., 2019
+	
+	
+		13
+		Nikon Instruments
+		Eclipse Ti2
+		2
+		&amp;Iota;mmunofluorescence imaging of cryosections of mouse hearth myocardium&amp;nbsp;
+		Neuroscience Center Microscopy Core
+		Neuroscience Center, University of North Carolina
+		https://www.med.unc.edu/neuroscience/core-facilities/neuro-microscopy/
+		Aghajanian et al., 2021
+	
+	
+		14
+		Nikon Instruments
+		Eclipse Ti2
+		2
+		Live-cell imaging of bacterial cells expressing GFP-PopZ
+		Microscopy Resources on the North Quad (MicRoN)
+		Harvard Medical School&amp;nbsp;
+		https://micron.hms.harvard.edu/
+		Lim and Bernhardt 2019; Lim et al., 2019
+	
+	
+		15
+		Olympus/Biomedical Imaging Group (customized)
+		TIRF Epifluorescence Structured light Microscope (TESM)/IX71
+		3
+		3D distribution of HIV-1 in the nucleus of human cells
+		Biomedical Imaging Group
+		Program in Molecular Medicine, University of Massachusetts Medical School
+		https://trello.com/b/BQ8zCcQC/tirf-epi-fluorescence-structured-light-microscope
+		Navaroli et al., 2012
+	
+	
+		16
+		Olympus/Computer Vision Laboratory (customized)
+		3D BrightField Scanner/IX71
+		3
+		Transmitted light brightfield visualization of swimming spermatocytes
+		Laboratorio Nacional de Microscopia Avanzada (LNMA) and Computer Vision Laboratory of the Institute of Biotechnology
+		Universidad Nacional Autonoma de Mexico (UNAM)
+		https://lnma.unam.mx/wp/
+		Pimentel et al., 2012; Silva-Villalobos et al., 2014
+</pre></div>
+</div>
+<p>Getting started</p>
+<p>Use these videos to get started with using Micro-Meta App after installation into OMERO and downloading the example data files:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Video 1
+Video 2
+</pre></div>
+</div>
+<p>More information</p>
+<p>For full information on how to use Micro-Meta App please utilize the following resources:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Micro-Meta App website
+Full documentation
+Installation instructions
+Step-by-Step Instructions
+Tutorial Videos
+</pre></div>
+</div>
+<p>Background</p>
+<p>If you want to learn more about the importance of metadata and quality control to ensure full reproducibility, quality and scientific value in light microscopy, please take a look at our recent publications describing the development of community-driven light 4DN-BINA-OME Microscopy Metadata specifications Nature Methods and <a class="reference external" href="http://BioRxiv.org">BioRxiv.org</a> and our overview manuscript entitled A perspective on Microscopy Metadata: data provenance and quality control.</p>
+<p> </p>
+<p> </p>
+<p><a class="reference external" href="https://zenodo.org/records/5847477">https://zenodo.org/records/5847477</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.5847477">https://doi.org/10.5281/zenodo.5847477</a></p>
+</section>
+<hr class="docutils" />
+<section id="harmonizing-the-generation-and-pre-publication-stewardship-of-fair-image-data">
+<h2>Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data<a class="headerlink" href="#harmonizing-the-generation-and-pre-publication-stewardship-of-fair-image-data" title="Link to this heading">#</a></h2>
+<p>Nikki Bialy, Frank Alber, Brenda Andrews, Michael Angelo, Brian Beliveau, Lacramioara Bintu, Alistair Boettiger, Ulrike Boehm, Claire M. Brown, Mahmoud Bukar Maina, James J. Chambers, Beth A. Cimini, Kevin Eliceiri, Rachel Errington, Orestis Faklaris, Nathalie Gaudreault, Ronald N. Germain, Wojtek Goscinski, David Grunwald, Michael Halter, Dorit Hanein, John W. Hickey, Judith Lacoste, Alex Laude, Emma Lundberg, Jian Ma, Leonel Malacrida, Josh Moore, Glyn Nelson, Elizabeth Kathleen Neumann, Roland Nitschke, Shuichi Onami, Jaime A. Pimentel, Anne L. Plant, Andrea J. Radtke, Bikash Sabata, Denis Schapiro, Johannes Schöneberg, Jeffrey M. Spraggins, Damir Sudar, Wouter-Michiel Adrien Maria Vierdag, Niels Volkmann, Carolina Wählby, Siyuan (Steven)Wang, Ziv Yaniv, Caterina Strambio-De-Castillia</p>
+<p>Published 2024-08-30</p>
+<p>Licensed CC-BY-NC-SA-4.0 INTERNATIONAL</p>
+<p>Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.</p>
+<p>Tags: Research Data Management</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://arxiv.org/abs/2401.13022">https://arxiv.org/abs/2401.13022</a></p>
+</section>
+<hr class="docutils" />
+<section id="mdemic-a-metadata-annotation-tool-to-facilitate-management-of-fair-image-data-in-the-bioimaging-community">
+<h2>MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community<a class="headerlink" href="#mdemic-a-metadata-annotation-tool-to-facilitate-management-of-fair-image-data-in-the-bioimaging-community" title="Link to this heading">#</a></h2>
+<p>Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters</p>
+<p>Licensed ALL RIGHTS RESERVED</p>
+<p>Tags: Research Data Management, Metadata</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.nature.com/articles/s41592-021-01288-z">https://www.nature.com/articles/s41592-021-01288-z</a></p>
+</section>
+<hr class="docutils" />
+<section id="methodsj2-a-software-tool-to-capture-metadata-and-generate-comprehensive-microscopy-methods-text">
+<h2>MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text<a class="headerlink" href="#methodsj2-a-software-tool-to-capture-metadata-and-generate-comprehensive-microscopy-methods-text" title="Link to this heading">#</a></h2>
+<p>Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark A. Sanders, Claire M. Brown</p>
+<p>Tags: Metadata</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://www.nature.com/articles/s41592-021-01290-5">https://www.nature.com/articles/s41592-021-01290-5</a></p>
+</section>
+<hr class="docutils" />
+<section id="the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">
+<h2>The crucial role of bioimage analysts in scientific research and publication<a class="headerlink" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication" title="Link to this heading">#</a></h2>
+<p>Beth A. Cimini, Peter Bankhead, Rocco D’ Antuono, Elnaz Fazeli, Julia Fernandez-Rondriguez, Caterina Fuster-Barcelo, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara Mc Ardle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri</p>
+<p>Published 2024-10-30</p>
+<p>Licensed CC-BY-4.0</p>
+<p>Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions</p>
+<p>Tags: Bioimage Analysis</p>
+<p>Content type: Publication</p>
+<p><a class="reference external" href="https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in">https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./authors"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#community-developed-checklists-for-publishing-images-and-image-analyses">Community-developed checklists for publishing images and image analyses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#example-microscopy-metadata-json-files-produced-using-micro-meta-app-to-document-example-microscopy-experiments-performed-at-individual-core-facilities">Example Microscopy Metadata JSON files produced using Micro-Meta App to document example microscopy experiments performed at individual core facilities</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#harmonizing-the-generation-and-pre-publication-stewardship-of-fair-image-data">Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mdemic-a-metadata-annotation-tool-to-facilitate-management-of-fair-image-data-in-the-bioimaging-community">MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methodsj2-a-software-tool-to-capture-metadata-and-generate-comprehensive-microscopy-methods-text">MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-crucial-role-of-bioimage-analysts-in-scientific-research-and-publication">The crucial role of bioimage analysts in scientific research and publication</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on 2025-05-29.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

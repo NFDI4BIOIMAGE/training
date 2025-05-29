@@ -1,4 +1,4 @@
-# Bsd-3-clause (30)
+# Bsd-3-clause (31)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -71,6 +71,27 @@ Tags: Python, Bioimage Analysis
 Content type: Book, Notebook
 
 [https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html)
+
+
+---
+
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
 
 
 ---
@@ -531,7 +552,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

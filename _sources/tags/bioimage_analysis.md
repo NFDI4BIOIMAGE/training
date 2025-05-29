@@ -1,4 +1,4 @@
-# Bioimage analysis (191)
+# Bioimage analysis (199)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -571,6 +571,27 @@ Content type: Collection
 
 ---
 
+## Bioimaging AI Textbook
+
+Rachel Lee, Owen Puls, Wei Ouyang, Beth Cimini
+
+Published 2025-02-20
+
+Licensed BSD-3-CLAUSE
+
+
+
+This is a repository containing a textbook written for BioImaging scientists and other microscopists.
+
+Tags: Bioimage Analysis, Artificial Intelligence
+
+Content type: Book, Github Repository
+
+[https://github.com/aicjanelia/BioImagingAI](https://github.com/aicjanelia/BioImagingAI)
+
+
+---
+
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
@@ -989,9 +1010,9 @@ Content type: Notebook
 
 ## Data management at France BioImaging
 
-Published 2023-07-05
+Published 2024-29-05
 
-Licensed CC-BY-SA-4.0
+Licensed UNKNOWN
 
 
 
@@ -999,7 +1020,7 @@ Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
-[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+[https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
 
 
 ---
@@ -1655,6 +1676,27 @@ Content type: Book
 
 ---
 
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Anne Fouilloux, Leonid Kostrykin, Riccardo Massei
+
+Published 2025-03-07
+
+Licensed UNKNOWN
+
+
+
+This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
+
+Tags: Galaxy, Bioimage Analysis
+
+Content type: Tutorial, Video
+
+[https://www.youtube.com/watch?v=wAHOPT6lRV0](https://www.youtube.com/watch?v=wAHOPT6lRV0)
+
+
+---
+
 ## Image Processing with Python
 
 Mark Meysenburg, Toby Hodges, Dominik Kutra, Erin Becker, David Palmquist, et al.
@@ -2295,6 +2337,8 @@ Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
+[https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
+
 
 ---
 
@@ -2313,6 +2357,23 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
+
+Nfdi4Bioimage
+
+Licensed UNKNOWN
+
+
+
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+
+Content type: Collection
+
+[https://nfdi4bioimage.de/home/](https://nfdi4bioimage.de/home/)
 
 
 ---
@@ -2512,6 +2573,27 @@ Content type: Event, Notebook
 
 ---
 
+## Practical considerations for data exploration in quantitative cell biology
+
+Joanna W. Pylvänäinen, Hanna Grobe, Guillaume Jacquemet
+
+Published 2025-04-07
+
+Licensed CC-BY-4.0
+
+
+
+This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
+
+Tags: Bioimage Analysis, Data Exploration
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in](https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in)
+
+
+---
+
 ## Prompt Engineering in Bio-image Analysis
 
 Mara Lampert
@@ -2705,6 +2787,27 @@ Content type: Code
 
 ---
 
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
+
+
+---
+
 ## SimpleITK-Notebooks
 
 Ziv Yaniv et al.
@@ -2775,7 +2878,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -2792,6 +2895,27 @@ Content type: Publication
 [https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2005-6-5-r47)
 
 [https://doi.org/10.1186/gb-2005-6-5-r47](https://doi.org/10.1186/gb-2005-6-5-r47)
+
+
+---
+
+## The crucial role of bioimage analysts in scientific research and publication
+
+Beth A. Cimini, Peter Bankhead, Rocco D' Antuono, Elnaz Fazeli, Julia Fernandez-Rondriguez, Caterina Fuster-Barcelo, Robert Haase, Helena Klara Jambor, Martin L. Jones, Florian Jug, Anna H. Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G. Martins, Sara Mc Ardle, Kota Miura, Arrate Muñoz-Barrutia, Laura C. Murphy, Michael S. Nelson, Simon F. Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna W. Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin W. Eliceiri
+
+Published 2024-10-30
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in)
 
 
 ---
@@ -3001,6 +3125,29 @@ Content type: Github Repository, Collection
 
 ---
 
+## WebAtlas pipeline for integrated single cell and spatial transcriptomic data
+
+Tong Li, David Horsfall, Daniela Basurto-Lozada
+
+Published 2023-04-28
+
+Licensed None
+
+
+
+Single cell and spatial transcriptomics illuminate complementary features of tissues. However, the online dissemination and exploration of multi-modal datasets is challenging. We introduce the WebAtlas pipeline for user-friendly sharing and interactive navigation of integrated datasets. WebAtlas unifies commonly used atlassing technologies into the cloud-optimised Zarr format and builds on Vitessce to enable remote data navigation. We showcase WebAtlas on the developing human lower limb to cross-query cell types and genes across single cell, sequencing- and imaging-based spatial transcriptomic data.
+
+Tags: Spatial Transcriptomics, Single Cell, Bioimage Analysis
+
+Content type: Collection, Atlas
+
+[https://developmental.cellatlas.io/webatlas](https://developmental.cellatlas.io/webatlas)
+
+[https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1](https://www.biorxiv.org/content/10.1101/2023.05.19.541329v1)
+
+
+---
+
 ## Welcome to BioImage Town
 
 Josh Moore
@@ -3154,6 +3301,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slides
 
 [https://github.com/esgomezm/zidas2020_intro_DL](https://github.com/esgomezm/zidas2020_intro_DL)
+
+
+---
+
+## Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
+
+Josh Moore, Susanne Kunis
+
+Published 2023-09-07
+
+Licensed CC-BY-4.0
+
+
+
+For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
+
+Tags: Bioimage Analysis
+
+Content type: Publication
+
+[https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285)
 
 
 ---

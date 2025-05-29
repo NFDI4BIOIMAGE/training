@@ -1,4 +1,23 @@
-# Website (10)
+# Website (11)
+## Choose an open source license
+
+GitHub
+
+Licensed CC-BY-3.0 UNPORTED
+
+
+
+Ressource that helps to choose an open source license for your project.
+
+Tags: Open Source, Licensing
+
+Content type: Website
+
+[https://choosealicense.com](https://choosealicense.com)
+
+
+---
+
 ## Data Stewardship Wizard
 
 Licensed UNKOWN

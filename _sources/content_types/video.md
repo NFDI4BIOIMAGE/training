@@ -1,4 +1,4 @@
-# Video (34)
+# Video (38)
 ## ABIC - Intermediate Fiji Image Analysis Course 2024
 
 Rensu Petrus Theart
@@ -87,6 +87,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
+## CT Physics
+
+Radiology Tutorials
+
+Published 2025-01-01
+
+Licensed UNKNOWN
+
+
+
+This is a playlist of videos about how CT works
+
+Tags: Imaging
+
+Content type: Video
+
+[https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd](https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd)
 
 
 ---
@@ -327,6 +348,27 @@ Content type: Collection, Video
 
 ---
 
+## Image Analysis using Galaxy
+
+Beatriz Serrano-Solano, Anne Fouilloux, Leonid Kostrykin, Riccardo Massei
+
+Published 2025-03-07
+
+Licensed UNKNOWN
+
+
+
+This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
+
+Tags: Galaxy, Bioimage Analysis
+
+Content type: Tutorial, Video
+
+[https://www.youtube.com/watch?v=wAHOPT6lRV0](https://www.youtube.com/watch?v=wAHOPT6lRV0)
+
+
+---
+
 ## Imaris Tutorials
 
 Licensed ALL RIGHTS RESERVED
@@ -359,6 +401,48 @@ Tags: Jipipe, Bioimage Analysis
 Content type: Workshop, Video, Tutorial, Slides
 
 [https://doi.org/10.5281/zenodo.15373555](https://doi.org/10.5281/zenodo.15373555)
+
+
+---
+
+## Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated
+
+Deepia
+
+Published 2024-08-05
+
+Licensed UNKNOWN
+
+
+
+This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
+
+Tags: Dimensionality Reduction
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=o_cAOa5fMhE](https://www.youtube.com/watch?v=o_cAOa5fMhE)
+
+
+---
+
+## MRI Physics
+
+Radiology Tutorials
+
+Published 2025-01-01
+
+Licensed UNKNOWN
+
+
+
+This is a playlist of videos about how MRI works
+
+Tags: Imaging
+
+Content type: Video
+
+[https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z](https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z)
 
 
 ---

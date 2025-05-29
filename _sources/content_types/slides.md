@@ -348,9 +348,9 @@ Content type: Slides, Notebook
 
 ## Data management at France BioImaging
 
-Published 2023-07-05
+Published 2024-29-05
 
-Licensed CC-BY-SA-4.0
+Licensed UNKNOWN
 
 
 
@@ -358,7 +358,7 @@ Tags: Research Data Management, Bioimage Analysis, Open Science
 
 Content type: Slides, Presentation
 
-[https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide](https://omero-fbi.fr/slides/elmi23_cfd/main.html#/title-slide)
+[https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
 
 
 ---
@@ -1196,6 +1196,8 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Slides
 
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
+
+[https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
 
 
 ---

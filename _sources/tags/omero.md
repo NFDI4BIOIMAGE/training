@@ -1,4 +1,23 @@
-# Omero (35)
+# Omero (38)
+## BHG2023-OMERO-ARC
+
+Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
+
+Licensed CC-BY-4.0
+
+
+
+Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
+
+Tags: Bioinformatics, OMERO
+
+Content type: Github Repository
+
+[https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
+
+
+---
+
 ## BIOMERO - A scalable and extensible image analysis framework
 
 Torec T. Luik, Rodrigo Rosas-Bertolini, Eric A.J. Reits, Ron A. Hoebe, Przemek M. Krawczyk
@@ -480,7 +499,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -501,7 +520,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -529,6 +548,27 @@ Tags: Research Data Management, OMERO
 Content type: Collection, Video
 
 [https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
+
+
+---
+
+## Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+
+Anett Jannasch, Silke Tulok, Chukwuebuka William Okafornta, Thomas Kugel, Michele Bortolomeazzi, Tom Boissonnet, Christian Schmidt, Andy Vogelsang
+
+Published 2024-09-14
+
+Licensed CC-BY-4.0
+
+
+
+Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
+
+Tags: OMERO, Bioimage Analysis
+
+Content type: Publication
+
+[https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360)
 
 
 ---
@@ -603,6 +643,27 @@ Tags: OMERO
 Content type: Github Repository
 
 [https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
+
+
+---
+
+## omero-quay
+
+Alexis Lebon, Anatole Chessel, Raphael Braud-Mussi, Marine Breuilly, Denis Ressnikoff, Dorian Kauffmann, Elvire Guiot, Emmanuel Faure, Perrine Gilloteaux, Guillaume Gay, Guillaume Jean-François, Jerome Mutterer, Paulette Lieby, Julio Mateos-Langerak, Guillaume Maucort, Marc Mongy, Mylene Pezet, Sotirios Papadiamantis, Théo Barnouin, Mathieu Vigneau
+
+Published 2023-06-16
+
+Licensed MPL-2.0
+
+
+
+omero-quay is a microscopy data transport layer between data management tools. Currently, it supports the iRODS — OMERO architecture built at France BioImaging fbi-omero.
+
+Tags: Data Management, OMERO
+
+Content type: Gitlab Repository
+
+[https://gitlab.in2p3.fr/fbi-data/omero-quay](https://gitlab.in2p3.fr/fbi-data/omero-quay)
 
 
 ---
