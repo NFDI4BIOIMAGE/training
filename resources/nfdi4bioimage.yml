@@ -11325,7 +11325,7 @@ resources:
   - Andy Vogelsang
   description: "Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. "
   license: CC-BY-4.0
-  name: Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users
+  name: "Setting up an institutional OMERO environment for bioimage data: Perspectives from both facility staff and users"
   publication_date: '2024-09-14'
   tags:
   - OMERO
