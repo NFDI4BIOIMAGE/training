@@ -1,4 +1,4 @@
-# Tom boissonnet (16)
+# Tom boissonnet (17)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -82,6 +82,27 @@ Content type: Slides, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## Introduction to OMERO - Frankfurt - online
+
+Michele Bortolomeazzi, Tom Boissonnet
+
+Published 2025-04-05
+
+Licensed CC-BY-4.0
+
+
+
+These slides were presented during an online introductory session to OMERO for the UB Frankfurt.
+The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
+&nbsp;
+
+[https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
+
+[https://doi.org/10.5281/zenodo.15152576](https://doi.org/10.5281/zenodo.15152576)
 
 
 ---
@@ -435,7 +456,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

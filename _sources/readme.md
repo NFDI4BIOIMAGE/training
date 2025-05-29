@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 686 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-05-29.
+This Jupyter Book contains 690 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-05-29.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (108 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/10460434) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (87 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging](https://zenodo.org/records/14716546) by "Moore, Josh" (101 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (64 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging](https://zenodo.org/records/14845059) by "Moore, Josh" (101 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 

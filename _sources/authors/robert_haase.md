@@ -613,10 +613,6 @@ G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
 
-Tags: Ai-Ready
-
-Content type: Data
-
 [https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
 
 [https://doi.org/10.5281/zenodo.15314214](https://doi.org/10.5281/zenodo.15314214)

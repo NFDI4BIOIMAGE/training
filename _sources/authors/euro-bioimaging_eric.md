@@ -1,19 +1,19 @@
-# Isabel kemmer (4)
-## Building a FAIR image data ecosystem for microscopy communities
+# Euro-bioimaging eric (4)
+## Euro-BioImaging ERIC Annual Report 2022
 
-Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
+Euro-BioImaging ERIC
 
-Published 2023-03-31
+Published 2023-07-14
 
 Licensed CC-BY-4.0
 
 
 
-Bioimaging has now entered the era of big data with faster than ever development of complex microscopy technologies leading to increasingly complex datasets. This enormous increase in data size and informational complexity within those datasets has brought with it several difficulties in terms of common and harmonized data handling, analysis and management practices, which are currently hampering the full potential of image data being realized. Here we outline a wide range of efforts and solutions currently being developed by the microscopy community to address these challenges on the path towards FAIR bioimage data. We also highlight how different actors in the microscopy ecosystem are working together, creating synergies that develop new approaches, and how research infrastructures, such as Euro-BioImaging, are fostering these interactions to shape the field.&nbsp;
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2022.
 
-[https://zenodo.org/records/7788899](https://zenodo.org/records/7788899)
+[https://zenodo.org/records/8146412](https://zenodo.org/records/8146412)
 
-[https://doi.org/10.5281/zenodo.7788899](https://doi.org/10.5281/zenodo.7788899)
+[https://doi.org/10.5281/zenodo.8146412](https://doi.org/10.5281/zenodo.8146412)
 
 
 ---

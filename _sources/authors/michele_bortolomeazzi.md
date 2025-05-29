@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (15)
+# Michele bortolomeazzi (17)
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -60,6 +60,27 @@ The three files in this Zenodo Record are all the same poster saved in different
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
 [https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
+
+
+---
+
+## Introduction to OMERO - Frankfurt - online
+
+Michele Bortolomeazzi, Tom Boissonnet
+
+Published 2025-04-05
+
+Licensed CC-BY-4.0
+
+
+
+These slides were presented during an online introductory session to OMERO for the UB Frankfurt.
+The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
+&nbsp;
+
+[https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
+
+[https://doi.org/10.5281/zenodo.15152576](https://doi.org/10.5281/zenodo.15152576)
 
 
 ---
@@ -173,6 +194,23 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
+
+Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
+
+Published 2025-05-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
+
+[https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
 
 
 ---

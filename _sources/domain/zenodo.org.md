@@ -1,4 +1,4 @@
-# Zenodo.org (252)
+# Zenodo.org (255)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -18,6 +18,25 @@ Content type: Slides
 [https://zenodo.org/records/4461261](https://zenodo.org/records/4461261)
 
 [https://doi.org/10.5281/zenodo.4461261](https://doi.org/10.5281/zenodo.4461261)
+
+
+---
+
+## .lif files misbehaving in fiji but fine in LASX
+
+Pamela Young
+
+Published 2025-05-07
+
+Licensed CC-BY-4.0
+
+
+
+.lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens fine in LASX but FIJI only likes some of the files.&nbsp; I think it was captured during a poweroutage so may have lived on a temp drive and been recovered when the power came back.&nbsp; LASX uses the .lifext but I don't think FIJI does.&nbsp; I have included it however since it is part of the dataset output from the microscope.
+
+[https://zenodo.org/records/15353569](https://zenodo.org/records/15353569)
+
+[https://doi.org/10.5281/zenodo.15353569](https://doi.org/10.5281/zenodo.15353569)
 
 
 ---
@@ -2796,10 +2815,6 @@ G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
 
-Tags: Ai-Ready
-
-Content type: Data
-
 [https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
 
 [https://doi.org/10.5281/zenodo.15314214](https://doi.org/10.5281/zenodo.15314214)
@@ -3100,7 +3115,7 @@ Abstract: This webinar will introduce the Galaxy Image Analysis Community and hi
 
 Isabel Kemmer, Feriel Romdhane, Euro-BioImaging ERIC
 
-Published 2024-10-22
+Published 2025-05-15
 
 Licensed CC-BY-4.0
 
@@ -3108,11 +3123,12 @@ Licensed CC-BY-4.0
 
 Depositing data in quality data repositories is one crucial step towards FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
 To guide you in the selection of appropriate repositories, we have created an overview of available repositories for different types of image data, including their scope and requirements. This decision tree guides you through questions about your data and directs you to the correct repository, and/or provides instructions for further processing to meet the critera of the repositories.&nbsp;
-Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data.&nbsp;
+Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data. These versions with three trees can be used for web-view. Update: also the editable versions in powerpoint format (.pptx) are now provided. Please be aware that opening the versions with another program might lead to shifted formatting.
+Update: we now also provide ready-to-print versions designed to be printed on A3 format. One page shows the open bioimaging data tree and one page combines the preclinical and human imaging data trees. Also the editable versions of these are provided.
 
-[https://zenodo.org/records/13945179](https://zenodo.org/records/13945179)
+[https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
 
-[https://doi.org/10.5281/zenodo.13945179](https://doi.org/10.5281/zenodo.13945179)
+[https://doi.org/10.5281/zenodo.15425770](https://doi.org/10.5281/zenodo.15425770)
 
 
 ---
@@ -3464,6 +3480,27 @@ The three files in this Zenodo Record are all the same poster saved in different
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
 [https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
+
+
+---
+
+## Introduction to OMERO - Frankfurt - online
+
+Michele Bortolomeazzi, Tom Boissonnet
+
+Published 2025-04-05
+
+Licensed CC-BY-4.0
+
+
+
+These slides were presented during an online introductory session to OMERO for the UB Frankfurt.
+The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
+&nbsp;
+
+[https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
+
+[https://doi.org/10.5281/zenodo.15152576](https://doi.org/10.5281/zenodo.15152576)
 
 
 ---
@@ -4730,6 +4767,23 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ---
 
+## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
+
+Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
+
+Published 2025-05-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
+
+[https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting domain-specific metadata in a wider knowledge graph
 
 Stefan Dvoretskii, Michele Bortolomeazzi, Marco Nolden, Christian Schmidt, Klaus Maier-Hein, Josh Moore
@@ -4866,7 +4920,7 @@ Content type: Data
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 

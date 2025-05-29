@@ -1,4 +1,4 @@
-# Christian schmidt (23)
+# Christian schmidt (24)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -236,6 +236,23 @@ Tags: Nfdi4Bioimage, Research Data Management
 Content type: Conference Abstract, Slides
 
 [https://doi.org/10.11588/heidok.00029489](https://doi.org/10.11588/heidok.00029489)
+
+
+---
+
+## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
+
+Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
+
+Published 2025-05-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
+
+[https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
 
 
 ---
