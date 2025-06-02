@@ -14668,4 +14668,20 @@ resources:
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC050
+
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'Drosophila melanogaster Kc167 cells were stained for DNA (to label nuclei) and actin (a cytoskeletal protein, to show the cell body). Automatic cytometry requires that cells be segmented, i.e., that the pixels belonging to each cell be identified. Because segmenting nuclei and distinguishing foreground from background is comparatively easy for these images, the focus here is on finding the boundaries between adjacent cells.'
+  license: CC0-1.0
+  name: Drosophila Kc167 cells
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC007
+
+  
   
