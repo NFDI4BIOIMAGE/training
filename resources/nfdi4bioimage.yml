@@ -14705,5 +14705,20 @@ resources:
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html
-  
+
+- authors: 
+  - Krisztian Koos
+  - József Molnár
+  - Lóránd Kelemen
+  - Gábor Tamás 
+  - Peter Horvath 
+  description: 'The image set consists of 60 Differential Interference Contrast (DIC) images of Chinese Hamster Ovary (CHO) cells. The images are taken on an Olympus Cell-R microscope with a 20x lens at the time when the cell initiated their attachment to the bottom of the dish.'
+  license: CC-BY-3.0
+  name: Chinese Hamster Ovary Cells
+  publication_date: '2016-07-29
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC030
   
