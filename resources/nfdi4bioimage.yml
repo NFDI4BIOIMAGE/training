@@ -14541,4 +14541,19 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC008 
 
+- authors: 
+  - David Svoboda
+  - Michal Kozubkek
+  - Stanislav Stejskal 
+  description: 'One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two diferent levels of quality: high SNR and low SNR.'
+  license: CC-BY-3.0
+  name: 3D HL60 Cell line (synthetic data)
+  publication_date: '2009-06-01'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC024 
+  
+
   
