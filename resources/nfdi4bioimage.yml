@@ -14610,6 +14610,20 @@ resources:
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC004 
+
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'These are synthetic images from the Cell Tracking Challenge. The images depict simulated nuclei of HL60 cells stained with Hoescht (training datasets). These synthetic images of HL60 cells provide an opportunity to test image analysis software by comparing segmentation results to the available ground truth for each time point. The number of clustered nuclei increases with time adding more complexity to the problem. This time-laps dataset can be used for simple segmentation or for nuclei tracking.'
+  license: CC0-1.0
+  name: Simulated HL60 cells (from the Cell Tracking Challenge)
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC035
   
 
   
