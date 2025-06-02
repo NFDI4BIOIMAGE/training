@@ -14722,3 +14722,17 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC030
   
+- authors:
+  - Jonas Hartmann
+  - Mie Wong
+  - Elisa Gallo
+  - Darren Gilmour
+  description: '3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry'
+  license: CC-BY-4.0
+  name: An image-based data-driven analysis of cellular architecture in a developing tissue
+  publication_date: '2022-12-13'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html 
