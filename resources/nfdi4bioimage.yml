@@ -14683,5 +14683,27 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC007
 
+- authors:
+  - Sabine Taschner-Mandl
+  - Inge M. Ambros
+  - Peter F. Ambros
+  - Klaus Beiske
+  - Allan Hanbury
+  - Wolfgang Doerr
+  - Tamara Weiss
+  - Maria Berneder
+  - Magdalena Ambros
+  - Eva Bozsaky
+  - Florian Kromp
+  - Teresa Zulueta-Coarasa
+  description: 'Ground-truth annotated fluorescence image dataset for training nuclear segmentation methods'
+  license: CC0-1.0
+  name: An annotated fluorescence image dataset for training nuclear segmentation methods
+  publication_date: '2023-03-07'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html
   
   
