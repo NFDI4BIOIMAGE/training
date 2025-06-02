@@ -14583,13 +14583,20 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC039 
 
-- authors:
-  description:
-  license:
-  name:
-  publication_date:
+- authors: 
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'Since robust foreground/background separation and segmentation of cellular objects (i.e., identification of which pixels below to which objects) strongly depends on image quality, focus artifacts are detrimental to data quality. This image set provides examples of in- and out-of-focus HCS images which can be used for validation of focus metrics.'
+  license: CC0-1.0
+  name: Human U2OS cells (out of focus)
+  publication_date: '2012-06-28'
   tags:
+  - AI-ready
   type:
-  url:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC006 
+
+  
 
   
