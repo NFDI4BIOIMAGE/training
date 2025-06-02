@@ -14640,4 +14640,20 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC026 
 
+- authors:
+  - Giulia Paci
+  - Ines Fernandez Mosquera
+  - Pablo Vicente Munuera
+  - Yanlan Mao
+  description: 'Segmentation masks of individual cells in Drosophila wing discs'
+  license: CC0-1.0
+  name: 3D cell shape of Drosophila Wing Disc
+  publication_date: '2023-08-14'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html
+
+
   
