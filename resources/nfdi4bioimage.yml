@@ -14779,3 +14779,19 @@ resources:
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html 
+
+- authors:
+  - Kay Schneitz
+  - Athul Vijayan
+  - Tejasvinee Mody
+  description: 'We present computational tools that allow versatile and accurate 3D nuclear segmentation in plant organs, enable the analysis of cell-nucleus geometric relationships, and improve the accuracy of 3D cell segmentation. This biostudies submission includes Arabidopsis ovule model training dataset used in the study. The training dataset is composed of strong and weak nuclei image channels, corresponding ground truth segmentation, cell wall image and associated cell segmentation mentioned in the study. Trained models from the study, a total of 47 trained models are made available from this study. This included 15 initial models, 30 gold models, and 2 platinum models. Models were trained using PlantSeg, Stardist and Cellpose. All image datasets and its segmentation as part of the figures in this study is also available as separate zip files. This includes image dataset from different species and organs as listed below.'
+  license: CC0-1.0
+  name: Go-Nuclear. A deep learning-based toolkit for 3D nuclei segmentation and quantitative analysis in cellular and tissue context
+  publication_date: '2024-06-29'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/
+
+  
