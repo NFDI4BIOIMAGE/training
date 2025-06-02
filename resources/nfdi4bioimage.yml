@@ -14624,6 +14624,20 @@ resources:
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC035
-  
+
+- authors:
+  - David J. Logan
+  - Jing Shan 
+  - Sangeeta N. Bhatia
+  - Anne E. Carpenter
+  description: 'This 384-well plate has images of co-cultured hepatocytes and fibroblasts. Every other well is populated (A01, A03, ..., C01, C03, ...) such that 96 wells comprise the data. Each well has 9 sites and thus 9 images associated, totaling 864 images.'
+  license: CC-BY-3.0
+  name: Human Hepatocyte and Murine Fibroblast cells Co-culture experiment
+  publication_date: '2016-03-01'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC026 
 
   
