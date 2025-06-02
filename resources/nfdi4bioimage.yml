@@ -14527,4 +14527,18 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC005
 
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'These images are of human HT29 colon cancer cells, a cell line that has been widely used for the study of many normal and neoplastic processes. A set of about 43,000 such images was used by Moffat et al. (Cell, 2006) to screen for mitotic regulators. The analysis followed the common pattern of identifying and counting cells with a phenotype of interest (in this case, cells that were in mitosis), then normalizing the count by dividing by the total number of cells. Such experiments present two image analysis problems. First, identifying the cells that have the phenotype of interest requires that the nuclei and cells be segmented. Second, normalizing requires an accurate cell count.'
+  license: CC-BY-NC-SA-3.0
+  name: Human HT29 colon-cancer cells
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC008 
+
   
