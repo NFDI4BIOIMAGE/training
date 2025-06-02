@@ -14554,6 +14554,19 @@ resources:
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC024 
-  
+
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'Segmenting nuclei in 3D images can be challenging especially when nuclei are clustered not only in XY plane but also in XZ and YZ planes. Manually annotated ground truth provides a reference for image analysis software testing purposes. These images of mouse embryo blastocyst cells also have changing nuclei intensity in Z plane which makes finding the right threshold for successful segmentation a difficult task. This image set also contains GAPDH transcripts that can be quantified in each cell.'
+  license: CC0-1.0
+  name: Mouse embryo blastocyst cells
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC032 
 
   
