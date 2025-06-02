@@ -14569,4 +14569,27 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC032 
 
+- authors: 
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'This image set is part of a high-throughput chemical screen on U2OS cells, with examples of 200 bioactive compounds. The effect of the treatments was originally imaged using the Cell Painting assay (fluorescence microscopy). This data set only includes the DNA channel of a single field of view per compound. These images present a variety of nuclear phenotypes, representative of high-throughput chemical perturbations. The main use of this data set is the study of segmentation algorithms that can separate individual nucleus instances in an accurate way, regardless of their shape and cell density. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.'
+  license: CC0-1.0
+  name: Nuclei of U2OS cells in a chemical screen
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC039 
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
+
   
