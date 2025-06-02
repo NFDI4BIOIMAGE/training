@@ -14766,3 +14766,16 @@ resources:
   type:
   - Data
   url: https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268 
+
+- authors:
+  - Ziming Qiu
+  - Matthew Hartley
+  description: 'Ultrasound images of mouse embryos with body and brain volume segmentation masks'
+  license: CC0-1.0
+  name: Embryonic mice ultrasound volumes with body and brain volume segmentation masks
+  publication_date: '2023-05-10'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html 
