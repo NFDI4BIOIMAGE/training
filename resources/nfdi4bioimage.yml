@@ -14794,4 +14794,21 @@ resources:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/
 
-  
+- authors: 
+  - Ying Chen
+  - Johannes C. Paetzold
+  - Ali Erturk
+  - Doris Kaltenecker
+  - Mihail Todorov
+  - Harsharan Singh Bhatia
+  - Shan Zhao
+  - Luciano Höher
+  description: 'This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.'
+  license: CC-BY-4.0
+  name: 3D light-sheet microscopy data for SELMA3D 2024 challenge - Training subset with annotations
+  publication_date: '2024-06-05'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/
