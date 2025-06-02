@@ -14655,5 +14655,17 @@ resources:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html
 
-
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'Cell dynamics during the early mouse embryogenesis change spatiotemporally. For understanding the mechanism of this developmental process, imaging cell dynamics by live-cell imaging of fluorescently labeled nuclei and performing nuclei segmentation of these images by image processing are essential. This dataset contains the fluorescence images and Ground Truth used when performing nuclei segmentation using deep learning. Fluorescence images are time-series images from fertilization to blastocyst formation. Ground Truth is supervised data of the cell nuclear region.'
+  license: CC0-1.0
+  name: Nuclei of mouse embryonic cells
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC050
   
