@@ -14597,6 +14597,19 @@ resources:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC006 
 
+- authors:
+  - Vebjorn Ljosa
+  - Katherine L. Sokolnicki 
+  - Anne E. Carpenter
+  description: 'One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of five subsets with increasing degree of clustering.'
+  license: CC-BY-NC-SA-3.0
+  name: Synthetic cells
+  publication_date: '2012-06-28'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://bbbc.broadinstitute.org/BBBC004 
   
 
   
