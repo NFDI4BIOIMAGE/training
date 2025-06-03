@@ -14812,3 +14812,55 @@ resources:
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/
+
+- authors: 
+  - David Svoboda
+  - Michal Kozubek
+  - Stanislav Stejskal
+  - Teresa Zulueta-Coarasa
+  description: 'One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two different levels of quality: high SNR and low SNR.'
+  license: CC-BY-3.0
+  name: Synthetic images and segmentation masks simulating HL-60 cell nucleus in 3D
+  publication_date: '2024-11-26'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/
+
+- authors: 
+  - Alain Chen
+  - Liming Wu
+  - Seth Winfree
+  - Kenneth Dunn
+  - Paul Salama
+  - Edward Delp
+  - Teresa Zulueta-Coarasa
+  description: 'This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.'
+  license: CC-BY-4.0
+  name: 3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes
+  publication_date: '2024-12-20'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/
+
+- authors:
+  - Neeraj Kumar
+  - Ruchika Verma
+  - Sanuj Sharma
+  - Surabhi Bhargava
+  - Abhishek Vahadane
+  - Amit Sethi
+  description: 'The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.'
+  license: CC-BY-NC-SA-4.0
+  name: MoNuSeg Dataset 
+  publication_date: '2017-07-01'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://monuseg.grand-challenge.org/Data/
+
+  
