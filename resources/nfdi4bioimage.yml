@@ -14916,3 +14916,26 @@ resources:
   - Data
   url: https://www.kaggle.com/datasets/ipateam/nuinsseg 
 
+- authors:
+  - Shenggan Gan
+  - Nicolas Chen
+  description: 'BCCD Dataset is a small-scale dataset for blood cells detection.'
+  license: MIT License
+  name: BCCD Dataset
+  publication_date: '2017-12-07'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://github.com/Shenggan/BCCD_Dataset 
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
+
+
