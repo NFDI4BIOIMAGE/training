@@ -14895,3 +14895,24 @@ resources:
   type:
   - Data
   url: https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images
+
+- authors:
+  - Amirreza Mahbod
+  - Christine Polak
+  - Katharina Feldmann
+  - Rumsha Khan
+  - Katharina Gelles
+  - Georg Dorffner
+  - Ramona Woitek
+  - Sepideh Hatamikia
+  - Isabella Ellinger
+  description: 'A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images'
+  license: CC-BY-4.0
+  name: NuInsSeg
+  publication_date: '2024-05.14
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.kaggle.com/datasets/ipateam/nuinsseg 
+
