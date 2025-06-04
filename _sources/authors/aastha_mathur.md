@@ -1,4 +1,4 @@
-# Aastha mathur (4)
+# Aastha mathur (5)
 ## Building a FAIR image data ecosystem for microscopy communities
 
 Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
@@ -67,6 +67,27 @@ Licensed UNKNOWN
 Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
+
+
+---
+
+## [ELMI2025] Bridging communities with OME-Zarr
+
+Christian Schmidt, Aastha Mathur, Josh Moore
+
+Published 2025-06-04
+
+Licensed CC-BY-4.0
+
+
+
+Presented at ELMI2025
+&nbsp;
+https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+
+[https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
+
+[https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
 
 
 ---

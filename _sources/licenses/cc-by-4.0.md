@@ -1,4 +1,4 @@
-# Cc-by-4.0 (337)
+# Cc-by-4.0 (341)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2947,26 +2947,6 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 ---
 
-## Explainable AI for Computer Vision
-
-Robert Haase
-
-Published 2025-03-09
-
-Licensed CC-BY-4.0
-
-
-
-In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
-Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
-
-[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
-
-[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
-
-
----
-
 ## FAIR BioImage Data
 
 Licensed CC-BY-4.0
@@ -5388,6 +5368,44 @@ Image area
 [https://zenodo.org/records/14937632](https://zenodo.org/records/14937632)
 
 [https://doi.org/10.5281/zenodo.14937632](https://doi.org/10.5281/zenodo.14937632)
+
+
+---
+
+## Nd2 does not open in Fiji Bio_formats 8.1.1
+
+Jaramillo Carlos
+
+Published 2025-06-02
+
+Licensed CC-BY-4.0
+
+
+
+this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp; It is in RGB and it is a stack of hundreds of Z layers
+
+[https://zenodo.org/records/15579371](https://zenodo.org/records/15579371)
+
+[https://doi.org/10.5281/zenodo.15579371](https://doi.org/10.5281/zenodo.15579371)
+
+
+---
+
+## Nd2 does not open in Fiji Bio_formats 8.1.1 (additional files)
+
+Jonatan Bustos
+
+Published 2025-05-23
+
+Licensed CC-BY-4.0
+
+
+
+This dataset contains 4 .nd2 image files of pollen grains captured using a Nikon 80i microscope. The files include both the original full-frame images and cropped Regions of Interest (ROIs) extracted from them. All images are in RGB format and include multiple Z-stack layers.
+
+[https://zenodo.org/records/15493140](https://zenodo.org/records/15493140)
+
+[https://doi.org/10.5281/zenodo.15493140](https://doi.org/10.5281/zenodo.15493140)
 
 
 ---
@@ -7906,6 +7924,27 @@ The integration of Large Language Models (LLMs) in scientific research presents 
 
 ---
 
+## Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
+
+Josh Moore
+
+Published 2025-05-28
+
+Licensed CC-BY-4.0
+
+
+
+https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
+Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
+In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
+
+[https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
+
+[https://doi.org/10.5281/zenodo.15479606](https://doi.org/10.5281/zenodo.15479606)
+
+
+---
+
 ## Tracking of mitochondria and capturing mitoflashes
 
 Leonid Kostrykin, Diana Chiang Jurado
@@ -8556,6 +8595,27 @@ Content type: Poster
 
 ---
 
+## [ELMI2025] Bridging communities with OME-Zarr
+
+Christian Schmidt, Aastha Mathur, Josh Moore
+
+Published 2025-06-04
+
+Licensed CC-BY-4.0
+
+
+
+Presented at ELMI2025
+&nbsp;
+https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+
+[https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
+
+[https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
+
+
+---
+
 ## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
 
 Josh Moore
@@ -8631,6 +8691,26 @@ Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
 [https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
+
+
+---
+
+## [NFDI Tech Talk] Cloud Based Image Science
+
+Robert Haase
+
+Published 2025-06-02
+
+Licensed CC-BY-4.0
+
+
+
+Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
+See http://nfdi.de/talks for more information.
+
+[https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
+
+[https://doi.org/10.5281/zenodo.15575379](https://doi.org/10.5281/zenodo.15575379)
 
 
 ---

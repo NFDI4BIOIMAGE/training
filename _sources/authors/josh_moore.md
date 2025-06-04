@@ -1,4 +1,4 @@
-# Josh moore (33)
+# Josh moore (35)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -276,6 +276,27 @@ Content type: Publication, Preprint
 
 ---
 
+## Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
+
+Josh Moore
+
+Published 2025-05-28
+
+Licensed CC-BY-4.0
+
+
+
+https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
+Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
+In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
+
+[https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
+
+[https://doi.org/10.5281/zenodo.15479606](https://doi.org/10.5281/zenodo.15479606)
+
+
+---
+
 ## Welcome to BioImage Town
 
 Josh Moore
@@ -453,6 +474,27 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.11235512](https://zenodo.org/doi/10.5281/zenodo.11235512)
+
+
+---
+
+## [ELMI2025] Bridging communities with OME-Zarr
+
+Christian Schmidt, Aastha Mathur, Josh Moore
+
+Published 2025-06-04
+
+Licensed CC-BY-4.0
+
+
+
+Presented at ELMI2025
+&nbsp;
+https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+
+[https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
+
+[https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
 
 
 ---

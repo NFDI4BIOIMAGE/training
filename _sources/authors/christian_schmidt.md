@@ -1,4 +1,4 @@
-# Christian schmidt (24)
+# Christian schmidt (25)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -390,6 +390,27 @@ Overview of GerBI RDM projects: why and how?
 [https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
 
 [https://doi.org/10.5281/zenodo.10889694](https://doi.org/10.5281/zenodo.10889694)
+
+
+---
+
+## [ELMI2025] Bridging communities with OME-Zarr
+
+Christian Schmidt, Aastha Mathur, Josh Moore
+
+Published 2025-06-04
+
+Licensed CC-BY-4.0
+
+
+
+Presented at ELMI2025
+&nbsp;
+https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+
+[https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
+
+[https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
 
 
 ---
