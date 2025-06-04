@@ -14972,3 +14972,15 @@ resources:
   - Data
   url: https://github.com/DeepMicroscopy/MIDOG
 
+- authors:
+  - Wenqi Tang
+  - MIC Group
+  description: 'This repo is the official implementation of our paper "Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides".'
+  license:
+  name: Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides
+  publication_date: '2021-12-12'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://github.com/bupt-ai-cz/BALNMP
