@@ -14976,7 +14976,7 @@ resources:
   - Wenqi Tang
   - MIC Group
   description: 'This repo is the official implementation of our paper "Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides".'
-  license:
+  license: UNLICENSED
   name: Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides
   publication_date: '2021-12-12'
   tags:
@@ -14984,3 +14984,19 @@ resources:
   type:
   - Data
   url: https://github.com/bupt-ai-cz/BALNMP
+
+- authors:
+  - Mohammad Peikari
+  - Sherine Salama
+  - Sharon Nofech-Mozes
+  - Anne L. Martel
+  description: 'Breast cancer (BC) is the second most commonly diagnosed cancer in the U.S. with more than 250,000 new cases of invasive breast cancers reported in 2017. The majority of women with locally advanced and a subset of patients with operable breast cancer will undergo systemic therapy prior to their surgery (neoadjuvant therapy/ NAT) to reduce the size of tumor(s) and possibly further undergo breast conserving surgery. The Post-NAT-BRCA dataset is a collection of representative sections from breast resections in patients with residual invasive BC following NAT. Histologic sections were prepared and digitized to produce high resolution, microscopic images of treated BC tumors. Also included, are clinical features and expert pathology annotations of tumor cellularity and cell types. The Residual Cancer Burden Index (RCBi), is a clinically validated tool for assessment of response to NAT associated with prognosis. Tumor cellularity is one of the parameters used for calculating the RCBi. In this dataset, tumor cellularity refers to a measure of residual disease after NAT, in the form of proportion of malignant tumor inside the tumor bed region; also annotated. (See MD Anderson RCB Calculator for a detailed description of tumor cellularity.) Malignant, healthy, lymphocyte and other labels were also provided for individual cells to aid development of cell segmentation algorithms.'
+  license: CC-BY-3.0
+  name: Assessment of Residual Breast Cancer Cellularity after Neoadjuvant Chemotherapy using Digital Pathology
+  publication_date: '2017-10-04'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://www.cancerimagingarchive.net/collection/post-nat-brca/
+
