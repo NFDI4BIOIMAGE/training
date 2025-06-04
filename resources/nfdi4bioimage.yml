@@ -14930,6 +14930,21 @@ resources:
   url: https://github.com/Shenggan/BCCD_Dataset 
 
 - authors:
+  - Naylor Peter Jack
+  - Walter Thomas
+  - Laé Marick
+  - Reyal Fabien
+  description: 'Involves an annotated large number of cells, including normal epithelial and myoepithelial breast cells (localized in ducts and lobules), invasive carcinomatous cells, fibroblasts, endothelial cells, adipocytes, macrophages and inflammatory cells (lymphocytes and plasmocytes). In total, our data set consists of 50 images with a total of 4022 annotated cells, the maximum number of cells in one sample is 293 and the minimum number of cells in one sample is 5, with an average of 80 cells per sample and a high standard deviation of 58. The annotation was performed by three experts: an expert pathologist and two trained research fellows. Each sample was annotated by one of the annotators, checked by another one and in case of disagreement, a consensus was established by discussion among the 3 experts.'
+  license: CC-BY-4.0
+  name: TNBC
+  publication_date: '2018-02-16'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://paperswithcode.com/dataset/tnbc
+
+- authors:
   description:
   license:
   name:
@@ -14937,5 +14952,4 @@ resources:
   tags:
   type:
   url:
-
 
