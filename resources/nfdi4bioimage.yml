@@ -14512,4 +14512,85 @@ resources:
   url:
   - https://zenodo.org/records/14996127
   - https://doi.org/10.5281/zenodo.14996127
-  
+  - authors:
+  - Moore, Josh
+  - Sun, Yi
+  description: 'Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
+
+    See http://nfdi.de/talks for more information.'
+  license: cc-by-4.0
+  name: '[NFDI Tech Talk] Cloud Based Image Science'
+  num_downloads: 24
+  publication_date: '2025-06-02'
+  submission_date: '2025-06-03T11:21:25.871337'
+  url:
+  - https://zenodo.org/records/15575379
+  - https://doi.org/10.5281/zenodo.15575379
+- authors:
+  - Schmidt, Christian
+  - Mathur, Aastha
+  - Moore, Josh
+  description: 'Presented at ELMI2025
+
+    &nbsp;
+
+    https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/'
+  license: cc-by-4.0
+  name: '[ELMI2025] Bridging communities with OME-Zarr'
+  num_downloads: 42
+  publication_date: '2025-06-04'
+  submission_date: '2025-06-03T11:21:26.272302'
+  url:
+  - https://zenodo.org/records/15393592
+  - https://doi.org/10.5281/zenodo.15393592
+- authors:
+  - Moore, Josh
+  description: 'https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
+
+    Microscopy and bioimaging technologies are fundamental tools for exploring biological
+    systems, generating large, multidimensional datasets rich in experimental detail.
+    However, the bioimaging community has historically faced major challenges around
+    data handling: vendor-specific proprietary formats, fragmented metadata storage,
+    and increasingly large dataset sizes that outstrip traditional storage and computing
+    solutions.
+
+    In this webinar, key open technologies developed by the Open Microscopy Environment
+    (OME) to address these challenges were presented. Specifically, the Bio-Formats
+    library for accessing diverse proprietary file formats, the OME-TIFF standard
+    for archival data storage, and the OME-Zarr format for cloud-native, scalable
+    bioimaging workflows were presented.'
+  license: cc-by-4.0
+  name: 'Towards open and standardised imaging data: an introduction to Bio-Formats,
+    OME-TIFF, and OME-Zarr'
+  num_downloads: 264
+  publication_date: '2025-05-28'
+  submission_date: '2025-06-03T11:21:26.733860'
+  url:
+  - https://zenodo.org/records/15479606
+  - https://doi.org/10.5281/zenodo.15479606
+- authors:
+  - Bustos, Jonatan
+  description: This dataset contains 4 .nd2 image files of pollen grains captured
+    using a Nikon 80i microscope. The files include both the original full-frame images
+    and cropped Regions of Interest (ROIs) extracted from them. All images are in
+    RGB format and include multiple Z-stack layers.
+  license: cc-by-4.0
+  name: Nd2 does not open in Fiji Bio_formats 8.1.1 (additional files)
+  num_downloads: 11
+  publication_date: '2025-05-23'
+  submission_date: '2025-06-03T11:22:08.077083'
+  url:
+  - https://zenodo.org/records/15493140
+  - https://doi.org/10.5281/zenodo.15493140
+- authors:
+  - Carlos, Jaramillo
+  description: this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp;
+    It is in RGB and it is a stack of hundreds of Z layers
+  license: cc-by-4.0
+  name: Nd2 does not open in Fiji Bio_formats 8.1.1
+  num_downloads: 1
+  publication_date: '2025-06-02'
+  submission_date: '2025-06-03T11:22:15.103885'
+  url:
+  - https://zenodo.org/records/15579371
+  - https://doi.org/10.5281/zenodo.15579371
