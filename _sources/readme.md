@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (140 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/10460434) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [DALIA Interchange Format](https://zenodo.org/records/11521029) by "Geiger, Jonathan and Steiner, Petra and Desouki, Abdelmoneim Amer and Lange, Frank" (86 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging](https://zenodo.org/records/14716546) by "Moore, Josh" (101 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (81 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [[CIDAS] Scalable strategies for a next-generation of FAIR bioimaging](https://zenodo.org/records/14845059) by "Moore, Josh" (101 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
