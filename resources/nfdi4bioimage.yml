@@ -14880,11 +14880,18 @@ resources:
   - Data
   url: https://monusac-2020.grand-challenge.org/Data/ 
 
-- authors:
-  description:
-  license:
-  name:
-  publication_date:
+- authors: 
+  - Amirreza Mahbod
+  - Benjamin Bancher
+  - Isabella Ellinger
+  - Deyun Zhang
+  - Syed Nauyan Rashid
+  description: 'A Dataset for Nuclei Segmentation of Cryosectioned H&E-Stained Histologic Images'
+  license: CC-BY-NC-SA-4.0
+  name: CryoNuSeg
+  publication_date: '2019-12-31'
   tags:
+  - AI-ready
   type:
-  url:
+  - Data
+  url: https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images
