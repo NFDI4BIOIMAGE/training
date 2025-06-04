@@ -14863,4 +14863,28 @@ resources:
   - Data
   url: https://monuseg.grand-challenge.org/Data/
 
-  
+- authors:
+  - Ruchika Verma
+  - Neeraj Kumar
+  - Abhijeet Patil
+  - Nikhil Cherian Kurian
+  - Swapnil Rane
+  - Simon Graham
+  description: 'H&E staining of human tissue sections is a routine and most common protocol used by pathologists to enhance the contrast of tissue sections for tumor assessment (grading, staging, etc.) at multiple microscopic resolutions. Hence, we will provide the annotated dataset of H&E stained digitized tissue images of several patients acquired at multiple hospitals using one of the most common 40x scanner magnification. The annotations will be done with the help of expert pathologists.'
+  license: CC-BY-NC-SA-4.0
+  name: MonuSAC 2020 
+  publication_date: '2021-06-04'
+  tags:
+  - AI-ready
+  type:
+  - Data
+  url: https://monusac-2020.grand-challenge.org/Data/ 
+
+- authors:
+  description:
+  license:
+  name:
+  publication_date:
+  tags:
+  type:
+  url:
