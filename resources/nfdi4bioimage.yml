@@ -14944,12 +14944,19 @@ resources:
   - Data
   url: https://paperswithcode.com/dataset/tnbc
 
-- authors:
-  description:
-  license:
-  name:
-  publication_date:
+- authors: 
+  - Carsen Stringer
+  - Tim Wang
+  - Michalis Michaelos 
+  - Marius Pachitariu 
+  description: 'This is a cellpose training dataset. Cellpose is a generalist deep learning model for cell segmentation.'
+  license: 
+  name: cellpose training data 
+  publication_date: '2020-12-14'
   tags:
+  - AI-ready
   type:
-  url:
+  - Data
+  url: https://www.cellpose.org/dataset 
+
 
