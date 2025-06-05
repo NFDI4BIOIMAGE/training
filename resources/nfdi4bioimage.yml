@@ -14594,3 +14594,9 @@ resources:
   url:
   - https://zenodo.org/records/15579371
   - https://doi.org/10.5281/zenodo.15579371
+- authors:
+  - Swedlow, J.R., Kankaanpää, P., Sarkans, U. et al. 
+  name: A global view of standards for open image data formats and repositories
+  type: publicattion
+  url: https://doi.org/10.1038/s41592-021-01113-7
+  
