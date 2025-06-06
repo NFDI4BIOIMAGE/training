@@ -30,7 +30,6 @@ jobs:
       - name: Execute Jupyter Notebook
         run: |
           jupyter nbconvert --execute --inplace scripts/Export_to_DALIA.ipynb
-          jupyter nbconvert --execute --inplace scripts/Export_DALIA_language.ipynb
           
       # Commit and push changes if any file was updated
       - name: Commit and push changes
