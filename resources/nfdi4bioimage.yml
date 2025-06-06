@@ -14530,11 +14530,7 @@ resources:
   - Schmidt, Christian
   - Mathur, Aastha
   - Moore, Josh
-  description: 'Presented at ELMI2025
-
-    &nbsp;
-
-    https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/'
+  description: 'Presented at ELMI2025: https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/'
   license: cc-by-4.0
   name: '[ELMI2025] Bridging communities with OME-Zarr'
   num_downloads: 42
