@@ -1,4 +1,4 @@
-# Doi.org (276)
+# Doi.org (277)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -235,6 +235,21 @@ Content type: Data
 [https://zenodo.org/records/4590066](https://zenodo.org/records/4590066)
 
 [https://doi.org/10.5281/zenodo.4590066](https://doi.org/10.5281/zenodo.4590066)
+
+
+---
+
+## A global view of standards for open image data formats and repositories
+
+Swedlow, J.R., Kankaanpää, P., Sarkans, U. et al.
+
+
+
+A comprehensive overview of existing standards for image data formats in biomedicine, including DICOM, OME-TIFF and NIfTI. It discusses standardisation challenges and provides recommendations for improving the interoperability and FAIRness of image data.
+
+Content type: Publication
+
+[https://doi.org/10.1038/s41592-021-01113-7](https://doi.org/10.1038/s41592-021-01113-7)
 
 
 ---
