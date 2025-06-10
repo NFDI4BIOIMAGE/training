@@ -1,4 +1,4 @@
-# Doi.org (277)
+# Doi.org (278)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2668,6 +2668,21 @@ Content type: Data
 [https://zenodo.org/records/10913446](https://zenodo.org/records/10913446)
 
 [https://doi.org/10.5281/zenodo.10913446](https://doi.org/10.5281/zenodo.10913446)
+
+
+---
+
+## Fit for OMERO: How imaging facilities and IT departments work together to enable RDM for bioimaging
+
+
+
+Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
+
+Tags: Bioimage Analysis, OMERO, Research Data Management
+
+Content type: Workshop
+
+[https://doi.org/10.5281/zenodo.14013025](https://doi.org/10.5281/zenodo.14013025)
 
 
 ---

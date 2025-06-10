@@ -1387,7 +1387,7 @@ Tags: Bioimage Analysis, OMERO, Research Data Management
 
 Content type: Workshop
 
-[https://indico.dkfz.de/event/1022/](https://indico.dkfz.de/event/1022/)
+[https://doi.org/10.5281/zenodo.14013025](https://doi.org/10.5281/zenodo.14013025)
 
 
 ---
