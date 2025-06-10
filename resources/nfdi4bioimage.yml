@@ -263,7 +263,7 @@ resources:
   - Research Data Management
   type:
   - Workshop
-  url: https://indico.dkfz.de/event/1022/
+  url: https://doi.org/10.5281/zenodo.14013025
 - license: CC-BY-4.0
   name: RDM4Mic Presentations
   proficiency_level: advanced beginner
