@@ -14594,3 +14594,23 @@ resources:
   url:
   - https://zenodo.org/records/15579371
   - https://doi.org/10.5281/zenodo.15579371
+
+- authors:
+  - Andrey Fedorov
+  - Daniela Schacherer
+  - Dennis Bontempi
+  - Bill Clifford
+  - Vamsi Thiriveedhi
+  - Brianna Major
+  - wlongabaugh
+  - dependabot[bot]
+  - Deepa Krishnaswamy
+  description: Self-guided notebook tutorials to help get started with IDC
+  license: BSD 3-Clause "New" or "Revised" License
+  name: IDC-Tutorials
+  publication_date: '2024-11-28T17:20:53+00:00'
+  submission_date: '2025-06-10T06:50:43.986339'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/ImagingDataCommons/IDC-Tutorials
+  
