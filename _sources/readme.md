@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 698 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-06-10.
+This Jupyter Book contains 699 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-06-10.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (140 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (243 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [DALIA Interchange Format](https://zenodo.org/records/11521029) by "Geiger, Jonathan and Steiner, Petra and Desouki, Abdelmoneim Amer and Lange, Frank" (86 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Research Data Management Seminar - Slides](https://zenodo.org/record/6602101) by "Della Chiesa, Stefano" (97 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (81 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Insights and Impact From Five Cycles of Essential Open Source Software for Science](https://zenodo.org/records/11201216) by "Hertweck, Kate and Strasser, Carly and Taraborelli, Dario" (47 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 

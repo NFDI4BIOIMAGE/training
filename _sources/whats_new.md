@@ -139,46 +139,6 @@ This dataset contains 4 .nd2 image files of pollen grains captured using a Nikon
 
 ---
 
-## OCELOT: Overlapped Cell on Tissue Dataset for Histopathology
-
-Jeongun Ryu, Aaron Valero Puche, JaeWoong Shin, Seonwook Park, Biagio Brattoli, Mohammad Mostafavi, Jinhee Lee, Sérgio Pereira, Wonkyung Jung, Soo Ick Cho, Chan-Young Ock, Kyunghyun Paeng, Donggeun Yoo
-
-Published 2023-03-23
-
-
-
-The OCELOT dataset is a histopathology dataset designed to facilitate the development of methods that utilize cell and tissue relationships. The dataset comprises both small and large field-of-view (FoV) patches extracted from digitally scanned whole slide images (WSIs), with overlapping regions. The small and large FoV patches are accompanied by annotations of cells and tissues, respectively. The WSIs are sourced from the publicly available TCGA database and were stained using the H&amp;E method before being scanned with an Aperio scanner.
-
-For more details, please check&nbsp;https://lunit-io.github.io/research/ocelot_dataset/.
-
-&nbsp;
-
-Before downloading the dataset, please make sure to carefully read and agree to the Terms and Conditions at (https://lunit-io.github.io/research/ocelot_tc/).
-
-Also, please provide 1. name, 2. e-mail address, 3. organization/company name.
-
-&nbsp;
-
------------------------------------------------------------------------------------
-
-Release note.
-
-In version 1.0.1, we exclude four test cases (586, 589, 609, 615) due to under-annotated issue.
-In version 1.0.0, we include&nbsp;images and annotations of validation and test splits.
-In version 0.1.2, we modified the coordinates of cell labels to range from 0 to 1023 (-1 from the previous coordinates).
-In version 0.1.1, we removed non-H&amp;E stained patches from the dataset.
-
-Tags: Ai-Ready
-
-Content type: Data
-
-[https://zenodo.org/records/8417503](https://zenodo.org/records/8417503)
-
-[https://doi.org/10.5281/zenodo.8417503](https://doi.org/10.5281/zenodo.8417503)
-
-
----
-
 ## Towards open and standardised imaging data: an introduction to Bio-Formats, OME-TIFF, and OME-Zarr
 
 Josh Moore
@@ -217,6 +177,31 @@ https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
 [https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
+
+
+---
+
+## [ELMI2025] The Road to OME-Zarr 1.0
+
+Josh Moore
+
+Published 2025-06-05
+
+Licensed CC-BY-4.0
+
+
+
+Presented at https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+&nbsp;
+Abstract
+For over 20 years, the Open Microscopy Environment (OME) has developed tools and specifications to support bioimaging data sharing. Technologies such as Bio-Formats, OMERO, and OME-TIFF have helped researchers manage the growing size, complexity, and acquisition rates of imaging datasets. However, with increasing mandates for research data management, such as the Nelson memo in the United States, and the shift toward cloud-native workflows, the bioimaging community faces new challenges in ensuring scalable and FAIR data infrastructure.
+In 2024, following expanding community engagement, the focus of the Next-Generation File Format (NGFF) community was on building consensus around a Request for Comments (RFC) process. This collaborative effort has laid the foundation for future refinements and wider adoption. In parallel, we hosted the &ldquo;OME2024 NGFF Challenge," bringing together over the course of just four months hundreds of terabytes of data in a first prototype of federated image hosting, showcasing the power of OME-Zarr for handling large-scale, distributed datasets.
+In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
+&nbsp;
+
+[https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
+
+[https://doi.org/10.5281/zenodo.15597856](https://doi.org/10.5281/zenodo.15597856)
 
 
 ---

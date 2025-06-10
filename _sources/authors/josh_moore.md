@@ -1,4 +1,4 @@
-# Josh moore (35)
+# Josh moore (36)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -130,7 +130,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -499,6 +499,31 @@ https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
 ---
 
+## [ELMI2025] The Road to OME-Zarr 1.0
+
+Josh Moore
+
+Published 2025-06-05
+
+Licensed CC-BY-4.0
+
+
+
+Presented at https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
+&nbsp;
+Abstract
+For over 20 years, the Open Microscopy Environment (OME) has developed tools and specifications to support bioimaging data sharing. Technologies such as Bio-Formats, OMERO, and OME-TIFF have helped researchers manage the growing size, complexity, and acquisition rates of imaging datasets. However, with increasing mandates for research data management, such as the Nelson memo in the United States, and the shift toward cloud-native workflows, the bioimaging community faces new challenges in ensuring scalable and FAIR data infrastructure.
+In 2024, following expanding community engagement, the focus of the Next-Generation File Format (NGFF) community was on building consensus around a Request for Comments (RFC) process. This collaborative effort has laid the foundation for future refinements and wider adoption. In parallel, we hosted the &ldquo;OME2024 NGFF Challenge," bringing together over the course of just four months hundreds of terabytes of data in a first prototype of federated image hosting, showcasing the power of OME-Zarr for handling large-scale, distributed datasets.
+In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
+&nbsp;
+
+[https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
+
+[https://doi.org/10.5281/zenodo.15597856](https://doi.org/10.5281/zenodo.15597856)
+
+
+---
+
 ## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
 
 Josh Moore
@@ -639,7 +664,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
