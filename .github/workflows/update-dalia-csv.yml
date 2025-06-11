@@ -1,9 +1,8 @@
 name: Update DALIA CSV on Resource Change
 
 on:
-  pull_request:
-    paths:
-      - 'resources/nfdi4bioimage.yml' 
+  schedule:
+    - cron: '0 6 1 * *'
 
 jobs:
   update-dalia-csv:
