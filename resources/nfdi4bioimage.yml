@@ -15033,7 +15033,7 @@ resources:
   - David A Gutman
   - Lee A D Cooper
   description: 'This repo contains the necessary information and download instructions to download the dataset associated with the paper: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083. This data can be visualized in a public instance of the Digital Slide Archive at this link. If you click the “eye” image icon in the Annotations panel on the right side of the screen, you will see the results of a collaborative annotation.'
-  license: MIT License
+  license: CC0
   name: Breast Cancer Semantic Segmentation (BCSS) dataset
   publication_date: '2019-11-09'
   tags:
