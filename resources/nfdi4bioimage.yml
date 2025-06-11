@@ -14950,7 +14950,7 @@ resources:
   - Michalis Michaelos 
   - Marius Pachitariu 
   description: 'This is a cellpose training dataset. Cellpose is a generalist deep learning model for cell segmentation.'
-  license: BSD-3-Clause
+  license: Custom license
   name: cellpose training data 
   publication_date: '2020-12-14'
   tags:
