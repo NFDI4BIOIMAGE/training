@@ -14909,7 +14909,7 @@ resources:
   description: 'A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images'
   license: CC-BY-4.0
   name: NuInsSeg
-  publication_date: '2024-05.14
+  publication_date: '2024-05-14'
   tags:
   - AI-ready
   type:
