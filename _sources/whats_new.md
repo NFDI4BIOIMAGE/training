@@ -51,33 +51,22 @@ Artificial intelligence that can respond to GitHub issues
 
 ---
 
-## HT1080WT cells embedded in 3D collagen type I matrices - manual annotations for cell instance segmentation and tracking
+## Explainable AI for Computer Vision
 
-Estibaliz Gómez-de-Mariscal, Hasini Jayatilaka, Denis Wirtz, Arrate Muñoz-Barrutia
+Robert Haase
 
-Published 2021-12-13
+Published 2025-03-09
 
 Licensed CC-BY-4.0
 
 
 
-Human fibrosarcoma HT1080WT (ATCC) cells at low cell densities embedded in 3D collagen type I matrices [1]. The time-lapse videos were recorded every 2 minutes for 16.7 hours and covered a field of view of 1002 pixels &times; 1004 pixels with a pixel size of 0.802 &mu;m/pixel The videos were pre-processed to correct frame-to-frame drift artifacts, resulting in a final size of 983 pixels &times; 985 pixels pixels.
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
 
-Hasini Jayatilaka, Anjil Giri, Michelle Karl, Ivie Aifuwa, Nicholaus J Trenton, Jude M Phillip, Shyam Khatau, and Denis Wirtz. EB1 and cytoplasmic dynein mediate protrusion dynamics for efficient 3-dimensional cell migration. FASEB J., 32(3):1207&ndash;1221, 2018. ISSN 0892-6638. doi: 10.1096/fj.201700444RR.
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
-Further information about how to use this data is given in&nbsp;https://github.com/esgomezm/microscopy-dl-suite-tf
-
-This dataset is provided together with the following preprint and if you use it, we would like to kindly ask you to cite it properly:
-
-Estibaliz G&oacute;mez-de-Mariscal, Hasini Jayatilaka, &Ouml;zg&uuml;n &Ccedil;i&ccedil;ek, Thomas Brox, Denis Wirtz, Arrate Mu&ntilde;oz-Barrutia, *Search for temporal cell segmentation robustness in phase-contrast microscopy videos*, arXiv 2021 (arXiv:2112.08817)
-
-Tags: Ai-Ready
-
-Content type: Data
-
-[https://zenodo.org/records/5979761](https://zenodo.org/records/5979761)
-
-[https://doi.org/10.5281/zenodo.5979761](https://doi.org/10.5281/zenodo.5979761)
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
 
 
 ---
@@ -208,7 +197,7 @@ In 2025, we are set to take a major step toward a stable FAIR solution with OME-
 
 ## [NFDI Tech Talk] Cloud Based Image Science
 
-Robert Haase
+Josh Moore, Yi Sun
 
 Published 2025-06-02
 

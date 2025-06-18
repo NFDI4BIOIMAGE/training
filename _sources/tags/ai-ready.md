@@ -1,4 +1,88 @@
-# Ai-ready (53)
+# Ai-ready (84)
+## 3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes
+
+Alain Chen, Liming Wu, Seth Winfree, Kenneth Dunn, Paul Salama, Edward Delp, Teresa Zulueta-Coarasa
+
+Published 2024-12-20
+
+Licensed CC-BY-4.0
+
+
+
+This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/)
+
+
+---
+
+## 3D HL60 Cell line (synthetic data)
+
+David Svoboda, Michal Kozubkek, Stanislav Stejskal
+
+Published 2009-06-01
+
+Licensed CC-BY-3.0
+
+
+
+One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two diferent levels of quality: high SNR and low SNR.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC024](https://bbbc.broadinstitute.org/BBBC024)
+
+
+---
+
+## 3D cell shape of Drosophila Wing Disc
+
+Giulia Paci, Ines Fernandez Mosquera, Pablo Vicente Munuera, Yanlan Mao
+
+Published 2023-08-14
+
+Licensed CC0-1.0
+
+
+
+Segmentation masks of individual cells in Drosophila wing discs
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html](https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html)
+
+
+---
+
+## 3D light-sheet microscopy data for SELMA3D 2024 challenge - Training subset with annotations
+
+Ying Chen, Johannes C. Paetzold, Ali Erturk, Doris Kaltenecker, Mihail Todorov, Harsharan Singh Bhatia, Shan Zhao, Luciano Höher
+
+Published 2024-06-05
+
+Licensed CC-BY-4.0
+
+
+
+This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/)
+
+
+---
+
 ## 3D nuclei instance segmentation dataset of fluorescence microscopy volumes of C. elegans
 
 Fuhui Long, Hanchuan Peng, Xiao Liu, Stuart K Kim, Eugene Myers, Dagmar Kainmüller, Martin Weigert
@@ -65,6 +149,27 @@ Content type: Data
 
 ---
 
+## An annotated fluorescence image dataset for training nuclear segmentation methods
+
+Sabine Taschner-Mandl, Inge M. Ambros, Peter F. Ambros, Klaus Beiske, Allan Hanbury, Wolfgang Doerr, Tamara Weiss, Maria Berneder, Magdalena Ambros, Eva Bozsaky, Florian Kromp, Teresa Zulueta-Coarasa
+
+Published 2023-03-07
+
+Licensed CC0-1.0
+
+
+
+Ground-truth annotated fluorescence image dataset for training nuclear segmentation methods
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html](https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html)
+
+
+---
+
 ## An annotated high-content fluorescence microscopy dataset with Hoechst 33342-stained nuclei and manually labelled outlines
 
 Malou Arvidsson, Salma Kazemi Rashed, Sonja Aits
@@ -94,6 +199,48 @@ Content type: Data
 [https://zenodo.org/records/6657260](https://zenodo.org/records/6657260)
 
 [https://doi.org/10.5281/zenodo.6657260](https://doi.org/10.5281/zenodo.6657260)
+
+
+---
+
+## An image-based data-driven analysis of cellular architecture in a developing tissue
+
+Jonas Hartmann, Mie Wong, Elisa Gallo, Darren Gilmour
+
+Published 2022-12-13
+
+Licensed CC-BY-4.0
+
+
+
+3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html](https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html)
+
+
+---
+
+## Assessment of Residual Breast Cancer Cellularity after Neoadjuvant Chemotherapy using Digital Pathology
+
+Mohammad Peikari, Sherine Salama, Sharon Nofech-Mozes, Anne L. Martel
+
+Published 2017-10-04
+
+Licensed CC-BY-3.0
+
+
+
+Breast cancer (BC) is the second most commonly diagnosed cancer in the U.S. with more than 250,000 new cases of invasive breast cancers reported in 2017. The majority of women with locally advanced and a subset of patients with operable breast cancer will undergo systemic therapy prior to their surgery (neoadjuvant therapy/ NAT) to reduce the size of tumor(s) and possibly further undergo breast conserving surgery. The Post-NAT-BRCA dataset is a collection of representative sections from breast resections in patients with residual invasive BC following NAT. Histologic sections were prepared and digitized to produce high resolution, microscopic images of treated BC tumors. Also included, are clinical features and expert pathology annotations of tumor cellularity and cell types. The Residual Cancer Burden Index (RCBi), is a clinically validated tool for assessment of response to NAT associated with prognosis. Tumor cellularity is one of the parameters used for calculating the RCBi. In this dataset, tumor cellularity refers to a measure of residual disease after NAT, in the form of proportion of malignant tumor inside the tumor bed region; also annotated. (See MD Anderson RCB Calculator for a detailed description of tumor cellularity.) Malignant, healthy, lymphocyte and other labels were also provided for individual cells to aid development of cell segmentation algorithms.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.cancerimagingarchive.net/collection/post-nat-brca/](https://www.cancerimagingarchive.net/collection/post-nat-brca/)
 
 
 ---
@@ -153,6 +300,27 @@ Content type: Data
 
 ---
 
+## BCCD Dataset
+
+Shenggan Gan, Nicolas Chen
+
+Published 2017-12-07
+
+Licensed MIT
+
+
+
+BCCD Dataset is a small-scale dataset for blood cells detection.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/Shenggan/BCCD_Dataset](https://github.com/Shenggan/BCCD_Dataset)
+
+
+---
+
 ## Breast Cancer Nuclei images for DL Training + ZeroCostDL4Mic StarDist Model
 
 Ofra Golani, Vishnu Mohan, Tamar Geiger
@@ -182,6 +350,27 @@ Content type: Data
 [https://zenodo.org/records/11235393](https://zenodo.org/records/11235393)
 
 [https://doi.org/10.5281/zenodo.11235393](https://doi.org/10.5281/zenodo.11235393)
+
+
+---
+
+## Breast Cancer Semantic Segmentation (BCSS) dataset
+
+Mohamed Amgad, Habiba Elfandy, Hagar Hussein, Lamees A Atteya, Mai A T Elsebaie, Lamia S Abo Elnasr, Rokia A Sakr, Hazem S E Salem, Ahmed F Ismail, Anas M Saad, Joumana Ahmed, Maha A T Elsebaie, Mustafijur Rahman, Inas A Ruhban, Nada M Elgazar, Yahya Alagha, Mohamed H Osman, Ahmed M Alhusseiny, Mariam M Khalaf, Abo-Alela F Younes, Ali Abdulkarim, Duaa M Younes, Ahmed M Gadallah, Ahmad M Elkashash, Salma Y Fala, Basma M Zaki, Jonathan Beezley, Deepak R Chittajallu, David Manthey, David A Gutman, Lee A D Cooper
+
+Published 2019-11-09
+
+Licensed CC0-1.0
+
+
+
+This repo contains the necessary information and download instructions to download the dataset associated with the paper: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083. This data can be visualized in a public instance of the Digital Slide Archive at this link. If you click the “eye” image icon in the Annotations panel on the right side of the screen, you will see the results of a collaborative annotation.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/PathologyDataScience/BCSS](https://github.com/PathologyDataScience/BCSS)
 
 
 ---
@@ -288,6 +477,27 @@ Content type: Data
 
 ---
 
+## Chinese Hamster Ovary Cells
+
+Krisztian Koos, József Molnár, Lóránd Kelemen, Gábor Tamás, Peter Horvath
+
+Published 2016-07-29
+
+Licensed CC-BY-3.0
+
+
+
+The image set consists of 60 Differential Interference Contrast (DIC) images of Chinese Hamster Ovary (CHO) cells. The images are taken on an Olympus Cell-R microscope with a 20x lens at the time when the cell initiated their attachment to the bottom of the dish.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC030](https://bbbc.broadinstitute.org/BBBC030)
+
+
+---
+
 ## Combining StarDist and TrackMate example 1 -  Breast cancer cell dataset
 
 Guillaume Jacquemet
@@ -385,6 +595,27 @@ Content type: Data
 [https://zenodo.org/records/4034939](https://zenodo.org/records/4034939)
 
 [https://doi.org/10.5281/zenodo.4034939](https://doi.org/10.5281/zenodo.4034939)
+
+
+---
+
+## CryoNuSeg
+
+Amirreza Mahbod, Benjamin Bancher, Isabella Ellinger, Deyun Zhang, Syed Nauyan Rashid
+
+Published 2019-12-31
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+A Dataset for Nuclei Segmentation of Cryosectioned H&E-Stained Histologic Images
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images](https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images)
 
 
 ---
@@ -719,6 +950,27 @@ Content type: Data
 
 ---
 
+## Drosophila Kc167 cells
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+Drosophila melanogaster Kc167 cells were stained for DNA (to label nuclei) and actin (a cytoskeletal protein, to show the cell body). Automatic cytometry requires that cells be segmented, i.e., that the pixels belonging to each cell be identified. Because segmenting nuclei and distinguishing foreground from background is comparatively easy for these images, the focus here is on finding the boundaries between adjacent cells.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC007](https://bbbc.broadinstitute.org/BBBC007)
+
+
+---
+
 ## Effect of local topography on cell division of Staphylococci sp.
 
 Sorzabal Bellido, Ioritz, Luca Barbieri, Beckett, Alison J., Prior, Ian A., Arturo Susarrey-Arce, Tiggelaar, Roald M., Jo Forthergill, Rasmita Raval, Diaz Fernandez, Yuri A.
@@ -750,6 +1002,27 @@ Content type: Data
 
 ---
 
+## Embryonic mice ultrasound volumes with body and brain volume segmentation masks
+
+Ziming Qiu, Matthew Hartley
+
+Published 2023-05-10
+
+Licensed CC0-1.0
+
+
+
+Ultrasound images of mouse embryos with body and brain volume segmentation masks
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html](https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html)
+
+
+---
+
 ## Fiber and vessel dataset for segmentation and characterization
 
 Saqib Qamar, Baba, Abu Imran, Stèphane Verger, Magnus Andersson
@@ -769,6 +1042,48 @@ Content type: Data
 [https://zenodo.org/records/10913446](https://zenodo.org/records/10913446)
 
 [https://doi.org/10.5281/zenodo.10913446](https://doi.org/10.5281/zenodo.10913446)
+
+
+---
+
+## Go-Nuclear. A deep learning-based toolkit for 3D nuclei segmentation and quantitative analysis in cellular and tissue context
+
+Kay Schneitz, Athul Vijayan, Tejasvinee Mody
+
+Published 2024-06-29
+
+Licensed CC0-1.0
+
+
+
+We present computational tools that allow versatile and accurate 3D nuclear segmentation in plant organs, enable the analysis of cell-nucleus geometric relationships, and improve the accuracy of 3D cell segmentation. This biostudies submission includes Arabidopsis ovule model training dataset used in the study. The training dataset is composed of strong and weak nuclei image channels, corresponding ground truth segmentation, cell wall image and associated cell segmentation mentioned in the study. Trained models from the study, a total of 47 trained models are made available from this study. This included 15 initial models, 30 gold models, and 2 platinum models. Models were trained using PlantSeg, Stardist and Cellpose. All image datasets and its segmentation as part of the figures in this study is also available as separate zip files. This includes image dataset from different species and organs as listed below.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/)
+
+
+---
+
+## Ground-truth cell body segmentation used for Starfinity training
+
+Yuhan Wang, Martin Weigert, Uwe Schmidt, Stephan Saalfeld, Eugene W. Myers, Tim Wang, Karel Svoboda, Mark Eddison, Greg Fleishman, Shengjin Xu, Fredrick E. Henry, Andrew L. Lemire, Hui Yang, Konrad Rokicki, Cristian Goina, Eugene W Myers, Wyatt Korff, Scott M. Sternson, Paul W. Tillberg
+
+Published 2021-03-05
+
+Licensed CC-BY-4.0
+
+
+
+Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268](https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268)
 
 
 ---
@@ -827,6 +1142,48 @@ Content type: Data
 
 ---
 
+## Human HT29 colon-cancer cells
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC-BY-NC-SA-3.0
+
+
+
+These images are of human HT29 colon cancer cells, a cell line that has been widely used for the study of many normal and neoplastic processes. A set of about 43,000 such images was used by Moffat et al. (Cell, 2006) to screen for mitotic regulators. The analysis followed the common pattern of identifying and counting cells with a phenotype of interest (in this case, cells that were in mitosis), then normalizing the count by dividing by the total number of cells. Such experiments present two image analysis problems. First, identifying the cells that have the phenotype of interest requires that the nuclei and cells be segmented. Second, normalizing requires an accurate cell count.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC008](https://bbbc.broadinstitute.org/BBBC008)
+
+
+---
+
+## Human Hepatocyte and Murine Fibroblast cells Co-culture experiment
+
+David J. Logan, Jing Shan, Sangeeta N. Bhatia, Anne E. Carpenter
+
+Published 2016-03-01
+
+Licensed CC-BY-3.0
+
+
+
+This 384-well plate has images of co-cultured hepatocytes and fibroblasts. Every other well is populated (A01, A03, ..., C01, C03, ...) such that 96 wells comprise the data. Each well has 9 sites and thus 9 images associated, totaling 864 images.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC026](https://bbbc.broadinstitute.org/BBBC026)
+
+
+---
+
 ## Human Lung Tissue Microscopy (DIC, Fluorescence, Cell and Nuclei Semantic Instance Annotations)
 
 Melanie Dohmen, Mirja Mittermaier, Andreas Hocke
@@ -846,6 +1203,27 @@ Content type: Data
 [https://zenodo.org/records/10669918](https://zenodo.org/records/10669918)
 
 [https://doi.org/10.5281/zenodo.10669918](https://doi.org/10.5281/zenodo.10669918)
+
+
+---
+
+## Human U2OS cells (out of focus)
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+Since robust foreground/background separation and segmentation of cellular objects (i.e., identification of which pixels below to which objects) strongly depends on image quality, focus artifacts are detrimental to data quality. This image set provides examples of in- and out-of-focus HCS images which can be used for validation of focus metrics.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC006](https://bbbc.broadinstitute.org/BBBC006)
 
 
 ---
@@ -933,6 +1311,27 @@ Content type: Data
 
 ---
 
+## MIDOG 2021
+
+Marc Aubreville, Frauke Wilm
+
+Published 2021-03-16
+
+Licensed UNLICENSED
+
+
+
+Mitosis domain generation. Here you can find code of our own evaluations and a dockered reference algorithm for mitotic figures to use as a template.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/DeepMicroscopy/MIDOG](https://github.com/DeepMicroscopy/MIDOG)
+
+
+---
+
 ## Melanoma Histopathology Dataset with Tissue and Nuclei Annotations
 
 Mark Schuiveling
@@ -999,6 +1398,69 @@ Content type: Data
 
 ---
 
+## MoNuSeg Dataset
+
+Neeraj Kumar, Ruchika Verma, Sanuj Sharma, Surabhi Bhargava, Abhishek Vahadane, Amit Sethi
+
+Published 2017-07-01
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://monuseg.grand-challenge.org/Data/](https://monuseg.grand-challenge.org/Data/)
+
+
+---
+
+## MonuSAC 2020
+
+Ruchika Verma, Neeraj Kumar, Abhijeet Patil, Nikhil Cherian Kurian, Swapnil Rane, Simon Graham
+
+Published 2021-06-04
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+H&E staining of human tissue sections is a routine and most common protocol used by pathologists to enhance the contrast of tissue sections for tumor assessment (grading, staging, etc.) at multiple microscopic resolutions. Hence, we will provide the annotated dataset of H&E stained digitized tissue images of several patients acquired at multiple hospitals using one of the most common 40x scanner magnification. The annotations will be done with the help of expert pathologists.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://monusac-2020.grand-challenge.org/Data/](https://monusac-2020.grand-challenge.org/Data/)
+
+
+---
+
+## Mouse embryo blastocyst cells
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+Segmenting nuclei in 3D images can be challenging especially when nuclei are clustered not only in XY plane but also in XZ and YZ planes. Manually annotated ground truth provides a reference for image analysis software testing purposes. These images of mouse embryo blastocyst cells also have changing nuclei intensity in Z plane which makes finding the right threshold for successful segmentation a difficult task. This image set also contains GAPDH transcripts that can be quantified in each cell.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC032](https://bbbc.broadinstitute.org/BBBC032)
+
+
+---
+
 ## NeurIPS 2022 Cell Segmentation Competition Dataset
 
 Jun Ma, Ronald Xie, Shamini Ayyadhury, Cheng Ge, Anubha Gupta, Ritu Gupta, Song Gu, Yao Zhang, Gihun Lee, Joonkee Kim, Wei Lou, Haofeng Li, Eric Upschulte, Timo Dickscheid, de Almeida, José Guilherme, Yixin Wang, Lin Han, Xin Yang, Marco Labagnara, Vojislav Gligorovski, Maxime Scheder, Rahi, Sahand Jamal, Carly Kempster, Alice Pollitt, Leon Espinosa, Tam Mignot, Middeke, Jan Moritz, Jan-Niklas Eckardt, Wangkai Li, Zhaoyang Li, Xiaochen Cai, Bizhe Bai, Greenwald, Noah F., Van Valen, David, Erin Weisbart, Cimini, Beth A, Trevor Cheung, Oscar Brück, Bader, Gary D., Bo Wang
@@ -1035,6 +1497,69 @@ Content type: Data
 [https://zenodo.org/records/10719375](https://zenodo.org/records/10719375)
 
 [https://doi.org/10.5281/zenodo.10719375](https://doi.org/10.5281/zenodo.10719375)
+
+
+---
+
+## NuInsSeg
+
+Amirreza Mahbod, Christine Polak, Katharina Feldmann, Rumsha Khan, Katharina Gelles, Georg Dorffner, Ramona Woitek, Sepideh Hatamikia, Isabella Ellinger
+
+Published 2024-05-14
+
+Licensed CC-BY-4.0
+
+
+
+A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.kaggle.com/datasets/ipateam/nuinsseg](https://www.kaggle.com/datasets/ipateam/nuinsseg)
+
+
+---
+
+## Nuclei of U2OS cells in a chemical screen
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+This image set is part of a high-throughput chemical screen on U2OS cells, with examples of 200 bioactive compounds. The effect of the treatments was originally imaged using the Cell Painting assay (fluorescence microscopy). This data set only includes the DNA channel of a single field of view per compound. These images present a variety of nuclear phenotypes, representative of high-throughput chemical perturbations. The main use of this data set is the study of segmentation algorithms that can separate individual nucleus instances in an accurate way, regardless of their shape and cell density. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC039](https://bbbc.broadinstitute.org/BBBC039)
+
+
+---
+
+## Nuclei of mouse embryonic cells
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+Cell dynamics during the early mouse embryogenesis change spatiotemporally. For understanding the mechanism of this developmental process, imaging cell dynamics by live-cell imaging of fluorescently labeled nuclei and performing nuclei segmentation of these images by image processing are essential. This dataset contains the fluorescence images and Ground Truth used when performing nuclei segmentation using deep learning. Fluorescence images are time-series images from fertilization to blastocyst formation. Ground Truth is supervised data of the cell nuclear region.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC050](https://bbbc.broadinstitute.org/BBBC050)
 
 
 ---
@@ -1131,6 +1656,27 @@ Content type: Data
 [https://zenodo.org/records/3675220](https://zenodo.org/records/3675220)
 
 [https://doi.org/10.5281/zenodo.3675220](https://doi.org/10.5281/zenodo.3675220)
+
+
+---
+
+## Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides
+
+Wenqi Tang, MIC Group
+
+Published 2021-12-12
+
+Licensed UNLICENSED
+
+
+
+This repo is the official implementation of our paper "Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides".
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/bupt-ai-cz/BALNMP](https://github.com/bupt-ai-cz/BALNMP)
 
 
 ---
@@ -1234,6 +1780,27 @@ Content type: Data
 [https://zenodo.org/records/5220610](https://zenodo.org/records/5220610)
 
 [https://doi.org/10.5281/zenodo.5220610](https://doi.org/10.5281/zenodo.5220610)
+
+
+---
+
+## Simulated HL60 cells (from the Cell Tracking Challenge)
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC0-1.0
+
+
+
+These are synthetic images from the Cell Tracking Challenge. The images depict simulated nuclei of HL60 cells stained with Hoescht (training datasets). These synthetic images of HL60 cells provide an opportunity to test image analysis software by comparing segmentation results to the available ground truth for each time point. The number of clustered nuclei increases with time adding more complexity to the problem. This time-laps dataset can be used for simple segmentation or for nuclei tracking.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC035](https://bbbc.broadinstitute.org/BBBC035)
 
 
 ---
@@ -2216,6 +2783,69 @@ Content type: Data
 
 ---
 
+## Synthetic cells
+
+Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
+
+Published 2012-06-28
+
+Licensed CC-BY-NC-SA-3.0
+
+
+
+One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of five subsets with increasing degree of clustering.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://bbbc.broadinstitute.org/BBBC004](https://bbbc.broadinstitute.org/BBBC004)
+
+
+---
+
+## Synthetic images and segmentation masks simulating HL-60 cell nucleus in 3D
+
+David Svoboda, Michal Kozubek, Stanislav Stejskal, Teresa Zulueta-Coarasa
+
+Published 2024-11-26
+
+Licensed CC-BY-3.0
+
+
+
+One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two different levels of quality: high SNR and low SNR.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/)
+
+
+---
+
+## TNBC
+
+Naylor Peter Jack, Walter Thomas, Laé Marick, Reyal Fabien
+
+Published 2018-02-16
+
+Licensed CC-BY-4.0
+
+
+
+Involves an annotated large number of cells, including normal epithelial and myoepithelial breast cells (localized in ducts and lobules), invasive carcinomatous cells, fibroblasts, endothelial cells, adipocytes, macrophages and inflammatory cells (lymphocytes and plasmocytes). In total, our data set consists of 50 images with a total of 4022 annotated cells, the maximum number of cells in one sample is 293 and the minimum number of cells in one sample is 5, with an average of 80 cells per sample and a high standard deviation of 58. The annotation was performed by three experts: an expert pathologist and two trained research fellows. Each sample was annotated by one of the annotators, checked by another one and in case of disagreement, a consensus was established by discussion among the 3 experts.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://paperswithcode.com/dataset/tnbc](https://paperswithcode.com/dataset/tnbc)
+
+
+---
+
 ## Training set of microscopy images for Dietler et al. Nature Communications 2020
 
 Nicola Dietler, Matthias Minder, Vojislav Gligorovski, Economou, Augoustina Maria, Joly, Denis Alain Henri Lucien, Ahmad Sadeghi, Chan, Chun Hei Michael, Mateusz Kozinski, Martin Weigert, Anne-Florence Bitbol, Rahi, Sahand Jamal
@@ -2396,6 +3026,27 @@ Content type: Data
 [https://zenodo.org/records/3715492](https://zenodo.org/records/3715492)
 
 [https://doi.org/10.5281/zenodo.3715492](https://doi.org/10.5281/zenodo.3715492)
+
+
+---
+
+## cellpose training data
+
+Carsen Stringer, Tim Wang, Michalis Michaelos, Marius Pachitariu
+
+Published 2020-12-14
+
+Licensed CUSTOM LICENSE
+
+
+
+This is a cellpose training dataset. Cellpose is a generalist deep learning model for cell segmentation.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.cellpose.org/dataset](https://www.cellpose.org/dataset)
 
 
 ---

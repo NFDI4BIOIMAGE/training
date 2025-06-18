@@ -1,4 +1,4 @@
-# Cc-by-4.0 (342)
+# Cc-by-4.0 (349)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -60,6 +60,27 @@ Licensed CC-BY-4.0
 
 ---
 
+## 3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes
+
+Alain Chen, Liming Wu, Seth Winfree, Kenneth Dunn, Paul Salama, Edward Delp, Teresa Zulueta-Coarasa
+
+Published 2024-12-20
+
+Licensed CC-BY-4.0
+
+
+
+This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/)
+
+
+---
+
 ## 3D Nuclei annotations and StarDist 3D model(s) (rat brain)
 
 Romain Guiet
@@ -95,6 +116,27 @@ These images were obtained using the plugin BigSticher on the raw data ( https:/
 [https://zenodo.org/records/6645978](https://zenodo.org/records/6645978)
 
 [https://doi.org/10.5281/zenodo.6645978](https://doi.org/10.5281/zenodo.6645978)
+
+
+---
+
+## 3D light-sheet microscopy data for SELMA3D 2024 challenge - Training subset with annotations
+
+Ying Chen, Johannes C. Paetzold, Ali Erturk, Doris Kaltenecker, Mihail Todorov, Harsharan Singh Bhatia, Shan Zhao, Luciano Höher
+
+Published 2024-06-05
+
+Licensed CC-BY-4.0
+
+
+
+This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/](https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/)
 
 
 ---
@@ -417,6 +459,27 @@ Content type: Data
 [https://zenodo.org/records/6657260](https://zenodo.org/records/6657260)
 
 [https://doi.org/10.5281/zenodo.6657260](https://doi.org/10.5281/zenodo.6657260)
+
+
+---
+
+## An image-based data-driven analysis of cellular architecture in a developing tissue
+
+Jonas Hartmann, Mie Wong, Elisa Gallo, Darren Gilmour
+
+Published 2022-12-13
+
+Licensed CC-BY-4.0
+
+
+
+3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html](https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html)
 
 
 ---
@@ -2947,6 +3010,26 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 
 ---
 
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
+
+
+---
+
 ## FAIR BioImage Data
 
 Licensed CC-BY-4.0
@@ -3324,6 +3407,27 @@ This document reports on the first in-person workshop supported by GloBIAS. Each
 [https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
 
 [https://doi.org/10.5281/zenodo.15168241](https://doi.org/10.5281/zenodo.15168241)
+
+
+---
+
+## Ground-truth cell body segmentation used for Starfinity training
+
+Yuhan Wang, Martin Weigert, Uwe Schmidt, Stephan Saalfeld, Eugene W. Myers, Tim Wang, Karel Svoboda, Mark Eddison, Greg Fleishman, Shengjin Xu, Fredrick E. Henry, Andrew L. Lemire, Hui Yang, Konrad Rokicki, Cristian Goina, Eugene W Myers, Wyatt Korff, Scott M. Sternson, Paul W. Tillberg
+
+Published 2021-03-05
+
+Licensed CC-BY-4.0
+
+
+
+Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268](https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268)
 
 
 ---
@@ -5453,6 +5557,27 @@ Content type: Slides
 
 ---
 
+## NuInsSeg
+
+Amirreza Mahbod, Christine Polak, Katharina Feldmann, Rumsha Khan, Katharina Gelles, Georg Dorffner, Ramona Woitek, Sepideh Hatamikia, Isabella Ellinger
+
+Published 2024-05-14
+
+Licensed CC-BY-4.0
+
+
+
+A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://www.kaggle.com/datasets/ipateam/nuinsseg](https://www.kaggle.com/datasets/ipateam/nuinsseg)
+
+
+---
+
 ## OME Documentation
 
 Licensed CC-BY-4.0
@@ -7575,6 +7700,27 @@ Content type: Data
 
 ---
 
+## TNBC
+
+Naylor Peter Jack, Walter Thomas, Laé Marick, Reyal Fabien
+
+Published 2018-02-16
+
+Licensed CC-BY-4.0
+
+
+
+Involves an annotated large number of cells, including normal epithelial and myoepithelial breast cells (localized in ducts and lobules), invasive carcinomatous cells, fibroblasts, endothelial cells, adipocytes, macrophages and inflammatory cells (lymphocytes and plasmocytes). In total, our data set consists of 50 images with a total of 4022 annotated cells, the maximum number of cells in one sample is 293 and the minimum number of cells in one sample is 5, with an average of 80 cells per sample and a high standard deviation of 58. The annotation was performed by three experts: an expert pathologist and two trained research fellows. Each sample was annotated by one of the annotators, checked by another one and in case of disagreement, a consensus was established by discussion among the 3 experts.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://paperswithcode.com/dataset/tnbc](https://paperswithcode.com/dataset/tnbc)
+
+
+---
+
 ## Ten simple rules for making training materials FAIR
 
 Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
@@ -8722,7 +8868,7 @@ Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 
 
 ## [NFDI Tech Talk] Cloud Based Image Science
 
-Robert Haase
+Josh Moore, Yi Sun
 
 Published 2025-06-02
 

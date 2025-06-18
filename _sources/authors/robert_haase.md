@@ -526,6 +526,26 @@ Content type: Publication, Poster
 
 ---
 
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
+
+
+---
+
 ## Generative artificial intelligence for bio-image analysis
 
 Robert Haase
@@ -1320,26 +1340,6 @@ Tags: Python, Artifical Intelligence, Bioimage Analysis
 Content type: Github Repository, Slides
 
 [https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
-
-
----
-
-## [NFDI Tech Talk] Cloud Based Image Science
-
-Robert Haase
-
-Published 2025-06-02
-
-Licensed CC-BY-4.0
-
-
-
-Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
-See http://nfdi.de/talks for more information.
-
-[https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
-
-[https://doi.org/10.5281/zenodo.15575379](https://doi.org/10.5281/zenodo.15575379)
 
 
 ---

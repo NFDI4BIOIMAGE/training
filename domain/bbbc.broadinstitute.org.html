@@ -1,0 +1,766 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Bbbc.broadinstitute.org (12) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'domain/bbbc.broadinstitute.org';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Biapol.github.io (7)" href="biapol.github.io.html" />
+    <link rel="prev" title="Unknown (109)" href="../licenses/unknown.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="2025-06-18"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../tags/ai-ready.html">Ai-ready (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (199)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (140)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (92)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (60)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (55)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/apache-2.0.html">Apache-2.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-3.0.html">Cc-by-3.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (349)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-nc-sa-4.0.html">Cc-by-nc-sa-4.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (25)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (109)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Bbbc.broadinstitute.org (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="biapol.github.io.html">Biapol.github.io (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="docs.google.com.html">Docs.google.com (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doi.org.html">Doi.org (279)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="f1000research.com.html">F1000research.com (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="github.com.html">Github.com (141)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="www.biorxiv.org.html">Www.biorxiv.org (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="www.ebi.ac.uk.html">Www.ebi.ac.uk (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="www.nature.com.html">Www.nature.com (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="www.youtube.com.html">Www.youtube.com (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="zenodo.org.html">Zenodo.org (265)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gdpr_compliance.html">GDPR Compliance Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fdomain/bbbc.broadinstitute.org.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/domain/bbbc.broadinstitute.org.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Bbbc.broadinstitute.org (12)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#d-hl60-cell-line-synthetic-data">3D HL60 Cell line (synthetic data)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#annotated-high-throughput-microscopy-image-sets-for-validation">Annotated high-throughput microscopy image sets for validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#chinese-hamster-ovary-cells">Chinese Hamster Ovary Cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#drosophila-kc167-cells">Drosophila Kc167 cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-ht29-colon-cancer-cells">Human HT29 colon-cancer cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-hepatocyte-and-murine-fibroblast-cells-co-culture-experiment">Human Hepatocyte and Murine Fibroblast cells Co-culture experiment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-u2os-cells-out-of-focus">Human U2OS cells (out of focus)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mouse-embryo-blastocyst-cells">Mouse embryo blastocyst cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nuclei-of-u2os-cells-in-a-chemical-screen">Nuclei of U2OS cells in a chemical screen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nuclei-of-mouse-embryonic-cells">Nuclei of mouse embryonic cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#simulated-hl60-cells-from-the-cell-tracking-challenge">Simulated HL60 cells (from the Cell Tracking Challenge)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#synthetic-cells">Synthetic cells</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="bbbc-broadinstitute-org-12">
+<h1><a class="reference external" href="http://Bbbc.broadinstitute.org">Bbbc.broadinstitute.org</a> (12)<a class="headerlink" href="#bbbc-broadinstitute-org-12" title="Link to this heading">#</a></h1>
+<section id="d-hl60-cell-line-synthetic-data">
+<h2>3D HL60 Cell line (synthetic data)<a class="headerlink" href="#d-hl60-cell-line-synthetic-data" title="Link to this heading">#</a></h2>
+<p>David Svoboda, Michal Kozubkek, Stanislav Stejskal</p>
+<p>Published 2009-06-01</p>
+<p>Licensed CC-BY-3.0</p>
+<p>One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two diferent levels of quality: high SNR and low SNR.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC024">https://bbbc.broadinstitute.org/BBBC024</a></p>
+</section>
+<hr class="docutils" />
+<section id="annotated-high-throughput-microscopy-image-sets-for-validation">
+<h2>Annotated high-throughput microscopy image sets for validation<a class="headerlink" href="#annotated-high-throughput-microscopy-image-sets-for-validation" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L Sokolnicki, Anne E Carpenter</p>
+<p>Broad Bioimage Benchmark Collection (BBBC)</p>
+<p>Content type: Collection, Data</p>
+<p><a class="reference external" href="https://www.nature.com/articles/nmeth.2083">https://www.nature.com/articles/nmeth.2083</a></p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/">https://bbbc.broadinstitute.org/</a></p>
+</section>
+<hr class="docutils" />
+<section id="chinese-hamster-ovary-cells">
+<h2>Chinese Hamster Ovary Cells<a class="headerlink" href="#chinese-hamster-ovary-cells" title="Link to this heading">#</a></h2>
+<p>Krisztian Koos, József Molnár, Lóránd Kelemen, Gábor Tamás, Peter Horvath</p>
+<p>Published 2016-07-29</p>
+<p>Licensed CC-BY-3.0</p>
+<p>The image set consists of 60 Differential Interference Contrast (DIC) images of Chinese Hamster Ovary (CHO) cells. The images are taken on an Olympus Cell-R microscope with a 20x lens at the time when the cell initiated their attachment to the bottom of the dish.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC030">https://bbbc.broadinstitute.org/BBBC030</a></p>
+</section>
+<hr class="docutils" />
+<section id="drosophila-kc167-cells">
+<h2>Drosophila Kc167 cells<a class="headerlink" href="#drosophila-kc167-cells" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>Drosophila melanogaster Kc167 cells were stained for DNA (to label nuclei) and actin (a cytoskeletal protein, to show the cell body). Automatic cytometry requires that cells be segmented, i.e., that the pixels belonging to each cell be identified. Because segmenting nuclei and distinguishing foreground from background is comparatively easy for these images, the focus here is on finding the boundaries between adjacent cells.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC007">https://bbbc.broadinstitute.org/BBBC007</a></p>
+</section>
+<hr class="docutils" />
+<section id="human-ht29-colon-cancer-cells">
+<h2>Human HT29 colon-cancer cells<a class="headerlink" href="#human-ht29-colon-cancer-cells" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC-BY-NC-SA-3.0</p>
+<p>These images are of human HT29 colon cancer cells, a cell line that has been widely used for the study of many normal and neoplastic processes. A set of about 43,000 such images was used by Moffat et al. (Cell, 2006) to screen for mitotic regulators. The analysis followed the common pattern of identifying and counting cells with a phenotype of interest (in this case, cells that were in mitosis), then normalizing the count by dividing by the total number of cells. Such experiments present two image analysis problems. First, identifying the cells that have the phenotype of interest requires that the nuclei and cells be segmented. Second, normalizing requires an accurate cell count.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC008">https://bbbc.broadinstitute.org/BBBC008</a></p>
+</section>
+<hr class="docutils" />
+<section id="human-hepatocyte-and-murine-fibroblast-cells-co-culture-experiment">
+<h2>Human Hepatocyte and Murine Fibroblast cells Co-culture experiment<a class="headerlink" href="#human-hepatocyte-and-murine-fibroblast-cells-co-culture-experiment" title="Link to this heading">#</a></h2>
+<p>David J. Logan, Jing Shan, Sangeeta N. Bhatia, Anne E. Carpenter</p>
+<p>Published 2016-03-01</p>
+<p>Licensed CC-BY-3.0</p>
+<p>This 384-well plate has images of co-cultured hepatocytes and fibroblasts. Every other well is populated (A01, A03, …, C01, C03, …) such that 96 wells comprise the data. Each well has 9 sites and thus 9 images associated, totaling 864 images.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC026">https://bbbc.broadinstitute.org/BBBC026</a></p>
+</section>
+<hr class="docutils" />
+<section id="human-u2os-cells-out-of-focus">
+<h2>Human U2OS cells (out of focus)<a class="headerlink" href="#human-u2os-cells-out-of-focus" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>Since robust foreground/background separation and segmentation of cellular objects (i.e., identification of which pixels below to which objects) strongly depends on image quality, focus artifacts are detrimental to data quality. This image set provides examples of in- and out-of-focus HCS images which can be used for validation of focus metrics.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC006">https://bbbc.broadinstitute.org/BBBC006</a></p>
+</section>
+<hr class="docutils" />
+<section id="mouse-embryo-blastocyst-cells">
+<h2>Mouse embryo blastocyst cells<a class="headerlink" href="#mouse-embryo-blastocyst-cells" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>Segmenting nuclei in 3D images can be challenging especially when nuclei are clustered not only in XY plane but also in XZ and YZ planes. Manually annotated ground truth provides a reference for image analysis software testing purposes. These images of mouse embryo blastocyst cells also have changing nuclei intensity in Z plane which makes finding the right threshold for successful segmentation a difficult task. This image set also contains GAPDH transcripts that can be quantified in each cell.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC032">https://bbbc.broadinstitute.org/BBBC032</a></p>
+</section>
+<hr class="docutils" />
+<section id="nuclei-of-u2os-cells-in-a-chemical-screen">
+<h2>Nuclei of U2OS cells in a chemical screen<a class="headerlink" href="#nuclei-of-u2os-cells-in-a-chemical-screen" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>This image set is part of a high-throughput chemical screen on U2OS cells, with examples of 200 bioactive compounds. The effect of the treatments was originally imaged using the Cell Painting assay (fluorescence microscopy). This data set only includes the DNA channel of a single field of view per compound. These images present a variety of nuclear phenotypes, representative of high-throughput chemical perturbations. The main use of this data set is the study of segmentation algorithms that can separate individual nucleus instances in an accurate way, regardless of their shape and cell density. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC039">https://bbbc.broadinstitute.org/BBBC039</a></p>
+</section>
+<hr class="docutils" />
+<section id="nuclei-of-mouse-embryonic-cells">
+<h2>Nuclei of mouse embryonic cells<a class="headerlink" href="#nuclei-of-mouse-embryonic-cells" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>Cell dynamics during the early mouse embryogenesis change spatiotemporally. For understanding the mechanism of this developmental process, imaging cell dynamics by live-cell imaging of fluorescently labeled nuclei and performing nuclei segmentation of these images by image processing are essential. This dataset contains the fluorescence images and Ground Truth used when performing nuclei segmentation using deep learning. Fluorescence images are time-series images from fertilization to blastocyst formation. Ground Truth is supervised data of the cell nuclear region.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC050">https://bbbc.broadinstitute.org/BBBC050</a></p>
+</section>
+<hr class="docutils" />
+<section id="simulated-hl60-cells-from-the-cell-tracking-challenge">
+<h2>Simulated HL60 cells (from the Cell Tracking Challenge)<a class="headerlink" href="#simulated-hl60-cells-from-the-cell-tracking-challenge" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC0-1.0</p>
+<p>These are synthetic images from the Cell Tracking Challenge. The images depict simulated nuclei of HL60 cells stained with Hoescht (training datasets). These synthetic images of HL60 cells provide an opportunity to test image analysis software by comparing segmentation results to the available ground truth for each time point. The number of clustered nuclei increases with time adding more complexity to the problem. This time-laps dataset can be used for simple segmentation or for nuclei tracking.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC035">https://bbbc.broadinstitute.org/BBBC035</a></p>
+</section>
+<hr class="docutils" />
+<section id="synthetic-cells">
+<h2>Synthetic cells<a class="headerlink" href="#synthetic-cells" title="Link to this heading">#</a></h2>
+<p>Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter</p>
+<p>Published 2012-06-28</p>
+<p>Licensed CC-BY-NC-SA-3.0</p>
+<p>One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of five subsets with increasing degree of clustering.</p>
+<p>Tags: Ai-Ready</p>
+<p>Content type: Data</p>
+<p><a class="reference external" href="https://bbbc.broadinstitute.org/BBBC004">https://bbbc.broadinstitute.org/BBBC004</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./domain"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../licenses/unknown.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Unknown (109)</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="biapol.github.io.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Biapol.github.io (7)</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#d-hl60-cell-line-synthetic-data">3D HL60 Cell line (synthetic data)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#annotated-high-throughput-microscopy-image-sets-for-validation">Annotated high-throughput microscopy image sets for validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#chinese-hamster-ovary-cells">Chinese Hamster Ovary Cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#drosophila-kc167-cells">Drosophila Kc167 cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-ht29-colon-cancer-cells">Human HT29 colon-cancer cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-hepatocyte-and-murine-fibroblast-cells-co-culture-experiment">Human Hepatocyte and Murine Fibroblast cells Co-culture experiment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#human-u2os-cells-out-of-focus">Human U2OS cells (out of focus)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mouse-embryo-blastocyst-cells">Mouse embryo blastocyst cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nuclei-of-u2os-cells-in-a-chemical-screen">Nuclei of U2OS cells in a chemical screen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nuclei-of-mouse-embryonic-cells">Nuclei of mouse embryonic cells</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#simulated-hl60-cells-from-the-cell-tracking-challenge">Simulated HL60 cells (from the Cell Tracking Challenge)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#synthetic-cells">Synthetic cells</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on 2025-06-18.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

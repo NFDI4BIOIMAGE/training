@@ -1,4 +1,4 @@
-# Zenodo.org (264)
+# Zenodo.org (265)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2544,6 +2544,26 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 [https://zenodo.org/records/14014252](https://zenodo.org/records/14014252)
 
 [https://doi.org/10.5281/zenodo.14014252](https://doi.org/10.5281/zenodo.14014252)
+
+
+---
+
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
 
 
 ---
@@ -7429,7 +7449,7 @@ Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 
 
 ## [NFDI Tech Talk] Cloud Based Image Science
 
-Robert Haase
+Josh Moore, Yi Sun
 
 Published 2025-06-02
 

@@ -1,4 +1,4 @@
-# Martin weigert (10)
+# Martin weigert (11)
 ## 3D nuclei instance segmentation dataset of fluorescence microscopy volumes of C. elegans
 
 Fuhui Long, Hanchuan Peng, Xiao Liu, Stuart K Kim, Eugene Myers, Dagmar Kainmüller, Martin Weigert
@@ -140,6 +140,27 @@ Tags: Python, Artificial Intelligence
 Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
+
+
+---
+
+## Ground-truth cell body segmentation used for Starfinity training
+
+Yuhan Wang, Martin Weigert, Uwe Schmidt, Stephan Saalfeld, Eugene W. Myers, Tim Wang, Karel Svoboda, Mark Eddison, Greg Fleishman, Shengjin Xu, Fredrick E. Henry, Andrew L. Lemire, Hui Yang, Konrad Rokicki, Cristian Goina, Eugene W Myers, Wyatt Korff, Scott M. Sternson, Paul W. Tillberg
+
+Published 2021-03-05
+
+Licensed CC-BY-4.0
+
+
+
+Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268](https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268)
 
 
 ---

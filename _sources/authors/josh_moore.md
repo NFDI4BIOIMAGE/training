@@ -1,4 +1,4 @@
-# Josh moore (36)
+# Josh moore (37)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -599,6 +599,26 @@ Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
 [https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
+
+
+---
+
+## [NFDI Tech Talk] Cloud Based Image Science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed CC-BY-4.0
+
+
+
+Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
+See http://nfdi.de/talks for more information.
+
+[https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
+
+[https://doi.org/10.5281/zenodo.15575379](https://doi.org/10.5281/zenodo.15575379)
 
 
 ---

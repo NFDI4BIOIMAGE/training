@@ -1,4 +1,4 @@
-# Mit (30)
+# Mit (31)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -16,6 +16,27 @@ Tags: Cell Profiler, Bioimage Analysis
 Content type: Github Repository
 
 [https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell](https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell)
+
+
+---
+
+## BCCD Dataset
+
+Shenggan Gan, Nicolas Chen
+
+Published 2017-12-07
+
+Licensed MIT
+
+
+
+BCCD Dataset is a small-scale dataset for blood cells detection.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/Shenggan/BCCD_Dataset](https://github.com/Shenggan/BCCD_Dataset)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github.com (137)
+# Github.com (141)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -109,6 +109,27 @@ Licensed UNKNOWN
 Tags: Bioimage Analysis
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
+
+
+---
+
+## BCCD Dataset
+
+Shenggan Gan, Nicolas Chen
+
+Published 2017-12-07
+
+Licensed MIT
+
+
+
+BCCD Dataset is a small-scale dataset for blood cells detection.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/Shenggan/BCCD_Dataset](https://github.com/Shenggan/BCCD_Dataset)
 
 
 ---
@@ -296,6 +317,27 @@ Tags: OMERO, Github
 Content type: Github Repository
 
 [https://github.com/NL-BioImaging/biomero](https://github.com/NL-BioImaging/biomero)
+
+
+---
+
+## Breast Cancer Semantic Segmentation (BCSS) dataset
+
+Mohamed Amgad, Habiba Elfandy, Hagar Hussein, Lamees A Atteya, Mai A T Elsebaie, Lamia S Abo Elnasr, Rokia A Sakr, Hazem S E Salem, Ahmed F Ismail, Anas M Saad, Joumana Ahmed, Maha A T Elsebaie, Mustafijur Rahman, Inas A Ruhban, Nada M Elgazar, Yahya Alagha, Mohamed H Osman, Ahmed M Alhusseiny, Mariam M Khalaf, Abo-Alela F Younes, Ali Abdulkarim, Duaa M Younes, Ahmed M Gadallah, Ahmad M Elkashash, Salma Y Fala, Basma M Zaki, Jonathan Beezley, Deepak R Chittajallu, David Manthey, David A Gutman, Lee A D Cooper
+
+Published 2019-11-09
+
+Licensed CC0-1.0
+
+
+
+This repo contains the necessary information and download instructions to download the dataset associated with the paper: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083. This data can be visualized in a public instance of the Digital Slide Archive at this link. If you click the “eye” image icon in the Annotations panel on the right side of the screen, you will see the results of a collaborative annotation.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/PathologyDataScience/BCSS](https://github.com/PathologyDataScience/BCSS)
 
 
 ---
@@ -1110,6 +1152,27 @@ Content type: Github Repository, Slides, Notebook
 
 ---
 
+## MIDOG 2021
+
+Marc Aubreville, Frauke Wilm
+
+Published 2021-03-16
+
+Licensed UNLICENSED
+
+
+
+Mitosis domain generation. Here you can find code of our own evaluations and a dockered reference algorithm for mitotic figures to use as a template.
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/DeepMicroscopy/MIDOG](https://github.com/DeepMicroscopy/MIDOG)
+
+
+---
+
 ## Machine Learning Workflow for Imaging Flow Cytometry (IFC)
 
 Licensed UNKNOWN
@@ -1553,6 +1616,27 @@ Tags: Gpu, Clesperanto, Dask, Python
 Content type: Notebook
 
 [https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/](https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/)
+
+
+---
+
+## Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides
+
+Wenqi Tang, MIC Group
+
+Published 2021-12-12
+
+Licensed UNLICENSED
+
+
+
+This repo is the official implementation of our paper "Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides".
+
+Tags: Ai-Ready
+
+Content type: Data
+
+[https://github.com/bupt-ai-cz/BALNMP](https://github.com/bupt-ai-cz/BALNMP)
 
 
 ---
