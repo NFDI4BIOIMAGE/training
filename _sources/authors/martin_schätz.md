@@ -1,4 +1,4 @@
-# Martin schätz (6)
+# Martin schätz (7)
 ## ImageJ tool for percentage estimation of pneumonia in lungs
 
 Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
@@ -66,6 +66,29 @@ Tags: Bioinformatics
 Content type: Github Repository, Slides, Notebook
 
 [https://github.com/deeplife4eu/Lecture-materials/](https://github.com/deeplife4eu/Lecture-materials/)
+
+
+---
+
+## Navigating the Bioimage Analysis Landscape: Understanding the Community  and its Collaborative Dynamics
+
+Martin Schätz
+
+Published 2024-06-28
+
+Licensed CC-BY-4.0
+
+
+
+Presented as a part of:
+Mexican Bioimaging Workshops 9: Fundamentos de Microscop&iacute;a &ldquo;Microscop&iacute;a en la Salud&rdquo;
+Workshop on light microscopyJune 26th to 28th, 2024
+Outreach 9June 29th, 2024
+Expanding Global Access to BioimagingConnecting the Mexican Bioimaging Community
+
+[https://zenodo.org/records/12584729](https://zenodo.org/records/12584729)
+
+[https://doi.org/10.5281/zenodo.12584729](https://doi.org/10.5281/zenodo.12584729)
 
 
 ---

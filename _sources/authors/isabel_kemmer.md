@@ -1,4 +1,4 @@
-# Isabel kemmer (4)
+# Isabel kemmer (5)
 ## Building a FAIR image data ecosystem for microscopy communities
 
 Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
@@ -83,6 +83,29 @@ Update: we now also provide ready-to-print versions designed to be printed on A3
 [https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
 
 [https://doi.org/10.5281/zenodo.15425770](https://doi.org/10.5281/zenodo.15425770)
+
+
+---
+
+## [ELMI2025] Workshop: FAIR101 - Navigating FAIR data from principles to practice
+
+Isabel Kemmer, Euro-BioImaging ERIC
+
+Published 2025-06-12
+
+Licensed CC-BY-4.0
+
+
+
+&nbsp;This workshop was held at the ELMI Meeting 2025 in Heidelberg (https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/).
+Abstract
+FAIR 101 - Navigating FAIR data from principles to practice
+Isabel Kemmer, Euro-BioImaging ERIC
+This workshop will introduce the FAIR principles in the context of bioimaging data. Designed for researchers working across scales and technologies of biological and biomedical imaging, the session will address the unique challenges posed by complex, multidimensional bioimaging datasets. With the aim of providing simple yet impactful steps for a smooth start to the FAIR journey we will explore the features and benefits of FAIR data through interactive exercises and discussions - from metadata annotation and data management planning to repository selection. By the end of the workshop, you will feel more confident in applying the FAIR concepts and be prepared to improve your imaging workflows to make your precious data even more valuable.
+
+[https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
+
+[https://doi.org/10.5281/zenodo.15647102](https://doi.org/10.5281/zenodo.15647102)
 
 
 ---

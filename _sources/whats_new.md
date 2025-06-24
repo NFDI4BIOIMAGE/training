@@ -1,56 +1,4 @@
 # Recently added (10)
-## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
-
-Robert Haase
-
-Published 2025-05-29
-
-Licensed CC-BY-4.0
-
-
-
-These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
-
-[https://zenodo.org/records/15546497](https://zenodo.org/records/15546497)
-
-[https://doi.org/10.5281/zenodo.15546497](https://doi.org/10.5281/zenodo.15546497)
-
-
----
-
-## Collaborative working and  Version Control with Git[Hub]
-
-Robert Haase
-
-Published 2025-05-10
-
-Licensed CC-BY-4.0
-
-
-
-Working together on the internet presents us with new challenges: Who uploaded a file and when? Who contributed to the project when and why? How can content be merged when multiple team members make changes at the same time? The version control tool&nbsp;Git offers a comprehensive solution to these questions. The online platform GitHub.com provides a Git-driven platform that enables effective collaboration. Attendees of this hands-on tutorial will learn:
-
-
-Introduction to version control with Git[Hub]
-
-
-Working with Git: Pull requests
-
-
-Resolving merge conflicts
-
-
-Artificial intelligence that can respond to GitHub issues
-
-
-
-[https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
-
-[https://doi.org/10.5281/zenodo.15379632](https://doi.org/10.5281/zenodo.15379632)
-
-
----
-
 ## Explainable AI for Computer Vision
 
 Robert Haase
@@ -86,6 +34,29 @@ The advent of large language models (LLMs) such as ChatGPT changes the way we an
 [https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
 
 [https://doi.org/10.5281/zenodo.15165424](https://doi.org/10.5281/zenodo.15165424)
+
+
+---
+
+## Navigating the Bioimage Analysis Landscape: Understanding the Community  and its Collaborative Dynamics
+
+Martin Schätz
+
+Published 2024-06-28
+
+Licensed CC-BY-4.0
+
+
+
+Presented as a part of:
+Mexican Bioimaging Workshops 9: Fundamentos de Microscop&iacute;a &ldquo;Microscop&iacute;a en la Salud&rdquo;
+Workshop on light microscopyJune 26th to 28th, 2024
+Outreach 9June 29th, 2024
+Expanding Global Access to BioimagingConnecting the Mexican Bioimaging Community
+
+[https://zenodo.org/records/12584729](https://zenodo.org/records/12584729)
+
+[https://doi.org/10.5281/zenodo.12584729](https://doi.org/10.5281/zenodo.12584729)
 
 
 ---
@@ -191,6 +162,29 @@ In 2025, we are set to take a major step toward a stable FAIR solution with OME-
 [https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
 
 [https://doi.org/10.5281/zenodo.15597856](https://doi.org/10.5281/zenodo.15597856)
+
+
+---
+
+## [ELMI2025] Workshop: FAIR101 - Navigating FAIR data from principles to practice
+
+Isabel Kemmer, Euro-BioImaging ERIC
+
+Published 2025-06-12
+
+Licensed CC-BY-4.0
+
+
+
+&nbsp;This workshop was held at the ELMI Meeting 2025 in Heidelberg (https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/).
+Abstract
+FAIR 101 - Navigating FAIR data from principles to practice
+Isabel Kemmer, Euro-BioImaging ERIC
+This workshop will introduce the FAIR principles in the context of bioimaging data. Designed for researchers working across scales and technologies of biological and biomedical imaging, the session will address the unique challenges posed by complex, multidimensional bioimaging datasets. With the aim of providing simple yet impactful steps for a smooth start to the FAIR journey we will explore the features and benefits of FAIR data through interactive exercises and discussions - from metadata annotation and data management planning to repository selection. By the end of the workshop, you will feel more confident in applying the FAIR concepts and be prepared to improve your imaging workflows to make your precious data even more valuable.
+
+[https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
+
+[https://doi.org/10.5281/zenodo.15647102](https://doi.org/10.5281/zenodo.15647102)
 
 
 ---
