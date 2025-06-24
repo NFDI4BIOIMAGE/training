@@ -15178,3 +15178,54 @@ resources:
   - https://zenodo.org/records/15597856
   - https://doi.org/10.5281/zenodo.15597856
 
+- authors:
+  - Kemmer, Isabel
+  - Euro-BioImaging ERIC
+  description: '&nbsp;This workshop was held at the ELMI Meeting 2025 in Heidelberg
+    (https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/).
+
+    Abstract
+
+    FAIR 101 - Navigating FAIR data from principles to practice
+
+    Isabel Kemmer, Euro-BioImaging ERIC
+
+    This workshop will introduce the FAIR principles in the context of bioimaging
+    data. Designed for researchers working across scales and technologies of biological
+    and biomedical imaging, the session will address the unique challenges posed by
+    complex, multidimensional bioimaging datasets. With the aim of providing simple
+    yet impactful steps for a smooth start to the FAIR journey we will explore the
+    features and benefits of FAIR data through interactive exercises and discussions
+    - from metadata annotation and data management planning to repository selection.
+    By the end of the workshop, you will feel more confident in applying the FAIR
+    concepts and be prepared to improve your imaging workflows to make your precious
+    data even more valuable.'
+  license: cc-by-4.0
+  name: '[ELMI2025] Workshop: FAIR101 - Navigating FAIR data from principles to practice'
+  num_downloads: 12
+  publication_date: '2025-06-12'
+  submission_date: '2025-06-24T11:22:44.045679'
+  url:
+  - https://zenodo.org/records/15647102
+  - https://doi.org/10.5281/zenodo.15647102
+- authors:
+  - "Sch\xE4tz, Martin"
+  description: 'Presented as a part of:
+
+    Mexican Bioimaging Workshops 9: Fundamentos de Microscop&iacute;a &ldquo;Microscop&iacute;a
+    en la Salud&rdquo;
+
+    Workshop on light microscopyJune 26th to 28th, 2024
+
+    Outreach 9June 29th, 2024
+
+    Expanding Global Access to BioimagingConnecting the Mexican Bioimaging Community'
+  license: cc-by-4.0
+  name: 'Navigating the Bioimage Analysis Landscape: Understanding the Community  and
+    its Collaborative Dynamics'
+  num_downloads: 133
+  publication_date: '2024-06-28'
+  submission_date: '2025-06-24T11:23:31.490645'
+  url:
+  - https://zenodo.org/records/12584729
+  - https://doi.org/10.5281/zenodo.12584729
