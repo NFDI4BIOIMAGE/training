@@ -1,4 +1,4 @@
-# Bioimage analysis (199)
+# Bioimage analysis (200)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1633,6 +1633,27 @@ Content type: Notebook
 
 ---
 
+## IDC-Tutorials
+
+Andrey Fedorov, Daniela Schacherer, Dennis Bontempi, Bill Clifford, Vamsi Thiriveedhi, Brianna Major, wlongabaugh, dependabot[bot], Deepa Krishnaswamy
+
+Published 2024-11-28T17:20:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Self-guided notebook tutorials to help get started with IDC
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/ImagingDataCommons/IDC-Tutorials](https://github.com/ImagingDataCommons/IDC-Tutorials)
+
+
+---
+
 ## ITKElastix Examples
 
 Licensed APACHE-2.0
@@ -2878,7 +2899,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

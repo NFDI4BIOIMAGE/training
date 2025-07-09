@@ -1,4 +1,4 @@
-# Bsd-3-clause (31)
+# Bsd-3-clause (32)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -273,6 +273,27 @@ Tags: Bioimage Analysis, Notebooks, Biabob
 Content type: Github Repository, Tutorial, Notebook
 
 [https://github.com/haesleinhuepf/i2k2024-ai-code-generation](https://github.com/haesleinhuepf/i2k2024-ai-code-generation)
+
+
+---
+
+## IDC-Tutorials
+
+Andrey Fedorov, Daniela Schacherer, Dennis Bontempi, Bill Clifford, Vamsi Thiriveedhi, Brianna Major, wlongabaugh, dependabot[bot], Deepa Krishnaswamy
+
+Published 2024-11-28T17:20:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Self-guided notebook tutorials to help get started with IDC
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/ImagingDataCommons/IDC-Tutorials](https://github.com/ImagingDataCommons/IDC-Tutorials)
 
 
 ---
@@ -552,7 +573,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

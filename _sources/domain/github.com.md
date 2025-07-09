@@ -1,4 +1,4 @@
-# Github.com (141)
+# Github.com (142)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -925,6 +925,27 @@ Content type: Notebook
 
 ---
 
+## IDC-Tutorials
+
+Andrey Fedorov, Daniela Schacherer, Dennis Bontempi, Bill Clifford, Vamsi Thiriveedhi, Brianna Major, wlongabaugh, dependabot[bot], Deepa Krishnaswamy
+
+Published 2024-11-28T17:20:53+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+Self-guided notebook tutorials to help get started with IDC
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/ImagingDataCommons/IDC-Tutorials](https://github.com/ImagingDataCommons/IDC-Tutorials)
+
+
+---
+
 ## ITKElastix Examples
 
 Licensed APACHE-2.0
@@ -1563,7 +1584,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -1584,7 +1605,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -2332,7 +2353,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
