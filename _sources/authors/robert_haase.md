@@ -1,4 +1,4 @@
-# Robert haase (64)
+# Robert haase (65)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -162,7 +162,7 @@ Content type: Notebook
 
 Robert Haase
 
-Published 2025-05-29
+Published 2025-07-02
 
 Licensed CC-BY-4.0
 
@@ -170,9 +170,9 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-[https://zenodo.org/records/15546497](https://zenodo.org/records/15546497)
+[https://zenodo.org/records/15793536](https://zenodo.org/records/15793536)
 
-[https://doi.org/10.5281/zenodo.15546497](https://doi.org/10.5281/zenodo.15546497)
+[https://doi.org/10.5281/zenodo.15793536](https://doi.org/10.5281/zenodo.15793536)
 
 
 ---
@@ -1285,6 +1285,41 @@ Artificial intelligence (AI) and large language models (LLMs) are changing the w
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
 [https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+
+
+---
+
+## Vision Language Models for Bio-image Data Science
+
+Robert Haase
+
+Published 2025-06-25
+
+Licensed CC-BY-4.0
+
+
+
+In this talk, I demonstrate potential use-cases for vision-language models (VLM) in bio-image data science, focusing on how to analyse microscopy image data. It covers these use-cases:
+
+cell counting
+bounding-box segmentation
+image descriptions
+VLMs guessing which algorithm to use for processing
+Data analysis code generation
+Answering github issues&nbsp;
+
+The talk also points at a number of VLM-based open-source tools which start reshaping the scientific bio-image data science domain:
+
+bia-bob
+unprompted
+git-bob
+napari-chatgpt
+bioimage.io chatbot
+
+
+[https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
+
+[https://doi.org/10.5281/zenodo.15735577](https://doi.org/10.5281/zenodo.15735577)
 
 
 ---

@@ -1,4 +1,4 @@
-# Tom boissonnet (17)
+# Tom boissonnet (18)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -319,6 +319,42 @@ At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml
 
 ---
 
+## [Webinar] A journey to FAIR bioimage data
+
+Stefanie Weidtkamp-Peters, Tom Boissonnet, Christian Schmidt
+
+Published 2025-07-03
+
+Licensed CC-BY-4.0
+
+
+
+Presentation slides from an EMBL-EBI Webinar Talk within the webinar series:
+"How to organise and share my imaging data? - Multimodal data management for marine biologists, environmental scientists and imaging specialists"
+&nbsp;
+Abstract / Description
+Bioimaging is a pervasive and indispensable methodological approach in the life and biomedical sciences. Due to the development of new technologies and the easier access to compute resources, bioimaging experiments have become a big data discipline, facing the same challenges as other omics technologies within the life sciences. However, to fully exploit the potential of bioimage data, it is necessary to make the data FAIR. In this webinar we will present viable solutions for storing, processing, analysing, and, first and foremost, sharing bioimaging data. We will introduce services provided to the scientific community, that are dealing with various aspects of the bioimage data life cycle such as:
+- Where to get support for bioimage data management- Local bioimage data management: OMERO and beyond- Annotation of bioimage data: metadata, ontologies, REMBI etc- Linking your image data with experimental protocols and analysis results- Large data living in the cloud: ome.zarr- Publication of bioimage data
+Who is this course for?
+This webinar is suitable for marine biologists and environmental scientists collecting samples from the natural environment, generating, visualising, annotating and analysing large, multimodal datasets such as imaging data, and sharing their data by submitting them to public data repositories. The webinar will support you to set up an efficient data flow that is aligned with FAIR principles.
+This event is part of a webinar series&nbsp;organised by the&nbsp;STANDFLOW&nbsp;project, an initiative supported by EMBL&rsquo;s&nbsp;Planetary biology Transversal Theme. STANDFLOW is about a collaborative effort towards creating a standardised data management workflow. The project primarily utilises imaging data derived from samples collected through the&nbsp;TREC&nbsp;(Traversing European Coastlines) and the&nbsp;Roscoff Culture Collection. For details on all topics covered in this series and registration information, please visit the following link:&nbsp;How to organise and share my imaging data?: Multimodal data management for marine biologists, and environmental scientists and imaging specialists
+Outcomes
+By the end of the webinar you will be able to:&nbsp;
+
+Find resources and support for bioimage data management
+Get started with bioimage data annotation
+Identify the dos and don'ts for bioimage data publication
+
+&nbsp;
+(taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
+
+[https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
+
+[https://doi.org/10.5281/zenodo.15796252](https://doi.org/10.5281/zenodo.15796252)
+
+
+---
+
 ## [Workshop Material] Fit for OMERO - How imaging facilities and IT departments work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg
 
 Tom Boissonnet, Bettina Hagen, Susanne Kunis, Christian Schmidt, Stefanie Weidtkamp-Peters
@@ -456,7 +492,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

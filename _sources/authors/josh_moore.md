@@ -1,4 +1,4 @@
-# Josh moore (37)
+# Josh moore (38)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -31,6 +31,27 @@ Tags: Bioinformatics, OMERO
 Content type: Github Repository
 
 [https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)
+
+
+---
+
+## Building a National Research Data Infrastructure 
+for Microscopy and BioImage Analysis
+
+Josh Moore
+
+Published 2025-06-30
+
+Licensed CC-BY-4.0
+
+
+
+Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
+This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
+
+[https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
+
+[https://doi.org/10.5281/zenodo.15756866](https://doi.org/10.5281/zenodo.15756866)
 
 
 ---
@@ -130,7 +151,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -684,7 +705,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

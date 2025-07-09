@@ -1,4 +1,4 @@
-# Euro-bioimaging eric (5)
+# Euro-bioimaging eric (6)
 ## Euro-BioImaging ERIC Annual Report 2022
 
 Euro-BioImaging ERIC
@@ -83,6 +83,35 @@ Update: we now also provide ready-to-print versions designed to be printed on A3
 [https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
 
 [https://doi.org/10.5281/zenodo.15425770](https://doi.org/10.5281/zenodo.15425770)
+
+
+---
+
+## Masterclasses from the Euro-Bioimaging EVOLVE Mentoring programme 2025
+
+Euro-BioImaging ERIC
+
+Published 2025-06-26
+
+Licensed CC-BY-4.0
+
+
+
+EVOLVE Mentoring Masterclasses
+Description:This series captures the class guides of the 2025 masterclasses from Euro‑BioImaging's EVOLVE Mentoring Program.
+Included Masterclasses:
+
+Peter O&rsquo;Toole &ndash; &ldquo;Entrepreneurship &amp; Leadership in Imaging Core Facilities&rdquo;&nbsp;Peter O&rsquo;Toole, President of the Royal Microscopical Society and Director of the Bioscience Technology Facility (University of York), kicks off the series with a deep dive into entrepreneurial leadership. He highlights how to balance science, business, and technology, emphasizing stakeholder engagement, staff investment, cross-training, and using social media to boost visibility and unlock funding.
+Ilaria Testa &ndash; &ldquo;Interdisciplinary Science, SMART Microscopy &amp; Team Building&rdquo;&nbsp;Professor Ilaria Testa (SciLifeLab &amp; KTH) reflects on her transition from physics to super-resolution microscopy and team leadership. Her session underscores the power of crossing disciplinary boundaries, mentorship, and innovation in live-cell imaging .
+Daphna Link‑Sourani &ndash; &ldquo;Leadership, Facility Management &amp; Work‑Life Balance&rdquo;&nbsp;Dr. Daphna Link‑Sourani (Technion Human MRI Research Center) challenges hierarchical notions of leadership, advocating instead for integrity, empathy, and strategic vision. She draws on her experience establishing an MRI facility to discuss crisis management, user engagement, and balancing career demands.
+Muriel Mari &ndash; &ldquo;Women in Science: Normalizing, Supporting &amp; Leading"&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Muriel Mari (Aarhus University) leads a powerful reflection on gender equity in science. Her masterclass goes beyond barriers&mdash;focusing on cultural shifts, inclusive leadership, and redefining success. She encourages institutions and individuals alike to move from tokenism to transformative support, and to recognize the diverse paths women take in STEM.
+Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FAIR Core Facilities&rdquo;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dr. Sylvia Le D&eacute;v&eacute;dec (Leiden University) discusses how to integrate FAIR data principles in imaging core facilities. Drawing on her experience with high-content imaging and Open Science advocacy, she outlines actionable steps toward sustainable, reusable, and accessible data workflows.
+
+Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
+
+[https://zenodo.org/records/15747344](https://zenodo.org/records/15747344)
+
+[https://doi.org/10.5281/zenodo.15747344](https://doi.org/10.5281/zenodo.15747344)
 
 
 ---

@@ -3,31 +3,22 @@
 
 Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
 
-Published 2023-05-02
+Published 2025-07-07
 
 Licensed CC-BY-4.0
 
 
 
 The software tool is developed on demand of Radiological Department of Faculty Hospital of Kr&aacute;lovsk&eacute; Vinohrady, with the aim to provide a tool to estimate the percentage of pneumonia (or COVID-19 presence) in lungs. Paper&nbsp;Estimation of Covid-19 lungs damage based on computer tomography images analysis presenting the tool is available on F1000reserach&nbsp;DOI: 10.12688/f1000research.109020.1. The underlying dataset is published in Zenodo (DOI:10.5281/zenodo.5805939).&nbsp;One of the challenges was to design a tool that would be available without complicated install procedures and would process data in a reasonable time even on office computers. For this reason, 8-bit and 16-bit version of the tool exists. The FIJI software (or ImageJ with Bio-Formats plugin installed) was selected as the best candidate. Examples of use and tutorials are available at GitHub.&nbsp;
-
-Underlying data:
-DOI:10.5281/zenodo.5805939
-The first five datasets are analyzed using this tool, with results and parameters to repeat the analysis in results_csv.csv or results.xlsx.
-
-Contributions:
-Martin SCH&Auml;TZ:&nbsp; &nbsp; &nbsp; &nbsp;Coding, tool testing, data curation, data set analysis
-Olga RUBE&Scaron;OV&Aacute;:&nbsp; &nbsp; Code review, tutorial preparation, tool testing, data set analysis
-Jan MARE&Scaron;:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing, data set analysis
-Alan SPARK:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing
-
+The third version includes an intra-variabilty analysis, containing evaluation both for percentage and score metrics.
+Underlying data:DOI:10.5281/zenodo.5805939The first five datasets are analyzed using this tool, with results and parameters to repeat the analysis in results_csv.csv or results.xlsx.
+Contributions:Martin SCH&Auml;TZ:&nbsp; &nbsp; &nbsp; &nbsp;Coding, tool testing, data curation, data set analysisOlga RUBE&Scaron;OV&Aacute;:&nbsp; &nbsp; Code review, tutorial preparation, tool testing, data set analysisJan MARE&Scaron;:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing, data set analysis, funding acquisitionAlan SPARK:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tool testing
 The work was funded by the Ministry of Education, Youth and Sports by grant &lsquo;Development of Advanced Computational Algorithms for evaluating post-surgery rehabilitation&rsquo; number LTAIN19007. The work was also supported from the grant of Specific university research &ndash; grant No FCHI 2022-001.
-
 &nbsp;
 
-[https://zenodo.org/records/7885379](https://zenodo.org/records/7885379)
+[https://zenodo.org/records/15827771](https://zenodo.org/records/15827771)
 
-[https://doi.org/10.5281/zenodo.7885379](https://doi.org/10.5281/zenodo.7885379)
+[https://doi.org/10.5281/zenodo.15827771](https://doi.org/10.5281/zenodo.15827771)
 
 
 ---
