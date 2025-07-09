@@ -127,6 +127,25 @@ The work was funded by the Ministry of Education, Youth and Sports by grant &lsq
 
 ---
 
+## Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event)
+
+Wei-Chen Chu
+
+Published 2025-03-23
+
+Licensed CC-BY-4.0
+
+
+
+Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei (Lesson_04)Video Recording (in Mandarin): https://www.youtube.com/watch?v=uheSMSENnzE
+
+[https://zenodo.org/records/15070246](https://zenodo.org/records/15070246)
+
+[https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)
+
+
+---
+
 ## Masterclasses from the Euro-Bioimaging EVOLVE Mentoring programme 2025
 
 Euro-BioImaging ERIC
@@ -210,29 +229,6 @@ bioimage.io chatbot
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
 [https://doi.org/10.5281/zenodo.15735577](https://doi.org/10.5281/zenodo.15735577)
-
-
----
-
-## [ELMI2025] Workshop: FAIR101 - Navigating FAIR data from principles to practice
-
-Isabel Kemmer, Euro-BioImaging ERIC
-
-Published 2025-06-12
-
-Licensed CC-BY-4.0
-
-
-
-&nbsp;This workshop was held at the ELMI Meeting 2025 in Heidelberg (https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/).
-Abstract
-FAIR 101 - Navigating FAIR data from principles to practice
-Isabel Kemmer, Euro-BioImaging ERIC
-This workshop will introduce the FAIR principles in the context of bioimaging data. Designed for researchers working across scales and technologies of biological and biomedical imaging, the session will address the unique challenges posed by complex, multidimensional bioimaging datasets. With the aim of providing simple yet impactful steps for a smooth start to the FAIR journey we will explore the features and benefits of FAIR data through interactive exercises and discussions - from metadata annotation and data management planning to repository selection. By the end of the workshop, you will feel more confident in applying the FAIR concepts and be prepared to improve your imaging workflows to make your precious data even more valuable.
-
-[https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
-
-[https://doi.org/10.5281/zenodo.15647102](https://doi.org/10.5281/zenodo.15647102)
 
 
 ---
