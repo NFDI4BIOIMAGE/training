@@ -1,4 +1,4 @@
-# Doi.org (286)
+# Doi.org (287)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -2685,6 +2685,51 @@ Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from
 [https://zenodo.org/records/14014252](https://zenodo.org/records/14014252)
 
 [https://doi.org/10.5281/zenodo.14014252](https://doi.org/10.5281/zenodo.14014252)
+
+
+---
+
+## Expansion and fluctuations-enhanced microscopy for nanoscale molecular profiling of cells and tissues - Data processing manual
+
+Dominik Kylies, Heil, Hannah S., Vesga, Arturo G., Del Rosario, Mario, Maria Schwerk, Malte Kuehl, Wong, Milagros N., Victor Puelles, Ricardo Henriques
+
+Published 2023/2024
+
+Licensed CC-BY-4.0
+
+
+
+Here we provide test datasets and a training manual for the parameter optimization with eSRRF.&nbsp;
+The training manual will guide users through an eSRRF paramenter optimization routine and quantiative image quality assesment with both, the ImagJ-Plugin NanoJ-eSRRF (Chapter 1) and the python implementation NanoPyx-eSRRF (Chapter 2). By showcasing the optimization routine on three differnt test dataset (Chapter 3), providing intermediate results and expected outcome, the users can eaisily learn how to find the optimal processing parameters for eSRRF processing.
+Three samples are provided to showcase the eSRRF reconstruction process:
+1. Microtubules sample: Set01_DNA-PAINT_Microtubules.tif
+DNA-PAINT microscopy measurement of immunolabeled microtubules in fixed COS-7 cells, showing 0.121 localizations per frame and &micro;m^2 (data published in Laine and Heil et al.)
+108x90 pixels, 500 frames, pixel size: 160 nm&nbsp;
+2. Kidney sample: Set02_KidneySDNephrinExM.tif
+ExM of human kidney biopsies stained with nephrin (data published in Kylies et al.)
+150x150 pixels, 200 frames, pixel size: 102 nm&nbsp;
+3. Single emitters simulation: Set03_simulation_groundTruth_2p5Sigma - Fluorescence stack_Avg5.tif
+Simulated individual molecules emitting placed on concentric rings with radii increasing by 220 nm steps. On each ring the molecules are separated by 57.5, 115, 173, 230, 288 and 345 nm, respectively (data published in&nbsp;Laine and Heil et al.)
+33x33 pixels, 100 frames, pixel size: 100 nm&nbsp;
+4. Test dataset for drift/vibration correction: Set04_ExSRRF_eSRRF_vibration_correction_practice_dataset.tif
+EsM of human kidney biopsies stained with nephrin (data published in Kylies et al.)
+100x100 pixels, 200 frames, pixel size: 102 nm
+5. Test dataset for photobleaching: Set05_Photobleaching.tif
+ExM of 120 nm Nanorulers (data published in Kylies et al.)
+150x150 pixels, 75 frames, pixel size: 64 nm
+&nbsp;
+Jupyter-Notebook: ridge_detection.ipynb
+With this notebook qantitative image analyis of sturctures resolved with ExSRRF can be performed.
+Such as:
+
+calculation of the target structure density.&nbsp;
+identifying areas with high inter-ridge spacing by maping the distance to the nearest ridge based on Euclidean distance transform.&nbsp;
+measuring the spatial uniformity of the structure of interest by&nbsp;examining the distribution of the local densities and the distances to the nearest ridge.&nbsp;
+
+
+[https://zenodo.org/records/13897937](https://zenodo.org/records/13897937)
+
+[https://doi.org/10.5281/zenodo.13897937](https://doi.org/10.5281/zenodo.13897937)
 
 
 ---
@@ -5381,7 +5426,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -7096,7 +7141,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
