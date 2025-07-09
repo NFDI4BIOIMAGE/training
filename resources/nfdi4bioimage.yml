@@ -15231,6 +15231,19 @@ resources:
   - https://doi.org/10.5281/zenodo.12584729
 
 - authors:
+  - Koutentaki, Georgia
+  - "Sch\xE4tz, Martin"
+  - "Vali\u0161, Jan"
+  license: cc-by-4.0
+  name: WHAT NOT TO DO WHEN CREATING A DATA MANAGEMENT PLAN (DMP)
+  num_downloads: 57
+  publication_date: '2025-05-14'
+  submission_date: '2025-07-09T05:00:03.804035'
+  url:
+  - https://zenodo.org/records/15402904
+  - https://doi.org/10.5281/zenodo.15402904
+
+- authors:
   - Kylies, Dominik
   - Heil, Hannah S.
   - Vesga, Arturo G.
@@ -15605,4 +15618,5 @@ resources:
   url:
   - https://zenodo.org/records/15070246
   - https://doi.org/10.5281/zenodo.15070246
+
   
