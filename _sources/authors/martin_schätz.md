@@ -1,4 +1,4 @@
-# Martin schätz (7)
+# Martin schätz (8)
 ## ImageJ tool for percentage estimation of pneumonia in lungs
 
 Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
@@ -120,6 +120,23 @@ SciAugment aims to provide an option to create an augmented image set with simil
 [https://zenodo.org/records/6991106](https://zenodo.org/records/6991106)
 
 [https://doi.org/10.5281/zenodo.6991106](https://doi.org/10.5281/zenodo.6991106)
+
+
+---
+
+## WHAT NOT TO DO WHEN CREATING A DATA MANAGEMENT PLAN (DMP)
+
+Georgia Koutentaki, Martin Schätz, Jan Vališ
+
+Published 2025-05-14
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15402904](https://zenodo.org/records/15402904)
+
+[https://doi.org/10.5281/zenodo.15402904](https://doi.org/10.5281/zenodo.15402904)
 
 
 ---

@@ -175,29 +175,6 @@ Why Archive These Sessions?These masterclasses offer invaluable insights for cor
 
 ---
 
-## Navigating the Bioimage Analysis Landscape: Understanding the Community  and its Collaborative Dynamics
-
-Martin Schätz
-
-Published 2024-06-28
-
-Licensed CC-BY-4.0
-
-
-
-Presented as a part of:
-Mexican Bioimaging Workshops 9: Fundamentos de Microscop&iacute;a &ldquo;Microscop&iacute;a en la Salud&rdquo;
-Workshop on light microscopyJune 26th to 28th, 2024
-Outreach 9June 29th, 2024
-Expanding Global Access to BioimagingConnecting the Mexican Bioimaging Community
-
-[https://zenodo.org/records/12584729](https://zenodo.org/records/12584729)
-
-[https://doi.org/10.5281/zenodo.12584729](https://doi.org/10.5281/zenodo.12584729)
-
-
----
-
 ## Vision Language Models for Bio-image Data Science
 
 Robert Haase
@@ -229,6 +206,23 @@ bioimage.io chatbot
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
 [https://doi.org/10.5281/zenodo.15735577](https://doi.org/10.5281/zenodo.15735577)
+
+
+---
+
+## WHAT NOT TO DO WHEN CREATING A DATA MANAGEMENT PLAN (DMP)
+
+Georgia Koutentaki, Martin Schätz, Jan Vališ
+
+Published 2025-05-14
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15402904](https://zenodo.org/records/15402904)
+
+[https://doi.org/10.5281/zenodo.15402904](https://doi.org/10.5281/zenodo.15402904)
 
 
 ---
