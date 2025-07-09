@@ -15647,7 +15647,7 @@ resources:
   name: image-processing-basics
   publication_date: '2025-05-27T08:31:14+00:00'
   submission_date: '2025-07-09T09:44:28.758546'
-  tags: TODO
+  tags: bio-image analysis
   type: GitHub Repository
   url: https://github.com/fmi-faim/image-processing-basics
   
