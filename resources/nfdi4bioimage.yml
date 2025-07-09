@@ -15651,3 +15651,15 @@ resources:
   type: GitHub Repository
   url: https://github.com/fmi-faim/image-processing-basics
   
+- authors:
+  - Antoine A. Ruzette
+  - dependabot[bot]
+  description: Materials supporting the QuPath workshop at Harvard Medical School.
+  license: Creative Commons Attribution 4.0 International
+  name: qupath-workshop
+  publication_date: '2025-01-16T14:05:02+00:00'
+  submission_date: '2025-07-09T10:49:46.810772'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/HMS-IAC/qupath-workshop
+  
