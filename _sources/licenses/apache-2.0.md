@@ -1,4 +1,4 @@
-# Apache-2.0 (5)
+# Apache-2.0 (6)
 ## Biomero
 
 Torec Luik, Johannes Soltwedel
@@ -90,6 +90,27 @@ Tags: Nfdi4Bioimage
 Content type: Github Repository
 
 [https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
+
+
+---
+
+## image-processing-basics
+
+Myles Scolnick
+
+Published 2025-05-27T08:31:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+Teaching material for image processing and analysis
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
 
 
 ---

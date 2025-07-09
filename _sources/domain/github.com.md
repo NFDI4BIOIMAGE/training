@@ -1,4 +1,4 @@
-# Github.com (142)
+# Github.com (143)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2221,6 +2221,27 @@ Tags: Python, Big Data
 Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
+
+
+---
+
+## image-processing-basics
+
+Myles Scolnick
+
+Published 2025-05-27T08:31:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+Teaching material for image processing and analysis
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
 
 
 ---

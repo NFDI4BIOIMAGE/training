@@ -1,4 +1,4 @@
-# Github repository (61)
+# Github repository (62)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -894,6 +894,27 @@ Tags: Python, Big Data
 Content type: Github Repository
 
 [https://github.com/tischi/i2k-2020-s3-zarr-workshop](https://github.com/tischi/i2k-2020-s3-zarr-workshop)
+
+
+---
+
+## image-processing-basics
+
+Myles Scolnick
+
+Published 2025-05-27T08:31:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+Teaching material for image processing and analysis
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (200)
+# Bioimage analysis (201)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -3474,6 +3474,27 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.4330625](https://zenodo.org/doi/10.5281/zenodo.4330625)
+
+
+---
+
+## image-processing-basics
+
+Myles Scolnick
+
+Published 2025-05-27T08:31:14+00:00
+
+Licensed APACHE-2.0
+
+
+
+Teaching material for image processing and analysis
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository
+
+[https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
 
 
 ---
