@@ -75,7 +75,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
+Pierre Pouchin, Rdornier, kekunn, jean-marie burel
 
 Licensed GPL-2.0
 
