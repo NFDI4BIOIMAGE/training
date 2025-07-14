@@ -24,6 +24,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  search:
+    builder: lunr
   extra_footer: |
     <p>
     Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
@@ -36,3 +38,5 @@ sphinx:
 
   extra_extensions:
     - sphinxcontrib.lunrsearch
+
+
