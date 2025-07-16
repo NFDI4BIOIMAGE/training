@@ -18,27 +18,6 @@ These are the PPTx training resources for Students at Uni Leipzig who want to di
 
 ---
 
-## Building a National Research Data Infrastructure 
-for Microscopy and BioImage Analysis
-
-Josh Moore
-
-Published 2025-06-30
-
-Licensed CC-BY-4.0
-
-
-
-Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
-This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
-
-[https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
-
-[https://doi.org/10.5281/zenodo.15756866](https://doi.org/10.5281/zenodo.15756866)
-
-
----
-
 ## ImageJ tool for percentage estimation of pneumonia in lungs
 
 Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
@@ -159,6 +138,25 @@ Licensed CC-BY-4.0
 [https://zenodo.org/records/15402904](https://zenodo.org/records/15402904)
 
 [https://doi.org/10.5281/zenodo.15402904](https://doi.org/10.5281/zenodo.15402904)
+
+
+---
+
+## data_visualization_tutorial
+
+Stefan Halfpap
+
+Published 2025-04-25T21:00:39+00:00
+
+
+
+
+
+Tags: Data Visualization
+
+Content type: Github Repository
+
+[https://github.com/klauck/data_visualization_tutorial](https://github.com/klauck/data_visualization_tutorial)
 
 
 ---
