@@ -15659,7 +15659,10 @@ resources:
   name: qupath-workshop
   publication_date: '2025-01-16T14:05:02+00:00'
   submission_date: '2025-07-09T10:49:46.810772'
-  tags: TODO
+  tags: 
+  - notebook
+  - slides
+  - collection
   type: GitHub Repository
   url: https://github.com/HMS-IAC/qupath-workshop
   
