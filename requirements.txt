@@ -7,5 +7,7 @@ pygithub
 toolz
 pypdfium2
 lxml
-
+sphinxcontrib-lunrsearch
+beautifulsoup4
+lunr
 
