@@ -15652,6 +15652,17 @@ resources:
   url: https://github.com/fmi-faim/image-processing-basics
   
 - authors:
+  - Stefan Halfpap
+  description: ''
+  name: data_visualization_tutorial
+  publication_date: '2025-04-25T21:00:39+00:00'
+  submission_date: '2025-07-09T10:49:10.643610'
+  tags: 
+  - data visualization
+  type: GitHub Repository
+  url: https://github.com/klauck/data_visualization_tutorial
+  
+- authors:
   - Antoine A. Ruzette
   - dependabot[bot]
   description: Materials supporting the QuPath workshop at Harvard Medical School.
