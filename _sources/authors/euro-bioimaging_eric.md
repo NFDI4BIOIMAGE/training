@@ -109,9 +109,9 @@ Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FA
 
 Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
 
-[https://zenodo.org/records/15747344](https://zenodo.org/records/15747344)
+[https://zenodo.org/records/15837532](https://zenodo.org/records/15837532)
 
-[https://doi.org/10.5281/zenodo.15747344](https://doi.org/10.5281/zenodo.15747344)
+[https://doi.org/10.5281/zenodo.15837532](https://doi.org/10.5281/zenodo.15837532)
 
 
 ---

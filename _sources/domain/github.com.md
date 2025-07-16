@@ -1,4 +1,4 @@
-# Github.com (143)
+# Github.com (144)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2496,6 +2496,27 @@ Content type: Code
 [https://zenodo.org/records/2643411](https://zenodo.org/records/2643411)
 
 [https://doi.org/10.5281/zenodo.2643411](https://doi.org/10.5281/zenodo.2643411)
+
+
+---
+
+## qupath-workshop
+
+Antoine A. Ruzette, dependabot[bot]
+
+Published 2025-01-16T14:05:02+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Materials supporting the QuPath workshop at Harvard Medical School.
+
+Tags: Notebook, Slides, Collection
+
+Content type: Github Repository
+
+[https://github.com/HMS-IAC/qupath-workshop](https://github.com/HMS-IAC/qupath-workshop)
 
 
 ---

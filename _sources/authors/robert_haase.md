@@ -162,7 +162,7 @@ Content type: Notebook
 
 Robert Haase
 
-Published 2025-07-02
+Published 2025-07-10
 
 Licensed CC-BY-4.0
 
@@ -170,9 +170,9 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-[https://zenodo.org/records/15793536](https://zenodo.org/records/15793536)
+[https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
-[https://doi.org/10.5281/zenodo.15793536](https://doi.org/10.5281/zenodo.15793536)
+[https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
 
 
 ---

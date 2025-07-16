@@ -1,4 +1,4 @@
-# Cc-by-4.0 (359)
+# Cc-by-4.0 (360)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -824,7 +824,7 @@ Content type: Notebook
 
 Robert Haase
 
-Published 2025-07-02
+Published 2025-07-10
 
 Licensed CC-BY-4.0
 
@@ -832,9 +832,9 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-[https://zenodo.org/records/15793536](https://zenodo.org/records/15793536)
+[https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
-[https://doi.org/10.5281/zenodo.15793536](https://doi.org/10.5281/zenodo.15793536)
+[https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
 
 
 ---
@@ -4942,9 +4942,9 @@ Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FA
 
 Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
 
-[https://zenodo.org/records/15747344](https://zenodo.org/records/15747344)
+[https://zenodo.org/records/15837532](https://zenodo.org/records/15837532)
 
-[https://doi.org/10.5281/zenodo.15747344](https://doi.org/10.5281/zenodo.15747344)
+[https://doi.org/10.5281/zenodo.15837532](https://doi.org/10.5281/zenodo.15837532)
 
 
 ---
@@ -9461,6 +9461,27 @@ Content type: Github Repository, Tutorial
 [https://github.com/vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1)
+
+
+---
+
+## qupath-workshop
+
+Antoine A. Ruzette, dependabot[bot]
+
+Published 2025-01-16T14:05:02+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Materials supporting the QuPath workshop at Harvard Medical School.
+
+Tags: Notebook, Slides, Collection
+
+Content type: Github Repository
+
+[https://github.com/HMS-IAC/qupath-workshop](https://github.com/HMS-IAC/qupath-workshop)
 
 
 ---

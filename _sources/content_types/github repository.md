@@ -1,4 +1,4 @@
-# Github repository (62)
+# Github repository (63)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -1127,6 +1127,27 @@ Tags: Histopathology, Bioimage Analysis
 Content type: Github Repository, Notebook
 
 [https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
+
+
+---
+
+## qupath-workshop
+
+Antoine A. Ruzette, dependabot[bot]
+
+Published 2025-01-16T14:05:02+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Materials supporting the QuPath workshop at Harvard Medical School.
+
+Tags: Notebook, Slides, Collection
+
+Content type: Github Repository
+
+[https://github.com/HMS-IAC/qupath-workshop](https://github.com/HMS-IAC/qupath-workshop)
 
 
 ---
