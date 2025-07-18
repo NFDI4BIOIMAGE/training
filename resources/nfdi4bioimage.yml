@@ -15911,3 +15911,30 @@ resources:
   url:
   - https://zenodo.org/records/14045172
   - https://doi.org/10.5281/zenodo.14045172
+- authors:
+  - Naylor Peter Jack
+  - Walter Thomas
+  - "La\xE9 Marick"
+  - Reyal Fabien
+  description: 'This dataset has been annonced in our accepted paper &quot;Segmentation
+    of Nuclei in Histopathology Images by deep regression of the distance map&quot;
+    in Transcation on Medical Imaging on the 13th of August.
+  
+    This dataset consists of 50 annotated images, divided into 11 patients.
+  
+  
+    &nbsp;
+  
+  
+    v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but
+    weren&#39;t.'
+  license: cc-by-4.0
+  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance
+    map
+  num_downloads: 6816
+  publication_date: '2018-02-16'
+  submission_date: '2025-07-17T11:33:08.663386'
+  url:
+  - https://zenodo.org/records/2579118
+  - https://doi.org/10.5281/zenodo.2579118
+  
