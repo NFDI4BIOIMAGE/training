@@ -15911,3 +15911,39 @@ resources:
   url:
   - https://zenodo.org/records/14045172
   - https://doi.org/10.5281/zenodo.14045172
+- authors:
+  - Jain, Smitesh
+  description: 'Title:Galaxy Sustainability Report 2025
+  
+    Description:This report provides an in-depth analysis of the sustainability of the
+    Galaxy platform, a globally recognized open-source system for data analysis, workflow
+    management, and scientific collaboration. Developed under the EuroScienceGateway
+    project and supported by the European Union&rsquo;s Horizon Europe program (Grant
+    Agreement No. 101057388), the report evaluates Galaxy through the lenses of desirability,
+    feasibility, and viability using a robust analytical framework derived from design
+    thinking and open-source community health metrics (CHAOSS).
+  
+    The report presents empirical data on Galaxy''s rapid growth in user adoption, job
+    execution volume, infrastructure robustness, contributor engagement, community governance,
+    and scientific impact. It highlights Galaxy&rsquo;s ability to democratize access
+    to advanced computational tools, support reproducible science, and maintain long-term
+    sustainability through a distributed community and institutional support.
+  
+    This document is a valuable resource for funders, policymakers, and stakeholders
+    in the open science and digital research infrastructure community, illustrating
+    why Galaxy represents a low-risk, high-reward investment in the future of data-driven
+    research.
+  
+    Authors:Smitesh Jain (EGI Foundation)on behalf of the EuroScienceGateway Consortium
+  
+    Funding Acknowledgement:This project was funded by the European Union&rsquo;s Horizon
+    Europe programme under Grant Agreement No. 101057388.'
+  license: cc-by-4.0
+  name: Galaxy Sustainability Report
+  num_downloads: 124
+  publication_date: '2025-07-17'
+  submission_date: '2025-07-18T07:29:06.716624'
+  url:
+  - https://zenodo.org/records/16030329
+  - https://doi.org/10.5281/zenodo.16030329
+  
