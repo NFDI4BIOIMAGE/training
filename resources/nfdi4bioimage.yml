@@ -15911,3 +15911,14 @@ resources:
   url:
   - https://zenodo.org/records/14045172
   - https://doi.org/10.5281/zenodo.14045172
+- authors:
+  - Brian Northan
+  description: A collection of useful python utilities from True North Intelligent Algorithms
+  license: BSD 3-Clause "New" or "Revised" License
+  name: tnia-python
+  publication_date: '2021-04-26T20:58:05+00:00'
+  submission_date: '2025-07-21T21:06:15.666602'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/True-North-Intelligent-Algorithms/tnia-python
+  
