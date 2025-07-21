@@ -15911,3 +15911,14 @@ resources:
   url:
   - https://zenodo.org/records/14045172
   - https://doi.org/10.5281/zenodo.14045172
+- authors:
+  - Alexandre Hego
+  description: ''
+  license: BSD 3-Clause "New" or "Revised" License
+  name: DL-pixel-classification
+  publication_date: '2025-07-15T10:52:00+00:00'
+  submission_date: '2025-07-21T20:12:53.270979'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/AlexHego/DL-pixel-classification?tab=readme-ov-file
+  
