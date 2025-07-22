@@ -15910,4 +15910,13 @@ resources:
   submission_date: '2025-07-16T10:42:00.640310'
   url:
   - https://zenodo.org/records/14045172
-  - https://doi.org/10.5281/zenodo.14045172
+  - https://doi.org/10.5281/zenodo.14045172- authors:
+  - Michael
+  license: cc-by-4.0
+  name: DNG in BioFormat opens in wrong resolution
+  num_downloads: 4
+  publication_date: '2025-07-15'
+  submission_date: '2025-07-22T11:24:17.409487'
+  url:
+  - https://zenodo.org/records/15933943
+  - https://doi.org/10.5281/zenodo.15933943
