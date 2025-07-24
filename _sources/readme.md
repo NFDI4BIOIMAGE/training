@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (525 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/10460434) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (193 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/15314214) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Melanoma Histopathology Dataset with Tissue and Nuclei Annotations](https://zenodo.org/records/15050523) by "Schuiveling, Mark" (97 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (132 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
