@@ -1,4 +1,4 @@
-# Doi.org (293)
+# Doi.org (294)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1495,6 +1495,23 @@ We would like to thank all the commentators of the previous versions, especially
 [https://zenodo.org/records/11521029](https://zenodo.org/records/11521029)
 
 [https://doi.org/10.5281/zenodo.11521029](https://doi.org/10.5281/zenodo.11521029)
+
+
+---
+
+## DNG in BioFormat opens in wrong resolution
+
+Michael
+
+Published 2025-07-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15933943](https://zenodo.org/records/15933943)
+
+[https://doi.org/10.5281/zenodo.15933943](https://doi.org/10.5281/zenodo.15933943)
 
 
 ---

@@ -1,4 +1,4 @@
-# Cc-by-4.0 (364)
+# Cc-by-4.0 (365)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1771,6 +1771,23 @@ Tags: Bioimage Analysis
 Content type: Notebook, Collection
 
 [https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
+
+
+---
+
+## DNG in BioFormat opens in wrong resolution
+
+Michael
+
+Published 2025-07-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15933943](https://zenodo.org/records/15933943)
+
+[https://doi.org/10.5281/zenodo.15933943](https://doi.org/10.5281/zenodo.15933943)
 
 
 ---

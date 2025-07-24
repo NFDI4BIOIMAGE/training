@@ -53,6 +53,23 @@ In the afternoon, participants engaged in practical sessions. Martin Sch&auml;tz
 
 ---
 
+## DNG in BioFormat opens in wrong resolution
+
+Michael
+
+Published 2025-07-15
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/15933943](https://zenodo.org/records/15933943)
+
+[https://doi.org/10.5281/zenodo.15933943](https://doi.org/10.5281/zenodo.15933943)
+
+
+---
+
 ## FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis
 
 Katrin Frisch
@@ -68,25 +85,6 @@ Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit k&uuml;nstl
 [https://zenodo.org/records/14045172](https://zenodo.org/records/14045172)
 
 [https://doi.org/10.5281/zenodo.14045172](https://doi.org/10.5281/zenodo.14045172)
-
-
----
-
-## Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event)
-
-Wei-Chen Chu
-
-Published 2025-03-23
-
-Licensed CC-BY-4.0
-
-
-
-Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei (Lesson_04)Video Recording (in Mandarin): https://www.youtube.com/watch?v=uheSMSENnzE
-
-[https://zenodo.org/records/15070246](https://zenodo.org/records/15070246)
-
-[https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)
 
 
 ---
