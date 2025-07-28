@@ -15922,3 +15922,16 @@ resources:
   url:
   - https://zenodo.org/records/15933943
   - https://doi.org/10.5281/zenodo.15933943
+
+- authors:
+  - Lea Kabjesz
+  name: Annotating Images in Cellpose
+  license: CC-BY-4.0
+  proficiency_level: advanced beginner
+  tags:
+  - Image Annotation
+  - Cellpose
+  - Bioimage Analysis
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/06/05/annotating-images-in-cellpose/
