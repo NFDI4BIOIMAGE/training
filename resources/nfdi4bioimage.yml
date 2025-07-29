@@ -15922,3 +15922,196 @@ resources:
   url:
   - https://zenodo.org/records/15933943
   - https://doi.org/10.5281/zenodo.15933943
+- authors:
+  - Ahmadi, Mohsen
+  - Wagner, Robert
+  - Bekeschus, Sander
+  - Becker, Markus M.
+  description: This research data management workflow for bioimaging is designed to
+    bridge the gap between image metadata and experimental / process metadata. By
+    linking images and microscopy-related metadata with broader experimental records,
+    the workflow particularly supports the adoption of the FAIR (Findable, Accessible,
+    Interoperable, Reusable) data principles in interdisciplinary fields where bioimaging
+    is used to analyse treated samples requiring multimodal metadata. A Jupyter Notebook
+    guides the user through the metadata level, data handling level, and data processing
+    level and connects various software components in a modular manner. On the metadata
+    level, microscope-specific metadata are captured using the Micro-Meta App and
+    stored as reusable digital assets. Adamant provides a user interface to collect
+    and process schema-based metadata related to the experiment / treatment procedure.
+    Structured imaging and process metadata are attached to the complete experiment
+    description in eLabFTW. On the data handling level, OMERO serves as the central
+    platform for storing and managing microscopy images together with their metadata
+    retrieved from eLabFTW (workflow with ELN) or directly from JSON files (workflow
+    without ELN). On the data processing level, OMERO supports both automated and
+    manual image analysis either directly via the Jupyter Notebook or FIJI. Due to
+    the modularity of the workflow, the integrated tools can be substituted with equivalent
+    systems based on institutional / user requirements. Whether in teaching or research
+    settings, this workflow supports high-throughput, reproducible imaging workflows,
+    ensuring that data, metadata, and analysis steps remain transparent, interoperable,
+    and reusable across diverse bioimage analysis platforms.
+  license: cc-by-4.0
+  name: Bioimaging workflow based on OMERO, eLabFTW, and Adamant for integrating images
+    with multimodal metadata
+  num_downloads: 34
+  publication_date: '2025-07-29'
+  submission_date: '2025-07-29T11:23:35.593754'
+  url:
+  - https://zenodo.org/records/16561545
+  - https://doi.org/10.5281/zenodo.16561545
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2023.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2023
+  num_downloads: 17
+  publication_date: '2024-06-30'
+  submission_date: '2025-07-29T11:24:06.356862'
+  url:
+  - https://zenodo.org/records/16323251
+  - https://doi.org/10.5281/zenodo.16323251
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2021.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2021
+  num_downloads: 9
+  publication_date: '2022-06-30'
+  submission_date: '2025-07-29T11:24:07.205598'
+  url:
+  - https://zenodo.org/records/16357461
+  - https://doi.org/10.5281/zenodo.16357461
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2020.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2020
+  num_downloads: 9
+  publication_date: '2025-07-23'
+  submission_date: '2025-07-29T11:24:07.658051'
+  url:
+  - https://zenodo.org/records/16357209
+  - https://doi.org/10.5281/zenodo.16357209
+- authors:
+  - David, Romain
+  - Liaskos, Nektarios
+  - Rybina, Arina
+  - Arvanitidis, Christos
+  - Bage, Anne-Sophie
+  - Carvajal-Vallejos, Patricia K.
+  - Das, Sudeep
+  - De Pascalis, Francesca
+  - "D\xF6rr, Dorothea"
+  - Exter, Katrina
+  - Holub, Petr
+  - Gurwitz, Kim Tamara
+  - Liberante, Fabio
+  - Lieutaud, Philippe
+  - Lister, Allyson
+  - Lopez, Joaquin
+  - "Madon, B\xE9n\xE9dicte"
+  - Massimi, Marzia
+  - Matteoni, Rafaele
+  - "M\xEErza, Maria"
+  - Morgan, Sarah
+  - Oezdemir, Bugra
+  - Panagiotopoulou, Maria
+  - Pavloudi, Christina
+  - P. Melo, Ana M.
+  - Sansone, Susanna-Assunta
+  - Schwalbe, Harald
+  - Serrano-Solano, Beatriz
+  - Sorzano, Carlos Oscar
+  - Urbinati, Emilio
+  - Tang, Jing
+  - Tedds, Jonathan
+  - Saunders, Gary
+  - Ewbank, Jonathan
+  description: 'Preprint in submission process to GigaScience journal
+
+    Abstract:
+
+    European Life Science Research Infrastructures (LS-RIs), one of the five major
+    RI Science Clusters in Europe, were established to provide access to cutting-edge
+    technologies to the scientific community. Individually, and collectively as the
+    LS-RI cluster, they contribute to the development of the European Open Science
+    Cloud (EOSC), under the aegis of the EOSC Federation. They are actively involved
+    in the design and implementation of Competence Centres (CCs). These aim to increase
+    the accessibility of domain-specific knowledge and tools, enhance interoperability,
+    facilitate sharing and harmonisation of procedures, and promote Open Science and
+    FAIR (Findable, Accessible, Interoperable, Reusable) practices. In this paper,
+    we report a landscape mapping of the existing resources that formed the basis
+    for the construction of CCs. We describe the possible design of CCs and their
+    articulation with the LS-RIs. We focus on community-based ideas and recommendations
+    to increase the potential of CCs to address long-standing challenges in sustainability,
+    governance, scalability, and interoperability of Open Science within EOSC and
+    the European Research Area (ERA) more generally.This paper provides a description
+    of the nascent LS CCs, built following a survey of needs and services of existing
+    LS-RI communities. When fully implemented, the LS CCs will serve as dynamic hubs
+    to foster innovation, contribute to the EOSC&rsquo;s future FAIR web of data,
+    and support ongoing developments of the EOSC Federation. They will act as drivers
+    of collaborative and impactful LS research in Europe and beyond. We explore the
+    underlying challenges, and propose solutions, to ensure that the establishment
+    of CCs will add value to the LS RI community, and to the EOSC, in a sustainable
+    way.'
+  license: cc-by-4.0
+  name: 'Life Science Competence Centres: Open by Design'
+  num_downloads: 259
+  publication_date: 2025-07
+  submission_date: '2025-07-29T11:24:09.482117'
+  url:
+  - https://zenodo.org/records/15798751
+  - https://doi.org/10.5281/zenodo.15798751
+- authors:
+  - Sorensen, Luke
+  - Saito, Ayame
+  - Poon, Sabrina
+  - Noe Han, Myat
+  - Hamnett, Ryan
+  - Neckel, Peter
+  - Humenick, Adam
+  - Mutunduwe, Keith
+  - Glennan, Christie
+  - Mahdavian, Narges
+  - JH Brookes, Simon
+  - M McQuade, Rachel
+  - PP Foong, Jaime
+  - "G\xF3mez-de-Mariscal, Estibaliz"
+  - "Mu\xF1oz Barrutia, Arrate"
+  - Kaltschmidt, Julia A.
+  - King, Sebastian K.
+  - Haase, Robert
+  - Carbone, Simona
+  - A. Veldhuis, Nicholas
+  - P. Poole, Daniel
+  - Rajasekhar, Pradeep
+  description: '
+
+    Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin
+    issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
+
+    Added StarDist models back and removed deepimageJ models for neuron segmentation
+
+    Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
+
+
+    Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1'
+  license: bsd-3-clause
+  name: Gut Analysis Toolbox
+  num_downloads: 177
+  publication_date: '2025-07-24'
+  submission_date: '2025-07-29T11:24:20.987957'
+  url:
+  - https://zenodo.org/records/16396219
+  - https://doi.org/10.5281/zenodo.16396219
