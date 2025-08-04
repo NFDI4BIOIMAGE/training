@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 756 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-07-31.
+This Jupyter Book contains 756 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-08-04.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/10460434) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (368 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia](https://zenodo.org/records/15314214) by "Luke Sorensen and Ayame Saito and Sabrina Poon and Myat Noe Han and Adam Humenick and Peter Neckel and Keith Mutunduwe and Christie Glennan and Narges Mahdavian and Simon JH Brookes and Rachel M McQuade and Jaime PP Foong and Sebastian K. King and Estibaliz  Gómez-de-Mariscal and Arrate Muñoz-Barrutia and Robert Haase and Simona Carbone and Nicholas A. Veldhuis and Daniel P. Poole and Pradeep Rajasekhar" (145 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (368 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (132 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15858127) by "Haase, Robert" (368 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
