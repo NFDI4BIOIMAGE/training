@@ -1,4 +1,4 @@
-# Aastha mathur (5)
+# Aastha mathur (6)
 ## Building a FAIR image data ecosystem for microscopy communities
 
 Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
@@ -52,6 +52,26 @@ Tags: Research Data Management
 Content type: Publication
 
 [https://arxiv.org/abs/2401.13023](https://arxiv.org/abs/2401.13023)
+
+
+---
+
+## From bioimaging projects to communities - GloBIAS BIA Seminar Series
+
+Aastha Mathur, Euro-BioImaging ERIC
+
+Published 2025-07-29
+
+Licensed CC-BY-4.0
+
+
+
+This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
+Date of presentation: 2025-07-24
+
+[https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
+
+[https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
 
 
 ---

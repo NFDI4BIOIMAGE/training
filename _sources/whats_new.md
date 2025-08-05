@@ -1,54 +1,19 @@
 # Recently added (10)
-## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+## Bioimaging workflow based on OMERO, eLabFTW, and Adamant for integrating images with multimodal metadata
 
-Robert Haase
+Mohsen Ahmadi, Robert Wagner, Sander Bekeschus, Becker, Markus M.
 
-Published 2025-07-10
-
-Licensed CC-BY-4.0
-
-
-
-These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
-
-[https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
-
-[https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
-
-
----
-
-## BioImage Analysis and Superresolution Microscopy Workshop 2023 (at Dartmouth College)
-
-Zuzana Burdíková, Zdeněk Švindrych, Martin Schätz, Jakub Soukup, Pat Robison
-
-Published 2023-06-07
+Published 2025-07-29
 
 Licensed CC-BY-4.0
 
 
 
-The full program is available in the repository (Schedule DMW 2023.rtf) with most of the presentations and all exercises. All exercise files are in ZIP files Data.zip and&nbsp;ThunderSTORM sample data 2023.zip.
+This research data management workflow for bioimaging is designed to bridge the gap between image metadata and experimental / process metadata. By linking images and microscopy-related metadata with broader experimental records, the workflow particularly supports the adoption of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles in interdisciplinary fields where bioimaging is used to analyse treated samples requiring multimodal metadata. A Jupyter Notebook guides the user through the metadata level, data handling level, and data processing level and connects various software components in a modular manner. On the metadata level, microscope-specific metadata are captured using the Micro-Meta App and stored as reusable digital assets. Adamant provides a user interface to collect and process schema-based metadata related to the experiment / treatment procedure. Structured imaging and process metadata are attached to the complete experiment description in eLabFTW. On the data handling level, OMERO serves as the central platform for storing and managing microscopy images together with their metadata retrieved from eLabFTW (workflow with ELN) or directly from JSON files (workflow without ELN). On the data processing level, OMERO supports both automated and manual image analysis either directly via the Jupyter Notebook or FIJI. Due to the modularity of the workflow, the integrated tools can be substituted with equivalent systems based on institutional / user requirements. Whether in teaching or research settings, this workflow supports high-throughput, reproducible imaging workflows, ensuring that data, metadata, and analysis steps remain transparent, interoperable, and reusable across diverse bioimage analysis platforms.
 
-Date: June 6-7, 2023
-Time: 9am - 5pm
-Location: Dartmouth College, 74 College St, Hanover, Kellogg 200
-Sponsor: bioMT (Lunch and coffee breaks)
+[https://zenodo.org/records/16561545](https://zenodo.org/records/16561545)
 
-Summary:
-The BioImage Analysis and Superresolution Microscopy Workshop 2023 took place at Dartmouth College, offering participants a comprehensive learning experience in the field of bioimage analysis and superresolution microscopy. Over the course of two days, researchers, scientists, and students immersed themselves in cutting-edge microscopy techniques and expanded their knowledge and practical skills.
-
-Day 1 (Tue, June 6):
-The workshop began with Zdenek Svindrych providing an overview of microscopy principles, methods, and theoretical foundations. Participants gained insights into image formation in fluorescence microscopes, resolution, and noise. This was followed by an introduction to superresolution microscopy techniques, including Single-Molecule localization Microscopy (STORM, PALM, DNA-PAINT) and Structured Illumination Microscopy (SIM, ISM, Airyscan, SoRa). Zuzana Burdikova then guided attendees through the theoretical aspects of bioimage processing in Fiji, covering image formats, multi-dimensional image analysis, data visualization, and quantitative analysis. Practical sessions allowed participants to apply their knowledge, exploring two-channel colocalization, image filtering, and quantitative measurements in Fiji.
-
-Day 2 (Wed, June 7):
-The second day commenced with a remote presentation by SVI.nl, introducing participants to the Huygens deconvolution software used in widefield, confocal, and superresolution microscopy. Zdenek Svindrych demonstrated the practical applications of ThunderSTORM, an ImageJ plug-in for single molecule localization microscopy (SMLM) data analysis and superresolution imaging. The session included an overview of the ThunderSTORM workflow, covering localization, filtering, rendering, and 3D STORM using the astigmatism method. Jakub Soukup explored advanced noise reduction algorithms such as Noise2Void and StarDist. Martin Sch&auml;tz discussed data management strategies.
-
-In the afternoon, participants engaged in practical sessions. Martin Sch&auml;tz presented Ilastik, a versatile software for image classification and segmentation. Pat Robison delivered a scientific lecture on the role of detyrosinated microtubules in contracting cardiomyocytes. Zdenek Svindrych, along with other experts, led a hands-on session on customizing Fiji using the ImageJ Macro language. The day concluded with a practical session on the interactive design of GPU-accelerated image data flow graphs in Fiji, guided by Martin Sch&auml;tz and the workshop team.
-
-[https://zenodo.org/records/8025067](https://zenodo.org/records/8025067)
-
-[https://doi.org/10.5281/zenodo.8025067](https://doi.org/10.5281/zenodo.8025067)
+[https://doi.org/10.5281/zenodo.16561545](https://doi.org/10.5281/zenodo.16561545)
 
 
 ---
@@ -70,151 +35,164 @@ Licensed CC-BY-4.0
 
 ---
 
-## FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis
-
-Katrin Frisch
-
-Published 2024-11-06
-
-Licensed CC-BY-4.0
-
-
-
-Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen. Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen, ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung des Ombudsman f&uuml;r die Wissenschaft (OfdW) dar, sondern beschreiben den Status Quo und ordnen bereits bestehende Empfehlungen aus Sicht der GWP ein, identifizieren L&uuml;cken und verweisen auf weiterf&uuml;hrende Literatur. Diese FAQ-Sammlung richtet sich prim&auml;r an Forschende. F&uuml;r die Nutzung von KI in der Lehre und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re KI-Richtlinien, angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen sowie Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen FAQ nicht besprochen.
-
-[https://zenodo.org/records/14045172](https://zenodo.org/records/14045172)
-
-[https://doi.org/10.5281/zenodo.14045172](https://doi.org/10.5281/zenodo.14045172)
-
-
----
-
-## Internal ALM BioImage Analysis workshop 2023
-
-Martin Schätz, Maria Azevedo, Paula Sampaio
-
-Published 2023-11-03
-
-Licensed CC-BY-4.0
-
-
-
-Internal ALM BioImage Analysis Workshop 2023OverviewThe Internal ALM BioImage Analysis Workshop 2023, organized by the Advanced Light Microscopy i3S scientific platform, was a comprehensive 2.5-day internal workshop dedicated to open-source BioImage Analysis. The event combined informative presentations with hands-on sessions, utilizing the EMBL Bioimage Analysis Desktop (BAND) Platform. The used sources for datasets and presentations are in Notes.Workshop ProgramDay 1: Foundations of BioImage AnalysisIntroduction to Research Data Management [00i3S_Data_Management_2023_MP_Slido]: An exploration of data management, naming conventions, and ethical considerations in BioImage Analysis and image manipulation. Referencing content from the NEUBIASAcademy@Home Webinar: "In Defense of Image Data &amp; Analysis Integrity."Interactive Image Data Flow Graphs with CLIJ2 in FIJI [01i3S_Interactive Image Data Flow Graphs]: A hands-on session introducing CLIJ2 in FIJI, with a focus on practical applications. Relevant datasets were explored during the presentation, and are described in notes.Day 2: Advanced Techniques in BioImage AnalysisNoise2Void Denoising with CSBdeep in FIJI [02i3S_IMCF_noise2void_EN] : Exploring the Noise2Void denoising approach using the CSBdeep FIJI plugin, with hands-on examples using data from the juglab/n2v GitHub repository.StarDist for Fluorescence Nuclei Segmentation [03i3S_schatzm_stardist_21] : An introduction to StarDist through the FIJI StarDist plugin, with hands-on experience using the BBBC004 dataset.Introduction to Napari 2023 [04i3S_Introduction to Napari 2023] : A hands-on session introducing Napari and its connection with CLIJ2. The datasets used were detailed in the presentation.Ilastik Pixel Classification and BioImage Model Zoo [05i3S_schatzm_Ilastik_woHandOn_PixObj_2023]: Hands-on exploration of Ilastik with a focus on pixel and object classification. Neural networks from the BioImage Model Zoo were also introduced.BioImage Model Zoo Possibilities [06i3S_BioImageModelZoo-Kreshuk]: An overview of the concept of BioImage Model Zoo and its potential applications.DeepImageJ Plugin with Hands-on on Stardist and Unet NNs [07i3S_deepImageJ-Gomez_de_Mariscal]: Introduction to the deepImageJ plugin, capable of utilizing models from the BioImage Model Zoo. The hands-on session focused on Stardist and Unet Neural Networks.Day 3: Practical Applications and Advanced TrainingHands-on with Ilastik Neural Networks: Utilizing BioImage Model Zoos, participants engaged in hands-on exercises using the Ilastik Multicut method from the AdvanceImageAnalysisEMBO2023 GitHub repository.Hands-on with Cellpose 2.0: Practical sessions included applying pre-trained models with the Simple Visual Cellpose Cheat Sheet. Participants also had the opportunity to train new models using original Cellpose datasets and larger data from BBBC019 and BBBC003 datasets.&nbsp;This workshop would not be possible without the previous excellent work of many people involved in the Network of European BioImage Analysts - NEUBIAS and without my attendance at the EMBO Practical Course Advanced methods in bioimage analysis .
-
-[https://zenodo.org/records/10205578](https://zenodo.org/records/10205578)
-
-[https://doi.org/10.5281/zenodo.10205578](https://doi.org/10.5281/zenodo.10205578)
-
-
----
-
-## Masterclasses from the Euro-Bioimaging EVOLVE Mentoring programme 2025
+## Euro-BioImaging Annual Report 2020
 
 Euro-BioImaging ERIC
 
-Published 2025-06-26
+Published 2025-07-23
 
 Licensed CC-BY-4.0
 
 
 
-EVOLVE Mentoring Masterclasses
-Description:This series captures the class guides of the 2025 masterclasses from Euro‑BioImaging's EVOLVE Mentoring Program.
-Included Masterclasses:
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2020.
 
-Peter O&rsquo;Toole &ndash; &ldquo;Entrepreneurship &amp; Leadership in Imaging Core Facilities&rdquo;&nbsp;Peter O&rsquo;Toole, President of the Royal Microscopical Society and Director of the Bioscience Technology Facility (University of York), kicks off the series with a deep dive into entrepreneurial leadership. He highlights how to balance science, business, and technology, emphasizing stakeholder engagement, staff investment, cross-training, and using social media to boost visibility and unlock funding.
-Ilaria Testa &ndash; &ldquo;Interdisciplinary Science, SMART Microscopy &amp; Team Building&rdquo;&nbsp;Professor Ilaria Testa (SciLifeLab &amp; KTH) reflects on her transition from physics to super-resolution microscopy and team leadership. Her session underscores the power of crossing disciplinary boundaries, mentorship, and innovation in live-cell imaging .
-Daphna Link‑Sourani &ndash; &ldquo;Leadership, Facility Management &amp; Work‑Life Balance&rdquo;&nbsp;Dr. Daphna Link‑Sourani (Technion Human MRI Research Center) challenges hierarchical notions of leadership, advocating instead for integrity, empathy, and strategic vision. She draws on her experience establishing an MRI facility to discuss crisis management, user engagement, and balancing career demands.
-Muriel Mari &ndash; &ldquo;Women in Science: Normalizing, Supporting &amp; Leading"&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dr. Muriel Mari (Aarhus University) leads a powerful reflection on gender equity in science. Her masterclass goes beyond barriers&mdash;focusing on cultural shifts, inclusive leadership, and redefining success. She encourages institutions and individuals alike to move from tokenism to transformative support, and to recognize the diverse paths women take in STEM.
-Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FAIR Core Facilities&rdquo;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dr. Sylvia Le D&eacute;v&eacute;dec (Leiden University) discusses how to integrate FAIR data principles in imaging core facilities. Drawing on her experience with high-content imaging and Open Science advocacy, she outlines actionable steps toward sustainable, reusable, and accessible data workflows.
+[https://zenodo.org/records/16357209](https://zenodo.org/records/16357209)
 
-Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
-
-[https://zenodo.org/records/15837532](https://zenodo.org/records/15837532)
-
-[https://doi.org/10.5281/zenodo.15837532](https://doi.org/10.5281/zenodo.15837532)
+[https://doi.org/10.5281/zenodo.16357209](https://doi.org/10.5281/zenodo.16357209)
 
 
 ---
 
-## Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica, Taiwan
+## Euro-BioImaging Annual Report 2021
 
-Wei-Chen Chu
+Euro-BioImaging ERIC
 
-Published 2024-08-09
+Published 2022-06-30
 
 Licensed CC-BY-4.0
 
 
 
-Presentation file used in the &nbsp;Open source AI Tools for bioimage analysis workshop @ICOB, Academia Sinica, Taiwan (2024)Introduce ilastik, StarDist, Cellpose, Segment Anything Model (SAM), and how to use it briefly.
-Full video recording (in Chinese) is available on YouTube: https://youtu.be/KqwssouW0G0
-This document is part III of the previous document:Chu, W.-C. (2024). Bioimage Analysis with FIJI /ImageJ &amp; Friends workshop (2024) @ICOB, Academia Sinica, Taiwan. Zenodo. https://doi.org/10.5281/zenodo.12803966
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2021.
 
-[https://zenodo.org/records/13284351](https://zenodo.org/records/13284351)
+[https://zenodo.org/records/16357461](https://zenodo.org/records/16357461)
 
-[https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)
+[https://doi.org/10.5281/zenodo.16357461](https://doi.org/10.5281/zenodo.16357461)
 
 
 ---
 
-## data_visualization_tutorial
+## Euro-BioImaging Annual Report 2023
 
-Stefan Halfpap
+Euro-BioImaging ERIC
 
-Published 2025-04-25T21:00:39+00:00
-
-
-
-
-
-Tags: Data Visualization
-
-Content type: Github Repository
-
-[https://github.com/klauck/data_visualization_tutorial](https://github.com/klauck/data_visualization_tutorial)
-
-
----
-
-## image-processing-basics
-
-Myles Scolnick
-
-Published 2025-05-27T08:31:14+00:00
-
-Licensed APACHE-2.0
-
-
-
-Teaching material for image processing and analysis
-
-Tags: Bioimage Analysis
-
-Content type: Github Repository
-
-[https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
-
-
----
-
-## qupath-workshop
-
-Antoine A. Ruzette, dependabot[bot]
-
-Published 2025-01-16T14:05:02+00:00
+Published 2024-06-30
 
 Licensed CC-BY-4.0
 
 
 
-Materials supporting the QuPath workshop at Harvard Medical School.
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2023.
 
-Tags: Notebook, Slides, Collection
+[https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
 
-Content type: Github Repository
+[https://doi.org/10.5281/zenodo.16323251](https://doi.org/10.5281/zenodo.16323251)
 
-[https://github.com/HMS-IAC/qupath-workshop](https://github.com/HMS-IAC/qupath-workshop)
+
+---
+
+## From bioimaging projects to communities - GloBIAS BIA Seminar Series
+
+Aastha Mathur, Euro-BioImaging ERIC
+
+Published 2025-07-29
+
+Licensed CC-BY-4.0
+
+
+
+This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
+Date of presentation: 2025-07-24
+
+[https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
+
+[https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
+
+
+---
+
+## Gut Analysis Toolbox
+
+Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
+
+Published 2025-07-24
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
+Added StarDist models back and removed deepimageJ models for neuron segmentation
+Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
+
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
+
+[https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
+
+[https://doi.org/10.5281/zenodo.16396219](https://doi.org/10.5281/zenodo.16396219)
+
+
+---
+
+## Life Science Competence Centres: Open by Design
+
+Romain David, Nektarios Liaskos, Arina Rybina, Christos Arvanitidis, Anne-Sophie Bage, Carvajal-Vallejos, Patricia K., Sudeep Das, De Pascalis, Francesca, Dorothea Dörr, Katrina Exter, Petr Holub, Gurwitz, Kim Tamara, Fabio Liberante, Philippe Lieutaud, Allyson Lister, Joaquin Lopez, Bénédicte Madon, Marzia Massimi, Rafaele Matteoni, Maria Mîrza, Sarah Morgan, Bugra Oezdemir, Maria Panagiotopoulou, Christina Pavloudi, P. Melo, Ana M., Susanna-Assunta Sansone, Harald Schwalbe, Beatriz Serrano-Solano, Sorzano, Carlos Oscar, Emilio Urbinati, Jing Tang, Jonathan Tedds, Gary Saunders, Jonathan Ewbank
+
+Published 2025-07
+
+Licensed CC-BY-4.0
+
+
+
+Preprint in submission process to GigaScience journal
+Abstract:
+European Life Science Research Infrastructures (LS-RIs), one of the five major RI Science Clusters in Europe, were established to provide access to cutting-edge technologies to the scientific community. Individually, and collectively as the LS-RI cluster, they contribute to the development of the European Open Science Cloud (EOSC), under the aegis of the EOSC Federation. They are actively involved in the design and implementation of Competence Centres (CCs). These aim to increase the accessibility of domain-specific knowledge and tools, enhance interoperability, facilitate sharing and harmonisation of procedures, and promote Open Science and FAIR (Findable, Accessible, Interoperable, Reusable) practices. In this paper, we report a landscape mapping of the existing resources that formed the basis for the construction of CCs. We describe the possible design of CCs and their articulation with the LS-RIs. We focus on community-based ideas and recommendations to increase the potential of CCs to address long-standing challenges in sustainability, governance, scalability, and interoperability of Open Science within EOSC and the European Research Area (ERA) more generally.This paper provides a description of the nascent LS CCs, built following a survey of needs and services of existing LS-RI communities. When fully implemented, the LS CCs will serve as dynamic hubs to foster innovation, contribute to the EOSC&rsquo;s future FAIR web of data, and support ongoing developments of the EOSC Federation. They will act as drivers of collaborative and impactful LS research in Europe and beyond. We explore the underlying challenges, and propose solutions, to ensure that the establishment of CCs will add value to the LS RI community, and to the EOSC, in a sustainable way.
+
+[https://zenodo.org/records/15798751](https://zenodo.org/records/15798751)
+
+[https://doi.org/10.5281/zenodo.15798751](https://doi.org/10.5281/zenodo.15798751)
+
+
+---
+
+## Nd2 does not open in Fiji Bio_formats 8.1.1 (on Windows)
+
+Loïc Sauteur
+
+Published 2025-07-31
+
+Licensed CC-BY-4.0
+
+
+
+Related to github issue: https://github.com/ome/bioformats/issues/3517
+&nbsp;
+
+[https://zenodo.org/records/16628927](https://zenodo.org/records/16628927)
+
+[https://doi.org/10.5281/zenodo.16628927](https://doi.org/10.5281/zenodo.16628927)
+
+
+---
+
+## [Solved] Sample fluorescence .qptiff file not rendered correctly by QuPath v.0.6.0, correctly by Qupath v.0.5.1
+
+VP
+
+Published 2025-07-29
+
+Licensed CDLA-SHARING-1.0
+
+
+
+Solution: https://forum.image.sc/t/weird-representation-of-qptiff-of-fluorescent-sample-in-qupath-v-0-6-0/115165/6?u=zuksmp3
+Image in qptiff file format of an immunofluorescence sample acquired on a KF-400-FL slide scanner. Image with three channels: blue, red, green. Weirdly rendered by QuPath v.0.6.0, but correctly displayed in v.0.5.1 and Fiji.
+
+[https://zenodo.org/records/16569043](https://zenodo.org/records/16569043)
+
+[https://doi.org/10.5281/zenodo.16569043](https://doi.org/10.5281/zenodo.16569043)
 
 
 ---

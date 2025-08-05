@@ -216,25 +216,22 @@ Content type: Notebook
 
 Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
 
-Published 2025-02-23
+Published 2025-07-24
 
 Licensed BSD-3-CLAUSE
 
 
 
-Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0
-Skip versions to 1.0
-Fixed major bugs:
 
-Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
-Fixed ganglia model to be compatible with new versions of deepImageJ
-Updated all scripts to accommodate for new deepImageJ workflow
-Added macros to generate user dialog when running GAT for first time
+Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
+Added StarDist models back and removed deepimageJ models for neuron segmentation
+Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
 
+Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
 
-[https://zenodo.org/records/14913673](https://zenodo.org/records/14913673)
+[https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
 
-[https://doi.org/10.5281/zenodo.14913673](https://doi.org/10.5281/zenodo.14913673)
+[https://doi.org/10.5281/zenodo.16396219](https://doi.org/10.5281/zenodo.16396219)
 
 
 ---
@@ -573,7 +570,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

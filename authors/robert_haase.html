@@ -249,7 +249,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (32)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-3.0.html">Cc-by-3.0 (5)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (365)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (372)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-nc-sa-4.0.html">Cc-by-nc-sa-4.0 (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (25)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
@@ -262,7 +262,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../domain/bbbc.broadinstitute.org.html">Bbbc.broadinstitute.org (12)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (294)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (302)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
@@ -272,7 +272,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (18)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (18)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (28)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (280)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (288)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -851,17 +851,14 @@ Releated exercise materials are available online: <a class="reference external" 
 <section id="gut-analysis-toolbox">
 <h2>Gut Analysis Toolbox<a class="headerlink" href="#gut-analysis-toolbox" title="Link to this heading">#</a></h2>
 <p>Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar</p>
-<p>Published 2025-02-23</p>
+<p>Published 2025-07-24</p>
 <p>Licensed BSD-3-CLAUSE</p>
-<p>Full Changelog: <a class="reference external" href="https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7...v1.0">https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.7…v1.0</a>
-Skip versions to 1.0
-Fixed major bugs:</p>
-<p>Use deepImageJ to run Stardist models, due to issue with tensorflow in Fiji
-Fixed ganglia model to be compatible with new versions of deepImageJ
-Updated all scripts to accommodate for new deepImageJ workflow
-Added macros to generate user dialog when running GAT for first time</p>
-<p><a class="reference external" href="https://zenodo.org/records/14913673">https://zenodo.org/records/14913673</a></p>
-<p><a class="reference external" href="https://doi.org/10.5281/zenodo.14913673">https://doi.org/10.5281/zenodo.14913673</a></p>
+<p>Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
+Added StarDist models back and removed deepimageJ models for neuron segmentation
+Updated documentation website to use a stable Fiji download: <a class="reference external" href="https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration">https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration</a></p>
+<p>Full Changelog: <a class="reference external" href="https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1">https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0…v1.1</a></p>
+<p><a class="reference external" href="https://zenodo.org/records/16396219">https://zenodo.org/records/16396219</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.16396219">https://doi.org/10.5281/zenodo.16396219</a></p>
 </section>
 <hr class="docutils" />
 <section id="gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">

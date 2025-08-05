@@ -1,4 +1,61 @@
-# Euro-bioimaging eric (6)
+# Euro-bioimaging eric (10)
+## Euro-BioImaging Annual Report 2020
+
+Euro-BioImaging ERIC
+
+Published 2025-07-23
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2020.
+
+[https://zenodo.org/records/16357209](https://zenodo.org/records/16357209)
+
+[https://doi.org/10.5281/zenodo.16357209](https://doi.org/10.5281/zenodo.16357209)
+
+
+---
+
+## Euro-BioImaging Annual Report 2021
+
+Euro-BioImaging ERIC
+
+Published 2022-06-30
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2021.
+
+[https://zenodo.org/records/16357461](https://zenodo.org/records/16357461)
+
+[https://doi.org/10.5281/zenodo.16357461](https://doi.org/10.5281/zenodo.16357461)
+
+
+---
+
+## Euro-BioImaging Annual Report 2023
+
+Euro-BioImaging ERIC
+
+Published 2024-06-30
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2023.
+
+[https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
+
+[https://doi.org/10.5281/zenodo.16323251](https://doi.org/10.5281/zenodo.16323251)
+
+
+---
+
 ## Euro-BioImaging ERIC Annual Report 2022
 
 Euro-BioImaging ERIC
@@ -61,6 +118,26 @@ Content type: Collection, Tutorial
 [https://zenodo.org/records/11473803](https://zenodo.org/records/11473803)
 
 [https://doi.org/10.5281/zenodo.11473803](https://doi.org/10.5281/zenodo.11473803)
+
+
+---
+
+## From bioimaging projects to communities - GloBIAS BIA Seminar Series
+
+Aastha Mathur, Euro-BioImaging ERIC
+
+Published 2025-07-29
+
+Licensed CC-BY-4.0
+
+
+
+This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
+Date of presentation: 2025-07-24
+
+[https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
+
+[https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
 
 
 ---

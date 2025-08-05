@@ -1,0 +1,676 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Luke sorensen (2) &#8212; NFDI4BioImage Training Materials</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/searchbox.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/0.6.0/lunr.min.js"></script>
+    <script src="../_static/js/searchbox.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'authors/luke_sorensen';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="2025-08-05"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../readme.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../readme.html">
+                    NFDI4BioImage Training Materials
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributing/index.html">How to contribute</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../contributing/submit_app.html">Using the Training Materials Submission App</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/format.html">YML format</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../tags/ai-ready.html">Ai-ready (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (201)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (46)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (140)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (92)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (64)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (55)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (84)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (38)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../licenses/all_rights_reserved.html">All rights reserved (13)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/apache-2.0.html">Apache-2.0 (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (32)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-3.0.html">Cc-by-3.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (372)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-nc-sa-4.0.html">Cc-by-nc-sa-4.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (25)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (31)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (109)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../domain/bbbc.broadinstitute.org.html">Bbbc.broadinstitute.org (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (302)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (145)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.biorxiv.org.html">Www.biorxiv.org (6)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (18)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (288)</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../statistics/readme.html">Statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../export/readme.html">Open data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gdpr_compliance.html">GDPR Compliance Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../imprint.html">Imprint</a></li>
+
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/NFDI4BIOIMAGE/training/issues/new?title=Issue%20on%20page%20%2Fauthors/luke_sorensen.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/authors/luke_sorensen.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Luke sorensen (2)</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox">Gut Analysis Toolbox</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="luke-sorensen-2">
+<h1>Luke sorensen (2)<a class="headerlink" href="#luke-sorensen-2" title="Link to this heading">#</a></h1>
+<section id="gut-analysis-toolbox">
+<h2>Gut Analysis Toolbox<a class="headerlink" href="#gut-analysis-toolbox" title="Link to this heading">#</a></h2>
+<p>Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar</p>
+<p>Published 2025-07-24</p>
+<p>Licensed BSD-3-CLAUSE</p>
+<p>Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
+Added StarDist models back and removed deepimageJ models for neuron segmentation
+Updated documentation website to use a stable Fiji download: <a class="reference external" href="https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration">https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration</a></p>
+<p>Full Changelog: <a class="reference external" href="https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1">https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0…v1.1</a></p>
+<p><a class="reference external" href="https://zenodo.org/records/16396219">https://zenodo.org/records/16396219</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.16396219">https://doi.org/10.5281/zenodo.16396219</a></p>
+</section>
+<hr class="docutils" />
+<section id="gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">
+<h2>Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia<a class="headerlink" href="#gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia" title="Link to this heading">#</a></h2>
+<p>Luke Sorensen, Ayame Saito, Sabrina Poon, Myat Noe Han, Adam Humenick, Peter Neckel, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, Simon JH Brookes, Rachel M McQuade, Jaime PP Foong, Sebastian K. King, Estibaliz  Gómez-de-Mariscal, Arrate Muñoz-Barrutia, Robert Haase, Simona Carbone, Nicholas A. Veldhuis, Daniel P. Poole, Pradeep Rajasekhar</p>
+<p>Published 2025-05-01</p>
+<p>Licensed CC-BY-4.0</p>
+<p>This upload is associated with the software, Gut Analysis Toolbox (GAT).
+If you use it please cite:
+Sorensen et al. Gut Analysis Toolbox: Automating quantitative analysis of enteric neurons. J Cell Sci 2024; jcs.261950. doi: <a class="reference external" href="https://doi.org/10.1242/jcs.261950">https://doi.org/10.1242/jcs.261950</a>
+The upload contains StarDist models for segmenting enteric neurons in 2D, enteric neuronal subtypes in 2D and FPN+ResNet101 model for enteric ganglia in 2D in gut wholemount tissue. GAT is implemented in Fiji, but the models can be used in any software that supports StarDist and the use of 2D UNet models. The files here also consist of Python notebooks (Google Colab), training and test data as well as reports on model performance.
+Note: The enteric ganglia model is has been updated to v3 which uses pytorch and is a different architecture (FPN+ResNet101).
+The model files are located in the respective folders as zip files. The folders have also been zipped:</p>
+<p>Neuron (Hu; StarDist model):</p>
+<p>Main folder: 2D_enteric_neuron_model_QA.zip
+StarDist Model File:2D_enteric_neuron_v4_1.zip 
+DeepImageJ compatible model: 2D_enteric_neuron.bioimage.io.model.zip (used currently in GAT)</p>
+<p>Neuronal subtype (StarDist model): </p>
+<p>Main folder: 2D_enteric_neuron_subtype_model_QA.zip
+Model File: 2D_enteric_neuron_subtype_v4.zip
+DeepImageJ compatible model: 2D_enteric_neuron_subtype.bioimage.io.model.zip (used currently in GAT)</p>
+<p>Enteric ganglia (2D FPN_ResNet101; Use in FIJI with deepImageJ)</p>
+<p>Main folder: 2D_enteric_ganglia_v3_training.zip
+Model File: 2D_Ganglia_RGB_v3.bioimage.io.model.zip (used currently in GAT)</p>
+<p>For the all models, files included are:</p>
+<p>Model for segmenting cells or ganglia in 2D FIJI. StarDist or 2D UNet.
+Training and Test datasets used for training.
+Google Colab notebooks used for training and quality assurance (ZeroCost DL4Mic notebooks).
+Python notebook and code for training ganglia model with QA.
+Quality assurance reports generated from above notebooks.
+StarDist model exported for use in QuPath.</p>
+<p>The model files can be used within can be used within the software, StarDist. They are intended to be used within FIJI or QuPath, but can be used in any software that supports the implementation of StarDist in 2D.
+Data:
+All the images were collected from 4 different research labs and a public database (SPARC database) to account for variations in image acquisition, sample preparation and immunolabelling.
+For enteric neurons the pan-neuronal marker, Hu has been used and the  2D wholemounts images from mouse, rat and human tissue.
+For enteric neuronal subtypes, 2D images for nNOS, MOR, DOR, ChAT, Calretinin, Calbindin, Neurofilament, CGRP and SST from mouse tissue have been used..
+25 images were used from the following entries in the SPARC database:</p>
+<p>Howard, M. (2021). 3D imaging of enteric neurons in mouse (Version 1) [Data set]. SPARC Consortium.
+Graham, K. D., Huerta-Lopez, S., Sengupta, R., Shenoy, A., Schneider, S., Wright, C. M., Feldman, M., Furth, E., Lemke, A., Wilkins, B. J., Naji, A., Doolin, E., Howard, M., &amp; Heuckeroth, R. (2020). Robust 3-Dimensional visualization of human colon enteric nervous system without tissue sectioning (Version 1) [Data set]. SPARC Consortium.
+Wang, L., Yuan, P.-Q., Gould, T. and Tache, Y. (2021). Antibodies Tested in theColon – Mouse (Version 1) [Data set]. SPARC Consortium. doi:10.26275/i7dl-58h</p>
+<p>Additional images for new ganglia model:</p>
+<p>Hamnett, R., Dershowitz, L. B., Sampathkumar, V., Wang, Z., Gomez-Frittelli, J., De Andrade, V., Kasthuri, N., Druckmann, S. and Kaltschmidt, J. A. (2022b). Regional cytoarchitecture of the adult and developing mouse enteric nervous system. Curr. Biol. 32, 4483-4492.e5.</p>
+<p>The images have been acquired using a combination different microscopes. The images for the mouse tissue were acquired using: </p>
+<p>Leica TCS-SP8 confocal system (20x HC PL APO NA 1.33, 40 x HC PL APO NA 1.3) </p>
+<p>Leica TCS-SP8 lightning confocal system (20x HC PL APO NA 0.88) </p>
+<p>Zeiss Axio Imager M2 (20X HC PL APO NA 0.3) </p>
+<p>Zeiss Axio Imager Z1 (10X HC PL APO NA 0.45) </p>
+<p>Human tissue images were acquired using: </p>
+<p>IX71 Olympus microscope (10X HC PL APO NA 0.3) </p>
+<p>For more information, visit the Documentation website.
+NOTE: The images for enteric neurons and neuronal subtypes have been rescaled to 0.568 µm/pixel for mouse and rat. For human neurons, it has been rescaled to 0.9 µm/pixel . This is to ensure the neuronal cell bodies have similar pixel area across images. The area of cells in pixels can vary based on resolution of image, magnification of objective used, animal species (larger animals -&gt; larger neurons) and potentially how the tissue is stretched during wholemount preparation 
+Average neuron area for neuronal model: 701.2 ± 195.9 pixel2 (Mean ± SD, 6267 cells)
+Average neuron area for neuronal subtype model: 880.9 ± 316 pixel2 (Mean ± SD, 924 cells)
+Software References:
+Stardist
+Schmidt, U., Weigert, M., Broaddus, C., &amp; Myers, G. (2018, September). Cell detection with star-convex polygons. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 265-273). Springer, Cham.
+deepImageJ
+Gómez-de-Mariscal, E., García-López-de-Haro, C., Ouyang, W., Donati, L., Lundberg, E., Unser, M., Muñoz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly environment to run deep learning models in ImageJ. Nature Methods, 18(10), pp.1192-1195.
+ZeroCost DL4Mic
+von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hernández-Pérez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic. Nature communications, 12(1), pp.1-18.</p>
+<p><a class="reference external" href="https://zenodo.org/records/15314214">https://zenodo.org/records/15314214</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.15314214">https://doi.org/10.5281/zenodo.15314214</a></p>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./authors"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox">Gut Analysis Toolbox</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gut-analysis-toolbox-training-data-and-2d-models-for-segmenting-enteric-neurons-neuronal-subtypes-and-ganglia">Gut Analysis Toolbox: Training data and 2D models for segmenting enteric neurons, neuronal subtypes and ganglia</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on 2025-08-05.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p>
+Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise. 
+Contributions and feedback are welcome.
+</p>
+
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
