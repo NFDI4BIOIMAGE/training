@@ -16163,3 +16163,34 @@ resources:
   url:
   - https://zenodo.org/records/16569043
   - https://doi.org/10.5281/zenodo.16569043
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2024.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2024
+  num_downloads: 16
+  publication_date: '2025-06-30'
+  submission_date: '2025-08-12T11:23:08.932382'
+  url:
+  - https://zenodo.org/records/16761197
+  - https://doi.org/10.5281/zenodo.16761197
+- authors:
+  - "Preu\xDFner, Johannes"
+  description: When using bioformats the images are not scaled correctly. The problem
+    arises with low magnifications where the lengths in the metadata are given in
+    &micro;m (not in nm). Attached are two pictures. Only with the picture with the
+    ending &ldquo;Correct_scale_bar&rdquo; the import is working correctly. One issue
+    might be that the metadata information of the images are stored in iso-8859-1&nbsp;
+  license: cc-by-4.0
+  name: Images acquired with Zeiss Sigma 300 - Images with low magnification are corrently
+    not handeled correctly
+  num_downloads: 1
+  publication_date: '2025-08-07'
+  submission_date: '2025-08-12T11:24:14.084129'
+  url:
+  - https://zenodo.org/records/16760282
+  - https://doi.org/10.5281/zenodo.16760282
