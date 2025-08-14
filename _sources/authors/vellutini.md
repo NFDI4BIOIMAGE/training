@@ -1,28 +1,4 @@
-# Recently added (10)
-## Gut Analysis Toolbox
-
-Luke Sorensen, Ayame Saito, Sabrina Poon, Noe Han, Myat, Ryan Hamnett, Peter Neckel, Adam Humenick, Keith Mutunduwe, Christie Glennan, Narges Mahdavian, JH Brookes, Simon, M McQuade, Rachel, PP Foong, Jaime, Estibaliz Gómez-de-Mariscal, Muñoz Barrutia, Arrate, Kaltschmidt, Julia A., King, Sebastian K., Robert Haase, Simona Carbone, A. Veldhuis, Nicholas, P. Poole, Daniel, Pradeep Rajasekhar
-
-Published 2025-07-24
-
-Licensed BSD-3-CLAUSE
-
-
-
-
-Reverted to StarDist for neuron segmentation. Used this bugfix for stardist plugin issue. protobuf-java-3.23.4.jar is being shipped as part of GAT update site.
-Added StarDist models back and removed deepimageJ models for neuron segmentation
-Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
-
-Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
-
-[https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
-
-[https://doi.org/10.5281/zenodo.16396219](https://doi.org/10.5281/zenodo.16396219)
-
-
----
-
+# Vellutini (7)
 ## How to make cartographic projections using ImSAnE
 
 Vellutini, Bruno C.
@@ -103,26 +79,6 @@ Please refer to the main repository for more information:&nbsp;https://doi.org/1
 [https://zenodo.org/records/15869598](https://zenodo.org/records/15869598)
 
 [https://doi.org/10.5281/zenodo.15869598](https://doi.org/10.5281/zenodo.15869598)
-
-
----
-
-## Nd2 does not open in Fiji Bio_formats 8.1.1 (on Windows)
-
-Loïc Sauteur
-
-Published 2025-07-31
-
-Licensed CC-BY-4.0
-
-
-
-Related to github issue: https://github.com/ome/bioformats/issues/3517
-&nbsp;
-
-[https://zenodo.org/records/16628927](https://zenodo.org/records/16628927)
-
-[https://doi.org/10.5281/zenodo.16628927](https://doi.org/10.5281/zenodo.16628927)
 
 
 ---
@@ -234,26 +190,6 @@ The main repository is maintained at&nbsp;https://github.com/bruvellu/cephalic-f
 [https://zenodo.org/records/15880584](https://zenodo.org/records/15880584)
 
 [https://doi.org/10.5281/zenodo.15880584](https://doi.org/10.5281/zenodo.15880584)
-
-
----
-
-## [Solved] Sample fluorescence .qptiff file not rendered correctly by QuPath v.0.6.0, correctly by Qupath v.0.5.1
-
-VP
-
-Published 2025-07-29
-
-Licensed CDLA-SHARING-1.0
-
-
-
-Solution: https://forum.image.sc/t/weird-representation-of-qptiff-of-fluorescent-sample-in-qupath-v-0-6-0/115165/6?u=zuksmp3
-Image in qptiff file format of an immunofluorescence sample acquired on a KF-400-FL slide scanner. Image with three channels: blue, red, green. Weirdly rendered by QuPath v.0.6.0, but correctly displayed in v.0.5.1 and Fiji.
-
-[https://zenodo.org/records/16569043](https://zenodo.org/records/16569043)
-
-[https://doi.org/10.5281/zenodo.16569043](https://doi.org/10.5281/zenodo.16569043)
 
 
 ---
