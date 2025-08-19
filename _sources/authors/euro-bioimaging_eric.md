@@ -1,4 +1,4 @@
-# Euro-bioimaging eric (10)
+# Euro-bioimaging eric (11)
 ## Euro-BioImaging Annual Report 2020
 
 Euro-BioImaging ERIC
@@ -52,6 +52,25 @@ Euro-BioImaging ERIC is the European landmark research infrastructure for biolog
 [https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
 
 [https://doi.org/10.5281/zenodo.16323251](https://doi.org/10.5281/zenodo.16323251)
+
+
+---
+
+## Euro-BioImaging Annual Report 2024
+
+Euro-BioImaging ERIC
+
+Published 2025-06-30
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2024.
+
+[https://zenodo.org/records/16761197](https://zenodo.org/records/16761197)
+
+[https://doi.org/10.5281/zenodo.16761197](https://doi.org/10.5281/zenodo.16761197)
 
 
 ---

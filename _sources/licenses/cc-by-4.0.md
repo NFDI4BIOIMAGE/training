@@ -1,4 +1,27 @@
-# Cc-by-4.0 (378)
+# Cc-by-4.0 (381)
+## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
+
+Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
+
+Published 2025-08-15
+
+Licensed CC-BY-4.0
+
+
+
+Presentation matherial from the course "Management of Microscopy Image Data: An Overview of OMERO, BioImage Archive and Image Data Resource"&nbsp;helded in Uni Leipzig on the 04/07/2025.
+This course is part of the RDM lecture series organized by&nbsp;Dr. Dr. habil. Dagmar Quandt.
+Link to the event:
+https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
+M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project number [NFDI46/1] - 501864659
+
+[https://zenodo.org/records/16880913](https://zenodo.org/records/16880913)
+
+[https://doi.org/10.5281/zenodo.16880913](https://doi.org/10.5281/zenodo.16880913)
+
+
+---
+
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1777,6 +1800,25 @@ Content type: Slides
 
 ---
 
+## DCIMG dense beads taken in chunks over time
+
+Zach Marin
+
+Published 2025-08-14
+
+Licensed CC-BY-4.0
+
+
+
+Two 2000-frame chunks acquired at different times (~40 minutes apart) on a 4Pi widefield, showing some slow sample drift.&nbsp;
+
+[https://zenodo.org/records/16875377](https://zenodo.org/records/16875377)
+
+[https://doi.org/10.5281/zenodo.16875377](https://doi.org/10.5281/zenodo.16875377)
+
+
+---
+
 ## DL4MicEverywhere
 
 Iván Hidalgo, et al.
@@ -2696,6 +2738,25 @@ Euro-BioImaging ERIC is the European landmark research infrastructure for biolog
 [https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
 
 [https://doi.org/10.5281/zenodo.16323251](https://doi.org/10.5281/zenodo.16323251)
+
+
+---
+
+## Euro-BioImaging Annual Report 2024
+
+Euro-BioImaging ERIC
+
+Published 2025-06-30
+
+Licensed CC-BY-4.0
+
+
+
+Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2024.
+
+[https://zenodo.org/records/16761197](https://zenodo.org/records/16761197)
+
+[https://doi.org/10.5281/zenodo.16761197](https://doi.org/10.5281/zenodo.16761197)
 
 
 ---
@@ -4241,6 +4302,25 @@ The work was funded by the Ministry of Education, Youth and Sports by grant &lsq
 [https://zenodo.org/records/15827771](https://zenodo.org/records/15827771)
 
 [https://doi.org/10.5281/zenodo.15827771](https://doi.org/10.5281/zenodo.15827771)
+
+
+---
+
+## Images acquired with Zeiss Sigma 300 - Images with low magnification are corrently not handeled correctly
+
+Johannes Preußner
+
+Published 2025-08-07
+
+Licensed CC-BY-4.0
+
+
+
+When using bioformats the images are not scaled correctly. The problem arises with low magnifications where the lengths in the metadata are given in &micro;m (not in nm). Attached are two pictures. Only with the picture with the ending &ldquo;Correct_scale_bar&rdquo; the import is working correctly. One issue might be that the metadata information of the images are stored in iso-8859-1&nbsp;
+
+[https://zenodo.org/records/16760282](https://zenodo.org/records/16760282)
+
+[https://doi.org/10.5281/zenodo.16760282](https://doi.org/10.5281/zenodo.16760282)
 
 
 ---
@@ -6032,7 +6112,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -6470,7 +6550,7 @@ Content type: Publication
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -6770,35 +6850,6 @@ The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
 [https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
 
 [https://doi.org/10.5281/zenodo.13338425](https://doi.org/10.5281/zenodo.13338425)
-
-
----
-
-## Repository for: Patterned embryonic invagination evolved in response to mechanical instability
-
-Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
-
-Published 2025-07-14
-
-Licensed CC-BY-4.0
-
-
-
-This is the main repository for the manuscript:
-Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
-Here are all the associated repositories:
-
-Main repository (code and data): https://doi.org/10.5281/zenodo.7781947
-Model and simulations (code and data): https://doi.org/10.5281/zenodo.7784906
-Lightsheet and in situ experiments (imaging data): https://doi.org/10.5281/zenodo.15876638
-Laser perturbation experiments (imaging data): https://doi.org/10.5281/zenodo.15876646
-Figures and videos (media files): https://doi.org/10.5281/zenodo.7781916
-
-The main repository is maintained at&nbsp;https://github.com/bruvellu/cephalic-furrow.
-
-[https://zenodo.org/records/15880584](https://zenodo.org/records/15880584)
-
-[https://doi.org/10.5281/zenodo.15880584](https://doi.org/10.5281/zenodo.15880584)
 
 
 ---
@@ -8502,7 +8553,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

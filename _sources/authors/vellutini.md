@@ -1,4 +1,27 @@
 # Vellutini (7)
+## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
+
+Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
+
+Published 2025-08-15
+
+Licensed CC-BY-4.0
+
+
+
+Presentation matherial from the course "Management of Microscopy Image Data: An Overview of OMERO, BioImage Archive and Image Data Resource"&nbsp;helded in Uni Leipzig on the 04/07/2025.
+This course is part of the RDM lecture series organized by&nbsp;Dr. Dr. habil. Dagmar Quandt.
+Link to the event:
+https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
+M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project number [NFDI46/1] - 501864659
+
+[https://zenodo.org/records/16880913](https://zenodo.org/records/16880913)
+
+[https://doi.org/10.5281/zenodo.16880913](https://doi.org/10.5281/zenodo.16880913)
+
+
+---
+
 ## How to make cartographic projections using ImSAnE
 
 Vellutini, Bruno C.
@@ -161,35 +184,6 @@ The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
 [https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
 
 [https://doi.org/10.5281/zenodo.13338425](https://doi.org/10.5281/zenodo.13338425)
-
-
----
-
-## Repository for: Patterned embryonic invagination evolved in response to mechanical instability
-
-Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
-
-Published 2025-07-14
-
-Licensed CC-BY-4.0
-
-
-
-This is the main repository for the manuscript:
-Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
-Here are all the associated repositories:
-
-Main repository (code and data): https://doi.org/10.5281/zenodo.7781947
-Model and simulations (code and data): https://doi.org/10.5281/zenodo.7784906
-Lightsheet and in situ experiments (imaging data): https://doi.org/10.5281/zenodo.15876638
-Laser perturbation experiments (imaging data): https://doi.org/10.5281/zenodo.15876646
-Figures and videos (media files): https://doi.org/10.5281/zenodo.7781916
-
-The main repository is maintained at&nbsp;https://github.com/bruvellu/cephalic-furrow.
-
-[https://zenodo.org/records/15880584](https://zenodo.org/records/15880584)
-
-[https://doi.org/10.5281/zenodo.15880584](https://doi.org/10.5281/zenodo.15880584)
 
 
 ---
