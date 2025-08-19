@@ -16401,4 +16401,70 @@ resources:
   url:
   - https://zenodo.org/records/15880584
   - https://doi.org/10.5281/zenodo.15880584
-  
+  - authors:
+  - Massei, Riccardo
+  description: 'Presentation matherial from the course "Management of Microscopy Image
+    Data: An Overview of OMERO, BioImage Archive and Image Data Resource"&nbsp;helded
+    in Uni Leipzig on the 04/07/2025.
+
+    This course is part of the RDM lecture series organized by&nbsp;Dr. Dr. habil.
+    Dagmar Quandt.
+
+    Link to the event:
+
+    https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
+
+    M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project
+    number [NFDI46/1] - 501864659'
+  license: cc-by-4.0
+  name: '"Management of Microscopy Image Data: An overview of OMERO, BioImage Archive
+    and Image Data Resource"  2025 @ Uni Leipzig'
+  num_downloads: 55
+  publication_date: '2025-08-15'
+  submission_date: '2025-08-19T11:20:28.232034'
+  url:
+  - https://zenodo.org/records/16880913
+  - https://doi.org/10.5281/zenodo.16880913
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2024.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2024
+  num_downloads: 21
+  publication_date: '2025-06-30'
+  submission_date: '2025-08-19T11:21:00.690284'
+  url:
+  - https://zenodo.org/records/16761197
+  - https://doi.org/10.5281/zenodo.16761197
+- authors:
+  - Marin, Zach
+  description: Two 2000-frame chunks acquired at different times (~40 minutes apart)
+    on a 4Pi widefield, showing some slow sample drift.&nbsp;
+  license: cc-by-4.0
+  name: DCIMG dense beads taken in chunks over time
+  num_downloads: 0
+  publication_date: '2025-08-14'
+  submission_date: '2025-08-19T11:21:28.919627'
+  url:
+  - https://zenodo.org/records/16875377
+  - https://doi.org/10.5281/zenodo.16875377
+- authors:
+  - "Preu\xDFner, Johannes"
+  description: When using bioformats the images are not scaled correctly. The problem
+    arises with low magnifications where the lengths in the metadata are given in
+    &micro;m (not in nm). Attached are two pictures. Only with the picture with the
+    ending &ldquo;Correct_scale_bar&rdquo; the import is working correctly. One issue
+    might be that the metadata information of the images are stored in iso-8859-1&nbsp;
+  license: cc-by-4.0
+  name: Images acquired with Zeiss Sigma 300 - Images with low magnification are corrently
+    not handeled correctly
+  num_downloads: 4
+  publication_date: '2025-08-07'
+  submission_date: '2025-08-19T11:21:29.423840'
+  url:
+  - https://zenodo.org/records/16760282
+  - https://doi.org/10.5281/zenodo.16760282
