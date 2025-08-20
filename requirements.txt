@@ -13,3 +13,5 @@ lunr
 umap-learn
 plotly
 sentence-transformers
+torch
+transformers
