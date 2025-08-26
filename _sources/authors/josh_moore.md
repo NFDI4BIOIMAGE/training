@@ -1,4 +1,4 @@
-# Josh moore (38)
+# Josh moore (39)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -52,6 +52,25 @@ This pre-congress meeting provides an opportunity for the UK Bioimaging communit
 [https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
 
 [https://doi.org/10.5281/zenodo.15756866](https://doi.org/10.5281/zenodo.15756866)
+
+
+---
+
+## Cloud-Native Formats Enable Federated Repositories at Peta-Scale
+
+Josh Moore
+
+Published 2025-09-27
+
+Licensed CC-BY-4.0
+
+
+
+Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
+
+[https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
+
+[https://doi.org/10.5281/zenodo.16911980](https://doi.org/10.5281/zenodo.16911980)
 
 
 ---
@@ -151,7 +170,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -705,7 +724,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

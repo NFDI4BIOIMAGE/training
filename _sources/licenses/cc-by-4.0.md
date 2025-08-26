@@ -1,4 +1,4 @@
-# Cc-by-4.0 (381)
+# Cc-by-4.0 (383)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -1430,6 +1430,25 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 [https://zenodo.org/records/13371196](https://zenodo.org/records/13371196)
 
 [https://doi.org/10.5281/zenodo.13371196](https://doi.org/10.5281/zenodo.13371196)
+
+
+---
+
+## Cloud-Native Formats Enable Federated Repositories at Peta-Scale
+
+Josh Moore
+
+Published 2025-09-27
+
+Licensed CC-BY-4.0
+
+
+
+Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
+
+[https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
+
+[https://doi.org/10.5281/zenodo.16911980](https://doi.org/10.5281/zenodo.16911980)
 
 
 ---
@@ -4282,6 +4301,31 @@ Update: we now also provide ready-to-print versions designed to be printed on A3
 
 ---
 
+## ImageJ Bioformats 8.3.0 Importer Incorrectly Reading ND2 Metadata
+
+Snyder, Erika, Erika Thomas, Erika T.
+
+Published 2025-08-21
+
+Licensed CC-BY-4.0
+
+
+
+Hi all,I was referred to this community from the Image.sc Forum original post: https://forum.image.sc/t/imagej-bioformats-importer-incorrectly-reading-metadata/115943
+I have an ND2 file, 3 color channels, 2 positions in the well, and 81 timepoints. However, when I open this as I normally would in ImageJ as a hyperstack, the stack interpretation is totally incorrect. It is including my Z-positions as frames in the timelapse. Even when I open the series for the positions independently, images from the other series will appear within it. I am running Bioformats 8.3.0.&nbsp;
+I have tried swapping dimensions. That did not work. I have tried creating substacks to parse out one series from the other, this also did not work.
+The only thing I can think of that is different from before is that I was previously aquiring z-stacks with our MCL nanodrive Piezo, and we had to have that serviced so in the meantime I used the Ti2 eclipse camera drive for z-stack aquisiton. I have opened the metadata to compare aquisitions between the two, and the stack order appears exactly the same, although Bioformats has no problem reading the metadata for aquisitions with the Piezo. I have also opened this file in NIS elements viewer, and all the information for the stacks appears correctly, so I dont think aquisitions is the issue.
+I have also tried opening this file on multiple computers with multiple versions of imageJ, and the issue persists.
+Any advice would be greatly appreciated I am panicking a bit because this is a few months worth of data I am suddenly not able to analyze.&nbsp;
+Please let me know if there's anything else needed to help figure this out.&nbsp;
+
+[https://zenodo.org/records/16921650](https://zenodo.org/records/16921650)
+
+[https://doi.org/10.5281/zenodo.16921650](https://doi.org/10.5281/zenodo.16921650)
+
+
+---
+
 ## ImageJ tool for percentage estimation of pneumonia in lungs
 
 Martin Schätz, Olga Rubešová, Jan Mareš, Alan Spark
@@ -6112,7 +6156,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -6550,7 +6594,7 @@ Content type: Publication
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -8553,7 +8597,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
