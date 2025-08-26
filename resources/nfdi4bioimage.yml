@@ -16468,3 +16468,55 @@ resources:
   url:
   - https://zenodo.org/records/16760282
   - https://doi.org/10.5281/zenodo.16760282
+- authors:
+  - Moore, Josh
+  description: 'Poster presentation for the abstract "Enabling Peta-Scale Federated
+    Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge
+    in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure
+    (CoRDI) 2025'
+  license: cc-by-4.0
+  name: Cloud-Native Formats Enable Federated Repositories at Peta-Scale
+  num_downloads: 31
+  publication_date: '2025-09-27'
+  submission_date: '2025-08-26T11:21:33.318328'
+  url:
+  - https://zenodo.org/records/16911980
+  - https://doi.org/10.5281/zenodo.16911980
+- authors:
+  - Snyder, Erika, Erika Thomas, Erika T.
+  description: 'Hi all,I was referred to this community from the Image.sc Forum original
+    post: https://forum.image.sc/t/imagej-bioformats-importer-incorrectly-reading-metadata/115943
+
+    I have an ND2 file, 3 color channels, 2 positions in the well, and 81 timepoints.
+    However, when I open this as I normally would in ImageJ as a hyperstack, the stack
+    interpretation is totally incorrect. It is including my Z-positions as frames
+    in the timelapse. Even when I open the series for the positions independently,
+    images from the other series will appear within it. I am running Bioformats 8.3.0.&nbsp;
+
+    I have tried swapping dimensions. That did not work. I have tried creating substacks
+    to parse out one series from the other, this also did not work.
+
+    The only thing I can think of that is different from before is that I was previously
+    aquiring z-stacks with our MCL nanodrive Piezo, and we had to have that serviced
+    so in the meantime I used the Ti2 eclipse camera drive for z-stack aquisiton.
+    I have opened the metadata to compare aquisitions between the two, and the stack
+    order appears exactly the same, although Bioformats has no problem reading the
+    metadata for aquisitions with the Piezo. I have also opened this file in NIS elements
+    viewer, and all the information for the stacks appears correctly, so I dont think
+    aquisitions is the issue.
+
+    I have also tried opening this file on multiple computers with multiple versions
+    of imageJ, and the issue persists.
+
+    Any advice would be greatly appreciated I am panicking a bit because this is a
+    few months worth of data I am suddenly not able to analyze.&nbsp;
+
+    Please let me know if there''s anything else needed to help figure this out.&nbsp;'
+  license: cc-by-4.0
+  name: ImageJ Bioformats 8.3.0 Importer Incorrectly Reading ND2 Metadata
+  num_downloads: 23
+  publication_date: '2025-08-21'
+  submission_date: '2025-08-26T11:23:21.174341'
+  url:
+  - https://zenodo.org/records/16921650
+  - https://doi.org/10.5281/zenodo.16921650
