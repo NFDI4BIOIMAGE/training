@@ -16520,3 +16520,23 @@ resources:
   url:
   - https://zenodo.org/records/16921650
   - https://doi.org/10.5281/zenodo.16921650
+
+- authors:
+  - Barry, David J
+  - Marcotti, Stefania
+  - Salgueiro Torres, Sara
+  - Jones, Martin
+  - "Sk\xF3rkowska, Alicja"
+  description: 'Presentation slides associated with the Introduction to Image Analysis
+    workshop run at the Francis Crick Institute on 18-19th August 2025:
+  
+    https://doi.org/10.5281/zenodo.16949737'
+  license: cc-by-sa-4.0
+  name: Introduction to Image Analysis
+  num_downloads: 123
+  publication_date: '2025-08-19'
+  submission_date: '2025-08-29T00:13:26.789156'
+  url:
+  - https://zenodo.org/records/16949737
+  - https://doi.org/10.5281/zenodo.16949737
+  
