@@ -16520,3 +16520,19 @@ resources:
   url:
   - https://zenodo.org/records/16921650
   - https://doi.org/10.5281/zenodo.16921650
+
+- authors:
+  - Dave Barry
+  - Stefania Marcotti
+  - Sara Salgueiro Torres
+  - Martin Jones
+  - AlicjaSkorkowska
+  description: ''
+  license: Creative Commons Attribution Share Alike 4.0 International
+  name: introduction-to-image-analysis
+  publication_date: '2025-08-26T14:08:22+00:00'
+  submission_date: '2025-08-29T00:10:58.358044'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/FrancisCrickInstitute/introduction-to-image-analysis
+  
