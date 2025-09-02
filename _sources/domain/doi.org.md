@@ -1,4 +1,4 @@
-# Doi.org (314)
+# Doi.org (316)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -300,6 +300,23 @@ Tags: Nfdi4Bioimage, Research Data Management
 [https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
 
 [https://doi.org/10.5281/zenodo.7890311](https://doi.org/10.5281/zenodo.7890311)
+
+
+---
+
+## A mihc mrxs example
+
+Wang
+
+Published 2025-08-27
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/16962727](https://zenodo.org/records/16962727)
+
+[https://doi.org/10.5281/zenodo.16962727](https://doi.org/10.5281/zenodo.16962727)
 
 
 ---
@@ -3907,6 +3924,26 @@ Bio-Formats version : 8.0.1
 
 ---
 
+## Increasing the FAIRness of electron microscopy data in life and material science research
+
+Cornelia Wetzker
+
+Published 2025-08-31
+
+Licensed CC-BY-4.0
+
+
+
+The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
+C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
+
+[https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
+
+[https://doi.org/10.5281/zenodo.17014253](https://doi.org/10.5281/zenodo.17014253)
+
+
+---
+
 ## Ink in a dish
 
 Cavanagh
@@ -5959,7 +5996,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -7695,7 +7732,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

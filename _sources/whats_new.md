@@ -22,6 +22,23 @@ M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project
 
 ---
 
+## A mihc mrxs example
+
+Wang
+
+Published 2025-08-27
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/16962727](https://zenodo.org/records/16962727)
+
+[https://doi.org/10.5281/zenodo.16962727](https://doi.org/10.5281/zenodo.16962727)
+
+
+---
+
 ## Cloud-Native Formats Enable Federated Repositories at Peta-Scale
 
 Josh Moore
@@ -123,23 +140,22 @@ When using bioformats the images are not scaled correctly. The problem arises wi
 
 ---
 
-## Laser perturbation imaging data for: Patterned invagination prevents mechanical instability during gastrulation
+## Increasing the FAIRness of electron microscopy data in life and material science research
 
-Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
+Cornelia Wetzker
 
-Published 2025-07-14
+Published 2025-08-31
 
 Licensed CC-BY-4.0
 
 
 
-This repository contains the imaging data for the laser perturbation experiments of the manuscript:
-Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
-Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
+The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
+C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
 
-[https://zenodo.org/records/15876646](https://zenodo.org/records/15876646)
+[https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
 
-[https://doi.org/10.5281/zenodo.15876646](https://doi.org/10.5281/zenodo.15876646)
+[https://doi.org/10.5281/zenodo.17014253](https://doi.org/10.5281/zenodo.17014253)
 
 
 ---
@@ -182,27 +198,6 @@ Please refer to the main repository for more information:&nbsp;https://doi.org/1
 [https://zenodo.org/records/15869598](https://zenodo.org/records/15869598)
 
 [https://doi.org/10.5281/zenodo.15869598](https://doi.org/10.5281/zenodo.15869598)
-
-
----
-
-## Repository for: Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning
-
-Vellutini, Bruno C., Martín-Durán, José M., Aina Børve, Andreas Hejnol
-
-Published 2024-08-16
-
-Licensed CC-BY-4.0
-
-
-
-This repository contains the data and analyses for the manuscript:
-Vellutini, B. C., Mart&iacute;n-Dur&aacute;n, J. M., B&oslash;rve, A. &amp; Hejnol, A.&nbsp;Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning.&nbsp;BMC Biol. 22, 1&ndash;23 (2024).&nbsp;https://doi.org/10.1186/s12915-024-01988-w
-The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
-
-[https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
-
-[https://doi.org/10.5281/zenodo.13338425](https://doi.org/10.5281/zenodo.13338425)
 
 
 ---
