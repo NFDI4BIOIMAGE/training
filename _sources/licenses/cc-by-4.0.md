@@ -1,4 +1,4 @@
-# Cc-by-4.0 (385)
+# Cc-by-4.0 (387)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -2717,6 +2717,28 @@ Graduation presentation for the 7th cohort of the Open Seeds mentoring &amp; tra
 [https://zenodo.org/records/8182154](https://zenodo.org/records/8182154)
 
 [https://doi.org/10.5281/zenodo.8182154](https://doi.org/10.5281/zenodo.8182154)
+
+
+---
+
+## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+
+Euro-BioImaging ERIC
+
+Published 2025-09-03
+
+Licensed CC-BY-4.0
+
+
+
+Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+This version has&nbsp;not yet been reviewed or approved by the European Commission&nbsp;and is made publicly available for transparency and early community feedback.
+A final, EC-approved version will be published when available.
+This document presents a strategic analysis of training resources for Euro-BioImaging Nodes, assessing bothNode-organized and global opportunities. By analyzing Node-organized and externally available trainingcourses, alongside insights from recent surveys and training bursary applications, this report provides afoundation for strengthening the training framework of Euro-BioImagingDelivering high-quality imaging services relies on continuous skill development, particularly as scientificadvancements and technological innovations reshape the imaging landscape.&nbsp;
+
+[https://zenodo.org/records/17048377](https://zenodo.org/records/17048377)
+
+[https://doi.org/10.5281/zenodo.17048377](https://doi.org/10.5281/zenodo.17048377)
 
 
 ---
@@ -6193,7 +6215,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -6631,7 +6653,7 @@ Content type: Publication
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -7120,6 +7142,23 @@ Tags: Python, Artificial Intelligence, Bioimage Analysis
 Content type: Blog Post
 
 [https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html](https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html)
+
+
+---
+
+## STEDYCON OBF dataset with simulated intensity and complex stacks for bioformats MR #4362
+
+Nils Gladitz
+
+Published 2025-09-02
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17039369](https://zenodo.org/records/17039369)
+
+[https://doi.org/10.5281/zenodo.17039369](https://doi.org/10.5281/zenodo.17039369)
 
 
 ---
@@ -8634,7 +8673,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

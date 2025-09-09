@@ -77,6 +77,28 @@ Two 2000-frame chunks acquired at different times (~40 minutes apart) on a 4Pi w
 
 ---
 
+## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+
+Euro-BioImaging ERIC
+
+Published 2025-09-03
+
+Licensed CC-BY-4.0
+
+
+
+Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+This version has&nbsp;not yet been reviewed or approved by the European Commission&nbsp;and is made publicly available for transparency and early community feedback.
+A final, EC-approved version will be published when available.
+This document presents a strategic analysis of training resources for Euro-BioImaging Nodes, assessing bothNode-organized and global opportunities. By analyzing Node-organized and externally available trainingcourses, alongside insights from recent surveys and training bursary applications, this report provides afoundation for strengthening the training framework of Euro-BioImagingDelivering high-quality imaging services relies on continuous skill development, particularly as scientificadvancements and technological innovations reshape the imaging landscape.&nbsp;
+
+[https://zenodo.org/records/17048377](https://zenodo.org/records/17048377)
+
+[https://doi.org/10.5281/zenodo.17048377](https://doi.org/10.5281/zenodo.17048377)
+
+
+---
+
 ## Euro-BioImaging Annual Report 2024
 
 Euro-BioImaging ERIC
@@ -160,44 +182,19 @@ C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemein
 
 ---
 
-## Lightsheet and in situ imaging data for: Patterned invagination prevents mechanical instability during gastrulation
+## STEDYCON OBF dataset with simulated intensity and complex stacks for bioformats MR #4362
 
-Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
+Nils Gladitz
 
-Published 2025-07-14
-
-Licensed CC-BY-4.0
-
-
-
-This repository contains the lightsheet and in situ hybridization imaging data for the manuscript:
-Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
-Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
-
-[https://zenodo.org/records/15876638](https://zenodo.org/records/15876638)
-
-[https://doi.org/10.5281/zenodo.15876638](https://doi.org/10.5281/zenodo.15876638)
-
-
----
-
-## Model and simulations for: Patterned invagination prevents mechanical instability during gastrulation
-
-Abhijeet Krishna, Alicja Szałapak, Vellutini, Bruno C., Cuenca, Marina B., Pavel Tomančák, Modes, Carl D.
-
-Published 2025-07-14
+Published 2025-09-02
 
 Licensed CC-BY-4.0
 
 
 
-This repository contains the code and simulations for the manuscript:
-Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
-Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
+[https://zenodo.org/records/17039369](https://zenodo.org/records/17039369)
 
-[https://zenodo.org/records/15869598](https://zenodo.org/records/15869598)
-
-[https://doi.org/10.5281/zenodo.15869598](https://doi.org/10.5281/zenodo.15869598)
+[https://doi.org/10.5281/zenodo.17039369](https://doi.org/10.5281/zenodo.17039369)
 
 
 ---

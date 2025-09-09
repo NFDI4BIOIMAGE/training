@@ -1,4 +1,26 @@
-# Euro-bioimaging eric (11)
+# Euro-bioimaging eric (12)
+## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+
+Euro-BioImaging ERIC
+
+Published 2025-09-03
+
+Licensed CC-BY-4.0
+
+
+
+Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
+This version has&nbsp;not yet been reviewed or approved by the European Commission&nbsp;and is made publicly available for transparency and early community feedback.
+A final, EC-approved version will be published when available.
+This document presents a strategic analysis of training resources for Euro-BioImaging Nodes, assessing bothNode-organized and global opportunities. By analyzing Node-organized and externally available trainingcourses, alongside insights from recent surveys and training bursary applications, this report provides afoundation for strengthening the training framework of Euro-BioImagingDelivering high-quality imaging services relies on continuous skill development, particularly as scientificadvancements and technological innovations reshape the imaging landscape.&nbsp;
+
+[https://zenodo.org/records/17048377](https://zenodo.org/records/17048377)
+
+[https://doi.org/10.5281/zenodo.17048377](https://doi.org/10.5281/zenodo.17048377)
+
+
+---
+
 ## Euro-BioImaging Annual Report 2020
 
 Euro-BioImaging ERIC
