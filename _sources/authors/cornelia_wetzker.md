@@ -1,4 +1,4 @@
-# Cornelia wetzker (6)
+# Cornelia wetzker (7)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -65,6 +65,26 @@ Content type: Slides
 [https://zenodo.org/records/11548617](https://zenodo.org/records/11548617)
 
 [https://doi.org/10.5281/zenodo.11548617](https://doi.org/10.5281/zenodo.11548617)
+
+
+---
+
+## Increasing the FAIRness of electron microscopy data in life and material science research
+
+Cornelia Wetzker
+
+Published 2025-08-31
+
+Licensed CC-BY-4.0
+
+
+
+The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
+C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
+
+[https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
+
+[https://doi.org/10.5281/zenodo.17014253](https://doi.org/10.5281/zenodo.17014253)
 
 
 ---
