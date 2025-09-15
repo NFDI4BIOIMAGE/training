@@ -16594,7 +16594,10 @@ resources:
   name: nextflow101
   publication_date: '2025-08-19T14:51:21+00:00'
   submission_date: '2025-09-15T09:31:52.468616'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - Bioimage Analysis
+  - Workflows
+  type: 
+  - GitHub Repository
   url: https://github.com/uhlmanngroup/nextflow101
   
