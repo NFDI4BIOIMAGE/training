@@ -16598,6 +16598,9 @@ resources:
   submission_date: '2025-09-15T09:31:14.189165'
   tags: 
   - Bioimage Analysis
-  type: GitHub Repository
+  type: 
+  - GitHub Repository
+  - notebook
+  - collection
   url: https://github.com/uhlmanngroup/imagequantification101
   
