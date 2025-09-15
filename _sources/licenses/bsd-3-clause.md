@@ -1,4 +1,4 @@
-# Bsd-3-clause (33)
+# Bsd-3-clause (34)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -568,6 +568,27 @@ Tags: Python, Napari
 Content type: Github Repository
 
 [https://github.com/DragaDoncila/napari-scipy2025-workshop](https://github.com/DragaDoncila/napari-scipy2025-workshop)
+
+
+---
+
+## nextflow101
+
+Virginie
+
+Published 2025-08-19T14:51:21+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+NextFlow 101
+
+Tags: Bioimage Analysis, Workflows
+
+Content type: Github Repository
+
+[https://github.com/uhlmanngroup/nextflow101](https://github.com/uhlmanngroup/nextflow101)
 
 
 ---

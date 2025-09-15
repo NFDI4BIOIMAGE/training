@@ -76,25 +76,6 @@ This document presents a strategic analysis of training resources for Euro-BioIm
 
 ---
 
-## Euro-BioImaging Annual Report 2024
-
-Euro-BioImaging ERIC
-
-Published 2025-06-30
-
-Licensed CC-BY-4.0
-
-
-
-Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2024.
-
-[https://zenodo.org/records/16761197](https://zenodo.org/records/16761197)
-
-[https://doi.org/10.5281/zenodo.16761197](https://doi.org/10.5281/zenodo.16761197)
-
-
----
-
 ## ImageJ Bioformats 8.3.0 Importer Incorrectly Reading ND2 Metadata
 
 Snyder, Erika, Erika Thomas, Erika T.
@@ -193,6 +174,27 @@ Tags: Bioimage Analysis
 Content type: Github Repository, Notebook, Collection
 
 [https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
+
+
+---
+
+## nextflow101
+
+Virginie
+
+Published 2025-08-19T14:51:21+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+NextFlow 101
+
+Tags: Bioimage Analysis, Workflows
+
+Content type: Github Repository
+
+[https://github.com/uhlmanngroup/nextflow101](https://github.com/uhlmanngroup/nextflow101)
 
 
 ---

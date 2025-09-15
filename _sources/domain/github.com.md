@@ -1,4 +1,4 @@
-# Github.com (146)
+# Github.com (147)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2370,6 +2370,27 @@ Content type: Github Repository, Tutorial
 [https://github.com/vibbits/nextflow-workshop](https://github.com/vibbits/nextflow-workshop)
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/main/README.md#1)
+
+
+---
+
+## nextflow101
+
+Virginie
+
+Published 2025-08-19T14:51:21+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+NextFlow 101
+
+Tags: Bioimage Analysis, Workflows
+
+Content type: Github Repository
+
+[https://github.com/uhlmanngroup/nextflow101](https://github.com/uhlmanngroup/nextflow101)
 
 
 ---
