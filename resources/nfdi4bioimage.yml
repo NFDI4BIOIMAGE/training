@@ -16589,6 +16589,20 @@ resources:
 
 - authors:
   - Virginie
+  description: NextFlow 101
+  license: BSD 3-Clause "New" or "Revised" License
+  name: nextflow101
+  publication_date: '2025-08-19T14:51:21+00:00'
+  submission_date: '2025-09-15T09:31:52.468616'
+  tags: 
+  - Bioimage Analysis
+  - Workflows
+  type: 
+  - GitHub Repository
+  url: https://github.com/uhlmanngroup/nextflow101
+
+- authors:
+  - Virginie
   - Guillaume Witz
   - "Joel L\xFCthi"
   description: ''
@@ -16603,4 +16617,5 @@ resources:
   - notebook
   - collection
   url: https://github.com/uhlmanngroup/imagequantification101
+
   
