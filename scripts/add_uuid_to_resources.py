@@ -42,3 +42,4 @@ def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.ym
     pr_title = "Add missing UUIDs to resources"
     pr_description = f"Adds missing UUIDs to resources in the {file_path}. Closes #{issue_number}" if issue_number else pr_title
     send_pull_request(repository, branch_name, pr_title, pr_description)
+
