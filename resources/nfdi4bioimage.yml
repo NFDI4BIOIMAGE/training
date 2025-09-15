@@ -16589,6 +16589,22 @@ resources:
 
 - authors:
   - Virginie
+  - Johannes Hugger
+  description: A tutorial of classical shape analysis methods
+  license: BSD 3-Clause "New" or "Revised" License
+  name: shapeanalysis101
+  publication_date: '2021-05-17T13:32:40+00:00'
+  submission_date: '2025-09-15T09:38:35.654661'
+  tags: 
+  - Bioimage Analysis
+  type: 
+  - GitHub Repository
+  - notebook
+  - collection
+  url: https://github.com/uhlmanngroup/shapeanalysis101
+
+- authors:
+  - Virginie
   description: NextFlow 101
   license: BSD 3-Clause "New" or "Revised" License
   name: nextflow101
@@ -16617,5 +16633,4 @@ resources:
   - notebook
   - collection
   url: https://github.com/uhlmanngroup/imagequantification101
-
   
