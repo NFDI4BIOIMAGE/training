@@ -1,4 +1,4 @@
-# Guillaume witz (8)
+# Guillaume witz (9)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -116,6 +116,27 @@ Tags: Neubias, Bioimage Analysis
 Content type: Slides
 
 [https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53](https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53)
+
+
+---
+
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
 
 
 ---

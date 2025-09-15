@@ -1,4 +1,4 @@
-# Notebook (55)
+# Notebook (56)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -920,6 +920,27 @@ Content type: Notebook, Collection
 [https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
 
 [https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+
+
+---
+
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
 
 
 ---

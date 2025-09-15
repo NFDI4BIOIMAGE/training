@@ -1,4 +1,4 @@
-# Bioimage analysis (201)
+# Bioimage analysis (202)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2899,7 +2899,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -3495,6 +3495,27 @@ Tags: Bioimage Analysis
 Content type: Github Repository
 
 [https://github.com/fmi-faim/image-processing-basics](https://github.com/fmi-faim/image-processing-basics)
+
+
+---
+
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
 
 
 ---

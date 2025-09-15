@@ -1,27 +1,4 @@
 # Recently added (10)
-## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
-
-Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
-
-Published 2025-08-15
-
-Licensed CC-BY-4.0
-
-
-
-Presentation matherial from the course "Management of Microscopy Image Data: An Overview of OMERO, BioImage Archive and Image Data Resource"&nbsp;helded in Uni Leipzig on the 04/07/2025.
-This course is part of the RDM lecture series organized by&nbsp;Dr. Dr. habil. Dagmar Quandt.
-Link to the event:
-https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
-M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project number [NFDI46/1] - 501864659
-
-[https://zenodo.org/records/16880913](https://zenodo.org/records/16880913)
-
-[https://doi.org/10.5281/zenodo.16880913](https://doi.org/10.5281/zenodo.16880913)
-
-
----
-
 ## A mihc mrxs example
 
 Wang
@@ -195,6 +172,27 @@ Licensed CC-BY-4.0
 [https://zenodo.org/records/17039369](https://zenodo.org/records/17039369)
 
 [https://doi.org/10.5281/zenodo.17039369](https://doi.org/10.5281/zenodo.17039369)
+
+
+---
+
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
 
 
 ---

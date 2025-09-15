@@ -1,4 +1,4 @@
-# Bsd-3-clause (32)
+# Bsd-3-clause (33)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -530,6 +530,27 @@ Content type: Slides
 
 ---
 
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
+
+
+---
+
 ## napari-scipy2025-workshop
 
 Draga Doncila Pop
@@ -570,7 +591,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

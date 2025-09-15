@@ -1,4 +1,4 @@
-# Github.com (145)
+# Github.com (146)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1584,7 +1584,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -1605,7 +1605,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -2265,6 +2265,27 @@ Content type: Github Repository
 
 ---
 
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
+
+
+---
+
 ## introduction-to-generative-ai
 
 Bruna Piereck, Alexander Botzki
@@ -2393,7 +2414,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

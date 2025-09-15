@@ -1,4 +1,4 @@
-# Collection (84)
+# Collection (85)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -1335,6 +1335,27 @@ Tags: Bioimage Analysis
 Content type: Collection, Video
 
 [https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
+
+
+---
+
+## imagequantification101
+
+Virginie, Guillaume Witz, Joel Lüthi
+
+Published 2022-08-17T14:55:16+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/imagequantification101](https://github.com/uhlmanngroup/imagequantification101)
 
 
 ---
