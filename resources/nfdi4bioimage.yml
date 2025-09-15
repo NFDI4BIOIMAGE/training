@@ -16595,7 +16595,11 @@ resources:
   name: shapeanalysis101
   publication_date: '2021-05-17T13:32:40+00:00'
   submission_date: '2025-09-15T09:38:35.654661'
-  tags: TODO
-  type: GitHub Repository
+  tags: 
+  - Bioimage Analysis
+  type: 
+  - GitHub Repository
+  - notebook
+  - collection
   url: https://github.com/uhlmanngroup/shapeanalysis101
   
