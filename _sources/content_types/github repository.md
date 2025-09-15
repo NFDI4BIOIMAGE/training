@@ -1,4 +1,4 @@
-# Github repository (66)
+# Github repository (67)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -1289,6 +1289,27 @@ Tags: Bioimage Analysis, Machine Learning
 Content type: Github Repository
 
 [https://github.com/INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc)
+
+
+---
+
+## shapeanalysis101
+
+Virginie, Johannes Hugger
+
+Published 2021-05-17T13:32:40+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+A tutorial of classical shape analysis methods
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/shapeanalysis101](https://github.com/uhlmanngroup/shapeanalysis101)
 
 
 ---

@@ -1,4 +1,4 @@
-# Github.com (147)
+# Github.com (148)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2658,6 +2658,27 @@ Tags: Bioimage Analysis, Machine Learning
 Content type: Github Repository
 
 [https://github.com/INRIA/scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc)
+
+
+---
+
+## shapeanalysis101
+
+Virginie, Johannes Hugger
+
+Published 2021-05-17T13:32:40+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+A tutorial of classical shape analysis methods
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/shapeanalysis101](https://github.com/uhlmanngroup/shapeanalysis101)
 
 
 ---

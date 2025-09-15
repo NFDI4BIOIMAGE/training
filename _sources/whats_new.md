@@ -35,25 +35,6 @@ Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories
 
 ---
 
-## DCIMG dense beads taken in chunks over time
-
-Zach Marin
-
-Published 2025-08-14
-
-Licensed CC-BY-4.0
-
-
-
-Two 2000-frame chunks acquired at different times (~40 minutes apart) on a 4Pi widefield, showing some slow sample drift.&nbsp;
-
-[https://zenodo.org/records/16875377](https://zenodo.org/records/16875377)
-
-[https://doi.org/10.5281/zenodo.16875377](https://doi.org/10.5281/zenodo.16875377)
-
-
----
-
 ## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
 
 Euro-BioImaging ERIC
@@ -195,6 +176,27 @@ Tags: Bioimage Analysis, Workflows
 Content type: Github Repository
 
 [https://github.com/uhlmanngroup/nextflow101](https://github.com/uhlmanngroup/nextflow101)
+
+
+---
+
+## shapeanalysis101
+
+Virginie, Johannes Hugger
+
+Published 2021-05-17T13:32:40+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+A tutorial of classical shape analysis methods
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/shapeanalysis101](https://github.com/uhlmanngroup/shapeanalysis101)
 
 
 ---

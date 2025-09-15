@@ -1,4 +1,4 @@
-# Notebook (56)
+# Notebook (57)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -979,6 +979,27 @@ Tags: Histopathology, Bioimage Analysis
 Content type: Github Repository, Notebook
 
 [https://github.com/KatherLab/patho_prompt_injection](https://github.com/KatherLab/patho_prompt_injection)
+
+
+---
+
+## shapeanalysis101
+
+Virginie, Johannes Hugger
+
+Published 2021-05-17T13:32:40+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+A tutorial of classical shape analysis methods
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/shapeanalysis101](https://github.com/uhlmanngroup/shapeanalysis101)
 
 
 ---

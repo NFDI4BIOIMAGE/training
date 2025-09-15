@@ -1,4 +1,4 @@
-# Collection (85)
+# Collection (86)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
@@ -1371,6 +1371,27 @@ A searchable database of resources for light and electron microscopists
 Content type: Collection
 
 [https://www.microlist.org/](https://www.microlist.org/)
+
+
+---
+
+## shapeanalysis101
+
+Virginie, Johannes Hugger
+
+Published 2021-05-17T13:32:40+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+A tutorial of classical shape analysis methods
+
+Tags: Bioimage Analysis
+
+Content type: Github Repository, Notebook, Collection
+
+[https://github.com/uhlmanngroup/shapeanalysis101](https://github.com/uhlmanngroup/shapeanalysis101)
 
 
 ---
