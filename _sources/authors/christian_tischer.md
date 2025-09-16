@@ -1,4 +1,4 @@
-# Christian tischer (14)
+# Christian tischer (15)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -80,6 +80,25 @@ Tags: Neubias, Cellprofiler, Bioimage Analysis
 Content type: Tutorial
 
 [https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017](https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017)
+
+
+---
+
+## Cloud-Based Virtual Desktops for Reproducible Research
+
+Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
+
+Published 2025-09-10
+
+Licensed CC-BY-4.0
+
+
+
+Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
+
+[https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
+
+[https://doi.org/10.5281/zenodo.17092303](https://doi.org/10.5281/zenodo.17092303)
 
 
 ---

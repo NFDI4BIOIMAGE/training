@@ -1,4 +1,4 @@
-# Josh moore (39)
+# Josh moore (40)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -352,6 +352,25 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## When Data Doesn't Fit
+
+Josh Moore
+
+Published 2025-09-11
+
+Licensed CC-BY-4.0
+
+
+
+Presented at "International Symposium on Integrative Bioinformatics", Gatersleben Research Conference Series&nbsp;from&nbsp;September 10&ndash;12, 2025, &nbsp;https://meetings.ipk-gatersleben.de/grc-ib2025/
+
+[https://zenodo.org/records/17087096](https://zenodo.org/records/17087096)
+
+[https://doi.org/10.5281/zenodo.17087096](https://doi.org/10.5281/zenodo.17087096)
 
 
 ---

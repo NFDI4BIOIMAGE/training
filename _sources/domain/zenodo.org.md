@@ -1,4 +1,4 @@
-# Zenodo.org (304)
+# Zenodo.org (325)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -199,6 +199,25 @@ The presentations introduce open-source software to read in, visualize and analy
 [https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
 
 [https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
+
+
+---
+
+## A Perspective on FAIR and Scalable Access to Large Image Data
+
+Julia Thönnißen, Sarah Oliveira, Alexander Oberstrass, Jan-Oliver Kropp, Xiao Gui, Christian Schiffer, Timo Dickscheid
+
+Published 2025-08-04
+
+Licensed CC-BY-4.0
+
+
+
+The rapid development of new imaging technologies across scientific domains–especially high-throughput technologies–results in a growing volume of image datasets in the Tera- to Petabyte scale. Efficient visualization and analysis of such massive image resources is critical but remains challenging due to the sheer size of the data, its continuous growth, and the limitations of conventional software tools to address these problems. Tools for visualization, annotation and analysis of large image data are confronted with the fundamental dilemma of balancing computational efficiency and memory requirements. Many tools are unable to process large datasets due to memory constraints, requiring workarounds like downsampling. On the other hand, solutions that can handle large data efficiently often rely on specialized or even proprietary file formats, limiting interoperability with other software. This reflects diverging requirements: storage favours compression for efficiency, analysis demands fast data access, and visualization requires tiled, multi-resolution representations. Lacking a unified approach for these conflicting needs, the operation of large and dynamically evolving image repositories in practice often requires undesirable data conversions and costly data duplication. In addressing these challenges, the bioimaging community increasingly adheres to the FAIR principles [1] through national and international initiatives [2], [3], [4]. For example, the Open Microscopy Environment (OME) fosters standards such as OME-TIFF [5] and its cloud-native successor OME-NGFF [6]; BioFormats [7] and OMERO [8] facilitate metadata-rich data handling across diverse platforms; and BrAinPI [9] provides web-based visualization of images via Neuroglancer [10]. These tools represent important developments towards more efficient and standardized use of bioimaging data. However, for very large and dynamically growing repositories, it is still not feasible to settle on a single standard for a subset of these tools, in particular in the light of very diverging needs for massively parallel processing on HPC systems. Therefore, converting data to a single target format is often not a practical solution. We propose a concept for a modular image delivery service which acts as a middleware between large image data resources and applications, serving image data from a cloud resource in multiple requested representations on demand. The service allows reading data stored in different input file formats, applying coordinate transformations and filtering operations on-the-fly, and serving the results in a range of different output formats and layouts. Building upon a common framework for reading and transforming data, an extensible set of access points connects the service to client applications: Lightweight REST APIs allow web-based mutli-resolution access (e.g., in common formats such as used in Neuroglancer and OpenSeadragon base viewers); mountable filesystem interfaces enable linking the repository to file-oriented solutions (e.g., OMERO, ImageJ); and programmatic access from customizable software tools (e.g., Napari). To provide compatibility with upcoming image data standards like BIDS [11] and minimize conversion efforts, the service is able to dynamically expose standard-conform views into arbitrarily organized datasets. The proposed approach for reading and transforming data on-the-fly eliminates the need for redundant storage and application-specific conversions of datasets, improving workflow efficiency and sustainability. In summary, we advocate for the development of a flexible and extensible image data service that supports large-scale analysis, dynamic transformations, multi-tool interoperability, and compatibility with community standards for large image datasets. This way it supports the FAIR principles, reduces integration barriers, meets the performance demands of modern imaging research, and still fosters the use of existing community developments.
+
+[https://zenodo.org/records/16736220](https://zenodo.org/records/16736220)
+
+[https://doi.org/10.5281/zenodo.16736220](https://doi.org/10.5281/zenodo.16736220)
 
 
 ---
@@ -1165,6 +1184,25 @@ Large Language Models (LLMs) such as ChatGPT are changing the way we interact wi
 
 ---
 
+## Cloud-Based Virtual Desktops for Reproducible Research
+
+Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
+
+Published 2025-09-10
+
+Licensed CC-BY-4.0
+
+
+
+Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
+
+[https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
+
+[https://doi.org/10.5281/zenodo.17092303](https://doi.org/10.5281/zenodo.17092303)
+
+
+---
+
 ## Cloud-Native Formats Enable Federated Repositories at Peta-Scale
 
 Josh Moore
@@ -2079,6 +2117,25 @@ When training people in topics such as programming, bio-image analysis or data s
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
 [https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
+
+
+---
+
+## Development FAIR image analysis workflows and RDM pipelines in Galaxy
+
+Riccardo Massei, Beatriz Serrano-Solano, Anne Fouilloux, Björg Gruening, Yi Sun, Diana Chiang, Matthias Bernt, Leonid Kostrykin
+
+Published 2025-09-10
+
+Licensed CC-BY-4.0
+
+
+
+Imaging is crucial across various scientific disciplines, particularly in life sciences, where it plays a key role in studies ranging from single molecules to whole organisms. However, the complexity and sheer volume of image data present significant challenges. Managing and analyzing this data efficiently requires well-defined image processing tools and analysis pipelines that align with the FAIR principles—ensuring they are findable, accessible, interoperable, and reusable across different domains. In the frame of NFDI4BIOIMAGE1 (the National Research Data Infrastructure focusing on bioimaging in Germany), we want to find viable solutions for storing, processing, analyzing, and sharing bioimaging data. In particular, we want to develop solutions to make findable and machine-readable metadata developing analysis pipelines. In scientific research, such pipelines are crucial for maintaining data integrity, supporting reproducibility, and enabling interdisciplinary collaboration. These tools can be used by different users to retrieve images based on specific attributes as well as support quality control by identifying appropriate metadata. Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis2. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of RDM processes in bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation. In the present poster, we showed how to integrate RDM processes and tools in Galaxy. We will showcase how Images can be enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to a target OME Remote Objects (OMERO) server using a novel set of OMERO tools developed with Galaxy3. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation). Furthermore, we will show the potential integration of eletronic lab books such as eLabFTW4, cloud storage systems (i.e. OneData)5 and interactive norebooks (Jupyter Notebooks) 6 in the Galaxy pipeline.
+
+[https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
+
+[https://doi.org/10.5281/zenodo.17093454](https://doi.org/10.5281/zenodo.17093454)
 
 
 ---
@@ -3541,6 +3598,25 @@ Thanks for your help !Best,Laurent
 
 ---
 
+## Image Analysis in Healthcare - The Current Landscape, Trends, and Collaborative Opportunities
+
+Martin Schätz, Pérez Koldenkova, Vadim
+
+Published 2025-09-09
+
+Licensed CC-BY-4.0
+
+
+
+Workshop presentation from XXXIV Foro de Investigaci&oacute;n en Salud 2025.
+
+[https://zenodo.org/records/17080219](https://zenodo.org/records/17080219)
+
+[https://doi.org/10.5281/zenodo.17080219](https://doi.org/10.5281/zenodo.17080219)
+
+
+---
+
 ## Image Analysis using Galaxy
 
 Beatriz Serrano-Solano, Leonid Kostrykin, Anne Fouilloux, Riccardo Massei
@@ -4653,6 +4729,25 @@ Licensed CC-BY-4.0
 
 ---
 
+## Linking of Research (Meta-)data in OMERO to Foster FAIR Data in Plasma Science
+
+Robert Wagner, Mohsen Ahmadi, Dagmar Waltemath, Kristina Yordanova, Becker, Markus M.
+
+Published 2025-09-10
+
+Licensed CC-BY-4.0
+
+
+
+Applied plasma research involves several disciplines such as physics, medicine and biology to solve application-oriented problems, often generating large and heterogeneous experimental data sets. The descriptions and metadata describing these interdisciplinary scientific investiga-tions is stored in distributed systems (e.g., physical laboratory notebooks or electronic labora-tory notebooks (ELN) like eLabFTW [1]), and the experimental data are either stored locally within the laboratories or on centralized institutional storage systems. As a result, the collected information often has to be tediously assembled for processing into publications. The workflow represented in Figure 1 addresses this suboptimal situation and promotes the combination of the image database OMERO [2], the ELN system eLabFTW, the research data management tool Adamant [3] and Python scripts for handling microscopy images in plasma life science and plasma medicine [4]. This workflow highlights how the developments from the NFDI4BIOIMAGE consortium can be brought into practical applications by addressing the specific demands of plasma science, where domain-specific metadata is essential for effective data interpretation and reuse. It showcases the benefits of FAIR [5] metadata combining do-main-specific requirements with method-specific solutions. Similar to most imaging workflows, image analysis in plasma research requires metadata from several sections of the experiment. Moreover, the plasma-related metadata are essential for the experimental context and must be included in the analysis, e.g. to describe the influence of plasma on the treated sample. Therefore, the metadata schema Plasma-MDS [6] is adapted to collect plasma-related metadata, such as information on the plasma species having a major impact on the treated samples. Alongside Plasma-MDS, the Recommended Metadata for Bio-logical Images (REMBI) standard [7] is used for the biological metadata such as the sample preparation and treatment procedures. The collection of these metadata is realized using Adamant, which enables the beginner-friendly collection of structured metadata. The tool presents JSON schemas in easy-to-read and easy-to-fill HTML forms, enabling metadata validation. Once completed and validated, the metadata are uploaded directly to eLabFTW using Adamant's workflow functionalities. The images from the treated samples are uploaded to OMERO by OMERO.insight and afterwards automatically annotated via Python scripts. These scripts take previously collected metadata from the related eLabFTW experiments and the microscope description metadata collected by the Micro Meta App [8], which are also stored in eLabFTW. The metadata is categorized and annotated according to the various data organizational levels within OMERO, specifically fo-cusing on project and dataset hierarchies, as well as screens that are composed of plates, which in turn contain wells. Screens resemble microwell plates, commonly used in a variety of biological experiments. The hieraic organization of metadata significantly enhances the ease of reusing images and associated metadata for subsequent processing and analysis. By efficiently distributing and reducing large metadata sets to an acceptable level, while simultaneously eliminating redun-dancies, this approach facilitates straightforward analyses with tools like ImageJ [9] and FIJI [10], thanks to the close association of metadata with the images themselves. In summary, one of the application-specific developments within the NFDI4BIOIMAGE consor-tium is presented, which contributes to the adoption of the FAIR principles in laboratory envi-ronments. Further work will address the integration of ontologies for the semantic description of data and metadata.
+
+[https://zenodo.org/records/17092348](https://zenodo.org/records/17092348)
+
+[https://doi.org/10.5281/zenodo.17092348](https://doi.org/10.5281/zenodo.17092348)
+
+
+---
+
 ## Liver Micrometastases area quantification using QuPath and pixel classifier
 
 Laia Simó-Riudalbas, Romain Guiet, Olivier Burri, Julien Duc, Didier Trono
@@ -5127,6 +5222,2178 @@ As a method-specific consortium, NFDI4BIOMAGE seeks to address these issues, ena
 
 ---
 
+## NFDI4BIOIMAGE Calendar April 2025
+
+Martin Zurowietz, Nattkemper, Tim W.
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar April 2025.
+This image shows the BIIGLE image and video annotation tool, which is a web-based software for collaborative research on large imaging datasets [1, 2]. It offers tools for manual and computer-assisted annotation, quality control and the collaboration on custom taxonomies to describe objects. BIIGLE is freely available and can be installed in cloud environments, a local network or on mobile platforms during research expeditions. A public instance can be found at biigle.de.
+The annotated image shows the coastline of Fernandina Island, Galapagos, which is the habitat of the Galapagos Marine Iguana (Amblyrhynchus cristatus). The image is a large mosaic that was stitched together from many individual images captured by a drone. The green annotations marking the iguanas were machine-generated as part of a feasibility study for the automatic analysis of the data in the project Iguanas from Above [3, 4].
+[1] Langenk&auml;mper, D., Zurowietz, M., Schoening, T., &amp; Nattkemper, T. W. (2017). BIIGLE 2.0-browsing and annotating large marine image collections. Frontiers in Marine Science, 4, 83. https://doi.org/10.3389/fmars.2017.00083
+[2] Zurowietz, M., &amp; Nattkemper, T. W. (2021). Current trends and future directions of large scale image and video annotation: Observations from four years of BIIGLE 2.0. Frontiers in Marine Science, 8, 760036. https://doi.org/10.3389/fmars.2021.760036
+[3] Varela-Jaramillo, A., Rivas-Torres, G., Guayasamin, J. M., Steinfartz, S., &amp; MacLeod, A. (2023). A pilot study to estimate the population size of endangered Gal&aacute;pagos marine iguanas using drones. Frontiers in Zoology, 20(1), 4. https://doi.org/10.1186/s12983-022-00478-5
+[4] https://iguanasfromabove.com
+
+
+
+
+Project
+
+
+Iguanas from Above
+
+
+
+
+Location
+
+
+Fernandina Island, Galapagos
+
+
+
+
+Organism
+
+
+Amblyrhynchus cristatus
+
+
+
+
+Drone model
+
+
+DJI Mavic 2 Pro
+
+
+
+
+Camera
+
+
+Hasselblad L1D-20c
+
+
+
+
+Size
+
+
+26,545 &times; 20,894 px
+
+
+
+
+Mosaic algorithm
+
+
+Agisoft Metashape Professional v.1.6
+
+
+
+
+Submitted via NFDI4Biodiversity
+
+
+
+
+
+[https://zenodo.org/records/16980661](https://zenodo.org/records/16980661)
+
+[https://doi.org/10.5281/zenodo.16980661](https://doi.org/10.5281/zenodo.16980661)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar August 2025
+
+Haowen Jiang, Claire Chalopin
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar August 2025.
+This image illustrates tissue oxygen saturation in the hand, calculated using various computer-assisted methods and based on hyperspectral and multispectral imaging. The purpose of this image is to compare the perfusion parameters (3 and 4) obtained with multispectral cameras delivering relatively less spectral information but capable of real-time imaging against the perfusion parameters (2) obtained with a hyperspectral medical system delivering large spectral information but not capable of real-time imaging. The picture shows that deep learning methods (4) perform better than classical methods (3) that are not based on artificial intelligence. It lays the groundwork for future real-time quantitative assessment of perfusion during organ transplantation surgeries.
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study description
+
+
+Quantification of tissue reperfusion using real-time spectral imaging and deep learning
+
+
+
+
+Study type
+
+
+Study on volunteers
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+(1) RGB imaging
+(2) Hyperspectral imaging
+(3) and (4) Multispectral imaging
+
+
+
+
+Image component description
+
+
+(1) RGB image of the hand under normal perfusion.
+(2) Perfusion parameter map computed based on hyperspectral imaging (100 spectral bands between 500 and 1000 nm). High perfusion values are represented in red, low perfusion values in blue.
+(3) Perfusion parameter map computed based on multispectral imaging (31 spectral bands between 460 and 850 nm) and using the spectral bands that are available but that are less than in (2). Therefore, the result in (3) looks very different from the result in (2).
+(4) Perfusion parameter map computed based on multispectral imaging and using a deep neural network. The result in (4) looks similar to the result in (2).
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Hand
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Image data
+
+
+
+
+Image resolution hyperspectral imaging
+
+
+Spatial Resolution: 480*640 pixels
+Spectral Resolution: 500 nm-1000 nm, 100 bands, 5 nm
+
+
+
+
+Image resolution multispectral imaging
+
+
+Spatial Resolution: 1088*2048 pixels
+Spectral Resolution: 16 bands in 460-600 nm; 15 bands in 600-850 nm
+
+
+
+
+Image mode
+
+
+Reflectance
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16993059](https://zenodo.org/records/16993059)
+
+[https://doi.org/10.5281/zenodo.16993059](https://doi.org/10.5281/zenodo.16993059)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar Cover 2025
+
+Anne Rademacher, Alik Huseynov, Michele Bortolomeazzi, Wille, Sina Jasmin, Sabrina Schumacher, Pooja Sant, Denise Keitel, Konstantin Okonechnikov, Ghasemi, David R., Pajtler, Kristian W., Jan-Philipp Mallm, Karsten Rippe
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar Cover 2025.
+The image is a visualization showing the integration of multimodal data including a spinning disk confocal image and gene expression data from a spatial transcriptomic experiment on a human medulloblastoma sample. The microscopy image of the tissue with the nuclei in white has been overlayed with the result of the cell segmentation colored according to the assigned cell type (immune cells: red, stromal cells: violet, brain cells: cyan/blue, tumor cells: green). A subset of transcripts for three genes whose expression varies across the different cell types in the tissue have been represented as colored dots (CD4 (immune cells): red, PTCH1 (tumor cells): green, AQP4 (brain cells): blue).
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study description
+
+
+Comparison of spatial transcriptomics technologies for medulloblastoma cryosection
+
+
+
+
+Study type
+
+
+Spatial Transcriptomics (Xenium) on medulloblastoma cryosections
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Xenium and Spinning disk confocal microscopy
+
+
+
+
+Study component description
+
+
+Datasets with raw and processed data from the study "Comparison of spatial transcriptomics technologies for medulloblastoma cryosections" including Xenium and spinning disk confocal microscopy data
+
+
+
+
+Biosample
+
+
+
+
+Identity
+
+
+MB266
+
+
+
+
+Biological entity
+
+
+Human cerebellum from a patient with Medulloblastoma with extensive nodularity
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Specimen
+
+
+
+
+Experimental status
+
+
+Patient sample
+
+
+
+
+Preparation method
+
+
+10 &micro;m cryosections were acquired using the cryostar NX50 with a cutting temperature of -15 &deg;C. Tissues were section in 10 &micro;m slices and four samples were placed on one Xenium slide. Subsequently, the tissue was fixed with PFA according to the manufacture&acute;s protocol. Tissues were permeabilized with SDS, incubated in 70% ice cold methanol and washed with PBS. Hybridization of the human generic brain panel with 70 add-on genes (Supplementary Dataset 1) was performed at 50&deg;C in a Bio-Rad C1000 touch cycler for 20 hours. Washing, ligation and amplification steps were carried out according to the manufacturer&rsquo;s instructions. ROIs were selected according to the tissue area excluding non-tissue covered tiles. Each transcript was imaged in a bright state five times across 60 cycle-channels (15 cycles x 4 channels). After the run on the Xenium analyzer slides were removed and buffer exchanged with PBS-T for further storage at 4&deg;C.
+
+
+
+
+Signal/contrast mechanism
+
+
+Fluorescence
+
+
+
+
+Channel 1 &ndash; content
+
+
+DAPI
+
+
+
+
+Channel 1 &ndash; biological entity
+
+
+Nuclei (DNA)
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+Imaging of RNAscope samples and reimaging of Xenium slides by SDCM was conducted on an Andor Dragonfly 505 spinning disk confocal system equipped with a Nikon Ti2-E inverted microscope and a CFI P-Fluor 40X/1.30 oil objective or a Plan Apo 60x/1.40 oil objective. Multicolor images were acquired with the following laser lines 405 nm (DAPI), 488 nm (Alexa 488, eosin), 561 nm (Atto 550), 637 nm (Atto 647) 730nm (Alexa 750).
+
+
+
+
+Image acquisition parameters
+
+
+Images were recorded at 16-bit depth and with 1024x1024 pixels dimensions (pixel size: 0.217 &micro;m) using an iXon Ultra 888 EM-CCD camera. The region of interest was selected based on the DAPI signal and 50 z-slices were acquired with a step size of 0.4&thinsp;&micro;m (20&thinsp;&micro;m z-range) per field of view (FOV). Tiles were imaged with a 10% overlap to ensure accurate stitching.
+
+
+
+
+Image data
+
+
+
+
+Type
+
+
+Figure
+
+
+
+
+Format &amp; compression
+
+
+PNG
+
+
+
+
+Size description
+
+
+8800x8788+0+0 pixels (Primary image)
+
+
+
+
+Pixel/voxel size description
+
+
+0.217 &micro;m (Primary image)
+
+
+
+
+Channel information
+
+
+RGB
+
+
+
+
+Image processing method
+
+
+Tiles were imaged with a 10% overlap to ensure accurate stitching. Subsequently, a flatfield-correction was conducted based on the DAPI channel and stitching and registration of the tiles was conducted with Fiji. First, SDCM image stacks were subjected to a maximum intensity projection, followed by flat field and chromatic aberration correction using a custom script. Next, image tiles were stitched using the &ldquo;Grid/Collection Stitching&rdquo; plugin. DAPI images from SDCM were registered to MC or Xenium widefield images using &ldquo;Register Virtual Stack Slices&rdquo; with Affine feature extraction model and the Elastic bUnwarpJ splines registration model. In case of further staining, images were transformed via Transform Virtual Stack slices employing the transformation file of the DAPI registration.
+
+
+
+
+Image Correlation
+
+
+
+
+Spatial and temporal alignment
+
+
+The region of interest was selected based on the DAPI signal and 50 z-slices were acquired with a step size of 0.4 &micro;m (20 &micro;m z-range) per field of view (FOV). Tiles were imaged with a 10% overlap to ensure accurate stitching. Subsequently, a flatfield-correction was conducted based on the DAPI channel and stitching and registration of the tiles was conducted with Fiji (https://github.com/RippeLab/MBEN/tree/main/stitching) (https://github.com/RippeLab/MBEN/tree/main/Registration).
+
+
+
+
+Related images and relationship
+
+
+MB266-morphology_mip.ome.tif at https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1093
+
+
+
+
+Analysed data
+
+
+
+
+Analysis result type
+
+
+Figure
+
+
+
+
+Data used for analysis
+
+
+MB266-transcripts.csv.gz, MB266-transcripts.csv.gz at https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1093
+
+
+
+
+Analysis method and details
+
+
+Most of the analysis and visualization (including tidyverse, data.table, ggridges R packages) was done in R 4.2.2. Raw data were processed using technology-specific corporate pipelines (custom pipeline was used for MC). For each technology Seurat objects of the sample data and analysis results were created using the Seurat (v. 4.3.0) R package (https://github.com/scOpenLab/spatial_analysis/tree/main)
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+&nbsp;
+
+[https://zenodo.org/records/16979744](https://zenodo.org/records/16979744)
+
+[https://doi.org/10.5281/zenodo.16979744](https://doi.org/10.5281/zenodo.16979744)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar December 2025
+
+Kira Müntjes, Kerstin Schipper
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar December 2025.
+The microscopic image shows yeast cells of the fungal model Ustilago maydis that produce single cell oil at nitrogen-starvation conditions. The genetically engineered cells are packed with oil droplets that were visualized by BODIPY staining. The study was conducted in the framework of the BioSC project "NextVegOil".
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study type
+
+
+Visualisation of microbial oil in the fungus Ustilago maydis
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Wide field whole organism microscopy
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Ustilago maydis
+
+
+
+
+Organism
+
+
+Yeast cells (sporidia)
+
+
+
+
+Identity
+
+
+Ustilago maydis MB215 cyp1&Delta;emt1&Delta; (published in https://doi.org/10.1128/AEM.71.6.3033-3040.2005)
+
+
+
+
+Intrinsic variable
+
+
+Glycolipid production has been ablated by genetic engineering
+
+
+
+
+Extrinsic variable
+
+
+BODIPY (4,4-Difluoro-1,3,5,7,8-Pentamethyl-4-Bora-3a,4a-Diaza-s-Indacene 493/503) staining
+
+
+
+
+Experimental variables 
+
+
+Cultivation time
+
+
+
+
+Specimen
+
+
+
+
+Location within biosample
+
+
+Overview image with yeast cells from liquid culture at nitrogen-starvation condition
+
+
+
+
+Preparation method
+
+
+Living cells attached to agarose mounts
+
+
+
+
+Signal/contrast mechanism
+
+
+Differential interference contrast and fluorescence
+
+
+
+
+Channel 1 - content
+
+
+DIC
+
+
+
+
+Channel 1 - biological entity
+
+
+Intact yeast cells 
+
+
+
+
+Channel 2 - content
+
+
+BODIPY 493/503
+
+
+
+
+Channel 2 - biological entity
+
+
+Intracellular lipid droplets
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+Zeiss Axio Observer.Z1; Prime BSI express; solid-state laser 488 nm
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16993955](https://zenodo.org/records/16993955)
+
+[https://doi.org/10.5281/zenodo.16993955](https://doi.org/10.5281/zenodo.16993955)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar February 2025
+
+Oleg Kutskiy
+
+Published 2025-09-15
+
+Licensed CC-BY-SA-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar February 2025.
+&ldquo;The Way of the Cross: Christ collapses under the weight of the cross" is a recording from the partially destroyed Transfiguration Cathedral in Odessa, Ukraine. The image was taken in September 2023 and impressively shows the urgency of photographic documentation of cultural heritage. It was created as part of the &ldquo;Documenting Ukrainian Cultural Heritage Project &ndash; Photographic Documentation of War-Threatened Buildings in Ukraine&rdquo;.
+
+
+
+
+Project
+
+
+Documenting Ukrainian Cultural Heritage &ndash; Photographic Documentation of War-Threatened Buildings in Ukraine
+
+
+
+
+Recording date
+
+
+2023-09-01
+
+
+
+
+Location
+
+
+The Savior Transfiguration Cathedral, south side choir
+Ploshcha Soborna 3, Odessa, Ukraine
+
+
+
+
+Dating
+
+
+1999/2005
+
+
+
+
+Factual term
+
+
+Mural
+
+
+
+
+Genus
+
+
+Wall painting
+
+
+
+
+Status
+
+
+Partially destroyed 2023-07-23
+
+
+
+
+Image file number 
+
+
+fmd10034507
+
+
+
+
+Topic
+
+
+Iconography: 73D4113 * the third fall (Christ carrying the cross) 
+
+
+
+
+Dataset from
+
+
+Bildarchiv Foto Marburg
+
+
+
+
+Acquisition parameter
+
+
+Color, born digital
+
+
+
+
+Submitted via NFDI4Culture
+
+
+
+
+
+[https://zenodo.org/records/16980386](https://zenodo.org/records/16980386)
+
+[https://doi.org/10.5281/zenodo.16980386](https://doi.org/10.5281/zenodo.16980386)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar January 2025
+
+Lea Miebach, Sander Bekeschus
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar January 2025.
+A Heart for Redox Biology: The image of primary bone mesenchymal stromal/stem cells (hBM-MSCs) was captured in a study evaluating the cellular effects of therapeutic oxidation in the context of regenerative medicine. The cells were isolated from an arthroplasty patient cohort in a joint research project between the Center for Orthopaedics at University Medical Center and the group ZIK plasmatis at the Leibniz Institute for Plasma Science and Technology (INP) in Greifswald. You can appreciate the characteristic morphology and complex actin cytoskeleton that is crucial for the cellular function of hBM-MSCs. Can you spot the heart that is formed by the prominent actin protrusions of interconnected cells?
+Image Metadata (using REMBI template):
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Spinning-disc confocal mode, epifluorescence
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Bone marrow-mesenchymal stem cells (BM-MSCs)
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Specimen
+
+
+
+
+Preparation method
+
+
+Fixation (4% PFA)
+
+
+
+
+Signal/contrast mechanism
+
+
+Fluorescence
+
+
+
+
+Channel 1 &ndash; content
+
+
+4',6-Diamidin-2-phenylindol (DAPI; Thermo Fisher, USA), blue
+
+
+
+
+Channel 1 &ndash; biological entity
+
+
+Nuclei
+
+
+
+
+Channel 2 &ndash; content
+
+
+MitoSpy Green (Biolegend, USA), green
+
+
+
+
+Channel 2 &ndash; biological entity
+
+
+Mitochondria
+
+
+
+
+Channel 3 &ndash; content
+
+
+Flash Phalloidin Red (Biolegend, USA), orange
+
+
+
+
+Channel 3 &ndash; biological entity
+
+
+Actin
+
+
+
+
+Image acquisition
+
+
+
+
+Microscope model
+
+
+Operetta CLS (PerkinElmer, USA)
+
+
+
+
+Image data
+
+
+
+
+Type
+
+
+Raw and processed image in comparison
+
+
+
+
+Magnification
+
+
+20x air objective (NA = 0.8)
+
+
+
+
+Excitation
+
+
+Channel 1: 365 nm; Channel 2: 475 nm; Channel 3: 550 nm
+
+
+
+
+Detection
+
+
+Channel 1: 465 nm; Channel 2: 525 nm; Channel 3: 610 nm
+
+
+
+
+Analysed data
+
+
+
+
+Image processing method
+
+
+Algorithm-based, unsupervised image segmentation with Harmony 4.9 analysis software (PerkinElmer, USA)
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16980217](https://zenodo.org/records/16980217)
+
+[https://doi.org/10.5281/zenodo.16980217](https://doi.org/10.5281/zenodo.16980217)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar July 2025
+
+Pilar Lörzing, Denis Iliasov, Michael Schlierf, Thorsten Mascher
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar July 2025.
+The sample was provided through a collaboration with the group of Thorsten Mascher at TU Dresden. Aim of this project is to explore the cellular autofluorescence patterns in Streptomyces using advanced imaging techniques.&nbsp;Streptomyces coelicolor are multicellular, mycelial bacteria that grow as vegetative hyphae. The use of confocal microscopy in this project was crucial for optically sectioning these filamentous cells, enabling the resolution of their cellular autofluorescence patterns with a high signal-to-noise ratio, which allowed us to visualize the 3D arrangement of the hyphae.
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study type
+
+
+Characterization of the intrinsic autofluorescence in filamentous actinobacteria
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Spinning Disk Confocal Microscopy
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Hyphae
+
+
+
+
+Organism
+
+
+Streptomyces coelicolor M600
+
+
+
+
+Intrinsic variable
+
+
+Plasmid free derivative of the wild type strain
+
+
+
+
+Experimental variables
+
+
+Live-Cell imaging
+
+
+
+
+Specimen
+
+
+
+
+Preparation method
+
+
+S. coelicolor was grown in maltose-yeast extract-malt extract (MYM) medium with tap and deionized water (1:1) and supplemented with 0.2 mL R2 trace element solution per 100 mL. Cultures were inoculated from spore suspension and grown for 18 hours at 28 &deg;C. 2 &micro;l cell suspension was immobilized on 1% agarose pads and covered with a cleaned coverslip (1.5H).
+
+
+
+
+Channel 1 - content
+
+
+Cellular autofluorescence
+
+
+
+
+Channel 1 - biological entity
+
+
+S. coelicolor hyphae
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+Imaging was performed using a Nikon Ti-E Spinning Disk microscope with 100x objective and 1.5x tube lens. Fluorescence was excited with a 488 nm laser and emission light was filtered using a dual band filter 433/530 HC. An Andor Ixon Ultra 888 EMCCD camera was used for detection. 
+
+
+
+
+Image acquisition parameter
+
+
+Z-stacks of confocal images with 0.2 &micro;m step size
+
+
+
+
+Image data
+
+
+
+
+Type
+
+
+Maximum intensity projection of individual z-stacks
+
+
+
+
+Format &amp; compression
+
+
+TIFF
+
+
+
+
+Dimension extents
+
+
+x: 1024 y: 1024 z: 28 px
+
+
+
+
+Size description
+
+
+x: 63.12 y: 63.12 z: 5.6 &micro;m
+
+
+
+
+Pixel/voxel size description
+
+
+x: 86 y: 86 z: 200 nm
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16992904](https://zenodo.org/records/16992904)
+
+[https://doi.org/10.5281/zenodo.16992904](https://doi.org/10.5281/zenodo.16992904)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar June 2025
+
+Kevin Warstat
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar June 2025.
+This illustration compares two orthomosaics generated from UAV imagery. On the left, a true-color RGB orthomosaic is displayed, accompanied by three smaller orthomosaic images above it, each representing the red, green, and blue bands, vividly colored to highlight their significance. On the right, a corresponding NDVI orthomosaic of the same field is shown, with two images above it illustrating the red and near-infrared bands used as input. All images are processed products from structure from motion modelling.
+
+
+
+
+Title
+
+
+Crop spectra
+
+
+
+
+Research project
+
+
+PhenoRob (EXC 2070)
+
+
+
+
+Recording date
+
+
+2023-07-11
+
+
+
+
+Location
+
+
+Campus Klein-Altendorf, 53359 Rheinbach, Germany
+
+
+
+
+Sensor platform
+
+
+DJI Matrice 600 Pro
+
+
+
+
+Sensors
+
+
+Sony alpha 7 mark IV RGB
+MicaSense RedEdge-MX Dual multispectral camera
+
+
+
+
+Submitted via FAIRagro
+
+
+
+
+
+[https://zenodo.org/records/16992716](https://zenodo.org/records/16992716)
+
+[https://doi.org/10.5281/zenodo.16992716](https://doi.org/10.5281/zenodo.16992716)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar March 2025
+
+Michael Schwarz
+
+Published 2025-09-11
+
+Licensed CC-BY-4.0
+
+
+
+Raw microscopy image from the NFDI4Bioimage calendar March 2025.
+The image shows 125x magnified microscopic details of a biofilm formed by Pseudomonas fluorescence on the surface of a liquid culture medium. The culture was inoculated with a cellulose-overexpressing and surface-colonizing mScarlet-tagged wild type and a GFP-tagged mutant that is unable to colonize the surface. The biofilm can collapse over time due to its own mass, so that new strategies have to be developed and thus a life cycle emerges.
+Image Metadata (using REMBI template):
+
+
+
+Study
+&nbsp;
+
+
+Study description
+Biofilm formation
+
+
+Study Component
+&nbsp;
+
+
+Imaging method
+Stereo microscopy
+
+
+Biosample
+&nbsp;
+
+
+Biological entity
+Bacteria
+
+
+Organism
+Pseudomonas fluorescence
+
+
+Specimen
+&nbsp;
+
+
+Signal/contrast mechanism
+Relief, fluorescence
+
+
+Channel 1 - content
+Relief, grey
+
+
+Channel 1 - biological entity
+Details of the biofilm in transmitted light
+
+
+Channel 2 - content
+mScarlet, red
+
+
+Channel 2 - biological entity
+WT over-expressing cellulose and colonizing the surface
+
+
+Channel 3 - content
+GFP, green
+
+
+Channel 3 - biological entity
+∆wss mutant unable to colonize the surface
+
+
+Image Acquisition
+&nbsp;
+
+
+Microscope model
+Zeiss Axio Zoom V16
+
+
+Image Data
+&nbsp;
+
+
+Magnification
+125x
+
+
+Objective
+PlanNeoFluar Z 1.0x
+
+
+Dimension extents
+x: 2752, y: 2208
+
+
+Pixel size description
+0.91 &micro;m x 0.91 &micro;m
+
+
+Image area
+2500&micro;m x 2500&micro;m
+
+
+Submitted via NFDI4BIOIMAGE
+&nbsp;
+
+
+
+&nbsp;
+
+[https://zenodo.org/records/17098115](https://zenodo.org/records/17098115)
+
+[https://doi.org/10.5281/zenodo.17098115](https://doi.org/10.5281/zenodo.17098115)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar May 2025
+
+Stefanie Lück
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar May 2025.
+The microscopy image captures the interaction between the barley cv. Golden Promise and the barley powdery mildew fungus Blumeria&nbsp;graminis&nbsp;f.sp.&nbsp;hordei, observed 48 hours post-inoculation. The fungus was stained with Coomassie dye, enhancing its visibility against the barley leaves. The leaves were prepared and fixed onto slides, followed by scanning with a Zeiss Axio Scan Z.1 microscope scanner using a 5x objective lens.
+The upper section of the image displays the hyphal colonies, which were automatically segmented, highlighting the fungal structures (black) against the plant tissue (white). The lower section presents a machine learning-based analysis where a Convolutional Neural Network (CNN) was employed to predict the fungal structures. Here, the red bounding boxes show the outer boundaries of detected objects, while the green contours precisely trace the segmented hyphae, illustrating the effectiveness of the segmentation and prediction processes.
+Image Metadata (using MIAPPE template):
+
+
+
+
+Investigation information
+
+
+
+
+Investigation Title
+
+
+Analysis of Hordeum vulgare cv. Golden promise infected with Blumeria graminis f. sp. hordei (causative for barley powdery mildew)
+
+
+
+
+Objective
+
+
+To study the interaction between Hordeum vulgare and Blumeria graminis f. sp. hordei using advanced imaging techniques and automated image analysis.
+
+
+
+
+Study information
+
+
+
+
+Study Title
+
+
+Microscopy imaging and analysis of barley powdery mildew infection on Hordeum vulgare cv. Golden promise
+
+
+
+
+Study Type
+
+
+Microscopy-based phenotyping experiment
+
+
+
+
+Study Description
+
+
+The study involves imaging barley leaves inoculated with Blumeria graminis f. sp. hordei, followed by automated segmentation and CNN-based prediction of fungal structures.
+
+
+
+
+Plant material
+
+
+
+
+Plant Species
+
+
+Hordeum vulgare 
+
+
+
+
+Cultivar
+
+
+Golden promise
+
+
+
+
+Experimental design
+
+
+
+
+Experiment Type
+
+
+Fungal inoculation and microscopy imaging
+
+
+
+
+Inoculation Details
+
+
+Barley leaves were inoculated with Blumeria graminis f. sp. hordei.
+
+
+
+
+Time post-inoculation
+
+
+48 hours
+
+
+
+
+Imaging information
+
+
+
+
+Microscopy type
+
+
+Brightfield microscopy
+
+
+
+
+Staining method
+
+
+Coomassie stain for fungal structures
+
+
+
+
+Microscope
+
+
+Zeiss Axio Scan Z.1
+
+
+
+
+Objective Lens
+
+
+5x
+
+
+
+
+Image Format
+
+
+Zeiss CZI file
+
+
+
+
+Image analysis information
+
+
+
+
+Segmentation method
+
+
+Automated segmentation of hyphal colonies
+
+
+
+
+Image analysis software
+
+
+BluVision Micro software
+
+
+
+
+Prediction method
+
+
+Convolutional Neural Network (CNN) for fungal structure detection
+
+
+
+
+Upper image
+
+
+Shows binary image with hyphal colonies (black) and background (white).
+
+
+
+
+Lower image
+
+
+Displays CNN predictions with red bounding boxes marking detected objects and green contours outlining segmented hyphae.
+
+
+
+
+Submitted via NFDI4Biodiversity
+
+
+
+
+
+[https://zenodo.org/records/16991961](https://zenodo.org/records/16991961)
+
+[https://doi.org/10.5281/zenodo.16991961](https://doi.org/10.5281/zenodo.16991961)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar November 2025
+
+Jadranka Macas
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar November 2025.
+The image shows a perivascular accumulation of perivascular B cells, T cells and plasma cells in a human brain tumor. These structures, also known as tertiary lymphoid structures, are sites of lymphocyte clonal expansion and plasma cell formation. The study aims to determine the clinical relevance and immunological function of tertiary lymphoid structures in human primary brain tumors.
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study type
+
+
+Immunomonitoring study in human oncology
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+COMET&trade; highplex seq-IF staining and scanning system, HORIZON&trade; Viewer (Lunaphore Technologies, SA)
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Tertiary lymphoid structure in glioblastoma
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Specimen
+
+
+
+
+Location within biosample
+
+
+Tumor (glioblastoma)
+
+
+
+
+Preparation method
+
+
+FFPE sample, automatic sequential-IF using COMET&trade; (Lunaphore Technologies, SA)
+
+
+
+
+Signal/contrast mechanism
+
+
+HORIZON&trade; Viewer (Lunaphore Technologies, SA)
+
+
+
+
+Channel 1 - content
+
+
+Alexa Fluor Plus 555, red
+
+
+
+
+Channel 1 - biological entity
+
+
+CD20 - B-cells
+
+
+
+
+Channel 2 - content
+
+
+Alexa Fluor Plus 647, green
+
+
+
+
+Channel 2 - biological entity
+
+
+CD3 - T-cells
+
+
+
+
+Channel 3 - content
+
+
+Alexa Fluor Plus 555, white
+
+
+
+
+Channel 3 - biological entity
+
+
+CD163 - anti-inflammatory macrophages (M2-like) 
+
+
+
+
+Channel 4 - content
+
+
+Alexa Fluor Plus 647, magenta
+
+
+
+
+Channel 4 - biological entity
+
+
+MZB-1 - Marginal zone B and B1 cell-specific protein, MEDA-7 - plasma cells, memory B-cells
+
+
+
+
+Channel 5 - content
+
+
+Alexa Fluor Plus 647, orange
+
+
+
+
+Channel 5 - biological entity
+
+
+NF- Neurofilament - intermediate filaments around the axons
+
+
+
+
+Channel 6- content
+
+
+Alexa Fluor Plus 555, cyan
+
+
+
+
+Channel 6 - biological entity
+
+
+GAP43 - Neuromodulin, neuronal growth-associated protein 43 - neurons
+
+
+
+
+Channel 7 - content
+
+
+Alexa Fluor Plus 555, blue
+
+
+
+
+Channel 7 - biological entity
+
+
+vWF - von-Willebrand-Factor - endothelial cells
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+COMET&trade; highplex seq-IF staining and scanning system v.1.1.1.0 (Lunaphore Technologies, SA)
+
+
+
+
+Image acquisition parameters
+
+
+COMET&trade; acquisition software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
+
+
+Image data
+
+
+
+
+Pixel size
+
+
+0.23 &micro;m/pixel
+
+
+
+
+Image size
+
+
+Width 11986 pixels - 2.76 mmHeight 11514 pixels - 2.65 mm
+
+
+
+
+Pixel bit depth
+
+
+16-bit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+Channel information
+
+
+Displayed are 7 markers out of the highplex IF-panel; number of channels 43 (including autofluorescence)
+
+
+
+
+Submitted via NFDI4Immuno
+
+
+
+
+
+[https://zenodo.org/records/16993649](https://zenodo.org/records/16993649)
+
+[https://doi.org/10.5281/zenodo.16993649](https://doi.org/10.5281/zenodo.16993649)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar October 2025
+
+Vivien Joisten-Rosenthal
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar October 2025.
+As part of the MibiNet SFB 1535 project (https://www.sfb1535.hhu.de), this lichen was collected in the Northern Eifel region, between Blankenheim and Schmidtheim in Germany. Lichens are among the most successful examples of complex mutualistic symbiosis, where a fungus (mycobiont) forms an association with one or more photosynthetic organisms (photobionts), including green algae and/or cyanobacteria. Based on ITS analysis, the lichen shown has been identified as Peltigera neckeri. Lichens of the genus Peltigera are classified as cyanolichens due to their symbiotic association with a cyanobacterial photobiont of the genus Nostoc. The image shows the lichen's blue-gray thallus when wet, after its collection on a mossy stone.
+
+
+
+
+Research project
+
+
+MibiNet SFB 1535 Project B02
+
+
+
+
+Recording date; time
+
+
+2023-10-28; 12:21 CEST
+
+
+
+
+Location
+
+
+Northern Eifel, between Blankenheim and Schmidtheim, Germany
+
+
+
+
+Environmental conditions
+
+
+Cloudy, slightly rainy
+
+
+
+
+Temperature
+
+
+14&deg;C
+
+
+
+
+Organism
+
+
+Peltigera neckeri
+
+
+
+
+Organism attribute
+
+
+Cyanolichen, foliose
+
+
+
+
+Mycobiont
+
+
+Peltigera
+
+
+
+
+Photobiont
+
+
+Nostoc
+
+
+
+
+Substrate
+
+
+Moss
+
+
+
+
+Camera
+
+
+Apple iPhone 12
+
+
+
+
+Objective
+
+
+iPhone 12 back dual wide camera 4.2mm f/1.6
+
+
+
+
+Size
+
+
+4,032 x 3,024 px
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16993297](https://zenodo.org/records/16993297)
+
+[https://doi.org/10.5281/zenodo.16993297](https://doi.org/10.5281/zenodo.16993297)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar September 2025
+
+Heidi Faber-Zuschratter, Torsten Stöter, Werner Zuschratter, Roland Hartig, Markus Wilke
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar September 2025.
+The scanning electron micrograph shows the approach of T-lymphocytes (Jurkat cells; cyan) to an antigen-presenting B cell (Raji cell; yellow) in the center. The image was taken as part of the research work of the CRC 854, which focused on molecular processes that regulate inter- and intracellular communication within the immune system.
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study description
+
+
+Ultrastructure of the immune synapse
+
+
+
+
+Study type
+
+
+Research project within DFG CRC 854 (Molecular organisation of cellular communication within the immune system)
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Scanning Electron Microscopy
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Jurkat cell line E6.1 and Raji B cell lymphoma cell line
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Identity
+
+
+Z21_A1
+
+
+
+
+Specimen
+
+
+
+
+Preparation method
+
+
+Cell lines were maintained in RPMI 1640 medium supplemented with 10% fetal calf serum (FCS; PAN Biotech), stable L-glutamine, penicillin (50 U/ml), and streptomycin (50 mg/ml) (Biochrom) in humidified 5% CO2 at 37&deg;C. E6.1 cells were mixed at a 1:1 ratio with Raji B cells that had been pulsed with SEE (bacterial SAG staphylococcal enterotoxin E). After 10 min cells were plated on poly-L-lysine&ndash;covered slides at room temperature for 5 min and fixed for 10 min in PBS (pH 7.4) containing 1.5% PFA and 0.025% glutaraldehyde. Cryo-drying by critical point dryer (Leica EM CPD300) followed by sputtering with gold.
+
+
+
+
+Signal/contrast mechanism
+
+
+Detected secondary electrons
+
+
+
+
+Channel 1 - content
+
+
+Jurkat cell line E6.1 (artificial color table, cyan)
+
+
+
+
+Channel 1 - biological entity
+
+
+Surface of Jurkat cells 
+
+
+
+
+Channel 2 - content
+
+
+Raji B cell lymphoma cell line (artificial color table, yellow)
+
+
+
+
+Channel 2 - biological entity
+
+
+Surface of a Raji B cell 
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+FEI XL30 FEG ESEM
+
+
+
+
+Image acquisition parameters
+
+
+10 keV, Magnification 6500 x, Scale bar: 2 &micro;m
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16993178](https://zenodo.org/records/16993178)
+
+[https://doi.org/10.5281/zenodo.16993178](https://doi.org/10.5281/zenodo.16993178)
+
+
+---
+
 ## NFDI4BIOIMAGE data management illustrations by Henning Falk
 
 NFDI4BIOIMAGE Consortium
@@ -5591,6 +7858,25 @@ Content type: Slides
 
 ---
 
+## Open Source Platform for Scalable Multi-Purpose Virtual Desktop Infrastructures
+
+Michael Scherle, Rafael Gieschke, Isabela Mocanu, Björn Grüning, von Suchodoletz, Dirk
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+Data and access to it are central to each NFDI consortium. However, moving data&nbsp;around is often impractical&mdash;it may be too large, sensitive, or restricted by agreements&nbsp;with, e.g., the funding provider, and copying introduces duplication, versioning issues,&nbsp;and loss of provenance. Rather than bringing data to the researcher, a Desktop-as-a-Service (DaaS) approach can offer researchers interactive, high-performance access in a secure and efficient manner. Driven by the need for seamless workflows and&nbsp;efficient data handling in NFDI4BIOIMAGE, we present a DaaS approach that is&nbsp;broadly applicable across NFDI. It supports diverse use cases, such as standardized&nbsp;virtual training environments for distributed participants (like required in DataPLANT), remote visualization of large-scale HPC datasets, and secure access to sensitive&nbsp;data (BERD)&mdash;all without the overhead of local machine setup and maintenance.
+
+[https://zenodo.org/records/17103962](https://zenodo.org/records/17103962)
+
+[https://doi.org/10.5281/zenodo.17103962](https://doi.org/10.5281/zenodo.17103962)
+
+
+---
+
 ## Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica, Taiwan
 
 Wei-Chen Chu
@@ -5944,6 +8230,25 @@ The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
 [https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
 
 [https://doi.org/10.5281/zenodo.13338425](https://doi.org/10.5281/zenodo.13338425)
+
+
+---
+
+## Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI
+
+Robert Haase
+
+Published 2025-09-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
+
+[https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
+
+[https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
 
 
 ---
@@ -7718,6 +10023,25 @@ Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.10008464](https://zenodo.org/doi/10.5281/zenodo.10008464)
+
+
+---
+
+## When Data Doesn't Fit
+
+Josh Moore
+
+Published 2025-09-11
+
+Licensed CC-BY-4.0
+
+
+
+Presented at "International Symposium on Integrative Bioinformatics", Gatersleben Research Conference Series&nbsp;from&nbsp;September 10&ndash;12, 2025, &nbsp;https://meetings.ipk-gatersleben.de/grc-ib2025/
+
+[https://zenodo.org/records/17087096](https://zenodo.org/records/17087096)
+
+[https://doi.org/10.5281/zenodo.17087096](https://doi.org/10.5281/zenodo.17087096)
 
 
 ---

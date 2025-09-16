@@ -1,4 +1,4 @@
-# Robert haase (65)
+# Robert haase (66)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -1106,6 +1106,25 @@ In these two slide-decks we explore applications of large language models. In th
 [https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
 
 [https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
+
+
+---
+
+## Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI
+
+Robert Haase
+
+Published 2025-09-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
+
+[https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
+
+[https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
 
 
 ---

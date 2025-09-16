@@ -1,4 +1,4 @@
-# Martin schätz (10)
+# Martin schätz (11)
 ## BioImage Analysis and Superresolution Microscopy Workshop 2023 (at Dartmouth College)
 
 Zuzana Burdíková, Zdeněk Švindrych, Martin Schätz, Jakub Soukup, Pat Robison
@@ -30,6 +30,25 @@ In the afternoon, participants engaged in practical sessions. Martin Sch&auml;tz
 [https://zenodo.org/records/8025067](https://zenodo.org/records/8025067)
 
 [https://doi.org/10.5281/zenodo.8025067](https://doi.org/10.5281/zenodo.8025067)
+
+
+---
+
+## Image Analysis in Healthcare - The Current Landscape, Trends, and Collaborative Opportunities
+
+Martin Schätz, Pérez Koldenkova, Vadim
+
+Published 2025-09-09
+
+Licensed CC-BY-4.0
+
+
+
+Workshop presentation from XXXIV Foro de Investigaci&oacute;n en Salud 2025.
+
+[https://zenodo.org/records/17080219](https://zenodo.org/records/17080219)
+
+[https://doi.org/10.5281/zenodo.17080219](https://doi.org/10.5281/zenodo.17080219)
 
 
 ---

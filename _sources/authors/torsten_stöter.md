@@ -1,4 +1,4 @@
-# Torsten stöter (6)
+# Torsten stöter (7)
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -54,6 +54,173 @@ A more detailed understanding of the effect of plasmas on biological systems can
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
+## NFDI4BIOIMAGE Calendar September 2025
+
+Heidi Faber-Zuschratter, Torsten Stöter, Werner Zuschratter, Roland Hartig, Markus Wilke
+
+Published 2025-09-15
+
+Licensed CC-BY-4.0
+
+
+
+Image from the NFDI4BIOIMAGE Calendar September 2025.
+The scanning electron micrograph shows the approach of T-lymphocytes (Jurkat cells; cyan) to an antigen-presenting B cell (Raji cell; yellow) in the center. The image was taken as part of the research work of the CRC 854, which focused on molecular processes that regulate inter- and intracellular communication within the immune system.
+Image Metadata (using REMBI template):
+
+
+
+
+Study
+
+
+
+
+Study description
+
+
+Ultrastructure of the immune synapse
+
+
+
+
+Study type
+
+
+Research project within DFG CRC 854 (Molecular organisation of cellular communication within the immune system)
+
+
+
+
+Study Component
+
+
+
+
+Imaging method
+
+
+Scanning Electron Microscopy
+
+
+
+
+Biosample
+
+
+
+
+Biological entity
+
+
+Jurkat cell line E6.1 and Raji B cell lymphoma cell line
+
+
+
+
+Organism
+
+
+Homo sapiens
+
+
+
+
+Identity
+
+
+Z21_A1
+
+
+
+
+Specimen
+
+
+
+
+Preparation method
+
+
+Cell lines were maintained in RPMI 1640 medium supplemented with 10% fetal calf serum (FCS; PAN Biotech), stable L-glutamine, penicillin (50 U/ml), and streptomycin (50 mg/ml) (Biochrom) in humidified 5% CO2 at 37&deg;C. E6.1 cells were mixed at a 1:1 ratio with Raji B cells that had been pulsed with SEE (bacterial SAG staphylococcal enterotoxin E). After 10 min cells were plated on poly-L-lysine&ndash;covered slides at room temperature for 5 min and fixed for 10 min in PBS (pH 7.4) containing 1.5% PFA and 0.025% glutaraldehyde. Cryo-drying by critical point dryer (Leica EM CPD300) followed by sputtering with gold.
+
+
+
+
+Signal/contrast mechanism
+
+
+Detected secondary electrons
+
+
+
+
+Channel 1 - content
+
+
+Jurkat cell line E6.1 (artificial color table, cyan)
+
+
+
+
+Channel 1 - biological entity
+
+
+Surface of Jurkat cells 
+
+
+
+
+Channel 2 - content
+
+
+Raji B cell lymphoma cell line (artificial color table, yellow)
+
+
+
+
+Channel 2 - biological entity
+
+
+Surface of a Raji B cell 
+
+
+
+
+Image acquisition
+
+
+
+
+Instrument attributes
+
+
+FEI XL30 FEG ESEM
+
+
+
+
+Image acquisition parameters
+
+
+10 keV, Magnification 6500 x, Scale bar: 2 &micro;m
+
+
+
+
+Submitted via NFDI4BIOIMAGE
+
+
+
+
+
+[https://zenodo.org/records/16993178](https://zenodo.org/records/16993178)
+
+[https://doi.org/10.5281/zenodo.16993178](https://doi.org/10.5281/zenodo.16993178)
 
 
 ---
