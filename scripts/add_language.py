@@ -31,7 +31,7 @@ def add_language_to_resources_yml(repository, file_path="resources/nfdi4bioimage
         print("determining language for", text)
         lang = pipe([text], top_k=1, truncation=True)[0][0]["label"]
         print("language is", lang)
-        return lang if lang in ["en", "de"] else ""
+        return lang 
 
     # Create a new branch
     branch_name = create_branch(repository, parent_branch=parent_branch)
@@ -42,13 +42,14 @@ def add_language_to_resources_yml(repository, file_path="resources/nfdi4bioimage
 
     # Add language to resources without one
     for resource in content.get("resources", []):
-        if "language" not in resource:
-            text = ""
-            if "name" in resource:
-                text += resource["name"]
-            if "description" in resource:
-                text += resource["description"]
-            resource["language"] = detect_language(text)
+        if "description" in resource and len(resource["description"]) > 200: # without detailed description, we can't determine the language
+            if "language" not in resource or len(resource["language"]) == 0:
+                text = ""
+                if "name" in resource:
+                    text += resource["name"]
+                if "description" in resource:
+                    text += resource["description"]
+                resource["language"] = detect_language(text)
 
     # Write updated YAML content back to the branch
     updated_content = yaml.dump(content, sort_keys=False, allow_unicode=True)
