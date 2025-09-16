@@ -1,5 +1,5 @@
 import yaml
-from scripts._github_utilities import get_github_repository, create_branch, write_file, send_pull_request
+from _github_utilities import get_github_repository, create_branch, write_file, send_pull_request
 import requests
 
 def fetch_authors_from_zenodo(record_url):
@@ -15,17 +15,23 @@ def fetch_authors_from_zenodo(record_url):
     list of str
         Authors with or without ORCIDs.
     """
-    zenodo_api_url = record_url.replace("https://zenodo.org/record/", "https://zenodo.org/api/records/")
+    zenodo_api_url = "https://zenodo.org/api/records/" + record_url.split("/")[-1].split(".")[-1]
     response = requests.get(zenodo_api_url)
     response.raise_for_status()
     data = response.json()
-    authors = data.get("creators", [])
+
+    authors = data.get("metadata", {}).get("creators", [])
+
     author_with_orcid = []
     for author in authors:
+        name = author.get("name", "")
+        if "," in name:
+            name = name.split(",")[1].strip() + " " + name.split(",")[0].strip()
+
         if "orcid" in author:
-            author_with_orcid.append(f"{author['name']} https://orgid.org/{author['orcid']}")
+            author_with_orcid.append(f"{name} https://orgid.org/{author['orcid']}")
         else:
-            author_with_orcid.append(author['name'])
+            author_with_orcid.append(name)
     return author_with_orcid
 
 def update_authors_with_orcid(content, repository, file_path):
@@ -47,7 +53,7 @@ def update_authors_with_orcid(content, repository, file_path):
             if isinstance(urls, str):
                 urls = [urls]
             for url in urls:
-                if url.startswith("https://zenodo.org/record/"):
+                if url.startswith("https://zenodo.org/record") or url.startswith("https://zenodo.org/doi"):
                     try:
                         resource["author_with_orcid"] = fetch_authors_from_zenodo(url)
                         modified = True
@@ -63,12 +69,13 @@ def update_authors_with_orcid(content, repository, file_path):
             repository,
             new_branch,
             "Add authors with ORCIDs",
-            f"closes #905\n\nThis PR adds authors with ORCIDs to resources YAML file."
+            f"This PR adds authors with ORCIDs to resources YAML file."
         )
         print(pr_url)
 
 if __name__ == "__main__":
-    repository = "replace_with_org/repository_name"
+    import sys
+    repository = sys.argv[1]
     file_path = "resources/nfdi4bioimage.yml"
 
     # Authenticate and fetch file content
