@@ -18363,6 +18363,7 @@ resources:
   - collection
   url: https://github.com/uhlmanngroup/imagequantification101
   uuid: ac5974d0-5ab8-42b9-bd3d-eb5ff784c1a2
+
 - authors:
   - Scherle, Michael
   - Gieschke, Rafael
