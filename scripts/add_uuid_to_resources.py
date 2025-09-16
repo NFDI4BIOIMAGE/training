@@ -35,7 +35,7 @@ def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.ym
             resource["uuid"] = str(uuid.uuid4())
 
     # Write updated YAML content back to the branch
-    updated_content = yaml.dump(content, sort_keys=False, encoding="utf-8")
+    updated_content = yaml.dump(content, sort_keys=False, allow_unicode=True)
     write_file(repository, branch_name, file_path, updated_content, commit_message="Add missing UUIDs to resources")
 
     # Send a pull request
