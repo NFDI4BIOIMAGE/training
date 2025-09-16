@@ -3161,7 +3161,9 @@ resources:
   - Python
   type:
   - Slides
-  url: https://zenodo.org/records/12623730
+  url:
+  - https://zenodo.org/records/12623730
+  - https://doi.org/10.5281/zenodo.12623730
   uuid: 7e738276-8d5b-41d1-98f2-3bdbb84e516f
 - authors:
   - Robert Haase
@@ -3177,7 +3179,8 @@ resources:
   - Python
   type:
   - Github repository
-  url: https://github.com/ScaDS/BIDS-lecture-2024/
+  url:
+  - https://github.com/ScaDS/BIDS-lecture-2024/
   uuid: 1200a9b0-287c-4aa8-9c1b-6d12f42f90b8
 - authors:
   - Kate Hertweck
@@ -3205,7 +3208,9 @@ resources:
   - Sustainability
   type:
   - Publication
-  url: https://zenodo.org/records/11201216
+  url:
+  - https://zenodo.org/records/11201216
+  - https://doi.org/10.5281/zenodo.11201216
   uuid: adf2178b-a4de-4670-9050-4077346fbddd
 - authors:
   - Heidi Seibold
@@ -3218,7 +3223,9 @@ resources:
   - Research Data Management
   type:
   - Book
-  url: https://zenodo.org/records/12744715
+  url:
+  - https://zenodo.org/records/12744715
+  - https://doi.org/10.5281/zenodo.12744715
   uuid: f7090051-8760-4b05-bab0-0b48f7478f38
 - authors:
   - Christian Schmidt
@@ -3232,7 +3239,8 @@ resources:
   type:
   - Poster
   - Publication
-  url: https://archiv.ub.uni-heidelberg.de/volltextserver/29489/
+  url:
+  - https://archiv.ub.uni-heidelberg.de/volltextserver/29489/
   uuid: 4adb17df-1780-4932-85a0-9c1d91e5949d
 - authors:
   - Christian Schmidt
@@ -3250,7 +3258,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://f1000research.com/articles/11-638
+  url:
+  - https://f1000research.com/articles/11-638
   uuid: 78a599bf-8d0c-4ee9-b72c-5db1fc5b8e57
 - authors:
   - Robert Haase
@@ -3262,7 +3271,8 @@ resources:
   - Research Data Management
   type:
   - Slides
-  url: https://f1000research.com/slides/10-519
+  url:
+  - https://f1000research.com/slides/10-519
   uuid: c0ba9586-ade9-4953-9596-f37846f84c31
 - authors:
   - Robert Haase
@@ -3277,7 +3287,8 @@ resources:
   - Research Data Management
   type:
   - Blog Post
-  url: https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
+  url:
+  - https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
   uuid: 535f3a5c-42b9-4814-8e75-0495163b1baf
 - authors:
   - Robert Haase
@@ -3290,7 +3301,8 @@ resources:
   - Research Data Management
   type:
   - Blog Post
-  url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
+  url:
+  - https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
   uuid: 9d2dbd73-5b52-4fe1-b6e2-3f57db3f41e7
 - authors:
   - Robert Haase
@@ -3304,7 +3316,8 @@ resources:
   - Research Data Management
   type:
   - Blog Post
-  url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
+  url:
+  - https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
   uuid: 588a48be-2d49-4dcd-a846-1c21155971f3
 - authors:
   - Thomas Zobel
@@ -3319,7 +3332,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
+  url:
+  - https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
   uuid: cdcf6152-967e-4916-9501-e1e44e47f1ea
 - authors:
   - Susanne Kunis
@@ -3332,7 +3346,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://doi.org/10.1515/hsz-2022-0304
+  url:
+  - https://doi.org/10.1515/hsz-2022-0304
   uuid: ada75a09-de30-4cb1-8aef-9482d6c1056d
 - authors:
   - Josh Moore
@@ -3345,7 +3360,8 @@ resources:
   type:
   - Publication
   - Conference Abstract
-  url: https://doi.org/10.52825/cordi.v1i.285
+  url:
+  - https://doi.org/10.52825/cordi.v1i.285
   uuid: 103929ac-e9f0-4871-b4b1-181f2ecfa542
 - authors:
   - Susanne Kunis
@@ -3382,7 +3398,8 @@ resources:
   - Imagej
   type:
   - Publication
-  url: https://analyticalscience.wiley.com/do/10.1002/was.0004000112/
+  url:
+  - https://analyticalscience.wiley.com/do/10.1002/was.0004000112/
   uuid: 2656d512-f3b7-40e6-b639-5cc17dc19557
 - authors:
   - Robert Haase
@@ -3398,7 +3415,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://doi.org/10.1038/s41592-019-0650-1
+  url:
+  - https://doi.org/10.1038/s41592-019-0650-1
   uuid: 5f95ceb8-3672-4314-9f89-e590bd1af92f
 - authors:
   - Robert Haase
@@ -3421,7 +3439,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451
+  url:
+  - https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451
   uuid: fca35a6e-60c4-42bf-bd8e-3ff9a7345c00
 - authors:
   - Johannes Richard Soltwedel
@@ -3437,7 +3456,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
+  url:
+  - https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
   uuid: fea8697f-da2b-4c41-b2ef-e5283749dbe4
 - authors:
   - Johannes Hohlbein
@@ -3455,7 +3475,8 @@ resources:
   publication_date: 2022
   type:
   - Publication
-  url: https://doi.org/10.1038/s41592-022-01602-3
+  url:
+  - https://doi.org/10.1038/s41592-022-01602-3
   uuid: 1b9fce5b-f39f-4ef1-b479-3a5fa3ef51b7
 - authors:
   - Florian Levet
@@ -3474,7 +3495,8 @@ resources:
   - Neubias
   type:
   - Publication
-  url: https://f1000research.com/articles/10-302
+  url:
+  - https://f1000research.com/articles/10-302
   uuid: cd969204-841c-437a-b13e-f35fe3ac4802
 - authors:
   - Anjalie Schlaeppi
@@ -3491,7 +3513,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
+  url:
+  - https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
   uuid: 13a96001-417a-49e7-9bc1-419cd2f8c4fe
 - authors:
   - Gabriel G. Martins
@@ -3515,7 +3538,8 @@ resources:
   - Neubias
   type:
   - Publication
-  url: https://f1000research.com/articles/10-334/v1
+  url:
+  - https://f1000research.com/articles/10-334/v1
   uuid: bbae9837-1ef2-4c3f-9b76-7235fa422361
 - authors:
   - Susanne Kunis
@@ -3532,7 +3556,8 @@ resources:
   - Metadata
   type:
   - Publication
-  url: https://www.nature.com/articles/s41592-021-01288-z
+  url:
+  - https://www.nature.com/articles/s41592-021-01288-z
   uuid: fc52a81c-7313-47e7-b852-31582cfe7bb6
 - authors:
   - Glyn Nelson
@@ -3545,7 +3570,8 @@ resources:
   - Quareo-Limi
   type:
   - Publication
-  url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
+  url:
+  - https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
   uuid: c3273b24-b3f3-4468-9766-1cdcb319002b
 - authors:
   - Josh Moore
@@ -3570,7 +3596,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://www.nature.com/articles/s41592-021-01326-w
+  url:
+  - https://www.nature.com/articles/s41592-021-01326-w
   uuid: a6b0962f-26b3-4b5e-8304-cbb3968f044e
 - authors:
   - Josh Moore
@@ -3581,7 +3608,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Publication
-  url: https://ceur-ws.org/Vol-3415/paper-27.pdf
+  url:
+  - https://ceur-ws.org/Vol-3415/paper-27.pdf
   uuid: a51eeb26-beef-4537-941f-1bde5661493e
 - authors:
   - Luca Marconato
@@ -3605,7 +3633,8 @@ resources:
   type:
   - Publication
   - Preprint
-  url: https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract
+  url:
+  - https://www.biorxiv.org/content/10.1101/2023.05.05.539647v1.abstract
   uuid: a90cb0c9-0f18-4131-9bdf-bb2e1ecb7810
 - authors:
   - Christopher Schmied
@@ -3668,7 +3697,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://www.nature.com/articles/s41592-023-01987-9
+  url:
+  - https://www.nature.com/articles/s41592-023-01987-9
   uuid: 594fae1d-9050-4832-bd6e-6aba7164ef22
 - authors:
   - Christian Tischer
@@ -3685,7 +3715,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://doi.org/10.1093/bioinformatics/btab106
+  url:
+  - https://doi.org/10.1093/bioinformatics/btab106
   uuid: 13d23d56-b40d-465c-8dc5-fecf351c7899
 - authors:
   - Matúš Kalaš
@@ -3733,7 +3764,8 @@ resources:
   type:
   - Publication
   - Poster
-  url: https://f1000research.com/posters/9-162
+  url:
+  - https://f1000research.com/posters/9-162
   uuid: ba7be5a4-7697-4293-bf03-f24da1475d5f
 - authors:
   - Susanne Kunis
@@ -3761,7 +3793,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://f1000research.com/slides/12-1054
+  url:
+  - https://f1000research.com/slides/12-1054
   uuid: d007a237-0ee2-47d2-b672-7b868b2e13f5
 - authors:
   - Mohamed M. Abdrabbou
@@ -3813,7 +3846,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://zenodo.org/doi/10.5281/zenodo.10008464
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.10008464
   uuid: ec7c4adc-cbd0-4014-af89-d628f79130bd
 - authors:
   - Stefanie Weidtkamp-Peters
@@ -3868,7 +3902,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Github repository
-  url: https://zenodo.org/doi/10.5281/zenodo.10609770
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.10609770
   uuid: 5958ff49-1cad-4de2-b158-1106e2ba45c3
 - authors:
   - Josh Moore
@@ -3885,7 +3920,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Poster
-  url: https://zenodo.org/doi/10.5281/zenodo.11235512
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.11235512
   uuid: 27f7b02d-b759-4d22-9d71-7dde4d3f92cb
 - authors:
   - Susanne Kunis
@@ -3898,7 +3934,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://zenodo.org/doi/10.5281/zenodo.8329305
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.8329305
   uuid: eed6bba8-e74d-4f1e-a02c-739f5e643246
 - authors:
   - Josh Moore
@@ -3918,7 +3955,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Poster
-  url: https://zenodo.org/doi/10.5281/zenodo.7928332
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.7928332
   uuid: 28bcf7b5-60d7-4549-9472-1a04699ba3c3
 - authors:
   - Riccardo Massei
@@ -3936,7 +3974,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://zenodo.org/doi/10.5281/zenodo.8414318
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.8414318
   uuid: 56685938-832f-46ee-ac7b-b8b69aa5cbf8
 - authors:
   - Vanessa Aphaia Fiona Fuchs
@@ -3956,7 +3995,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Poster
-  url: https://zenodo.org/doi/10.5281/zenodo.10730423
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.10730423
   uuid: 4762a4de-b044-4534-a268-f5d5833d2a47
 - authors:
   - Christian Schmidt
@@ -3971,7 +4011,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://zenodo.org/doi/10.5281/zenodo.10939519
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.10939519
   uuid: 6b5cd720-8954-4862-ad2f-5f46697bfe49
 - authors:
   - Carsten Fortmann-Grote
@@ -3988,7 +4029,8 @@ resources:
   - Nfdi4Bioimage
   type:
   - Slides
-  url: https://zenodo.org/doi/10.5281/zenodo.11031746
+  url:
+  - https://zenodo.org/doi/10.5281/zenodo.11031746
   uuid: 8fb3de32-915a-4e3a-84c4-1072becd9e64
 - authors:
   - NFDI4BIOIMAGE Consortium
@@ -4116,7 +4158,8 @@ resources:
   - Metadata
   type:
   - Publication
-  url: https://www.nature.com/articles/s41592-021-01290-5
+  url:
+  - https://www.nature.com/articles/s41592-021-01290-5
   uuid: bcc7348e-cc52-4551-83dd-e1d2c081bd5f
 - authors:
   - Alessandro Rigano
@@ -4127,7 +4170,8 @@ resources:
   - Metadata
   type:
   - Publication
-  url: https://doi.org/10.1038/s41592-021-01315-z
+  url:
+  - https://doi.org/10.1038/s41592-021-01315-z
   uuid: cc0be79f-66c4-4527-87b3-5ea14f0bf7e0
 - authors:
   - Melissa Linkert
@@ -4138,7 +4182,8 @@ resources:
   - Metadata
   type:
   - Publication
-  url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
+  url:
+  - https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
   uuid: 52053584-d4c5-432a-9a6d-f9284a8640d6
 - authors:
   - Jan Ellenberg
@@ -4154,7 +4199,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://www.nature.com/articles/s41592-018-0195-8
+  url:
+  - https://www.nature.com/articles/s41592-018-0195-8
   uuid: 03dbe3a6-6f2d-428c-850e-f8ab897fb2d3
 - authors:
   - Nasim Jamali
@@ -4206,7 +4252,8 @@ resources:
   type:
   - Publication
   - Preprint
-  url: https://arxiv.org/abs/2302.01790v3
+  url:
+  - https://arxiv.org/abs/2302.01790v3
   uuid: 3b59037f-dc91-46df-9475-eeda5fab1087
 - authors:
   - Isabel Kemmer
@@ -4223,7 +4270,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://link.springer.com/article/10.1007/s00418-023-02203-7
+  url:
+  - https://link.springer.com/article/10.1007/s00418-023-02203-7
   uuid: 681bf3f7-8ae9-4df2-b468-d0e2e1e1dbaa
 - authors:
   - Robert Haase
@@ -4240,7 +4288,8 @@ resources:
   type:
   - Publication
   - Poster
-  url: https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
+  url:
+  - https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525
   uuid: fc92186d-3ec4-492e-82e3-baeb02b247ef
 - authors:
   - Joachim Goedhart
@@ -4250,7 +4299,8 @@ resources:
   - Sharing
   type:
   - Preprint
-  url: https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1
+  url:
+  - https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1
   uuid: e15e55e0-e43f-4127-802f-7de587656b90
 - authors:
   - Dan Chitwood
@@ -4302,7 +4352,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://doi.org/10.1016/j.vibspec.2024.103685
+  url:
+  - https://doi.org/10.1016/j.vibspec.2024.103685
   uuid: 38095569-6d47-41a5-9870-890552badf35
 - authors:
   - Ruman Gerst
@@ -4350,7 +4401,8 @@ resources:
   - Python
   type:
   - Documentation
-  url: https://biapy.readthedocs.io/
+  url:
+  - https://biapy.readthedocs.io/
   uuid: ce349cf8-9180-4a18-a168-2cc55290b1d2
 - description: Galaxy is an open source, web-based platform for data intensive biomedical
     research.
@@ -4359,7 +4411,8 @@ resources:
   - Workflow Engine
   type:
   - Documentation
-  url: https://usegalaxy.org/
+  url:
+  - https://usegalaxy.org/
   uuid: 936903ce-81e0-4d46-adce-e71d98137759
 - description: Fractal is a framework to process high-content imaging data at scale
     and prepare it for interactive visualization.
@@ -4369,7 +4422,8 @@ resources:
   - Python
   type:
   - Documentation
-  url: https://fractal-analytics-platform.github.io/
+  url:
+  - https://fractal-analytics-platform.github.io/
   uuid: ea95dcff-00dc-4812-bd00-88bfe6a0b4a2
 - description: The Snakemake workflow management system is a tool to create reproducible
     and scalable data analyses.
@@ -4408,7 +4462,8 @@ resources:
   - Workflow Engine
   type:
   - Documentation
-  url: https://www.nextflow.io/
+  url:
+  - https://www.nextflow.io/
   uuid: c7ef1727-7dfe-43a8-9cae-abebdc4192e3
 - description: nf-core is a community effort to collect a curated set of analysis
     pipelines built using Nextflow
@@ -4417,7 +4472,8 @@ resources:
   - Python
   type:
   - Collection
-  url: https://nf-co.re/
+  url:
+  - https://nf-co.re/
   uuid: b0f9771c-259b-42fb-8a24-85370a00921e
 - authors:
   - Wei Ouyang
@@ -4435,7 +4491,8 @@ resources:
   - Python
   type:
   - Documentation
-  url: https://bioimage-io.github.io/bioengine/#/
+  url:
+  - https://bioimage-io.github.io/bioengine/#/
   uuid: 630fa559-1d1d-4c45-aeb1-6b50711ea5a1
 - description: A collection of bio-image analysis webinars where commonly authors
     of open-source bio-image analysis software explain how to use their tools.
@@ -4445,7 +4502,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/neubias
+  url:
+  - https://www.youtube.com/neubias
   uuid: 36501c0d-b5fa-4d62-aefd-1ce7484e4d69
 - authors:
   - Sreeni Bhattiprolu
@@ -4466,7 +4524,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/GlobalBioImaging
+  url:
+  - https://www.youtube.com/GlobalBioImaging
   uuid: 8a9b4487-b9cd-4e53-bc86-7c017ce47b40
 - name: Bio Image Analysis Lecture 2020
   proficiency_level: advanced beginner
@@ -4475,7 +4534,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U
+  url:
+  - https://www.youtube.com/watch?v=e-2DbkUwKk4&list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U
   uuid: d933aa8b-2266-470f-8fc1-5be840b9f3be
 - description: YouTube channel collecting videos and webinar recordings about the
     Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the
@@ -4487,13 +4547,15 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/OpenMicroscopyEnvironment
+  url:
+  - https://www.youtube.com/OpenMicroscopyEnvironment
   uuid: 57b1e5c9-cefa-4bc4-8579-1a8644883e4f
 - name: Euro-BioImaging Communication YouTube Channel
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/c/eurobioimagingcommunication
+  url:
+  - https://www.youtube.com/c/eurobioimagingcommunication
   uuid: 94c3cde7-d369-4d9d-9a98-c0735ec9bee5
 - license: CC BY-NC-ND 3.0 DEED
   name: Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
@@ -4503,7 +4565,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
+  url:
+  - https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/
   uuid: c50d1fac-76e9-4ee3-9c66-6ae75fa257db
 - name: 'COBA: Center for Open Bioimage Analysis YouTube Channel'
   tags:
@@ -4511,7 +4574,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/@cobacenterforopenbioimagea1864
+  url:
+  - https://www.youtube.com/@cobacenterforopenbioimagea1864
   uuid: 3fa79fb1-159d-49fb-9a59-5ecbcc186924
 - description: Collection of tutorial videos for Fiji users
   name: Melbourne Advanced Microscopy Facility
@@ -4521,7 +4585,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/@melbourneadvancedmicroscop2617
+  url:
+  - https://www.youtube.com/@melbourneadvancedmicroscop2617
   uuid: 867574ca-b5a5-495e-8722-738bca361b9d
 - name: Fiji Is Just ImageJ Tutorials
   proficiency_level: novice
@@ -4530,7 +4595,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
+  url:
+  - https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb
   uuid: 6d3c6930-fb39-4763-ac77-c7a7630ca84a
 - license: ALL RIGHTS RESERVED
   name: Imaris Tutorials
@@ -4540,7 +4606,8 @@ resources:
   type:
   - Collection
   - Video
-  url: https://imaris.oxinst.com/tutorials
+  url:
+  - https://imaris.oxinst.com/tutorials
   uuid: 025be580-6d6f-44e7-9f1b-907b6fa246ec
 - license: ALL RIGHTS RESERVED
   name: arivis Vision4D Tutorials
@@ -4550,19 +4617,22 @@ resources:
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0
+  url:
+  - https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0
   uuid: f697db9c-b2a1-45e5-ac76-7abacb1122a6
 - name: RDMBites BioImage metadata
   type:
   - Collection
   - Video
-  url: https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1
+  url:
+  - https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1
   uuid: c29935a8-902a-4c0c-876f-c4ab113c171a
 - name: How to get started with Jupyter and Colab
   proficiency_level: advanced beginner
   type:
   - Video
-  url: https://www.youtube.com/watch?v=OH3VKI7ErAE
+  url:
+  - https://www.youtube.com/watch?v=OH3VKI7ErAE
   uuid: 0bb670fb-a51b-4091-86f8-d062b209784a
 - license: UNKNOWN
   name: Chris Halvin YouTube channel
@@ -4671,7 +4741,8 @@ resources:
   - Bioimage Analysis
   type:
   - Poster
-  url: https://hal.science/hal-02267597/document
+  url:
+  - https://hal.science/hal-02267597/document
   uuid: db34c2cd-b569-4dbc-abab-7dbf12aa7219
 - authors:
   - Geert van Geest
@@ -4692,7 +4763,8 @@ resources:
   type:
   - Publication
   - Preprint
-  url: https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1
+  url:
+  - https://www.biorxiv.org/content/10.1101/2024.08.20.608021v1
   uuid: bb461422-c378-4d8d-b792-aa920b888346
 - authors:
   - Johannes Soltwedel
@@ -4706,7 +4778,8 @@ resources:
   - Bioimage Analysis
   type:
   - Github repository
-  url: https://biapol.github.io/omero-tools/
+  url:
+  - https://biapol.github.io/omero-tools/
   uuid: 6785c881-99fd-476a-98c4-d90a482403b1
 - authors:
   - Manan Lalit
@@ -4722,7 +4795,8 @@ resources:
   - Instance Segmentation
   type:
   - Github repository
-  url: https://github.com/juglab/EmbedSeg
+  url:
+  - https://github.com/juglab/EmbedSeg
   uuid: f95076e0-2a5c-474c-95f7-b466536d7e3b
 - authors:
   - Pauli Virtanen et al.
@@ -4734,7 +4808,8 @@ resources:
   - Bioimage Analysis
   type:
   - Github repository
-  url: https://github.com/scipy/scipy-cookbook
+  url:
+  - https://github.com/scipy/scipy-cookbook
   uuid: 765be7d9-be5a-4ea4-b704-347a846a9857
 - authors:
   - Ziv Yaniv et al.
@@ -4747,7 +4822,8 @@ resources:
   - Simpleitk
   type:
   - Github repository
-  url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
+  url:
+  - https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
   uuid: 2e9607a5-feb6-454e-8037-17c6fa58ee79
 - authors:
   - Juan Nunez-Iglesias et al.
@@ -4761,7 +4837,8 @@ resources:
   - Scikit-Image
   type:
   - Github repository
-  url: https://github.com/scikit-image/skimage-tutorials
+  url:
+  - https://github.com/scikit-image/skimage-tutorials
   uuid: e11846ee-c527-4518-866b-d3c89b415de5
 - authors:
   - Loïc Estève et al.
@@ -4774,7 +4851,8 @@ resources:
   - Machine Learning
   type:
   - Github repository
-  url: https://github.com/INRIA/scikit-learn-mooc
+  url:
+  - https://github.com/INRIA/scikit-learn-mooc
   uuid: 8ffa8c80-9262-4de2-bda6-4035cbf28fab
 - authors:
   - Yandex School of Data Analysis
@@ -4786,7 +4864,8 @@ resources:
   - Natural Language Processing
   type:
   - Github repository
-  url: https://github.com/yandexdataschool/nlp_course
+  url:
+  - https://github.com/yandexdataschool/nlp_course
   uuid: e6fddd47-e3f5-4436-9cd9-4accb29cfa01
 - authors:
   - Beth Cimini et al.
@@ -4806,7 +4885,8 @@ resources:
   type:
   - Notebook
   - Collection
-  url: https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html
+  url:
+  - https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html
   uuid: 46634ae1-c6a4-4b71-81e4-9862140659af
 - authors:
   - EMBL-EBI
@@ -4819,7 +4899,8 @@ resources:
   - Bioinformatics
   type:
   - Collection
-  url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
+  url:
+  - https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
   uuid: c354a37f-9589-4f4d-8a50-a69efe3c11db
 - authors:
   - Vanessa Fiona Aphaia Fuchs
@@ -4987,7 +5068,8 @@ resources:
   - Research Data Management
   type:
   - Website
-  url: https://www.ugent.be/en/research/openscience/datamanagement
+  url:
+  - https://www.ugent.be/en/research/openscience/datamanagement
   uuid: c12aded1-ec0f-4a11-80e5-b73a89a991e4
 - authors:
   - GO FAIR
@@ -5000,7 +5082,8 @@ resources:
   - Research Data Management
   type:
   - Website
-  url: https://www.go-fair.org/resources/rdm-starter-kit/
+  url:
+  - https://www.go-fair.org/resources/rdm-starter-kit/
   uuid: ad24c08a-2367-462e-a187-ce4da251ffb8
 - authors:
   - Robert Haase
@@ -5033,7 +5116,8 @@ resources:
   type:
   - Publication
   publication_date: '2017-01-09'
-  url: https://www.mdpi.com/2304-6775/5/1/2
+  url:
+  - https://www.mdpi.com/2304-6775/5/1/2
   uuid: de967b0c-3a26-4289-b7f8-cf0e13502ebd
 - authors:
   - Mark D. Wilkinson
@@ -5104,7 +5188,8 @@ resources:
   type:
   - Publication
   publication_date: '2022-07-10'
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/
+  url:
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/
   uuid: 0a44aa70-7a95-460a-867d-7f5da5a680d9
 - authors:
   - Ugis Sarkans
@@ -5154,7 +5239,8 @@ resources:
   - Publication
   num_downloads: 1615
   publication_date: '2018-06-04'
-  url: https://doi.org/10.12688/f1000research.12344.2
+  url:
+  - https://doi.org/10.12688/f1000research.12344.2
   uuid: 9a84ca9e-2563-45e5-ae0f-76563ac1916b
 - authors:
   - Christian Schmidt
@@ -5171,7 +5257,8 @@ resources:
   - Conference Abstract
   - Slides
   publication_date: '2021-04-29'
-  url: https://doi.org/10.11588/heidok.00029489
+  url:
+  - https://doi.org/10.11588/heidok.00029489
   uuid: bb2fa570-0cd6-45ce-add3-666a3a1b97c0
 - authors:
   - ELIXIR (2021) Research Data Management Kit
@@ -5186,7 +5273,8 @@ resources:
   - Collection
   - Website
   - Online Tutorial
-  url: https://rdmkit.elixir-europe.org/data_life_cycle
+  url:
+  - https://rdmkit.elixir-europe.org/data_life_cycle
   uuid: 3ab496b7-20e9-43cf-920c-9b48a7d54d8a
 - license: UNKNOWN
   name: Tess Search for Data Life Cycle
@@ -5195,7 +5283,8 @@ resources:
   - Research Data Management
   type:
   - Collection
-  url: https://tess.elixir-europe.org/search?q=data+life+cycle#materials
+  url:
+  - https://tess.elixir-europe.org/search?q=data+life+cycle#materials
   uuid: 61e69915-e99e-47ef-af3a-ca92dea9f0ec
 - authors:
   - Uli Hahn
@@ -5231,7 +5320,8 @@ resources:
   type:
   - Publication
   publication_date: '2018-07-13'
-  url: https://www.o-bib.de/bib/article/view/2018H2S1-13
+  url:
+  - https://www.o-bib.de/bib/article/view/2018H2S1-13
   uuid: 18c43864-c12d-4e8a-934a-637c98837648
 - description: This document provides the essential elements of a Research Data Management
     (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for
@@ -5260,7 +5350,8 @@ resources:
   type:
   - Website
   - Online Tutorial
-  url: https://ds-wizard.org/
+  url:
+  - https://ds-wizard.org/
   uuid: a579cd90-08d2-4b6a-905b-e1da1fd9b91f
 - description: Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte
     bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
@@ -5272,7 +5363,8 @@ resources:
   type:
   - Website
   - Online Tutorial
-  url: https://rdmorganiser.github.io/
+  url:
+  - https://rdmorganiser.github.io/
   uuid: cf442dd8-e4a1-4380-8808-343a0c3eaae5
 - authors:
   - Robert Haase
@@ -5288,7 +5380,8 @@ resources:
   type:
   - Blog Post
   publication_date: '2023-11-06'
-  url: https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/
+  url:
+  - https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/
   uuid: 1778a5a0-ad2a-4bbb-97c2-2a735da6ccfd
 - authors:
   - Till Kreutzer
@@ -5313,7 +5406,8 @@ resources:
   type:
   - Book
   publication_date: '2021-05-25'
-  url: https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205
+  url:
+  - https://hup.sub.uni-hamburg.de/oa-pub/catalog/book/205
   uuid: 159070fd-6827-46e4-8596-506947e3e66d
 - description: Fiji is a popular free open-source image processing package based on
     ImageJ.
@@ -5325,7 +5419,8 @@ resources:
   - OMERO
   type:
   - Online Tutorial
-  url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html
+  url:
+  - https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html
   uuid: 854470e9-75de-46a5-ba31-10ac44527463
 - authors:
   - Christian Schmidt
@@ -5350,7 +5445,8 @@ resources:
   type:
   - Documentation
   - Collection
-  url: https://guide-kvpairs-scripts.readthedocs.io/en/latest/
+  url:
+  - https://guide-kvpairs-scripts.readthedocs.io/en/latest/
   uuid: 8ff1d027-c7e6-4fd1-97b0-3a291e341445
 - authors:
   - Ilya G. Goldberg
@@ -5393,7 +5489,8 @@ resources:
   - Publication
   num_downloads: 768
   publication_date: '2022-04-19'
-  url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full
+  url:
+  - https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.871228/full
   uuid: 1ee51dd0-3493-4c46-975a-3a56b03c71a8
 - description: Recommended Metadata for Biological Images (REMBI) provides guidelines
     for metadata for biological images to enable the FAIR sharing of scientific data.
@@ -5405,7 +5502,8 @@ resources:
   - Research Data Management
   type:
   - Collection
-  url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
   uuid: 5e068085-7383-4889-9888-15f66a9843b9
 - authors:
   - Rohola Hosseini
@@ -5428,7 +5526,8 @@ resources:
   type:
   - Publication
   publication_date: '2023-07-17'
-  url: https://www.nature.com/articles/s41597-023-02367-w
+  url:
+  - https://www.nature.com/articles/s41597-023-02367-w
   uuid: 580d2609-c189-411a-9f1d-2d9b1bf3f870
 - authors:
   - Lienhard Wegewitz
@@ -5466,7 +5565,8 @@ resources:
   - Open Science
   type:
   - Collection
-  url: http://opendatahandbook.org/guide/en/what-is-open-data/
+  url:
+  - http://opendatahandbook.org/guide/en/what-is-open-data/
   uuid: 8aff9ceb-4896-46a5-96fa-bd0be01ef5f5
 - description: Sharing your data can benefit your career in some interesting ways.
     In this post, read why you should be making more of your research data openly
@@ -5480,7 +5580,8 @@ resources:
   type:
   - Blog Post
   publication_date: '2022-03-18'
-  url: https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
+  url:
+  - https://web.library.uq.edu.au/blog/2022/03/five-great-reasons-share-your-research-data
   uuid: 4cea6882-9ae1-479c-b2e4-8ca9625c1954
 - description: The website offers detailed advice on publishing research data, focusing
     on key issues like data management, FAIR data principles, legal considerations,
@@ -5494,7 +5595,8 @@ resources:
   - Licensing
   type:
   - Tutorial
-  url: https://www.publisso.de/en/advice/publishing-advice-faqs/research-data
+  url:
+  - https://www.publisso.de/en/advice/publishing-advice-faqs/research-data
   uuid: e6a8b8e5-82f0-4fee-ba14-504438b674ab
 - authors:
   - Christian Schmidt
@@ -5510,7 +5612,8 @@ resources:
   type:
   - Tutorial
   publication_date: '2023-07-01'
-  url: https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/
+  url:
+  - https://gerbi-gmb.de/2023/06/01/finding-and-choosing-a-repository/
   uuid: 07126de5-9441-4fa1-8ccd-18137c77113a
 - description: Re3data is a global registry of research data repositories that covers
     research data repositories from different academic disciplines. It includes repositories
@@ -5522,7 +5625,8 @@ resources:
   - Research Data Management
   type:
   - Website
-  url: https://www.re3data.org/
+  url:
+  - https://www.re3data.org/
   uuid: 342bf8a3-120f-42b0-9b73-a4ca7ee67dfe
 - description: In 2016, the ‘FAIR Guiding Principles for scientific data management
     and stewardship’ were published in Scientific Data. The authors intended to provide
@@ -5537,7 +5641,8 @@ resources:
   - Research Data Management
   type:
   - Collection
-  url: https://www.go-fair.org/fair-principles/
+  url:
+  - https://www.go-fair.org/fair-principles/
   uuid: e690efc1-d9e7-4adf-bf0e-f190c12ef3a4
 - description: To submit, you’ll need to register an account, organise and upload
     your data, prepare a file list, and then submit using our web submission form.
@@ -5550,7 +5655,8 @@ resources:
   type:
   - Tutorial
   - Video
-  url: https://www.ebi.ac.uk/bioimage-archive/submit/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/submit/
   uuid: 4f7b57eb-cbd2-428c-83fe-934b326749a1
 - authors:
   - Matthew Hartley
@@ -5583,7 +5689,8 @@ resources:
   - Research Data Management
   type:
   - Website
-  url: https://www.nfdi.de/
+  url:
+  - https://www.nfdi.de/
   uuid: 0621e2e9-fb11-4edc-9c9b-d65a7b0dada4
 - authors:
   - Leyla Garcia
@@ -5605,7 +5712,8 @@ resources:
   - Publication
   num_downloads: 4311
   publication_date: '2020-05-21'
-  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
+  url:
+  - https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
   uuid: 3c513830-fb3a-479b-863f-9c61f7e8c8fc
 - authors:
   - Martin Boeckhout
@@ -5624,7 +5732,8 @@ resources:
   type:
   - Publication
   publication_date: '2018-05-17'
-  url: https://www.nature.com/articles/s41431-018-0160-0
+  url:
+  - https://www.nature.com/articles/s41431-018-0160-0
   uuid: 1d27bfea-1ec8-49bc-a5d4-3f0c674cd0b7
 - license: UNKNOWN
   name: Data management at France BioImaging
@@ -5636,7 +5745,8 @@ resources:
   - Slides
   - Presentation
   publication_date: '2024-29-05'
-  url: https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf
+  url:
+  - https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf
   uuid: 2546aa43-949d-4304-903f-e9c3a9a17947
 - description: Explore fundamental topics on research data management (RDM), how DataPLANT
     implements these aspects to support plant researchers with RDM tools and services,
@@ -5649,7 +5759,8 @@ resources:
   type:
   - Collection
   publication_date: '2022-12-14'
-  url: https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html
+  url:
+  - https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html
   uuid: c90cb9a3-f9de-45c7-889a-f8fc2e95b19d
 - description: An easy to use and open source converter for bioimaging data. NGFF-Converter
     is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation
@@ -5660,7 +5771,8 @@ resources:
   - Open Source Software
   type:
   - Application
-  url: https://www.glencoesoftware.com/products/ngff-converter/
+  url:
+  - https://www.glencoesoftware.com/products/ngff-converter/
   uuid: 55558f7d-5043-4b05-aff7-6fa14f27fc46
 - authors:
   - Melissa Linkert
@@ -5678,7 +5790,8 @@ resources:
   type:
   - Application
   - Github repository
-  url: https://github.com/glencoesoftware/bioformats2raw
+  url:
+  - https://github.com/glencoesoftware/bioformats2raw
   uuid: 0a24567c-7110-4d9a-be4f-2bdce3f3f629
 - authors:
   - Melissa Linkert
@@ -5694,7 +5807,8 @@ resources:
   type:
   - Application
   - Github repository
-  url: https://github.com/glencoesoftware/raw2ometiff
+  url:
+  - https://github.com/glencoesoftware/raw2ometiff
   uuid: f09968ac-248a-4756-b3ae-dc4680dd0363
 - description: This Focus issue features a series of papers offering guidelines and
     tools for improving the tracking and reporting of microscopy metadata with an
@@ -5707,7 +5821,8 @@ resources:
   type:
   - Collection
   publication_date: '2021-12-03'
-  url: https://www.nature.com/collections/djiciihhjh
+  url:
+  - https://www.nature.com/collections/djiciihhjh
   uuid: aef54970-e95c-44cf-80a5-d2dcdd5210f7
 - authors:
   - Christopher Schmied
@@ -5721,7 +5836,8 @@ resources:
   type:
   - Forum Post
   publication_date: '2023-09-14'
-  url: https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304
+  url:
+  - https://forum.image.sc/t/checklists-for-publishing-images-and-image-analysis/86304
   uuid: 6a266e96-c637-4989-bf9d-b32a22cf823f
 - authors:
   - Stian Soiland-Reyes
@@ -5742,7 +5858,8 @@ resources:
   - R
   type:
   - Collection
-  url: https://workflowhub.eu/
+  url:
+  - https://workflowhub.eu/
   uuid: 5a544a67-fc07-4628-854e-0d60e530d64b
 - license: CC-BY-4.0
   name: Creating Workflows and Advanced Workflow Options
@@ -5752,7 +5869,8 @@ resources:
   type:
   - Tutorial
   - Online Tutorial
-  url: https://galaxyproject.org/learn/advanced-workflow/
+  url:
+  - https://galaxyproject.org/learn/advanced-workflow/
   uuid: 1962ecf9-e012-4c47-a5dd-363f311bd7ee
 - description: A workflow is a chain of analysis steps. In Galaxy, we can create a
     workflow from an existing analysis history, or we can create one visually by adding
@@ -5766,7 +5884,8 @@ resources:
   type:
   - Online Tutorial
   - Tutorial
-  url: https://galaxy-au-training.github.io/tutorials/modules/workflows/
+  url:
+  - https://galaxy-au-training.github.io/tutorials/modules/workflows/
   uuid: 4bc3f6ce-4a4a-4ec4-9381-d528cb8fd219
 - description: Collection of tutorials developed and maintained by the worldwide Galaxy
     community.
@@ -5781,7 +5900,8 @@ resources:
   - Tutorial
   num_downloads: null
   publication_date: null
-  url: https://training.galaxyproject.org/
+  url:
+  - https://training.galaxyproject.org/
   uuid: abba4da1-44b1-4f68-8cb7-b71d72f3923c
 - authors: null
   description: The KNIME Image Processing Extension allows you to read in more than
@@ -5798,7 +5918,8 @@ resources:
   - Tutorial
   - Online Tutorial
   - Documentation
-  url: https://www.knime.com/community/image-processing
+  url:
+  - https://www.knime.com/community/image-processing
   uuid: 4599af42-a420-4677-9be7-f6d41cd13825
 - description: The NFDI Basic Service DMP4NFDI supports consortia in developing and
     providing data management plans (DMP) services for their community.
@@ -5808,7 +5929,8 @@ resources:
   - Research Data Management
   type:
   - Document
-  url: https://base4nfdi.de/images/AbstractDMP4NFDI.pdf
+  url:
+  - https://base4nfdi.de/images/AbstractDMP4NFDI.pdf
   uuid: 0e615fec-d2b6-4e06-bb85-e7f1583fefcc
 - description: OME develops open-source software and data format standards for the
     storage and manipulation of biological microscopy data
@@ -5821,7 +5943,8 @@ resources:
   - Collection
   num_downloads: null
   publication_date: null
-  url: https://www.youtube.com/@OpenMicroscopyEnvironment
+  url:
+  - https://www.youtube.com/@OpenMicroscopyEnvironment
   uuid: a2399d73-3b86-4fc6-9bd3-fa7d06d97ac2
 - authors:
   - SciPy
@@ -5836,7 +5959,8 @@ resources:
   - Video
   - Presentation
   publication_date: '2024-08-19'
-  url: https://www.youtube.com/watch?v=GmhyDNm1RsM
+  url:
+  - https://www.youtube.com/watch?v=GmhyDNm1RsM
   uuid: 7c7b0d9a-3a21-458c-b012-819e5366d318
 - authors:
   - Pierre Pouchin
@@ -5853,7 +5977,8 @@ resources:
   - Fiji
   type:
   - Github repository
-  url: https://github.com/GReD-Clermont/simple-omero-client
+  url:
+  - https://github.com/GReD-Clermont/simple-omero-client
   uuid: 2b6a2322-ede2-45c1-a0c8-202852b86d15
 - description: An ImageJ plugin to run a script or macro on a batch of images from/to
     OMERO.
@@ -5866,7 +5991,8 @@ resources:
   - Github
   type:
   - Github repository
-  url: https://github.com/GReD-Clermont/omero_batch-plugin
+  url:
+  - https://github.com/GReD-Clermont/omero_batch-plugin
   uuid: 8c1a97a4-9011-4071-a117-a3316533cfd8
 - authors:
   - Torec T. Luik
@@ -5887,7 +6013,8 @@ resources:
   - Publication
   num_downloads: null
   publication_date: null
-  url: https://doi.org/10.1016/j.patter.2024.101024
+  url:
+  - https://doi.org/10.1016/j.patter.2024.101024
   uuid: 95e45881-b0b7-4cd0-8e4f-d7e00a9fc908
 - authors:
   - Torec Luik
@@ -5903,7 +6030,8 @@ resources:
   type:
   - Github repository
   publication_date: '2024-07-24'
-  url: https://github.com/NL-BioImaging/biomero
+  url:
+  - https://github.com/NL-BioImaging/biomero
   uuid: a2a8690a-53de-4997-8b08-6acdffabe200
 - authors:
   - Erick Martins Ratamero
@@ -5921,7 +6049,8 @@ resources:
   type:
   - Github repository
   publication_date: '2024-09-14'
-  url: https://github.com/ome/omero-cli-transfer
+  url:
+  - https://github.com/ome/omero-cli-transfer
   uuid: 8ab42148-4985-4710-bcc3-995795e775d9
 - authors:
   - Will Moore
@@ -5947,7 +6076,8 @@ resources:
   type:
   - Documentation
   publication_date: '2024-10-24'
-  url: https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html
+  url:
+  - https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html
   uuid: 0211f6f7-6e54-4311-958a-f7ea99a459dd
 - authors:
   - Robert Haase
@@ -6012,7 +6142,8 @@ resources:
   - OMERO
   type:
   - Online Tutorial
-  url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
+  url:
+  - https://wiki-biop.epfl.ch/en/data-management/omero/qupath
   uuid: 449fdce8-2c37-4543-aa9e-29cdd82e6d4f
 - authors:
   - Shanghang Zhang
@@ -6075,7 +6206,8 @@ resources:
   license: UNKNOWN
   name: QuPath for Python programmers
   publication_date: '2024-10-23'
-  url: https://github.com/qupath/i2k-qupath-for-python-programmers
+  url:
+  - https://github.com/qupath/i2k-qupath-for-python-programmers
   uuid: ffdb3697-4a31-423e-acf5-dc332827959a
 - authors:
   - Stephan Saalfeld
@@ -6148,7 +6280,8 @@ resources:
   - Notebook
   license: BSD-3-CLAUSE
   name: I2K2024(virtual) - Bio-Image Analysis Code Generation
-  url: https://github.com/haesleinhuepf/i2k2024-ai-code-generation
+  url:
+  - https://github.com/haesleinhuepf/i2k2024-ai-code-generation
   uuid: 280f8cd2-9962-4077-8430-5547da1fc990
 - authors:
   - Joanna Pylvänäinen
@@ -6166,7 +6299,8 @@ resources:
   name: Object Tracking and Track Analysis using TrackMate and CellTracksColab
   num_downloads: null
   publication_date: null
-  url: https://github.com/CellMigrationLab/I2K_2024
+  url:
+  - https://github.com/CellMigrationLab/I2K_2024
   uuid: c39b2920-f765-4bf8-afcc-eeb06d5a61a8
 - authors:
   - Stephane Rigaud
@@ -6185,7 +6319,8 @@ resources:
   - Notebook
   license: BSD-3-CLAUSE
   name: 'I2K 2024: clEsperanto - GPU-Accelerated Image Processing Library'
-  url: https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
+  url:
+  - https://github.com/StRigaud/clesperanto_workshop_I2K24?tab=readme-ov-file
   uuid: b3fe1d29-990c-40d4-b69f-aad85d29012f
 - authors:
   - Tim Monko
@@ -6282,7 +6417,8 @@ resources:
   - Collection
   license: UNKNOWN
   name: Glencoe Software Webinars
-  url: https://www.glencoesoftware.com/media/webinars/
+  url:
+  - https://www.glencoesoftware.com/media/webinars/
   uuid: 45c20672-7be4-47cf-9402-4df681b8f229
 - authors:
   - Christian Schmidt
@@ -6303,7 +6439,8 @@ resources:
     survey
   num_downloads: 321
   publication_date: '2022-09-20'
-  url: https://f1000research.com/articles/11-638/v2
+  url:
+  - https://f1000research.com/articles/11-638/v2
   uuid: 90748362-6f2e-4a52-9ce8-9cffca33693a
 - author: Marvin Albert
   description: Repository accompanying the multiview-stitcher tutorial for Virtual
@@ -6371,7 +6508,8 @@ resources:
   type:
   - Github repository
   - Tutorial
-  url: https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
+  url:
+  - https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course
   uuid: 426d4c09-4401-4742-a33c-f34130ad2a24
 - authors:
   - Riccardo Massei
@@ -6493,7 +6631,8 @@ resources:
   - Event
   - Forum Post
   - Workshop
-  url: https://forum.image.sc/t/upcoming-image-analysis-events/60018/67
+  url:
+  - https://forum.image.sc/t/upcoming-image-analysis-events/60018/67
   uuid: 58105db4-ecb2-4dd4-9e13-b751879b1397
 - authors:
   - Riccardo Massei
@@ -6512,7 +6651,8 @@ resources:
   type:
   - Github repository
   - Slides
-  url: https://github.com/rmassei/ymia_python_event_series_material
+  url:
+  - https://github.com/rmassei/ymia_python_event_series_material
   uuid: 0beb7c54-d72d-4bc1-af9e-5db27007c845
 - authors:
   - SaibotMagd
@@ -6524,7 +6664,8 @@ resources:
   - Research Data Management
   type:
   - Github repository
-  url: https://github.com/SaibotMagd/RDM_system_connector
+  url:
+  - https://github.com/SaibotMagd/RDM_system_connector
   uuid: c7980923-d1e1-4826-86d0-e76e1d4c2311
 - authors:
   - Anna Swan
@@ -6545,7 +6686,8 @@ resources:
   - Collection
   - Tutorial
   - Video
-  url: https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/
+  url:
+  - https://www.ebi.ac.uk/training/online/courses/finding-using-public-data/
   uuid: 6a6d761a-ae7b-4a0b-b7e2-ca6cb1338de5
 - authors:
   - Tom Boissonnet
@@ -6660,7 +6802,8 @@ resources:
   - Github repository
   - Slides
   - Notebook
-  url: https://github.com/deeplife4eu/Lecture-materials/
+  url:
+  - https://github.com/deeplife4eu/Lecture-materials/
   uuid: 169aecea-cddf-4bda-aeb4-953b0d658513
 - authors:
   - Christian Tischer
@@ -6699,7 +6842,8 @@ resources:
   - Neurobias
   type:
   - Github repository
-  url: https://github.com/NEUBIAS/training-resources
+  url:
+  - https://github.com/NEUBIAS/training-resources
   uuid: b2557f1a-0ecc-4ca0-999f-ed0e8de6671c
 - authors:
   - Arif Khan
@@ -6716,7 +6860,8 @@ resources:
   - Research Data Management
   type:
   - Tutorial
-  url: https://git.embl.de/grp-cba/cba-support-template
+  url:
+  - https://git.embl.de/grp-cba/cba-support-template
   uuid: 43f9bae1-731e-4d6c-9b73-bcca2f5f74a2
 - authors:
   - Bret Fisher
@@ -6731,7 +6876,8 @@ resources:
   - Video
   - Tutorial
   - Online Course
-  url: https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW
+  url:
+  - https://www.udemy.com/course/docker-mastery/?srsltid=AfmBOornR5gRqOg-4v8Nsap1z24CaPPUPxg8JzyqEGZ6MvW_dh-sf4Af&couponCode=ST2MT110724BNEW
   uuid: 608bbdad-a08b-4636-beee-4a61bf2261f2
 - description: Computational skills training at the UCL Sainsbury Wellcome Centre
     and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics
@@ -6744,7 +6890,8 @@ resources:
   - Online Course
   - Video
   - Tutorial
-  url: https://software-skills.neuroinformatics.dev/index.html
+  url:
+  - https://software-skills.neuroinformatics.dev/index.html
   uuid: 29179f80-6007-42ca-841e-12c183e99765
 - authors:
   - Daniele Procida
@@ -6781,7 +6928,8 @@ resources:
   type:
   - Tutorial
   - Workflow
-  url: https://datacarpentry.org/image-processing/key-points.html
+  url:
+  - https://datacarpentry.org/image-processing/key-points.html
   uuid: 0c3a2e37-788f-4cbc-85e7-e18f471f9210
 - authors:
   - Nicolas Chiaruttini
@@ -6934,7 +7082,8 @@ resources:
   - Video
   - Slides
   - Webinar
-  url: https://www.youtube.com/watch?v=TJXNMIWtdac
+  url:
+  - https://www.youtube.com/watch?v=TJXNMIWtdac
   uuid: 2f829294-f8cc-4362-b5b5-30b9b53af98a
 - authors:
   - Guillaume Jacquemet
@@ -6955,7 +7104,8 @@ resources:
   type:
   - Video
   - Slides
-  url: https://www.youtube.com/watch?v=KTdZBgSCYJQ
+  url:
+  - https://www.youtube.com/watch?v=KTdZBgSCYJQ
   uuid: 87566bb8-e53b-4f58-bb5c-e722e0dc1a64
 - description: The mission of Metrics Reloaded is to guide researchers in the selection
     of appropriate performance metrics for biomedical image analysis problems, as
@@ -6970,7 +7120,8 @@ resources:
   type:
   - Website
   - Collection
-  url: https://metrics-reloaded.dkfz.de/
+  url:
+  - https://metrics-reloaded.dkfz.de/
   uuid: 667f39e8-91c3-4c8c-8a5e-3a3b32f41da8
 - submission_date: '2024-11-12T10:17:25.985725'
   authors:
@@ -7214,7 +7365,8 @@ resources:
   - Statistics
   type:
   - Github repository
-  url: https://github.com/cxli233/Online_R_learning
+  url:
+  - https://github.com/cxli233/Online_R_learning
   uuid: 6eb1b5fd-0383-4954-bfd8-9e42bb29444b
 - authors:
   - C. Li
@@ -7228,7 +7380,8 @@ resources:
   - Visualization
   type:
   - Github repository
-  url: https://github.com/cxli233/FriendsDontLetFriends
+  url:
+  - https://github.com/cxli233/FriendsDontLetFriends
   uuid: 9faa0f8b-a4ac-4e8a-80b0-22225c848110
 - submission_date: '2024-11-18T14:39:37.692470'
   authors:
@@ -9805,7 +9958,8 @@ resources:
   - nfdi4bioimage
   - research data management
   type: GitHub Repository
-  url: https://github.com/ome/ome2024-ngff-challenge
+  url:
+  - https://github.com/ome/ome2024-ngff-challenge
   uuid: 23de46e4-2c21-4094-9669-6a9659260b6a
 - authors:
   - Birgitta König-Ries
@@ -9883,7 +10037,8 @@ resources:
   type:
   - Github repository
   - notebook
-  url: https://github.com/KatherLab/patho_prompt_injection
+  url:
+  - https://github.com/KatherLab/patho_prompt_injection
   uuid: 8b3e869c-7cd7-4414-adc9-c702e060cb65
 - authors:
   - Dave Barry
@@ -9900,7 +10055,8 @@ resources:
   type:
   - Github repository
   - notebooks
-  url: https://github.com/RMS-DAIM/introduction-to-image-analysis
+  url:
+  - https://github.com/RMS-DAIM/introduction-to-image-analysis
   uuid: ee2864c6-59bf-4a1e-b286-cdfbccd265b3
 - authors: Jack Atkinson
   description: Teaching materials for improving research software writing abilities.
@@ -9914,7 +10070,8 @@ resources:
   type:
   - Github repository
   - Slides
-  url: https://github.com/jatkinson1000/rse-skills-workshop
+  url:
+  - https://github.com/jatkinson1000/rse-skills-workshop
   uuid: 44f4837d-6941-4b7c-8fe2-015a0b070c94
 - authors:
   - Robert Haase
@@ -10144,7 +10301,8 @@ resources:
   type:
   - Github repository
   - collection
-  url: https://github.com/Graylab/DL4Proteins-notebooks
+  url:
+  - https://github.com/Graylab/DL4Proteins-notebooks
   uuid: 079c6c01-382b-4c0e-b3ee-db26367cbf41
 - authors: Joanna Pylvänäinen
   description: Training materials for V4SDB Student Winter School, 28th-31st January
@@ -10159,7 +10317,8 @@ resources:
   type:
   - Github repository
   - collection
-  url: https://github.com/CellMigrationLab/V4SDB_Winter_School_2025
+  url:
+  - https://github.com/CellMigrationLab/V4SDB_Winter_School_2025
   uuid: c7b8282b-9013-46de-abac-e4b6c0f2eb82
 - authors: Robert Haase
   description: This slide deck introduces the version control tool git, related terminology
@@ -10193,7 +10352,8 @@ resources:
   - UMAP
   type:
   - Blog Post
-  url: https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/
+  url:
+  - https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/
   uuid: c0bf8564-c856-4290-8e53-f42fa8ca00ff
 - authors: Joachim Goedhart
   license: CC-BY-NC-SA-4.0
@@ -10208,6 +10368,7 @@ resources:
   url:
   - https://zenodo.org/records/7257808
   - https://joachimgoedhart.github.io/DataViz-protocols/
+  - https://doi.org/10.5281/zenodo.7257808
   uuid: 6b73ed65-2d42-42ff-9b49-18f19a561e87
 - authors: Joachim Goedhart
   description: The author discusses a number of color palettes that are suitable for
@@ -10219,7 +10380,8 @@ resources:
   - Data Visualization
   type:
   - Blog Post
-  url: https://thenode.biologists.com/data-visualization-with-flying-colors/research/
+  url:
+  - https://thenode.biologists.com/data-visualization-with-flying-colors/research/
   uuid: 43d8a045-ec45-43ab-97b0-669f35bc71d3
 - authors:
   - Riccardo Massei
@@ -10237,7 +10399,8 @@ resources:
   - Tutorial
   - Framework
   - Workflow
-  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html
+  url:
+  - https://training.galaxyproject.org/training-material/topics/imaging/tutorials/omero-suite/tutorial.html
   uuid: 415f41dd-5ccf-4b57-bce1-c62c051520f5
 - authors: Iván Hidalgo-Cenalmor
   license: UNKNOWN
@@ -10250,7 +10413,8 @@ resources:
   - Artifical Intelligence
   type:
   - Blog Post
-  url: https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/
+  url:
+  - https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/
   uuid: 30a65a8c-8cf1-496d-9ab4-df306eab284d
 - authors: UNKNOWN
   license: UNKNOWN
@@ -10262,7 +10426,8 @@ resources:
   type:
   - Report
   - Blog Post
-  url: https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/
+  url:
+  - https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/
   uuid: a13da37f-fd0c-4f3a-b12a-e430e3296055
 - authors:
   - Leonid Kostrykin
@@ -10276,7 +10441,8 @@ resources:
   type:
   - Workflow
   - Tutorial
-  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes
+  url:
+  - https://training.galaxyproject.org/training-material/topics/imaging/tutorials/detection-of-mitoflashes/tutorial.html#tracking-of-mitochondria-and-capturing-mitoflashes
   uuid: 9f3931f6-10dc-4f26-a199-696f8a1a2d6e
 - authors:
   - Virginie Uhlmann
@@ -10293,7 +10459,8 @@ resources:
   - Microscopy
   type:
   - Publication
-  url: https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through
+  url:
+  - https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through
   uuid: d43e9b1d-0991-4a66-a122-53fe2f04d59c
 - authors:
   - Jakob Nikolas Kather
@@ -10307,7 +10474,8 @@ resources:
   - Artificial Intelligence
   type:
   - Video
-  url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
+  url:
+  - https://www.youtube.com/watch?v=Om9tl4Dh2yw
   uuid: 125beb87-3331-4cae-9371-01e33f8e99b1
 - authors: Shanmugasundaram
   description: Introduction to RDM primarily for researchers. Can be seen as primer
@@ -10320,7 +10488,9 @@ resources:
   - Open Science
   type:
   - Slides
-  url: https://zenodo.org/records/4778265
+  url:
+  - https://zenodo.org/records/4778265
+  - https://doi.org/10.5281/zenodo.4778265
   uuid: dbbee207-410b-4486-a7d6-963a6e7f2545
 - authors: Richard McElreath
   description: Video Lectures for Statistical Rethinking Course
@@ -10331,7 +10501,8 @@ resources:
   - Statistics
   type:
   - Video
-  url: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
+  url:
+  - https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
   uuid: b980ce1f-56ec-46fc-9f22-e29f607554ac
 - authors: Richard McElreath
   description: This course teaches data analysis, but it focuses on scientific models.
@@ -10348,7 +10519,8 @@ resources:
   - Statistics
   type:
   - Github repository
-  url: https://github.com/rmcelreath/stat_rethinking_2024
+  url:
+  - https://github.com/rmcelreath/stat_rethinking_2024
   uuid: d79b0567-0781-4d37-93cb-cae9b955b298
 - authors: Andrew Althouse
   description: Reference Collection to understand how to deal with common statistical
@@ -10360,7 +10532,8 @@ resources:
   - Statistics
   type:
   - Wiki
-  url: https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787
+  url:
+  - https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787
   uuid: c6252eed-b79e-4889-8ed7-589c2e35b535
 - authors:
   - Christian Tischer
@@ -10423,7 +10596,8 @@ resources:
   - single-cell analysis
   - bioimage analysis
   type: GitHub Repository
-  url: https://github.com/scverse/scanpy-tutorials
+  url:
+  - https://github.com/scverse/scanpy-tutorials
   uuid: 3a8e2767-9450-44ff-801f-836cf4e52bcc
 - authors:
   - Josh Moore
@@ -10634,7 +10808,8 @@ resources:
   tags:
   - Fiji
   type: GitHub Repository
-  url: https://github.com/abcucberkeley/Parallel_Fiji_Visualizer
+  url:
+  - https://github.com/abcucberkeley/Parallel_Fiji_Visualizer
   uuid: b5e49249-275a-47ef-abd9-66604230050f
 - authors:
   - Joran Deschamps
@@ -10647,7 +10822,8 @@ resources:
   tags:
   - Fiji
   type: GitHub Repository
-  url: https://github.com/nobias-fht/advanced-scripting
+  url:
+  - https://github.com/nobias-fht/advanced-scripting
   uuid: 8c53b374-4855-4ed6-a59e-3a48936318b6
 - authors:
   - Carsten Fortmann-Grote
@@ -10660,7 +10836,8 @@ resources:
   tags:
   - Omero
   type: GitHub Repository
-  url: https://github.com/German-BioImaging/omero-ontop-mappings
+  url:
+  - https://github.com/German-BioImaging/omero-ontop-mappings
   uuid: fdaba932-db79-47d9-97ae-196563ac3a45
 - authors:
   - Michele Bortolomeazzi
@@ -10672,7 +10849,8 @@ resources:
   tags:
   - Omero
   type: GitHub Repository
-  url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
+  url:
+  - https://github.com/NFDI4BIOIMAGE/omero-vitessce
   uuid: 15331066-c748-4275-81c5-dd85bcdc0c33
 - authors:
   - Rodrigo Escobar Diaz Guerrero
@@ -10686,7 +10864,8 @@ resources:
   - Research Data Management
   - Electronic lab notebooks
   type: GitHub Repository
-  url: https://github.com/NFDI4BIOIMAGE/LEO
+  url:
+  - https://github.com/NFDI4BIOIMAGE/LEO
   uuid: e1be7d60-d16a-437a-8060-a0fe24df85a0
 - authors:
   - Zollitsch, Linda
@@ -10725,7 +10904,8 @@ resources:
   tags:
   - NFDI4BioImage
   type: GitHub Repository
-  url: https://github.com/SaibotMagd/dmtxSampleCreator
+  url:
+  - https://github.com/SaibotMagd/dmtxSampleCreator
   uuid: b6b87689-9dab-4629-b9d6-16a140ac2081
 - authors:
   - Galaxy Team
@@ -10739,7 +10919,8 @@ resources:
   - Bioinformatics
   type:
   - YouTube Channel
-  url: https://www.youtube.com/c/galaxyproject
+  url:
+  - https://www.youtube.com/c/galaxyproject
   uuid: b89c0ab6-c787-4840-8bef-2a4ac1a0a2f4
 - authors:
   - Galaxy Team
@@ -10755,7 +10936,8 @@ resources:
   - Bioinformatics
   type:
   - Tool
-  url: https://imaging.usegalaxy.eu
+  url:
+  - https://imaging.usegalaxy.eu
   uuid: 7b56bcd5-ac3f-49b2-a4d3-5dc0fbf581ec
 - authors: de.NBI
   description: The de.NBI (German Network for Bioformatics Infrastructure) Online
@@ -10768,7 +10950,8 @@ resources:
   - Galaxy
   type:
   - Website
-  url: https://www.denbi.de/online-training-media-library
+  url:
+  - https://www.denbi.de/online-training-media-library
   uuid: 178e78a5-ece7-4dff-bb7d-2e73b5454c90
 - authors: de.NBI
   description: Tutorial for accessing de.NBI cloud
@@ -10779,7 +10962,8 @@ resources:
   - Cloud Computing
   type:
   - Tutorial
-  url: https://cloud.denbi.de/get-started/
+  url:
+  - https://cloud.denbi.de/get-started/
   uuid: 5ec87832-7ed4-413c-b2a7-589828b6f6b4
 - authors: de.NBI
   description: Tutorial for registering for de.NBI cloud access
@@ -10791,7 +10975,8 @@ resources:
   - Cloud Computing
   type:
   - Tutorial
-  url: https://cloud.denbi.de/wiki/registration/
+  url:
+  - https://cloud.denbi.de/wiki/registration/
   uuid: 2e0eda84-574f-4786-a6ef-4c987c1610c0
 - authors:
   - Kevin Frey
@@ -10814,7 +10999,8 @@ resources:
   - FAIR
   type:
   - Framework
-  url: https://arc-rdm.org/
+  url:
+  - https://arc-rdm.org/
   uuid: 5110f584-b983-4aed-8479-7d7fb3559e5a
 - authors: de.NBI
   description: The de.NBI (German Network for Bioformatics Infrastructure) Youtube
@@ -10826,7 +11012,8 @@ resources:
   - Bioinformatics
   type:
   - YouTube Channel
-  url: https://www.youtube.com/@denbi5170
+  url:
+  - https://www.youtube.com/@denbi5170
   uuid: 110d54b6-660b-4a18-9595-7813ff5e639b
 - authors:
   - Sebastian Lobentanzer
@@ -10870,7 +11057,8 @@ resources:
   - Bioinformatics
   type:
   - Publication
-  url: https://www.nature.com/articles/s41587-023-01848-y
+  url:
+  - https://www.nature.com/articles/s41587-023-01848-y
   uuid: f69419b9-4156-4821-8127-ab29c0641506
 - authors:
   - Jullia Jakiela
@@ -10889,7 +11077,8 @@ resources:
   - Bioimage Analysis
   type:
   - Tutorial
-  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
+  url:
+  - https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
   uuid: d9d12624-895f-4c04-a520-34db8976020d
 - authors: David Barry
   description: Slides presented at Empowering Healthcare with Automated Analysis at
@@ -10902,7 +11091,8 @@ resources:
   - Image Analysis
   type:
   - Slides
-  url: https://doi.org/10.5281/zenodo.14767944
+  url:
+  - https://doi.org/10.5281/zenodo.14767944
   uuid: e554218d-2c80-409c-b0e3-3e6d6cc10180
 - authors: GloBIAS
   description: This is the YouTube channel of GloBIAS, the Global BioImage Analysts
@@ -10915,7 +11105,8 @@ resources:
   - Bioimage Analysis
   type:
   - YouTube Channel
-  url: https://www.youtube.com/@globias
+  url:
+  - https://www.youtube.com/@globias
   uuid: a67bb34d-347f-411f-bba8-9c9a0828be91
 - authors: GloBIAS
   description: The primary goal of this seminar series is to provide a dynamic platform
@@ -10929,7 +11120,8 @@ resources:
   - Bioimage Analysis
   type:
   - Collection
-  url: https://www.globias.org/activities/bia-seminar-series
+  url:
+  - https://www.globias.org/activities/bia-seminar-series
   uuid: 4b254100-951b-489c-95c9-cab04dd2252e
 - authors:
   - Torsten Stöter
@@ -10943,7 +11135,8 @@ resources:
   type:
   - GitHub Repository
   - Software
-  url: https://github.com/tstoeter/datenbiene
+  url:
+  - https://github.com/tstoeter/datenbiene
   uuid: 60926b5c-4d06-496b-8a8d-8356ecfa3a31
 - authors:
   - Christoph Moehl
@@ -10960,7 +11153,8 @@ resources:
   type:
   - GitHub Repository
   - Software
-  url: https://github.com/cmohl2013/omero-arc
+  url:
+  - https://github.com/cmohl2013/omero-arc
   uuid: 06ccdf82-d61b-490a-b20d-6ad95a017c2d
 - authors:
   - Moore, Josh
@@ -11164,7 +11358,8 @@ resources:
   - Python
   - Napari
   type: GitHub Repository
-  url: https://github.com/DragaDoncila/napari-scipy2025-workshop
+  url:
+  - https://github.com/DragaDoncila/napari-scipy2025-workshop
   uuid: 7b668d50-e50c-4e1f-82d6-44a2500064ca
 - authors:
   - Schimmler, Sonja
@@ -11713,7 +11908,8 @@ resources:
   - artificial intelligence
   - bioimage analysis
   type: GitHub Repository
-  url: https://github.com/bioimage-io/bioimageio-chatbot
+  url:
+  - https://github.com/bioimage-io/bioimageio-chatbot
   uuid: 31a8ab88-d436-4d52-af74-88c94ac589ff
 - authors:
   - Rensu Petrus Theart
@@ -11867,7 +12063,8 @@ resources:
   - cell profiler
   - bioimage analysis
   type: GitHub Repository
-  url: https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
+  url:
+  - https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
   uuid: 12513d54-3aeb-4b4d-8aef-3aea2f8b5173
 - authors: Nfdi4Bioimage
   license: UNKNOWN
@@ -11878,7 +12075,8 @@ resources:
   - nfdi4bioimage
   type:
   - Collection
-  url: https://nfdi4bioimage.de/home/
+  url:
+  - https://nfdi4bioimage.de/home/
   uuid: 192a064e-1f3f-4b7d-b462-f83d9a2236c8
 - authors:
   - Torsten Stöter
@@ -11912,7 +12110,9 @@ resources:
   - Research Data Management
   type:
   - Poster
-  url: https://zenodo.org/records/8349563
+  url:
+  - https://zenodo.org/records/8349563
+  - https://doi.org/10.5281/zenodo.8349563
   uuid: 9d30fab4-4f91-476d-82f5-dd7ee41ab6d9
 - authors:
   - Andrea Schrader
@@ -11933,7 +12133,8 @@ resources:
   - Omero
   type:
   - Github repository
-  url: https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC
+  url:
+  - https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC
   uuid: 897e08cf-1b92-41ef-9150-9cc23cc108a4
 - authors:
   - Tong Li
@@ -11978,7 +12179,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285
+  url:
+  - https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285
   uuid: 7445618a-98d8-4ae0-9732-815d81906df8
 - authors:
   - Michael Brooks
@@ -11993,7 +12195,8 @@ resources:
   - Microscopy
   type:
   - Blog post
-  url: https://www.nature.com/articles/d41586-023-03064-9
+  url:
+  - https://www.nature.com/articles/d41586-023-03064-9
   uuid: eed235bb-0f7e-490e-8e21-153c9228f3f4
 - authors:
   - Paul Zierep
@@ -12014,7 +12217,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417
+  url:
+  - https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417
   uuid: 9769532e-a009-43dc-8a64-56547df02e8e
 - authors:
   - Robert Wagner
@@ -12033,7 +12237,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756
+  url:
+  - https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756
   uuid: ec2c06ff-fc71-4318-b279-278192f36bdd
 - authors:
   - Anett Jannasch
@@ -12056,7 +12261,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360
+  url:
+  - https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360
   uuid: 67f1a74b-eeb8-4b16-9540-1ef2fc37edbb
 - authors:
   - Beth A. Cimini
@@ -12112,7 +12318,8 @@ resources:
   - Bioimage Analysis
   type:
   - Publication
-  url: https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in
+  url:
+  - https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in
   uuid: 35ddcee1-6800-4b33-9a55-c56574f712c5
 - authors:
   - Peter Bajcsy
@@ -12152,7 +12359,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://arxiv.org/abs/2401.13023
+  url:
+  - https://arxiv.org/abs/2401.13023
   uuid: 5da8faf2-df36-4b8d-9eeb-a2c6684ba242
 - authors:
   - Nikki Bialy
@@ -12215,7 +12423,8 @@ resources:
   - Research Data Management
   type:
   - Publication
-  url: https://arxiv.org/abs/2401.13022
+  url:
+  - https://arxiv.org/abs/2401.13022
   uuid: b3b968d2-4e1c-410d-92a8-59565200c24f
 - authors:
   - Ruman Gerst
@@ -12232,7 +12441,8 @@ resources:
     are also established. Finally, an advanced real-world pipeline is showcased with
     detailed guidance through the individual components that include integrations
     of Cellpose and TrackMate.
-  url: https://doi.org/10.5281/zenodo.15373555
+  url:
+  - https://doi.org/10.5281/zenodo.15373555
   type:
   - Workshop
   - Video
@@ -12260,7 +12470,8 @@ resources:
   - Multiplex Imaging
   type:
   - Tutorial
-  url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me
+  url:
+  - https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me
   uuid: ec037b4d-74c3-4bd2-a890-2de3a6fdf4d5
 - authors: Michael Nielsen
   description: Neural networks and deep learning currently provide the best solutions
@@ -12276,7 +12487,8 @@ resources:
   - Machine Learning
   type:
   - Book
-  url: http://neuralnetworksanddeeplearning.com
+  url:
+  - http://neuralnetworksanddeeplearning.com
   uuid: bbcaa95f-8650-457a-acd0-f60e249f2c0e
 - authors:
   - Geeth Sethi
@@ -12297,7 +12509,8 @@ resources:
   - Machine Learning
   type:
   - Blog post
-  url: https://cs231n.github.io/convolutional-networks/
+  url:
+  - https://cs231n.github.io/convolutional-networks/
   uuid: 11b7517a-098a-4094-be01-3e692ff61239
 - authors: GitHub
   description: Ressource that helps to choose an open source license for your project.
@@ -12308,7 +12521,8 @@ resources:
   - Licensing
   type:
   - Website
-  url: https://choosealicense.com
+  url:
+  - https://choosealicense.com
   uuid: 4b1549e0-0cd7-4c38-bd1a-ce7737e4958b
 - authors:
   - Joanna W. Pylvänäinen
@@ -12326,7 +12540,8 @@ resources:
   - Data Exploration
   type:
   - Publication
-  url: https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in
+  url:
+  - https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in
   uuid: a0e7b743-5f75-4784-9b16-aa441e9d0eb1
 - authors:
   - Robert Kosara
@@ -12342,7 +12557,8 @@ resources:
   - Data Visualization
   type:
   - Blog post
-  url: https://observablehq.com/blog/effective-animation
+  url:
+  - https://observablehq.com/blog/effective-animation
   uuid: 7c63a86c-e134-4d25-b138-f6c2c182ec02
 - authors:
   - Beatriz Serrano-Solano
@@ -12360,7 +12576,8 @@ resources:
   type:
   - Tutorial
   - Video
-  url: https://www.youtube.com/watch?v=wAHOPT6lRV0
+  url:
+  - https://www.youtube.com/watch?v=wAHOPT6lRV0
   uuid: fada7380-babf-427d-8b90-a85b657f125e
 - authors:
   - Rachel Lee
@@ -12378,7 +12595,8 @@ resources:
   type:
   - Book
   - GitHub Repository
-  url: https://github.com/aicjanelia/BioImagingAI
+  url:
+  - https://github.com/aicjanelia/BioImagingAI
   uuid: 8a27fa76-09c0-4809-b166-b13fc9f90fbe
 - authors: Radiology Tutorials
   description: This is a playlist of videos about how CT works
@@ -12389,7 +12607,8 @@ resources:
   - Imaging
   type:
   - Video
-  url: https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd
+  url:
+  - https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd
   uuid: 57d920e9-a290-41d6-8aad-290e6a6ed965
 - authors: Radiology Tutorials
   description: This is a playlist of videos about how MRI works
@@ -12400,7 +12619,8 @@ resources:
   - Imaging
   type:
   - Video
-  url: https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z
+  url:
+  - https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z
   uuid: 0d0faea4-6139-4528-b53e-f1b1cc1a7b5d
 - authors: Julien Sindt
   description: This course introduces life science researchers to high-performance
@@ -12415,7 +12635,8 @@ resources:
   - High Performance Computing
   type:
   - Github Repository
-  url: https://epcced.github.io/20210322-intro-hpc-life-scientists/
+  url:
+  - https://epcced.github.io/20210322-intro-hpc-life-scientists/
   uuid: 8a1aa389-2e16-44c8-8cc3-bd294b38cd47
 - authors: Joseph Scott
   description: In this blog post, the author emphasizes problematic characters (e.g.,
@@ -12429,7 +12650,8 @@ resources:
   - Reseach Data Management
   type:
   - Blog post
-  url: https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/
+  url:
+  - https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/
   uuid: c6ed98db-ceaa-4581-b08c-17a19168d06f
 - authors: Kristin Briney
   description: 'This worksheet walks researchers through the process of creating a
@@ -12444,7 +12666,8 @@ resources:
   - Research Data Management
   type:
   - Worksheet
-  url: https://authors.library.caltech.edu/records/mmnpf-cez11
+  url:
+  - https://authors.library.caltech.edu/records/mmnpf-cez11
   uuid: 8b5b5726-2aff-4f04-b29b-b8c7d2b3cd32
 - authors: Nick Radcliffe
   description: This playful exploration delves into the quirky world of naming conventions
@@ -12458,7 +12681,8 @@ resources:
   - Research Data Management
   type:
   - Blog post
-  url: https://www.tdda.info/name-styles
+  url:
+  - https://www.tdda.info/name-styles
   uuid: 51b819a7-cb38-46e8-a3c6-3f75fa8b3f92
 - authors: Deepia
   description: 'This video provides information about three very common methods for
@@ -12471,7 +12695,8 @@ resources:
   - Dimensionality Reduction
   type:
   - Video
-  url: https://www.youtube.com/watch?v=o_cAOa5fMhE
+  url:
+  - https://www.youtube.com/watch?v=o_cAOa5fMhE
   uuid: fab03e5f-60e2-4cb2-b817-097241c2593a
 - authors:
   - Alexis Lebon
@@ -12505,7 +12730,8 @@ resources:
   - omero
   type:
   - GitLab Repository
-  url: https://gitlab.in2p3.fr/fbi-data/omero-quay
+  url:
+  - https://gitlab.in2p3.fr/fbi-data/omero-quay
   uuid: f98c6ceb-4580-4478-8e81-836a1cdc317f
 - authors:
   - Jean-Yves Tinevez
@@ -16057,7 +16283,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC005
+  url:
+  - https://bbbc.broadinstitute.org/BBBC005
   uuid: ef5e9e09-7c32-4ea4-a7bf-1755cf093c47
 - authors:
   - Vebjorn Ljosa
@@ -16079,7 +16306,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC008
+  url:
+  - https://bbbc.broadinstitute.org/BBBC008
   uuid: 371279a9-ba71-451c-a3eb-c8f9a111befb
 - authors:
   - David Svoboda
@@ -16097,7 +16325,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC024
+  url:
+  - https://bbbc.broadinstitute.org/BBBC024
   uuid: 4a46c9c7-9738-4d49-a1ed-089f09c383de
 - authors:
   - Vebjorn Ljosa
@@ -16117,7 +16346,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC032
+  url:
+  - https://bbbc.broadinstitute.org/BBBC032
   uuid: 1ad5b4e1-add7-4127-be32-b71d689ab129
 - authors:
   - Vebjorn Ljosa
@@ -16140,7 +16370,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC039
+  url:
+  - https://bbbc.broadinstitute.org/BBBC039
   uuid: dfacb5ce-3d44-4c98-af7c-da0d1b51a4e0
 - authors:
   - Vebjorn Ljosa
@@ -16158,7 +16389,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC006
+  url:
+  - https://bbbc.broadinstitute.org/BBBC006
   uuid: 7e9d729e-d9d3-4ab6-b811-11bf8a61ddad
 - authors:
   - Vebjorn Ljosa
@@ -16174,7 +16406,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC004
+  url:
+  - https://bbbc.broadinstitute.org/BBBC004
   uuid: 047cafa8-6b41-4670-af7c-8d88e768124f
 - authors:
   - Vebjorn Ljosa
@@ -16194,7 +16427,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC035
+  url:
+  - https://bbbc.broadinstitute.org/BBBC035
   uuid: ca257f74-43ea-4b44-8030-581248e70cc4
 - authors:
   - David J. Logan
@@ -16212,7 +16446,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC026
+  url:
+  - https://bbbc.broadinstitute.org/BBBC026
   uuid: 9ad4fa3c-4812-4e18-8f4b-7fee453b19b2
 - authors:
   - Giulia Paci
@@ -16227,7 +16462,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html
   uuid: 82d9b4ee-ca5a-4f8d-b20b-ffb09cf2a899
 - authors:
   - Vebjorn Ljosa
@@ -16247,7 +16483,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC050
+  url:
+  - https://bbbc.broadinstitute.org/BBBC050
   uuid: 4b43bc04-2dd8-4ffa-a568-e3f17f26fdab
 - authors:
   - Vebjorn Ljosa
@@ -16266,7 +16503,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC007
+  url:
+  - https://bbbc.broadinstitute.org/BBBC007
   uuid: 1154fd4e-f82a-4179-9d7d-3f3af9c5c117
 - authors:
   - Sabine Taschner-Mandl
@@ -16291,7 +16529,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html
   uuid: 522d95aa-198a-4b0f-8f6a-542dd558f32f
 - authors:
   - Krisztian Koos
@@ -16310,7 +16549,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://bbbc.broadinstitute.org/BBBC030
+  url:
+  - https://bbbc.broadinstitute.org/BBBC030
   uuid: 99bd5620-dab5-48a0-a41f-6cb1e349758f
 - authors:
   - Jonas Hartmann
@@ -16327,7 +16567,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html
   uuid: 4a5500d9-d356-426d-b166-9e549b5ec83b
 - authors:
   - Yuhan Wang
@@ -16364,7 +16605,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268
+  url:
+  - https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268
   uuid: 43ec6a6b-5d9f-4733-b5d5-0adcb96ff566
 - authors:
   - Ziming Qiu
@@ -16379,7 +16621,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html
   uuid: b0c7b1a8-4916-4616-81a3-0fef05dec9dd
 - authors:
   - Kay Schneitz
@@ -16405,7 +16648,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/
   uuid: 4baeb657-2d58-4246-8569-91be70eccafa
 - authors:
   - Ying Chen
@@ -16432,7 +16676,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/
   uuid: 1ce4927d-3c9e-4028-be7c-16133be6359a
 - authors:
   - David Svoboda
@@ -16451,7 +16696,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/
   uuid: 92fcd7ed-f37d-43f3-ad19-4395c3101cc8
 - authors:
   - Alain Chen
@@ -16472,7 +16718,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/
+  url:
+  - https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/
   uuid: ea49e3a2-b0ca-4be9-a357-f6577967b74f
 - authors:
   - Neeraj Kumar
@@ -16498,7 +16745,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://monuseg.grand-challenge.org/Data/
+  url:
+  - https://monuseg.grand-challenge.org/Data/
   uuid: 1b76b874-a91d-4e14-ae53-51b47fe6bfa2
 - authors:
   - Ruchika Verma
@@ -16520,7 +16768,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://monusac-2020.grand-challenge.org/Data/
+  url:
+  - https://monusac-2020.grand-challenge.org/Data/
   uuid: dfd8e0f9-c207-4476-b45e-f307e1109316
 - authors:
   - Amirreza Mahbod
@@ -16537,7 +16786,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images
+  url:
+  - https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images
   uuid: 6096caf0-c115-4cf6-91d6-4bdae596b7ca
 - authors:
   - Amirreza Mahbod
@@ -16558,7 +16808,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.kaggle.com/datasets/ipateam/nuinsseg
+  url:
+  - https://www.kaggle.com/datasets/ipateam/nuinsseg
   uuid: 2b7f1af4-52d3-45a0-a18a-b25e02395ede
 - authors:
   - Shenggan Gan
@@ -16571,7 +16822,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://github.com/Shenggan/BCCD_Dataset
+  url:
+  - https://github.com/Shenggan/BCCD_Dataset
   uuid: a6b132e3-51b0-499d-8af7-368165449435
 - authors:
   - Naylor Peter Jack
@@ -16595,7 +16847,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://paperswithcode.com/dataset/tnbc
+  url:
+  - https://paperswithcode.com/dataset/tnbc
   uuid: bed0c481-cda6-44b0-893d-b3329efb0c83
 - authors:
   - Carsen Stringer
@@ -16611,7 +16864,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.cellpose.org/dataset
+  url:
+  - https://www.cellpose.org/dataset
   uuid: 8838da63-b780-4b61-8fce-b67e6b7a66dd
 - authors:
   - Marc Aubreville
@@ -16625,7 +16879,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://github.com/DeepMicroscopy/MIDOG
+  url:
+  - https://github.com/DeepMicroscopy/MIDOG
   uuid: fdabf7eb-1521-4dd8-8b4b-f131488cf086
 - authors:
   - Wenqi Tang
@@ -16641,7 +16896,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://github.com/bupt-ai-cz/BALNMP
+  url:
+  - https://github.com/bupt-ai-cz/BALNMP
   uuid: d107577b-be15-41dd-8982-c593cf71fbf8
 - authors:
   - Mohammad Peikari
@@ -16674,7 +16930,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://www.cancerimagingarchive.net/collection/post-nat-brca/
+  url:
+  - https://www.cancerimagingarchive.net/collection/post-nat-brca/
   uuid: e79e935c-5df5-41da-997b-6c949aab3558
 - authors:
   - Mohamed Amgad
@@ -16722,7 +16979,8 @@ resources:
   - AI-ready
   type:
   - Data
-  url: https://github.com/PathologyDataScience/BCSS
+  url:
+  - https://github.com/PathologyDataScience/BCSS
   uuid: 85264c9d-11f7-47d7-94c1-a8c5d9eb3e06
 - authors:
   - Moore, Josh
@@ -16828,7 +17086,8 @@ resources:
   submission_date: '2025-06-10T06:50:43.986339'
   tags: bio-image analysis
   type: GitHub Repository
-  url: https://github.com/ImagingDataCommons/IDC-Tutorials
+  url:
+  - https://github.com/ImagingDataCommons/IDC-Tutorials
   uuid: b50b1a33-9fd0-4aab-9208-a2af56c63d77
 - authors:
   - Swedlow, J.R., Kankaanpää, P., Sarkans, U. et al.
@@ -16838,7 +17097,8 @@ resources:
     challenges and provides recommendations for improving the interoperability and
     FAIRness of image data.
   type: publication
-  url: https://doi.org/10.1038/s41592-021-01113-7
+  url:
+  - https://doi.org/10.1038/s41592-021-01113-7
   uuid: bea8e15a-37d5-4fb2-8f94-17a779993313
 - authors:
   - Moore, Josh
@@ -17358,7 +17618,8 @@ resources:
   submission_date: '2025-07-09T09:44:28.758546'
   tags: bio-image analysis
   type: GitHub Repository
-  url: https://github.com/fmi-faim/image-processing-basics
+  url:
+  - https://github.com/fmi-faim/image-processing-basics
   uuid: 793ab89b-7158-42ce-99b5-3efcfb092f25
 - authors:
   - Stefan Halfpap
@@ -17369,7 +17630,8 @@ resources:
   tags:
   - data visualization
   type: GitHub Repository
-  url: https://github.com/klauck/data_visualization_tutorial
+  url:
+  - https://github.com/klauck/data_visualization_tutorial
   uuid: 61921e84-5324-49c3-8911-6a2f13a8a248
 - authors:
   - Antoine A. Ruzette
@@ -17384,7 +17646,8 @@ resources:
   - slides
   - collection
   type: GitHub Repository
-  url: https://github.com/HMS-IAC/qupath-workshop
+  url:
+  - https://github.com/HMS-IAC/qupath-workshop
   uuid: edc34d5f-72ce-4735-a781-67ee375c0aa0
 - authors:
   - Haase, Robert
@@ -18330,7 +18593,8 @@ resources:
   - GitHub Repository
   - notebook
   - collection
-  url: https://github.com/uhlmanngroup/shapeanalysis101
+  url:
+  - https://github.com/uhlmanngroup/shapeanalysis101
   uuid: 2d84fa9e-d2ad-46da-a5d8-34751d15287b
 - authors:
   - Virginie
@@ -18344,7 +18608,8 @@ resources:
   - Workflows
   type:
   - GitHub Repository
-  url: https://github.com/uhlmanngroup/nextflow101
+  url:
+  - https://github.com/uhlmanngroup/nextflow101
   uuid: 63901ab6-b729-44ce-b5c0-2190b18d0517
 - authors:
   - Virginie
@@ -18361,9 +18626,9 @@ resources:
   - GitHub Repository
   - notebook
   - collection
-  url: https://github.com/uhlmanngroup/imagequantification101
+  url:
+  - https://github.com/uhlmanngroup/imagequantification101
   uuid: ac5974d0-5ab8-42b9-bd3d-eb5ff784c1a2
-
 - authors:
   - Scherle, Michael
   - Gieschke, Rafael
