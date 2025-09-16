@@ -21155,3 +21155,15 @@ resources:
   - https://zenodo.org/records/17080219
   - https://doi.org/10.5281/zenodo.17080219
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
+
+- authors:
+  - Kevin Yamauchi
+  description: ''
+  license: BSD 3-Clause "New" or "Revised" License
+  name: embo-bia-2025
+  publication_date: '2025-08-18T09:32:20+00:00'
+  submission_date: '2025-09-16T18:32:42.184908'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/kevinyamauchi/embo-bia-2025
+  
