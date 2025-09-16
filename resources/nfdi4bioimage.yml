@@ -16633,7 +16633,7 @@ resources:
   - notebook
   - collection
   url: https://github.com/uhlmanngroup/imagequantification101
-  - authors:
+- authors:
   - Scherle, Michael
   - Gieschke, Rafael
   - Mocanu, Isabela
