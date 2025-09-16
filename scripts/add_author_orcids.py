@@ -29,7 +29,7 @@ def fetch_authors_from_zenodo(record_url):
             name = name.split(",")[1].strip() + " " + name.split(",")[0].strip()
 
         if "orcid" in author:
-            author_with_orcid.append(f"{name} https://orgid.org/{author['orcid']}")
+            author_with_orcid.append(f"{name} https://orcid.org/{author['orcid']}")
         else:
             author_with_orcid.append(name)
     return author_with_orcid
@@ -47,6 +47,7 @@ def update_authors_with_orcid(content, repository, file_path):
         Path to the YAML file in the repository.
     """
     modified = False
+    do_exit = False
     for resource in content.get("resources", []):
         if "author_with_orcid" not in resource:
             urls = resource.get("url", [])
@@ -60,6 +61,12 @@ def update_authors_with_orcid(content, repository, file_path):
                         break
                     except Exception as e:
                         print(f"Error fetching authors for URL {url}: {e}")
+                        if "TOO MANY REQUESTS" in str(e):
+                            print("Too many requests, skipping this URL")
+                            do_exit = True
+                            break
+            if do_exit:
+                break
     if modified:
         main_branch = "main"
         new_branch = create_branch(repository, parent_branch=main_branch)
