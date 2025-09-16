@@ -44,4 +44,6 @@ def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.ym
     send_pull_request(repository, branch_name, pr_title, pr_description)
 
 if __name__ == "__main__":
-    add_uuids_to_resources_yml("nfdi4bioimage/training")
+    import sys
+    repository = sys.argv[1]
+    add_uuids_to_resources_yml(repository)
