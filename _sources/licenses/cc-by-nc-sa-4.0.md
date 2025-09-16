@@ -38,6 +38,8 @@ Content type: Book
 
 [https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
 
+[https://doi.org/10.5281/zenodo.7257808](https://doi.org/10.5281/zenodo.7257808)
+
 
 ---
 

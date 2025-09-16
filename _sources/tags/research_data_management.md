@@ -38,6 +38,8 @@ Content type: Book
 
 [https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
 
+[https://doi.org/10.5281/zenodo.12744715](https://doi.org/10.5281/zenodo.12744715)
+
 
 ---
 
@@ -398,6 +400,8 @@ Tags: Research Data Management
 Content type: Poster
 
 [https://zenodo.org/records/8349563](https://zenodo.org/records/8349563)
+
+[https://doi.org/10.5281/zenodo.8349563](https://doi.org/10.5281/zenodo.8349563)
 
 
 ---
@@ -1280,6 +1284,8 @@ Tags: Research Data Management, Open Science
 Content type: Slides
 
 [https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
+
+[https://doi.org/10.5281/zenodo.4778265](https://doi.org/10.5281/zenodo.4778265)
 
 
 ---

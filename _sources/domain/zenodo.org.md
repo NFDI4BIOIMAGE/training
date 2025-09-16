@@ -181,6 +181,8 @@ Content type: Book
 
 [https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
 
+[https://doi.org/10.5281/zenodo.12744715](https://doi.org/10.5281/zenodo.12744715)
+
 
 ---
 
@@ -713,6 +715,8 @@ Tags: Bioimage Analysis, Artificial Intelligence, Python
 Content type: Slides
 
 [https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
+
+[https://doi.org/10.5281/zenodo.12623730](https://doi.org/10.5281/zenodo.12623730)
 
 
 ---
@@ -1395,6 +1399,8 @@ Content type: Poster
 
 [https://zenodo.org/records/8349563](https://zenodo.org/records/8349563)
 
+[https://doi.org/10.5281/zenodo.8349563](https://doi.org/10.5281/zenodo.8349563)
+
 
 ---
 
@@ -1607,6 +1613,8 @@ Content type: Book
 [https://zenodo.org/records/7257808](https://zenodo.org/records/7257808)
 
 [https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
+
+[https://doi.org/10.5281/zenodo.7257808](https://doi.org/10.5281/zenodo.7257808)
 
 
 ---
@@ -3936,6 +3944,8 @@ Content type: Publication
 
 [https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
 
+[https://doi.org/10.5281/zenodo.11201216](https://doi.org/10.5281/zenodo.11201216)
+
 
 ---
 
@@ -4152,6 +4162,8 @@ Tags: Research Data Management, Open Science
 Content type: Slides
 
 [https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
+
+[https://doi.org/10.5281/zenodo.4778265](https://doi.org/10.5281/zenodo.4778265)
 
 
 ---

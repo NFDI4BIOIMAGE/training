@@ -193,6 +193,8 @@ Content type: Slides
 
 [https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
 
+[https://doi.org/10.5281/zenodo.12623730](https://doi.org/10.5281/zenodo.12623730)
+
 
 ---
 

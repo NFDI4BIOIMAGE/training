@@ -1,4 +1,4 @@
-# Doi.org (339)
+# Doi.org (345)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -182,6 +182,27 @@ Content type: Data
 [https://zenodo.org/records/5942575](https://zenodo.org/records/5942575)
 
 [https://doi.org/10.5281/zenodo.5942575](https://doi.org/10.5281/zenodo.5942575)
+
+
+---
+
+## 6 Steps Towards Reproducible Research
+
+Heidi Seibold
+
+Licensed CC-BY-4.0
+
+
+
+A short book with 6 steps that get you closer to making your work reproducible.
+
+Tags: Reproducibility, Research Data Management
+
+Content type: Book
+
+[https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
+
+[https://doi.org/10.5281/zenodo.12744715](https://doi.org/10.5281/zenodo.12744715)
 
 
 ---
@@ -804,6 +825,27 @@ These are the PPTx training resources for Students at Uni Leipzig who want to di
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
 [https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
+
+
+---
+
+## Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
+
+Tags: Bioimage Analysis, Artificial Intelligence, Python
+
+Content type: Slides
+
+[https://zenodo.org/records/12623730](https://zenodo.org/records/12623730)
+
+[https://doi.org/10.5281/zenodo.12623730](https://doi.org/10.5281/zenodo.12623730)
 
 
 ---
@@ -1478,6 +1520,29 @@ Content type: Data
 
 ---
 
+## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
+
+Torsten Stöter, Tobias Gottschall, Andrea Schrager, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
+
+Published 2023-09-12
+
+Licensed CC-BY-4.0
+
+
+
+Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
+
+Tags: Research Data Management
+
+Content type: Poster
+
+[https://zenodo.org/records/8349563](https://zenodo.org/records/8349563)
+
+[https://doi.org/10.5281/zenodo.8349563](https://doi.org/10.5281/zenodo.8349563)
+
+
+---
+
 ## Conference Slides - 4th Day of Intravital Microscopy
 
 Dr. Hellen Ishikawa-Ankerhold
@@ -1666,6 +1731,29 @@ A more detailed understanding of the effect of plasmas on biological systems can
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
+## DataViz protocols - An introduction to data visualization protocols for wet lab scientists
+
+Joachim Goedhart
+
+Published 2024-12-10
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+Tags: Data Visualization, R
+
+Content type: Book
+
+[https://zenodo.org/records/7257808](https://zenodo.org/records/7257808)
+
+[https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
+
+[https://doi.org/10.5281/zenodo.7257808](https://doi.org/10.5281/zenodo.7257808)
 
 
 ---
@@ -4061,6 +4149,27 @@ A test data set for troublshooting. no scientific meaning.
 
 ---
 
+## Insights and Impact From Five Cycles of Essential Open Source Software for Science
+
+Kate Hertweck, Carly Strasser, Dario Taraborelli
+
+Licensed CC-BY-4.0
+
+
+
+Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields.
+
+Tags: Open Source Software, Funding, Sustainability
+
+Content type: Publication
+
+[https://zenodo.org/records/11201216](https://zenodo.org/records/11201216)
+
+[https://doi.org/10.5281/zenodo.11201216](https://doi.org/10.5281/zenodo.11201216)
+
+
+---
+
 ## Insights from Acquiring Open Medical Imaging  Datasets for Foundation Model Development
 
 Stefan Dvoretskii
@@ -4253,6 +4362,29 @@ The two-hour session consisted of a first part highlighting the benefits that im
 [https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
 
 [https://doi.org/10.5281/zenodo.15152576](https://doi.org/10.5281/zenodo.15152576)
+
+
+---
+
+## Introduction to Research Data Management and Open Research
+
+Shanmugasundaram
+
+Published 2024-05-17
+
+Licensed CC-BY-4.0
+
+
+
+Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
+
+Tags: Research Data Management, Open Science
+
+Content type: Slides
+
+[https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
+
+[https://doi.org/10.5281/zenodo.4778265](https://doi.org/10.5281/zenodo.4778265)
 
 
 ---

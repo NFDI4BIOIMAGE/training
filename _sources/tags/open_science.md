@@ -99,6 +99,8 @@ Content type: Slides
 
 [https://zenodo.org/records/4778265](https://zenodo.org/records/4778265)
 
+[https://doi.org/10.5281/zenodo.4778265](https://doi.org/10.5281/zenodo.4778265)
+
 
 ---
 

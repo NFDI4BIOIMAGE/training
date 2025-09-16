@@ -15,6 +15,8 @@ Content type: Book
 
 [https://zenodo.org/records/12744715](https://zenodo.org/records/12744715)
 
+[https://doi.org/10.5281/zenodo.12744715](https://doi.org/10.5281/zenodo.12744715)
+
 
 ---
 
@@ -107,6 +109,8 @@ Content type: Book
 [https://zenodo.org/records/7257808](https://zenodo.org/records/7257808)
 
 [https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
+
+[https://doi.org/10.5281/zenodo.7257808](https://doi.org/10.5281/zenodo.7257808)
 
 
 ---
