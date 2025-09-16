@@ -473,6 +473,16 @@ resources:
   - https://doi.org/10.5281/zenodo.4071471
   uuid: 7c95a128-92f8-47b0-86e7-725f0301c44d
   language: en
+  author_with_orcid:
+  - Katarzyna Biernacka https://orgid.org/0000-0002-6363-0064
+  - Maik Bierwirth https://orgid.org/0000-0003-1042-6702
+  - Petra Buchholz https://orgid.org/0000-0002-2401-1543
+  - Dominika Dolzycka https://orgid.org/0000-0002-6177-8815
+  - Kerstin Helbig https://orgid.org/0000-0002-2775-6751
+  - Janna Neumann https://orgid.org/0000-0002-0161-1888
+  - Carolin Odebrecht https://orgid.org/0000-0003-4887-7701
+  - Cord Wiljes https://orgid.org/0000-0003-2528-5391
+  - Ulrike Wuttke https://orgid.org/0000-0002-8217-4025
 - authors:
   - Katarzyna Biernacka
   - Katrin Cortez
