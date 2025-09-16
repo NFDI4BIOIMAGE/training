@@ -1,13 +1,13 @@
 import uuid
 import yaml
-from scripts._github_utilities import (
+from _github_utilities import (
     create_branch,
     get_file_in_repository,
     write_file,
     send_pull_request,
 )
 
-def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.yml", parent_branch="main", issue_number=None):
+def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.yml", parent_branch="main"):
     """
     Add UUIDs to entries under the 'resources' section in a YAML file if missing.
 
@@ -35,11 +35,13 @@ def add_uuids_to_resources_yml(repository, file_path="resources/nfdi4bioimage.ym
             resource["uuid"] = str(uuid.uuid4())
 
     # Write updated YAML content back to the branch
-    updated_content = yaml.dump(content, sort_keys=False)
+    updated_content = yaml.dump(content, sort_keys=False, encoding="utf-8")
     write_file(repository, branch_name, file_path, updated_content, commit_message="Add missing UUIDs to resources")
 
     # Send a pull request
     pr_title = "Add missing UUIDs to resources"
-    pr_description = f"Adds missing UUIDs to resources in the {file_path}. Closes #{issue_number}" if issue_number else pr_title
+    pr_description = f"Adds missing UUIDs to resources in the {file_path}. "
     send_pull_request(repository, branch_name, pr_title, pr_description)
 
+if __name__ == "__main__":
+    add_uuids_to_resources_yml("nfdi4bioimage/training")
