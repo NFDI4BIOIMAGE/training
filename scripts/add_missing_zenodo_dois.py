@@ -1,6 +1,6 @@
 import requests
 import yaml
-from scripts._github_utilities import create_branch, write_file, send_pull_request, get_github_repository
+from _github_utilities import create_branch, write_file, send_pull_request, get_github_repository
 
 def fetch_doi_from_zenodo(zenodo_url):
     """
@@ -50,19 +50,21 @@ def add_missing_dois(repository, file_path):
             urls = [urls]
         zenodo_links = [url for url in urls if "zenodo.org" in url]
         doi_links = [url for url in urls if "doi.org" in url]
-
+        this_record_modified = False
         for zenodo_link in zenodo_links:
             if not doi_links:
                 doi_url = fetch_doi_from_zenodo(zenodo_link)
                 if doi_url:
                     urls.append(doi_url)
                     modified = True
-        entry['url'] = urls
+                    this_record_modified = True
+        if this_record_modified:
+            entry['url'] = urls
 
     # Save changes and create a pull request if modified
     if modified:
         new_branch = create_branch(repository, parent_branch=main_branch)
-        new_content = yaml.dump(content, default_flow_style=False)
+        new_content = yaml.dump(content, sort_keys=False, allow_unicode=True)
         write_file(repository, new_branch, file_path, new_content, "Add missing DOIs to resources")
         pr_url = send_pull_request(
             repository,
@@ -73,4 +75,6 @@ def add_missing_dois(repository, file_path):
         print(pr_url)
 
 if __name__ == "__main__":
-    add_missing_dois("your-repo-owner/your-repo-name", "resources/nfdi4bioimage.yml")
+    import sys
+    repository = sys.argv[1]
+    add_missing_dois(repository, "resources/nfdi4bioimage.yml")
