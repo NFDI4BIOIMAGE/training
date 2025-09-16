@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 784 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-09-15.
+This Jupyter Book contains 784 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2025-09-16.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [NeurIPS 2022 Cell Segmentation Competition Dataset](https://zenodo.org/records/10719375) by "Ma, Jun and Xie, Ronald and Ayyadhury, Shamini and Ge, Cheng and Gupta, Anubha and Gupta, Ritu and Gu, Song and Zhang, Yao and Lee, Gihun and Kim, Joonkee and Lou, Wei and Li, Haofeng and Upschulte, Eric and Dickscheid, Timo and de Almeida, José Guilherme and Wang, Yixin and Han, Lin and Yang, Xin and Labagnara, Marco and Gligorovski, Vojislav and Scheder, Maxime and Rahi, Sahand Jamal and Kempster, Carly and Pollitt, Alice and Espinosa, Leon and Mignot, Tam and Middeke, Jan Moritz and Eckardt, Jan-Niklas and Li, Wangkai and Li, Zhaoyang and Cai, Xiaochen and Bai, Bizhe and Greenwald, Noah F. and Van Valen, David and Weisbart, Erin and Cimini, Beth A and Cheung, Trevor and Brück, Oscar and Bader, Gary D. and Wang, Bo" (211 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training](https://zenodo.org/records/8323588) by "Schmidt, Christian and Bortolomeazzi, Michele and Boissonnet, Tom and Fortmann-Grote, Carsten and Dohle, Julia and Zentis, Peter and Kandpal, Niraj and Kunis, Susanne and Zobel, Thomas and Weidtkamp-Peters, Stefanie and Ferrando-May, Elisa" (151 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (137 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (93 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (137 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (73 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
