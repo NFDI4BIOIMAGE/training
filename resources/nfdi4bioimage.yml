@@ -3161,7 +3161,9 @@ resources:
   - Python
   type:
   - Slides
-  url: https://zenodo.org/records/12623730
+  url:
+  - https://zenodo.org/records/12623730
+  - https://doi.org/10.5281/zenodo.12623730
   uuid: 7e738276-8d5b-41d1-98f2-3bdbb84e516f
 - authors:
   - Robert Haase
@@ -3205,7 +3207,9 @@ resources:
   - Sustainability
   type:
   - Publication
-  url: https://zenodo.org/records/11201216
+  url:
+  - https://zenodo.org/records/11201216
+  - https://doi.org/10.5281/zenodo.11201216
   uuid: adf2178b-a4de-4670-9050-4077346fbddd
 - authors:
   - Heidi Seibold
@@ -3218,7 +3222,9 @@ resources:
   - Research Data Management
   type:
   - Book
-  url: https://zenodo.org/records/12744715
+  url:
+  - https://zenodo.org/records/12744715
+  - https://doi.org/10.5281/zenodo.12744715
   uuid: f7090051-8760-4b05-bab0-0b48f7478f38
 - authors:
   - Christian Schmidt
@@ -10208,6 +10214,7 @@ resources:
   url:
   - https://zenodo.org/records/7257808
   - https://joachimgoedhart.github.io/DataViz-protocols/
+  - https://doi.org/10.5281/zenodo.7257808
   uuid: 6b73ed65-2d42-42ff-9b49-18f19a561e87
 - authors: Joachim Goedhart
   description: The author discusses a number of color palettes that are suitable for
@@ -10320,7 +10327,9 @@ resources:
   - Open Science
   type:
   - Slides
-  url: https://zenodo.org/records/4778265
+  url:
+  - https://zenodo.org/records/4778265
+  - https://doi.org/10.5281/zenodo.4778265
   uuid: dbbee207-410b-4486-a7d6-963a6e7f2545
 - authors: Richard McElreath
   description: Video Lectures for Statistical Rethinking Course
@@ -11912,7 +11921,9 @@ resources:
   - Research Data Management
   type:
   - Poster
-  url: https://zenodo.org/records/8349563
+  url:
+  - https://zenodo.org/records/8349563
+  - https://doi.org/10.5281/zenodo.8349563
   uuid: 9d30fab4-4f91-476d-82f5-dd7ee41ab6d9
 - authors:
   - Andrea Schrader
@@ -18363,7 +18374,6 @@ resources:
   - collection
   url: https://github.com/uhlmanngroup/imagequantification101
   uuid: ac5974d0-5ab8-42b9-bd3d-eb5ff784c1a2
-
 - authors:
   - Scherle, Michael
   - Gieschke, Rafael
