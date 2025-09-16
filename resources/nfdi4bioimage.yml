@@ -473,6 +473,16 @@ resources:
   - https://doi.org/10.5281/zenodo.4071471
   uuid: 7c95a128-92f8-47b0-86e7-725f0301c44d
   language: en
+  author_with_orcid:
+  - Katarzyna Biernacka https://orgid.org/0000-0002-6363-0064
+  - Maik Bierwirth https://orgid.org/0000-0003-1042-6702
+  - Petra Buchholz https://orgid.org/0000-0002-2401-1543
+  - Dominika Dolzycka https://orgid.org/0000-0002-6177-8815
+  - Kerstin Helbig https://orgid.org/0000-0002-2775-6751
+  - Janna Neumann https://orgid.org/0000-0002-0161-1888
+  - Carolin Odebrecht https://orgid.org/0000-0003-4887-7701
+  - Cord Wiljes https://orgid.org/0000-0003-2528-5391
+  - Ulrike Wuttke https://orgid.org/0000-0002-8217-4025
 - authors:
   - Katarzyna Biernacka
   - Katrin Cortez
@@ -514,6 +524,10 @@ resources:
   - https://doi.org/10.5281/zenodo.3490058
   uuid: ca9f9ec2-2ec6-421e-86b1-2b165a875d37
   language: en
+  author_with_orcid:
+  - Katarzyna Biernacka https://orgid.org/0000-0002-6363-0064
+  - Katrin Cortez
+  - Kerstin Helbig https://orgid.org/0000-0002-2775-6751
 - license: CC-BY-4.0
   name: RDMKit Training Resources
   tags:
@@ -733,6 +747,8 @@ resources:
   - https://doi.org/10.5281/zenodo.6602101
   uuid: 514b16b2-10bc-435d-9343-a372137934dc
   language: en
+  author_with_orcid:
+  - Stefano Della Chiesa https://orgid.org/0000-0002-6693-2199
 - name: Lund Declaration on Maximising the Benefits of Research Data
   tags:
   - Research Data Management
@@ -3420,6 +3436,8 @@ resources:
   - https://doi.org/10.5281/zenodo.7018929
   uuid: 684081e5-eb9a-4a3d-ab82-a9abd226d979
   language: en
+  author_with_orcid:
+  - Susanne Kunis https://orgid.org/0000-0001-6523-7496
 - authors:
   - Robert Haase
   description: Article about the Fiji Updater explaining how it works in the background.
