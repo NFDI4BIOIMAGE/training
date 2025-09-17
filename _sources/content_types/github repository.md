@@ -1,4 +1,4 @@
-# Github repository (68)
+# Github repository (69)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -900,6 +900,27 @@ Tags: Nfdi4Bioimage
 Content type: Github Repository
 
 [https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
+
+
+---
+
+## embo-bia-2025
+
+Kevin Yamauchi
+
+Published 2025-08-18T09:32:20+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/kevinyamauchi/embo-bia-2025](https://github.com/kevinyamauchi/embo-bia-2025)
 
 
 ---

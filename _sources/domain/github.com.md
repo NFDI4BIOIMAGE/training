@@ -1,4 +1,4 @@
-# Github.com (149)
+# Github.com (150)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2227,6 +2227,27 @@ Tags: Nfdi4Bioimage
 Content type: Github Repository
 
 [https://github.com/SaibotMagd/dmtxSampleCreator](https://github.com/SaibotMagd/dmtxSampleCreator)
+
+
+---
+
+## embo-bia-2025
+
+Kevin Yamauchi
+
+Published 2025-08-18T09:32:20+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/kevinyamauchi/embo-bia-2025](https://github.com/kevinyamauchi/embo-bia-2025)
 
 
 ---

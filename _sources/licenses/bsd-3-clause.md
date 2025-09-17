@@ -1,4 +1,4 @@
-# Bsd-3-clause (35)
+# Bsd-3-clause (36)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -528,6 +528,27 @@ Tags: Neubias, Imagej, Bioimage Analysis
 Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels](https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels)
+
+
+---
+
+## embo-bia-2025
+
+Kevin Yamauchi
+
+Published 2025-08-18T09:32:20+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/kevinyamauchi/embo-bia-2025](https://github.com/kevinyamauchi/embo-bia-2025)
 
 
 ---

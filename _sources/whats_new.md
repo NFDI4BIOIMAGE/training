@@ -100,96 +100,6 @@ Tags: Nfdi4Bioimage, Bioimage Analysis
 
 ---
 
-## NFDI4BIOIMAGE Calendar April 2025
-
-Martin Zurowietz, Nattkemper, Tim W.
-
-Published 2025-09-15
-
-Licensed CC-BY-4.0
-
-
-
-Image from the NFDI4BIOIMAGE Calendar April 2025.
-This image shows the BIIGLE image and video annotation tool, which is a web-based software for collaborative research on large imaging datasets [1, 2]. It offers tools for manual and computer-assisted annotation, quality control and the collaboration on custom taxonomies to describe objects. BIIGLE is freely available and can be installed in cloud environments, a local network or on mobile platforms during research expeditions. A public instance can be found at biigle.de.
-The annotated image shows the coastline of Fernandina Island, Galapagos, which is the habitat of the Galapagos Marine Iguana (Amblyrhynchus cristatus). The image is a large mosaic that was stitched together from many individual images captured by a drone. The green annotations marking the iguanas were machine-generated as part of a feasibility study for the automatic analysis of the data in the project Iguanas from Above [3, 4].
-[1] Langenk&auml;mper, D., Zurowietz, M., Schoening, T., &amp; Nattkemper, T. W. (2017). BIIGLE 2.0-browsing and annotating large marine image collections. Frontiers in Marine Science, 4, 83. https://doi.org/10.3389/fmars.2017.00083
-[2] Zurowietz, M., &amp; Nattkemper, T. W. (2021). Current trends and future directions of large scale image and video annotation: Observations from four years of BIIGLE 2.0. Frontiers in Marine Science, 8, 760036. https://doi.org/10.3389/fmars.2021.760036
-[3] Varela-Jaramillo, A., Rivas-Torres, G., Guayasamin, J. M., Steinfartz, S., &amp; MacLeod, A. (2023). A pilot study to estimate the population size of endangered Gal&aacute;pagos marine iguanas using drones. Frontiers in Zoology, 20(1), 4. https://doi.org/10.1186/s12983-022-00478-5
-[4] https://iguanasfromabove.com
-
-
-
-
-Project
-
-
-Iguanas from Above
-
-
-
-
-Location
-
-
-Fernandina Island, Galapagos
-
-
-
-
-Organism
-
-
-Amblyrhynchus cristatus
-
-
-
-
-Drone model
-
-
-DJI Mavic 2 Pro
-
-
-
-
-Camera
-
-
-Hasselblad L1D-20c
-
-
-
-
-Size
-
-
-26,545 &times; 20,894 px
-
-
-
-
-Mosaic algorithm
-
-
-Agisoft Metashape Professional v.1.6
-
-
-
-
-Submitted via NFDI4Biodiversity
-
-
-
-
-
-[https://zenodo.org/records/16980661](https://zenodo.org/records/16980661)
-
-[https://doi.org/10.5281/zenodo.16980661](https://doi.org/10.5281/zenodo.16980661)
-
-
----
-
 ## NFDI4BIOIMAGE Calendar Cover 2025
 
 Anne Rademacher, Alik Huseynov, Michele Bortolomeazzi, Wille, Sina Jasmin, Sabrina Schumacher, Pooja Sant, Denise Keitel, Konstantin Okonechnikov, Ghasemi, David R., Pajtler, Kristian W., Jan-Philipp Mallm, Karsten Rippe
@@ -792,6 +702,27 @@ Tags: Nfdi4Bioimage, Bioimage Analysis
 [https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
 
 [https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
+
+
+---
+
+## embo-bia-2025
+
+Kevin Yamauchi
+
+Published 2025-08-18T09:32:20+00:00
+
+Licensed BSD-3-CLAUSE
+
+
+
+
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/kevinyamauchi/embo-bia-2025](https://github.com/kevinyamauchi/embo-bia-2025)
 
 
 ---
