@@ -604,6 +604,8 @@ Content type: Tutorial, Framework, Workflow
 
 ## Prompt-Engineering-LLMs-Course
 
+Isra Mekki
+
 Published 2024-09-11T07:45:30+00:00
 
 Licensed MIT
@@ -786,6 +788,8 @@ Content type: Workshop, Github Repository, Tutorial
 ---
 
 ## Virtual-I2K-2024-multiview-stitcher
+
+Marvin Albert
 
 Published 2024-10-30T07:38:11+00:00
 

@@ -460,6 +460,8 @@ Content type: Slides
 
 ## Virtual-I2K-2024-multiview-stitcher
 
+Marvin Albert
+
 Published 2024-10-30T07:38:11+00:00
 
 Licensed BSD-3-CLAUSE

@@ -382,6 +382,8 @@ Content type: Github Repository
 
 ## Prompt-Engineering-LLMs-Course
 
+Isra Mekki
+
 Published 2024-09-11T07:45:30+00:00
 
 Licensed MIT
