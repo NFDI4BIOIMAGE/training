@@ -12459,7 +12459,7 @@ resources:
   uuid: 506bcd94-1b1a-40a2-94be-0017e4ff7ad9
   language: en
   file_formats: .pdf * .pptx
-  tags:'
+  tags:
   - NFDI4Bioimage
   - Research Data Management
 - authors:
