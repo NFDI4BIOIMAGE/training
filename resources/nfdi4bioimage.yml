@@ -11354,15 +11354,13 @@ resources:
   publication_date: '2025-01-16'
   submission_date: '2025-01-28T11:17:32.840529'
   tags:
-  - nfdi4bioimage
+  - NFDI4Bioimage
   url:
   - https://zenodo.org/records/14650434
   - https://doi.org/10.5281/zenodo.14650434
   uuid: e126a935-fa9f-4e56-84e3-d6ac2c4b3f48
   language: en
   file_formats: .pdf
-  tags:
-  - NFDI4Bioimage
 - authors:
   - Ben Vermaercke
   description: Intravital workshop 15/11/2024
@@ -11588,8 +11586,6 @@ resources:
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
   uuid: 15331066-c748-4275-81c5-dd85bcdc0c33
-  tags:
-  - NFDI4Bioimage
 - authors:
   - Rodrigo Escobar Diaz Guerrero
   description: 'Linking Electronic Lab Notebooks and other sources with OMERO objects '
@@ -18010,7 +18006,7 @@ resources:
 - authors:
   - Swedlow, J.R.
   - Kankaanpää, P.
-  - Sarkans, U. 
+  - Sarkans, U.
   - et al.
   name: A global view of standards for open image data formats and repositories
   description: A comprehensive overview of existing standards for image data formats
@@ -19536,10 +19532,10 @@ resources:
   - Marcotti, Stefania
   - Salgueiro Torres, Sara
   - Jones, Martin
-  - "Sk\xF3rkowska, Alicja"
+  - Skórkowska, Alicja
   description: 'Presentation slides associated with the Introduction to Image Analysis
     workshop run at the Francis Crick Institute on 18-19th August 2025:
-  
+
     https://doi.org/10.5281/zenodo.16949737'
   license: cc-by-sa-4.0
   name: Introduction to Image Analysis
@@ -19560,7 +19556,6 @@ resources:
   tags: TODO
   type: GitHub Repository
   url: https://github.com/erickmartins/training
-  
   uuid: 63f1c4cf-8558-4163-a4a3-582cf246530e
   language: en
   file_formats: .nd2
@@ -19600,7 +19595,7 @@ resources:
   uuid: bf1429a9-cdff-4ec5-94f7-0de4d341a88c
   language: en
   file_formats: .pdf * .svg
-  tags: 
+  tags:
   - NFDI4Bioimage
 - authors:
   - Wang
@@ -21427,7 +21422,7 @@ resources:
   uuid: a1c75d49-e6d9-423e-ad25-10e3b521aaf0
   language: en
   file_formats: .pdf
-  tags: 
+  tags:
   - NFDI4Bioimage
 - authors:
   - Wagner, Robert
@@ -21493,7 +21488,7 @@ resources:
   uuid: 2febfada-4362-466f-872d-fb8b5e2aa6a6
   language: en
   file_formats: .pdf
-  tags: 
+  tags:
   - NFDI4Bioimage
   - Bioimage Analysis
 - authors:
@@ -21533,7 +21528,7 @@ resources:
   uuid: fdac071c-3b28-4aac-949d-bd87a51211d1
   language: en
   file_formats: .pdf
-  tags: 
+  tags:
   - NFDI4Bioimage
 - authors:
   - Haase, Robert
@@ -21554,7 +21549,7 @@ resources:
   uuid: be614b13-5234-40d7-8038-9bf03fed98a3
   language: en
   file_formats: .pdf * .pptx
-  tags: 
+  tags:
   - NFDI4Bioimage
   - Bioimage Analysis
 - authors:
@@ -21626,14 +21621,12 @@ resources:
   uuid: 2f736338-f8e4-413e-bf7a-d1b6f8cd23e8
   language: en
   file_formats: .pdf
-  
 - authors:
   - Schätz, Martin
   - Pérez Koldenkova, Vadim
   description: Workshop presentation from XXXIV Foro de Investigaci&oacute;n en Salud
     2025.
   license: cc-by-4.0
-
   name: Image Analysis in Healthcare - The Current Landscape, Trends, and Collaborative
     Opportunities
   num_downloads: 92
