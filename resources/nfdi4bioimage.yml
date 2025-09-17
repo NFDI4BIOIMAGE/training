@@ -15918,7 +15918,8 @@ resources:
   name: DL-pixel-classification
   publication_date: '2025-07-15T10:52:00+00:00'
   submission_date: '2025-07-21T20:12:53.270979'
-  tags: TODO
+  tags: 
+  - Bioimag Analysis
   type: GitHub Repository
-  url: https://github.com/AlexHego/DL-pixel-classification?tab=readme-ov-file
+  url: https://github.com/AlexHego/DL-pixel-classification
   
