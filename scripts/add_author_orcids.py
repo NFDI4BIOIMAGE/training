@@ -49,14 +49,14 @@ def update_authors_with_orcid(content, repository, file_path):
     modified = False
     do_exit = False
     for resource in content.get("resources", []):
-        if "author_with_orcid" not in resource:
+        if "authors_with_orcid" not in resource:
             urls = resource.get("url", [])
             if isinstance(urls, str):
                 urls = [urls]
             for url in urls:
                 if url.startswith("https://zenodo.org/record") or url.startswith("https://zenodo.org/doi"):
                     try:
-                        resource["author_with_orcid"] = fetch_authors_from_zenodo(url)
+                        resource["authors_with_orcid"] = fetch_authors_from_zenodo(url)
                         modified = True
                         break
                     except Exception as e:

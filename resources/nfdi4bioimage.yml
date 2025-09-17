@@ -473,7 +473,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4071471
   uuid: 7c95a128-92f8-47b0-86e7-725f0301c44d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Katarzyna Biernacka https://orcid.org/0000-0002-6363-0064
   - Maik Bierwirth https://orcid.org/0000-0003-1042-6702
   - Petra Buchholz https://orcid.org/0000-0002-2401-1543
@@ -525,7 +525,7 @@ resources:
   - https://doi.org/10.5281/zenodo.3490058
   uuid: ca9f9ec2-2ec6-421e-86b1-2b165a875d37
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Katarzyna Biernacka https://orcid.org/0000-0002-6363-0064
   - Katrin Cortez
   - Kerstin Helbig https://orcid.org/0000-0002-2775-6751
@@ -749,7 +749,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6602101
   uuid: 514b16b2-10bc-435d-9343-a372137934dc
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Stefano Della Chiesa https://orcid.org/0000-0002-6693-2199
   file_formats: .pdf
 - name: Lund Declaration on Maximising the Benefits of Research Data
@@ -1039,7 +1039,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8323588
   uuid: b484d14c-2b7a-4bf8-a229-4a4a69973e14
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
@@ -1300,7 +1300,7 @@ resources:
   - https://zenodo.org/records/2643411
   - https://doi.org/10.5281/zenodo.2643411
   uuid: 3d68b98a-86f3-43fd-a67c-cfcee8d5c209
-  author_with_orcid:
+  authors_with_orcid:
   - Stephen Royle
   file_formats: .zip
 - authors:
@@ -1948,7 +1948,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.4330625
   uuid: 7e9ae5a4-4591-4aa5-ae14-88606c00735f
-  author_with_orcid:
+  authors_with_orcid:
   - Anna Kreshuk
   - Dominik Kutra
   file_formats: .pptx
@@ -1980,7 +1980,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4334697
   uuid: 953f68b3-ce51-4053-a5f0-07c4a500e4a1
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Evan Floden https://orcid.org/0000-0002-5431-190X
   - Paolo Di Tommaso
   file_formats: .pdf
@@ -1999,7 +1999,7 @@ resources:
   - https://zenodo.org/records/4328911
   - https://doi.org/10.5281/zenodo.4328911
   uuid: 7bcacaba-18d1-4f67-a907-29d74f5205ce
-  author_with_orcid:
+  authors_with_orcid:
   - Peter Bankhead
   file_formats: .pdf
 - authors:
@@ -2024,7 +2024,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4317149
   uuid: e91bb0ba-5bcd-48c1-8f20-5537065a735e
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Kari Jordan https://orcid.org/0000-0003-4121-2432
   - Zhian Kamvar https://orcid.org/0000-0003-1458-7108
   - Toby Hodges https://orcid.org/0000-0003-1766-456X
@@ -2207,7 +2207,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10083555
   uuid: aaedb56f-af30-4212-8e3e-256c4d39efbb
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   file_formats: .pdf * .pptx
 - authors:
@@ -2233,7 +2233,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10815329
   uuid: 884b9483-6292-4118-94b5-859319e4403f
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .odp * .pdf * .pptx
 - authors:
@@ -2345,7 +2345,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10679054
   uuid: 10a61037-89b7-415d-bd15-2e45a12538f9
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Elnaz Fazeli https://orcid.org/0000-0002-0770-0777
   file_formats: .pdf
 - authors:
@@ -2370,7 +2370,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10654775
   uuid: f912e555-fb94-497f-834b-ac06512fd13a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pptx
 - authors:
@@ -2389,7 +2389,7 @@ resources:
   - https://zenodo.org/records/10008465
   - https://doi.org/10.5281/zenodo.10008465
   uuid: df5a4693-6382-4a1b-b1b5-855423861b0d
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -2508,7 +2508,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10972692
   uuid: 44b912cb-840e-4a72-8380-aef245c23c33
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -2536,7 +2536,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10990107
   uuid: ce5881a4-a19c-4fb2-a72d-281cd50fd148
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -2561,7 +2561,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10970869
   uuid: 5f7e6519-a97d-4bca-8837-a67b531797f5
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .docx * .pdf * .pptx
 - authors:
@@ -2591,7 +2591,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11066250
   uuid: 3098ea69-e657-455c-ae07-f6130b0c5663
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .odp * .pdf * .pptx
 - authors:
@@ -2706,7 +2706,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11473803
   uuid: eb2f5660-3512-4885-953a-d482b37b2f6d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Euro-BioImaging ERIC
   file_formats: .pdf
@@ -2738,7 +2738,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11474407
   uuid: f3192992-e891-46df-baf1-cb1de1769bf4
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Euro-BioImaging ERIC
   file_formats: .pdf
@@ -2793,7 +2793,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11548617
   uuid: 5033c46d-a160-4471-96da-b22e6c72d17b
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
   - Simon Bekemeier https://orcid.org/0000-0001-8736-8796
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
@@ -2826,7 +2826,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.10687658
   uuid: 1233807d-7249-4744-8968-51bb16b16c56
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Andra Waagmeester https://orcid.org/0000-0001-9773-4008
   - Kristina Hettne https://orcid.org/0000-0002-4182-7560
@@ -2886,7 +2886,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
   uuid: a1f88801-2dda-4ab9-a1d8-211f7c12d8cc
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Torsten Stöter
   - Tobias Gottschall https://orcid.org/0000-0003-3001-1491
   - Andrea Schrader https://orcid.org/0000-0002-3879-7057
@@ -2921,7 +2921,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8340247
   uuid: 35a7e9a6-14f0-40a9-ac8c-f1194ea2f1b1
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Joshua Allen Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -2945,7 +2945,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8139353
   uuid: 71149557-83a7-4005-996a-e3bfda299066
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Sarah Weischer https://orcid.org/0000-0001-7292-8308
   - Jens Wendt
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
@@ -2972,7 +2972,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.10886749
   uuid: 27a998d0-a946-41df-9775-12941574693e
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Anca Margineanu https://orcid.org/0000-0002-6634-9729
   - Chiara Stringari https://orcid.org/0000-0002-0550-7463
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
@@ -2991,7 +2991,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10793699
   uuid: 69717b33-15d5-4ca1-8b66-11ffbfcb594d
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .pptx
 - authors:
@@ -3023,7 +3023,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11265038
   uuid: d796f869-0939-4c08-8b17-303d9b4cad20
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Constantin Pape https://orcid.org/0000-0001-6562-7187
   file_formats: .pdf * .pptx
 - authors:
@@ -3051,7 +3051,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11107798
   uuid: 813ff28c-bb80-4c9f-a2e5-03e58a7a47a5
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Carolin Hundt https://orcid.org/0000-0002-7237-965X
   file_formats: .pdf
@@ -3079,7 +3079,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10942559
   uuid: db291fd5-dd30-4c2a-b1a8-1d42f0986ed8
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Stefano Della Chiesa https://orcid.org/0000-0002-6693-2199
   file_formats: .pdf
 - authors:
@@ -3108,7 +3108,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10816895
   uuid: f21196b0-c992-4e89-9121-29411702530e
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .odp * .pdf * .pptx
 - authors:
@@ -3135,7 +3135,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4461261
   uuid: 55345762-a7c0-4c0b-838a-8e1fa6befa84
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Elfi Hesse https://orcid.org/0000-0001-5085-5048
   - Jan-Christoph Deinert https://orcid.org/0000-0001-6211-0158
   - Christian Löschen
@@ -3167,7 +3167,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11472148
   uuid: 5111b374-e337-434c-9801-e41f34e32821
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Stephan Wünsche https://orcid.org/0000-0001-9552-4402
   file_formats: .pdf
 - authors:
@@ -3195,7 +3195,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11396199
   uuid: 76dfd5a8-102d-4ec6-b9d5-c8f8936e768a
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   file_formats: .pdf * .pptx
 - authors:
@@ -3228,7 +3228,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4748510
   uuid: 9a4d8575-ba5e-4198-b6ed-9a9a10dfded0
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Stephan Wünsche https://orcid.org/0000-0001-9552-4402
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   file_formats: .pdf
@@ -3269,7 +3269,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4630788
   uuid: 0dcdd418-0c68-4464-8b7f-ed391118f632
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Barbara Weiner https://orcid.org/0000-0003-2747-8648
   file_formats: .pdf
@@ -3318,7 +3318,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4748534
   uuid: cc70607c-e951-4da4-a535-15e19a21e543
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Barbara Weiner https://orcid.org/0000-0003-2747-8648
   file_formats: .pdf
@@ -3355,7 +3355,7 @@ resources:
   - https://doi.org/10.5281/zenodo.3778431
   uuid: 8b9270cf-6005-4b03-8866-5bd17f0b9bc5
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Barbara Weiner https://orcid.org/0000-0003-2747-8648
   - Stephan Wünsche https://orcid.org/0000-0001-9552-4402
   - Stefan Kühne https://orcid.org/0000-0001-9492-2548
@@ -3383,7 +3383,7 @@ resources:
   - https://zenodo.org/records/12623730
   - https://doi.org/10.5281/zenodo.12623730
   uuid: 7e738276-8d5b-41d1-98f2-3bdbb84e516f
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -3433,7 +3433,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11201216
   uuid: adf2178b-a4de-4670-9050-4077346fbddd
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Kate Hertweck https://orcid.org/0000-0002-4026-4612
   - Carly Strasser https://orcid.org/0000-0001-9592-2339
   - Dario Taraborelli https://orcid.org/0000-0002-0082-8508
@@ -3453,7 +3453,7 @@ resources:
   - https://zenodo.org/records/12744715
   - https://doi.org/10.5281/zenodo.12744715
   uuid: f7090051-8760-4b05-bab0-0b48f7478f38
-  author_with_orcid:
+  authors_with_orcid:
   - Heidi Seibold https://orcid.org/0000-0002-8960-9642
   file_formats: .epub * .jpg * .pdf * .png
 - authors:
@@ -3610,7 +3610,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7018929
   uuid: 684081e5-eb9a-4a3d-ab82-a9abd226d979
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .mp4
 - authors:
@@ -3991,7 +3991,7 @@ resources:
   - https://zenodo.org/records/8329306
   - https://doi.org/10.5281/zenodo.8329306
   uuid: 846f52ff-124a-4283-904d-724d651877a2
-  author_with_orcid:
+  authors_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .pdf * .pptx
 - authors:
@@ -4058,7 +4058,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10008464
   uuid: ec7c4adc-cbd0-4014-af89-d628f79130bd
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf * .pptx
 - authors:
@@ -4079,7 +4079,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8070038
   - https://zenodo.org/records/8070038
   uuid: 3088e8b7-ace8-48c0-a5ec-07c3fa497ca1
-  author_with_orcid:
+  authors_with_orcid:
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   file_formats: .pdf * .pptx
 - authors:
@@ -4120,7 +4120,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.10609770
   uuid: 5958ff49-1cad-4de2-b158-1106e2ba45c3
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Mohamed M. Abdrabbou https://orcid.org/0000-0003-2778-7483
   - Mehrnaz Babaki https://orcid.org/0000-0003-3099-618X
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
@@ -4157,7 +4157,7 @@ resources:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.11235512
   uuid: 27f7b02d-b759-4d22-9d71-7dde4d3f92cb
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .pdf
@@ -4174,7 +4174,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.8329305
   uuid: eed6bba8-e74d-4f1e-a02c-739f5e643246
-  author_with_orcid:
+  authors_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .pdf * .pptx
 - authors:
@@ -4198,7 +4198,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.7928332
   uuid: 28bcf7b5-60d7-4549-9472-1a04699ba3c3
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Joshua Allenm Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .pdf
@@ -4221,7 +4221,7 @@ resources:
   url: https://zenodo.org/doi/10.5281/zenodo.8414318
   uuid: 56685938-832f-46ee-ac7b-b8b69aa5cbf8
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .pdf
 - authors:
@@ -4244,7 +4244,7 @@ resources:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.10730423
   uuid: 4762a4de-b044-4534-a268-f5d5833d2a47
-  author_with_orcid:
+  authors_with_orcid:
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
   - Jens Wendt
   - Maximilian Müller https://orcid.org/0000-0003-2237-1147
@@ -4267,7 +4267,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10939519
   uuid: 6b5cd720-8954-4862-ad2f-5f46697bfe49
-  author_with_orcid:
+  authors_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   file_formats: .pdf
 - authors:
@@ -4287,7 +4287,7 @@ resources:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
   uuid: 8fb3de32-915a-4e3a-84c4-1072becd9e64
-  author_with_orcid:
+  authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   file_formats: .pdf
 - authors:
@@ -4341,7 +4341,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13168693
   uuid: 0bdd51f9-a13c-4410-a71d-de8401f057ef
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Joshua Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   - Björn Grüning https://orcid.org/0000-0002-3079-6586
@@ -4414,7 +4414,7 @@ resources:
   - https://zenodo.org/records/11318151
   - https://doi.org/10.5281/zenodo.11318151
   uuid: e194a8c5-2355-4961-8728-4a25a91b620b
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -4464,7 +4464,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11521029
   uuid: 1dd382ee-63a9-447f-aa50-8765c7a40fa4
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Jonathan Geiger https://orcid.org/0000-0002-0452-7075
   - Petra Steiner https://orcid.org/0000-0001-8997-2620
   - Abdelmoneim Amer Desouki https://orcid.org/0000-0003-2083-1277
@@ -4999,7 +4999,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13379394
   uuid: 67cacf14-d9ff-4b32-8e94-1fde07f824dd
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -5019,7 +5019,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13371196
   uuid: ff5d01b2-2b87-4973-a519-02bb9eace69a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx * .zip
 - authors:
@@ -5041,7 +5041,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13506641
   uuid: efe78686-6a71-4977-bc9b-8a725394a11d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -5330,7 +5330,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11109616
   uuid: b8b90ea6-b67d-4ca0-8315-ea9c8a53bfa4
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
@@ -5350,7 +5350,7 @@ resources:
   - https://zenodo.org/records/13908480
   - https://doi.org/10.5281/zenodo.13908480
   uuid: 9b0e425e-30cb-4853-bfde-e52a7ed803ea
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .odp
 - authors:
@@ -5372,7 +5372,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13908108
   uuid: 83205cc7-84f6-4823-a4b6-dd9073fe63ad
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -6393,7 +6393,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13928832
   uuid: 67d30313-fd89-4a7a-91fb-035bdeb9a9ad
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase
   file_formats: .pdf
 - authors:
@@ -6423,7 +6423,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13331351
   uuid: f993d608-1bc9-4a59-a588-3318472e79ea
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Elnaz Fazeli https://orcid.org/0000-0002-0770-0777
   - Haase Robert
   - Doube Michael
@@ -6489,7 +6489,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14001044
   uuid: af33158e-7b1d-4002-a443-a4a490ee33ed
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - authors:
@@ -6658,7 +6658,7 @@ resources:
   - https://zenodo.org/records/14001388
   - https://doi.org/10.5281/zenodo.14001388
   uuid: 7284eeb2-8c94-409d-b1a6-4fca8d3d58c7
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -6672,7 +6672,7 @@ resources:
   - https://zenodo.org/records/13831274
   - https://doi.org/10.5281/zenodo.13831274
   uuid: 5c0f0a6f-ec67-4e02-a334-aaac067af06f
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -6688,7 +6688,7 @@ resources:
   - https://zenodo.org/records/13991322
   - https://doi.org/10.5281/zenodo.13991322
   uuid: 54710395-1ce7-4672-9c8d-967f1b2ab3e4
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
 - authors:
@@ -6717,7 +6717,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14014252
   uuid: 171c8e4e-be57-4b85-ba1e-5b53713b34e9
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
   file_formats: .mp4 * .xlsm
@@ -6795,7 +6795,7 @@ resources:
   - https://zenodo.org/records/14032908
   - https://doi.org/10.5281/zenodo.14032908
   uuid: 92604000-df51-4b04-b020-a885099b8ea3
-  author_with_orcid:
+  authors_with_orcid:
   - Steuerungsgremium Allianz-Schwerpunkt
   - Alexander von Humboldt Foundation
   - Deutsche Forschungsgemeinschaft
@@ -6824,7 +6824,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14030307
   uuid: 4031c818-598a-44aa-80c4-ff5ce2707477
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .zip
 - authors: Isra Mekki
@@ -6905,7 +6905,7 @@ resources:
   - https://galaxyproject.org/news/2024-11-08-galaxy-imaging-fair-pipelines/
   uuid: 59d2650b-b35a-48d9-b6cb-eb7205044178
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Matthias Berndt
   - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
@@ -7122,7 +7122,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14013026
   uuid: 38fbd343-3e03-49e2-baf2-fbe534033e68
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Tom Boissonnet
   - Bettina Hagen
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
@@ -7298,7 +7298,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13680725
   uuid: 3583229a-ff8c-4157-84f4-d138938aa7d0
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Nicolas Chiaruttini
   file_formats: .hdf5 * .oir * .omp2info
 - authors:
@@ -7336,7 +7336,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5675686
   uuid: 1cea6a77-395b-4881-8bf6-abd80bf928d7
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Romain Guiet https://orcid.org/0000-0001-6715-4897
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .jpg * .zip
@@ -7368,7 +7368,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8153907
   uuid: 0a89b7f2-53fc-41c9-8bac-8c9e5314533a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .zip
 - authors:
@@ -7402,7 +7402,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8305531
   uuid: 9786c566-4887-4d42-b64b-24729f2defd8
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .czi
 - authors:
@@ -7428,7 +7428,7 @@ resources:
   - https://doi.org/10.5281/zenodo.1472859
   uuid: 088ba7c8-49db-4377-9c5e-5fc38dc96433
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Sarah Machado
   - Vincent Mercier
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
@@ -7502,7 +7502,7 @@ resources:
   - https://zenodo.org/records/8314968
   - https://doi.org/10.5281/zenodo.8314968
   uuid: 0016dd82-e662-436f-8288-62313aa6508c
-  author_with_orcid:
+  authors_with_orcid:
   - Wendt Jens https://orcid.org/0009-0002-1826-7099
   file_formats: .pdf * .pptx
 - authors:
@@ -7530,7 +7530,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13945179
   uuid: db00a320-cecb-4332-91ab-40df4aff3842
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Feriel Romdhane https://orcid.org/0000-0002-5854-9341
   - Euro-BioImaging ERIC
@@ -7668,7 +7668,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5847477
   uuid: 38a0638b-65f6-427a-8998-7afaf8af8f2e
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Alessandro Rigano
   - Ulrike Boehm https://orcid.org/0000-0001-7471-2244
   - Claire M. Brown https://orcid.org/0000-0003-1622-663X
@@ -7715,7 +7715,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10069368
   uuid: 8c40ea77-c3ef-4617-a25e-ef50eeb49041
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Mohsen Ahmadi
   - Robert Wagner
   - Philipp Mattern
@@ -7761,7 +7761,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11445843
   uuid: 0f9891ad-edaa-43cb-916f-c67e02c40227
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Maximilian Heber https://orcid.org/0000-0003-3399-7532
   - Moritz Jakob https://orcid.org/0009-0007-0772-3462
   - Matthias Landwehr https://orcid.org/0000-0001-9274-2578
@@ -7895,7 +7895,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14178789
   uuid: b9c7adca-3f9d-472a-ab82-8dc201b9416a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
   - Bettina Hagen
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
@@ -7924,7 +7924,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14006558
   uuid: 7c794f67-5515-4f59-8734-b0df67755598
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   file_formats: .pdf
 - submission_date: '2024-11-18T14:39:39.787873'
@@ -7943,7 +7943,7 @@ resources:
   - https://zenodo.org/records/13837146
   - https://doi.org/10.5281/zenodo.13837146
   uuid: 9cd198c8-d5c3-405d-bfca-9f6737d328a9
-  author_with_orcid:
+  authors_with_orcid:
   - Christian Jüngst https://orcid.org/0000-0002-6586-7129
   - Peter Zentis https://orcid.org/0000-0002-6999-132X
   file_formats: .lif
@@ -7959,7 +7959,7 @@ resources:
   - https://zenodo.org/records/11503289
   - https://doi.org/10.5281/zenodo.11503289
   uuid: 54e4efd3-21a7-4493-983b-b951b37157db
-  author_with_orcid:
+  authors_with_orcid:
   - Stefan Dvoretskii https://orcid.org/0000-0001-7769-0167
   - Lucas Kulla https://orcid.org/0000-0002-2484-2742
   - Philipp Schader https://orcid.org/0000-0002-6075-0757
@@ -7986,7 +7986,7 @@ resources:
   - https://zenodo.org/records/13684187
   - https://doi.org/10.5281/zenodo.13684187
   uuid: c8d884fc-9302-46df-864c-442871438877
-  author_with_orcid:
+  authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Michael Schlierf https://orcid.org/0000-0002-6209-2364
   file_formats: .pdf
@@ -8013,7 +8013,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13640979
   uuid: 555f04f1-d27e-465c-a882-3914b4d610aa
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T14:39:42.386226'
@@ -8028,7 +8028,7 @@ resources:
   - https://zenodo.org/records/13380289
   - https://doi.org/10.5281/zenodo.13380289
   uuid: ce4fcc03-dcac-4635-9a11-ab0ecfaae60c
-  author_with_orcid:
+  authors_with_orcid:
   - Stefan Dvoretskii https://orcid.org/0000-0001-7769-0167
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Philipp Schader https://orcid.org/0000-0002-6075-0757
@@ -8102,7 +8102,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12699637
   uuid: 7357f51b-768e-4797-860d-773cc5bbe70a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Sophie Habinger https://orcid.org/0000-0002-5513-954X
   - Maximilian Heber https://orcid.org/0000-0003-3399-7532
   - Sonja Kralj https://orcid.org/0000-0002-8516-8034
@@ -8146,7 +8146,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11501662
   uuid: 3cc23473-e70e-4ef8-b6bb-30aee3e5978b
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
@@ -8225,7 +8225,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11350689
   uuid: ef7a056b-cdc9-4a1d-be3c-290ba748db12
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
@@ -8249,7 +8249,7 @@ resources:
   - https://zenodo.org/records/11235513
   - https://doi.org/10.5281/zenodo.11235513
   uuid: 49551a0c-eb32-4208-b843-b71137e6f0f1
-  author_with_orcid:
+  authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   file_formats: .pdf
@@ -8266,7 +8266,7 @@ resources:
   - https://zenodo.org/records/11146807
   - https://doi.org/10.5281/zenodo.11146807
   uuid: 0967ecd2-06f6-462c-b9de-d514aed01b4b
-  author_with_orcid:
+  authors_with_orcid:
   - Rodrigo Escobar Diaz Guerrero
   file_formats: null
 - submission_date: '2024-11-18T14:39:46.762148'
@@ -8281,7 +8281,7 @@ resources:
   - https://zenodo.org/records/11031747
   - https://doi.org/10.5281/zenodo.11031747
   uuid: 2b5488e9-92ce-4f31-a8d6-290615f9bff6
-  author_with_orcid:
+  authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   file_formats: .pdf
 - submission_date: '2024-11-18T14:39:47.147338'
@@ -8298,7 +8298,7 @@ resources:
   - https://zenodo.org/records/10939520
   - https://doi.org/10.5281/zenodo.10939520
   uuid: 9017b456-8a53-49a8-a914-a4da2ffb9d66
-  author_with_orcid:
+  authors_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   file_formats: .pdf
 - submission_date: '2024-11-18T14:39:47.561518'
@@ -8322,7 +8322,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10886750
   uuid: 1abe8f38-fd31-4f2a-967d-1b8d0e94651b
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Anca Margineanu https://orcid.org/0000-0002-6634-9729
   - Chiara Stringari https://orcid.org/0000-0002-0550-7463
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
@@ -8339,7 +8339,7 @@ resources:
   - https://zenodo.org/records/10808486
   - https://doi.org/10.5281/zenodo.10808486
   uuid: 416298b9-cce7-4b61-9cff-a8e80e6ff459
-  author_with_orcid:
+  authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   file_formats: .pdf
 - submission_date: '2024-11-18T14:39:48.292240'
@@ -8358,7 +8358,7 @@ resources:
   - https://zenodo.org/records/10793700
   - https://doi.org/10.5281/zenodo.10793700
   uuid: b5b6c806-9f1f-45c2-b445-55118f522be1
-  author_with_orcid:
+  authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .pptx
 - submission_date: '2024-11-18T14:39:48.632022'
@@ -8379,7 +8379,7 @@ resources:
   - https://zenodo.org/records/10730424
   - https://doi.org/10.5281/zenodo.10730424
   uuid: 6cd74550-8eed-41e2-8664-26ccb1cd2488
-  author_with_orcid:
+  authors_with_orcid:
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
   - Jens Wendt
   - Maximilian Müller https://orcid.org/0000-0003-2237-1147
@@ -8456,7 +8456,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12546808
   uuid: 2293c563-2bc4-4fa6-ab48-958a7676309d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Anett Jannasch https://orcid.org/0000-0002-8047-2774
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
@@ -8509,7 +8509,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7890311
   uuid: 9ca97882-53a0-4326-8662-8c50192b652d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Janina Hanne https://orcid.org/0000-0002-5332-3589
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
@@ -8538,7 +8538,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10103316
   uuid: b408bd23-2304-4f93-a3d2-b1a5eec07a97
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Silke Tulok
   - Gunar Fabig https://orcid.org/0000-0003-3017-0978
   - Andy Vogelsang
@@ -8628,7 +8628,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12547566
   uuid: 13784f68-4119-42d8-958e-47a4c828573d
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Gunar Fabig https://orcid.org/0000-0003-3017-0978
   - Anett Jannasch https://orcid.org/0000-0002-8047-2774
   - Chukwuebuka Okafornta https://orcid.org/0000-0001-8094-1254
@@ -8662,7 +8662,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14168603
   uuid: 17eff95f-4651-4243-b7c7-3fd82076647f
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .3mf * .f3d * .pdf * .png
 - submission_date: '2024-11-18T16:34:10.375459'
@@ -8680,7 +8680,7 @@ resources:
   - https://zenodo.org/records/14161633
   - https://doi.org/10.5281/zenodo.14161633
   uuid: b8a70f91-9bc4-40a9-95ea-86492658136f
-  author_with_orcid:
+  authors_with_orcid:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
   - Max Nobis https://orcid.org/0000-0002-1861-1390
   file_formats: .pdf
@@ -8703,7 +8703,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14161289
   uuid: f8698ee3-f2a9-4d92-9ddd-c6ad6021d52c
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   - Hans-Ulrich Fried https://orcid.org/0000-0001-7557-1199
   - Christiane Peuckert https://orcid.org/0000-0002-5973-1241
@@ -8723,7 +8723,7 @@ resources:
   - https://zenodo.org/records/14113714
   - https://doi.org/10.5281/zenodo.14113714
   uuid: 71ed4f50-f875-42a4-845b-f6e8ef9e2298
-  author_with_orcid:
+  authors_with_orcid:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
   file_formats: .pptx
 - submission_date: '2024-11-18T16:34:11.542022'
@@ -8753,7 +8753,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13683167
   uuid: a0848ddf-9ac2-439f-9baa-099977f8312a
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
 - submission_date: '2024-11-18T16:34:11.914727'
@@ -8783,7 +8783,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13736218
   uuid: 6ff2fddb-942a-4e3b-9233-c9d7e1f3a9f6
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
 - submission_date: '2024-11-18T16:34:12.275231'
@@ -8813,7 +8813,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13736240
   uuid: d835b656-b91e-4451-b147-5a669816bf3b
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
 - submission_date: '2024-11-18T16:34:12.641988'
@@ -8843,7 +8843,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13682928
   uuid: b398a8f6-fbc7-4288-90aa-93c07e7ee5b9
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
 - submission_date: '2024-11-18T16:34:13.156773'
@@ -8889,7 +8889,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13807114
   uuid: 550b53b4-4db5-4f5d-bd4a-ce27e093dd05
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Financial & Legal Framework of Core Facilities
   - Elmar Endl
   - Jana Hedrich https://orcid.org/0000-0002-2664-0212
@@ -8942,7 +8942,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13810879
   uuid: cad67901-18c0-480c-8f1a-5c34fbcf93e2
   language: de
-  author_with_orcid:
+  authors_with_orcid:
   - Financial & Legal Framework of Core Facilities
   - Elmar Endl
   - Jana Hedrich https://orcid.org/0000-0002-2664-0212
@@ -9025,7 +9025,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12578084
   uuid: 7b7221bc-dfc9-4b7c-9a14-30837ba70953
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
   - Anja Nobst https://orcid.org/0009-0009-7468-180X
   - Anett Jannasch https://orcid.org/0000-0002-8047-2774
@@ -9050,7 +9050,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7944877
   uuid: a3ab418c-93dd-4968-a7ee-3ad97764ef51
   language: en
-  author_with_orcid:
+  authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .3mf * .png
 - submission_date: '2024-11-18T16:34:15.354820'
