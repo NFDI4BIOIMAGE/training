@@ -85,6 +85,8 @@ Licensed CC-BY-4.0
 
 Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
 [https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
@@ -224,7 +226,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis
 
 Content type: Publication
 

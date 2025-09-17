@@ -304,7 +304,7 @@ Content type: Data
 
 ## A global view of standards for open image data formats and repositories
 
-Swedlow, J.R., Kankaanpää, P., Sarkans, U. et al.
+J.R. Swedlow, P. Kankaanpää, U. Sarkans, et al.
 
 
 
@@ -411,6 +411,8 @@ Licensed CC-BY-4.0
 
 
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
+
+Tags: Nfdi4Bioimage, OMERO
 
 [https://zenodo.org/records/15771899](https://zenodo.org/records/15771899)
 
@@ -822,6 +824,8 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
 [https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
@@ -916,6 +920,8 @@ Licensed CC-BY-4.0
 
 This research data management workflow for bioimaging is designed to bridge the gap between image metadata and experimental / process metadata. By linking images and microscopy-related metadata with broader experimental records, the workflow particularly supports the adoption of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles in interdisciplinary fields where bioimaging is used to analyse treated samples requiring multimodal metadata. A Jupyter Notebook guides the user through the metadata level, data handling level, and data processing level and connects various software components in a modular manner. On the metadata level, microscope-specific metadata are captured using the Micro-Meta App and stored as reusable digital assets. Adamant provides a user interface to collect and process schema-based metadata related to the experiment / treatment procedure. Structured imaging and process metadata are attached to the complete experiment description in eLabFTW. On the data handling level, OMERO serves as the central platform for storing and managing microscopy images together with their metadata retrieved from eLabFTW (workflow with ELN) or directly from JSON files (workflow without ELN). On the data processing level, OMERO supports both automated and manual image analysis either directly via the Jupyter Notebook or FIJI. Due to the modularity of the workflow, the integrated tools can be substituted with equivalent systems based on institutional / user requirements. Whether in teaching or research settings, this workflow supports high-throughput, reproducible imaging workflows, ensuring that data, metadata, and analysis steps remain transparent, interoperable, and reusable across diverse bioimage analysis platforms.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/16561545](https://zenodo.org/records/16561545)
 
 [https://doi.org/10.5281/zenodo.16561545](https://doi.org/10.5281/zenodo.16561545)
@@ -968,6 +974,8 @@ Licensed MIT
 
 Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
 
 [https://doi.org/10.5281/zenodo.15047849](https://doi.org/10.5281/zenodo.15047849)
@@ -1007,6 +1015,8 @@ Licensed CC-BY-4.0
 
 Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
 This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
 
@@ -1339,6 +1349,8 @@ Licensed CC-BY-4.0
 
 Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
 
 [https://doi.org/10.5281/zenodo.17092303](https://doi.org/10.5281/zenodo.17092303)
@@ -1357,6 +1369,8 @@ Licensed CC-BY-4.0
 
 
 Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
 
@@ -1411,6 +1425,8 @@ Resolving merge conflicts
 Artificial intelligence that can respond to GitHub issues
 
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
 
@@ -1532,7 +1548,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management
 
 Content type: Poster
 
@@ -2280,6 +2296,8 @@ Licensed CC-BY-4.0
 
 When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
+Tags: Nfdi4Bioimage, Artificial Intelligence
+
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
 [https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
@@ -2298,6 +2316,8 @@ Licensed CC-BY-4.0
 
 
 Imaging is crucial across various scientific disciplines, particularly in life sciences, where it plays a key role in studies ranging from single molecules to whole organisms. However, the complexity and sheer volume of image data present significant challenges. Managing and analyzing this data efficiently requires well-defined image processing tools and analysis pipelines that align with the FAIR principles—ensuring they are findable, accessible, interoperable, and reusable across different domains. In the frame of NFDI4BIOIMAGE1 (the National Research Data Infrastructure focusing on bioimaging in Germany), we want to find viable solutions for storing, processing, analyzing, and sharing bioimaging data. In particular, we want to develop solutions to make findable and machine-readable metadata developing analysis pipelines. In scientific research, such pipelines are crucial for maintaining data integrity, supporting reproducibility, and enabling interdisciplinary collaboration. These tools can be used by different users to retrieve images based on specific attributes as well as support quality control by identifying appropriate metadata. Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis2. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of RDM processes in bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation. In the present poster, we showed how to integrate RDM processes and tools in Galaxy. We will showcase how Images can be enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to a target OME Remote Objects (OMERO) server using a novel set of OMERO tools developed with Galaxy3. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation). Furthermore, we will show the potential integration of eletronic lab books such as eLabFTW4, cloud storage systems (i.e. OneData)5 and interactive norebooks (Jupyter Notebooks) 6 in the Galaxy pipeline.
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
 
@@ -3138,6 +3158,8 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
 Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
 
 [https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
@@ -4123,6 +4145,8 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
 C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
 
 [https://doi.org/10.5281/zenodo.17014253](https://doi.org/10.5281/zenodo.17014253)
@@ -4338,6 +4362,8 @@ omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
 The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
 [https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
@@ -4358,6 +4384,8 @@ Licensed CC-BY-4.0
 These slides were presented during an online introductory session to OMERO for the UB Frankfurt.
 The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
 &nbsp;
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
 
@@ -4440,7 +4468,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -4995,6 +5023,8 @@ Licensed CC-BY-4.0
 
 Applied plasma research involves several disciplines such as physics, medicine and biology to solve application-oriented problems, often generating large and heterogeneous experimental data sets. The descriptions and metadata describing these interdisciplinary scientific investiga-tions is stored in distributed systems (e.g., physical laboratory notebooks or electronic labora-tory notebooks (ELN) like eLabFTW [1]), and the experimental data are either stored locally within the laboratories or on centralized institutional storage systems. As a result, the collected information often has to be tediously assembled for processing into publications. The workflow represented in Figure 1 addresses this suboptimal situation and promotes the combination of the image database OMERO [2], the ELN system eLabFTW, the research data management tool Adamant [3] and Python scripts for handling microscopy images in plasma life science and plasma medicine [4]. This workflow highlights how the developments from the NFDI4BIOIMAGE consortium can be brought into practical applications by addressing the specific demands of plasma science, where domain-specific metadata is essential for effective data interpretation and reuse. It showcases the benefits of FAIR [5] metadata combining do-main-specific requirements with method-specific solutions. Similar to most imaging workflows, image analysis in plasma research requires metadata from several sections of the experiment. Moreover, the plasma-related metadata are essential for the experimental context and must be included in the analysis, e.g. to describe the influence of plasma on the treated sample. Therefore, the metadata schema Plasma-MDS [6] is adapted to collect plasma-related metadata, such as information on the plasma species having a major impact on the treated samples. Alongside Plasma-MDS, the Recommended Metadata for Bio-logical Images (REMBI) standard [7] is used for the biological metadata such as the sample preparation and treatment procedures. The collection of these metadata is realized using Adamant, which enables the beginner-friendly collection of structured metadata. The tool presents JSON schemas in easy-to-read and easy-to-fill HTML forms, enabling metadata validation. Once completed and validated, the metadata are uploaded directly to eLabFTW using Adamant's workflow functionalities. The images from the treated samples are uploaded to OMERO by OMERO.insight and afterwards automatically annotated via Python scripts. These scripts take previously collected metadata from the related eLabFTW experiments and the microscope description metadata collected by the Micro Meta App [8], which are also stored in eLabFTW. The metadata is categorized and annotated according to the various data organizational levels within OMERO, specifically fo-cusing on project and dataset hierarchies, as well as screens that are composed of plates, which in turn contain wells. Screens resemble microwell plates, commonly used in a variety of biological experiments. The hieraic organization of metadata significantly enhances the ease of reusing images and associated metadata for subsequent processing and analysis. By efficiently distributing and reducing large metadata sets to an acceptable level, while simultaneously eliminating redun-dancies, this approach facilitates straightforward analyses with tools like ImageJ [9] and FIJI [10], thanks to the close association of metadata with the images themselves. In summary, one of the application-specific developments within the NFDI4BIOIMAGE consor-tium is presented, which contributes to the adoption of the FAIR principles in laboratory envi-ronments. Further work will address the integration of ontologies for the semantic description of data and metadata.
 
+Tags: Nfdi4Bioimage, Bioimage Analysis
+
 [https://zenodo.org/records/17092348](https://zenodo.org/records/17092348)
 
 [https://doi.org/10.5281/zenodo.17092348](https://doi.org/10.5281/zenodo.17092348)
@@ -5235,6 +5265,8 @@ Licensed CC-BY-4.0
 
 
 Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
@@ -8139,6 +8171,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
 [https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
@@ -8220,6 +8254,8 @@ Licensed CC-BY-4.0
 Presentation file used in the &nbsp;Open source AI Tools for bioimage analysis workshop @ICOB, Academia Sinica, Taiwan (2024)Introduce ilastik, StarDist, Cellpose, Segment Anything Model (SAM), and how to use it briefly.
 Full video recording (in Chinese) is available on YouTube: https://youtu.be/KqwssouW0G0
 This document is part III of the previous document:Chu, W.-C. (2024). Bioimage Analysis with FIJI /ImageJ &amp; Friends workshop (2024) @ICOB, Academia Sinica, Taiwan. Zenodo. https://doi.org/10.5281/zenodo.12803966
+
+Tags: Bioimage Analysis
 
 [https://zenodo.org/records/13284351](https://zenodo.org/records/13284351)
 
@@ -8436,7 +8472,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -8653,6 +8689,8 @@ Licensed CC-BY-4.0
 
 
 In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
+
+Tags: Nfdi4Bioimage, Bioimage Analysis
 
 [https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
 
@@ -10208,7 +10246,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -10327,6 +10365,8 @@ https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data
 Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
 In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
 
 [https://doi.org/10.5281/zenodo.15479606](https://doi.org/10.5281/zenodo.15479606)
@@ -10370,6 +10410,8 @@ Licensed CC-BY-4.0
 
 
 Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+Tags: Nfdi4Bioimage, Artificial Intelligence
 
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
@@ -10428,6 +10470,8 @@ git-bob
 napari-chatgpt
 bioimage.io chatbot
 
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
 
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
@@ -10555,6 +10599,8 @@ Licensed CC-BY-4.0
 
 
 At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml;sseldorf, Germany, we have established a workflow to guide users through all aspects of bioimaging. The process begins with an initial consultation with our imaging specialists regarding microscopy techniques for their specific project. Users then receive training in microscope operation, ensuring they can handle the equipment effectively. If needed, our specialists also provide support in image analysis. Next, we introduce users to OMERO, highlighting its features and the advantages of using a bioimage data management system. They are then trained to structure and annotate their data within OMERO according to the Recommended Metadata for Biological Images (REMBI), taking their specific research topics into account. As users prepare for data publication, we assist with data organization and repository uploads. Our goal is to educate researchers in managing bioimage data&nbsp;throughout its entire lifecycle, with a strong emphasis on the FAIR (findable, accessible, interoperable, reusable) principles.
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/14988921](https://zenodo.org/records/14988921)
 
@@ -10825,6 +10871,8 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
 [https://doi.org/10.5281/zenodo.14845059](https://doi.org/10.5281/zenodo.14845059)
@@ -10932,6 +10980,8 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
 [https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
@@ -10956,6 +11006,8 @@ For over 20 years, the Open Microscopy Environment (OME) has developed tools and
 In 2024, following expanding community engagement, the focus of the Next-Generation File Format (NGFF) community was on building consensus around a Request for Comments (RFC) process. This collaborative effort has laid the foundation for future refinements and wider adoption. In parallel, we hosted the &ldquo;OME2024 NGFF Challenge," bringing together over the course of just four months hundreds of terabytes of data in a first prototype of federated image hosting, showcasing the power of OME-Zarr for handling large-scale, distributed datasets.
 In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
 &nbsp;
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
 
@@ -11059,6 +11111,8 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
 [https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
@@ -11078,6 +11132,8 @@ Licensed CC-BY-4.0
 
 Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
 See http://nfdi.de/talks for more information.
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
 
@@ -11153,6 +11209,8 @@ Identify the dos and don'ts for bioimage data publication
 
 &nbsp;
 (taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
+
+Tags: Nfdi4Bioimage, Fair Principles, Research Data Management
 
 [https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
 
@@ -11326,6 +11384,8 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 

@@ -82,6 +82,8 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
 C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
 
 [https://doi.org/10.5281/zenodo.17014253](https://doi.org/10.5281/zenodo.17014253)

@@ -105,6 +105,8 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
 [https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)

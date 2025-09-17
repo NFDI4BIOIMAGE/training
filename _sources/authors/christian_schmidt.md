@@ -120,6 +120,8 @@ omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
 The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
 [https://doi.org/10.5281/zenodo.14832855](https://doi.org/10.5281/zenodo.14832855)
@@ -267,6 +269,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
 [https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
@@ -324,7 +328,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
 
 Content type: Publication
 
@@ -408,6 +412,8 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
 [https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
@@ -462,6 +468,8 @@ Identify the dos and don'ts for bioimage data publication
 
 &nbsp;
 (taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
+
+Tags: Nfdi4Bioimage, Fair Principles, Research Data Management
 
 [https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
 
@@ -635,6 +643,8 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
+
+Tags: Nfdi4Bioimage, Research Data Management
 
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 

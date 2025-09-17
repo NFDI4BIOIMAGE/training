@@ -1,4 +1,25 @@
 # Omero (38)
+## Accessible Interactive Spatial-Omics Data Visualizations with Vitessce and OMERO
+
+Bortolomeazzi Michele
+
+Published 2025-06-30
+
+Licensed CC-BY-4.0
+
+
+
+OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
+
+Tags: Nfdi4Bioimage, OMERO
+
+[https://zenodo.org/records/15771899](https://zenodo.org/records/15771899)
+
+[https://doi.org/10.5281/zenodo.15771899](https://doi.org/10.5281/zenodo.15771899)
+
+
+---
+
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -9,7 +30,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO
 
 Content type: Github Repository
 
@@ -499,7 +520,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -520,7 +541,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
+Pierre Pouchin, Rdornier, kekunn, jean-marie burel
 
 Licensed GPL-2.0
 
@@ -564,7 +585,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
 
 Content type: Publication
 
@@ -664,27 +685,6 @@ Tags: Data Management, OMERO
 Content type: Gitlab Repository
 
 [https://gitlab.in2p3.fr/fbi-data/omero-quay](https://gitlab.in2p3.fr/fbi-data/omero-quay)
-
-
----
-
-## omero-vitessce
-
-Michele Bortolomeazzi
-
-Published 2024-11-25T10:51:01+00:00
-
-Licensed AGPL-3.0
-
-
-
-OMERO.web plugin for the Vitessce multimodal data viewer.
-
-Tags: OMERO
-
-Content type: Github Repository
-
-[https://github.com/NFDI4BIOIMAGE/omero-vitessce](https://github.com/NFDI4BIOIMAGE/omero-vitessce)
 
 
 ---

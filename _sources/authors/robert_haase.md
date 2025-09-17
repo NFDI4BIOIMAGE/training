@@ -170,6 +170,8 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
 [https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
@@ -374,6 +376,8 @@ Artificial intelligence that can respond to GitHub issues
 
 
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
 
 [https://doi.org/10.5281/zenodo.15379632](https://doi.org/10.5281/zenodo.15379632)
@@ -485,6 +489,8 @@ Licensed CC-BY-4.0
 
 When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
+Tags: Nfdi4Bioimage, Artificial Intelligence
+
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
 [https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
@@ -540,6 +546,8 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
 Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
 
 [https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
@@ -1124,6 +1132,8 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
 
+Tags: Nfdi4Bioimage, Bioimage Analysis
+
 [https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
 
 [https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
@@ -1300,6 +1310,8 @@ Licensed CC-BY-4.0
 
 Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
 
+Tags: Nfdi4Bioimage, Artificial Intelligence
+
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
 [https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
@@ -1334,6 +1346,8 @@ git-bob
 napari-chatgpt
 bioimage.io chatbot
 
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
 
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 

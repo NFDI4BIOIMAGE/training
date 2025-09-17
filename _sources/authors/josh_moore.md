@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO
 
 Content type: Github Repository
 
@@ -49,6 +49,8 @@ Licensed CC-BY-4.0
 Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
 This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
 
 [https://doi.org/10.5281/zenodo.15756866](https://doi.org/10.5281/zenodo.15756866)
@@ -67,6 +69,8 @@ Licensed CC-BY-4.0
 
 
 Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
 
@@ -144,6 +148,8 @@ Licensed CC-BY-4.0
 
 Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
 [https://doi.org/10.5281/zenodo.15083018](https://doi.org/10.5281/zenodo.15083018)
@@ -170,7 +176,7 @@ Content type: Publication
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -234,6 +240,8 @@ Published 2025-02-21
 Licensed CC-BY-4.0
 
 
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
@@ -330,6 +338,8 @@ https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data
 Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
 In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
 
 [https://doi.org/10.5281/zenodo.15479606](https://doi.org/10.5281/zenodo.15479606)
@@ -387,7 +397,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis
 
 Content type: Publication
 
@@ -427,6 +437,8 @@ Licensed CC-BY-4.0
 
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
@@ -551,6 +563,8 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
 [https://doi.org/10.5281/zenodo.15393592](https://doi.org/10.5281/zenodo.15393592)
@@ -575,6 +589,8 @@ For over 20 years, the Open Microscopy Environment (OME) has developed tools and
 In 2024, following expanding community engagement, the focus of the Next-Generation File Format (NGFF) community was on building consensus around a Request for Comments (RFC) process. This collaborative effort has laid the foundation for future refinements and wider adoption. In parallel, we hosted the &ldquo;OME2024 NGFF Challenge," bringing together over the course of just four months hundreds of terabytes of data in a first prototype of federated image hosting, showcasing the power of OME-Zarr for handling large-scale, distributed datasets.
 In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
 &nbsp;
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
 
@@ -655,6 +671,8 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
 [https://doi.org/10.5281/zenodo.15031842](https://doi.org/10.5281/zenodo.15031842)
@@ -674,6 +692,8 @@ Licensed CC-BY-4.0
 
 Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
 See http://nfdi.de/talks for more information.
+
+Tags: Nfdi4Bioimage
 
 [https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
 
@@ -743,7 +763,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

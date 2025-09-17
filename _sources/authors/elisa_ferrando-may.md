@@ -166,6 +166,8 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
+Tags: Nfdi4Bioimage, Research Data Management
+
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 
 [https://doi.org/10.5281/zenodo.15026373](https://doi.org/10.5281/zenodo.15026373)

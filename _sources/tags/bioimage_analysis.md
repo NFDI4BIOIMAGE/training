@@ -1,4 +1,4 @@
-# Bioimage analysis (204)
+# Bioimage analysis (210)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -405,6 +405,27 @@ Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Pyth
 Content type: Notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Published 2025-07-10
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
+
+[https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
 
 
 ---
@@ -1317,6 +1338,28 @@ Content type: Documentation, Github Repository, Tutorial
 
 ---
 
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
+
+
+---
+
 ## FAIR BioImage Data
 
 Licensed CC-BY-4.0
@@ -1919,7 +1962,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -1958,6 +2001,27 @@ Tags: Imagej, Bioimage Analysis
 Content type: Slides
 
 [https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
+
+
+---
+
+## Linking of Research (Meta-)data in OMERO to Foster FAIR Data in Plasma Science
+
+Robert Wagner, Mohsen Ahmadi, Dagmar Waltemath, Kristina Yordanova, Becker, Markus M.
+
+Published 2025-09-10
+
+Licensed CC-BY-4.0
+
+
+
+Applied plasma research involves several disciplines such as physics, medicine and biology to solve application-oriented problems, often generating large and heterogeneous experimental data sets. The descriptions and metadata describing these interdisciplinary scientific investiga-tions is stored in distributed systems (e.g., physical laboratory notebooks or electronic labora-tory notebooks (ELN) like eLabFTW [1]), and the experimental data are either stored locally within the laboratories or on centralized institutional storage systems. As a result, the collected information often has to be tediously assembled for processing into publications. The workflow represented in Figure 1 addresses this suboptimal situation and promotes the combination of the image database OMERO [2], the ELN system eLabFTW, the research data management tool Adamant [3] and Python scripts for handling microscopy images in plasma life science and plasma medicine [4]. This workflow highlights how the developments from the NFDI4BIOIMAGE consortium can be brought into practical applications by addressing the specific demands of plasma science, where domain-specific metadata is essential for effective data interpretation and reuse. It showcases the benefits of FAIR [5] metadata combining do-main-specific requirements with method-specific solutions. Similar to most imaging workflows, image analysis in plasma research requires metadata from several sections of the experiment. Moreover, the plasma-related metadata are essential for the experimental context and must be included in the analysis, e.g. to describe the influence of plasma on the treated sample. Therefore, the metadata schema Plasma-MDS [6] is adapted to collect plasma-related metadata, such as information on the plasma species having a major impact on the treated samples. Alongside Plasma-MDS, the Recommended Metadata for Bio-logical Images (REMBI) standard [7] is used for the biological metadata such as the sample preparation and treatment procedures. The collection of these metadata is realized using Adamant, which enables the beginner-friendly collection of structured metadata. The tool presents JSON schemas in easy-to-read and easy-to-fill HTML forms, enabling metadata validation. Once completed and validated, the metadata are uploaded directly to eLabFTW using Adamant's workflow functionalities. The images from the treated samples are uploaded to OMERO by OMERO.insight and afterwards automatically annotated via Python scripts. These scripts take previously collected metadata from the related eLabFTW experiments and the microscope description metadata collected by the Micro Meta App [8], which are also stored in eLabFTW. The metadata is categorized and annotated according to the various data organizational levels within OMERO, specifically fo-cusing on project and dataset hierarchies, as well as screens that are composed of plates, which in turn contain wells. Screens resemble microwell plates, commonly used in a variety of biological experiments. The hieraic organization of metadata significantly enhances the ease of reusing images and associated metadata for subsequent processing and analysis. By efficiently distributing and reducing large metadata sets to an acceptable level, while simultaneously eliminating redun-dancies, this approach facilitates straightforward analyses with tools like ImageJ [9] and FIJI [10], thanks to the close association of metadata with the images themselves. In summary, one of the application-specific developments within the NFDI4BIOIMAGE consor-tium is presented, which contributes to the adoption of the FAIR principles in laboratory envi-ronments. Further work will address the integration of ontologies for the semantic description of data and metadata.
+
+Tags: Nfdi4Bioimage, Bioimage Analysis
+
+[https://zenodo.org/records/17092348](https://zenodo.org/records/17092348)
+
+[https://doi.org/10.5281/zenodo.17092348](https://doi.org/10.5281/zenodo.17092348)
 
 
 ---
@@ -2570,6 +2634,29 @@ Content type: Book, Notebook
 
 ---
 
+## Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica, Taiwan
+
+Wei-Chen Chu
+
+Published 2024-08-09
+
+Licensed CC-BY-4.0
+
+
+
+Presentation file used in the &nbsp;Open source AI Tools for bioimage analysis workshop @ICOB, Academia Sinica, Taiwan (2024)Introduce ilastik, StarDist, Cellpose, Segment Anything Model (SAM), and how to use it briefly.
+Full video recording (in Chinese) is available on YouTube: https://youtu.be/KqwssouW0G0
+This document is part III of the previous document:Chu, W.-C. (2024). Bioimage Analysis with FIJI /ImageJ &amp; Friends workshop (2024) @ICOB, Academia Sinica, Taiwan. Zenodo. https://doi.org/10.5281/zenodo.12803966
+
+Tags: Bioimage Analysis
+
+[https://zenodo.org/records/13284351](https://zenodo.org/records/13284351)
+
+[https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)
+
+
+---
+
 ## PoL Bio-Image Analysis Early Career Bio-image Analysis Training School
 
 
@@ -2742,6 +2829,27 @@ Content type: Slides
 
 ---
 
+## Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI
+
+Robert Haase
+
+Published 2025-09-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
+
+Tags: Nfdi4Bioimage, Bioimage Analysis
+
+[https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
+
+[https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
+
+
+---
+
 ## Rescaling images and pixel (an)isotropy
 
 Mara Lampert
@@ -2822,7 +2930,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
 
 Content type: Publication
 
@@ -2901,7 +3009,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -3148,6 +3256,43 @@ Content type: Github Repository, Collection
 
 ---
 
+## Vision Language Models for Bio-image Data Science
+
+Robert Haase
+
+Published 2025-06-25
+
+Licensed CC-BY-4.0
+
+
+
+In this talk, I demonstrate potential use-cases for vision-language models (VLM) in bio-image data science, focusing on how to analyse microscopy image data. It covers these use-cases:
+
+cell counting
+bounding-box segmentation
+image descriptions
+VLMs guessing which algorithm to use for processing
+Data analysis code generation
+Answering github issues&nbsp;
+
+The talk also points at a number of VLM-based open-source tools which start reshaping the scientific bio-image data science domain:
+
+bia-bob
+unprompted
+git-bob
+napari-chatgpt
+bioimage.io chatbot
+
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
+
+[https://doi.org/10.5281/zenodo.15735577](https://doi.org/10.5281/zenodo.15735577)
+
+
+---
+
 ## WebAtlas pipeline for integrated single cell and spatial transcriptomic data
 
 Tong Li, David Horsfall, Daniela Basurto-Lozada
@@ -3340,7 +3485,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis
 
 Content type: Publication
 

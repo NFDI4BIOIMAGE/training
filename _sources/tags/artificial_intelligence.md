@@ -1,4 +1,4 @@
-# Artificial intelligence (46)
+# Artificial intelligence (51)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -136,6 +136,27 @@ Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Pyth
 Content type: Notebook
 
 [https://github.com/ScaDS/BIDS-lecture-2024](https://github.com/ScaDS/BIDS-lecture-2024)
+
+
+---
+
+## Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI
+
+Robert Haase
+
+Published 2025-07-10
+
+Licensed CC-BY-4.0
+
+
+
+These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
+
+[https://doi.org/10.5281/zenodo.15858127](https://doi.org/10.5281/zenodo.15858127)
 
 
 ---
@@ -456,6 +477,27 @@ Content type: Book
 
 ---
 
+## Developing a Training Strategy
+
+Robert Haase
+
+Published 2024-11-08
+
+Licensed CC-BY-4.0
+
+
+
+When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
+
+Tags: Nfdi4Bioimage, Artificial Intelligence
+
+[https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
+
+[https://doi.org/10.5281/zenodo.14053758](https://doi.org/10.5281/zenodo.14053758)
+
+
+---
+
 ## Dr Guillaume Jacquemet on studying cancer cell metastasis in the era of deep learning for microscopy
 
 Guillaume Jacquemet
@@ -524,6 +566,28 @@ Tags: Python, Artificial Intelligence
 Content type: Notebook
 
 [https://github.com/kreshuklab/teaching-dl-course-2023](https://github.com/kreshuklab/teaching-dl-course-2023)
+
+
+---
+
+## Explainable AI for Computer Vision
+
+Robert Haase
+
+Published 2025-03-09
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
+Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
+
+[https://doi.org/10.5281/zenodo.14996127](https://doi.org/10.5281/zenodo.14996127)
 
 
 ---
@@ -755,6 +819,27 @@ Content type: Blog Post
 
 ---
 
+## Training Computational Skills in the Age of AI
+
+Robert Haase
+
+Published 2024-11-06
+
+Licensed CC-BY-4.0
+
+
+
+Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
+
+Tags: Nfdi4Bioimage, Artificial Intelligence
+
+[https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
+
+[https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+
+
+---
+
 ## Training Deep Learning Models for Vision - Compact Course
 
 Constantin Pape, Adrian Wolny
@@ -766,6 +851,43 @@ Licensed UNKNOWN
 Tags: Artificial Intelligence, Bioimage Analysis
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
+## Vision Language Models for Bio-image Data Science
+
+Robert Haase
+
+Published 2025-06-25
+
+Licensed CC-BY-4.0
+
+
+
+In this talk, I demonstrate potential use-cases for vision-language models (VLM) in bio-image data science, focusing on how to analyse microscopy image data. It covers these use-cases:
+
+cell counting
+bounding-box segmentation
+image descriptions
+VLMs guessing which algorithm to use for processing
+Data analysis code generation
+Answering github issues&nbsp;
+
+The talk also points at a number of VLM-based open-source tools which start reshaping the scientific bio-image data science domain:
+
+bia-bob
+unprompted
+git-bob
+napari-chatgpt
+bioimage.io chatbot
+
+
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+
+[https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
+
+[https://doi.org/10.5281/zenodo.15735577](https://doi.org/10.5281/zenodo.15735577)
 
 
 ---

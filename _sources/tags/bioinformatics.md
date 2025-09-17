@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO
 
 Content type: Github Repository
 

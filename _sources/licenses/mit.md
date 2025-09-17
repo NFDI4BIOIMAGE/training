@@ -72,6 +72,8 @@ Licensed MIT
 
 Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
 
+Tags: Nfdi4Bioimage
+
 [https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
 
 [https://doi.org/10.5281/zenodo.15047849](https://doi.org/10.5281/zenodo.15047849)

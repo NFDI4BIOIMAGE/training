@@ -1,4 +1,19 @@
-# Et al. (25)
+# Et al. (26)
+## A global view of standards for open image data formats and repositories
+
+J.R. Swedlow, P. Kankaanpää, U. Sarkans, et al.
+
+
+
+A comprehensive overview of existing standards for image data formats in biomedicine, including DICOM, OME-TIFF and NIfTI. It discusses standardisation challenges and provides recommendations for improving the interoperability and FAIRness of image data.
+
+Content type: Publication
+
+[https://doi.org/10.1038/s41592-021-01113-7](https://doi.org/10.1038/s41592-021-01113-7)
+
+
+---
+
 ## Best practice data life cycle approaches for the life sciences
 
 Philippa C. Griffin, Jyoti Khadake, Kate S. LeMay, Suzanna E. Lewis, Sandra Orchard, et al.
@@ -232,7 +247,7 @@ Content type: Slides, Code, Notebook
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
