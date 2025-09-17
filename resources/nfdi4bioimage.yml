@@ -6,6 +6,7 @@ resources:
   tags:
   - Sharing
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/07/26/sharing-your-poster-on-figshare/
@@ -19,6 +20,7 @@ resources:
   - Python
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://biapol.github.io/blog/marcelo_zoccoler/omero_scripts/readme.html
@@ -31,6 +33,7 @@ resources:
   tags:
   - OMERO
   - Python
+  - include in DALIA
   type:
   - Blog Post
   url: https://biapol.github.io/blog/robert_haase/browsing_idr/readme.html
@@ -44,6 +47,7 @@ resources:
   - Python
   - Conda
   - Mamba
+  - include in DALIA
   type:
   - Blog Post
   url: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
@@ -55,6 +59,7 @@ resources:
   proficiency_level: novice
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://datamanagement.hms.harvard.edu/news/promoting-data-management-nikon-imaging-center-and-cell-biology-microscopy-facility
@@ -65,6 +70,7 @@ resources:
   proficiency_level: novice
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://blog.delmic.com/data-handling-in-large-scale-electron-microscopy
@@ -77,6 +83,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/06/01/tracking-in-napari/
@@ -89,6 +96,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/
@@ -101,6 +109,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
@@ -114,6 +123,7 @@ resources:
   - Python
   - Conda
   - Mamba
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
@@ -126,6 +136,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
@@ -138,6 +149,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/
@@ -150,6 +162,7 @@ resources:
   - Metadata
   - Workflow
   - OMERO
+  - include in DALIA
   type:
   - Forum Post
   url: https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925/1
@@ -162,6 +175,7 @@ resources:
   - Github
   - Python
   - Science Communication
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
@@ -176,6 +190,7 @@ resources:
   - Bioimage Analysis
   - Prompt Engineering
   - Biabob
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/
@@ -183,6 +198,7 @@ resources:
 - name: TESS Event database
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Collection
   - Event
@@ -191,6 +207,7 @@ resources:
 - name: Global BioImaging Training Database
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Event
@@ -200,6 +217,7 @@ resources:
   tags:
   - OMERO
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   - Event
@@ -211,6 +229,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Event
   url: https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/
@@ -220,6 +239,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Python
+  - include in DALIA
   type:
   - Event
   - Notebook
@@ -230,6 +250,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Python
+  - include in DALIA
   type:
   - Event
   - Notebook
@@ -239,6 +260,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Research Data Management
+  - exclude from DALIA
   type:
   - Workshop
   url: https://www.dtls.nl/fair-data/byod/
@@ -247,6 +269,7 @@ resources:
   name: Workshop-June2024-Madrid
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Workshop
   - Collection
@@ -256,6 +279,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Workshop
   - Collection
@@ -265,6 +289,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Workshop
   - Collection
@@ -274,6 +299,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Workshop
   - Collection
@@ -287,6 +313,7 @@ resources:
   - Bioimage Analysis
   - OMERO
   - Research Data Management
+  - exclude from DALIA
   type:
   - Workshop
   url: https://doi.org/10.5281/zenodo.14013025
@@ -296,6 +323,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   url: https://github.com/German-BioImaging/RDM4mic/tree/master/presentations
@@ -304,6 +332,7 @@ resources:
   name: BioImage Informatics Index Training Materials
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   url: https://biii.eu/training-material
@@ -318,6 +347,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   - Notebook
@@ -332,6 +362,7 @@ resources:
   - Python
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   - Notebook
@@ -346,6 +377,7 @@ resources:
   - Python
   - Bioimage Analysis
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Slides
   url: https://f1000research.com/slides/12-971
@@ -356,11 +388,14 @@ resources:
   - Collection
   url: https://microscopydb.io/
   uuid: c513235e-203d-4521-b0fe-f3ca66db53e3
+  tags:
+  - exclude from DALIA
 - license: CC-BY-4.0
   name: OME Documentation
   proficiency_level: competent
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Documentation
   url: https://www.openmicroscopy.org/docs/
@@ -370,6 +405,7 @@ resources:
   proficiency_level: competent
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Documentation
   url: https://omero.readthedocs.io/en/stable/
@@ -379,6 +415,7 @@ resources:
   proficiency_level: competent
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Collection
   url: https://omero-guides.readthedocs.io/en/latest/
@@ -388,6 +425,7 @@ resources:
   proficiency_level: competent
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Document
   url: https://omero-guides.readthedocs.io/en/latest/example_facility_manager.html
@@ -397,6 +435,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Document
   url: https://omero-guides.readthedocs.io/en/latest/example.html
@@ -405,6 +444,7 @@ resources:
   name: Bio.tools database
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Collection
   url: https://bio.tools/
@@ -417,11 +457,14 @@ resources:
   - Collection
   url: https://gerbi-gmb.de/resources/teaching-resources/
   uuid: afdee7a7-edaf-4aef-9cef-f7ea92874d82
+  tags:
+  - exclude from DALIA
 - description: Research Data Management Information Portal in German
   license: PUBLIC DOMAIN
   name: Forschungsdaten.info
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Collection
   url: https://forschungsdaten.info/
@@ -431,6 +474,7 @@ resources:
   name: Forschungsdaten.org
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Collection
   url: https://www.forschungsdaten.org/
@@ -466,6 +510,7 @@ resources:
   proficiency_level: competent
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Book
   url:
@@ -518,6 +563,7 @@ resources:
   proficiency_level: proficient
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Document
   url:
@@ -534,6 +580,7 @@ resources:
   name: RDMKit Training Resources
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Collection
   url: https://rdmkit.elixir-europe.org/all_training_resources
@@ -542,6 +589,7 @@ resources:
   name: TESS training materials
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Collection
   url: https://tess.elixir-europe.org/materials
@@ -551,6 +599,7 @@ resources:
   name: I3D:bio list of online training material
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   url: https://gerbi-gmb.de/i3dbio/i3dbio-teaching/train-mat/bioimagelist/
@@ -563,6 +612,7 @@ resources:
   tags:
   - Cellprofiler
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/CellProfiler/tutorials
@@ -579,6 +629,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/dwaithe/ONBI_image_analysis
@@ -591,6 +642,7 @@ resources:
   tags:
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://syn.mrc-lmb.cam.ac.uk/acardona/fiji-tutorial/
@@ -604,6 +656,7 @@ resources:
   tags:
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis
@@ -617,6 +670,7 @@ resources:
   - Neubias
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_imagej2_dev
@@ -631,6 +685,7 @@ resources:
   - Neubias
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_multiview_registration
@@ -645,6 +700,7 @@ resources:
   - Neubias
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_tracking_trackmate
@@ -658,6 +714,7 @@ resources:
   - Neubias
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_pixels
@@ -671,6 +728,7 @@ resources:
   - Neubias
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/rhaase/lecture_working_with_objects_in_2d_and_3d
@@ -685,6 +743,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/Python_image_processing
@@ -697,6 +756,7 @@ resources:
   - Python
   - R
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/tpecot/DeepLearningBasedSegmentationForBiologists/
@@ -710,6 +770,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Collection
   url: https://www.fabriziomusacchio.com/teaching/teaching_bioimage_analysis/
@@ -721,6 +782,7 @@ resources:
   - Python
   - Napari
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Collection
   - Notebook
@@ -742,6 +804,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -755,6 +818,7 @@ resources:
 - name: Lund Declaration on Maximising the Benefits of Research Data
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Document
   url: https://www.regeringen.se/contentassets/55e7d8fbf6df4a54ac56942b98d94e4f/lund-declaration-on-maximising-the-benefits-of-research-data-pa-engelska.pdf
@@ -786,6 +850,8 @@ resources:
   - https://doi.org/10.1371/journal.pbio.3002167
   - https://www.bioimagingguide.org/
   uuid: 58d5dfa5-45a7-40e8-ae79-d791dee8af98
+  tags:
+  - include in DALIA
 - authors:
   - Vebjorn Ljosa
   - Katherine L Sokolnicki
@@ -799,6 +865,8 @@ resources:
   - https://www.nature.com/articles/nmeth.2083
   - https://bbbc.broadinstitute.org/
   uuid: 588a21e1-d159-4abb-92ad-6c492128c5e6
+  tags:
+  - exclude from DALIA
 - description: A tutorial explaining how to make Github repositories citable by automatically
     creating DOIs using the Github-Zenodo integration.
   name: Making your project citable
@@ -807,6 +875,7 @@ resources:
   - Sharing
   - Citing
   - Research Data Management
+  - include in DALIA
   type:
   - Tutorial
   url: https://coderefinery.github.io/github-without-command-line/doi/
@@ -819,6 +888,7 @@ resources:
   - Sharing
   - Citing
   - Research Data Management
+  - include in DALIA
   type:
   - Tutorial
   url: https://the-turing-way.netlify.app/communication/citable/citable-cff.html
@@ -834,6 +904,8 @@ resources:
   - Book
   url: https://the-turing-way.netlify.app/reproducible-research/reproducible-research
   uuid: 6d58f50d-dbeb-4b51-9bac-9fa77475866b
+  tags:
+  - include in DALIA
 - authors:
   - Kota Miura
   license: ALL RIGHTS RESERVED
@@ -841,6 +913,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url: https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf
@@ -854,10 +927,13 @@ resources:
   - https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/
   - https://doi.org/10.5281/zenodo.4915861
   uuid: 9d22ed68-d37b-46db-8e17-95ac37b04f36
+  tags:
+  - include in DALIA
 - license: UNKNOWN
   name: Cell Tracking Challenge - 2D Datasets
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Data
@@ -867,6 +943,7 @@ resources:
   name: Cell Tracking Challenge - 3D Datasets
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Data
@@ -879,6 +956,8 @@ resources:
   - Collection
   url: https://www.microlist.org/
   uuid: 0a02b3bf-2b99-4db1-8567-eb2be1087e4c
+  tags:
+  - exclude from DALIA
 - authors:
   - Robert Haase
   - Benoit Lombardot
@@ -889,6 +968,7 @@ resources:
   tags:
   - Imagej
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://git.mpi-cbg.de/scicomp/bioimage_team/coursematerialimageanalysis/tree/master/ImageJMacro_24h_2017-01
@@ -903,6 +983,7 @@ resources:
   - Imagej
   - Fiji
   - Bioimage Analysis
+  - include in DALIA
   url: https://github.com/mpicbg-scicomp/CourseIntroToIA
   uuid: 36fac73a-7148-4523-8163-490fecd9f9b8
 - license: CC-BY-4.0
@@ -911,6 +992,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url: https://neubias.github.io/training-resources/
@@ -920,6 +1002,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Artificial Intelligence
+  - exclude from DALIA
   type:
   - Collection
   url: https://bioimage.io/
@@ -933,6 +1016,8 @@ resources:
   - https://www.ebi.ac.uk/bioimage-archive/
   - https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791
   uuid: eabb170a-0bbd-40f1-b5fa-1ad296d738c5
+  tags:
+  - exclude from DALIA
 - name: Image Data Resources
   type:
   - Collection
@@ -942,11 +1027,14 @@ resources:
   - https://idr.openmicroscopy.org/
   - https://www.nature.com/articles/nmeth.4326
   uuid: 4d75a751-3c04-455f-aeff-16301adb434e
+  tags:
+  - exclude from DALIA
 - license: BSD-2-CLAUSE
   name: Omero Deployment examples
   proficiency_level: competent
   tags:
   - OMERO
+  - include in DALIA
   type:
   - Collection
   url: https://github.com/ome/omero-deployment-examples
@@ -962,6 +1050,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Workflow Engine
+  - exclude from DALIA
   type:
   - Publication
   url: https://ai4life.eurobioimaging.eu/announcing-bioengine/
@@ -974,6 +1063,7 @@ resources:
   tags:
   - Deployment
   - Python
+  - include in DALIA
   type:
   - Documentation
   url: https://kevinyamauchi.github.io/open-image-data/how_tos/conda_forge_packaging.html
@@ -986,6 +1076,7 @@ resources:
   - Artificial Intelligence
   - Workflow Engine
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Documentation
   url: https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/
@@ -1030,6 +1121,7 @@ resources:
   - Research Data Management
   - Nfdi4Bioimage
   - I3Dbio
+  - include in DALIA
   type:
   - Slides
   - Video
@@ -1057,6 +1149,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   url: https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples
   uuid: a545a3a1-9b11-4a69-9722-d1ff4ef92f88
 - license: ALL RIGHTS RESERVED
@@ -1064,6 +1157,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Online Tutorial
   url: https://www.edx.org/learn/image-analysis/ecole-polytechnique-federale-de-lausanne-image-processing-and-analysis-for-life-scientists
@@ -1076,10 +1170,13 @@ resources:
   - Book
   url: https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900
   uuid: e79b7717-a832-45cb-81fd-9613fd24105e
+  tags:
+  - exclude from DALIA
 - name: MorphoLibJ documentation
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Document
   url: https://imagej.net/plugins/morpholibj
@@ -1097,6 +1194,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis
@@ -1106,6 +1204,8 @@ resources:
   - Collection
   url: https://zmb.dozuki.com/c/Image_Analysis
   uuid: 996b1a9a-d440-4539-b08a-697f78598fa3
+  tags:
+  - include in DALIA
 - authors:
   - Guillaume Witz
   license: UNKNOWN
@@ -1113,6 +1213,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/Fundamentals_image_processing
@@ -1124,6 +1225,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/NumpyPandas_course
@@ -1135,6 +1237,7 @@ resources:
   - Python
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/neubias_academy_biapy
@@ -1147,6 +1250,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   - Collection
@@ -1161,6 +1265,8 @@ resources:
   - Tutorial
   url: https://github.com/VolkerH/Jupyter-Napari-Desktop
   uuid: 311cefa6-ab1b-46cc-88ff-8940601aac1e
+  tags:
+  - include in DALIA
 - authors:
   - Nicolas P. Rougier
   license: CC-BY-ND-SA-4.0
@@ -1168,6 +1274,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - include in DALIA
   type:
   - Book
   url:
@@ -1182,6 +1289,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   url: https://github.com/CamachoDejay/teaching-bioimage-analysis-python
@@ -1194,6 +1302,7 @@ resources:
   tags:
   - Fiji
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   url: https://github.com/CamachoDejay/Teaching-ImageJ-FIJI
@@ -1206,6 +1315,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/jni/halfway-to-i2k-skimage-napari
@@ -1219,6 +1329,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/scipy-2023-image-analysis/tutorial
@@ -1232,6 +1343,7 @@ resources:
   - Python
   - Bioimage Analysis
   - Big Data
+  - exclude from DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/DaskCourse
@@ -1245,6 +1357,7 @@ resources:
   - Python
   - Bioimage Analysis
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/DLImaging
@@ -1257,6 +1370,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/MICPy_Workshop_2022
@@ -1278,6 +1392,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Tutorial
@@ -1293,6 +1408,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Code
   url:
@@ -1309,6 +1425,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url: https://cshlpress.com/default.tpl?cart=1700309488232283050&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=1282
@@ -1327,6 +1444,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Code
@@ -1350,6 +1468,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Code
@@ -1369,6 +1488,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Code
@@ -1383,6 +1503,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Code
   url: https://github.com/marionlouveaux/NEUBIAS2018_TS7/
@@ -1396,6 +1517,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   - Book
@@ -1413,6 +1535,7 @@ resources:
   publication_date: 2014
   tags:
   - Bioimage Analysis
+  - include in DALIA
   url: https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md
   uuid: d389d6ec-2a3e-4743-9b4d-470e30a5e175
 - authors:
@@ -1424,6 +1547,8 @@ resources:
   - Slides
   url: https://github.com/tischi/presentation-image-analysis
   uuid: 1d327e7d-3a00-465c-81f2-8567fa78beb6
+  tags:
+  - exclude from DALIA
 - authors:
   - Jonas Hartmann
   license: MIT
@@ -1432,6 +1557,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   url:
   - https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
   uuid: c5f91915-684c-4017-8717-a551a386a163
@@ -1443,6 +1569,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - exclude from DALIA
   type:
   - Code
   - Notebook
@@ -1458,6 +1585,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - include in DALIA
   type:
   - Code
   - Notebook
@@ -1471,6 +1599,7 @@ resources:
   proficiency_level: competent
   tags:
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/karinsasaki/metabolic-networks-modelling
@@ -1486,6 +1615,7 @@ resources:
   - Neubias
   - Cellprofiler
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   url: https://github.com/tischi/cellprofiler-practical-NeuBIAS-Lisbon-2017
@@ -1499,6 +1629,7 @@ resources:
   tags:
   - Python
   - Big Data
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/tischi/i2k-2020-s3-zarr-workshop
@@ -1518,6 +1649,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Collection
   url:
@@ -1534,6 +1666,8 @@ resources:
   - Code
   url: https://datacarpentry.org/semester-biology/
   uuid: ed803904-1475-44ac-8baf-f70f020bdfd8
+  tags:
+  - include in DALIA
 - authors:
   - Valentyna Zinchenko
   - Pejman Rasti
@@ -1545,6 +1679,7 @@ resources:
   tags:
   - Python
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/kreshuklab/teaching-dl-course-2019
@@ -1561,6 +1696,7 @@ resources:
   tags:
   - Python
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/kreshuklab/teaching-dl-course-2023
@@ -1574,6 +1710,7 @@ resources:
   tags:
   - Python
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/kreshuklab/teaching-dl-course-2022
@@ -1588,6 +1725,7 @@ resources:
   tags:
   - Python
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/yandexdataschool/deep_vision_and_graphics
@@ -1602,6 +1740,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Tutorial
   url: https://github.com/kreshuklab/predoc-course
@@ -1613,6 +1752,8 @@ resources:
   name: Models and Applications for BioImage.IO
   url: https://github.com/imjoy-team/bioimage-io-resources
   uuid: 41ee7274-8f36-47b0-a10d-756958e8533d
+  tags:
+  - exclude from DALIA
 - authors:
   - Constantin Pape
   - Adrian Wolny
@@ -1622,6 +1763,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   url: https://github.com/constantinpape/training-deep-learning-models-for-vison
   uuid: a1083eed-99cd-4b4e-a5b2-1d8a1c8f919c
 - authors:
@@ -1632,6 +1774,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   url: https://github.com/constantinpape/dl-teaching-resources
   uuid: 054a206c-4d5a-4880-88f4-8f9a04c3b6a3
 - license: UNKNOWN
@@ -1640,6 +1783,8 @@ resources:
   - Code
   url: https://github.com/JaneliaSciComp/nf-demos
   uuid: b618291a-453d-4428-bf09-9b2c65e4f317
+  tags:
+  - include in DALIA
 - license: UNKNOWN
   name: Source Control Using Git and GitHub
   proficiency_level: advanced beginner
@@ -1647,6 +1792,8 @@ resources:
   - Tutorial
   url: https://github.com/JaneliaSciComp/2020AprilGitCourse
   uuid: 874845c6-486b-4f0e-8e05-b259c4650d4f
+  tags:
+  - include in DALIA
 - authors:
   - Lucas von Chamier
   - Romain F. Laine
@@ -1676,6 +1823,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Notebook
   - Collection
@@ -1692,6 +1840,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Notebook
   - Collection
@@ -1709,6 +1858,8 @@ resources:
   - https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2
   - https://github.com/guijacquemet/CellTracksColab
   uuid: 8782d088-e5fe-44f6-9e21-6c437c32b6ef
+  tags:
+  - exclude from DALIA
 - authors:
   - Christian Tischer
   description: Training materials about image registration, big warp and elastix
@@ -1716,6 +1867,8 @@ resources:
   name: Image analysis course material
   url: https://github.com/tischi/image-analysis-course-material
   uuid: 7edb6581-954d-4c70-80c9-fe027b4975ae
+  tags:
+  - include in DALIA
 - authors:
   - Guillaume Witz
   license: BSD-3-CLAUSE
@@ -1724,6 +1877,7 @@ resources:
   tags:
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/guiwitz/PyImageCourse_beginner
@@ -1737,6 +1891,7 @@ resources:
   - Neubias
   - Imagej Macro
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Code
@@ -1751,6 +1906,7 @@ resources:
   - Neubias
   - Cellprofiler
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://github.com/ahklemm/CellProfiler_Introduction
@@ -1765,6 +1921,7 @@ resources:
   - Python
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/maweigert/embo_2022
@@ -1782,6 +1939,7 @@ resources:
   - Neubias
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   - Notebook
@@ -1797,6 +1955,7 @@ resources:
   - Python
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/maweigert/stardist-i2k
@@ -1810,6 +1969,7 @@ resources:
   - Fiji
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/maweigert/zidas_2020_DL_intro_Part_2
@@ -1820,6 +1980,7 @@ resources:
   tags:
   - Cellprofiler
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   url: https://github.com/holgerhennig/machine-learning-IFC
@@ -1836,6 +1997,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url:
@@ -1854,6 +2016,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url:
@@ -1867,6 +2030,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Online Tutorial
   - Video
@@ -1884,6 +2048,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://github.com/esgomezm/NEUBIAS_chapter_DL_2020
@@ -1896,6 +2061,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://github.com/esgomezm/zidas2020_intro_DL
@@ -1908,6 +2074,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf
@@ -1923,6 +2090,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   - Notebook
@@ -1935,6 +2103,8 @@ resources:
   - Tutorial
   url: https://github.com/galaxyproject/training-material
   uuid: e683a2ff-a17d-4a56-96a9-2665ab6214a9
+  tags:
+  - exclude from DALIA
 - authors:
   - Anna Kreshuk
   - Dominik Kutra
@@ -1944,6 +2114,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.4330625
@@ -1957,6 +2128,8 @@ resources:
   - Collection
   url: https://zenodo.org/communities/eoss
   uuid: e4ef53ff-b622-4aec-9420-47889d7ca7fd
+  tags:
+  - exclude from DALIA
 - authors:
   - Floden Evan
   - Di Tommaso Paolo
@@ -1973,6 +2146,7 @@ resources:
   proficiency_level: competent
   tags:
   - Workflow Engine
+  - exclude from DALIA
   type:
   - Slides
   url:
@@ -1993,6 +2167,7 @@ resources:
   publication_date: '2020-12-16'
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2029,6 +2204,8 @@ resources:
   - Zhian Kamvar https://orcid.org/0000-0003-1458-7108
   - Toby Hodges https://orcid.org/0000-0003-1766-456X
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Guillaume Witz
   license: UNKNOWN
@@ -2037,6 +2214,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://docs.google.com/presentation/d/1q8q1xE-c35tvCsRXZay98s2UYWwXpp0cfCljBmMFpco/edit#slide=id.ga456d5535c_2_53
@@ -2050,6 +2228,8 @@ resources:
   - Slides
   url: https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1
   uuid: aac59f89-f407-43ec-9a94-aba1449fa447
+  tags:
+  - exclude from DALIA
 - authors:
   - Kota Miura
   license: UNKNOWN
@@ -2058,6 +2238,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0
@@ -2072,6 +2253,8 @@ resources:
   - Tutorial
   url: https://git.embl.de/oezdemir/course_scripts#ome-zarr-course
   uuid: e998d09e-06dd-431e-b907-478952aba42f
+  tags:
+  - exclude from DALIA
 - authors:
   - Ignacio Arganda-Carreras
   license: UNKNOWN
@@ -2081,6 +2264,7 @@ resources:
   - Neubias
   - Artificial Intelligence
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://docs.google.com/presentation/d/1oJoy9gHmUuSmUwCkPs_InJf_WZAzmLlUNvK1FUEB4PA/edit#slide=id.ge3a24e733b_0_54
@@ -2097,6 +2281,8 @@ resources:
   - https://f1000research.com/slides/11-1171
   - https://doi.org/10.7490/f1000research.1119154.1
   uuid: aa32c73b-4e59-4a86-96e4-668011813392
+  tags:
+  - include in DALIA
 - authors:
   - Beatriz Serrano-Solano
   - Björn Grüning
@@ -2105,6 +2291,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit#slide=id.p
@@ -2119,6 +2306,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf
@@ -2131,6 +2319,7 @@ resources:
   tags:
   - Neubias
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   url: https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf
@@ -2146,6 +2335,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Notebook
   url: https://github.com/hereariim/DEEP-NAPARI
@@ -2161,6 +2351,7 @@ resources:
   - Napari
   - Python
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Book
   - Notebook
@@ -2180,6 +2371,7 @@ resources:
   - Python
   - Bioimage Analysis
   - Napari
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/BiAPoL/Bio-image_Analysis_with_Python
@@ -2200,6 +2392,7 @@ resources:
   tags:
   - Research Data Management
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2226,6 +2419,7 @@ resources:
   tags:
   - artificial intelligence
   - Python
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2257,6 +2451,7 @@ resources:
   - Clesperanto
   - Dask
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis/
@@ -2273,6 +2468,7 @@ resources:
   - artificial intelligence
   - Bio-Image Analysis
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/ScaDS/BIDS-lecture-2024
@@ -2288,6 +2484,7 @@ resources:
   tags:
   - artificial intelligence
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://github.com/computational-cell-analytics/dl-for-micro
@@ -2306,6 +2503,7 @@ resources:
   tags:
   - Napari
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://zoccoler.github.io/QM_Course_Bio_Image_Analysis_with_napari_2024
@@ -2322,6 +2520,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Python
+  - include in DALIA
   type:
   - Notebook
   url: https://bethac07.github.io/qi_2024_analysis_lab_manual/intro.html
@@ -2338,6 +2537,7 @@ resources:
   proficiency_level: competent
   tags:
   - Teaching
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2363,6 +2563,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Teaching
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2383,6 +2584,7 @@ resources:
   publication_date: '2023-10-16'
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Slides
   url:
@@ -2403,6 +2605,7 @@ resources:
   - Image Registration
   - Itk
   - Elastix
+  - include in DALIA
   type:
   - Notebook
   - Collection
@@ -2416,6 +2619,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Napari
+  - include in DALIA
   type:
   - Slides
   url: https://thejacksonlaboratory.github.io/intro-napari-slides/#/section
@@ -2429,6 +2633,7 @@ resources:
   tags:
   - bioimage analysis
   - artificial intelligence
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/gletort/NeubiasPasteur2023_AdvancedCellPose
@@ -2463,6 +2668,7 @@ resources:
   - BioImage Analysis
   - Python
   - artificial intelligence
+  - include in DALIA
   type:
   - Video
   - Slides
@@ -2501,6 +2707,7 @@ resources:
   - FAIR-Principles
   - Git
   - Zenodo
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2529,6 +2736,7 @@ resources:
   - Open Access
   - FAIR-Principles
   - Licensing
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2554,6 +2762,7 @@ resources:
   proficiency_level: novice
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2584,6 +2793,7 @@ resources:
   - Research Data Management
   - Licensing
   - FAIR-Principles
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2607,6 +2817,7 @@ resources:
   - artificial intelligence
   - FAIR-Principles
   - BioImage Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://f1000research.com/slides/13-147
@@ -2617,6 +2828,7 @@ resources:
   tags:
   - Bioimage Analysis
   - artificial intelligence
+  - exclude from DALIA
   type:
   - Collection
   - Data
@@ -2626,6 +2838,7 @@ resources:
   name: BioImage Archive Visual Gallery
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Data
@@ -2635,6 +2848,7 @@ resources:
   name: BioImage Archive Volume EM Gallery
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Data
@@ -2657,6 +2871,7 @@ resources:
   - Notebooks
   - Python
   - OMERO
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/rmassei/2024-jn-omero-pipeline
@@ -2673,6 +2888,7 @@ resources:
   - Bioimage Analysis
   - Diffusion Models
   - Tu Dresden
+  - exclude from DALIA
   type:
   - Presentation
   url: https://drive.google.com/file/d/1pPVUUMi5w2Ojw_SaBzSQVaXUuIKtQ7Ma/view
@@ -2698,6 +2914,7 @@ resources:
   - Bioimage Analysis
   - FAIR-Principles
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   - Tutorial
@@ -2730,6 +2947,7 @@ resources:
   - Bioimage Analysis
   - FAIR-Principles
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   - Tutorial
@@ -2786,6 +3004,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -2821,6 +3040,7 @@ resources:
   - Research Data Management
   - FAIR-Principles
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10687658
@@ -2850,6 +3070,7 @@ resources:
     for metadata annotation and management in high-content screening (HCS) bioimaging
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Poster
   url: https://doi.org/10.5281/zenodo.8434325
@@ -2881,6 +3102,7 @@ resources:
   tags:
   - Research Data Management
   - FAIR-Principles
+  - exclude from DALIA
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.8349562
@@ -2916,6 +3138,7 @@ resources:
   - Research Data Management
   - Bioimage Analysis
   - Data Science
+  - exclude from DALIA
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.8340247
@@ -2940,6 +3163,7 @@ resources:
   - OMERO
   - Data Analysis
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Collection
   url: https://zenodo.org/doi/10.5281/zenodo.8139353
@@ -2967,6 +3191,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Flim
+  - include in DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10886749
@@ -2987,6 +3212,7 @@ resources:
   name: Hackaton Results - Conversion of KNIME image analysis workflows to Galaxy
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10793699
@@ -3016,6 +3242,7 @@ resources:
   tags:
   - Bioimage Analysis
   - artificial intelligence
+  - exclude from DALIA
   type:
   - Slides
   url:
@@ -3044,6 +3271,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3072,6 +3300,7 @@ resources:
   tags:
   - Research Data Management
   - Data Stewardship
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3101,6 +3330,7 @@ resources:
   - FAIR-Principles
   - Bioimage Analysis
   - Licensing
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3128,6 +3358,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3160,6 +3391,7 @@ resources:
   tags:
   - Research Data Management
   - Licensing
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3188,6 +3420,7 @@ resources:
   - Research Data Management
   - Data Protection
   - FAIR-Principles
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3221,6 +3454,7 @@ resources:
   tags:
   - Research Data Management
   - Data Protection
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3262,6 +3496,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3311,6 +3546,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3348,6 +3584,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url:
@@ -3377,6 +3614,7 @@ resources:
   - Bioimage Analysis
   - artificial intelligence
   - Python
+  - exclude from DALIA
   type:
   - Slides
   url:
@@ -3398,6 +3636,7 @@ resources:
   - Bioimage Analysis
   - artificial intelligence
   - Python
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/ScaDS/BIDS-lecture-2024/
@@ -3426,6 +3665,7 @@ resources:
   - Open Source Software
   - Funding
   - Sustainability
+  - exclude from DALIA
   type:
   - Publication
   url:
@@ -3447,6 +3687,7 @@ resources:
   tags:
   - Reproducibility
   - Research Data Management
+  - include in DALIA
   type:
   - Book
   url:
@@ -3465,6 +3706,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Poster
   - Publication
@@ -3484,6 +3726,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://f1000research.com/articles/11-638
@@ -3496,6 +3739,7 @@ resources:
   tags:
   - Sharing
   - Research Data Management
+  - include in DALIA
   type:
   - Slides
   url: https://f1000research.com/slides/10-519
@@ -3511,6 +3755,7 @@ resources:
   tags:
   - Licensing
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
@@ -3524,6 +3769,7 @@ resources:
   tags:
   - Sharing
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
@@ -3538,6 +3784,7 @@ resources:
   tags:
   - Sharing
   - Research Data Management
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/
@@ -3553,6 +3800,7 @@ resources:
   - Nfdi4Bioimage
   - OMERO
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000267/
@@ -3566,6 +3814,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   url: https://doi.org/10.1515/hsz-2022-0304
@@ -3578,6 +3827,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   - Conference Abstract
@@ -3603,6 +3853,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - include in DALIA
   type:
   - Video
   url:
@@ -3620,6 +3871,7 @@ resources:
   name: The Fiji Updater
   tags:
   - Imagej
+  - exclude from DALIA
   type:
   - Publication
   url: https://analyticalscience.wiley.com/do/10.1002/was.0004000112/
@@ -3636,6 +3888,7 @@ resources:
   tags:
   - Imagej
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   url: https://doi.org/10.1038/s41592-019-0650-1
@@ -3659,6 +3912,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Publication
   url: https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451
@@ -3675,6 +3929,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13192
@@ -3697,6 +3952,8 @@ resources:
   - Publication
   url: https://doi.org/10.1038/s41592-022-01602-3
   uuid: 1b9fce5b-f39f-4ef1-b479-3a5fa3ef51b7
+  tags:
+  - exclude from DALIA
 - authors:
   - Florian Levet
   - Anne E. Carpenter
@@ -3712,6 +3969,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Neubias
+  - include in DALIA
   type:
   - Publication
   url: https://f1000research.com/articles/10-302
@@ -3729,6 +3987,7 @@ resources:
     Collaboration'
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Publication
   url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.889755/full
@@ -3753,6 +4012,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Neubias
+  - include in DALIA
   type:
   - Publication
   url: https://f1000research.com/articles/10-334/v1
@@ -3770,6 +4030,7 @@ resources:
   tags:
   - Research Data Management
   - Metadata
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01288-z
@@ -3783,6 +4044,7 @@ resources:
     assessment and reproducibility for instruments and images in light microscopy'
   tags:
   - Quareo-Limi
+  - include in DALIA
   type:
   - Publication
   url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13041
@@ -3808,6 +4070,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01326-w
@@ -3819,6 +4082,7 @@ resources:
   name: 'NFDI4BIOIMAGE: Perspective for a national bioimaging standard'
   tags:
   - Nfdi4Bioimage
+  - exclude from DALIA
   type:
   - Publication
   url: https://ceur-ws.org/Vol-3415/paper-27.pdf
@@ -3842,6 +4106,7 @@ resources:
   name: 'SpatialData: an open and universal data framework for spatial omics'
   tags:
   - Python
+  - exclude from DALIA
   type:
   - Publication
   - Preprint
@@ -3906,6 +4171,7 @@ resources:
   name: Community-developed checklists for publishing images and image analyses
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-023-01987-9
@@ -3923,6 +4189,7 @@ resources:
   tags:
   - Research Data Management
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   url: https://doi.org/10.1093/bioinformatics/btab106
@@ -3970,6 +4237,7 @@ resources:
     data, and formats (update 2020)'
   tags:
   - Metadata
+  - include in DALIA
   type:
   - Publication
   - Poster
@@ -3985,6 +4253,7 @@ resources:
   tags:
   - Research Data Management
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url:
@@ -4002,6 +4271,7 @@ resources:
   - Research Data Management
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url: https://f1000research.com/slides/12-1054
@@ -4036,6 +4306,7 @@ resources:
   - OMERO
   - Python
   - Research Data Management
+  - exclude from DALIA
   type:
   - Event
   - Publication
@@ -4054,6 +4325,7 @@ resources:
   - OMERO
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - exclude from DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10008464
@@ -4073,6 +4345,7 @@ resources:
   - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url:
@@ -4115,6 +4388,7 @@ resources:
   - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - exclude from DALIA
   type:
   - Github repository
   url: https://zenodo.org/doi/10.5281/zenodo.10609770
@@ -4153,6 +4427,7 @@ resources:
   - FAIR-Principles
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.11235512
@@ -4170,6 +4445,7 @@ resources:
   tags:
   - Research Data Management
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.8329305
@@ -4193,6 +4469,7 @@ resources:
   - Research Data Management
   - FAIR-Principles
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.7928332
@@ -4216,6 +4493,7 @@ resources:
   - Research Data Management
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - exclude from DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.8414318
@@ -4240,6 +4518,7 @@ resources:
   - Bioimage Analysis
   - Data Stewardship
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Poster
   url: https://zenodo.org/doi/10.5281/zenodo.10730423
@@ -4263,6 +4542,7 @@ resources:
   - Research Data Management
   - Bioimage Analysis
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.10939519
@@ -4283,6 +4563,7 @@ resources:
   - FAIR-Principles
   - Zarr
   - Nfdi4Bioimage
+  - include in DALIA
   type:
   - Slides
   url: https://zenodo.org/doi/10.5281/zenodo.11031746
@@ -4401,6 +4682,8 @@ resources:
   - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Josh Moore
   description: Presentation made to the GBI Image Data Management Working Group during
@@ -4417,6 +4700,8 @@ resources:
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Jonathan Geiger
   - Petra Steiner
@@ -4470,6 +4755,8 @@ resources:
   - Abdelmoneim Amer Desouki https://orcid.org/0000-0003-2083-1277
   - Frank Lange https://orcid.org/0000-0002-9346-6031
   file_formats: .csv * .ods * .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Joel Ryan
   - Thomas Pengo
@@ -4485,6 +4772,7 @@ resources:
     microscopy methods text'
   tags:
   - Metadata
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-021-01290-5
@@ -4496,6 +4784,7 @@ resources:
     on community specifications'
   tags:
   - Metadata
+  - exclude from DALIA
   type:
   - Publication
   url: https://doi.org/10.1038/s41592-021-01315-z
@@ -4507,6 +4796,7 @@ resources:
   publication_date: 2010
   tags:
   - Metadata
+  - include in DALIA
   type:
   - Publication
   url: https://rupress.org/jcb/article/189/5/777/35828/Metadata-matters-access-to-image-data-in-the-real
@@ -4523,6 +4813,7 @@ resources:
   name: A call for public archives for biological image data
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41592-018-0195-8
@@ -4538,6 +4829,7 @@ resources:
   publication_date: 2021
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   url:
@@ -4558,6 +4850,7 @@ resources:
   publication_date: 2023
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   - Preprint
@@ -4574,6 +4867,7 @@ resources:
   publication_date: 2023
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   - Preprint
@@ -4592,6 +4886,7 @@ resources:
   name: Building a FAIR image data ecosystem for microscopy communities
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://link.springer.com/article/10.1007/s00418-023-02203-7
@@ -4608,6 +4903,7 @@ resources:
     Fiji
   tags:
   - Imagej
+  - exclude from DALIA
   type:
   - Publication
   - Poster
@@ -4619,6 +4915,7 @@ resources:
     course
   tags:
   - Sharing
+  - exclude from DALIA
   type:
   - Preprint
   url: https://www.biorxiv.org/content/10.1101/2023.10.09.561479v1
@@ -4631,6 +4928,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Notebook
+  - include in DALIA
   type:
   - Publication
   url:
@@ -4651,6 +4949,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   url:
@@ -4671,6 +4970,7 @@ resources:
   - FAIR-Principles
   - Machine Learning
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   url: https://doi.org/10.1016/j.vibspec.2024.103685
@@ -4686,6 +4986,7 @@ resources:
   tags:
   - Workflow Engine
   - Imagej
+  - exclude from DALIA
   type:
   - Publication
   - Documentation
@@ -4704,6 +5005,7 @@ resources:
   tags:
   - Workflow Engine
   - Imagej
+  - exclude from DALIA
   type:
   - Publication
   - Documentation
@@ -4720,6 +5022,7 @@ resources:
   tags:
   - Workflow Engine
   - Python
+  - exclude from DALIA
   type:
   - Documentation
   url: https://biapy.readthedocs.io/
@@ -4729,6 +5032,7 @@ resources:
   name: Galaxy Documentation
   tags:
   - Workflow Engine
+  - exclude from DALIA
   type:
   - Documentation
   url: https://usegalaxy.org/
@@ -4739,6 +5043,7 @@ resources:
   tags:
   - Workflow Engine
   - Python
+  - exclude from DALIA
   type:
   - Documentation
   url: https://fractal-analytics-platform.github.io/
@@ -4749,6 +5054,7 @@ resources:
   tags:
   - Workflow Engine
   - Python
+  - exclude from DALIA
   type:
   - Documentation
   url:
@@ -4766,6 +5072,7 @@ resources:
   tags:
   - Workflow Engine
   - Imagej
+  - exclude from DALIA
   type:
   - Publication
   - Documentation
@@ -4778,6 +5085,7 @@ resources:
   name: NextFlow documentation
   tags:
   - Workflow Engine
+  - exclude from DALIA
   type:
   - Documentation
   url: https://www.nextflow.io/
@@ -4787,6 +5095,7 @@ resources:
   name: NextFlow core
   tags:
   - Python
+  - exclude from DALIA
   type:
   - Collection
   url: https://nf-co.re/
@@ -4805,6 +5114,7 @@ resources:
   - Workflow Engine
   - artificial intelligence
   - Python
+  - exclude from DALIA
   type:
   - Documentation
   url: https://bioimage-io.github.io/bioengine/#/
@@ -4814,6 +5124,7 @@ resources:
   name: NEUBIAS YouTube Channel
   tags:
   - Neubias
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4827,6 +5138,7 @@ resources:
   proficiency_level: novice
   tags:
   - Python
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4840,10 +5152,13 @@ resources:
   - Video
   url: https://www.youtube.com/GlobalBioImaging
   uuid: 8a9b4487-b9cd-4e53-bc86-7c017ce47b40
+  tags:
+  - exclude from DALIA
 - name: Bio Image Analysis Lecture 2020
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4856,6 +5171,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - OMERO
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4868,11 +5184,14 @@ resources:
   - Video
   url: https://www.youtube.com/c/eurobioimagingcommunication
   uuid: 94c3cde7-d369-4d9d-9a98-c0735ec9bee5
+  tags:
+  - exclude from DALIA
 - license: CC BY-NC-ND 3.0 DEED
   name: Ibiology. Bioimage Analysis Course. The Life Cycle of an Image Data Set
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4881,6 +5200,7 @@ resources:
 - name: 'COBA: Center for Open Bioimage Analysis YouTube Channel'
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4891,6 +5211,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4900,6 +5221,7 @@ resources:
   proficiency_level: novice
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4910,6 +5232,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4920,6 +5243,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4931,12 +5255,16 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1
   uuid: c29935a8-902a-4c0c-876f-c4ab113c171a
+  tags:
+  - exclude from DALIA
 - name: How to get started with Jupyter and Colab
   proficiency_level: advanced beginner
   type:
   - Video
   url: https://www.youtube.com/watch?v=OH3VKI7ErAE
   uuid: 0bb670fb-a51b-4091-86f8-d062b209784a
+  tags:
+  - exclude from DALIA
 - license: UNKNOWN
   name: Chris Halvin YouTube channel
   proficiency_level: advanced beginner
@@ -4944,6 +5272,7 @@ resources:
   - Napari
   - Python
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4957,6 +5286,7 @@ resources:
   tags:
   - Research Data Management
   - OMERO
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4970,6 +5300,7 @@ resources:
   - Research Data Management
   - Fair
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Video
@@ -4994,6 +5325,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Artificial Intelligence
+  - include in DALIA
   url:
   - https://zenodo.org/records/13379394
   - https://doi.org/10.5281/zenodo.13379394
@@ -5022,6 +5354,8 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx * .zip
+  tags:
+  - include in DALIA
 - authors:
   - Robert Haase
   description: This talk will present the initiatives of the NFDI4BioImage consortium
@@ -5044,6 +5378,8 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
+  tags:
+  - exclude from DALIA
 - authors:
   - Matúš Kalaš et al.
   description: EDAM-bioimaging is an extension of the EDAM ontology, dedicated to
@@ -5054,6 +5390,7 @@ resources:
   tags:
   - Ontology
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Poster
   url: https://hal.science/hal-02267597/document
@@ -5074,6 +5411,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   - Preprint
@@ -5090,6 +5428,7 @@ resources:
   tags:
   - OMERO
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Github repository
   url: https://biapol.github.io/omero-tools/
@@ -5106,6 +5445,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Instance Segmentation
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/juglab/EmbedSeg
@@ -5118,6 +5458,7 @@ resources:
   name: Scipy Cookbook
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/scipy/scipy-cookbook
@@ -5131,6 +5472,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Simpleitk
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks
@@ -5145,6 +5487,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Scikit-Image
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/scikit-image/skimage-tutorials
@@ -5158,6 +5501,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Machine Learning
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/INRIA/scikit-learn-mooc
@@ -5170,6 +5514,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Natural Language Processing
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/yandexdataschool/nlp_course
@@ -5189,6 +5534,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Research Data Management
+  - include in DALIA
   type:
   - Notebook
   - Collection
@@ -5204,6 +5550,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Collection
   url: https://www.ebi.ac.uk/training/on-demand?facets=type:Course%20materials&query=
@@ -5335,6 +5682,8 @@ resources:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
   file_formats: .ijm * .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Riccardo Massei
   description: 'YMIA python event 2024
@@ -5353,6 +5702,8 @@ resources:
   authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .odp
+  tags:
+  - include in DALIA
 - authors:
   - Robert Haase
   description: In this presentation I introduce bia-bob, an AI-based code generator
@@ -5367,6 +5718,7 @@ resources:
   tags:
   - artificial intelligence
   - bioimage analysis
+  - include in DALIA
   url:
   - https://zenodo.org/records/13908108
   - https://doi.org/10.5281/zenodo.13908108
@@ -5385,6 +5737,7 @@ resources:
   name: Ghent University Research Data Management (RDM) - policy and support
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Website
   url: https://www.ugent.be/en/research/openscience/datamanagement
@@ -5399,6 +5752,7 @@ resources:
   name: RDM Starter Kit
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Website
   url: https://www.go-fair.org/resources/rdm-starter-kit/
@@ -5411,6 +5765,7 @@ resources:
   name: Hitchhiking through a diverse Bio-image Analysis Software Universe
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Slides
   - Presentation
@@ -5431,6 +5786,7 @@ resources:
   - Research Data Management
   - Open Science
   - Data Protection
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2017-01-09'
@@ -5451,6 +5807,7 @@ resources:
   tags:
   - FAIR-Principles
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2016-03-15'
@@ -5476,6 +5833,7 @@ resources:
   - Data Stewardship
   - FAIR-Principles
   - Metadata
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2022-11-12'
@@ -5503,6 +5861,7 @@ resources:
   - Reproducibility
   - BioImage Analysis
   - Metadata
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2022-07-10'
@@ -5527,6 +5886,7 @@ resources:
   tags:
   - Metadata
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2021-05-21'
@@ -5554,6 +5914,7 @@ resources:
   - Research Data Management
   - Sharing
   - Open Science
+  - include in DALIA
   type:
   - Publication
   num_downloads: 1615
@@ -5572,6 +5933,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Conference Abstract
   - Slides
@@ -5587,6 +5949,7 @@ resources:
   tags:
   - Data Life Cycle
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   - Website
@@ -5598,6 +5961,7 @@ resources:
   tags:
   - Data Life Cycle
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   url: https://tess.elixir-europe.org/search?q=data+life+cycle#materials
@@ -5614,6 +5978,7 @@ resources:
   name: Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   publication_date: ' 2018-10-22'
@@ -5634,6 +5999,7 @@ resources:
   tags:
   - Research Data Management
   - FAIR-Principles
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2018-07-13'
@@ -5646,6 +6012,7 @@ resources:
   name: Guidance for Developing a Research Data Management (RDM) Policy
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Book
   num_downloads: 545
@@ -5664,6 +6031,7 @@ resources:
   - Open Source
   - Research Data Management
   - FAIR-Principles
+  - exclude from DALIA
   type:
   - Website
   - Online Tutorial
@@ -5676,6 +6044,7 @@ resources:
   tags:
   - Research Data Management
   - Open Source Software
+  - exclude from DALIA
   type:
   - Website
   - Online Tutorial
@@ -5692,6 +6061,7 @@ resources:
   tags:
   - Research Data Management
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Blog Post
   publication_date: '2023-11-06'
@@ -5717,6 +6087,7 @@ resources:
   - Open Science
   - Open Access
   - Copyright
+  - include in DALIA
   type:
   - Book
   publication_date: '2021-05-25'
@@ -5731,6 +6102,7 @@ resources:
   tags:
   - Imagej
   - OMERO
+  - exclude from DALIA
   type:
   - Online Tutorial
   url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html
@@ -5744,6 +6116,7 @@ resources:
   - Metadata
   - I3Dbio
   - Research Data Management
+  - exclude from DALIA
   type:
   - Collection
   url:
@@ -5755,6 +6128,7 @@ resources:
   name: Key-Value pairs scripts
   tags:
   - OMERO
+  - exclude from DALIA
   type:
   - Documentation
   - Collection
@@ -5776,6 +6150,7 @@ resources:
     for informatics and quantitative analysis in biological imaging
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2005-05-03'
@@ -5798,6 +6173,7 @@ resources:
     Data
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   num_downloads: 768
@@ -5812,6 +6188,7 @@ resources:
   - FAIR-Principles
   - Metadata
   - Research Data Management
+  - include in DALIA
   type:
   - Collection
   url: https://www.ebi.ac.uk/bioimage-archive/rembi-help-overview/
@@ -5834,6 +6211,7 @@ resources:
   - FAIR-Principles
   - Metadata
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2023-07-17'
@@ -5851,6 +6229,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Documentation
   - Document
@@ -5874,6 +6253,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Open Science
+  - include in DALIA
   type:
   - Collection
   url: http://opendatahandbook.org/guide/en/what-is-open-data/
@@ -5887,6 +6267,7 @@ resources:
   tags:
   - Research Data Management
   - Sharing
+  - include in DALIA
   type:
   - Blog Post
   publication_date: '2022-03-18'
@@ -5902,6 +6283,7 @@ resources:
   - Research Data Management
   - FAIR-Principles
   - Licensing
+  - exclude from DALIA
   type:
   - Tutorial
   url: https://www.publisso.de/en/advice/publishing-advice-faqs/research-data
@@ -5917,6 +6299,7 @@ resources:
   tags:
   - I3Dbio
   - Research Data Management
+  - include in DALIA
   type:
   - Tutorial
   publication_date: '2023-07-01'
@@ -5930,6 +6313,7 @@ resources:
   name: re3data.org - registry of Research Data Repositories
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Website
   url: https://www.re3data.org/
@@ -5946,6 +6330,7 @@ resources:
   - FAIR-Principles
   - Data Stewardship
   - Research Data Management
+  - include in DALIA
   type:
   - Collection
   url: https://www.go-fair.org/fair-principles/
@@ -5959,6 +6344,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Tutorial
   - Video
@@ -5977,6 +6363,7 @@ resources:
   name: The BioImage Archive – Building a Home for Life-Sciences Microscopy Data
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2022-06-22'
@@ -5993,6 +6380,7 @@ resources:
   tags:
   - Nfdi4Bioimage
   - Research Data Management
+  - exclude from DALIA
   type:
   - Website
   url: https://www.nfdi.de/
@@ -6014,6 +6402,7 @@ resources:
   - Metadata
   - Bioinformatics
   - FAIR-Principles
+  - include in DALIA
   type:
   - Publication
   num_downloads: 4311
@@ -6034,6 +6423,7 @@ resources:
   - FAIR-Principles
   - Data Stewardship
   - Sharing
+  - exclude from DALIA
   type:
   - Publication
   publication_date: '2018-05-17'
@@ -6046,6 +6436,7 @@ resources:
   - Research Data Management
   - Bioimage Analysis
   - Open Science
+  - include in DALIA
   type:
   - Slides
   - Presentation
@@ -6060,6 +6451,7 @@ resources:
   tags:
   - Research Data Management
   - Dataplant
+  - include in DALIA
   type:
   - Collection
   publication_date: '2022-12-14'
@@ -6073,6 +6465,7 @@ resources:
   name: NGFF Converter
   tags:
   - Open Source Software
+  - exclude from DALIA
   type:
   - Application
   url: https://www.glencoesoftware.com/products/ngff-converter/
@@ -6090,6 +6483,7 @@ resources:
   name: bioformats2raw Converter
   tags:
   - Open Source Software
+  - exclude from DALIA
   type:
   - Application
   - Github repository
@@ -6106,6 +6500,7 @@ resources:
   name: raw2ometiff Converter
   tags:
   - Open Source Software
+  - exclude from DALIA
   type:
   - Application
   - Github repository
@@ -6119,6 +6514,7 @@ resources:
   tags:
   - Reproducibility
   - Metadata
+  - exclude from DALIA
   type:
   - Collection
   publication_date: '2021-12-03'
@@ -6133,6 +6529,7 @@ resources:
   name: Checklists for publishing images and image analysis
   tags:
   - BioImage Analysis
+  - exclude from DALIA
   type:
   - Forum Post
   publication_date: '2023-09-14'
@@ -6155,6 +6552,7 @@ resources:
   - Workflow Engine
   - Python
   - R
+  - exclude from DALIA
   type:
   - Collection
   url: https://workflowhub.eu/
@@ -6164,6 +6562,7 @@ resources:
   proficiency_level: competent
   tags:
   - Workflow
+  - include in DALIA
   type:
   - Tutorial
   - Online Tutorial
@@ -6178,6 +6577,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Workflow
+  - include in DALIA
   type:
   - Online Tutorial
   - Tutorial
@@ -6192,6 +6592,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Data Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Tutorial
@@ -6210,6 +6611,7 @@ resources:
   - Imagej
   - OMERO
   - Workflow
+  - exclude from DALIA
   type:
   - Tutorial
   - Online Tutorial
@@ -6223,6 +6625,7 @@ resources:
   name: Abstract - NFDI Basic Service for Data Management Plans
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Document
   url: https://base4nfdi.de/images/AbstractDMP4NFDI.pdf
@@ -6233,6 +6636,7 @@ resources:
   name: Open Micoscropy Environment (OME) Youtube Channel
   tags:
   - Open Source Software
+  - exclude from DALIA
   type:
   - Video
   - Collection
@@ -6249,6 +6653,7 @@ resources:
   tags:
   - OMERO
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Video
   - Presentation
@@ -6268,6 +6673,7 @@ resources:
   - OMERO
   - Github
   - Fiji
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/GReD-Clermont/simple-omero-client
@@ -6281,6 +6687,7 @@ resources:
   - Imagej
   - Imagej Macro
   - Github
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/GReD-Clermont/omero_batch-plugin
@@ -6300,6 +6707,7 @@ resources:
   - OMERO
   - Workflow
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   num_downloads: null
@@ -6318,6 +6726,7 @@ resources:
   tags:
   - OMERO
   - Github
+  - exclude from DALIA
   type:
   - Github repository
   publication_date: '2024-07-24'
@@ -6336,6 +6745,7 @@ resources:
   name: Plugin "omero-cli-transfer"
   tags:
   - OMERO
+  - exclude from DALIA
   type:
   - Github repository
   publication_date: '2024-09-14'
@@ -6357,6 +6767,8 @@ resources:
   - https://ome.github.io/ome-ngff-validator/
   - https://github.com/ome/ome-ngff-validator
   uuid: 6781df06-9d08-4075-b79b-18f34d38405f
+  tags:
+  - exclude from DALIA
 - description: Bio-Formats is a standalone Java library for reading and writing life
     sciences image file formats. There are several scripts for using Bio-Formats on
     the command line, which are listed here.
@@ -6367,6 +6779,8 @@ resources:
   publication_date: '2024-10-24'
   url: https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html
   uuid: 0211f6f7-6e54-4311-958a-f7ea99a459dd
+  tags:
+  - exclude from DALIA
 - authors:
   - Robert Haase
   description: The integration of Large Language Models (LLMs) in scientific research
@@ -6396,6 +6810,8 @@ resources:
   authors_with_orcid:
   - Robert Haase
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Elnaz Fazeli
   - Haase Robert
@@ -6430,6 +6846,8 @@ resources:
   - Miura Kota
   - Legland David
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Rémy Jean Daniel Dornier
   license: CC-BY-NC-SA-4.0
@@ -6440,6 +6858,7 @@ resources:
   tags:
   - Bioimage Analysis
   - OMERO
+  - exclude from DALIA
   type:
   - Online Tutorial
   url: https://wiki-biop.epfl.ch/en/data-management/omero/qupath
@@ -6461,6 +6880,7 @@ resources:
   - Bioimage Analysis
   - FAIR-Principles
   - Workflow
+  - exclude from DALIA
   type:
   - Publication
   url:
@@ -6492,6 +6912,8 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Alan O'Callaghan
   - Léo Leplat
@@ -6503,6 +6925,7 @@ resources:
   - Notebooks
   - Open Source Software
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   - Notebook
@@ -6518,6 +6941,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Workshop
   - Notebook
@@ -6537,6 +6961,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Workshop
   - Github repository
@@ -6557,6 +6982,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   - Slides
@@ -6577,6 +7003,7 @@ resources:
   - Bioimage Analysis
   - Notebooks
   - Biabob
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6592,6 +7019,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6613,6 +7041,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   - Workshop
@@ -6633,6 +7062,7 @@ resources:
   tags:
   - Napari
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Documentation
   - Github repository
@@ -6661,6 +7091,8 @@ resources:
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Josh Moore
   description: Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
@@ -6675,6 +7107,8 @@ resources:
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Josh Moore
   description: 'or, "OME-Zarr: ''even a talk on formats [can be] interesting''"
@@ -6691,6 +7125,8 @@ resources:
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Thomas Zobel
   - Jens Wendt
@@ -6721,12 +7157,15 @@ resources:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
   file_formats: .mp4 * .xlsm
+  tags:
+  - exclude from DALIA
 - authors:
   - Chris Allan
   - Emil Rozbicki
   description: Example Workflows / usage of the Glencoe Software.
   tags:
   - OMERO
+  - exclude from DALIA
   type:
   - Video
   - Tutorial
@@ -6747,6 +7186,7 @@ resources:
     of the art of bioimaging RDM and the community needs.
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   license: CC-BY-4.0
@@ -6767,6 +7207,7 @@ resources:
   tags:
   - Big Data
   - Bioimageanalysis
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6807,6 +7248,8 @@ resources:
   - Helmholtz Association of German Research Centres
   - Max Planck Society
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Robert Haase
   description: 'This is a dataset of PNG images of [Bio-Image Data Science teaching
@@ -6827,6 +7270,8 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors: Isra Mekki
   description: ''
   license: MIT
@@ -6836,6 +7281,7 @@ resources:
   - Llms
   - Prompt Engineering
   - Code Generation
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6917,6 +7363,8 @@ resources:
   - Jan Bumberger https://orcid.org/0000-0003-3780-8663
   - Lucille Lopez-Delisle https://orcid.org/0000-0002-1964-4960
   file_formats: .odp
+  tags:
+  - exclude from DALIA
 - authors:
   - Bruna Piereck
   - Alexander Botzki
@@ -6927,6 +7375,7 @@ resources:
   proficiency_level: novice
   tags:
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6951,6 +7400,7 @@ resources:
   tags:
   - Workflow
   - Nextflow
+  - include in DALIA
   type:
   - Github repository
   - Tutorial
@@ -6969,6 +7419,7 @@ resources:
   name: Upcoming Image Analysis Events
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Event
@@ -6990,6 +7441,7 @@ resources:
   - Python
   - artifical intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Github repository
   - Slides
@@ -7003,6 +7455,7 @@ resources:
   name: RDM_system_connector
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/SaibotMagd/RDM_system_connector
@@ -7022,6 +7475,7 @@ resources:
   - Open Science
   - Teaching
   - Sharing
+  - include in DALIA
   type:
   - Collection
   - Tutorial
@@ -7129,6 +7583,8 @@ resources:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Carl Herrmann
   - annavonbachmann
@@ -7146,6 +7602,7 @@ resources:
   proficiency_level: competent
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Github repository
   - Slides
@@ -7187,6 +7644,7 @@ resources:
   tags:
   - Bioimageanalysis
   - Neurobias
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/NEUBIAS/training-resources
@@ -7204,6 +7662,7 @@ resources:
   tags:
   - Workflow
   - Research Data Management
+  - exclude from DALIA
   type:
   - Tutorial
   url: https://git.embl.de/grp-cba/cba-support-template
@@ -7217,6 +7676,7 @@ resources:
   proficiency_level: competent
   tags:
   - Docker
+  - include in DALIA
   type:
   - Video
   - Tutorial
@@ -7236,6 +7696,8 @@ resources:
   - Tutorial
   url: https://software-skills.neuroinformatics.dev/index.html
   uuid: 29179f80-6007-42ca-841e-12c183e99765
+  tags:
+  - include in DALIA
 - authors:
   - Daniele Procida
   description: Diátaxis is a systematic framework for technical documentation that
@@ -7246,6 +7708,7 @@ resources:
   name: Diátaxis - A systematic approach to technical documentation authoring.
   tags:
   - Documentation
+  - include in DALIA
   type:
   - Website
   - Tutorial
@@ -7269,6 +7732,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Python
+  - include in DALIA
   type:
   - Tutorial
   - Workflow
@@ -7301,6 +7765,8 @@ resources:
   authors_with_orcid:
   - Nicolas Chiaruttini
   file_formats: .hdf5 * .oir * .omp2info
+  tags:
+  - exclude from DALIA
 - authors:
   - Romain Guiet
   - Nicolas Chiaruttini
@@ -7340,6 +7806,8 @@ resources:
   - Romain Guiet https://orcid.org/0000-0001-6715-4897
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .jpg * .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Nicolas Chiaruttini
   description: 'This is a microscopy image dataset generated by the Perkin Elmer Operetta
@@ -7371,6 +7839,8 @@ resources:
   authors_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Nicolas Chiaruttini
   description: 'A set of public CZI files. These can be used for testing CZI readers.
@@ -7405,6 +7875,8 @@ resources:
   authors_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - authors:
   - Sarah Machado
   - Vincent Mercier
@@ -7433,6 +7905,8 @@ resources:
   - Vincent Mercier
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
   file_formats: .tif
+  tags:
+  - exclude from DALIA
 - authors:
   - Yannick KREMPP
   description: A review of the tools, methods and concepts useful for biologists and
@@ -7444,6 +7918,7 @@ resources:
   tags:
   - Artificial Intelligence
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Video
   - Slides
@@ -7466,6 +7941,7 @@ resources:
   tags:
   - artificial intelligence
   - BioImage Analysis
+  - include in DALIA
   type:
   - Video
   - Slides
@@ -7482,6 +7958,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Quality Control
+  - exclude from DALIA
   type:
   - Website
   - Collection
@@ -7505,6 +7982,8 @@ resources:
   authors_with_orcid:
   - Wendt Jens https://orcid.org/0009-0002-1826-7099
   file_formats: .pdf * .pptx
+  tags:
+  - exclude from DALIA
 - authors:
   - Isabel Kemmer
   - Feriel Romdhane
@@ -7535,6 +8014,8 @@ resources:
   - Feriel Romdhane https://orcid.org/0000-0002-5854-9341
   - Euro-BioImaging ERIC
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Alessandro Rigano
   - Ulrike Boehm
@@ -7688,6 +8169,8 @@ resources:
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Caterina Strambio-De-Castillia https://orcid.org/0000-0002-1069-1816
   file_formats: .czi_ * .json
+  tags:
+  - exclude from DALIA
 - authors:
   - Mohsen Ahmadi
   - Robert Wagner
@@ -7725,6 +8208,8 @@ resources:
   - Torsten Stöter
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Maximilian Heber
   - Moritz Jakob
@@ -7771,6 +8256,8 @@ resources:
   - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
   - Robert Ulrich https://orcid.org/0000-0001-9063-2703
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - C. Li
   description: 'Online R learning for applied statistics '
@@ -7780,6 +8267,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Statistics
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/cxli233/Online_R_learning
@@ -7794,6 +8282,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Visualization
+  - include in DALIA
   type:
   - Github repository
   url: https://github.com/cxli233/FriendsDontLetFriends
@@ -7890,6 +8379,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/14178789
   - https://doi.org/10.5281/zenodo.14178789
@@ -7927,6 +8417,8 @@ resources:
   authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:39.787873'
   authors:
   - Christian Jüngst
@@ -7939,6 +8431,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/13837146
   - https://doi.org/10.5281/zenodo.13837146
@@ -7971,6 +8464,8 @@ resources:
   - Marco Nolden https://orcid.org/0000-0001-9629-0564
   - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:41.489967'
   authors:
   - Cornelia Wetzker
@@ -7990,6 +8485,8 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Michael Schlierf https://orcid.org/0000-0002-6209-2364
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:41.946082'
   authors:
   - Robert Haase
@@ -8008,6 +8505,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/13640979
   - https://doi.org/10.5281/zenodo.13640979
@@ -8040,6 +8538,8 @@ resources:
   - Marco Nolden https://orcid.org/0000-0001-9629-0564
   - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
   file_formats: .pdf * .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:43.407105'
   authors:
   - Sophie Habinger
@@ -8108,6 +8608,8 @@ resources:
   - Sonja Kralj https://orcid.org/0000-0002-8516-8034
   - Emilia Mikautsch https://orcid.org/0009-0005-1758-1790
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:44.756942'
   authors:
   - Riccardo Massei
@@ -8141,6 +8643,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/11501662
   - https://doi.org/10.5281/zenodo.11501662
@@ -8220,6 +8723,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/11350689
   - https://doi.org/10.5281/zenodo.11350689
@@ -8245,6 +8749,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/11235513
   - https://doi.org/10.5281/zenodo.11235513
@@ -8269,6 +8774,8 @@ resources:
   authors_with_orcid:
   - Rodrigo Escobar Diaz Guerrero
   file_formats: null
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:46.762148'
   authors:
   - Carsten Fortmann-Grote
@@ -8284,6 +8791,8 @@ resources:
   authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:47.147338'
   authors:
   - Christian Schmidt
@@ -8301,6 +8810,8 @@ resources:
   authors_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:47.561518'
   authors:
   - Anca Margineanu
@@ -8328,6 +8839,8 @@ resources:
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   file_formats: .pdf * .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:47.946546'
   authors:
   - Carsten Fortmann-Grote
@@ -8342,6 +8855,8 @@ resources:
   authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:48.292240'
   authors:
   - Riccardo Massei
@@ -8361,6 +8876,8 @@ resources:
   authors_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   file_formats: .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T14:39:48.632022'
   authors:
   - Vanessa Aphaia Fiona Fuchs
@@ -8387,6 +8904,8 @@ resources:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Anett Jannasch
   - Silke Tulok
@@ -8451,6 +8970,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/12546808
   - https://doi.org/10.5281/zenodo.12546808
@@ -8504,6 +9024,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/7890311
   - https://doi.org/10.5281/zenodo.7890311
@@ -8545,6 +9066,8 @@ resources:
   - Thomas Kugel
   - Thomas Müller-Reichert
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Gunar Fabig
   - Anett Jannasch
@@ -8646,6 +9169,8 @@ resources:
   - Thomas Müller-Reichert https://orcid.org/0000-0003-0203-1436
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
   file_formats: .xlsx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:09.954845'
   authors:
   - Michael Gerlach
@@ -8665,6 +9190,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .3mf * .f3d * .pdf * .png
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:10.375459'
   authors:
   - Dr. Hellen Ishikawa-Ankerhold
@@ -8684,6 +9211,8 @@ resources:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
   - Max Nobis https://orcid.org/0000-0002-1861-1390
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:10.757317'
   authors:
   - Michael Gerlach
@@ -8708,6 +9237,8 @@ resources:
   - Hans-Ulrich Fried https://orcid.org/0000-0001-7557-1199
   - Christiane Peuckert https://orcid.org/0000-0002-5973-1241
   file_formats: .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:11.147252'
   authors:
   - Dr. Hellen Ishikawa-Ankerhold
@@ -8726,6 +9257,8 @@ resources:
   authors_with_orcid:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
   file_formats: .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:11.542022'
   authors:
   - Michael Gerlach
@@ -8756,6 +9289,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:11.914727'
   authors:
   - Michael Gerlach
@@ -8786,6 +9321,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:12.275231'
   authors:
   - Michael Gerlach
@@ -8816,6 +9353,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:12.641988'
   authors:
   - Michael Gerlach
@@ -8846,6 +9385,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .mp4
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:13.156773'
   authors:
   - Financial & Legal Framework of Core Facilities
@@ -8899,6 +9440,8 @@ resources:
   - Nina Schulze https://orcid.org/0009-0008-5503-6218
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:13.609723'
   authors:
   - Financial & Legal Framework of Core Facilities
@@ -8952,6 +9495,8 @@ resources:
   - Nina Schulze https://orcid.org/0009-0008-5503-6218
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:14.668170'
   authors:
   - Silke Tulok
@@ -9020,6 +9565,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/12578084
   - https://doi.org/10.5281/zenodo.12578084
@@ -9053,6 +9599,8 @@ resources:
   authors_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   file_formats: .3mf * .png
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:15.354820'
   authors:
   - Michael Gerlach
@@ -9073,6 +9621,8 @@ resources:
   uuid: 570d8f83-7796-46e6-85bb-2a00c8326f7e
   language: en
   file_formats: .3mf * .png
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:15.720049'
   authors:
   - Michael Gerlach
@@ -9092,6 +9642,8 @@ resources:
   uuid: 9efdac58-b44c-49f3-99c8-05d6c88dfdc0
   language: en
   file_formats: .3mf * .png
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:16.060174'
   authors:
   - Michael Gerlach
@@ -9110,6 +9662,8 @@ resources:
   uuid: b95c1dea-c736-46f8-93f7-34321d62a3fe
   language: en
   file_formats: .3mf * .png
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:16.445941'
   authors:
   - Michael Gerlach
@@ -9141,6 +9695,8 @@ resources:
   uuid: a53e66ac-41e5-4c29-b0c7-f235cae942c2
   language: en
   file_formats: .xlsx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:16.785479'
   authors:
   - Nadine Utz
@@ -9175,6 +9731,8 @@ resources:
   uuid: abbcc42a-ec38-4b18-9e30-2e15a81d481b
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:17.179933'
   authors:
   - Stefanie Weidtkamp-Peters
@@ -9193,6 +9751,8 @@ resources:
   - https://doi.org/10.5281/zenodo.10889694
   uuid: baa185b2-3557-4214-b578-40cbfb872409
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:17.925836'
   authors:
   - Chiara Stringari
@@ -9224,6 +9784,8 @@ resources:
   uuid: 22960997-36d3-4489-b5ae-fddfc5b5369b
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:18.393086'
   authors:
   - Christian Schmidt
@@ -9259,6 +9821,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/10805204
   - https://doi.org/10.5281/zenodo.10805204
@@ -9280,6 +9843,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/10796364
   - https://doi.org/10.5281/zenodo.10796364
@@ -9313,6 +9877,8 @@ resources:
   uuid: 69df66f7-6309-45c8-8957-739cd53a5f4d
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:22.477169'
   authors:
   - Romain David
@@ -9404,6 +9970,8 @@ resources:
   uuid: cead4ffb-b2f6-4ec1-96ed-71eb44db1182
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:22.816011'
   authors:
   - Beatriz Serrano-Solano
@@ -9420,6 +9988,8 @@ resources:
   uuid: 114b3dfb-33cc-45ae-8424-2ed18fb2f07a
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:23.197583'
   authors:
   - Euro-BioImaging ERIC
@@ -9438,6 +10008,8 @@ resources:
   uuid: 18a583fe-c927-4a0c-98b0-89e2308d73ef
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:23.860886'
   authors:
   - Isabel Kemmer
@@ -9470,6 +10042,8 @@ resources:
   uuid: bb24602f-d351-4309-8f9e-8e3ba8c28386
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:26.146506'
   authors:
   - Luke Sorensen
@@ -9525,6 +10099,8 @@ resources:
   uuid: 984b73bb-4dcd-4b21-91d5-50c444310723
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:26.566744'
   authors:
   - Luke Sorensen
@@ -9624,6 +10200,8 @@ resources:
   uuid: fdeeacba-ef2b-471d-9270-328c1006e7de
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:27.012540'
   authors:
   - Martin Schätz
@@ -9645,6 +10223,8 @@ resources:
   uuid: 5c0e14b8-d620-4c20-b2cb-d6c4c8d8553f
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:28.045966'
   authors:
   - Romain
@@ -9659,6 +10239,8 @@ resources:
   - https://doi.org/10.5281/zenodo.7919117
   uuid: 764b5dc0-ef3e-45ed-a227-2b3f1b83c946
   file_formats: .groovy * .tif
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:28.513488'
   authors:
   - Martin Schätz
@@ -9717,6 +10299,8 @@ resources:
   uuid: 92d1fac3-90cb-4c2d-8e8e-4b24b5118c1d
   language: en
   file_formats: .csv * .xlsx * .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:29.533446'
   authors:
   - Anna Pascual Reguant
@@ -9744,6 +10328,8 @@ resources:
   uuid: 4e2427f6-8db4-4574-acfa-5a20d6914f83
   language: en
   file_formats: .tif
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:29.961816'
   authors:
   - Romain Guiet
@@ -9761,6 +10347,8 @@ resources:
   - https://doi.org/10.5281/zenodo.7409423
   uuid: 69c6afd7-e1e1-4501-9bd9-6570d3384090
   file_formats: .ijm * .nd2
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:30.357363'
   authors:
   - Martin Schätz
@@ -9779,6 +10367,8 @@ resources:
   uuid: 09e19608-e0d8-4c5b-82b9-0e631b006124
   language: en
   file_formats: .pptx
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:30.816975'
   authors:
   - Robert Haase
@@ -9830,6 +10420,8 @@ resources:
   uuid: 49ebd316-a007-48e4-a316-eb425f55ac95
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:31.351869'
   authors:
   - Sebastian Rhode
@@ -9855,6 +10447,8 @@ resources:
   uuid: fd76ff77-8804-4917-b784-37d70caff08e
   language: en
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:31.831739'
   authors:
   - Martin Schätz
@@ -9877,6 +10471,8 @@ resources:
   uuid: f6135086-5afb-4cd9-858e-413e5b2dfe32
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:32.177486'
   authors:
   - Martin Schätz
@@ -9899,6 +10495,8 @@ resources:
   uuid: 7b23a071-59da-42b3-97ce-c8dfe852e3ff
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:32.987735'
   authors:
   - Daniel Waiger
@@ -9915,6 +10513,8 @@ resources:
   - https://doi.org/10.5281/zenodo.6834214
   uuid: 7e871b48-358b-4399-bf47-abb89c618047
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:33.487847'
   authors:
   - Julie Meystre
@@ -9952,6 +10552,8 @@ resources:
   uuid: 5f35772d-c257-4715-b993-1001797c8591
   language: en
   file_formats: .lsm
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:34.152918'
   authors:
   - Romain Guiet
@@ -10007,6 +10609,8 @@ resources:
   uuid: 37c606c2-9538-4cce-839d-b0565cb6e27c
   language: en
   file_formats: .ipynb * .png * .tif * .yml * .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:34.654130'
   authors:
   - Laurent Thomas
@@ -10028,6 +10632,8 @@ resources:
   uuid: 52976c10-0ea8-4b40-a575-07a78bdfe73b
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:35.063614'
   authors:
   - Thomas Laurent
@@ -10078,6 +10684,8 @@ resources:
   uuid: b75c91df-a2fd-4ae4-8157-a5baf2bc90ba
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:35.407938'
   authors:
   - Laia Simó-Riudalbas
@@ -10132,6 +10740,8 @@ resources:
   uuid: b38e68fe-0097-4352-ad82-9c6612ac2abc
   language: en
   file_formats: .pdf * .png * .txt * .zip
+  tags:
+  - include in DALIA
 - submission_date: '2024-11-18T16:34:35.773605'
   authors:
   - Romain Guiet
@@ -10181,6 +10791,8 @@ resources:
   uuid: 9dc3a96a-6e4e-4237-9fe5-320e98849145
   language: en
   file_formats: .ipynb * .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:36.126990'
   authors:
   - Romain Guiet
@@ -10254,6 +10866,8 @@ resources:
   uuid: a42ed0b6-5ce6-4f7e-abab-4faa088a8bfa
   language: en
   file_formats: .png * .tif * .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:36.472002'
   authors:
   - Laura Capolupo
@@ -10303,6 +10917,8 @@ resources:
   uuid: e895487c-5cd4-4d8c-b48c-2150acf9b1fb
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:36.805571'
   authors:
   - Laura Capolupo
@@ -10347,6 +10963,8 @@ resources:
   uuid: 976a1aed-f247-430c-ab10-22c31a12ea8a
   language: en
   file_formats: '.171894'
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:37.223826'
   authors:
   - Laurent Thomas
@@ -10373,6 +10991,8 @@ resources:
   uuid: 31877350-3742-4a56-aa0c-c453b2e54013
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:37.614706'
   authors:
   - Romain Guiet
@@ -10408,6 +11028,8 @@ resources:
   uuid: bb0e4a90-4b16-43b4-88b0-c314d9da51bc
   language: en
   file_formats: .czi * .tif
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:39.643990'
   authors:
   - Cavanagh
@@ -10421,6 +11043,8 @@ resources:
   - https://doi.org/10.5281/zenodo.13642395
   uuid: 2896f410-3edd-42c7-9941-d8486872612f
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:40.260008'
   authors:
   - Nicolas Chiaruttini
@@ -10456,6 +11080,8 @@ resources:
   uuid: 4f87cbbc-9f2b-4791-8153-a6b16d8f6dd3
   language: en
   file_formats: .oir
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:40.728131'
   authors:
   - j
@@ -10476,6 +11102,8 @@ resources:
   uuid: 22815dfe-8183-4604-b8da-35767ac239cf
   language: en
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:41.114444'
   authors:
   - IMCF
@@ -10506,6 +11134,8 @@ resources:
   uuid: a7b72ba1-7789-47b7-9865-573f9c07d238
   language: en
   file_formats: .ics * .ids
+  tags:
+  - exclude from DALIA
 - submission_date: '2024-11-18T16:34:41.460603'
   authors:
   - Mario Garcia
@@ -10520,6 +11150,8 @@ resources:
   - https://doi.org/10.5281/zenodo.11234863
   uuid: 15a6da47-2d74-409c-9c0f-a6e70e5daec8
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - authors:
   - Sarah Weischer
   - Jens Wendt
@@ -10540,6 +11172,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/7018750
   - https://doi.org/10.5281/zenodo.7018750
@@ -10593,6 +11226,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data managementv
+  - include in DALIA
   url:
   - https://zenodo.org/records/6905931
   - https://doi.org/10.5281/zenodo.6905931
@@ -10613,6 +11247,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14197622
   uuid: 6a09d253-1256-4e48-bfc1-f690dd915db0
   file_formats: .ims
+  tags:
+  - exclude from DALIA
 - authors:
   - Josh Moore
   description: 'Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
@@ -10630,6 +11266,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/14234608
   - https://doi.org/10.5281/zenodo.14234608
@@ -10653,6 +11290,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14235726
   uuid: 66577876-eedd-402a-921c-78c3d1affbcb
   file_formats: .ims
+  tags:
+  - exclude from DALIA
 - authors:
   - Will Moore
   - Josh Moore
@@ -10676,6 +11315,7 @@ resources:
   - sharing
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/ome/ome2024-ngff-challenge
   uuid: 23de46e4-2c21-4094-9669-6a9659260b6a
@@ -10696,6 +11336,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - exclude from DALIA
   url:
   - https://zenodo.org/records/14278058
   - https://doi.org/10.5281/zenodo.14278058
@@ -10717,6 +11358,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14287640
   uuid: 479722fa-1719-4db7-90c0-2906818d97fb
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Zach Marin
   - Maohan Su
@@ -10732,6 +11375,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14281237
   uuid: 7dbab1f5-49b4-4dc9-ad43-57f28eea1ea5
   file_formats: .dcimg
+  tags:
+  - exclude from DALIA
 - authors:
   - Zach Marin
   description: Bead stack taken on lower path of a 4Pi without deformable mirror corrections.
@@ -10746,6 +11391,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14268554
   uuid: 7d97cbcf-01d0-48b1-864f-8d70afc30f65
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - JanClusmann
   - Tim Lenz
@@ -10757,6 +11404,7 @@ resources:
   tags:
   - histopathology
   - bioimage analysis
+  - exclude from DALIA
   type:
   - Github repository
   - notebook
@@ -10774,6 +11422,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - BioImage Analysis
+  - include in DALIA
   type:
   - Github repository
   - notebooks
@@ -10788,6 +11437,7 @@ resources:
   proficiency_level: advanced beginner
   tags:
   - Research Software Engineering
+  - include in DALIA
   type:
   - Github repository
   - Slides
@@ -10809,6 +11459,7 @@ resources:
   tags:
   - globias
   - artificial intelligence
+  - include in DALIA
   url:
   - https://zenodo.org/records/14418209
   - https://doi.org/10.5281/zenodo.14418209
@@ -10899,6 +11550,8 @@ resources:
   uuid: 75380769-6c62-4487-88a3-d6d5ff0459ea
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - NFDI4BIOIMAGE Consortium
   description: 'These illustrations were contracted by the Heinrich Heine University
@@ -10919,6 +11572,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/14186101
   - https://doi.org/10.5281/zenodo.14186101
@@ -10966,6 +11620,8 @@ resources:
   uuid: 9765f3c2-11b5-46ee-b45f-afbe97785c72
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Christian Schmidt
   - Tom Boissonnet
@@ -10997,6 +11653,7 @@ resources:
   tags:
   - nfdi4bioimage
   - research data management
+  - include in DALIA
   url:
   - https://zenodo.org/records/13861026
   - https://doi.org/10.5281/zenodo.13861026
@@ -11015,6 +11672,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14510432
   uuid: 4f324190-5e86-4ec8-aa03-78baa070da83
   file_formats: .lsm
+  tags:
+  - exclude from DALIA
 - authors:
   - Michael Chungyoun
   - Courtney Thomas
@@ -11029,6 +11688,7 @@ resources:
   submission_date: '2025-01-07T13:44:29.467482'
   tags:
   - bioinformatics
+  - exclude from DALIA
   type:
   - Github repository
   - collection
@@ -11044,6 +11704,7 @@ resources:
   tags:
   - Cell Tracking
   - BioImage analysis
+  - exclude from DALIA
   type:
   - Github repository
   - collection
@@ -11065,6 +11726,7 @@ resources:
   - globias
   - research data management
   - research software management
+  - include in DALIA
   url:
   - https://zenodo.org/records/14626054
   - https://doi.org/10.5281/zenodo.14626054
@@ -11081,6 +11743,7 @@ resources:
   - Biology
   - Data Analysis
   - UMAP
+  - exclude from DALIA
   type:
   - Blog Post
   url: https://simplystatistics.org/posts/2024-12-23-biologists-stop-including-umap-plots-in-your-papers/
@@ -11093,6 +11756,7 @@ resources:
   tags:
   - Data Visualization
   - R
+  - include in DALIA
   type:
   - Book
   url:
@@ -11109,6 +11773,7 @@ resources:
   publication_date: '2019-08-29'
   tags:
   - Data Visualization
+  - include in DALIA
   type:
   - Blog Post
   url: https://thenode.biologists.com/data-visualization-with-flying-colors/research/
@@ -11125,6 +11790,7 @@ resources:
   - Galaxy
   - Metadata
   - nfdi4bioimage
+  - include in DALIA
   type:
   - Tutorial
   - Framework
@@ -11140,6 +11806,7 @@ resources:
   tags:
   - Bio Image Analysis
   - Artifical Intelligence
+  - include in DALIA
   type:
   - Blog Post
   url: https://focalplane.biologists.com/2024/07/29/dl4miceverywhere-overcoming-reproducibility-challenges-in-deep-learning-microscopy-imaging/
@@ -11151,6 +11818,7 @@ resources:
   tags:
   - Open Source
   - AlphaFold
+  - exclude from DALIA
   type:
   - Report
   - Blog Post
@@ -11165,6 +11833,7 @@ resources:
   tags:
   - Bioinformatics
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Workflow
   - Tutorial
@@ -11183,6 +11852,7 @@ resources:
   - Bioimage Analysis
   - Open Science
   - Microscopy
+  - include in DALIA
   type:
   - Publication
   url: https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through
@@ -11197,6 +11867,7 @@ resources:
   publication_date: '2024-11-08'
   tags:
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Video
   url: https://www.youtube.com/watch?v=Om9tl4Dh2yw
@@ -11210,6 +11881,7 @@ resources:
   tags:
   - Research Data Management
   - Open Science
+  - include in DALIA
   type:
   - Slides
   url:
@@ -11224,6 +11896,7 @@ resources:
   publication_date: '2023-01-02'
   tags:
   - Statistics
+  - exclude from DALIA
   type:
   - Video
   url: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
@@ -11241,6 +11914,7 @@ resources:
   publication_date: '2024-03-01'
   tags:
   - Statistics
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/rmcelreath/stat_rethinking_2024
@@ -11254,6 +11928,7 @@ resources:
   publication_date: '2023-06-29'
   tags:
   - Statistics
+  - exclude from DALIA
   type:
   - Wiki
   url: https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787
@@ -11286,6 +11961,7 @@ resources:
   tags:
   - neubias
   - bioimage analysis
+  - include in DALIA
   url:
   - https://zenodo.org/records/14264885
   - https://doi.org/10.5281/zenodo.14264885
@@ -11319,6 +11995,7 @@ resources:
   tags:
   - single-cell analysis
   - bioimage analysis
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/scverse/scanpy-tutorials
   uuid: 3a8e2767-9450-44ff-801f-836cf4e52bcc
@@ -11335,6 +12012,7 @@ resources:
   submission_date: '2025-01-28T11:17:32.405764'
   tags:
   - nfdi4bioimage
+  - include in DALIA
   url:
   - https://zenodo.org/records/14716546
   - https://doi.org/10.5281/zenodo.14716546
@@ -11355,6 +12033,7 @@ resources:
   submission_date: '2025-01-28T11:17:32.840529'
   tags:
   - NFDI4Bioimage
+  - include in DALIA
   url:
   - https://zenodo.org/records/14650434
   - https://doi.org/10.5281/zenodo.14650434
@@ -11375,6 +12054,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14641777
   uuid: 2003eaea-e57e-4d01-9162-5d5d237e2d4d
   file_formats: .pptx
+  tags:
+  - exclude from DALIA
 - authors:
   - Hoku West-Foyle
   license: CC0-1.0
@@ -11387,6 +12068,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14675120
   uuid: ce33ead5-cfec-442d-a1e5-4038e15f22f9
   file_formats: .ims
+  tags:
+  - exclude from DALIA
 - authors:
   - Pylvänäinen, Joanna
   description: 'Description:This training package provides a guide to image processing
@@ -11428,6 +12111,8 @@ resources:
   uuid: 7b5cdc1a-2cd1-430b-9d97-59a9443858f3
   language: en
   file_formats: .lsm * .nd2 * .pdf * .tif
+  tags:
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: In these two slide-decks we explore applications of large language
@@ -11446,6 +12131,8 @@ resources:
   uuid: f07b6eec-b2c6-4871-b327-955fbd1e2e56
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Fortmann-Grote, Carsten
   - Meireles, Mariana
@@ -11470,6 +12157,8 @@ resources:
   uuid: c721e166-d2c1-44a2-89d4-b1985161c849
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -11504,6 +12193,8 @@ resources:
   uuid: 11938c17-43d7-4577-b7ae-fa4415bb5c89
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -11534,6 +12225,8 @@ resources:
   uuid: 9ce11efc-3000-4917-bc98-c69adb748846
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Matthew Mueller
   - Aaron
@@ -11545,6 +12238,7 @@ resources:
   submission_date: '2025-02-14T08:24:33.843320'
   tags:
   - Fiji
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/abcucberkeley/Parallel_Fiji_Visualizer
   uuid: b5e49249-275a-47ef-abd9-66604230050f
@@ -11558,6 +12252,7 @@ resources:
   submission_date: '2025-02-09T09:03:49.051347'
   tags:
   - Fiji
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/nobias-fht/advanced-scripting
   uuid: 8c53b374-4855-4ed6-a59e-3a48936318b6
@@ -11571,6 +12266,7 @@ resources:
   submission_date: '2025-02-05T12:30:55.501203'
   tags:
   - Omero
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/German-BioImaging/omero-ontop-mappings
   uuid: fdaba932-db79-47d9-97ae-196563ac3a45
@@ -11583,6 +12279,7 @@ resources:
   submission_date: '2025-02-05T12:26:41.939652'
   tags:
   - Omero
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
   uuid: 15331066-c748-4275-81c5-dd85bcdc0c33
@@ -11597,6 +12294,7 @@ resources:
   - Omero
   - Research Data Management
   - Electronic lab notebooks
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/LEO
   uuid: e1be7d60-d16a-437a-8060-a0fe24df85a0
@@ -11628,6 +12326,8 @@ resources:
   uuid: c802daef-6b76-4236-9fb2-0a2d554d047e
   language: de
   file_formats: .odt
+  tags:
+  - include in DALIA
 - authors:
   - SaibotMagd
   description: 'firefox extension: reads datamatrix code from camera and create a
@@ -11638,6 +12338,7 @@ resources:
   submission_date: '2025-02-05T12:25:17.287990'
   tags:
   - NFDI4BioImage
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/SaibotMagd/dmtxSampleCreator
   uuid: b6b87689-9dab-4629-b9d6-16a140ac2081
@@ -11651,6 +12352,7 @@ resources:
   tags:
   - Galaxy
   - Bioinformatics
+  - exclude from DALIA
   type:
   - YouTube Channel
   url: https://www.youtube.com/c/galaxyproject
@@ -11667,6 +12369,7 @@ resources:
   tags:
   - Galaxy
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Tool
   url: https://imaging.usegalaxy.eu
@@ -11680,6 +12383,7 @@ resources:
   tags:
   - Bioinformatics
   - Galaxy
+  - exclude from DALIA
   type:
   - Website
   url: https://www.denbi.de/online-training-media-library
@@ -11691,6 +12395,7 @@ resources:
   tags:
   - Bioinformatics
   - Cloud Computing
+  - exclude from DALIA
   type:
   - Tutorial
   url: https://cloud.denbi.de/get-started/
@@ -11703,6 +12408,7 @@ resources:
   tags:
   - Bioinformatics
   - Cloud Computing
+  - exclude from DALIA
   type:
   - Tutorial
   url: https://cloud.denbi.de/wiki/registration/
@@ -11726,6 +12432,7 @@ resources:
   tags:
   - Research Data Management
   - FAIR
+  - exclude from DALIA
   type:
   - Framework
   url: https://arc-rdm.org/
@@ -11739,6 +12446,7 @@ resources:
   publication_date: '2015-08-28'
   tags:
   - Bioinformatics
+  - exclude from DALIA
   type:
   - YouTube Channel
   url: https://www.youtube.com/@denbi5170
@@ -11783,6 +12491,7 @@ resources:
   tags:
   - Knowledge Graph
   - Bioinformatics
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.nature.com/articles/s41587-023-01848-y
@@ -11802,6 +12511,7 @@ resources:
   tags:
   - Bioinformatics
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/bioimage-REMBI/tutorial.html
@@ -11816,6 +12526,7 @@ resources:
   tags:
   - Reproducibility
   - Image Analysis
+  - include in DALIA
   type:
   - Slides
   url: https://doi.org/10.5281/zenodo.14767944
@@ -11829,6 +12540,7 @@ resources:
   publication_date: '2024-07-17'
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - YouTube Channel
   url: https://www.youtube.com/@globias
@@ -11843,6 +12555,7 @@ resources:
   name: BIA Seminar Series
   tags:
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   url: https://www.globias.org/activities/bia-seminar-series
@@ -11857,6 +12570,7 @@ resources:
   submission_date: '2025-02-05T12:27:52.033681'
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - GitHub Repository
   - Software
@@ -11874,6 +12588,7 @@ resources:
   tags:
   - Omero
   - Research Data Management
+  - exclude from DALIA
   type:
   - GitHub Repository
   - Software
@@ -11897,6 +12612,7 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -11941,6 +12657,7 @@ resources:
   file_formats: .afdesign * .pdf * .svg
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Fuster-Barcelo, Caterina
   description: The dynamic field of bioimage analysis continually seeks innovative
@@ -11966,6 +12683,8 @@ resources:
   uuid: e707f3ae-5811-4184-badc-7cee6fd46fe6
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Laurent Thomas
   - Pierre Trehin
@@ -11981,6 +12700,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14917722
   uuid: 0105872f-4c54-4ff8-ad1c-cd9b3c3dc473
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -12031,6 +12752,8 @@ resources:
   uuid: 9b66afef-3cb6-4695-9517-f7629b178ade
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Romette, Louis
   description: Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with
@@ -12050,6 +12773,8 @@ resources:
   uuid: c9b5b1c2-6f9e-4921-bacf-7a35c7f98eee
   language: en
   file_formats: .nd2
+  tags:
+  - exclude from DALIA
 - authors:
   - Haase, Robert
   description: When training people in topics such as programming, bio-image analysis
@@ -12072,6 +12797,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Artificial Intelligence
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: Artificial intelligence (AI) and large language models (LLMs) are changing
@@ -12092,6 +12818,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Artificial Intelligence
+  - include in DALIA
 - authors:
   - Draga Doncila Pop
   description: This is a three-part workshop guiding you through using napari to view
@@ -12104,6 +12831,7 @@ resources:
   tags:
   - Python
   - Napari
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/DragaDoncila/napari-scipy2025-workshop
   uuid: 7b668d50-e50c-4e1f-82d6-44a2500064ca
@@ -12285,6 +13013,8 @@ resources:
   uuid: 4a1d68a2-1ea0-4726-a5ab-2f098e5e7982
   language: en
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - authors:
   - Rodriguez, Areli
   description: The blue and red channels get swapped when imported with Bio-formats.
@@ -12298,6 +13028,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14933318
   uuid: 7f7011c3-254d-4e66-968b-50508a7ec361
   file_formats: .lif
+  tags:
+  - exclude from DALIA
 - authors:
   - Serrano-Solano, Beatriz
   - Kostrykin, Leonid
@@ -12349,6 +13081,8 @@ resources:
   uuid: f30b1a4d-e87a-42b7-a3a6-b1e743d3a815
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Marcelo Zoccoler
   - Johannes Soltwedel
@@ -12360,6 +13094,7 @@ resources:
   submission_date: '2025-03-17T20:49:27.146359'
   tags:
   - Bio-image analysis
+  - exclude from DALIA
   type: GitHub Repository
   url:
   - https://biapol.github.io/TrendsInMicroscopy_2025/
@@ -12381,6 +13116,7 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Schmidt, Christian
   - Bortolomeazzi, Michele
@@ -12458,6 +13194,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - include in DALIA
 - authors:
   - Krooß, Ksenia
   - Fuchs, Vanessa Aphaia Fiona
@@ -12492,6 +13229,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - include in DALIA
 - authors:
   - Chiang Jurado, Diana
   - Massei, Riccardo
@@ -12511,6 +13249,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14979253
   uuid: 49a28053-4f51-4e00-8e24-e8b54de16e21
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -12529,6 +13269,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14975462
   uuid: e14f28b4-f50f-45b4-a982-cafce46f32c1
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Massei, Riccardo
   - Berndt, Matthias
@@ -12594,6 +13336,8 @@ resources:
   uuid: 66f41360-720b-48a5-98c0-d57a874da31f
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Dubrulle, Julien
   description: This file cannot be read by bfGetReader() v8.1.1 on a Windows operating
@@ -12608,6 +13352,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15001649
   uuid: 51d616eb-d80e-4023-996d-57f90f7afa1b
   file_formats: .ims
+  tags:
+  - exclude from DALIA
 - authors:
   - Bohl, Jürgen
   description: 'With this file the problem addressed in PR#4284 can be reproduced:
@@ -12625,6 +13371,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14968770
   uuid: 6190a6dd-b467-40a1-ae3a-db982cd68409
   file_formats: .czi
+  tags:
+  - exclude from DALIA
 - authors:
   - Moore, Josh
   - Kunis, Susanne
@@ -12642,6 +13390,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -12667,6 +13416,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Wei Ouyang
   - Wanlu Lei
@@ -12684,6 +13434,7 @@ resources:
   tags:
   - artificial intelligence
   - bioimage analysis
+  - exclude from DALIA
   type: GitHub Repository
   url: https://github.com/bioimage-io/bioimageio-chatbot
   uuid: 31a8ab88-d436-4d52-af74-88c94ac589ff
@@ -12701,6 +13452,7 @@ resources:
   - Image Processing
   - Teaching Resource
   - ImageJ
+  - exclude from DALIA
   type:
   - Workshop
   - Video
@@ -12756,6 +13508,8 @@ resources:
   uuid: 6fd444ff-698e-42be-acfb-ee28a3aacd09
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Marin, Zach
   description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
@@ -12769,6 +13523,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15150937
   uuid: af78e254-13f6-4ed9-94dc-b1687486b293
   file_formats: .dcimg
+  tags:
+  - exclude from DALIA
 - authors:
   - Walther, Christa
   description: This document reports on the first in-person workshop supported by
@@ -12784,6 +13540,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15168241
   uuid: 55d6cbd1-fa68-4942-9915-7c57bc0ab636
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Tischer, Christian
   - Politi, Antonio
@@ -12815,6 +13573,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14710820
   uuid: 79148d7b-3a4b-4702-839d-864ee2fea091
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Dvoretskii, Stefan
   - Bortolomeazzi, Michele
@@ -12835,6 +13595,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in
@@ -12846,6 +13607,7 @@ resources:
   tags:
   - cell profiler
   - bioimage analysis
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/fefossa/2023_CourseImageAnalysis_NanoCell
   uuid: 12513d54-3aeb-4b4d-8aef-3aea2f8b5173
@@ -12856,6 +13618,7 @@ resources:
   - BioImage Analysis
   - Research Data Management
   - nfdi4bioimage
+  - exclude from DALIA
   type:
   - Collection
   url: https://nfdi4bioimage.de/home/
@@ -12891,6 +13654,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - include in DALIA
   type:
   - Poster
   url:
@@ -12917,6 +13681,7 @@ resources:
   - NFDI4Bioimage
   - Bioinformatics
   - Omero
+  - exclude from DALIA
   type:
   - Github repository
   url: https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC
@@ -12940,6 +13705,7 @@ resources:
   - Spatial transcriptomics
   - Single cell
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Collection
   - Atlas
@@ -12964,6 +13730,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/285
@@ -12980,6 +13747,7 @@ resources:
   tags:
   - Research Data Management
   - Microscopy
+  - exclude from DALIA
   type:
   - Blog post
   url: https://www.nature.com/articles/d41586-023-03064-9
@@ -13002,6 +13770,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - include in DALIA
   type:
   - Publication
   url: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/417
@@ -13022,6 +13791,7 @@ resources:
     and Future Perspectives in Plasma Technology'
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://www.scitepress.org/Link.aspx?doi=10.5220/0012808000003756
@@ -13047,6 +13817,7 @@ resources:
   - NFDI4Bioimage
   - OMERO
   - Bioimage Analysis
+  - exclude from DALIA
   type:
   - Publication
   url: https://onlinelibrary.wiley.com/doi/10.1111/jmi.13360
@@ -13104,6 +13875,7 @@ resources:
   publication_date: '2024-10-30'
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Publication
   url: https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in
@@ -13145,6 +13917,7 @@ resources:
   publication_date: '2024-01-23'
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://arxiv.org/abs/2401.13023
@@ -13209,6 +13982,7 @@ resources:
   publication_date: '2024-08-30'
   tags:
   - Research Data Management
+  - exclude from DALIA
   type:
   - Publication
   url: https://arxiv.org/abs/2401.13022
@@ -13241,6 +14015,7 @@ resources:
   - NFDI4Bioimage
   - jipipe
   - bioimage analysis
+  - include in DALIA
   uuid: 62c9a2ad-81b3-4ac2-9524-197a9e25be55
   language: en
 - authors:
@@ -13257,6 +14032,7 @@ resources:
   tags:
   - Galaxy
   - Multiplex Imaging
+  - include in DALIA
   type:
   - Tutorial
   url: https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.html#end-to-end-tissue-microarray-image-analysis-with-galaxy-me
@@ -13274,6 +14050,7 @@ resources:
   - Deep Learning
   - Neural Networks
   - Machine Learning
+  - exclude from DALIA
   type:
   - Book
   url: http://neuralnetworksanddeeplearning.com
@@ -13296,6 +14073,7 @@ resources:
   - Computer Vision
   - Neural Networks
   - Machine Learning
+  - include in DALIA
   type:
   - Blog post
   url: https://cs231n.github.io/convolutional-networks/
@@ -13308,6 +14086,7 @@ resources:
   tags:
   - Open Source
   - Licensing
+  - exclude from DALIA
   type:
   - Website
   url: https://choosealicense.com
@@ -13326,6 +14105,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Data Exploration
+  - include in DALIA
   type:
   - Publication
   url: https://journals.biologists.com/jcs/article/138/7/jcs263801/367617/Practical-considerations-for-data-exploration-in
@@ -13343,6 +14123,7 @@ resources:
   publication_date: '2024-12-05'
   tags:
   - Data Visualization
+  - include in DALIA
   type:
   - Blog post
   url: https://observablehq.com/blog/effective-animation
@@ -13361,6 +14142,7 @@ resources:
   tags:
   - Galaxy
   - Bioimage Analysis
+  - include in DALIA
   type:
   - Tutorial
   - Video
@@ -13379,6 +14161,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Artificial Intelligence
+  - include in DALIA
   type:
   - Book
   - GitHub Repository
@@ -13391,6 +14174,7 @@ resources:
   publication_date: '2025-01-01'
   tags:
   - Imaging
+  - exclude from DALIA
   type:
   - Video
   url: https://youtube.com/playlist?list=PLWfaNqiSdtzW_muHrCkwJm9FyovAue-jN&si=-zIXh87DMkAEuJVd
@@ -13402,6 +14186,7 @@ resources:
   publication_date: '2025-01-01'
   tags:
   - Imaging
+  - exclude from DALIA
   type:
   - Video
   url: https://youtube.com/playlist?list=PLWfaNqiSdtzVkfJW2gO-unAYjcDji7-9i&si=U5gvYtUYvmLHxi0z
@@ -13417,6 +14202,7 @@ resources:
   publication_date: '2021-03-22'
   tags:
   - High Performance Computing
+  - include in DALIA
   type:
   - Github Repository
   url: https://epcced.github.io/20210322-intro-hpc-life-scientists/
@@ -13432,6 +14218,7 @@ resources:
   publication_date: '2007-02-12'
   tags:
   - Reseach Data Management
+  - include in DALIA
   type:
   - Blog post
   url: https://blog.josephscott.org/2007/02/12/things-that-shouldnt-be-in-file-names-for-1000-alex/
@@ -13448,6 +14235,7 @@ resources:
   publication_date: '2020-06-02'
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Worksheet
   url: https://authors.library.caltech.edu/records/mmnpf-cez11
@@ -13463,6 +14251,7 @@ resources:
   publication_date: null
   tags:
   - Research Data Management
+  - include in DALIA
   type:
   - Blog post
   url: https://www.tdda.info/name-styles
@@ -13477,6 +14266,7 @@ resources:
   publication_date: '2024-08-05'
   tags:
   - Dimensionality Reduction
+  - include in DALIA
   type:
   - Video
   url: https://www.youtube.com/watch?v=o_cAOa5fMhE
@@ -13512,6 +14302,7 @@ resources:
   tags:
   - Data Management
   - omero
+  - exclude from DALIA
   type:
   - GitLab Repository
   url: https://gitlab.in2p3.fr/fbi-data/omero-quay
@@ -13539,6 +14330,7 @@ resources:
   submission_date: '2025-05-29T19:38:24.237753'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13564,6 +14356,7 @@ resources:
   submission_date: '2025-05-29T19:38:24.766943'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13633,6 +14426,7 @@ resources:
   submission_date: '2025-05-29T19:38:25.339506'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13657,6 +14451,7 @@ resources:
   submission_date: '2025-05-29T19:38:25.822989'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13739,6 +14534,7 @@ resources:
   submission_date: '2025-05-29T19:38:26.752489'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13787,6 +14583,7 @@ resources:
   submission_date: '2025-05-29T19:38:27.205731'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -13914,6 +14711,7 @@ resources:
   submission_date: '2025-05-29T19:38:28.073452'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14035,6 +14833,7 @@ resources:
   submission_date: '2025-05-29T19:38:28.990624'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14152,6 +14951,7 @@ resources:
   submission_date: '2025-05-29T19:38:29.421953'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14273,6 +15073,7 @@ resources:
   submission_date: '2025-05-29T19:38:29.860975'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14392,6 +15193,7 @@ resources:
   submission_date: '2025-05-29T19:38:30.285796'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14433,6 +15235,7 @@ resources:
   submission_date: '2025-05-29T19:38:30.751680'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14552,6 +15355,7 @@ resources:
   submission_date: '2025-05-29T19:38:31.190324'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14571,6 +15375,7 @@ resources:
   submission_date: '2025-05-29T19:38:31.700518'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14690,6 +15495,7 @@ resources:
   submission_date: '2025-05-29T19:38:32.180777'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14723,6 +15529,7 @@ resources:
   submission_date: '2025-05-29T19:38:32.603510'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14847,6 +15654,7 @@ resources:
   submission_date: '2025-05-29T19:38:33.127511'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14899,6 +15707,7 @@ resources:
   submission_date: '2025-05-29T19:38:33.657404'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14952,6 +15761,7 @@ resources:
   submission_date: '2025-05-29T19:38:34.087908'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -14993,6 +15803,7 @@ resources:
   submission_date: '2025-05-29T19:38:34.505684'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15049,6 +15860,7 @@ resources:
   submission_date: '2025-05-29T19:38:35.530116'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15087,6 +15899,7 @@ resources:
   submission_date: '2025-05-29T19:38:35.970086'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15127,6 +15940,7 @@ resources:
   submission_date: '2025-05-29T19:38:36.414752'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15182,6 +15996,7 @@ resources:
   submission_date: '2025-05-29T19:38:36.879772'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15223,6 +16038,7 @@ resources:
   submission_date: '2025-05-29T19:38:37.341752'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15244,6 +16060,7 @@ resources:
   submission_date: '2025-05-29T19:38:37.758199'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15414,6 +16231,7 @@ resources:
   submission_date: '2025-05-29T19:38:38.194976'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15444,6 +16262,7 @@ resources:
   submission_date: '2025-05-29T19:38:38.748023'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15521,6 +16340,7 @@ resources:
   submission_date: '2025-05-29T19:38:40.141372'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15590,6 +16410,7 @@ resources:
   submission_date: '2025-05-29T19:38:41.093509'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15712,6 +16533,7 @@ resources:
   submission_date: '2025-05-29T19:38:42.528986'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15769,6 +16591,7 @@ resources:
   submission_date: '2025-05-29T19:38:43.007344'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15849,6 +16672,7 @@ resources:
   submission_date: '2025-05-29T19:38:43.922418'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -15937,6 +16761,7 @@ resources:
   submission_date: '2025-05-29T19:38:44.386655'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16021,6 +16846,7 @@ resources:
   submission_date: '2025-05-29T19:38:44.860796'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16043,6 +16869,7 @@ resources:
   submission_date: '2025-05-29T19:38:45.337769'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16070,6 +16897,7 @@ resources:
   submission_date: '2025-05-29T19:38:45.843825'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16098,6 +16926,7 @@ resources:
   submission_date: '2025-05-29T19:38:46.275062'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16133,6 +16962,7 @@ resources:
   submission_date: '2025-05-29T19:38:46.745073'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16156,6 +16986,7 @@ resources:
   submission_date: '2025-05-29T19:38:48.150464'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16212,6 +17043,7 @@ resources:
   submission_date: '2025-05-29T19:38:48.620043'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16242,6 +17074,7 @@ resources:
   submission_date: '2025-05-29T19:38:49.073075'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16263,6 +17096,7 @@ resources:
   submission_date: '2025-05-29T19:38:49.958446'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16299,6 +17133,7 @@ resources:
   submission_date: '2025-05-29T19:38:50.490184'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16363,6 +17198,7 @@ resources:
   submission_date: '2025-05-29T19:38:50.949394'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16428,6 +17264,7 @@ resources:
   submission_date: '2025-05-29T19:38:51.500727'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16468,6 +17305,7 @@ resources:
   submission_date: '2025-05-29T19:38:52.025441'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16515,6 +17353,7 @@ resources:
   submission_date: '2025-05-29T19:38:52.495957'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16601,6 +17440,7 @@ resources:
   submission_date: '2025-05-29T19:38:52.964225'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16669,6 +17509,7 @@ resources:
   submission_date: '2025-05-29T19:38:53.423116'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16755,6 +17596,7 @@ resources:
   submission_date: '2025-05-29T19:38:53.883896'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16824,6 +17666,7 @@ resources:
   submission_date: '2025-05-29T19:38:54.561573'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16869,6 +17712,7 @@ resources:
   submission_date: '2025-05-29T19:38:55.457337'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url:
@@ -16895,6 +17739,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15423904
   uuid: 16fa61ee-9c45-44b7-a9b9-7cd006b288b1
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Bortolomeazzi, Michele
   - Boissonnet, Tom
@@ -16920,6 +17766,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - include in DALIA
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -16955,6 +17802,8 @@ resources:
   uuid: 88da6030-f8df-4f49-9678-e79899595ea2
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Luke Sorensen
   - Ayame Saito
@@ -17063,6 +17912,8 @@ resources:
   uuid: 0ff88548-3496-4cb7-abe1-549429c09593
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Young, Pamela
   description: .lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens
@@ -17081,6 +17932,8 @@ resources:
   uuid: 424e6f7a-7dfe-4775-9e4c-85d2e3095220
   language: en
   file_formats: .lif * .lifext
+  tags:
+  - exclude from DALIA
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -17097,6 +17950,8 @@ resources:
   uuid: 0d46d6ca-2417-4722-863c-69275c111cd8
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: 'Working together on the internet presents us with new challenges:
@@ -17138,6 +17993,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Research Data Management
+  - exclude from DALIA
 - authors:
   - Haase, Robert
   description: The advent of large language models (LLMs) such as ChatGPT changes
@@ -17157,6 +18013,8 @@ resources:
   uuid: 586accd4-855b-4cad-9fcb-40ce1c81c7a0
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: 'In this slide deck we learn about the basics of Explainable Artificial
@@ -17179,6 +18037,7 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - Artificial Intelligence
+  - include in DALIA
 - authors:
   - Vebjorn Ljosa
   - Katherine L. Sokolnicki
@@ -17193,6 +18052,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC005
@@ -17216,6 +18076,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC008
@@ -17235,6 +18096,7 @@ resources:
   publication_date: '2009-06-01'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC024
@@ -17256,6 +18118,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC032
@@ -17280,6 +18143,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC039
@@ -17299,6 +18163,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC006
@@ -17316,6 +18181,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC004
@@ -17337,6 +18203,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC035
@@ -17356,6 +18223,7 @@ resources:
   publication_date: '2016-03-01'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC026
@@ -17372,6 +18240,7 @@ resources:
   publication_date: '2023-08-14'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD843-ai.html
@@ -17392,6 +18261,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC050
@@ -17412,6 +18282,7 @@ resources:
   publication_date: '2012-06-28'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC007
@@ -17438,6 +18309,7 @@ resources:
   publication_date: '2023-03-07'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD634-ai.html
@@ -17457,6 +18329,7 @@ resources:
   publication_date: '2016-07-29'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://bbbc.broadinstitute.org/BBBC030
@@ -17475,6 +18348,7 @@ resources:
   publication_date: '2022-12-13'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD599-ai.html
@@ -17512,6 +18386,7 @@ resources:
   publication_date: '2021-03-05'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://janelia.figshare.com/articles/dataset/Ground-truth_cell_body_segmentation_used_for_Starfinity_training/13624268
@@ -17528,6 +18403,7 @@ resources:
   publication_date: '2023-05-10'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/S-BIAD686-ai.html
@@ -17554,6 +18430,7 @@ resources:
   publication_date: '2024-06-29'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1026/
@@ -17582,6 +18459,7 @@ resources:
   publication_date: '2024-06-05'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1196/
@@ -17602,6 +18480,7 @@ resources:
   publication_date: '2024-11-26'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1492/
@@ -17624,6 +18503,7 @@ resources:
   publication_date: '2024-12-20'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.ebi.ac.uk/bioimage-archive/galleries/ai/analysed-dataset/S-BIAD1518/
@@ -17651,6 +18531,7 @@ resources:
   publication_date: '2017-07-01'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://monuseg.grand-challenge.org/Data/
@@ -17674,6 +18555,7 @@ resources:
   publication_date: '2021-06-04'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://monusac-2020.grand-challenge.org/Data/
@@ -17692,6 +18574,7 @@ resources:
   publication_date: '2019-12-31'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.kaggle.com/datasets/ipateam/segmentation-of-nuclei-in-cryosectioned-he-images
@@ -17713,6 +18596,7 @@ resources:
   publication_date: '2024-05-14'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.kaggle.com/datasets/ipateam/nuinsseg
@@ -17726,6 +18610,7 @@ resources:
   publication_date: '2017-12-07'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://github.com/Shenggan/BCCD_Dataset
@@ -17750,6 +18635,7 @@ resources:
   publication_date: '2018-02-16'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://paperswithcode.com/dataset/tnbc
@@ -17767,6 +18653,7 @@ resources:
   publication_date: '2020-12-14'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.cellpose.org/dataset
@@ -17781,6 +18668,7 @@ resources:
   publication_date: '2021-03-16'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://github.com/DeepMicroscopy/MIDOG
@@ -17797,6 +18685,7 @@ resources:
   publication_date: '2021-12-12'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://github.com/bupt-ai-cz/BALNMP
@@ -17830,6 +18719,7 @@ resources:
   publication_date: '2017-10-04'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://www.cancerimagingarchive.net/collection/post-nat-brca/
@@ -17879,6 +18769,7 @@ resources:
   publication_date: '2019-11-09'
   tags:
   - AI-ready
+  - exclude from DALIA
   type:
   - Data
   url: https://github.com/PathologyDataScience/BCSS
@@ -17902,6 +18793,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Schmidt, Christian
   - Mathur, Aastha
@@ -17923,6 +18815,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Moore, Josh
   description: 'https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
@@ -17953,6 +18846,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Bustos, Jonatan
   description: This dataset contains 4 .nd2 image files of pollen grains captured
@@ -17970,6 +18864,8 @@ resources:
   uuid: e751285d-f2e7-471e-9cd8-2a3967d8a474
   language: en
   file_formats: .nd2
+  tags:
+  - exclude from DALIA
 - authors:
   - Carlos, Jaramillo
   description: this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp;
@@ -17984,6 +18880,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15579371
   uuid: 48befda9-ad2d-4a01-a200-24185f976e76
   file_formats: .nd2
+  tags:
+  - exclude from DALIA
 - authors:
   - Andrey Fedorov
   - Daniela Schacherer
@@ -17999,7 +18897,9 @@ resources:
   name: IDC-Tutorials
   publication_date: '2024-11-28T17:20:53+00:00'
   submission_date: '2025-06-10T06:50:43.986339'
-  tags: bio-image analysis
+  tags:
+  - bio-image analysis
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/ImagingDataCommons/IDC-Tutorials
   uuid: b50b1a33-9fd0-4aab-9208-a2af56c63d77
@@ -18017,6 +18917,8 @@ resources:
   url: https://doi.org/10.1038/s41592-021-01113-7
   uuid: bea8e15a-37d5-4fb2-8f94-17a779993313
   language: en
+  tags:
+  - include in DALIA
 - authors:
   - Moore, Josh
   description: 'Presented at https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
@@ -18068,6 +18970,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -18101,6 +19004,8 @@ resources:
   uuid: 2285c9b6-dc37-4bf4-a62c-55419c510271
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Schätz, Martin
   description: 'Presented as a part of:
@@ -18125,6 +19030,8 @@ resources:
   uuid: fc69b529-2165-4ada-8e55-36dae2730850
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Koutentaki, Georgia
   - Schätz, Martin
@@ -18139,6 +19046,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15402904
   uuid: 4d31048c-5ce3-40ac-90dc-b2755fe19822
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Kylies, Dominik
   - Heil, Hannah S.
@@ -18230,6 +19139,8 @@ resources:
   uuid: b712f2da-5847-4b78-8e6e-19006b75cea8
   language: en
   file_formats: .ipynb * .pdf * .tif
+  tags:
+  - include in DALIA
 - authors:
   - Weidtkamp-Peters, Stefanie
   - Boissonnet, Tom
@@ -18307,6 +19218,7 @@ resources:
   - NFDI4Bioimage
   - FAIR Principles
   - Research Data Management
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -18327,6 +19239,7 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - Artificial Intelligence
+  - exclude from DALIA
 - authors:
   - Michele, Bortolomeazzi
   description: OMERO is the most used research data management system (RDM) in the
@@ -18366,6 +19279,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - OMERO
+  - include in DALIA
 - authors:
   - Moore, Josh
   description: 'Presentation for the BioImagingUK Meeting taking place from 1200 -
@@ -18392,6 +19306,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Haase, Robert
   description: 'In this talk, I demonstrate potential use-cases for vision-language
@@ -18442,6 +19357,7 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - Artificial Intelligence
+  - include in DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18508,6 +19424,8 @@ resources:
   uuid: a5be89ce-be47-4cc3-9685-ff082987afa1
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Schätz, Martin
   - Rubešová, Olga
@@ -18555,6 +19473,8 @@ resources:
   uuid: 4bc7c5be-f890-4eb0-8e1e-f21f665dbfca
   language: en
   file_formats: .csv * .xlsx * .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei
@@ -18570,6 +19490,8 @@ resources:
   uuid: c872ef0f-528d-47e6-ac0b-6033a95590ea
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Myles Scolnick
   description: Teaching material for image processing and analysis
@@ -18577,7 +19499,9 @@ resources:
   name: image-processing-basics
   publication_date: '2025-05-27T08:31:14+00:00'
   submission_date: '2025-07-09T09:44:28.758546'
-  tags: bio-image analysis
+  tags:
+  - bio-image analysis
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/fmi-faim/image-processing-basics
   uuid: 793ab89b-7158-42ce-99b5-3efcfb092f25
@@ -18589,6 +19513,7 @@ resources:
   submission_date: '2025-07-09T10:49:10.643610'
   tags:
   - data visualization
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/klauck/data_visualization_tutorial
   uuid: 61921e84-5324-49c3-8911-6a2f13a8a248
@@ -18604,6 +19529,7 @@ resources:
   - notebook
   - slides
   - collection
+  - include in DALIA
   type: GitHub Repository
   url: https://github.com/HMS-IAC/qupath-workshop
   uuid: edc34d5f-72ce-4735-a781-67ee375c0aa0
@@ -18627,6 +19553,7 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - Artificial Intelligence
+  - exclude from DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18693,6 +19620,8 @@ resources:
   uuid: 31f35a4c-5f8a-44ef-9dda-f1d5c143126c
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Burdíková, Zuzana
   - Švindrych, Zdeněk
@@ -18769,6 +19698,8 @@ resources:
   uuid: f5fbc8f8-e6e8-450c-bc2b-0300669a9cd6
   language: en
   file_formats: .docx * .pdf * .pptx * .rtf * .zip
+  tags:
+  - include in DALIA
 - authors:
   - Schätz, Martin
   - Azevedo, Maria
@@ -18823,6 +19754,8 @@ resources:
   uuid: d2580d86-408e-4ee5-b0d5-ecb945b0fe14
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the &nbsp;Open source AI Tools for bioimage
@@ -18848,6 +19781,7 @@ resources:
   file_formats: .pptx
   tags:
   - Bioimage Analysis
+  - include in DALIA
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -18874,6 +19808,8 @@ resources:
   uuid: cbf2599b-7a81-47a0-993f-395880196b64
   language: de
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Michael
   license: cc-by-4.0
@@ -18886,6 +19822,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15933943
   uuid: 38e74961-593d-4185-94c2-a4afe3b4f7c4
   file_formats: .dng
+  tags:
+  - exclude from DALIA
 - authors:
   - Ahmadi, Mohsen
   - Wagner, Robert
@@ -18927,6 +19865,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Mathur, Aastha
   - Euro-BioImaging ERIC
@@ -18949,6 +19888,8 @@ resources:
   uuid: 32b4be42-f91a-41e7-913b-03c015834345
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -18967,6 +19908,8 @@ resources:
   uuid: 15ec0a79-4a09-4b8e-ac28-1bb2f0201f0b
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -18985,6 +19928,8 @@ resources:
   uuid: e0eb742a-fa35-4515-a246-75c09ddab2eb
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19003,6 +19948,8 @@ resources:
   uuid: fb316cd2-88c6-4ef0-96f5-c62440c4ccbf
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -19076,6 +20023,8 @@ resources:
   uuid: a81a7297-8ec3-414d-a326-5c5549c0b437
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -19121,6 +20070,8 @@ resources:
   uuid: 335ce5c7-b4f4-4d92-8408-44e378c35b14
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Sauteur, Loïc
   description: 'Related to github issue: https://github.com/ome/bioformats/issues/3517
@@ -19136,6 +20087,8 @@ resources:
   - https://doi.org/10.5281/zenodo.16628927
   uuid: c2ea9d40-a795-4635-bad0-9ec2e2ca4b35
   file_formats: .nd2
+  tags:
+  - exclude from DALIA
 - authors:
   - VP
   description: 'Solution: https://forum.image.sc/t/weird-representation-of-qptiff-of-fluorescent-sample-in-qupath-v-0-6-0/115165/6?u=zuksmp3
@@ -19155,6 +20108,8 @@ resources:
   uuid: 807676ab-e93c-48fc-9013-4691646e76af
   language: en
   file_formats: .qptiff
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   description: 'This tutorial shows how to make cartographic projections of fly embryos
@@ -19173,6 +20128,8 @@ resources:
   uuid: ca0d2538-c305-4bee-be70-2cc86ae75d2a
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   - Handberg-Thorsager, Mette
@@ -19283,6 +20240,8 @@ resources:
   uuid: 94130a13-90c6-40a3-90e4-f5898a42c1ab
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   - Martín-Durán, José M.
@@ -19307,6 +20266,8 @@ resources:
   uuid: fc77ac99-de87-4770-8e36-65ad7586d5d8
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -19334,6 +20295,8 @@ resources:
   uuid: 99dfe37c-7025-4cd7-bf3a-921b04efc14f
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -19361,6 +20324,8 @@ resources:
   uuid: 947a7ad1-b1eb-4080-b3e4-329c15b11be7
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Krishna, Abhijeet
   - Szałapak, Alicja
@@ -19387,6 +20352,8 @@ resources:
   uuid: faa73146-9a79-42bd-a438-e6e3f750b7c1
   language: en
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -19419,6 +20386,8 @@ resources:
   uuid: 58bc7eff-7515-4de1-8950-e1d4c8bfbe58
   language: en
   file_formats: .odp * .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19437,6 +20406,8 @@ resources:
   uuid: 3f3948f3-c810-4543-9c55-2a54e7d1593a
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Marin, Zach
   description: Two 2000-frame chunks acquired at different times (~40 minutes apart)
@@ -19451,6 +20422,8 @@ resources:
   - https://doi.org/10.5281/zenodo.16875377
   uuid: c991078d-3167-4ee4-934c-864dcd48c79b
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Preußner, Johannes
   description: When using bioformats the images are not scaled correctly. The problem
@@ -19470,6 +20443,8 @@ resources:
   uuid: 46e10b2c-c641-4e0f-991b-617e7ddd647b
   language: en
   file_formats: .tif
+  tags:
+  - exclude from DALIA
 - authors:
   - Moore, Josh
   description: 'Poster presentation for the abstract "Enabling Peta-Scale Federated
@@ -19489,6 +20464,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Snyder, Erika, Erika Thomas, Erika T.
   description: 'Hi all,I was referred to this community from the Image.sc Forum original
@@ -19527,6 +20503,8 @@ resources:
   url:
   - https://zenodo.org/records/16921650
   - https://doi.org/10.5281/zenodo.16921650
+  tags:
+  - exclude from DALIA
 - authors:
   - Barry, David J
   - Marcotti, Stefania
@@ -19545,6 +20523,8 @@ resources:
   url:
   - https://zenodo.org/records/16949737
   - https://doi.org/10.5281/zenodo.16949737
+  tags:
+  - include in DALIA
 - authors:
   - Erick Martins Ratamero
   - dependabot[bot]
@@ -19553,12 +20533,13 @@ resources:
   name: training
   publication_date: '2020-03-09T13:25:54+00:00'
   submission_date: '2025-08-31T04:14:07.833232'
-  tags: TODO
   type: GitHub Repository
   url: https://github.com/erickmartins/training
   uuid: 63f1c4cf-8558-4163-a4a3-582cf246530e
   language: en
   file_formats: .nd2
+  tags:
+  - exclude from DALIA
 - authors:
   - Dave Barry
   - Stefania Marcotti
@@ -19570,9 +20551,10 @@ resources:
   name: introduction-to-image-analysis
   publication_date: '2025-08-26T14:08:22+00:00'
   submission_date: '2025-08-29T00:10:58.358044'
-  tags: TODO
   type: GitHub Repository
   url: https://github.com/FrancisCrickInstitute/introduction-to-image-analysis
+  tags:
+  - include in DALIA
 - authors:
   - Wetzker, Cornelia
   description: 'The poster introduces the consortium NFDI4BIOIMAGE and presents tools
@@ -19597,6 +20579,7 @@ resources:
   file_formats: .pdf * .svg
   tags:
   - NFDI4Bioimage
+  - include in DALIA
 - authors:
   - Wang
   license: cc-by-4.0
@@ -19609,6 +20592,8 @@ resources:
   - https://doi.org/10.5281/zenodo.16962727
   uuid: dd97fc26-76a5-44c6-b88a-23124bef1c6a
   file_formats: .zip
+  tags:
+  - exclude from DALIA
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis
@@ -19638,6 +20623,8 @@ resources:
   uuid: 0d297481-ba1d-4543-8bee-a3d988a46bde
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Gladitz, Nils
   license: cc-by-4.0
@@ -19651,6 +20638,8 @@ resources:
   - https://doi.org/10.5281/zenodo.17039369
   uuid: 1a819753-2201-450e-b90c-e1b33571425d
   file_formats: .obf
+  tags:
+  - exclude from DALIA
 - authors:
   - Virginie
   - Johannes Hugger
@@ -19661,6 +20650,7 @@ resources:
   submission_date: '2025-09-15T09:38:35.654661'
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - GitHub Repository
   - notebook
@@ -19677,6 +20667,7 @@ resources:
   tags:
   - Bioimage Analysis
   - Workflows
+  - include in DALIA
   type:
   - GitHub Repository
   url: https://github.com/uhlmanngroup/nextflow101
@@ -19692,6 +20683,7 @@ resources:
   submission_date: '2025-09-15T09:31:14.189165'
   tags:
   - Bioimage Analysis
+  - include in DALIA
   type:
   - GitHub Repository
   - notebook
@@ -19727,6 +20719,8 @@ resources:
   uuid: 41257518-3778-4486-9f5e-dc4e654443a9
   language: en
   file_formats: .pdf
+  tags:
+  - exclude from DALIA
 - authors:
   - Schwarz, Michael
   description: 'Raw microscopy image from the NFDI4Bioimage calendar March 2025.
@@ -19900,6 +20894,8 @@ resources:
   uuid: f72fe567-6d37-4591-a9cd-ddaa71d9b044
   language: en
   file_formats: .czi * .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Moore, Josh
   description: Presented at "International Symposium on Integrative Bioinformatics",
@@ -19916,6 +20912,8 @@ resources:
   uuid: f65c55eb-beb7-44ea-bb45-b72e77e2b2b5
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Müntjes, Kira
   - Schipper, Kerstin
@@ -19953,6 +20951,8 @@ resources:
   uuid: 2a48d7b4-8f31-4f56-986c-e50069276467
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Macas, Jadranka
   description: "Image from the NFDI4BIOIMAGE Calendar November 2025.\nThe image shows\
@@ -20005,6 +21005,8 @@ resources:
   uuid: 7810e557-30a4-4654-beec-9952b6eee1c9
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Joisten-Rosenthal, Vivien
   description: 'Image from the NFDI4BIOIMAGE Calendar October 2025.
@@ -20170,6 +21172,8 @@ resources:
   uuid: bc08638e-543d-4b26-b866-bb7f3abc208f
   language: en
   file_formats: .heic
+  tags:
+  - exclude from DALIA
 - authors:
   - Faber-Zuschratter, Heidi
   - Stöter, Torsten
@@ -20215,6 +21219,8 @@ resources:
   uuid: 7e52232b-844e-40bd-8e8c-a35ced38be99
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Jiang, Haowen
   - Chalopin, Claire
@@ -20389,6 +21395,8 @@ resources:
   uuid: 427c2a3c-3277-4cdb-9d49-01a9d15db89c
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Lörzing, Pilar
   - Iliasov, Denis
@@ -20437,6 +21445,8 @@ resources:
   uuid: e61a1d11-1b5b-43f9-9c5b-01eb96f2de05
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Warstat, Kevin
   description: 'Image from the NFDI4BIOIMAGE Calendar June 2025.
@@ -20532,6 +21542,8 @@ resources:
   uuid: c9f20ad0-98a0-4557-af00-835d0842ca7b
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Lück, Stefanie
   description: "Image from the NFDI4BIOIMAGE Calendar May 2025.\nThe microscopy image\
@@ -20584,6 +21596,8 @@ resources:
   uuid: 1675e1c8-2037-4b6f-913f-f4ffc7bc45e0
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Zurowietz, Martin
   - Nattkemper, Tim W.
@@ -20709,6 +21723,8 @@ resources:
   uuid: 914de557-986a-428a-b57d-f3686c835595
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Kutskiy, Oleg
   description: "Image from the NFDI4BIOIMAGE Calendar February 2025.\n&ldquo;The Way\
@@ -20738,6 +21754,8 @@ resources:
   uuid: 25f9901e-f55b-4d7a-bbf9-3b3edc4a3580
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Miebach, Lea
   - Bekeschus, Sander
@@ -20983,6 +22001,8 @@ resources:
   uuid: 5e5b5c16-257c-4991-a10c-a432c7416a12
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Rademacher, Anne
   - Huseynov, Alik
@@ -21370,6 +22390,8 @@ resources:
   uuid: b2d615f5-2b9c-41d9-8cb9-ed77335ad69d
   language: en
   file_formats: .png
+  tags:
+  - exclude from DALIA
 - authors:
   - Massei, Riccardo
   - Serrano-Solano, Beatriz
@@ -21424,6 +22446,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Wagner, Robert
   - Ahmadi, Mohsen
@@ -21491,6 +22514,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Bioimage Analysis
+  - exclude from DALIA
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -21530,6 +22554,7 @@ resources:
   file_formats: .pdf
   tags:
   - NFDI4Bioimage
+  - exclude from DALIA
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -21552,6 +22577,7 @@ resources:
   tags:
   - NFDI4Bioimage
   - Bioimage Analysis
+  - include in DALIA
 - authors:
   - Thönnißen, Julia
   - Oliveira, Sarah
@@ -21621,6 +22647,8 @@ resources:
   uuid: 2f736338-f8e4-413e-bf7a-d1b6f8cd23e8
   language: en
   file_formats: .pdf
+  tags:
+  - include in DALIA
 - authors:
   - Schätz, Martin
   - Pérez Koldenkova, Vadim
@@ -21637,6 +22665,8 @@ resources:
   - https://doi.org/10.5281/zenodo.17080219
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
   file_formats: .pdf * .pptx
+  tags:
+  - include in DALIA
 - authors:
   - Erin Weisbart
   description: Contains the survey data collected through the 2024 Bridging Imaging
@@ -21651,6 +22681,8 @@ resources:
   url:
   - https://zenodo.org/records/17127544
   - https://doi.org/10.5281/zenodo.17127544
+  tags:
+  - exclude from DALIA
 - authors:
   - Kevin Yamauchi
   description: ''
@@ -21658,6 +22690,7 @@ resources:
   name: embo-bia-2025
   publication_date: '2025-08-18T09:32:20+00:00'
   submission_date: '2025-09-16T18:32:42.184908'
-  tags: TODO
   type: GitHub Repository
   url: https://github.com/kevinyamauchi/embo-bia-2025
+  tags:
+  - exclude from DALIA
