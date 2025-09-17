@@ -21645,6 +21645,20 @@ resources:
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
   file_formats: .pdf * .pptx
 - authors:
+  - Erin Weisbart
+  description: Contains the survey data collected through the 2024 Bridging Imaging
+    Users to Imaging Analysis Survey and figures/code from preliminary data exploration
+    of the survey results.
+  license: bsd-3-clause
+  name: 'COBA-NIH/2024_Bridging_Imaging_Users_to_Imaging_Analysis_Survey: Survey data
+    with preliminary exploration'
+  num_downloads: 0
+  publication_date: '2025-09-15'
+  submission_date: '2025-09-16T19:14:02.382718'
+  url:
+  - https://zenodo.org/records/17127544
+  - https://doi.org/10.5281/zenodo.17127544
+- authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
     k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen.
