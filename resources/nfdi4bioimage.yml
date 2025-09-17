@@ -6757,7 +6757,7 @@ resources:
   url: https://f1000research.com/articles/11-638/v2
   uuid: 90748362-6f2e-4a52-9ce8-9cffca33693a
   language: en
-- author: Marvin Albert
+- authors: Marvin Albert
   description: Repository accompanying the multiview-stitcher tutorial for Virtual
     I2K 2024
   license: BSD-3-CLAUSE
@@ -6827,7 +6827,7 @@ resources:
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .zip
-- author: Isra Mekki
+- authors: Isra Mekki
   description: ''
   license: MIT
   name: Prompt-Engineering-LLMs-Course
