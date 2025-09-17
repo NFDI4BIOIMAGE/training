@@ -483,6 +483,7 @@ resources:
   - Carolin Odebrecht https://orcid.org/0000-0003-4887-7701
   - Cord Wiljes https://orcid.org/0000-0003-2528-5391
   - Ulrike Wuttke https://orcid.org/0000-0002-8217-4025
+  file_formats: .pdf * .zip
 - authors:
   - Katarzyna Biernacka
   - Katrin Cortez
@@ -528,6 +529,7 @@ resources:
   - Katarzyna Biernacka https://orcid.org/0000-0002-6363-0064
   - Katrin Cortez
   - Kerstin Helbig https://orcid.org/0000-0002-2775-6751
+  file_formats: .pdf
 - license: CC-BY-4.0
   name: RDMKit Training Resources
   tags:
@@ -749,6 +751,7 @@ resources:
   language: en
   author_with_orcid:
   - Stefano Della Chiesa https://orcid.org/0000-0002-6693-2199
+  file_formats: .pdf * .pdf * .pdf * .pdf
 - name: Lund Declaration on Maximising the Benefits of Research Data
   tags:
   - Research Data Management
@@ -1048,6 +1051,10 @@ resources:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
+  file_formats: .odp * .odp * .odp * .odp * .odp * .odp * .odp * .odp * .odp * .odp
+    * .odp * .odp * .odp * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf *
+    .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx * .pptx * .pptx
+    * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx
 - license: APACHE-2.0
   name: ITKElastix Examples
   proficiency_level: competent
@@ -1298,6 +1305,7 @@ resources:
   uuid: 3d68b98a-86f3-43fd-a67c-cfcee8d5c209
   author_with_orcid:
   - Stephen Royle
+  file_formats: .zip
 - authors:
   - Stephen Royle
   name: 'The Digital Cell: Cell Biology as a Data Science'
@@ -1946,6 +1954,7 @@ resources:
   author_with_orcid:
   - Anna Kreshuk
   - Dominik Kutra
+  file_formats: .pptx
 - name: 'CZI: Open Science Program Collection'
   type:
   - Collection
@@ -1977,6 +1986,7 @@ resources:
   author_with_orcid:
   - Evan Floden https://orcid.org/0000-0002-5431-190X
   - Paolo Di Tommaso
+  file_formats: .pdf
 - authors:
   - Peter Bankhead
   description: Slides from the CZI/EOSS online meeting in December 2020.
@@ -1994,6 +2004,7 @@ resources:
   uuid: 7bcacaba-18d1-4f67-a907-29d74f5205ce
   author_with_orcid:
   - Peter Bankhead
+  file_formats: .pdf
 - authors:
   - Kari Jordan
   - Zhian Kamvar
@@ -2020,6 +2031,7 @@ resources:
   - Kari Jordan https://orcid.org/0000-0003-4121-2432
   - Zhian Kamvar https://orcid.org/0000-0003-1458-7108
   - Toby Hodges https://orcid.org/0000-0003-1766-456X
+  file_formats: .pdf
 - authors:
   - Guillaume Witz
   license: UNKNOWN
@@ -2200,6 +2212,7 @@ resources:
   language: en
   author_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf * .pptx
 - authors:
   - Robert Haase
   description: Large Language Models (LLMs) change the way how we use computers. This
@@ -2225,6 +2238,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .odp * .pdf * .pptx
 - authors:
   - Stephane Rigaud
   - Brian Northan
@@ -2336,6 +2350,7 @@ resources:
   language: en
   author_with_orcid:
   - Elnaz Fazeli https://orcid.org/0000-0002-0770-0777
+  file_formats: .pdf
 - authors:
   - Robert Haase
   description: In these slides introduce current challenges and potential solutions
@@ -2360,6 +2375,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pptx
 - authors:
   - Josh Moore
   description: Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany,
@@ -2378,6 +2394,7 @@ resources:
   uuid: df5a4693-6382-4a1b-b1b5-855423861b0d
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Marvin Albert
   description: Tutorial material for teaching the basics of (itk-)elastix for image
@@ -2496,6 +2513,7 @@ resources:
   language: de
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Robert Haase
   description: Wir tauchen ein in die Welt der Open Science und definieren Begriffe
@@ -2523,6 +2541,7 @@ resources:
   language: de
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Robert Haase
   description: In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her
@@ -2547,6 +2566,7 @@ resources:
   language: de
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .docx * .pdf * .pptx
 - authors:
   - Robert Haase
   description: '
@@ -2576,6 +2596,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .odp * .pdf * .pptx
 - authors:
   - Estibaliz Gómez de Mariscal
   description: Introduction to FAIR deep learning. Furthermore, tools to deploy trained
@@ -2691,6 +2712,7 @@ resources:
   author_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Euro-BioImaging ERIC
+  file_formats: .pdf
 - authors:
   - Isabel Kemmer
   - Euro-BioImaging ERIC
@@ -2722,6 +2744,7 @@ resources:
   author_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Euro-BioImaging ERIC
+  file_formats: .pdf
 - authors:
   - Marcelo Zoccoler
   - Simon Bekemeier
@@ -2782,6 +2805,8 @@ resources:
   - Marc Gentzel https://orcid.org/0000-0002-4482-6010
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pptx * .pptx
+    * .pptx * .pptx * .pptx * .pptx
 - authors:
   - Josh Moore
   - Andra Waagmeester
@@ -2811,6 +2836,7 @@ resources:
   - Kristina Hettne https://orcid.org/0000-0002-4182-7560
   - Katherine Wolstencroft https://orcid.org/0000-0002-1279-5133
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf
 - authors:
   - Riccardo Massei
   - Stefan Scholz
@@ -2876,6 +2902,7 @@ resources:
   - Timo Dickscheid https://orcid.org/0000-0002-9051-3701
   - Timo Mühlhaus https://orcid.org/0000-0003-3925-6778
   - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
+  file_formats: .pdf
 - authors:
   - Josh Moore
   description: For decades, the sharing of large N-dimensional datasets has posed
@@ -2900,6 +2927,7 @@ resources:
   language: en
   author_with_orcid:
   - Joshua Allen Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Sarah Weischer
   - Jens Wendt
@@ -2925,6 +2953,7 @@ resources:
   - Sarah Weischer https://orcid.org/0000-0001-7292-8308
   - Jens Wendt
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
+  file_formats: .zip
 - authors:
   - Anca Margineanu
   - Chiara Stringari
@@ -2952,6 +2981,7 @@ resources:
   - Chiara Stringari https://orcid.org/0000-0002-0550-7463
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf * .pdf * .pdf * .pptx * .pptx * .pptx
 - authors:
   - Riccardo Massei
   description: Results of the project 'Conversion of KNIME image analysis workflows
@@ -2967,6 +2997,7 @@ resources:
   uuid: 69717b33-15d5-4ca1-8b66-11ffbfcb594d
   author_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pptx
 - authors:
   - Constantin Pape
   description: 'Talks about Segment Anything for Microscopy: https://github.com/computational-cell-analytics/micro-sam.
@@ -2998,6 +3029,7 @@ resources:
   language: en
   author_with_orcid:
   - Constantin Pape https://orcid.org/0000-0001-6562-7187
+  file_formats: .pdf * .pdf * .pptx * .pptx
 - authors:
   - Pia Voigt
   - Carolin Hundt
@@ -3026,6 +3058,7 @@ resources:
   author_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Carolin Hundt https://orcid.org/0000-0002-7237-965X
+  file_formats: .pdf
 - authors:
   - Stefano Della Chiesa
   description: ' These slides were presented at the 2. SaxFDM-Beratungsstammtisch
@@ -3052,6 +3085,7 @@ resources:
   language: en
   author_with_orcid:
   - Stefano Della Chiesa https://orcid.org/0000-0002-6693-2199
+  file_formats: .pdf
 - authors:
   - Robert Haase
   description: In this SaxFDM Digital Kitchen, I introduced current challenges and
@@ -3080,6 +3114,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .odp * .pdf * .pptx
 - authors:
   - Elfi Hesse
   - Jan-Christoph Deinert
@@ -3108,6 +3143,7 @@ resources:
   - Elfi Hesse https://orcid.org/0000-0001-5085-5048
   - Jan-Christoph Deinert https://orcid.org/0000-0001-6211-0158
   - Christian Löschen
+  file_formats: .pdf
 - authors:
   - Stephan Wünsche
   description: 'Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten,
@@ -3137,6 +3173,7 @@ resources:
   language: de
   author_with_orcid:
   - Stephan Wünsche https://orcid.org/0000-0001-9552-4402
+  file_formats: .pdf
 - authors:
   - Pia Voigt
   description: 'Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche
@@ -3164,6 +3201,7 @@ resources:
   language: de
   author_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
+  file_formats: .pdf * .pptx
 - authors:
   - Stephan Wünsche
   - Pia Voigt
@@ -3197,6 +3235,7 @@ resources:
   author_with_orcid:
   - Stephan Wünsche https://orcid.org/0000-0001-9552-4402
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
+  file_formats: .pdf
 - authors:
   - Pia Voigt
   - Barbara Weiner
@@ -3237,6 +3276,7 @@ resources:
   author_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Barbara Weiner https://orcid.org/0000-0003-2747-8648
+  file_formats: .pdf
 - authors:
   - Pia Voigt
   - Barbara Weiner
@@ -3285,6 +3325,7 @@ resources:
   author_with_orcid:
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
   - Barbara Weiner https://orcid.org/0000-0003-2747-8648
+  file_formats: .pdf
 - authors:
   - Barbara Weiner
   - Stephan Wünsche
@@ -3327,6 +3368,7 @@ resources:
   - Clemens Hoffmann
   - Romy Elze
   - Ronny Gey https://orcid.org/0000-0003-1028-1670
+  file_formats: .pdf * .pdf
 - authors:
   - Robert Haase
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -3347,6 +3389,9 @@ resources:
   uuid: 7e738276-8d5b-41d1-98f2-3bdbb84e516f
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf
+    * .pdf * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx *
+    .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx
 - authors:
   - Robert Haase
   description: Training resources for Students at Uni Leipzig who want to dive into
@@ -3398,6 +3443,7 @@ resources:
   - Kate Hertweck https://orcid.org/0000-0002-4026-4612
   - Carly Strasser https://orcid.org/0000-0001-9592-2339
   - Dario Taraborelli https://orcid.org/0000-0002-0082-8508
+  file_formats: .csv * .csv * .csv * .csv * .csv * .csv * .md * .pdf
 - authors:
   - Heidi Seibold
   description: A short book with 6 steps that get you closer to making your work reproducible.
@@ -3415,6 +3461,7 @@ resources:
   uuid: f7090051-8760-4b05-bab0-0b48f7478f38
   author_with_orcid:
   - Heidi Seibold https://orcid.org/0000-0002-8960-9642
+  file_formats: .epub * .jpg * .pdf * .png
 - authors:
   - Christian Schmidt
   - Elisa Ferrando-May
@@ -3571,6 +3618,7 @@ resources:
   language: en
   author_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .mp4
 - authors:
   - Robert Haase
   description: Article about the Fiji Updater explaining how it works in the background.
@@ -3951,6 +3999,7 @@ resources:
   uuid: 846f52ff-124a-4283-904d-724d651877a2
   author_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf * .pptx
 - authors:
   - Robert Haase
   license: CC-BY-4.0
@@ -4017,6 +4066,7 @@ resources:
   uuid: ec7c4adc-cbd0-4014-af89-d628f79130bd
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf * .pptx
 - authors:
   - Stefanie Weidtkamp-Peters
   description: NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR
@@ -4037,6 +4087,7 @@ resources:
   uuid: 3088e8b7-ace8-48c0-a5ec-07c3fa497ca1
   author_with_orcid:
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf * .pptx
 - authors:
   - Mohamed Abdrabbou
   - Mehrnaz Babaki
@@ -4094,6 +4145,7 @@ resources:
   - H. Lukas Weil https://orcid.org/0000-0003-1945-6342
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
   - Peter Zentis https://orcid.org/0000-0002-6999-132X
+  file_formats: .zip
 - authors:
   - Josh Moore
   - Susanne Kunis
@@ -4114,6 +4166,7 @@ resources:
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf
 - authors:
   - Susanne Kunis
   description: Presentation given at PoL BioImage Analysis Symposium Dresden 2023
@@ -4129,6 +4182,7 @@ resources:
   uuid: eed6bba8-e74d-4f1e-a02c-739f5e643246
   author_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf * .pptx
 - authors:
   - Josh Moore
   - Susanne Kunis
@@ -4153,6 +4207,7 @@ resources:
   author_with_orcid:
   - Joshua Allenm Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf
 - authors:
   - Riccardo Massei
   description: NFDI4BIOIMAGE is a consortium within the framework of the National
@@ -4174,6 +4229,7 @@ resources:
   language: en
   author_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pdf
 - authors:
   - Vanessa Aphaia Fiona Fuchs
   - Jens Wendt
@@ -4201,6 +4257,7 @@ resources:
   - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf
 - authors:
   - Christian Schmidt
   description: Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM
@@ -4218,6 +4275,7 @@ resources:
   uuid: 6b5cd720-8954-4862-ad2f-5f46697bfe49
   author_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  file_formats: .pdf
 - authors:
   - Carsten Fortmann-Grote
   description: Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about
@@ -4237,6 +4295,7 @@ resources:
   uuid: 8fb3de32-915a-4e3a-84c4-1072becd9e64
   author_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE Consortium
   description: 'Bioimaging refers to a collection of methods to visualize the internal
@@ -4347,6 +4406,7 @@ resources:
   - Lutz Becks https://orcid.org/0000-0002-3885-5253
   - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf
 - authors:
   - Josh Moore
   description: Presentation made to the GBI Image Data Management Working Group during
@@ -4362,6 +4422,7 @@ resources:
   uuid: e194a8c5-2355-4961-8728-4a25a91b620b
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Jonathan Geiger
   - Petra Steiner
@@ -4414,6 +4475,7 @@ resources:
   - Petra Steiner https://orcid.org/0000-0001-8997-2620
   - Abdelmoneim Amer Desouki https://orcid.org/0000-0003-2083-1277
   - Frank Lange https://orcid.org/0000-0002-9346-6031
+  file_formats: .csv * .ods * .pdf
 - authors:
   - Joel Ryan
   - Thomas Pengo
@@ -4945,6 +5007,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Robert Haase
   description: 'Large Language Models (LLMs) such as ChatGPT are changing the way
@@ -4964,6 +5027,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx * .zip
 - authors:
   - Robert Haase
   description: This talk will present the initiatives of the NFDI4BioImage consortium
@@ -4985,6 +5049,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Matúš Kalaš et al.
   description: EDAM-bioimaging is an extension of the EDAM ontology, dedicated to
@@ -5275,6 +5340,8 @@ resources:
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  file_formats: .ijm * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx
+    * .pptx * .pptx * .pptx
 - authors:
   - Riccardo Massei
   description: 'YMIA python event 2024
@@ -5292,6 +5359,7 @@ resources:
   uuid: 9b0e425e-30cb-4853-bfde-e52a7ed803ea
   author_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .odp
 - authors:
   - Robert Haase
   description: In this presentation I introduce bia-bob, an AI-based code generator
@@ -5313,6 +5381,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - University of Ghent
   description: The website provides resources and guidelines for managing research
@@ -6333,6 +6402,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase
+  file_formats: .pdf
 - authors:
   - Elnaz Fazeli
   - Haase Robert
@@ -6366,6 +6436,7 @@ resources:
   - Doube Michael
   - Miura Kota
   - Legland David
+  file_formats: .pdf
 - authors:
   - Rémy Jean Daniel Dornier
   license: CC-BY-NC-SA-4.0
@@ -6427,6 +6498,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Alan O'Callaghan
   - Léo Leplat
@@ -6595,6 +6667,7 @@ resources:
   uuid: 7284eeb2-8c94-409d-b1a6-4fca8d3d58c7
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Josh Moore
   description: Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
@@ -6608,6 +6681,7 @@ resources:
   uuid: 5c0f0a6f-ec67-4e02-a334-aaac067af06f
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Josh Moore
   description: 'or, "OME-Zarr: ''even a talk on formats [can be] interesting''"
@@ -6623,6 +6697,7 @@ resources:
   uuid: 54710395-1ce7-4672-9c8d-967f1b2ab3e4
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Thomas Zobel
   - Jens Wendt
@@ -6652,6 +6727,7 @@ resources:
   author_with_orcid:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  file_formats: .mp4 * .xlsm
 - authors:
   - Chris Allan
   - Emil Rozbicki
@@ -6737,6 +6813,7 @@ resources:
   - German Academic Exchange Service
   - Helmholtz Association of German Research Centres
   - Max Planck Society
+  file_formats: .pdf
 - authors:
   - Robert Haase
   description: 'This is a dataset of PNG images of [Bio-Image Data Science teaching
@@ -6756,6 +6833,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .zip
 - author: Isra Mekki
   description: ''
   license: MIT
@@ -6845,6 +6923,7 @@ resources:
   - Luise Reger
   - Jan Bumberger https://orcid.org/0000-0003-3780-8663
   - Lucille Lopez-Delisle https://orcid.org/0000-0002-1964-4960
+  file_formats: .odp
 - authors:
   - Bruna Piereck
   - Alexander Botzki
@@ -7056,6 +7135,7 @@ resources:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf
 - authors:
   - Carl Herrmann
   - annavonbachmann
@@ -7227,6 +7307,9 @@ resources:
   language: en
   author_with_orcid:
   - Nicolas Chiaruttini
+  file_formats: .hdf5 * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir
+    * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir * .oir *
+    .oir * .oir * .oir * .oir * .oir * .oir * .oir * .omp2info * .omp2info
 - authors:
   - Romain Guiet
   - Nicolas Chiaruttini
@@ -7265,6 +7348,7 @@ resources:
   author_with_orcid:
   - Romain Guiet https://orcid.org/0000-0001-6715-4897
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
+  file_formats: .jpg * .jpg * .zip
 - authors:
   - Nicolas Chiaruttini
   description: 'This is a microscopy image dataset generated by the Perkin Elmer Operetta
@@ -7295,6 +7379,7 @@ resources:
   language: en
   author_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
+  file_formats: .zip
 - authors:
   - Nicolas Chiaruttini
   description: 'A set of public CZI files. These can be used for testing CZI readers.
@@ -7328,6 +7413,8 @@ resources:
   language: en
   author_with_orcid:
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
+  file_formats: .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi
+    * .czi * .czi
 - authors:
   - Sarah Machado
   - Vincent Mercier
@@ -7355,6 +7442,7 @@ resources:
   - Sarah Machado
   - Vincent Mercier
   - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
+  file_formats: .tif * .tif * .tif
 - authors:
   - Yannick KREMPP
   description: A review of the tools, methods and concepts useful for biologists and
@@ -7426,6 +7514,7 @@ resources:
   uuid: 0016dd82-e662-436f-8288-62313aa6508c
   author_with_orcid:
   - Wendt Jens https://orcid.org/0009-0002-1826-7099
+  file_formats: .pdf * .pptx
 - authors:
   - Isabel Kemmer
   - Feriel Romdhane
@@ -7455,6 +7544,7 @@ resources:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Feriel Romdhane https://orcid.org/0000-0002-5854-9341
   - Euro-BioImaging ERIC
+  file_formats: .pdf
 - authors:
   - Alessandro Rigano
   - Ulrike Boehm
@@ -7607,6 +7697,10 @@ resources:
   - Jaime A. Pimentel https://orcid.org/0000-0001-8569-0466
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Caterina Strambio-De-Castillia https://orcid.org/0000-0002-1069-1816
+  file_formats: .czi_ * .czi_ * .czi_ * .json * .json * .json * .json * .json * .json
+    * .json * .json * .json * .json * .json * .json * .json * .json * .json * .json
+    * .json * .json * .json * .json * .json * .json * .json * .json * .json * .json
+    * .json * .json * .json * .json * .json * .json
 - authors:
   - Mohsen Ahmadi
   - Robert Wagner
@@ -7643,6 +7737,7 @@ resources:
   - Markus M. Becker https://orcid.org/0000-0001-9324-3236
   - Torsten Stöter
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf
 - authors:
   - Maximilian Heber
   - Moritz Jakob
@@ -7688,6 +7783,7 @@ resources:
   - Gabriel Schneider https://orcid.org/0000-0001-6573-3115
   - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
   - Robert Ulrich https://orcid.org/0000-0001-9063-2703
+  file_formats: .pdf
 - authors:
   - C. Li
   description: 'Online R learning for applied statistics '
@@ -7818,6 +7914,7 @@ resources:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .xlsx
 - submission_date: '2024-11-18T14:39:38.611036'
   authors:
   - Cornelia Wetzker
@@ -7842,6 +7939,7 @@ resources:
   language: en
   author_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:39.787873'
   authors:
   - Christian Jüngst
@@ -7861,6 +7959,7 @@ resources:
   author_with_orcid:
   - Christian Jüngst https://orcid.org/0000-0002-6586-7129
   - Peter Zentis https://orcid.org/0000-0002-6999-132X
+  file_formats: .lif
 - submission_date: '2024-11-18T14:39:41.141377'
   authors:
   - Stefan Dvoretskii
@@ -7884,6 +7983,7 @@ resources:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Marco Nolden https://orcid.org/0000-0001-9629-0564
   - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:41.489967'
   authors:
   - Cornelia Wetzker
@@ -7902,6 +8002,7 @@ resources:
   author_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Michael Schlierf https://orcid.org/0000-0002-6209-2364
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:41.946082'
   authors:
   - Robert Haase
@@ -7927,6 +8028,7 @@ resources:
   language: en
   author_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T14:39:42.386226'
   authors:
   - Stefan Dvoretskii
@@ -7950,6 +8052,7 @@ resources:
   - Constantin Ulrich https://orcid.org/0000-0003-3002-8170
   - Marco Nolden https://orcid.org/0000-0001-9629-0564
   - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
+  file_formats: .pdf * .pptx * .pptx
 - submission_date: '2024-11-18T14:39:43.407105'
   authors:
   - Sophie Habinger
@@ -8017,6 +8120,7 @@ resources:
   - Maximilian Heber https://orcid.org/0000-0003-3399-7532
   - Sonja Kralj https://orcid.org/0000-0002-8516-8034
   - Emilia Mikautsch https://orcid.org/0009-0005-1758-1790
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:44.756942'
   authors:
   - Riccardo Massei
@@ -8064,6 +8168,7 @@ resources:
   - Timo Dickscheid https://orcid.org/0000-0002-9051-3701
   - Jan-Philipp Mallm https://orcid.org/0000-0002-7059-4030
   - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:45.213893'
   authors:
   - Riccardo Massei
@@ -8137,6 +8242,7 @@ resources:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  file_formats: .pdf * .pdf * .pdf * .pdf
 - submission_date: '2024-11-18T14:39:45.586962'
   authors:
   - Josh Moore
@@ -8159,6 +8265,7 @@ resources:
   author_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:45.979235'
   authors:
   - Escobar Diaz Guerrero
@@ -8174,6 +8281,7 @@ resources:
   uuid: 0967ecd2-06f6-462c-b9de-d514aed01b4b
   author_with_orcid:
   - Rodrigo Escobar Diaz Guerrero
+  file_formats: null
 - submission_date: '2024-11-18T14:39:46.762148'
   authors:
   - Carsten Fortmann-Grote
@@ -8188,6 +8296,7 @@ resources:
   uuid: 2b5488e9-92ce-4f31-a8d6-290615f9bff6
   author_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:47.147338'
   authors:
   - Christian Schmidt
@@ -8204,6 +8313,7 @@ resources:
   uuid: 9017b456-8a53-49a8-a914-a4da2ffb9d66
   author_with_orcid:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:47.561518'
   authors:
   - Anca Margineanu
@@ -8230,6 +8340,7 @@ resources:
   - Chiara Stringari https://orcid.org/0000-0002-0550-7463
   - Marcelo Zoccoler https://orcid.org/0000-0002-6165-4679
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf * .pdf * .pdf * .pptx * .pptx * .pptx
 - submission_date: '2024-11-18T14:39:47.946546'
   authors:
   - Carsten Fortmann-Grote
@@ -8243,6 +8354,7 @@ resources:
   uuid: 416298b9-cce7-4b61-9cff-a8e80e6ff459
   author_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  file_formats: .pdf
 - submission_date: '2024-11-18T14:39:48.292240'
   authors:
   - Riccardo Massei
@@ -8261,6 +8373,7 @@ resources:
   uuid: b5b6c806-9f1f-45c2-b445-55118f522be1
   author_with_orcid:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pptx
 - submission_date: '2024-11-18T14:39:48.632022'
   authors:
   - Vanessa Aphaia Fiona Fuchs
@@ -8286,6 +8399,7 @@ resources:
   - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf
 - authors:
   - Anett Jannasch
   - Silke Tulok
@@ -8364,6 +8478,7 @@ resources:
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Gunar Fabig https://orcid.org/0000-0003-3017-0978
   - Chukwuebuka Okafornta https://orcid.org/0000-0001-8094-1254
+  file_formats: .xlsx
 - authors:
   - Stefanie Weidtkamp-Peters
   - Janina Hanne
@@ -8411,6 +8526,7 @@ resources:
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Janina Hanne https://orcid.org/0000-0002-5332-3589
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  file_formats: .pdf * .pptx
 - authors:
   - Silke Tulok
   - Gunar Fabig
@@ -8441,6 +8557,7 @@ resources:
   - Andy Vogelsang
   - Thomas Kugel
   - Thomas Müller-Reichert
+  file_formats: .pdf
 - authors:
   - Gunar Fabig
   - Anett Jannasch
@@ -8541,6 +8658,7 @@ resources:
   - Anja Nobst https://orcid.org/0009-0009-7468-180X
   - Thomas Müller-Reichert https://orcid.org/0000-0003-0203-1436
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
+  file_formats: .xlsx * .xlsx
 - submission_date: '2024-11-18T16:34:09.954845'
   authors:
   - Michael Gerlach
@@ -8559,6 +8677,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .3mf * .f3d * .pdf * .png
 - submission_date: '2024-11-18T16:34:10.375459'
   authors:
   - Dr. Hellen Ishikawa-Ankerhold
@@ -8577,6 +8696,7 @@ resources:
   author_with_orcid:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
   - Max Nobis https://orcid.org/0000-0002-1861-1390
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:10.757317'
   authors:
   - Michael Gerlach
@@ -8600,6 +8720,7 @@ resources:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
   - Hans-Ulrich Fried https://orcid.org/0000-0001-7557-1199
   - Christiane Peuckert https://orcid.org/0000-0002-5973-1241
+  file_formats: .pptx
 - submission_date: '2024-11-18T16:34:11.147252'
   authors:
   - Dr. Hellen Ishikawa-Ankerhold
@@ -8617,6 +8738,7 @@ resources:
   uuid: 71ed4f50-f875-42a4-845b-f6e8ef9e2298
   author_with_orcid:
   - Dr. Hellen Ishikawa-Ankerhold https://orcid.org/0000-0003-0307-7022
+  file_formats: .pptx
 - submission_date: '2024-11-18T16:34:11.542022'
   authors:
   - Michael Gerlach
@@ -8646,6 +8768,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .mp4
 - submission_date: '2024-11-18T16:34:11.914727'
   authors:
   - Michael Gerlach
@@ -8675,6 +8798,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .mp4
 - submission_date: '2024-11-18T16:34:12.275231'
   authors:
   - Michael Gerlach
@@ -8704,6 +8828,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .mp4
 - submission_date: '2024-11-18T16:34:12.641988'
   authors:
   - Michael Gerlach
@@ -8733,6 +8858,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .mp4
 - submission_date: '2024-11-18T16:34:13.156773'
   authors:
   - Financial & Legal Framework of Core Facilities
@@ -8785,6 +8911,7 @@ resources:
   - Astrid Schauss https://orcid.org/0000-0002-6658-2192
   - Nina Schulze https://orcid.org/0009-0008-5503-6218
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:13.609723'
   authors:
   - Financial & Legal Framework of Core Facilities
@@ -8837,6 +8964,7 @@ resources:
   - Astrid Schauss https://orcid.org/0000-0002-6658-2192
   - Nina Schulze https://orcid.org/0009-0008-5503-6218
   - Silke Tulok https://orcid.org/0009-0005-1473-6427
+  file_formats: null
 - submission_date: '2024-11-18T16:34:14.668170'
   authors:
   - Silke Tulok
@@ -8916,6 +9044,7 @@ resources:
   - Anett Jannasch https://orcid.org/0000-0002-8047-2774
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
   - Gunar Fabig https://orcid.org/0000-0003-3017-0978
+  file_formats: .xlsx
 - submission_date: '2024-11-18T16:34:15.016548'
   authors:
   - Michael Gerlach
@@ -8936,6 +9065,7 @@ resources:
   language: en
   author_with_orcid:
   - Michael Gerlach https://orcid.org/0000-0002-6831-751X
+  file_formats: .3mf * .png
 - submission_date: '2024-11-18T16:34:15.354820'
   authors:
   - Michael Gerlach
@@ -8955,6 +9085,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7963020
   uuid: 570d8f83-7796-46e6-85bb-2a00c8326f7e
   language: en
+  file_formats: .3mf * .png
 - submission_date: '2024-11-18T16:34:15.720049'
   authors:
   - Michael Gerlach
@@ -8973,6 +9104,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7963006
   uuid: 9efdac58-b44c-49f3-99c8-05d6c88dfdc0
   language: en
+  file_formats: .3mf * .png
 - submission_date: '2024-11-18T16:34:16.060174'
   authors:
   - Michael Gerlach
@@ -8990,6 +9122,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7945018
   uuid: b95c1dea-c736-46f8-93f7-34321d62a3fe
   language: en
+  file_formats: .3mf * .png
 - submission_date: '2024-11-18T16:34:16.445941'
   authors:
   - Michael Gerlach
@@ -9020,6 +9153,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12166710
   uuid: a53e66ac-41e5-4c29-b0c7-f235cae942c2
   language: en
+  file_formats: .xlsx * .xlsx
 - submission_date: '2024-11-18T16:34:16.785479'
   authors:
   - Nadine Utz
@@ -9053,6 +9187,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10925217
   uuid: abbcc42a-ec38-4b18-9e30-2e15a81d481b
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:17.179933'
   authors:
   - Stefanie Weidtkamp-Peters
@@ -9070,6 +9205,7 @@ resources:
   - https://zenodo.org/records/10889694
   - https://doi.org/10.5281/zenodo.10889694
   uuid: baa185b2-3557-4214-b578-40cbfb872409
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:17.925836'
   authors:
   - Chiara Stringari
@@ -9100,6 +9236,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10839310
   uuid: 22960997-36d3-4489-b5ae-fddfc5b5369b
   language: en
+  file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T16:34:18.393086'
   authors:
   - Christian Schmidt
@@ -9140,6 +9277,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10805204
   uuid: d8991538-e181-482e-aeb4-ada02d7f7671
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:18.767636'
   authors:
   - Susanne Kunis
@@ -9159,6 +9297,7 @@ resources:
   - https://zenodo.org/records/10796364
   - https://doi.org/10.5281/zenodo.10796364
   uuid: 38117ab5-3161-4224-9b43-41426da1d052
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:21.337970'
   authors:
   - bugraoezdemir
@@ -9186,6 +9325,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10679318
   uuid: 69df66f7-6309-45c8-8957-739cd53a5f4d
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:22.477169'
   authors:
   - Romain David
@@ -9276,6 +9416,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8338931
   uuid: cead4ffb-b2f6-4ec1-96ed-71eb44db1182
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:22.816011'
   authors:
   - Beatriz Serrano-Solano
@@ -9291,6 +9432,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8182154
   uuid: 114b3dfb-33cc-45ae-8424-2ed18fb2f07a
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:23.197583'
   authors:
   - Euro-BioImaging ERIC
@@ -9308,6 +9450,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8146412
   uuid: 18a583fe-c927-4a0c-98b0-89e2308d73ef
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:23.860886'
   authors:
   - Isabel Kemmer
@@ -9339,6 +9482,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7788899
   uuid: bb24602f-d351-4309-8f9e-8e3ba8c28386
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:26.146506'
   authors:
   - Luke Sorensen
@@ -9393,6 +9537,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13739137
   uuid: 984b73bb-4dcd-4b21-91d5-50c444310723
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:26.566744'
   authors:
   - Luke Sorensen
@@ -9491,6 +9636,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10460434
   uuid: fdeeacba-ef2b-471d-9270-328c1006e7de
   language: en
+  file_formats: .zip * .zip * .zip * .zip * .zip * .zip
 - submission_date: '2024-11-18T16:34:27.012540'
   authors:
   - Martin Schätz
@@ -9511,6 +9657,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8372703
   uuid: 5c0e14b8-d620-4c20-b2cb-d6c4c8d8553f
   language: en
+  file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T16:34:28.045966'
   authors:
   - Romain
@@ -9524,6 +9671,7 @@ resources:
   - https://zenodo.org/records/7919117
   - https://doi.org/10.5281/zenodo.7919117
   uuid: 764b5dc0-ef3e-45ed-a227-2b3f1b83c946
+  file_formats: .groovy * .tif * .tif
 - submission_date: '2024-11-18T16:34:28.513488'
   authors:
   - Martin Schätz
@@ -9581,6 +9729,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7885379
   uuid: 92d1fac3-90cb-4c2d-8e8e-4b24b5118c1d
   language: en
+  file_formats: .csv * .xlsx * .zip
 - submission_date: '2024-11-18T16:34:29.533446'
   authors:
   - Anna Pascual Reguant
@@ -9607,6 +9756,11 @@ resources:
   - https://doi.org/10.5281/zenodo.7447491
   uuid: 4e2427f6-8db4-4574-acfa-5a20d6914f83
   language: en
+  file_formats: .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif
+    * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif *
+    .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif
+    * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif *
+    .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif
 - submission_date: '2024-11-18T16:34:29.961816'
   authors:
   - Romain Guiet
@@ -9623,6 +9777,7 @@ resources:
   - https://zenodo.org/records/7409423
   - https://doi.org/10.5281/zenodo.7409423
   uuid: 69c6afd7-e1e1-4501-9bd9-6570d3384090
+  file_formats: .ijm * .nd2
 - submission_date: '2024-11-18T16:34:30.357363'
   authors:
   - Martin Schätz
@@ -9640,6 +9795,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7215114
   uuid: 09e19608-e0d8-4c5b-82b9-0e631b006124
   language: en
+  file_formats: .pptx
 - submission_date: '2024-11-18T16:34:30.816975'
   authors:
   - Robert Haase
@@ -9690,6 +9846,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7209862
   uuid: 49ebd316-a007-48e4-a316-eb425f55ac95
   language: en
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:31.351869'
   authors:
   - Sebastian Rhode
@@ -9714,6 +9871,9 @@ resources:
   - https://doi.org/10.5281/zenodo.7015307
   uuid: fd76ff77-8804-4917-b784-37d70caff08e
   language: en
+  file_formats: .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi
+    * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi * .czi *
+    .czi * .czi * .czi * .czi
 - submission_date: '2024-11-18T16:34:31.831739'
   authors:
   - Martin Schätz
@@ -9735,6 +9895,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6991106
   uuid: f6135086-5afb-4cd9-858e-413e5b2dfe32
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:32.177486'
   authors:
   - Martin Schätz
@@ -9756,6 +9917,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6953610
   uuid: 7b23a071-59da-42b3-97ce-c8dfe852e3ff
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:32.987735'
   authors:
   - Daniel Waiger
@@ -9771,6 +9933,7 @@ resources:
   - https://zenodo.org/records/6834214
   - https://doi.org/10.5281/zenodo.6834214
   uuid: 7e871b48-358b-4399-bf47-abb89c618047
+  file_formats: .pdf
 - submission_date: '2024-11-18T16:34:33.487847'
   authors:
   - Julie Meystre
@@ -9807,6 +9970,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6646128
   uuid: 5f35772d-c257-4715-b993-1001797c8591
   language: en
+  file_formats: .lsm
 - submission_date: '2024-11-18T16:34:34.152918'
   authors:
   - Romain Guiet
@@ -9861,6 +10025,8 @@ resources:
   - https://doi.org/10.5281/zenodo.6645978
   uuid: 37c606c2-9538-4cce-839d-b0565cb6e27c
   language: en
+  file_formats: .ipynb * .ipynb * .png * .tif * .tif * .yml * .zip * .zip * .zip *
+    .zip
 - submission_date: '2024-11-18T16:34:34.654130'
   authors:
   - Laurent Thomas
@@ -9881,6 +10047,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6554166
   uuid: 52976c10-0ea8-4b40-a575-07a78bdfe73b
   language: en
+  file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T16:34:35.063614'
   authors:
   - Thomas Laurent
@@ -9930,6 +10097,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6535296
   uuid: b75c91df-a2fd-4ae4-8157-a5baf2bc90ba
   language: en
+  file_formats: .pdf * .pptx
 - submission_date: '2024-11-18T16:34:35.407938'
   authors:
   - Laia Simó-Riudalbas
@@ -9983,6 +10151,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6523649
   uuid: b38e68fe-0097-4352-ad82-9c6612ac2abc
   language: en
+  file_formats: .pdf * .png * .txt * .zip * .zip
 - submission_date: '2024-11-18T16:34:35.773605'
   authors:
   - Romain Guiet
@@ -10031,6 +10200,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6140111
   uuid: 9dc3a96a-6e4e-4237-9fe5-320e98849145
   language: en
+  file_formats: .ipynb * .zip
 - submission_date: '2024-11-18T16:34:36.126990'
   authors:
   - Romain Guiet
@@ -10103,6 +10273,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6139958
   uuid: a42ed0b6-5ce6-4f7e-abab-4faa088a8bfa
   language: en
+  file_formats: .png * .tif * .zip
 - submission_date: '2024-11-18T16:34:36.472002'
   authors:
   - Laura Capolupo
@@ -10151,6 +10322,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5996883
   uuid: e895487c-5cd4-4d8c-b48c-2150acf9b1fb
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:36.805571'
   authors:
   - Laura Capolupo
@@ -10194,6 +10366,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6023317
   uuid: 976a1aed-f247-430c-ab10-22c31a12ea8a
   language: en
+  file_formats: '.171894'
 - submission_date: '2024-11-18T16:34:37.223826'
   authors:
   - Laurent Thomas
@@ -10219,6 +10392,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5121890
   uuid: 31877350-3742-4a56-aa0c-c453b2e54013
   language: en
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:37.614706'
   authors:
   - Romain Guiet
@@ -10253,6 +10427,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5101351
   uuid: bb0e4a90-4b16-43b4-88b0-c314d9da51bc
   language: en
+  file_formats: .czi * .tif * .tif * .tif * .tif * .tif
 - submission_date: '2024-11-18T16:34:39.643990'
   authors:
   - Cavanagh
@@ -10265,6 +10440,7 @@ resources:
   - https://zenodo.org/records/13642395
   - https://doi.org/10.5281/zenodo.13642395
   uuid: 2896f410-3edd-42c7-9941-d8486872612f
+  file_formats: .zip
 - submission_date: '2024-11-18T16:34:40.260008'
   authors:
   - Nicolas Chiaruttini
@@ -10299,6 +10475,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12773657
   uuid: 4f87cbbc-9f2b-4791-8153-a6b16d8f6dd3
   language: en
+  file_formats: .oir * .oir * .oir * .oir
 - submission_date: '2024-11-18T16:34:40.728131'
   authors:
   - j
@@ -10318,6 +10495,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12533989
   uuid: 22815dfe-8183-4604-b8da-35767ac239cf
   language: en
+  file_formats: .czi
 - submission_date: '2024-11-18T16:34:41.114444'
   authors:
   - IMCF
@@ -10347,6 +10525,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11637422
   uuid: a7b72ba1-7789-47b7-9865-573f9c07d238
   language: en
+  file_formats: .ics * .ids
 - submission_date: '2024-11-18T16:34:41.460603'
   authors:
   - Mario Garcia
@@ -10360,6 +10539,7 @@ resources:
   - https://zenodo.org/records/11234863
   - https://doi.org/10.5281/zenodo.11234863
   uuid: 15a6da47-2d74-409c-9c0f-a6e70e5daec8
+  file_formats: .czi
 - authors:
   - Sarah Weischer
   - Jens Wendt
@@ -10385,6 +10565,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7018750
   uuid: 0967d465-a99f-49d8-bb21-2559a34ec4c3
   language: en
+  file_formats: .pdf
 - authors:
   - Kunis
   description: 'This thesis deals with concepts and solutions in the field of data
@@ -10437,6 +10618,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6905931
   uuid: 4f173204-6c66-4dec-9d22-a66d274d22a8
   language: en
+  file_formats: .pdf
 - authors:
   - Marco Stucchi
   description: The files contained in this repository are cropped versions of Imaris
@@ -10450,6 +10632,7 @@ resources:
   - https://zenodo.org/records/14197622
   - https://doi.org/10.5281/zenodo.14197622
   uuid: 6a09d253-1256-4e48-bfc1-f690dd915db0
+  file_formats: .ims * .ims
 - authors:
   - Josh Moore
   description: 'Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
@@ -10472,6 +10655,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14234608
   uuid: ab00a09a-f8a9-4fa6-b8f7-55e20d1e691a
   language: en
+  file_formats: .pdf
 - authors:
   - Marco Stucchi
   description: 'The files contained in this repository are example Imaris ims images.
@@ -10488,6 +10672,7 @@ resources:
   - https://zenodo.org/records/14235726
   - https://doi.org/10.5281/zenodo.14235726
   uuid: 66577876-eedd-402a-921c-78c3d1affbcb
+  file_formats: .ims
 - authors:
   - Will Moore
   - Josh Moore
@@ -10536,6 +10721,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14278058
   uuid: 5a85cdc8-f012-462f-bf56-39673e2e7f37
   language: de
+  file_formats: .pdf * .pptx
 - authors:
   - Zach Marin
   - Maohan Su
@@ -10550,6 +10736,7 @@ resources:
   - https://zenodo.org/records/14287640
   - https://doi.org/10.5281/zenodo.14287640
   uuid: 479722fa-1719-4db7-90c0-2906818d97fb
+  file_formats: .zip
 - authors:
   - Zach Marin
   - Maohan Su
@@ -10564,6 +10751,7 @@ resources:
   - https://zenodo.org/records/14281237
   - https://doi.org/10.5281/zenodo.14281237
   uuid: 7dbab1f5-49b4-4dc9-ad43-57f28eea1ea5
+  file_formats: .dcimg
 - authors:
   - Zach Marin
   description: Bead stack taken on lower path of a 4Pi without deformable mirror corrections.
@@ -10577,6 +10765,7 @@ resources:
   - https://zenodo.org/records/14268554
   - https://doi.org/10.5281/zenodo.14268554
   uuid: 7d97cbcf-01d0-48b1-864f-8d70afc30f65
+  file_formats: .zip
 - authors:
   - JanClusmann
   - Tim Lenz
@@ -10645,6 +10834,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14418209
   uuid: 4340cca4-96ed-42a4-8448-39a9807fbd10
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Markus M. Becker
   - Ihda Chaerony Siffa
@@ -10728,6 +10918,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14381522
   uuid: 75380769-6c62-4487-88a3-d6d5ff0459ea
   language: en
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE Consortium
   description: 'These illustrations were contracted by the Heinrich Heine University
@@ -10753,6 +10944,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14186101
   uuid: 1ff5dfba-379a-4238-a08c-540f9c72af7a
   language: en
+  file_formats: .jpg * .jpg * .jpg * .jpg * .jpg * .pdf * .pdf * .pdf * .pdf * .pdf
+    * .pdf
 - authors:
   - Judith Engel
   - Patrick Helling
@@ -10793,6 +10986,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14035822
   uuid: 9765f3c2-11b5-46ee-b45f-afbe97785c72
   language: en
+  file_formats: .pdf
 - authors:
   - Christian Schmidt
   - Tom Boissonnet
@@ -10829,6 +11023,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13861026
   uuid: aa83ee95-067f-4a26-b6c4-14b6d08b56aa
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf
 - authors:
   - Salama Lab Fred Hutchinson Cancer Center
   license: cc-by-4.0
@@ -10840,6 +11035,7 @@ resources:
   - https://zenodo.org/records/14510432
   - https://doi.org/10.5281/zenodo.14510432
   uuid: 4f324190-5e86-4ec8-aa03-78baa070da83
+  file_formats: .lsm
 - authors:
   - Michael Chungyoun
   - Courtney Thomas
@@ -10895,6 +11091,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14626054
   uuid: 59719fe9-0c44-42d4-abb5-2e6f05c9910d
   language: en
+  file_formats: .pdf * .pptx
 - authors: Rafael Irizarry
   description: UMAP is a powerful tool for exploratory data analysis, but without
     a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
@@ -10924,6 +11121,7 @@ resources:
   - https://joachimgoedhart.github.io/DataViz-protocols/
   - https://doi.org/10.5281/zenodo.7257808
   uuid: 6b73ed65-2d42-42ff-9b49-18f19a561e87
+  file_formats: .zip
 - authors: Joachim Goedhart
   description: The author discusses a number of color palettes that are suitable for
     coloring graphical elements in plots.
@@ -11039,6 +11237,7 @@ resources:
   - https://zenodo.org/records/4778265
   - https://doi.org/10.5281/zenodo.4778265
   uuid: dbbee207-410b-4486-a7d6-963a6e7f2545
+  file_formats: .pdf
 - authors: Richard McElreath
   description: Video Lectures for Statistical Rethinking Course
   license: UNKNOWN
@@ -11112,6 +11311,7 @@ resources:
   - https://zenodo.org/records/14264885
   - https://doi.org/10.5281/zenodo.14264885
   uuid: 1741687d-e150-4d8d-b0c8-dff02e605a53
+  file_formats: .zip
 - authors:
   - Alex Wolf
   - pre-commit-ci[bot]
@@ -11160,6 +11360,7 @@ resources:
   - https://zenodo.org/records/14716546
   - https://doi.org/10.5281/zenodo.14716546
   uuid: 93dd5805-f9db-44c7-affb-af125e8620b8
+  file_formats: .pdf
 - authors:
   - Josh Moore
   description: 'CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th
@@ -11180,6 +11381,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14650434
   uuid: e126a935-fa9f-4e56-84e3-d6ac2c4b3f48
   language: en
+  file_formats: .pdf
 - authors:
   - Ben Vermaercke
   description: Intravital workshop 15/11/2024
@@ -11193,6 +11395,7 @@ resources:
   - https://zenodo.org/records/14641777
   - https://doi.org/10.5281/zenodo.14641777
   uuid: 2003eaea-e57e-4d01-9162-5d5d237e2d4d
+  file_formats: .pptx
 - authors:
   - Hoku West-Foyle
   license: CC0-1.0
@@ -11204,6 +11407,7 @@ resources:
   - https://zenodo.org/records/14675120
   - https://doi.org/10.5281/zenodo.14675120
   uuid: ce33ead5-cfec-442d-a1e5-4038e15f22f9
+  file_formats: .ims
 - authors:
   - Pylvänäinen, Joanna
   description: 'Description:This training package provides a guide to image processing
@@ -11244,6 +11448,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14771563
   uuid: 7b5cdc1a-2cd1-430b-9d97-59a9443858f3
   language: en
+  file_formats: .lsm * .nd2 * .pdf * .tif
 - authors:
   - Haase, Robert
   description: In these two slide-decks we explore applications of large language
@@ -11261,6 +11466,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14692037
   uuid: f07b6eec-b2c6-4871-b327-955fbd1e2e56
   language: en
+  file_formats: .pdf * .pdf * .pptx * .pptx
 - authors:
   - Fortmann-Grote, Carsten
   - Meireles, Mariana
@@ -11284,6 +11490,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14792534
   uuid: c721e166-d2c1-44a2-89d4-b1985161c849
   language: en
+  file_formats: .pdf
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -11317,6 +11524,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14777242
   uuid: 11938c17-43d7-4577-b7ae-fa4415bb5c89
   language: en
+  file_formats: .zip
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -11346,6 +11554,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14769820
   uuid: 9ce11efc-3000-4917-bc98-c69adb748846
   language: en
+  file_formats: .zip * .zip
 - authors:
   - Matthew Mueller
   - Aaron
@@ -11439,6 +11648,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14729452
   uuid: c802daef-6b76-4236-9fb2-0a2d554d047e
   language: de
+  file_formats: .odt
 - authors:
   - SaibotMagd
   description: 'firefox extension: reads datamatrix code from camera and create a
@@ -11705,6 +11915,7 @@ resources:
   - https://zenodo.org/records/14845059
   - https://doi.org/10.5281/zenodo.14845059
   uuid: 47115e0d-41db-442d-a469-aad7542c4bf5
+  file_formats: .pdf * .pptx
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -11746,6 +11957,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14832855
   uuid: 63f5f077-197d-4538-91c7-1267c76ece9f
   language: en
+  file_formats: .afdesign * .pdf * .svg
 - authors:
   - Fuster-Barcelo, Caterina
   description: The dynamic field of bioimage analysis continually seeks innovative
@@ -11770,6 +11982,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13880367
   uuid: e707f3ae-5811-4184-badc-7cee6fd46fe6
   language: en
+  file_formats: .pdf
 - authors:
   - Laurent Thomas
   - Pierre Trehin
@@ -11784,6 +11997,7 @@ resources:
   - https://zenodo.org/records/14917722
   - https://doi.org/10.5281/zenodo.14917722
   uuid: 0105872f-4c54-4ff8-ad1c-cd9b3c3dc473
+  file_formats: .zip
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -11833,6 +12047,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14913673
   uuid: 9b66afef-3cb6-4695-9517-f7629b178ade
   language: en
+  file_formats: .zip
 - authors:
   - Romette, Louis
   description: Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with
@@ -11851,6 +12066,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14893791
   uuid: c9b5b1c2-6f9e-4921-bacf-7a35c7f98eee
   language: en
+  file_formats: .nd2
 - authors:
   - Haase, Robert
   description: When training people in topics such as programming, bio-image analysis
@@ -11869,6 +12085,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14053758
   uuid: 1fe47d3d-e561-473c-9257-eb0c8cfba46a
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: Artificial intelligence (AI) and large language models (LLMs) are changing
@@ -11885,6 +12102,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14043615
   uuid: 2ace6a7f-809e-4126-9cea-0a345cd9b680
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Draga Doncila Pop
   description: This is a three-part workshop guiding you through using napari to view
@@ -12077,6 +12295,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14937632
   uuid: 4a1d68a2-1ea0-4726-a5ab-2f098e5e7982
   language: en
+  file_formats: .czi
 - authors:
   - Rodriguez, Areli
   description: The blue and red channels get swapped when imported with Bio-formats.
@@ -12089,6 +12308,7 @@ resources:
   - https://zenodo.org/records/14933318
   - https://doi.org/10.5281/zenodo.14933318
   uuid: 7f7011c3-254d-4e66-968b-50508a7ec361
+  file_formats: .lif
 - authors:
   - Serrano-Solano, Beatriz
   - Kostrykin, Leonid
@@ -12139,6 +12359,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14944040
   uuid: f30b1a4d-e87a-42b7-a3a6-b1e743d3a815
   language: en
+  file_formats: .pdf
 - authors:
   - Marcelo Zoccoler
   - Johannes Soltwedel
@@ -12168,6 +12389,7 @@ resources:
   - https://zenodo.org/records/15031842
   - https://doi.org/10.5281/zenodo.15031842
   uuid: c4b8c1bb-1945-47c0-8bbb-fdc800220d68
+  file_formats: .pdf * .pptx
 - authors:
   - Schmidt, Christian
   - Bortolomeazzi, Michele
@@ -12241,6 +12463,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15026373
   uuid: 506bcd94-1b1a-40a2-94be-0017e4ff7ad9
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx
 - authors:
   - Krooß, Ksenia
   - Fuchs, Vanessa Aphaia Fiona
@@ -12271,6 +12494,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14988921
   uuid: 686572ec-e463-4a05-b809-5fbd751f73e1
   language: en
+  file_formats: .pdf
 - authors:
   - Chiang Jurado, Diana
   - Massei, Riccardo
@@ -12289,6 +12513,7 @@ resources:
   - https://zenodo.org/records/14979253
   - https://doi.org/10.5281/zenodo.14979253
   uuid: 49a28053-4f51-4e00-8e24-e8b54de16e21
+  file_formats: .pdf
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -12306,6 +12531,7 @@ resources:
   - https://zenodo.org/records/14975462
   - https://doi.org/10.5281/zenodo.14975462
   uuid: e14f28b4-f50f-45b4-a982-cafce46f32c1
+  file_formats: .pdf
 - authors:
   - Massei, Riccardo
   - Berndt, Matthias
@@ -12370,6 +12596,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14909526
   uuid: 66f41360-720b-48a5-98c0-d57a874da31f
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Dubrulle, Julien
   description: This file cannot be read by bfGetReader() v8.1.1 on a Windows operating
@@ -12383,6 +12610,7 @@ resources:
   - https://zenodo.org/records/15001649
   - https://doi.org/10.5281/zenodo.15001649
   uuid: 51d616eb-d80e-4023-996d-57f90f7afa1b
+  file_formats: .ims
 - authors:
   - Bohl, Jürgen
   description: 'With this file the problem addressed in PR#4284 can be reproduced:
@@ -12399,6 +12627,7 @@ resources:
   - https://zenodo.org/records/14968770
   - https://doi.org/10.5281/zenodo.14968770
   uuid: 6190a6dd-b467-40a1-ae3a-db982cd68409
+  file_formats: null
 - authors:
   - Moore, Josh
   - Kunis, Susanne
@@ -12413,6 +12642,7 @@ resources:
   - https://zenodo.org/records/15083018
   - https://doi.org/10.5281/zenodo.15083018
   uuid: bfed4738-50b9-4a42-8cb1-eb67991db18e
+  file_formats: .pdf
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -12435,6 +12665,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15047849
   uuid: d5e2ad4e-1190-4720-877c-6a682bcb5935
   language: en
+  file_formats: .pdf
 - authors:
   - Wei Ouyang
   - Wanlu Lei
@@ -12523,6 +12754,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15065070
   uuid: 6fd444ff-698e-42be-acfb-ee28a3aacd09
   language: en
+  file_formats: .pdf
 - authors:
   - Marin, Zach
   description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
@@ -12535,6 +12767,7 @@ resources:
   - https://zenodo.org/records/15150937
   - https://doi.org/10.5281/zenodo.15150937
   uuid: af78e254-13f6-4ed9-94dc-b1687486b293
+  file_formats: .dcimg
 - authors:
   - Walther, Christa
   description: This document reports on the first in-person workshop supported by
@@ -12549,6 +12782,7 @@ resources:
   - https://zenodo.org/records/15168241
   - https://doi.org/10.5281/zenodo.15168241
   uuid: 55d6cbd1-fa68-4942-9915-7c57bc0ab636
+  file_formats: .pdf
 - authors:
   - Tischer, Christian
   - Politi, Antonio
@@ -12579,6 +12813,7 @@ resources:
   - https://zenodo.org/records/14710820
   - https://doi.org/10.5281/zenodo.14710820
   uuid: 79148d7b-3a4b-4702-839d-864ee2fea091
+  file_formats: .zip
 - authors:
   - Dvoretskii, Stefan
   - Bortolomeazzi, Michele
@@ -12596,6 +12831,7 @@ resources:
   - https://zenodo.org/records/15268798
   - https://doi.org/10.5281/zenodo.15268798
   uuid: 249e0bd4-c3ee-4036-810e-e48191cc95c3
+  file_formats: .pdf
 - authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in
@@ -12658,6 +12894,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8349563
   uuid: 9d30fab4-4f91-476d-82f5-dd7ee41ab6d9
   language: en
+  file_formats: .pdf
 - authors:
   - Andrea Schrader
   - Michele Bortolomeazzi
@@ -13300,6 +13537,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5220610
   uuid: 79c64350-a63a-4789-a904-8c5a9d388ba3
   language: en
+  file_formats: .png * .tif * .tif * .tif
 - authors:
   - Kubow, Kristopoher
   - Pengo, Thomas
@@ -13324,6 +13562,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6560910
   uuid: 94e58226-e1d1-41b3-9e9d-c49b41d20c7b
   language: en
+  file_formats: .ics * .tiff * .tiff * .tiff * .tiff * .tiff * .tiff * .tiff * .tiff
 - authors:
   - Fuhui Long
   - Hanchuan Peng
@@ -13392,6 +13631,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5942575
   uuid: c239c0da-c68f-4c7b-b28a-726f521cb2f0
   language: en
+  file_formats: .zip
 - authors:
   - Kubow, Kristopher
   - Pengo, Thomas
@@ -13415,6 +13655,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6560759
   uuid: 44fdab55-a58d-413e-ab6d-43d58719b4a4
   language: en
+  file_formats: .ics * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif * .tif
 - authors:
   - Romain Guiet
   description: 'Name: Automatic labelling&nbsp;of HeLa &ldquo;Kyoto&rdquo; cells using
@@ -13496,6 +13737,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6140064
   uuid: d170719b-7ff1-4c32-9b0e-6c680ac08df0
   language: en
+  file_formats: .ijm * .png * .zip
 - authors:
   - Malou Arvidsson
   - Salma Kazemi Rashed
@@ -13543,6 +13785,7 @@ resources:
   - https://doi.org/10.5281/zenodo.6657260
   uuid: 1f6d2526-c0c4-4723-901e-db8d030c8f51
   language: en
+  file_formats: .md * .py * .zip * .zip * .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -13669,6 +13912,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10617532
   uuid: 7ac4316b-95e0-4613-b940-c6d4c575f200
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -13789,6 +14033,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13442128
   uuid: eeb3909f-353d-40ed-80f5-4fd157dab77f
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -13905,6 +14150,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10572200
   uuid: 93280692-a363-4bad-bdb6-649c28ae220f
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14025,6 +14271,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10572122
   uuid: b3b05f51-70f7-4245-879d-5de96d1caf74
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14143,6 +14390,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10572231
   uuid: c4234bce-3ff9-4926-8cf4-d4c23c1a95f2
   language: en
+  file_formats: .zip
 - authors:
   - Dohmen, Melanie
   - Mittermaier, Mirja
@@ -14183,6 +14431,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10669918
   uuid: 739bab74-cbe1-40c8-a1b7-beeb52a28015
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14301,6 +14550,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10572310
   uuid: 1adebe3d-8069-471d-9751-23943608202a
   language: en
+  file_formats: .zip
 - authors:
   - Hao Xu
   - Wei Ouyang
@@ -14318,6 +14568,7 @@ resources:
   - https://zenodo.org/records/7690494
   - https://doi.org/10.5281/zenodo.7690494
   uuid: 2a07498b-4a36-4e04-8f00-dcd077f55f4f
+  file_formats: .ijm * .md * .npy * .npy * .png * .pt * .tif * .tif * .yaml
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14437,6 +14688,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13442877
   uuid: 59f7e086-a93a-43d9-8f1d-66a20b5a9038
   language: en
+  file_formats: .zip
 - authors:
   - Naylor Peter Jack
   - Walter Thomas
@@ -14469,6 +14721,7 @@ resources:
   - https://doi.org/10.5281/zenodo.2579118
   uuid: 321f9795-473d-46bd-ab62-5ea6ca94a165
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14592,6 +14845,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13304399
   uuid: ac96e671-8549-47d0-a04b-34649430febd
   language: en
+  file_formats: .zip
 - authors:
   - Golani, Ofra
   - Mohan, Vishnu
@@ -14643,6 +14897,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11235393
   uuid: 2f8aebb9-ba35-4f23-8cb5-802f28433eeb
   language: en
+  file_formats: .zip * .zip * .zip * .zip
 - authors:
   - Hussein Al-Akhrass
   - Johanna Ivaska
@@ -14695,6 +14950,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4811213
   uuid: c494e040-24da-4786-b621-bb1c8cca5a57
   language: en
+  file_formats: .zip * .zip
 - authors:
   - Sorzabal Bellido, Ioritz
   - Barbieri, Luca
@@ -14735,6 +14991,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4765599
   uuid: edd47bc0-bf35-493f-8c4e-ae5dcd0df92b
   language: en
+  file_formats: .zip * .zip
 - authors:
   - Spahn, Christoph
   - Diepold, Andreas
@@ -14790,6 +15047,7 @@ resources:
   - https://doi.org/10.5281/zenodo.11105050
   uuid: 1e02a908-276e-4219-9bab-784ac18f7022
   language: en
+  file_formats: .png * .zip * .zip
 - authors:
   - Gautier Follain
   - Guillaume Jacquemet
@@ -14827,6 +15085,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4034939
   uuid: dbd2d690-e191-4f3e-a919-27ad6246a500
   language: en
+  file_formats: .zip
 - authors:
   - Guillaume Jacquemet
   description: 'Description: Contains a StarDist example training dataset, a test
@@ -14866,6 +15125,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4034976
   uuid: 3311a187-1bfb-42df-a186-2b9412d05637
   language: en
+  file_formats: .zip
 - authors:
   - Sarkis Rita
   - Naveiras Olaia
@@ -14920,6 +15180,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7003909
   uuid: a6707b5a-38be-4408-818b-8e1d81a366d8
   language: en
+  file_formats: .ipynb * .ipynb * .pb * .txt * .zip
 - authors:
   - Nathan H. Roy
   - Guillaume Jacquemet
@@ -14960,6 +15221,7 @@ resources:
   - https://doi.org/10.5281/zenodo.4034929
   uuid: 397c9592-60ce-4bed-84f1-e8d5075a378a
   language: en
+  file_formats: .zip
 - authors:
   - Zhongtian Shao
   description: 40 annotated immunofluorescence microscopy images (600 microns x 600
@@ -14980,6 +15242,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8091914
   uuid: 9ca14b2d-311b-4eeb-af24-19e702e05227
   language: en
+  file_formats: .zip
 - authors:
   - Spahn, Christoph
   - Heilemann, Mike
@@ -15149,6 +15412,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5551009
   uuid: d4e9d735-2d39-40d8-837e-8482f69211ca
   language: en
+  file_formats: .zip * .zip
 - authors:
   - Alwes, Frederike
   - Sugawara, Ko
@@ -15178,6 +15442,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8252039
   uuid: dda7b774-993f-4138-927e-33d38debc0cf
   language: en
+  file_formats: .pdf * .tif * .tif * .tif * .tif * .tif * .tif * .tif
 - authors:
   - Johanna Jukkala
   - Guillaume Jacquemet
@@ -15254,6 +15519,7 @@ resources:
   - https://doi.org/10.5281/zenodo.3715492
   uuid: 6e3d1986-21b1-482d-9235-ba0431a20038
   language: en
+  file_formats: .zip
 - authors:
   - Johanna Jukkala
   - Guillaume Jacquemet
@@ -15322,6 +15588,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7949940
   uuid: 26774451-dd2f-465f-999a-5e9dffc64886
   language: en
+  file_formats: .zip
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15443,6 +15710,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13443221
   uuid: 1ed3c5f5-04ab-4ae4-966e-7c38e16b0e1d
   language: en
+  file_formats: .zip
 - authors:
   - Bär, Julian
   description: 'Training data for the two StarDist2D models and the DeLTA 2.0 2D tracking
@@ -15499,6 +15767,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10720439
   uuid: 6e0f58d5-e64d-47ab-a59c-04ed8e7c137d
   language: en
+  file_formats: .hdf5 * .zip * .zip * .zip * .zip * .zip * .zip * .zip
 - authors:
   - Pereira, Pedro Matos
   - Pinho, Mariana
@@ -15578,6 +15847,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5550933
   uuid: 6464b22a-ab55-46ba-9495-9c021377f585
   language: en
+  file_formats: .png * .zip
 - authors:
   - Holden, Séamus
   - Conduit, Mia
@@ -15665,6 +15935,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5550968
   uuid: 71c9db70-523d-404e-ab28-d883e9caa1f7
   language: en
+  file_formats: .png * .zip
 - authors:
   - Spahn, Christoph
   - Heilemann, Mike
@@ -15748,6 +16019,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5550935
   uuid: 9904b1da-b46f-4b1d-b60c-f2512f6e03e2
   language: en
+  file_formats: .png * .zip
 - authors:
   - Cortada, Maurizio
   - Sauteur, Loïc
@@ -15768,6 +16040,7 @@ resources:
   - https://zenodo.org/records/4590066
   - https://doi.org/10.5281/zenodo.4590066
   uuid: 26e5244e-59cd-413c-bde5-889f58c8d5fa
+  file_formats: .zip * .zip
 - authors:
   - Qamar, Saqib
   - Baba, Abu Imran
@@ -15795,6 +16068,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10913446
   uuid: 87dc692c-e771-4fd3-9097-f5e25584fe55
   language: en
+  file_formats: .zip * .zip * .zip * .zip
 - authors:
   - Wanner, Julian
   - Kuhn Cuellar, Luis
@@ -15822,6 +16096,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5841376
   uuid: 17685617-b2a4-43f2-9be1-6bd3c6cedd04
   language: en
+  file_formats: .gz
 - authors:
   - Constantin Pape
   description: 'Training data for Convolutional Neural Networks used in the publication
@@ -15856,6 +16131,7 @@ resources:
   - https://doi.org/10.5281/zenodo.3675220
   uuid: a5fedfe4-8006-4b2e-bb46-f2ed9bc519f9
   language: en
+  file_formats: .zip * .zip * .zip * .zip
 - authors:
   - Ilya, Belevich
   - Jokitalo, Eija
@@ -15878,6 +16154,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10043461
   uuid: 54e29da3-0cbc-4f25-8c21-3efa43df9fa2
   language: en
+  file_formats: .pdf * .zip * .zip * .zip * .zip * .zip * .zip * .zip
 - authors:
   - Pape, Constantin
   description: 'This dataset contains room-temperature single-axis TEM tomograms from
@@ -15933,6 +16210,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14330011
   uuid: 49420074-9e04-47d0-b673-9ba1278d84be
   language: en
+  file_formats: .zip
 - authors:
   - Dietler, Nicola
   - Minder, Matthias
@@ -15961,6 +16239,7 @@ resources:
   - https://zenodo.org/records/5765648
   - https://doi.org/10.5281/zenodo.5765648
   uuid: deddb142-d5c3-47c7-9aef-4c3fc176447b
+  file_formats: .gz * .gz
 - authors:
   - Lamm, Lorenz
   description: 'This dataset contains training data for segmenting membranes in cryo-electron
@@ -15981,6 +16260,7 @@ resources:
   - https://zenodo.org/records/7739793
   - https://doi.org/10.5281/zenodo.7739793
   uuid: bb88717c-85f2-494a-8506-a45eefdd8b38
+  file_formats: .zip
 - authors:
   - Heebner, Jessica
   - Purnell, Carson
@@ -16017,6 +16297,7 @@ resources:
   - https://doi.org/10.5061/dryad.rxwdbrvct
   uuid: 3ac03ab8-2d28-48af-9fb5-f1d8bb344f08
   language: en
+  file_formats: .md * .zip
 - authors:
   - Wohlwend, Martin
   - Burri, Olivier
@@ -16080,6 +16361,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7041137
   uuid: a4a93984-060e-4308-8717-f404f680c885
   language: en
+  file_formats: .md * .zip
 - authors:
   - Jacquemier, Jean
   - Meystre, Julie
@@ -16144,6 +16426,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12656468
   uuid: e5c3eee0-3cb9-4f3e-9e54-62973e42abc0
   language: en
+  file_formats: .pdf * .zip * .zip
 - authors:
   - Martyna Mazur
   - Wojciech Krauze
@@ -16183,6 +16466,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8188948
   uuid: 0596c4ec-d64b-4e85-9539-86992a955f6e
   language: en
+  file_formats: .mat * .mat * .mat * .mat
 - authors:
   - Shi, Can
   - Fan, Jinghong
@@ -16229,6 +16513,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15370205
   uuid: 60d7e30c-eee5-44dc-be52-dc6c482c8c72
   language: en
+  file_formats: .txt * .xlsx * .zip * .zip * .zip * .zip * .zip * .zip * .zip * .zip
+    * .zip * .zip
 - authors:
   - Ma, Jun
   - Xie, Ronald
@@ -16314,6 +16600,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10719375
   uuid: 4fbb34f6-9d7d-47f0-a63b-c0abbad5b541
   language: en
+  file_formats: .md * .zip * .zip * .zip * .zip * .zip
 - authors:
   - Naji Hussein
   - Büttner Reinhard
@@ -16381,6 +16668,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8065174
   uuid: 6320c301-bad6-4d68-a6f0-9ff0e22cd8b6
   language: en
+  file_formats: .tar * .tar * .zip
 - authors:
   - Schuiveling, Mark
   description: 'Description:
@@ -16466,6 +16754,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15050523
   uuid: 00df53b9-3104-4128-b66d-5a89d5a346ce
   language: en
+  file_formats: .zip * .zip * .zip * .zip
 - authors:
   - Jeongun Ryu
   - Aaron Valero Puche
@@ -16534,6 +16823,7 @@ resources:
   - https://doi.org/10.5281/zenodo.8417503
   uuid: 3ebc596f-51f7-4d32-b480-9b2f4f348c10
   language: en
+  file_formats: .zip
 - authors:
   - Estibaliz Gómez-de-Mariscal
   - Hasini Jayatilaka
@@ -16578,6 +16868,7 @@ resources:
   - https://doi.org/10.5281/zenodo.5979761
   uuid: 65c10444-143a-48d1-88a0-1ec439cdce85
   language: en
+  file_formats: .zip * .zip * .zip
 - authors:
   - Dvoretskii, Stefan
   - Maier-Hein, Klaus
@@ -16595,6 +16886,7 @@ resources:
   - https://zenodo.org/records/15423904
   - https://doi.org/10.5281/zenodo.15423904
   uuid: 16fa61ee-9c45-44b7-a9b9-7cd006b288b1
+  file_formats: .pdf
 - authors:
   - Bortolomeazzi, Michele
   - Boissonnet, Tom
@@ -16616,6 +16908,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15152576
   uuid: 3d7e262e-c4af-4301-bc61-fd5f8da193a6
   language: en
+  file_formats: .ijm * .ipynb * .pptx * .pptx
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -16650,6 +16943,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15425770
   uuid: 88da6030-f8df-4f49-9678-e79899595ea2
   language: en
+  file_formats: .pdf * .pdf * .pptx * .pptx
 - authors:
   - Luke Sorensen
   - Ayame Saito
@@ -16757,6 +17051,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15314214
   uuid: 0ff88548-3496-4cb7-abe1-549429c09593
   language: en
+  file_formats: .zip * .zip * .zip * .zip * .zip * .zip * .zip * .zip
 - authors:
   - Young, Pamela
   description: .lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens
@@ -16774,6 +17069,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15353569
   uuid: 424e6f7a-7dfe-4775-9e4c-85d2e3095220
   language: en
+  file_formats: .lif * .lifext
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -16789,6 +17085,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15546497
   uuid: 0d46d6ca-2417-4722-863c-69275c111cd8
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx
+    * .pptx * .pptx * .pptx * .pptx
 - authors:
   - Haase, Robert
   description: 'Working together on the internet presents us with new challenges:
@@ -16826,6 +17124,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15379632
   uuid: 145a5dc8-29e5-4e66-bced-7ffb15fcbe36
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: The advent of large language models (LLMs) such as ChatGPT changes
@@ -16844,6 +17143,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15165424
   uuid: 586accd4-855b-4cad-9fcb-40ce1c81c7a0
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: 'In this slide deck we learn about the basics of Explainable Artificial
@@ -16861,6 +17161,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14996127
   uuid: b027a9ac-a79b-4388-b00f-11accdc67184
   language: en
+  file_formats: .pdf * .pdf * .pptx * .pptx
 - authors:
   - Vebjorn Ljosa
   - Katherine L. Sokolnicki
@@ -17581,6 +17882,7 @@ resources:
   - https://zenodo.org/records/15575379
   - https://doi.org/10.5281/zenodo.15575379
   uuid: bc586df5-e0ec-4cf9-9df7-b9ecccb4bae4
+  file_formats: .pdf
 - authors:
   - Schmidt, Christian
   - Mathur, Aastha
@@ -17599,6 +17901,7 @@ resources:
   - https://zenodo.org/records/15393592
   - https://doi.org/10.5281/zenodo.15393592
   uuid: 3dcaa04f-b228-45f0-babb-a6af81b33ba8
+  file_formats: .pdf
 - authors:
   - Moore, Josh
   description: 'https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
@@ -17626,6 +17929,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15479606
   uuid: 72cf60c5-830f-4080-82ec-e5307060a76d
   language: en
+  file_formats: .pdf
 - authors:
   - Bustos, Jonatan
   description: This dataset contains 4 .nd2 image files of pollen grains captured
@@ -17642,6 +17946,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15493140
   uuid: e751285d-f2e7-471e-9cd8-2a3967d8a474
   language: en
+  file_formats: .nd2 * .nd2 * .nd2 * .nd2
 - authors:
   - Carlos, Jaramillo
   description: this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp;
@@ -17655,6 +17960,7 @@ resources:
   - https://zenodo.org/records/15579371
   - https://doi.org/10.5281/zenodo.15579371
   uuid: 48befda9-ad2d-4a01-a200-24185f976e76
+  file_formats: .nd2
 - authors:
   - Andrey Fedorov
   - Daniela Schacherer
@@ -17733,6 +18039,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15597856
   uuid: aa977cf8-3042-4cfe-863f-edd3fec3200a
   language: en
+  file_formats: .pdf
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -17765,6 +18072,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15647102
   uuid: 2285c9b6-dc37-4bf4-a62c-55419c510271
   language: en
+  file_formats: .pdf
 - authors:
   - Schätz, Martin
   description: 'Presented as a part of:
@@ -17788,6 +18096,7 @@ resources:
   - https://doi.org/10.5281/zenodo.12584729
   uuid: fc69b529-2165-4ada-8e55-36dae2730850
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Koutentaki, Georgia
   - Schätz, Martin
@@ -17801,6 +18110,7 @@ resources:
   - https://zenodo.org/records/15402904
   - https://doi.org/10.5281/zenodo.15402904
   uuid: 4d31048c-5ce3-40ac-90dc-b2755fe19822
+  file_formats: .pdf
 - authors:
   - Kylies, Dominik
   - Heil, Hannah S.
@@ -17891,6 +18201,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13897937
   uuid: b712f2da-5847-4b78-8e6e-19006b75cea8
   language: en
+  file_formats: .ipynb * .pdf * .tif * .tif * .tif * .tif * .tif
 - authors:
   - Weidtkamp-Peters, Stefanie
   - Boissonnet, Tom
@@ -17963,6 +18274,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15796252
   uuid: 80f681e0-94cb-4059-8096-3d396f16e4dc
   language: en
+  file_formats: .pdf
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -17978,6 +18290,9 @@ resources:
   - https://doi.org/10.5281/zenodo.15793536
   uuid: a59dab46-98ac-4317-a7cd-c6fca9b3eb64
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf
+    * .pdf * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx
+    * .pptx * .pptx
 - authors:
   - Michele, Bortolomeazzi
   description: OMERO is the most used research data management system (RDM) in the
@@ -18013,6 +18328,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15771899
   uuid: e41f9a04-555e-42be-ae13-bc37f42da881
   language: en
+  file_formats: .pptx
 - authors:
   - Moore, Josh
   description: 'Presentation for the BioImagingUK Meeting taking place from 1200 -
@@ -18036,6 +18352,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15756866
   uuid: 1df2f876-ae76-46ea-b32c-b4aafaafba56
   language: en
+  file_formats: .pdf
 - authors:
   - Haase, Robert
   description: 'In this talk, I demonstrate potential use-cases for vision-language
@@ -18081,6 +18398,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15735577
   uuid: fb0f3cd1-86ff-48e0-b6a1-42dcb16f33ae
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18146,6 +18464,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15747344
   uuid: a5be89ce-be47-4cc3-9685-ff082987afa1
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf
 - authors:
   - Schätz, Martin
   - Rubešová, Olga
@@ -18192,6 +18511,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15827771
   uuid: 4bc7c5be-f890-4eb0-8e1e-f21f665dbfca
   language: en
+  file_formats: .csv * .xlsx * .zip
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei
@@ -18206,6 +18526,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15070246
   uuid: c872ef0f-528d-47e6-ac0b-6033a95590ea
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Myles Scolnick
   description: Teaching material for image processing and analysis
@@ -18258,6 +18579,9 @@ resources:
   - https://doi.org/10.5281/zenodo.15858127
   uuid: 32445e07-b9e2-4bef-b501-17007552a9b1
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf
+    * .pdf * .pdf * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx
+    * .pptx * .pptx * .pptx * .pptx
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18323,6 +18647,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15837532
   uuid: 31f35a4c-5f8a-44ef-9dda-f1d5c143126c
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf
 - authors:
   - Burdíková, Zuzana
   - Švindrych, Zdeněk
@@ -18398,6 +18723,8 @@ resources:
   - https://doi.org/10.5281/zenodo.8025067
   uuid: f5fbc8f8-e6e8-450c-bc2b-0300669a9cd6
   language: en
+  file_formats: .docx * .docx * .pdf * .pdf * .pdf * .pptx * .pptx * .pptx * .pptx
+    * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .pptx * .rtf * .zip * .zip
 - authors:
   - Schätz, Martin
   - Azevedo, Maria
@@ -18451,6 +18778,7 @@ resources:
   - https://doi.org/10.5281/zenodo.10205578
   uuid: d2580d86-408e-4ee5-b0d5-ecb945b0fe14
   language: en
+  file_formats: .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf * .pdf
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the &nbsp;Open source AI Tools for bioimage
@@ -18473,6 +18801,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13284351
   uuid: 9432641f-d43b-451d-8197-5c3f15ecbb53
   language: en
+  file_formats: .pptx
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -18498,6 +18827,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14045172
   uuid: cbf2599b-7a81-47a0-993f-395880196b64
   language: de
+  file_formats: .pdf * .pdf
 - authors:
   - Michael
   license: cc-by-4.0
@@ -18509,6 +18839,7 @@ resources:
   - https://zenodo.org/records/15933943
   - https://doi.org/10.5281/zenodo.15933943
   uuid: 38e74961-593d-4185-94c2-a4afe3b4f7c4
+  file_formats: .dng
 - authors:
   - Ahmadi, Mohsen
   - Wagner, Robert
@@ -18547,6 +18878,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16561545
   uuid: de33ce5c-0837-47e0-8758-0507e18e8c01
   language: en
+  file_formats: .pdf
 - authors:
   - Mathur, Aastha
   - Euro-BioImaging ERIC
@@ -18568,6 +18900,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16573999
   uuid: 32b4be42-f91a-41e7-913b-03c015834345
   language: en
+  file_formats: .pdf
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -18585,6 +18918,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16323251
   uuid: 15ec0a79-4a09-4b8e-ac28-1bb2f0201f0b
   language: en
+  file_formats: .pdf
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -18602,6 +18936,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16357461
   uuid: e0eb742a-fa35-4515-a246-75c09ddab2eb
   language: en
+  file_formats: .pdf
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -18619,6 +18954,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16357209
   uuid: fb316cd2-88c6-4ef0-96f5-c62440c4ccbf
   language: en
+  file_formats: .pdf
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -18691,6 +19027,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15798751
   uuid: a81a7297-8ec3-414d-a326-5c5549c0b437
   language: en
+  file_formats: .pdf
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -18735,6 +19072,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16396219
   uuid: 335ce5c7-b4f4-4d92-8408-44e378c35b14
   language: en
+  file_formats: .zip
 - authors:
   - Sauteur, Loïc
   description: 'Related to github issue: https://github.com/ome/bioformats/issues/3517
@@ -18749,6 +19087,7 @@ resources:
   - https://zenodo.org/records/16628927
   - https://doi.org/10.5281/zenodo.16628927
   uuid: c2ea9d40-a795-4635-bad0-9ec2e2ca4b35
+  file_formats: .nd2
 - authors:
   - VP
   description: 'Solution: https://forum.image.sc/t/weird-representation-of-qptiff-of-fluorescent-sample-in-qupath-v-0-6-0/115165/6?u=zuksmp3
@@ -18767,6 +19106,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16569043
   uuid: 807676ab-e93c-48fc-9013-4691646e76af
   language: en
+  file_formats: .qptiff
 - authors:
   - Vellutini, Bruno C.
   description: 'This tutorial shows how to make cartographic projections of fly embryos
@@ -18784,6 +19124,7 @@ resources:
   - https://doi.org/10.5281/zenodo.7628300
   uuid: ca0d2538-c305-4bee-be70-2cc86ae75d2a
   language: en
+  file_formats: .zip
 - authors:
   - Vellutini, Bruno C.
   - Handberg-Thorsager, Mette
@@ -18893,6 +19234,7 @@ resources:
   - https://doi.org/10.5281/zenodo.14250773
   uuid: 94130a13-90c6-40a3-90e4-f5898a42c1ab
   language: en
+  file_formats: .zip * .zip * .zip * .zip * .zip
 - authors:
   - Vellutini, Bruno C.
   - Martín-Durán, José M.
@@ -18916,6 +19258,7 @@ resources:
   - https://doi.org/10.5281/zenodo.13338425
   uuid: fc77ac99-de87-4770-8e36-65ad7586d5d8
   language: en
+  file_formats: .zip
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -18942,6 +19285,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15876646
   uuid: 99dfe37c-7025-4cd7-bf3a-921b04efc14f
   language: en
+  file_formats: .zip
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -18968,6 +19312,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15876638
   uuid: 947a7ad1-b1eb-4080-b3e4-329c15b11be7
   language: en
+  file_formats: .zip
 - authors:
   - Krishna, Abhijeet
   - Szałapak, Alicja
@@ -18993,6 +19338,7 @@ resources:
   - https://doi.org/10.5281/zenodo.15869598
   uuid: faa73146-9a79-42bd-a438-e6e3f750b7c1
   language: en
+  file_formats: .zip
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -19024,6 +19370,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16880913
   uuid: 58bc7eff-7515-4de1-8950-e1d4c8bfbe58
   language: en
+  file_formats: .odp * .pdf * .pptx
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19041,6 +19388,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16761197
   uuid: 3f3948f3-c810-4543-9c55-2a54e7d1593a
   language: en
+  file_formats: .pdf
 - authors:
   - Marin, Zach
   description: Two 2000-frame chunks acquired at different times (~40 minutes apart)
@@ -19054,6 +19402,7 @@ resources:
   - https://zenodo.org/records/16875377
   - https://doi.org/10.5281/zenodo.16875377
   uuid: c991078d-3167-4ee4-934c-864dcd48c79b
+  file_formats: .zip
 - authors:
   - Preußner, Johannes
   description: When using bioformats the images are not scaled correctly. The problem
@@ -19072,6 +19421,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16760282
   uuid: 46e10b2c-c641-4e0f-991b-617e7ddd647b
   language: en
+  file_formats: .tif * .tif
 - authors:
   - Moore, Josh
   description: 'Poster presentation for the abstract "Enabling Peta-Scale Federated
@@ -19088,6 +19438,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16911980
   uuid: 0c912c69-697c-4bd4-b6cb-4419b30609c1
   language: en
+  file_formats: .pdf
 - authors:
   - Snyder, Erika, Erika Thomas, Erika T.
   description: 'Hi all,I was referred to this community from the Image.sc Forum original
@@ -19128,6 +19479,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16921650
   uuid: 63f1c4cf-8558-4163-a4a3-582cf246530e
   language: en
+  file_formats: .nd2
 - authors:
   - Wetzker, Cornelia
   description: 'The poster introduces the consortium NFDI4BIOIMAGE and presents tools
@@ -19149,6 +19501,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17014253
   uuid: bf1429a9-cdff-4ec5-94f7-0de4d341a88c
   language: en
+  file_formats: .pdf * .svg
 - authors:
   - Wang
   license: cc-by-4.0
@@ -19160,6 +19513,7 @@ resources:
   - https://zenodo.org/records/16962727
   - https://doi.org/10.5281/zenodo.16962727
   uuid: dd97fc26-76a5-44c6-b88a-23124bef1c6a
+  file_formats: .zip
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis
@@ -19188,6 +19542,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17048377
   uuid: 0d297481-ba1d-4543-8bee-a3d988a46bde
   language: en
+  file_formats: .pdf
 - authors:
   - Gladitz, Nils
   license: cc-by-4.0
@@ -19200,6 +19555,7 @@ resources:
   - https://zenodo.org/records/17039369
   - https://doi.org/10.5281/zenodo.17039369
   uuid: 1a819753-2201-450e-b90c-e1b33571425d
+  file_formats: .obf
 - authors:
   - Virginie
   - Johannes Hugger
@@ -19275,6 +19631,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17103962
   uuid: 41257518-3778-4486-9f5e-dc4e654443a9
   language: en
+  file_formats: .pdf * .pdf
 - authors:
   - Schwarz, Michael
   description: 'Raw microscopy image from the NFDI4Bioimage calendar March 2025.
@@ -19447,6 +19804,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17098115
   uuid: f72fe567-6d37-4591-a9cd-ddaa71d9b044
   language: en
+  file_formats: .czi * .png
 - authors:
   - Moore, Josh
   description: Presented at "International Symposium on Integrative Bioinformatics",
@@ -19462,6 +19820,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17087096
   uuid: f65c55eb-beb7-44ea-bb45-b72e77e2b2b5
   language: en
+  file_formats: .pdf
 - authors:
   - Müntjes, Kira
   - Schipper, Kerstin
@@ -19498,6 +19857,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16993955
   uuid: 2a48d7b4-8f31-4f56-986c-e50069276467
   language: en
+  file_formats: .png
 - authors:
   - Macas, Jadranka
   description: "Image from the NFDI4BIOIMAGE Calendar November 2025.\nThe image shows\
@@ -19549,6 +19909,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16993649
   uuid: 7810e557-30a4-4654-beec-9952b6eee1c9
   language: en
+  file_formats: .png
 - authors:
   - Joisten-Rosenthal, Vivien
   description: 'Image from the NFDI4BIOIMAGE Calendar October 2025.
@@ -19713,6 +20074,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16993297
   uuid: bc08638e-543d-4b26-b866-bb7f3abc208f
   language: en
+  file_formats: .heic
 - authors:
   - Faber-Zuschratter, Heidi
   - Stöter, Torsten
@@ -19757,6 +20119,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16993178
   uuid: 7e52232b-844e-40bd-8e8c-a35ced38be99
   language: en
+  file_formats: .png
 - authors:
   - Jiang, Haowen
   - Chalopin, Claire
@@ -19930,6 +20293,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16993059
   uuid: 427c2a3c-3277-4cdb-9d49-01a9d15db89c
   language: en
+  file_formats: .png
 - authors:
   - Lörzing, Pilar
   - Iliasov, Denis
@@ -19977,6 +20341,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16992904
   uuid: e61a1d11-1b5b-43f9-9c5b-01eb96f2de05
   language: en
+  file_formats: .png
 - authors:
   - Warstat, Kevin
   description: 'Image from the NFDI4BIOIMAGE Calendar June 2025.
@@ -20071,6 +20436,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16992716
   uuid: c9f20ad0-98a0-4557-af00-835d0842ca7b
   language: en
+  file_formats: .png
 - authors:
   - Lück, Stefanie
   description: "Image from the NFDI4BIOIMAGE Calendar May 2025.\nThe microscopy image\
@@ -20122,6 +20488,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16991961
   uuid: 1675e1c8-2037-4b6f-913f-f4ffc7bc45e0
   language: en
+  file_formats: .png * .png
 - authors:
   - Zurowietz, Martin
   - Nattkemper, Tim W.
@@ -20246,6 +20613,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16980661
   uuid: 914de557-986a-428a-b57d-f3686c835595
   language: en
+  file_formats: .png
 - authors:
   - Kutskiy, Oleg
   description: "Image from the NFDI4BIOIMAGE Calendar February 2025.\n&ldquo;The Way\
@@ -20274,6 +20642,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16980386
   uuid: 25f9901e-f55b-4d7a-bbf9-3b3edc4a3580
   language: en
+  file_formats: .png
 - authors:
   - Miebach, Lea
   - Bekeschus, Sander
@@ -20518,6 +20887,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16980217
   uuid: 5e5b5c16-257c-4991-a10c-a432c7416a12
   language: en
+  file_formats: .png
 - authors:
   - Rademacher, Anne
   - Huseynov, Alik
@@ -20904,6 +21274,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16979744
   uuid: b2d615f5-2b9c-41d9-8cb9-ed77335ad69d
   language: en
+  file_formats: .png
 - authors:
   - Massei, Riccardo
   - Serrano-Solano, Beatriz
@@ -20955,6 +21326,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17093454
   uuid: a1c75d49-e6d9-423e-ad25-10e3b521aaf0
   language: en
+  file_formats: .pdf * .pdf
 - authors:
   - Wagner, Robert
   - Ahmadi, Mohsen
@@ -21018,6 +21390,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17092348
   uuid: 2febfada-4362-466f-872d-fb8b5e2aa6a6
   language: en
+  file_formats: .pdf * .pdf
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -21054,6 +21427,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17092303
   uuid: fdac071c-3b28-4aac-949d-bd87a51211d1
   language: en
+  file_formats: .pdf * .pdf
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -21072,6 +21446,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17085991
   uuid: be614b13-5234-40d7-8038-9bf03fed98a3
   language: en
+  file_formats: .pdf * .pptx
 - authors:
   - Thönnißen, Julia
   - Oliveira, Sarah
@@ -21140,6 +21515,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16736220
   uuid: 2f736338-f8e4-413e-bf7a-d1b6f8cd23e8
   language: en
+  file_formats: .pdf
 - authors:
   - Schätz, Martin
   - Pérez Koldenkova, Vadim
@@ -21155,3 +21531,4 @@ resources:
   - https://zenodo.org/records/17080219
   - https://doi.org/10.5281/zenodo.17080219
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
+  file_formats: .pdf * .pptx
