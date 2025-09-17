@@ -680,7 +680,7 @@ Licensed AGPL-3.0
 
 OMERO.web plugin for the Vitessce multimodal data viewer.
 
-Tags: Nfdi4Bioimage
+Tags: OMERO
 
 Content type: Github Repository
 

@@ -1,4 +1,4 @@
-# Nfdi4bioimage (81)
+# Nfdi4bioimage (80)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -900,7 +900,7 @@ Tags: Nfdi4Bioimage, Research Data Management
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -1800,7 +1800,7 @@ Content type: Github Repository
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
@@ -1815,27 +1815,6 @@ Tags: Sharing, Nfdi4Bioimage, Research Data Management
 Content type: Github Repository
 
 [https://github.com/ome/ome2024-ngff-challenge](https://github.com/ome/ome2024-ngff-challenge)
-
-
----
-
-## omero-vitessce
-
-Michele Bortolomeazzi
-
-Published 2024-11-25T10:51:01+00:00
-
-Licensed AGPL-3.0
-
-
-
-OMERO.web plugin for the Vitessce multimodal data viewer.
-
-Tags: Nfdi4Bioimage
-
-Content type: Github Repository
-
-[https://github.com/NFDI4BIOIMAGE/omero-vitessce](https://github.com/NFDI4BIOIMAGE/omero-vitessce)
 
 
 ---
