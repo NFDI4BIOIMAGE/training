@@ -1,4 +1,4 @@
-# Mit (31)
+# Mit (32)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -577,6 +577,27 @@ Tags: Workflow, Research Data Management
 Content type: Tutorial
 
 [https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
+## training
+
+Erick Martins Ratamero, dependabot[bot]
+
+Published 2020-03-09T13:25:54+00:00
+
+Licensed MIT
+
+
+
+repo for training materials
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/erickmartins/training](https://github.com/erickmartins/training)
 
 
 ---
