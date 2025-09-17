@@ -21685,4 +21685,15 @@ resources:
   tags: TODO
   type: GitHub Repository
   url: https://github.com/kevinyamauchi/embo-bia-2025
-
+- authors:
+  - Lea Kabjesz
+  name: Annotating Images in Cellpose
+  license: CC-BY-4.0
+  proficiency_level: advanced beginner
+  tags:
+  - Image Annotation
+  - Cellpose
+  - Bioimage Analysis
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/06/05/annotating-images-in-cellpose/
