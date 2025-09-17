@@ -11,7 +11,7 @@ Licensed CC-BY-4.0 INTERNATIONAL
 
 The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
 
-Tags: Bioinformatics, Bioimage Analysis
+Tags: Bioinformatics, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -32,7 +32,7 @@ Licensed CC-BY-4.0
 
 This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge.
 
-Tags: Galaxy, Multiplex Imaging
+Tags: Galaxy, Multiplex Imaging, Include In Dalia
 
 Content type: Tutorial
 
@@ -51,7 +51,7 @@ Licensed CC-BY-4.0
 
 Collection of tutorials developed and maintained by the worldwide Galaxy community.
 
-Tags: Bioimage Analysis, Data Analysis
+Tags: Bioimage Analysis, Data Analysis, Exclude From Dalia
 
 Content type: Collection, Tutorial
 
@@ -70,7 +70,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 
@@ -89,7 +89,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioinformatics, Bioimage Analysis
+Tags: Bioinformatics, Bioimage Analysis, Include In Dalia
 
 Content type: Workflow, Tutorial
 

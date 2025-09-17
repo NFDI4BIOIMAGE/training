@@ -5,6 +5,8 @@ Licensed ['CC-BY-4.0', 'MIT']
 
 
 
+Tags: Include In Dalia
+
 Content type: Tutorial, Code
 
 [https://datacarpentry.org/semester-biology/](https://datacarpentry.org/semester-biology/)
@@ -20,7 +22,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Imagej Macro, Bioimage Analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code
 
@@ -37,7 +39,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Code, Notebook
 
@@ -56,7 +58,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -73,7 +75,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -90,7 +92,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -104,6 +106,8 @@ Content type: Slides, Code, Notebook
 Licensed UNKNOWN
 
 
+
+Tags: Include In Dalia
 
 Content type: Code
 
@@ -120,7 +124,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Code, Notebook
 
@@ -137,7 +141,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Code
 
@@ -158,7 +162,7 @@ Licensed GPL-3.0
 
 First complete code set for The Digital Cell book.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Code
 

@@ -14,6 +14,8 @@ The format is tailored for the OMERO.web script&nbsp;"KeyVal_from_csv.py"&nbsp; 
 Attached is also a video of Thomas Zobel, the head of the imaging core facility Uni M&uuml;nster, showcasing the use of the Excel workbook.The video uses a slightly older version of the workbook and OMERO, but the core functionality remains unchanged.
 Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from/to .csv files will undergo a major change very soon.This might break the compatibility with the format used now for the generated .csv from the workbook.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14014252](https://zenodo.org/records/14014252)
 
 [https://doi.org/10.5281/zenodo.14014252](https://doi.org/10.5281/zenodo.14014252)
@@ -31,7 +33,7 @@ Licensed CC-BY-4.0
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: OMERO, Data Analysis, Bioimage Analysis
+Tags: OMERO, Data Analysis, Bioimage Analysis, Include In Dalia
 
 Content type: Collection
 
@@ -52,6 +54,8 @@ Licensed CC-BY-4.0
 
 In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
 
 [https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
@@ -69,7 +73,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -88,7 +92,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, OMERO, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -128,7 +132,7 @@ Content:
 	...
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
@@ -143,7 +147,7 @@ Jens Wendt
 
 
 
-Tags: Metadata, Workflow, OMERO
+Tags: Metadata, Workflow, OMERO, Include In Dalia
 
 Content type: Forum Post
 
@@ -163,6 +167,8 @@ Licensed CC-BY-4.0
 
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 

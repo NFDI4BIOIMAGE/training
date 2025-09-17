@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation
 
@@ -24,7 +24,7 @@ Daniel Franco-Barranco, et al.
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -43,7 +43,7 @@ Licensed UNKNOWN
 
 BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: Artificial Intelligence, Workflow Engine
+Tags: Artificial Intelligence, Workflow Engine, Exclude From Dalia
 
 Content type: Publication
 
@@ -62,7 +62,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -77,7 +77,7 @@ Content type: Documentation
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -92,7 +92,7 @@ Content type: Documentation
 
 Galaxy is an open source, web-based platform for data intensive biomedical research.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Documentation
 
@@ -109,7 +109,7 @@ Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -128,7 +128,7 @@ Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -147,7 +147,7 @@ Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -164,7 +164,7 @@ Content type: Publication, Documentation
 
 Nextflow enables scalable and reproducible scientific workflows using software containers.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Documentation
 
@@ -185,7 +185,7 @@ Licensed CC-BY-4.0
 
 Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Slides
 
@@ -202,7 +202,7 @@ Content type: Slides
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -223,7 +223,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 

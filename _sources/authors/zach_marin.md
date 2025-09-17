@@ -11,6 +11,8 @@ Licensed CC-BY-4.0
 
 10 frames of fluorescent particles. They don't do much, but they are a DCIMG version 0x7 file example.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14281237](https://zenodo.org/records/14281237)
 
 [https://doi.org/10.5281/zenodo.14281237](https://doi.org/10.5281/zenodo.14281237)
@@ -29,6 +31,8 @@ Licensed CC-BY-4.0
 
 
 Bead stack taken on lower path of a 4Pi without deformable mirror corrections. DCIMG examples, not for other purposes.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14268554](https://zenodo.org/records/14268554)
 
@@ -49,6 +53,8 @@ Licensed CC-BY-4.0
 
 Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction requirement.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14287640](https://zenodo.org/records/14287640)
 
 [https://doi.org/10.5281/zenodo.14287640](https://doi.org/10.5281/zenodo.14287640)
@@ -68,6 +74,8 @@ Licensed CC-BY-4.0
 
 DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15150937](https://zenodo.org/records/15150937)
 
 [https://doi.org/10.5281/zenodo.15150937](https://doi.org/10.5281/zenodo.15150937)
@@ -86,6 +94,8 @@ Licensed CC-BY-4.0
 
 
 Two 2000-frame chunks acquired at different times (~40 minutes apart) on a 4Pi widefield, showing some slow sample drift.&nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16875377](https://zenodo.org/records/16875377)
 

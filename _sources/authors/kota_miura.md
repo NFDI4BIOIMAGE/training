@@ -9,7 +9,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
@@ -24,7 +24,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -41,7 +41,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -58,7 +58,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -75,7 +75,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -94,7 +94,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Book
 
@@ -113,7 +113,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -130,7 +130,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -147,7 +147,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -164,7 +164,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -185,7 +185,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -202,7 +202,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 

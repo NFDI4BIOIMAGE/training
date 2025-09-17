@@ -9,7 +9,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -27,6 +27,8 @@ Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali,
 Licensed BSD-3-CLAUSE
 
 
+
+Tags: Include In Dalia
 
 Content type: Collection, Publication
 
@@ -47,7 +49,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -64,7 +66,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -85,7 +87,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 

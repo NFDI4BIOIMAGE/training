@@ -31,7 +31,7 @@ Weigert, M., Schmidt, U., Haase, R., Sugawara, K., &amp; Myers, G. (2020). Star-
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -50,7 +50,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -67,7 +67,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -84,7 +84,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Fiji, Artificial Intelligence, Bioimage Analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -101,7 +101,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -118,7 +118,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -135,7 +135,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -156,7 +156,7 @@ Licensed CC-BY-4.0
 
 Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -175,7 +175,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -192,7 +192,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -213,7 +213,7 @@ Licensed CC-BY-4.0
 
 Training set of microscopy images for Dietler et al. Nature Communications 2020
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 

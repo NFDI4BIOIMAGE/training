@@ -18,6 +18,8 @@ Antragsbewilligung und Nutzung&nbsp;
 
 Dieser hier enthaltene Beitrag ist der Initialvortrag des GerBi-Chats zum Teil 1 - Von der Bedarfsanmeldung bis zum Beginn der Antragststellung. Die weiteren Stufen der Gro&szlig;ger&auml;tebeschaffung werden in nachfolgenden Beitr&auml;gen behandelt.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13810879](https://zenodo.org/records/13810879)
 
 [https://doi.org/10.5281/zenodo.13810879](https://doi.org/10.5281/zenodo.13810879)
@@ -43,6 +45,8 @@ Antragsvorbereitung und -fertigstellung
 Antragsbewilligung und Nutzung&nbsp;
 
 Nach dem Initialvortrag der GerBI-Chat Reihe, in dem das Thema Bedarfsanmeldung im Fokus stand, geht es im hier enthaltenen zweiten Teil &bdquo;Antragsvorbereitung und -fertigstellung: Wie schreibe ich am besten einen Gro&szlig;ger&auml;teantrag?&ldquo; um die Beantragung von Forschungsgro&szlig;ger&auml;ten nach Art. 91b GG.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13807114](https://zenodo.org/records/13807114)
 
@@ -80,7 +84,7 @@ See cross reference:
 10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
 10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
 
@@ -117,7 +121,7 @@ See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
@@ -157,6 +161,8 @@ See cross reference:
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12547566](https://zenodo.org/records/12547566)
 
 [https://doi.org/10.5281/zenodo.12547566](https://doi.org/10.5281/zenodo.12547566)
@@ -175,6 +181,8 @@ Licensed CC-BY-4.0
 
 
 The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine Carl Gustav Carus (TU Dresden) is currently running a pilot project for testing the use and handling of the OMERO software. This is done together with interested users of the imaging facility and a research group. Currently, we are pushing forward this pilot study on a small scale without any data steward. Our experiences argue so far for giving data management issues into the hands of dedicated personnel not fully involved in research projects. As funding agencies will ask for higher and higher standards for implementing FAIRdata principles in the future, this will be a releva
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/10103316](https://zenodo.org/records/10103316)
 
@@ -195,7 +203,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 

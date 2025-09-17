@@ -5,7 +5,7 @@ Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ard
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -45,6 +45,8 @@ Licensed CC-BY-4.0
 
 "Be SURE - Be SUstainable REcommendations"The main goals and challenges for the Life Science (LS) communities in the Open Science framework are to increase reuse and sustainability of data resources, software tools, and workflows, especially in large-scale data-driven research and computational analyses. Here, we present key findings, procedures, effective measures and recommendations for generating and establishing sustainable LS resources based on the collaborative, cross-disciplinary work done within the EOSC-Life (European Open Science Cloud for Life Sciences) consortium. Bringing together 13 European LS Research Infrastructures (RIs), it has laid the foundation for an open, digital space to support biological and medical research. Using lessons learned from 27 selected projects, we describe the organisational, technical, financial and legal/ethical challenges that represent the main barriers to sustainability in the life sciences. We show how EOSC-Life provides a model for sustainable FAIR data management, including solutions for sensitive- and industry-related resources, by means of cross-disciplinary training and best practices sharing. Finally, we illustrate how data harmonisation and collaborative work facilitate interoperability of tools, data, solutions and lead to a better understanding of concepts, semantics and functionalities in the life sciences.IN PRESS EMBO Journal:&nbsp;https://www.embopress.org/journal/14602075&nbsp;AVAILABLE SOON at : https://doi.org/10.15252/embj.2023115008&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/8338931](https://zenodo.org/records/8338931)
 
 [https://doi.org/10.5281/zenodo.8338931](https://doi.org/10.5281/zenodo.8338931)
@@ -64,7 +66,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -89,7 +91,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 

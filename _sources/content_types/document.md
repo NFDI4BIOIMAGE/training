@@ -10,7 +10,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -31,7 +31,7 @@ Licensed CC-BY-4.0
 
 The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Document
 
@@ -52,7 +52,7 @@ Licensed AGPL-3.0
 
 Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Documentation, Document, Tutorial
 
@@ -76,7 +76,7 @@ Licensed CC-BY-4.0
 Researchers are increasingly often confronted with research data management (RDM) topics during their work. Higher education institutions therefore begin to offer services for RDM at some point to give support and advice. However, many groundbreaking decisions have to be made at the very beginning of RDM services. Priorities must be set and policies formulated. Likewise, the staff must first be qualified in order to provide advice and adequately deal with the manifold problems awaiting.
 The FDMentor project has therefore bundled the expertise of five German universities with different experiences and levels of RDM knowledge to jointly develop strategies, roadmaps, guidelines, and open access training material. Humboldt-Universit&auml;t zu Berlin, Freie Universit&auml;t Berlin, Technische Universit&auml;t Berlin, University of Potsdam, and European University Viadrina Frankfurt (Oder) have worked together on common solutions that are easy to adapt. With funding of the German Federal Ministry of Education and Research, the collaborative project addressed four problem areas: strategy development, legal issues, policy development, and competence enhancement. The aim of the project outcomes is to provide other higher education institutions with the best possible support for the efficient introduction of research data management. Therefore, all project results are freely accessible under the CC-BY 4.0 international license. The early involvement of the community in the form of workshops and the collection of feedback has proven its worth: the FDMentor strategies, roadmaps, guidelines, and training materials are applied and adapted beyond the partner universities.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Document
 
@@ -91,7 +91,7 @@ Content type: Document
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Document
 
@@ -104,7 +104,7 @@ Content type: Document
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Document
 
@@ -119,7 +119,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Document
 
@@ -134,7 +134,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Document
 

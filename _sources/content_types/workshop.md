@@ -10,7 +10,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -27,7 +27,7 @@ Content type: Workshop, Video, Document
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Workshop, Collection
 
@@ -40,7 +40,7 @@ Content type: Workshop, Collection
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Collection
 
@@ -53,7 +53,7 @@ Content type: Workshop, Collection
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Collection
 
@@ -66,7 +66,7 @@ Content type: Workshop, Collection
 
 
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Workshop
 
@@ -81,7 +81,7 @@ Content type: Workshop
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: Bioimage Analysis, OMERO, Research Data Management
+Tags: Bioimage Analysis, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Workshop
 
@@ -100,7 +100,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -119,7 +119,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -142,7 +142,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -161,7 +161,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides, Workshop
 
@@ -184,7 +184,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -201,7 +201,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Github Repository, Tutorial
 
@@ -220,7 +220,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -235,7 +235,7 @@ Licensed MIT
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Workshop, Collection
 

@@ -11,7 +11,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -30,7 +30,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -51,7 +51,7 @@ Licensed CC-BY-4.0
 
 Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
 
-Tags: Open Science, Teaching, Sharing
+Tags: Open Science, Teaching, Sharing, Include In Dalia
 
 Content type: Collection, Tutorial, Video
 
@@ -70,7 +70,7 @@ Licensed UNKNOWN
 
 Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
 
-Tags: Research Data Management, Sharing
+Tags: Research Data Management, Sharing, Include In Dalia
 
 Content type: Blog Post
 
@@ -85,7 +85,7 @@ Content type: Blog Post
 
 A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
 
-Tags: Sharing, Citing, Research Data Management
+Tags: Sharing, Citing, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -100,7 +100,7 @@ Elisabeth Kugler
 
 
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -119,7 +119,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -138,7 +138,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -153,7 +153,7 @@ Content type: Blog Post
 
 How to make your Github repository citable by adding a citation.cff file.
 
-Tags: Sharing, Citing, Research Data Management
+Tags: Sharing, Citing, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -168,7 +168,7 @@ Joachim Goedhart
 
 
 
-Tags: Sharing
+Tags: Sharing, Exclude From Dalia
 
 Content type: Preprint
 
@@ -189,7 +189,7 @@ Licensed CC-BY-4.0
 
 The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
 
-Tags: FAIR-Principles, Data Stewardship, Sharing
+Tags: FAIR-Principles, Data Stewardship, Sharing, Exclude From Dalia
 
 Content type: Publication
 
@@ -210,7 +210,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing, Nfdi4Bioimage, Research Data Management
+Tags: Sharing, Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 

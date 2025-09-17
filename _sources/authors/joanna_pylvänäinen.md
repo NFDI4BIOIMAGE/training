@@ -22,6 +22,8 @@ Publication Date: January 2025
 Keywords: Fiji, ImageJ, Image Analysis, Microscopy, Segmentation, Particle Analysis, 3D Visualization, StarDist
 License: MIT
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14771563](https://zenodo.org/records/14771563)
 
 [https://doi.org/10.5281/zenodo.14771563](https://doi.org/10.5281/zenodo.14771563)
@@ -41,7 +43,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -128,7 +130,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -217,7 +219,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -308,7 +310,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -402,7 +404,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -494,7 +496,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -585,7 +587,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -679,7 +681,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -768,7 +770,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -856,7 +858,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -877,7 +879,7 @@ Published 2025-01-13T08:29:22+00:00
 
 Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
 
-Tags: Cell Tracking, Bioimage Analysis
+Tags: Cell Tracking, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository, Collection
 

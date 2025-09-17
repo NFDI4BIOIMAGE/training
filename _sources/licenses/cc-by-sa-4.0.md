@@ -15,6 +15,8 @@ The DIF was developed in close consultation with the scientific community. This 
 The DIF is provided as a PDF document and in table form (ODS) to convey the attributes of the teaching and learning materials and their definitions in an easily understandable form and to facilitate communication. It also includes a legend and an example in tabular form. In addition, a template (CSV) with the attributes as column headers is provided, which can be used for recording the metadata of the teaching and learning materials. The tables can also be transferred to technical application profiles.
 We would like to thank all the commentators of the previous versions, especially Susanne Arndt, Sophie Bo&szlig;e, Sonja Felder, Marc Fuhrmans, Jan-Michael Haugwitz, Marina Lemaire, Karoline Lemke, Birte Lindst&auml;dt, Juliane R&ouml;der, and Jakob Vo&szlig;. Without their feedback and advice, the DIF would be less transparent.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/11521029](https://zenodo.org/records/11521029)
 
 [https://doi.org/10.5281/zenodo.11521029](https://doi.org/10.5281/zenodo.11521029)
@@ -32,7 +34,7 @@ Licensed CC-BY-SA-4.0
 
 Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.
 
-Tags: Documentation
+Tags: Documentation, Include In Dalia
 
 Content type: Website, Tutorial, Workflow
 
@@ -54,6 +56,8 @@ Licensed CC-BY-SA-4.0
 Presentation slides associated with the Introduction to Image Analysis workshop run at the Francis Crick Institute on 18-19th August 2025:
 https://doi.org/10.5281/zenodo.16949737
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
 
 [https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
@@ -69,7 +73,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Poster, Publication
 
@@ -189,6 +193,8 @@ Submitted via NFDI4Culture
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16980386](https://zenodo.org/records/16980386)
 
 [https://doi.org/10.5281/zenodo.16980386](https://doi.org/10.5281/zenodo.16980386)
@@ -208,7 +214,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Todo
+Tags: Include In Dalia
 
 Content type: Github Repository
 

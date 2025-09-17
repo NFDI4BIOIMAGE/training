@@ -7,7 +7,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -24,7 +24,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -45,7 +45,7 @@ Licensed ALL RIGHTS RESERVED
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -62,7 +62,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -77,7 +77,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -92,7 +92,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -109,7 +109,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Metadata
+Tags: Research Data Management, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -123,6 +123,8 @@ Content type: Publication
 Licensed ALL RIGHTS RESERVED
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection
 
@@ -141,7 +143,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, OMERO, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -162,6 +164,8 @@ Licensed ALL RIGHTS RESERVED
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
 
+Tags: Exclude From Dalia
+
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
@@ -179,7 +183,7 @@ Licensed ALL RIGHTS RESERVED
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication
 
@@ -194,7 +198,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -210,6 +214,8 @@ Licensed ALL RIGHTS RESERVED
 
 
 A searchable database of resources for light and electron microscopists
+
+Tags: Exclude From Dalia
 
 Content type: Collection
 

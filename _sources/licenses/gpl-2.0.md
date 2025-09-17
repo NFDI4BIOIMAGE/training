@@ -13,6 +13,8 @@ This tutorial shows how to make cartographic projections of fly embryos using th
 
 Instructions: download and open the imsane-tutorial.html&nbsp;file on your browser.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7628300](https://zenodo.org/records/7628300)
 
 [https://doi.org/10.5281/zenodo.7628300](https://doi.org/10.5281/zenodo.7628300)
@@ -28,7 +30,7 @@ Licensed GPL-2.0
 
 An easy to use and open source converter for bioimaging data. NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application
 
@@ -47,7 +49,7 @@ Licensed GPL-2.0
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -64,7 +66,7 @@ Licensed GPL-2.0
 
 An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
 
-Tags: OMERO, Imagej, Imagej Macro, Github
+Tags: OMERO, Imagej, Imagej Macro, Github, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -85,7 +87,7 @@ Licensed GPL-2.0
 
 An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -104,7 +106,7 @@ Licensed GPL-2.0
 
 A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
 
-Tags: OMERO, Github, Fiji
+Tags: OMERO, Github, Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -123,7 +125,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 
@@ -142,7 +144,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 

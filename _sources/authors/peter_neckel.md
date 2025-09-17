@@ -16,6 +16,8 @@ Updated documentation website to use a stable Fiji download: https://gut-analysi
 
 Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
 
 [https://doi.org/10.5281/zenodo.16396219](https://doi.org/10.5281/zenodo.16396219)
@@ -117,6 +119,8 @@ deepImageJ
 G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W., Donati, L., Lundberg, E., Unser, M., Mu&ntilde;oz-Barrutia, A. and Sage, D., 2021. DeepImageJ: A user-friendly environment to run deep learning models in ImageJ.&nbsp;Nature Methods,&nbsp;18(10), pp.1192-1195.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
 

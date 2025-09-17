@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 A short book with 6 steps that get you closer to making your work reproducible.
 
-Tags: Reproducibility, Research Data Management
+Tags: Reproducibility, Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -32,7 +32,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -53,7 +53,7 @@ Licensed CC-BY-4.0 INTERNATIONAL
 
 Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
 
-Tags: Reproducibility, Image Analysis
+Tags: Reproducibility, Image Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -72,7 +72,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata
+Tags: Reproducibility, Metadata, Exclude From Dalia
 
 Content type: Collection
 
@@ -93,7 +93,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Bioimage Analysis, Metadata
+Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 
 Content type: Publication
 

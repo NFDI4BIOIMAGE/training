@@ -9,7 +9,7 @@ Licensed CC-BY-3.0 UNPORTED
 
 Ressource that helps to choose an open source license for your project.
 
-Tags: Open Source, Licensing
+Tags: Open Source, Licensing, Exclude From Dalia
 
 Content type: Website
 
@@ -26,7 +26,7 @@ Licensed UNKOWN
 
 Leading open-source platform for collaborative and living data management plans.
 
-Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 In this section, information is organised according to the stages of the research data life cycle.
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Website, Online Tutorial
 
@@ -64,7 +64,7 @@ Licensed CC-BY-SA-4.0
 
 Diátaxis is a systematic framework for technical documentation that organizes content into four types—tutorials, how-to guides, technical reference, and explanations—to address distinct user needs, enhancing both user understanding and the documentation process.
 
-Tags: Documentation
+Tags: Documentation, Include In Dalia
 
 Content type: Website, Tutorial, Workflow
 
@@ -83,7 +83,7 @@ Licensed UNKNOWN
 
 The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -100,7 +100,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Quality Control
+Tags: Bioimage Analysis, Quality Control, Exclude From Dalia
 
 Content type: Website, Collection
 
@@ -117,7 +117,7 @@ Licensed UNKNOWN
 
 Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -136,7 +136,7 @@ Licensed CC-BY-4.0
 
 This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Website
 
@@ -153,7 +153,7 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management, Open Source Software
+Tags: Research Data Management, Open Source Software, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -172,7 +172,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
 
-Tags: Bioinformatics, Galaxy
+Tags: Bioinformatics, Galaxy, Exclude From Dalia
 
 Content type: Website
 
@@ -189,7 +189,7 @@ Licensed CC-BY-4.0
 
 Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 

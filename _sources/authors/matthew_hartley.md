@@ -7,7 +7,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -28,7 +28,7 @@ Licensed CC0-1.0
 
 Ultrasound images of mouse embryos with body and brain volume segmentation masks
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -49,7 +49,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -68,7 +68,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 
 Content type: Publication
 
@@ -89,7 +89,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 

@@ -10,7 +10,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -35,7 +35,7 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides, Webinar
 
@@ -56,7 +56,7 @@ Licensed UNKNOWN
 
 How can artificial intelligence be used for digital pathology?
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Video
 
@@ -69,7 +69,7 @@ Content type: Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -82,7 +82,7 @@ Content type: Collection, Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -97,7 +97,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Napari, Python, Bioimage Analysis
+Tags: Napari, Python, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -116,7 +116,7 @@ Sreeni Bhattiprolu
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -139,7 +139,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -158,7 +158,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Video, Presentation
 
@@ -170,6 +170,8 @@ Content type: Video, Presentation
 ## Euro-BioImaging Communication YouTube Channel
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -184,7 +186,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Fair, Bioimage Analysis
+Tags: Research Data Management, Fair, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -197,7 +199,7 @@ Content type: Collection, Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -218,7 +220,7 @@ Licensed UNKNOWN
 
 Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -239,7 +241,7 @@ Licensed UNKNOWN
 
 This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -252,6 +254,8 @@ Content type: Youtube Channel
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Collection, Video
 
 [https://www.youtube.com/GlobalBioImaging](https://www.youtube.com/GlobalBioImaging)
@@ -262,6 +266,8 @@ Content type: Collection, Video
 ## How to get started with Jupyter and Colab
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Video
 
@@ -282,7 +288,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -307,7 +313,7 @@ Licensed UNKNOWN
 
 This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
 
-Tags: Galaxy, Bioimage Analysis
+Tags: Galaxy, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Video
 
@@ -328,7 +334,7 @@ Licensed UNKNOWN
 
 This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
 
-Tags: Dimensionality Reduction
+Tags: Dimensionality Reduction, Include In Dalia
 
 Content type: Video
 
@@ -343,7 +349,7 @@ Content type: Video
 
 Collection of tutorial videos for Fiji users
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -358,7 +364,7 @@ Content type: Collection, Video
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 
-Tags: Neubias
+Tags: Neubias, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -377,7 +383,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Video, Collection
 
@@ -392,7 +398,7 @@ Content type: Video, Collection
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -407,7 +413,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, OMERO
+Tags: Research Data Management, OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -419,6 +425,8 @@ Content type: Collection, Video
 ## RDMBites BioImage metadata
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -439,7 +447,7 @@ Licensed UNKNOWN
 
 Video Lectures for Statistical Rethinking Course
 
-Tags: Statistics
+Tags: Statistics, Exclude From Dalia
 
 Content type: Video
 
@@ -454,7 +462,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -475,7 +483,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 

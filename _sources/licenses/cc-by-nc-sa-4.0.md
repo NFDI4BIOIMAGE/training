@@ -11,7 +11,7 @@ Licensed CC-BY-NC-SA-4.0
 
 A Dataset for Nuclei Segmentation of Cryosectioned H&E-Stained Histologic Images
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -30,7 +30,7 @@ Licensed CC-BY-NC-SA-4.0
 
 
 
-Tags: Data Visualization, R
+Tags: Data Visualization, R, Include In Dalia
 
 Content type: Book
 
@@ -55,7 +55,7 @@ Licensed CC-BY-NC-SA-4.0
 
 The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -76,7 +76,7 @@ Licensed CC-BY-NC-SA-4.0
 
 H&E staining of human tissue sections is a routine and most common protocol used by pathologists to enhance the contrast of tissue sections for tumor assessment (grading, staging, etc.) at multiple microscopic resolutions. Hence, we will provide the annotated dataset of H&E stained digitized tissue images of several patients acquired at multiple hospitals using one of the most common 40x scanner magnification. The annotations will be done with the help of expert pathologists.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -95,7 +95,7 @@ Licensed CC-BY-NC-SA-4.0
 
 OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension.
 
-Tags: Bioimage Analysis, OMERO
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
 
 Content type: Online Tutorial
 

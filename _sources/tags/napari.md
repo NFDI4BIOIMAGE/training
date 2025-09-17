@@ -5,7 +5,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -22,7 +22,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Napari
+Tags: Python, Bioimage Analysis, Napari, Include In Dalia
 
 Content type: Notebook
 
@@ -39,7 +39,7 @@ Licensed CC-BY-ND-SA-4.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection
 
@@ -54,7 +54,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Napari, Python, Bioimage Analysis
+Tags: Napari, Python, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -77,7 +77,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Bioimage Analysis
+Tags: Napari, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -94,7 +94,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -113,7 +113,7 @@ Licensed MIT
 
 Introduction to napari workshop run at JAX (Spring 2024).
 
-Tags: Napari
+Tags: Napari, Include In Dalia
 
 Content type: Slides
 
@@ -130,7 +130,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -149,7 +149,7 @@ Licensed CC-BY-4.0
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: Napari, Python
+Tags: Napari, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -164,7 +164,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -179,7 +179,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -194,7 +194,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -209,7 +209,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection, Notebook
 
@@ -230,7 +230,7 @@ Licensed BSD-3-CLAUSE
 
 This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
 
-Tags: Python, Napari
+Tags: Python, Napari, Include In Dalia
 
 Content type: Github Repository
 

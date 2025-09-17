@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation
 
@@ -24,7 +24,7 @@ Daniel Franco-Barranco, et al.
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -43,7 +43,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -61,6 +61,8 @@ Licensed CC-BY-4.0
 
 
 Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
+
+Tags: Exclude From Dalia
 
 Content type: Documentation
 
@@ -81,7 +83,7 @@ Licensed AGPL-3.0
 
 Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Documentation, Document, Tutorial
 
@@ -104,7 +106,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Bioimage Analysis
+Tags: Napari, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -121,7 +123,7 @@ Content type: Documentation, Github Repository, Tutorial
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -136,7 +138,7 @@ Content type: Documentation
 
 Galaxy is an open source, web-based platform for data intensive biomedical research.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Documentation
 
@@ -153,7 +155,7 @@ Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -174,7 +176,7 @@ Licensed GPL-3.0
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Workflow
+Tags: Imagej, OMERO, Workflow, Exclude From Dalia
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -191,7 +193,7 @@ Licensed UNKNOWN
 
 The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Documentation, Collection
 
@@ -208,7 +210,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Deployment, Python
+Tags: Deployment, Python, Include In Dalia
 
 Content type: Documentation
 
@@ -225,7 +227,7 @@ Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -244,7 +246,7 @@ Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -263,7 +265,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -280,7 +282,7 @@ Content type: Event, Publication, Documentation
 
 Nextflow enables scalable and reproducible scientific workflows using software containers.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Documentation
 
@@ -295,7 +297,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Documentation
 
@@ -310,7 +312,7 @@ Licensed UNKNOWN
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Documentation
 
@@ -325,7 +327,7 @@ Content type: Documentation
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 

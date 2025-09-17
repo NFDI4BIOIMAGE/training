@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -47,7 +47,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management
+Tags: Metadata, I3Dbio, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -64,7 +64,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Metadata
+Tags: Research Data Management, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -81,7 +81,7 @@ Published 2010
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication
 
@@ -96,7 +96,7 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -111,7 +111,7 @@ Alessandro Rigano, et al.
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -132,7 +132,7 @@ Licensed CC-BY-4.0
 
 The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
 
-Tags: Data Stewardship, FAIR-Principles, Metadata
+Tags: Data Stewardship, FAIR-Principles, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -153,7 +153,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 
@@ -174,7 +174,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -195,7 +195,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -214,7 +214,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata
+Tags: Reproducibility, Metadata, Exclude From Dalia
 
 Content type: Collection
 
@@ -235,7 +235,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles
+Tags: Metadata, Bioinformatics, FAIR-Principles, Include In Dalia
 
 Content type: Publication
 
@@ -256,7 +256,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Bioimage Analysis, Metadata
+Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -271,7 +271,7 @@ Jens Wendt
 
 
 
-Tags: Metadata, Workflow, OMERO
+Tags: Metadata, Workflow, OMERO, Include In Dalia
 
 Content type: Forum Post
 

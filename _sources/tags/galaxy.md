@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge.
 
-Tags: Galaxy, Multiplex Imaging
+Tags: Galaxy, Multiplex Imaging, Include In Dalia
 
 Content type: Tutorial
 
@@ -30,7 +30,7 @@ Licensed ['ACADEMIC FREE LICENSE VERSION 3.0', 'CREATIVE COMMONS ATTRIBUTION 3.0
 
 Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Tool
 
@@ -51,7 +51,7 @@ Licensed UNKNOWN
 
 Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -72,7 +72,7 @@ Licensed UNKNOWN
 
 This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
 
-Tags: Galaxy, Bioimage Analysis
+Tags: Galaxy, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Video
 
@@ -91,7 +91,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 
@@ -110,7 +110,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
 
-Tags: Bioinformatics, Galaxy
+Tags: Bioinformatics, Galaxy, Exclude From Dalia
 
 Content type: Website
 

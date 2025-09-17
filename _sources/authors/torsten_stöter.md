@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Nfdi4Bioimage, Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -30,7 +30,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Poster
 
@@ -52,6 +52,8 @@ Licensed CC-BY-4.0
 
 
 A more detailed understanding of the effect of plasmas on biological systems can be fostered by combining data from different imaging modalities, such as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however, requires the implementation and use of sophisticated research data management (RDM) solutions to incorporate the influence of plasma parameters and treatment procedures as well as the effects of plasma on the treated targets. In order to address this, RDM activities on different levels and from different perspectives are started and brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
@@ -220,6 +222,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16993178](https://zenodo.org/records/16993178)
 
 [https://doi.org/10.5281/zenodo.16993178](https://doi.org/10.5281/zenodo.16993178)
@@ -235,7 +239,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -256,7 +260,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -277,7 +281,7 @@ Licensed GNU GENERAL PUBLIC LICENSE V3.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository, Software
 

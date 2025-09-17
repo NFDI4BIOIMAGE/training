@@ -11,6 +11,8 @@ Licensed CC-BY-4.0
 
 The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
 
 [https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
@@ -30,7 +32,7 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -58,7 +60,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -82,7 +84,7 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
 C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
 
@@ -104,6 +106,8 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE with its central objectives, provides an overview of challenges in bioimage data handling, sharing and analysis and lists support options by the consortium through its data stewardship team.
 It is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659) and has been presented at the conference FDM@Campus held in G&ouml;ttingen September 23-25, 2024.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14006558](https://zenodo.org/records/14006558)
 
 [https://doi.org/10.5281/zenodo.14006558](https://doi.org/10.5281/zenodo.14006558)
@@ -123,6 +127,8 @@ Licensed CC-BY-4.0
 
 The poster is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659).
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13684187](https://zenodo.org/records/13684187)
 
 [https://doi.org/10.5281/zenodo.13684187](https://doi.org/10.5281/zenodo.13684187)
@@ -141,6 +147,8 @@ Licensed CC-BY-4.0
 
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 

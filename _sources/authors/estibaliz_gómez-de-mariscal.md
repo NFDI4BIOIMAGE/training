@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -32,6 +32,8 @@ Added StarDist models back and removed deepimageJ models for neuron segmentation
 Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
 
 Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
 
@@ -60,7 +62,7 @@ This dataset is provided together with the following preprint and if you use it,
 
 Estibaliz G&oacute;mez-de-Mariscal, Hasini Jayatilaka, &Ouml;zg&uuml;n &Ccedil;i&ccedil;ek, Thomas Brox, Denis Wirtz, Arrate Mu&ntilde;oz-Barrutia, *Search for temporal cell segmentation robustness in phase-contrast microscopy videos*, arXiv 2021 (arXiv:2112.08817)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -79,7 +81,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -96,7 +98,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -113,7 +115,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 

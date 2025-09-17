@@ -7,7 +7,7 @@ Licensed MIT
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
 
@@ -22,7 +22,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Notebook
 
@@ -39,7 +39,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -65,7 +65,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Slides
 
@@ -84,7 +84,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -111,7 +111,7 @@ Training data for Convolutional Neural Networks used in the publication Whole-bo
 
 For details on how to use this data for training, see https://github.com/platybrowser/platybrowser-backend/tree/master/segmentation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -135,7 +135,7 @@ Licensed CC-BY-4.0
 This dataset contains room-temperature single-axis TEM tomograms from Schaffer collateral and mossy fiber synapses in organotypic hippocampal slices.&nbsp;The tomograms were published in the two studies [1, 2]. The data was re-used for training deep neural networks to segment different synaptic structures in electron micrographs in [3].&nbsp;For the tomograms, organotypic slices were prepared from the hippocampi of neonatal mice according to the interface protocol55 and vitrified after 28 days in vitro in culture medium supplemented with 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. The dataset also contains 23 tomograms resulting from chemically-fixed material, which were also published in (Maus et al., 2020). For these tomograms, wild-type animals at postnatal day 28 were transcardially perfused under deep anesthesia, first with 0.9% sodium chloride solution, and then one of two fixatives (Fixative 1: Ice-cold 4% paraformaldehyde, 2.5% glutaraldehyde in 0.1 M phosphate buffer16; Fixative 2: 37&deg; C 2% paraformaldehyde, 2.5% glutaraldehyde, 2 mM CaCl2, in 0.1 M cacodylate buffer56). Brains were rinsed and sectioned coronally through the dorsal hippocampus in an ice-cold 0.1 M phosphate buffer using a VT 1200S vibratome (Leica) (step size 100 &micro;m; amplitude 1.5 mm, speed 0.1 mm/sec). Hippocampal CA3 subregions were excised using a 1.5 mm diameter biopsy punch and high-pressure frozen on the same day in 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. For both sample preparations, automated freeze-substitution was performed. Tomograms were collected using a 200 kV JEM-2100 (JEOL) transmission electron microscope equipped with an 11 MP Orius SC1000 CCD camera (Gatan). Tilt-series (tilt range +/- 60&deg;; 1&deg; angular increments) were acquired at 30 000x magnification using SerialEM58. Tomographic reconstructions were generated using weighted back-projection with etomo.The data is organized into two different subfolders for data with annotations for "vesicles" and "active_zones". Each of these subfolders is further subdivided into "train" and "test" folders, which containtomograms for the two different sample preparations in "chemical_fixation" and "single_axis_tem".Each tomogram and the corresponding annotation is stored as a hdf5 file, containing the following internal datasets:- raw: The tomogram data.- labels/vesicles: Annotations for the synaptic vesicles, annotated with IMOD, further postprocessed and then exported to instance masks. (for tomograms in "vesicles")- labels/AZ: Annotations for the active zone, annotated with IMOD and exported to binary masks.
 [1] Imig et al., The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones, Neuron, 2014, DOI:10.1016/j.neuron.2014.10.009[2] Maus et al., Ultrastructural Correlates of Presynaptic Functional Heterogeneity in Hippocampal Synapses, Cell Reports, 2020, DOI: 10.1016/j.celrep.2020.02.083[3] Muth, Moschref et al., 2024, Preprint to be published
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -154,7 +154,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 
@@ -169,7 +169,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Big Data
+Tags: Python, Big Data, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -190,7 +190,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

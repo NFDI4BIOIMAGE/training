@@ -9,7 +9,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Conference Abstract
 
@@ -47,7 +47,7 @@ Licensed CC-BY-4.0
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -64,6 +64,8 @@ Licensed BSD-3-CLAUSE
 
 
 
+Tags: Include In Dalia
+
 Content type: Collection, Publication
 
 [https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
@@ -79,7 +81,7 @@ Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ard
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -96,6 +98,8 @@ J.R. Swedlow, P. Kankaanpää, U. Sarkans, et al.
 
 A comprehensive overview of existing standards for image data formats in biomedicine, including DICOM, OME-TIFF and NIfTI. It discusses standardisation challenges and provides recommendations for improving the interoperability and FAIRness of image data.
 
+Tags: Include In Dalia
+
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-021-01113-7](https://doi.org/10.1038/s41592-021-01113-7)
@@ -109,7 +113,7 @@ Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -124,7 +128,7 @@ Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel 
 
 
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication, Poster
 
@@ -145,7 +149,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis
+Tags: OMERO, Workflow, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -166,7 +170,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -183,7 +187,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis
+Tags: Research Data Management, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -202,7 +206,7 @@ Licensed UNKNOWN
 
 BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: Artificial Intelligence, Workflow Engine
+Tags: Artificial Intelligence, Workflow Engine, Exclude From Dalia
 
 Content type: Publication
 
@@ -214,6 +218,8 @@ Content type: Publication
 ## Bioimage Archive
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Data, Publication
 
@@ -234,7 +240,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -251,7 +257,7 @@ Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özde
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -272,7 +278,7 @@ Licensed ALL RIGHTS RESERVED
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -291,7 +297,7 @@ Licensed CC-BY-4.0
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -308,7 +314,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -329,7 +335,7 @@ Licensed CC-BY-4.0
 
 The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -350,7 +356,7 @@ Licensed UNKNOWN
 
 BioCypher is a framework to support users in creating KGs
 
-Tags: Knowledge Graph, Bioinformatics
+Tags: Knowledge Graph, Bioinformatics, Exclude From Dalia
 
 Content type: Publication
 
@@ -369,7 +375,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -386,7 +392,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -407,7 +413,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -428,7 +434,7 @@ Licensed CC-BY-4.0
 
 Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -451,7 +457,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -472,7 +478,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -491,7 +497,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -503,6 +509,8 @@ Content type: Publication
 ## Image Data Resources
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Data, Publication
 
@@ -523,7 +531,7 @@ Licensed CC-BY-4.0
 
 Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields.
 
-Tags: Open Source Software, Funding, Sustainability
+Tags: Open Source Software, Funding, Sustainability, Exclude From Dalia
 
 Content type: Publication
 
@@ -542,7 +550,7 @@ Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -565,7 +573,7 @@ Licensed CC-BY-4.0
 
 As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
 
-Tags: Research Data Management, FAIR-Principles
+Tags: Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Publication
 
@@ -582,7 +590,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Metadata
+Tags: Research Data Management, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -601,7 +609,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 
 Content type: Publication
 
@@ -618,7 +626,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -635,7 +643,7 @@ Published 2010
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication
 
@@ -650,7 +658,7 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -667,7 +675,7 @@ Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -684,7 +692,7 @@ Alessandro Rigano, et al.
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -705,7 +713,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -726,7 +734,7 @@ Licensed CC-BY-4.0
 
 The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
 
-Tags: Data Stewardship, FAIR-Principles, Metadata
+Tags: Data Stewardship, FAIR-Principles, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -745,7 +753,7 @@ Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -766,7 +774,7 @@ Licensed CC-BY-NC-SA
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow, Exclude From Dalia
 
 Content type: Publication
 
@@ -785,7 +793,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Poster, Publication
 
@@ -802,7 +810,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Publication
 
@@ -819,7 +827,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -838,7 +846,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -857,7 +865,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, OMERO, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -878,6 +886,8 @@ Licensed ALL RIGHTS RESERVED
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
 
+Tags: Exclude From Dalia
+
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
@@ -895,7 +905,7 @@ Licensed CC-BY-4.0
 
 Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
 
-Tags: FAIR-Principles, Machine Learning, Research Data Management
+Tags: FAIR-Principles, Machine Learning, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -910,7 +920,7 @@ Dan Chitwood, Sourabh Palande
 
 
 
-Tags: Notebook
+Tags: Notebook, Include In Dalia
 
 Content type: Publication
 
@@ -933,7 +943,7 @@ Licensed CC-BY-4.0
 
 This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
 
-Tags: Bioimage Analysis, Data Exploration
+Tags: Bioimage Analysis, Data Exploration, Include In Dalia
 
 Content type: Publication
 
@@ -950,7 +960,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Quareo-Limi
+Tags: Quareo-Limi, Include In Dalia
 
 Content type: Publication
 
@@ -971,7 +981,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -996,7 +1006,7 @@ Licensed CC-BY-4.0
 
 This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
 
-Tags: Research Data Management, Open Science, Data Protection
+Tags: Research Data Management, Open Science, Data Protection, Exclude From Dalia
 
 Content type: Publication
 
@@ -1017,7 +1027,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1034,7 +1044,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1051,7 +1061,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -1072,7 +1082,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -1089,7 +1099,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -1110,7 +1120,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles
+Tags: Metadata, Bioinformatics, FAIR-Principles, Include In Dalia
 
 Content type: Publication
 
@@ -1131,7 +1141,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1154,7 +1164,7 @@ Licensed CC-BY-4.0
 
 This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
 
-Tags: FAIR-Principles, Research Data Management
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1177,7 +1187,7 @@ Licensed CC-BY-4.0
 
 The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
 
-Tags: FAIR-Principles, Data Stewardship, Sharing
+Tags: FAIR-Principles, Data Stewardship, Sharing, Exclude From Dalia
 
 Content type: Publication
 
@@ -1196,7 +1206,7 @@ Licensed ALL RIGHTS RESERVED
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication
 
@@ -1217,7 +1227,7 @@ Licensed CC-BY-4.0
 
 The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -1240,7 +1250,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -1259,7 +1269,7 @@ Licensed CC-BY-NC-ND-4.0
 
 This paper focuses on the ongoing process of establishing a FAIR (Findable, Accessible, Interoperable and Reusable) data workflow for multidisciplinary research and development in applied plasma science. The presented workflow aims to support researchers in handling their project data while also fulfilling the requirements of modern digital research data management. 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1280,7 +1290,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Bioimage Analysis, Metadata
+Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -1299,7 +1309,7 @@ Published 2023
 
 This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -1318,7 +1328,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -1339,7 +1349,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 

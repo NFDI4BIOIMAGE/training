@@ -11,7 +11,7 @@ Licensed MIT
 
 Course about image analysis with materials in English and videos in Portuguese.
 
-Tags: Cell Profiler, Bioimage Analysis
+Tags: Cell Profiler, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -32,7 +32,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Include In Dalia
 
 Content type: Github Repository
 
@@ -51,7 +51,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Nfdi4Bioimage, Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -70,7 +70,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -91,7 +91,7 @@ Licensed BSD-3-CLAUSE
 
 This is a repository containing a textbook written for BioImaging scientists and other microscopists.
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Book, Github Repository
 
@@ -112,7 +112,7 @@ Licensed APACHE-2.0
 
 The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
 
-Tags: OMERO, Github
+Tags: OMERO, Github, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -131,7 +131,7 @@ Published 2024-09-04T12:24:24+00:00
 
 Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Collection
 
@@ -150,7 +150,7 @@ Licensed CC-BY-NC-4.0
 
 Code Implementation for EmbedSeg, an Instance Segmentation Method for Microscopy Images
 
-Tags: Bioimage Analysis, Instance Segmentation
+Tags: Bioimage Analysis, Instance Segmentation, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -171,7 +171,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Bioimage Analysis
+Tags: Napari, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -194,7 +194,7 @@ Licensed MIT
 
 Friends don't let friends make certain types of data visualization - What are they and why are they bad. 
 
-Tags: Visualization
+Tags: Visualization, Include In Dalia
 
 Content type: Github Repository
 
@@ -213,7 +213,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -232,7 +232,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -253,7 +253,7 @@ Licensed BSD-3-CLAUSE
 
 This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
 
-Tags: Bioimage Analysis, Notebooks, Biabob
+Tags: Bioimage Analysis, Notebooks, Biabob, Include In Dalia
 
 Content type: Github Repository, Tutorial, Notebook
 
@@ -274,7 +274,7 @@ Licensed BSD-3-CLAUSE
 
 Self-guided notebook tutorials to help get started with IDC
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -295,7 +295,7 @@ Licensed CC-BY-4.0
 
 This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation.
 
-Tags: High Performance Computing
+Tags: High Performance Computing, Include In Dalia
 
 Content type: Github Repository
 
@@ -316,7 +316,7 @@ Licensed MIT
 
 Linking Electronic Lab Notebooks and other sources with OMERO objects 
 
-Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -335,7 +335,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Slides, Notebook
 
@@ -354,7 +354,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides, Workshop
 
@@ -375,7 +375,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -394,7 +394,7 @@ Licensed MIT
 
 YSDA course in Natural Language Processing
 
-Tags: Natural Language Processing
+Tags: Natural Language Processing, Include In Dalia
 
 Content type: Github Repository
 
@@ -413,7 +413,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial for running CellPose advanced functions
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository
 
@@ -432,7 +432,7 @@ Licensed MIT
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO, Include In Dalia
 
 Content type: Github Repository
 
@@ -453,7 +453,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -472,7 +472,7 @@ Licensed CC-BY-4.0
 
 This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
 
-Tags: OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -493,7 +493,7 @@ Licensed CC0-1.0
 
 Online R learning for applied statistics 
 
-Tags: Statistics
+Tags: Statistics, Include In Dalia
 
 Content type: Github Repository
 
@@ -514,7 +514,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -531,7 +531,7 @@ Licensed GPL-2.0
 
 An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
 
-Tags: OMERO, Imagej, Imagej Macro, Github
+Tags: OMERO, Imagej, Imagej Macro, Github, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -552,7 +552,7 @@ Licensed GPL-2.0
 
 An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -571,7 +571,7 @@ Licensed GPL-2.0
 
 A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
 
-Tags: OMERO, Github, Fiji
+Tags: OMERO, Github, Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -592,7 +592,7 @@ Licensed MIT
 
 
 
-Tags: Llms, Prompt Engineering, Code Generation
+Tags: Llms, Prompt Engineering, Code Generation, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -613,7 +613,7 @@ Licensed UNKNOWN
 
 These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
 
-Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -632,7 +632,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -651,7 +651,7 @@ Licensed BSD-3-CLAUSE
 
 This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -670,7 +670,7 @@ Licensed APACHE-2.0
 
 Jupyter notebooks for learning how to use SimpleITK
 
-Tags: Bioimage Analysis, Simpleitk
+Tags: Bioimage Analysis, Simpleitk, Include In Dalia
 
 Content type: Github Repository
 
@@ -691,7 +691,7 @@ Licensed CC0-1.0
 
 This course teaches data analysis, but it focuses on scientific models. The unfortunate truth about data is that nothing much can be done with it, until we say what caused it. We will prioritize conceptual, causal models and precise questions about those models. We will use Bayesian data analysis to connect scientific models to evidence. And we will learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face.
 
-Tags: Statistics
+Tags: Statistics, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -712,7 +712,7 @@ Licensed CC-BY-4.0
 
 Course contents for biapol course at Trends in Microscopy conference 2025
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -731,7 +731,7 @@ Licensed BSD3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Github Repository, Tutorial
 
@@ -752,7 +752,7 @@ Published 2025-01-13T08:29:22+00:00
 
 Training materials for V4SDB Student Winter School, 28th-31st January 2025 at ELTE Eötvös Loránd University in Budapest, Hungary
 
-Tags: Cell Tracking, Bioimage Analysis
+Tags: Cell Tracking, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository, Collection
 
@@ -773,7 +773,7 @@ Licensed BSD-3-CLAUSE
 
 Repository accompanying the multiview-stitcher tutorial for Virtual I2K 2024
 
-Tags: Big Data, Bioimageanalysis
+Tags: Big Data, Bioimageanalysis, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -794,7 +794,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -813,7 +813,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 
@@ -834,7 +834,7 @@ Licensed MIT
 
 Your Personal Assistant in Computational Bioimaging.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -853,7 +853,7 @@ Published 2025-04-25T21:00:39+00:00
 
 
 
-Tags: Data Visualization
+Tags: Data Visualization, Include In Dalia
 
 Content type: Github Repository
 
@@ -874,7 +874,7 @@ Licensed GNU GENERAL PUBLIC LICENSE V3.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository, Software
 
@@ -895,7 +895,7 @@ Licensed APACHE-2.0
 
 firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -916,7 +916,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Todo
+Tags: Exclude From Dalia
 
 Content type: Github Repository
 
@@ -933,7 +933,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Big Data
+Tags: Python, Big Data, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -954,7 +954,7 @@ Licensed APACHE-2.0
 
 Teaching material for image processing and analysis
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -975,7 +975,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -996,7 +996,7 @@ Licensed CC-BY-4.0
 
 Course repository for Strategic Use of Generative AI
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -1019,7 +1019,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Todo
+Tags: Include In Dalia
 
 Content type: Github Repository
 
@@ -1040,7 +1040,7 @@ Licensed BSD-3-CLAUSE
 
 This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
 
-Tags: Python, Napari
+Tags: Python, Napari, Include In Dalia
 
 Content type: Github Repository
 
@@ -1061,7 +1061,7 @@ Licensed CC-BY-4.0
 
 Nextflow workshop materials March 2023
 
-Tags: Workflow, Nextflow
+Tags: Workflow, Nextflow, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -1084,7 +1084,7 @@ Licensed BSD-3-CLAUSE
 
 NextFlow 101
 
-Tags: Bioimage Analysis, Workflows
+Tags: Bioimage Analysis, Workflows, Include In Dalia
 
 Content type: Github Repository
 
@@ -1104,6 +1104,8 @@ Licensed BSD-2-CLAUSE
 
 
 Web page for validating OME-NGFF files.
+
+Tags: Exclude From Dalia
 
 Content type: Github Repository, Application
 
@@ -1126,7 +1128,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing, Nfdi4Bioimage, Research Data Management
+Tags: Sharing, Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1147,7 +1149,7 @@ Licensed GNU GENERAL PUBLIC LICENSE V3.0
 
 Library to export OMERO projects to ARC repositories
 
-Tags: OMERO, Research Data Management
+Tags: OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository, Software
 
@@ -1166,7 +1168,7 @@ Published 2024-09-13T08:01:09+00:00
 
  ONTOP module for querying OMERO with SPARQL
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1187,7 +1189,7 @@ Licensed AGPL-3.0
 
 OMERO.web plugin for the Vitessce multimodal data viewer.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1208,7 +1210,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Histopathology, Bioimage Analysis
+Tags: Histopathology, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository, Notebook
 
@@ -1229,7 +1231,7 @@ Licensed CC-BY-4.0
 
 Materials supporting the QuPath workshop at Harvard Medical School.
 
-Tags: Notebook, Slides, Collection
+Tags: Notebook, Slides, Collection, Include In Dalia
 
 Content type: Github Repository
 
@@ -1248,7 +1250,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 
@@ -1269,7 +1271,7 @@ Licensed GPL-3.0
 
 Teaching materials for improving research software writing abilities.
 
-Tags: Research Software Engineering
+Tags: Research Software Engineering, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -1290,7 +1292,7 @@ Licensed BSD-3-CLAUSE
 
 Scanpy Tutorials.
 
-Tags: Single-Cell Analysis, Bioimage Analysis
+Tags: Single-Cell Analysis, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -1309,7 +1311,7 @@ Licensed CC-BY-4.0
 
 Machine learning in Python with scikit-learn MOOC
 
-Tags: Bioimage Analysis, Machine Learning
+Tags: Bioimage Analysis, Machine Learning, Include In Dalia
 
 Content type: Github Repository
 
@@ -1330,7 +1332,7 @@ Licensed BSD-3-CLAUSE
 
 A tutorial of classical shape analysis methods
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -1349,7 +1351,7 @@ Licensed CC0 1.0 UNIVERSAL
 
 skimage-tutorials - a collection of tutorials for the scikit-image package.
 
-Tags: Bioimage Analysis, Scikit-Image
+Tags: Bioimage Analysis, Scikit-Image, Include In Dalia
 
 Content type: Github Repository
 
@@ -1370,7 +1372,7 @@ Licensed MIT
 
 repo for training materials
 
-Tags: Todo
+Tags: Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1391,7 +1393,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

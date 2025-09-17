@@ -5,7 +5,7 @@ Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel 
 
 
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication, Poster
 
@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Poster
 
@@ -47,7 +47,7 @@ Licensed CC-BY-4.0
 
 High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -66,7 +66,7 @@ Licensed CC-BY-4.0
 
 EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
 
-Tags: Ontology, Bioimage Analysis
+Tags: Ontology, Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -83,7 +83,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -100,7 +100,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Poster, Publication
 
@@ -119,7 +119,7 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
-Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -138,7 +138,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Research Data Management, Bioimage Analysis, Data Science
+Tags: Research Data Management, Bioimage Analysis, Data Science, Exclude From Dalia
 
 Content type: Poster
 
@@ -157,7 +157,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -176,7 +176,7 @@ Licensed CC-BY-4.0
 
 Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
 
-Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 

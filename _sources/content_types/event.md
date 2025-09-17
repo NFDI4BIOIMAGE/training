@@ -3,7 +3,7 @@
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Event
 
@@ -16,7 +16,7 @@ Content type: Event
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event
 
@@ -33,7 +33,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -48,7 +48,7 @@ Content type: Event, Publication, Documentation
 
 
 
-Tags: OMERO, Research Data Management
+Tags: OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Event
 
@@ -61,7 +61,7 @@ Content type: Collection, Event
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -74,7 +74,7 @@ Content type: Event, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -87,7 +87,7 @@ Content type: Event, Notebook
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection, Event
 
@@ -104,7 +104,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 

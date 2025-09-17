@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -32,7 +32,7 @@ Licensed CC0-1.0
 
 Segmentation masks of individual cells in Drosophila wing discs
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -53,7 +53,7 @@ Licensed CC-BY-4.0
 
 This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -74,7 +74,7 @@ Licensed CC0-1.0
 
 Ground-truth annotated fluorescence image dataset for training nuclear segmentation methods
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -95,7 +95,7 @@ Licensed CC-BY-4.0
 
 3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -110,7 +110,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -125,7 +125,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -140,7 +140,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -152,6 +152,8 @@ Content type: Collection, Data
 ## Bioimage Archive
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Data, Publication
 
@@ -172,7 +174,7 @@ Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
 Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -193,7 +195,7 @@ Licensed CC0-1.0
 
 Ultrasound images of mouse embryos with body and brain volume segmentation masks
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -214,7 +216,7 @@ Licensed CC-BY-4.0
 
 Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
 
-Tags: Open Science, Teaching, Sharing
+Tags: Open Science, Teaching, Sharing, Include In Dalia
 
 Content type: Collection, Tutorial, Video
 
@@ -235,7 +237,7 @@ Licensed CC0-1.0
 
 We present computational tools that allow versatile and accurate 3D nuclear segmentation in plant organs, enable the analysis of cell-nucleus geometric relationships, and improve the accuracy of 3D cell segmentation. This biostudies submission includes Arabidopsis ovule model training dataset used in the study. The training dataset is composed of strong and weak nuclei image channels, corresponding ground truth segmentation, cell wall image and associated cell segmentation mentioned in the study. Trained models from the study, a total of 47 trained models are made available from this study. This included 15 initial models, 30 gold models, and 2 platinum models. Models were trained using PlantSeg, Stardist and Cellpose. All image datasets and its segmentation as part of the figures in this study is also available as separate zip files. This includes image dataset from different species and organs as listed below.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -252,7 +254,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -275,7 +277,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -292,7 +294,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -309,7 +311,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Tutorial, Video
 
@@ -330,7 +332,7 @@ Licensed CC-BY-3.0
 
 One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two different levels of quality: high SNR and low SNR.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 

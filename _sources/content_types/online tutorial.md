@@ -5,7 +5,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Workflow
+Tags: Workflow, Include In Dalia
 
 Content type: Tutorial, Online Tutorial
 
@@ -22,7 +22,7 @@ Licensed UNKOWN
 
 Leading open-source platform for collaborative and living data management plans.
 
-Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -41,7 +41,7 @@ Licensed CC-BY-4.0
 
 In this section, information is organised according to the stages of the research data life cycle.
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Website, Online Tutorial
 
@@ -56,7 +56,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -73,7 +73,7 @@ Licensed BSD-2-CLAUSE
 
 Fiji is a popular free open-source image processing package based on ImageJ.
 
-Tags: Imagej, OMERO
+Tags: Imagej, OMERO, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -90,7 +90,7 @@ Licensed CC0-1.0
 
 A workflow is a chain of analysis steps. In Galaxy, we can create a workflow from an existing analysis history, or we can create one visually by adding tools to a canvas. This tutorial covers building a workflow to analyse a bacterial genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
 
-Tags: Workflow
+Tags: Workflow, Include In Dalia
 
 Content type: Online Tutorial, Tutorial
 
@@ -109,7 +109,7 @@ Licensed GPL-3.0
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Workflow
+Tags: Imagej, OMERO, Workflow, Exclude From Dalia
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -126,7 +126,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -149,7 +149,7 @@ Licensed CC-BY-NC-SA-4.0
 
 OMERO-RAW extension for QuPath allows to directly access to the raw pixels of images. All types of images (RGB, fluorescence, ...) are supported with this extension.
 
-Tags: Bioimage Analysis, OMERO
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -166,7 +166,7 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management, Open Source Software
+Tags: Research Data Management, Open Source Software, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 

@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -28,7 +28,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis
+Tags: Research Data Management, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -60,6 +60,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Slides
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
@@ -75,7 +77,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -96,7 +98,7 @@ Licensed CC-BY-4.0
 
 Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
 
@@ -113,7 +115,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -132,6 +134,8 @@ Licensed MIT
 
 Training materials about image registration, big warp and elastix
 
+Tags: Include In Dalia
+
 [https://github.com/tischi/image-analysis-course-material](https://github.com/tischi/image-analysis-course-material)
 
 
@@ -145,7 +149,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -170,6 +174,8 @@ Licensed CC-BY-4.0
 
 The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
 [https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
@@ -185,7 +191,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -201,6 +207,8 @@ Bugra Oezdemir, Christian Tischer
 Licensed UNKNOWN
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Tutorial
 
@@ -219,7 +227,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -236,7 +244,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Big Data
+Tags: Python, Big Data, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -257,7 +265,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

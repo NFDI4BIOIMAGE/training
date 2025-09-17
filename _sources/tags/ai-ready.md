@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -32,7 +32,7 @@ Licensed CC-BY-3.0
 
 One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two diferent levels of quality: high SNR and low SNR.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -53,7 +53,7 @@ Licensed CC0-1.0
 
 Segmentation masks of individual cells in Drosophila wing discs
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -74,7 +74,7 @@ Licensed CC-BY-4.0
 
 This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -115,7 +115,7 @@ Weigert, M., Schmidt, U., Haase, R., Sugawara, K., &amp; Myers, G. (2020). Star-
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -138,7 +138,7 @@ Licensed CC-BY-4.0
 
 StarDist 2D deep learning model and training dataset.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -161,7 +161,7 @@ Licensed CC0-1.0
 
 Ground-truth annotated fluorescence image dataset for training nuclear segmentation methods
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -192,7 +192,7 @@ Annotations: 24-bit .png format (RGB)
 
 Script used to convert C01 to png images:&nbsp;C01_to_png.py file with python code and readme.md file with instructions to run it
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -215,7 +215,7 @@ Licensed CC-BY-4.0
 
 3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -236,7 +236,7 @@ Licensed CC-BY-3.0
 
 Breast cancer (BC) is the second most commonly diagnosed cancer in the U.S. with more than 250,000 new cases of invasive breast cancers reported in 2017. The majority of women with locally advanced and a subset of patients with operable breast cancer will undergo systemic therapy prior to their surgery (neoadjuvant therapy/ NAT) to reduce the size of tumor(s) and possibly further undergo breast conserving surgery. The Post-NAT-BRCA dataset is a collection of representative sections from breast resections in patients with residual invasive BC following NAT. Histologic sections were prepared and digitized to produce high resolution, microscopic images of treated BC tumors. Also included, are clinical features and expert pathology annotations of tumor cellularity and cell types. The Residual Cancer Burden Index (RCBi), is a clinically validated tool for assessment of response to NAT associated with prognosis. Tumor cellularity is one of the parameters used for calculating the RCBi. In this dataset, tumor cellularity refers to a measure of residual disease after NAT, in the form of proportion of malignant tumor inside the tumor bed region; also annotated. (See MD Anderson RCB Calculator for a detailed description of tumor cellularity.) Malignant, healthy, lymphocyte and other labels were also provided for individual cells to aid development of cell segmentation algorithms.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -289,7 +289,7 @@ NOTE: This dataset uses&nbsp;the &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;unde
 
 NOTE: This dataset was used to train cellpose models in the following Zenodo entry&nbsp;https://doi.org/10.5281/zenodo.6140111
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -312,7 +312,7 @@ Licensed MIT
 
 BCCD Dataset is a small-scale dataset for blood cells detection.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -343,7 +343,7 @@ StarDist Model:The StarDist model was generated using the ZeroCostDL4Mic platfor
 &nbsp;
 
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -366,7 +366,7 @@ Licensed CC0-1.0
 
 This repo contains the necessary information and download instructions to download the dataset associated with the paper: Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083. This data can be visualized in a public instance of the Digital Slide Archive at this link. If you click the “eye” image icon in the Annotations panel on the right side of the screen, you will see the results of a collaborative annotation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -389,7 +389,7 @@ CellBinDB is a large-scale, multimodal annotated dataset for cell segmentation. 
 In addition, we provide the images and annotations of nine other widely used publicly available cell segmentation datasets downloaded from their original sources, retaining their original formats for ease of use.&nbsp;
 The file 'mixed_licenses.txt' contains the original accessions of the public datasets used in our project and their associated licenses. Please refer to these links for more information about each dataset and its licensing terms, and use it according to the specifications.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -427,7 +427,7 @@ If you are going to use the QuPath projects, you need a local QuPath Installatio
 Instructions for installation are available from the links above.
 After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -466,7 +466,7 @@ After that, you should be able to open the QuPath project, navigate to the "Auto
 1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
 2. trigger cell segmentation from a QuPath project in a semi-automated pipeline
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -489,7 +489,7 @@ Licensed CC-BY-3.0
 
 The image set consists of 60 Differential Interference Contrast (DIC) images of Chinese Hamster Ovary (CHO) cells. The images are taken on an Olympus Cell-R microscope with a 20x lens at the time when the cell initiated their attachment to the bottom of the dish.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -522,7 +522,7 @@ File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 634 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -555,7 +555,7 @@ File format: .tif (16-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 645 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -588,7 +588,7 @@ File format: .tif (8-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 650 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -611,7 +611,7 @@ Licensed CC-BY-NC-SA-4.0
 
 A Dataset for Nuclei Segmentation of Cryosectioned H&E-Stained Histologic Images
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -632,7 +632,7 @@ Licensed CC-BY-4.0
 
 This submission includes ground truth datasets that were used to segment the nuclear envelope (NE), mitochondria, endoplasmic reticulum (ER) and Golgi from a human bone osteosarcoma epithelial cell (U2-OS) imaged using focused-ion beam scanning electron microscopy (FIB-SEM).The full FIB-SEM dataset is deposited to EMPIAR (https://www.ebi.ac.uk/empiar, EMPIAR-11746).&nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -655,7 +655,7 @@ Licensed CC-ZERO
 
 Cryo-electron tomography (cryo-ET) allows researchers to image cells in their native, hydrated state at the highest resolution currently possible. However, the technique has several limitations that make analyzing the data it generates time-intensive and difficult. Hand-segmenting a single tomogram can take hours to days of human effort, but the microscope can easily generate 50 or more tomograms a day. Current deep learning segmentation programs for cryo-ET do exist but are limited to segmenting one structure at a time. Here multi-slice U-Net convolutional neural networks are trained and applied to automatically segment multiple structures simultaneously within cryo-tomograms. With proper preprocessing, these networks can be robustly inferred to many tomograms without the need for training individual networks for each tomogram. This workflow dramatically improves the speed with which cryo-electron tomograms can be analyzed by cutting segmentation time down to under 30 min in most cases. Further, segmentations can be used to improve the accuracy of filament tracing within a cellular context and to rapidly extract coordinates for subtomogram averaging.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -718,7 +718,7 @@ Affiliation:
 
 &nbsp;Associated publications: Whitley et al., 2021, Nature Communications, https://doi.org/10.15252/embj.201696235
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -778,7 +778,7 @@ Affiliation(s):&nbsp;
 
 3) ORCID: 0000-0002-9821-3578
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -881,7 +881,7 @@ Affiliation(s):&nbsp;
 
 8) ORCID: 0000-0002-7132-8842
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -939,7 +939,7 @@ Affiliation:&nbsp;
 
 3) ORCID: https://orcid.org/0000-0002-7132-8842
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -962,7 +962,7 @@ Licensed CC0-1.0
 
 Drosophila melanogaster Kc167 cells were stained for DNA (to label nuclei) and actin (a cytoskeletal protein, to show the cell body). Automatic cytometry requires that cells be segmented, i.e., that the pixels belonging to each cell be identified. Because segmenting nuclei and distinguishing foreground from background is comparatively easy for these images, the focus here is on finding the boundaries between adjacent cells.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -991,7 +991,7 @@ Stardist2d_Model.zip
 
 Stardist 2D deep learning model for segmentation of surface attached S.aureus, obtained using the StarDist 2D ZeroCostDL4Mic notebook (v 1.12.3).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1014,7 +1014,7 @@ Licensed CC0-1.0
 
 Ultrasound images of mouse embryos with body and brain volume segmentation masks
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1035,7 +1035,7 @@ Licensed CC-BY-4.0
 
 This repository hosts a comprehensive collection of datasets used to develop an innovative deep learning model designed to enhance the segmentation and characterization of macerated fibers and vessel forms in microscopy images. Included in the deposit are raw images, alongside meticulously prepared training and validation datasets. We present an automated segmentation approach that utilizes the one-stage YOLOv8 model, which has been specifically adapted to process high-resolution microscopy images up to 32640 x 25920 pixels. Our model excels in cell detection and segmentation, demonstrating exceptional proficiency.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1058,7 +1058,7 @@ Licensed CC0-1.0
 
 We present computational tools that allow versatile and accurate 3D nuclear segmentation in plant organs, enable the analysis of cell-nucleus geometric relationships, and improve the accuracy of 3D cell segmentation. This biostudies submission includes Arabidopsis ovule model training dataset used in the study. The training dataset is composed of strong and weak nuclei image channels, corresponding ground truth segmentation, cell wall image and associated cell segmentation mentioned in the study. Trained models from the study, a total of 47 trained models are made available from this study. This included 15 initial models, 30 gold models, and 2 platinum models. Models were trained using PlantSeg, Stardist and Cellpose. All image datasets and its segmentation as part of the figures in this study is also available as separate zip files. This includes image dataset from different species and organs as listed below.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1079,7 +1079,7 @@ Licensed CC-BY-4.0
 
 Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1100,7 +1100,7 @@ Licensed CC-BY-4.0
 
 Download RDF Package
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1131,7 +1131,7 @@ This dataset is provided together with the following preprint and if you use it,
 
 Estibaliz G&oacute;mez-de-Mariscal, Hasini Jayatilaka, &Ouml;zg&uuml;n &Ccedil;i&ccedil;ek, Thomas Brox, Denis Wirtz, Arrate Mu&ntilde;oz-Barrutia, *Search for temporal cell segmentation robustness in phase-contrast microscopy videos*, arXiv 2021 (arXiv:2112.08817)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1154,7 +1154,7 @@ Licensed CC-BY-NC-SA-3.0
 
 These images are of human HT29 colon cancer cells, a cell line that has been widely used for the study of many normal and neoplastic processes. A set of about 43,000 such images was used by Moffat et al. (Cell, 2006) to screen for mitotic regulators. The analysis followed the common pattern of identifying and counting cells with a phenotype of interest (in this case, cells that were in mitosis), then normalizing the count by dividing by the total number of cells. Such experiments present two image analysis problems. First, identifying the cells that have the phenotype of interest requires that the nuclei and cells be segmented. Second, normalizing requires an accurate cell count.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1175,7 +1175,7 @@ Licensed CC-BY-3.0
 
 This 384-well plate has images of co-cultured hepatocytes and fibroblasts. Every other well is populated (A01, A03, ..., C01, C03, ...) such that 96 wells comprise the data. Each well has 9 sites and thus 9 images associated, totaling 864 images.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1196,7 +1196,7 @@ The zip file contains 3 folders (annotations, images and training_splits).The an
 The image folder contains 4 folders (CD68, DAPI, DIC, proSPC), where DIC contains float valued background-corrected differential interference contrast images, the others contain normalized float-valued fluorescence channels of a multi-plex staining with CD-68 (whole alveolar macrophages), DAPI (any cell nuclei), proSPC (cytoplasm of alveolar epithelial type 2 cell). All images are in tif format.
 The training split folder contains 3 text files, with the image prefix (compared to images and annotations without ending, i.e. e.g. without "_DIC.tif") of all cases in the respective subset. With a total of 68 cases, there are 51 cases in the train set, 7 cases in the validation set and 10 cases in the test set.The lung tissue origins from lung surgery of patients, but does not include resected tumors. Please see reference [1]. The images were acquired with a laser scanning microscope with 40x magnification and 1024 x 1024 pixels per image.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1219,7 +1219,7 @@ Licensed CC0-1.0
 
 Since robust foreground/background separation and segmentation of cellular objects (i.e., identification of which pixels below to which objects) strongly depends on image quality, focus artifacts are detrimental to data quality. This image set provides examples of in- and out-of-focus HCS images which can be used for validation of focus metrics.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1242,7 +1242,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1267,7 +1267,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1300,7 +1300,7 @@ The files are uploaded in &#39;.npy&#39; format. The files of LyNSeC 1 (x_l1.npy
 
 Additionally, we also make our HoVer-Net-based pre-trained nuclei segmentation and classification models available (he.tar for H&amp;E images and ihc.tar for IHC images).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1323,7 +1323,7 @@ Licensed UNLICENSED
 
 Mitosis domain generation. Here you can find code of our own evaluations and a dockered reference algorithm for mitotic figures to use as a template.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1362,7 +1362,7 @@ Version 3:Removed sample "training_set_metastatic_roi_103" due to inconsistencie
 Version 4:Sample training_set_metastatic_roi_088 missed one color annotation for a nuclei_apoptosis in the geojson file rendering it qupath uncompatible. This is fixed in the new version.&nbsp;
 Version 5:Addition of correct sample of training_set_metastatic_roi_103" after deadline of panoptic segmentation of nuclei and tissue in advanced melanoma challenge test phase.&nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1387,7 +1387,7 @@ This dataset contains training data for segmenting membranes in cryo-electron to
 
 More details will follow.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1410,7 +1410,7 @@ Licensed CC-BY-NC-SA-4.0
 
 The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1431,7 +1431,7 @@ Licensed CC-BY-NC-SA-4.0
 
 H&E staining of human tissue sections is a routine and most common protocol used by pathologists to enhance the contrast of tissue sections for tumor assessment (grading, staging, etc.) at multiple microscopic resolutions. Hence, we will provide the annotated dataset of H&E stained digitized tissue images of several patients acquired at multiple hospitals using one of the most common 40x scanner magnification. The annotations will be done with the help of expert pathologists.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1452,7 +1452,7 @@ Licensed CC0-1.0
 
 Segmenting nuclei in 3D images can be challenging especially when nuclei are clustered not only in XY plane but also in XZ and YZ planes. Manually annotated ground truth provides a reference for image analysis software testing purposes. These images of mouse embryo blastocyst cells also have changing nuclei intensity in Z plane which makes finding the right threshold for successful segmentation a difficult task. This image set also contains GAPDH transcripts that can be quantified in each cell.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1490,7 +1490,7 @@ We aim to maintain this challenge as a sustainable benchmark platform. If you fi
 &nbsp;
 Dataset License: CC-BY-NC-ND
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1513,7 +1513,7 @@ Licensed CC-BY-4.0
 
 A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1534,7 +1534,7 @@ Licensed CC0-1.0
 
 This image set is part of a high-throughput chemical screen on U2OS cells, with examples of 200 bioactive compounds. The effect of the treatments was originally imaged using the Cell Painting assay (fluorescence microscopy). This data set only includes the DNA channel of a single field of view per compound. These images present a variety of nuclear phenotypes, representative of high-throughput chemical perturbations. The main use of this data set is the study of segmentation algorithms that can separate individual nucleus instances in an accurate way, regardless of their shape and cell density. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1555,7 +1555,7 @@ Licensed CC0-1.0
 
 Cell dynamics during the early mouse embryogenesis change spatiotemporally. For understanding the mechanism of this developmental process, imaging cell dynamics by live-cell imaging of fluorescently labeled nuclei and performing nuclei segmentation of these images by image processing are essential. This dataset contains the fluorescence images and Ground Truth used when performing nuclei segmentation using deep learning. Fluorescence images are time-series images from fertilization to blastocyst formation. Ground Truth is supervised data of the cell nuclear region.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1593,7 +1593,7 @@ In version 1.0.0, we include&nbsp;images and annotations of validation and test 
 In version 0.1.2, we modified the coordinates of cell labels to range from 0 to 1023 (-1 from the previous coordinates).
 In version 0.1.1, we removed non-H&amp;E stained patches from the dataset.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1620,7 +1620,7 @@ For further&nbsp;details, see README&nbsp;file.
 
 This version fixes&nbsp;the duplicated label IDs found in the previous version of label files. This version ensures that each instance has a unique ID. Thanks to&nbsp;Jackson Borchardt for reporting that error.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1649,7 +1649,7 @@ Training data for Convolutional Neural Networks used in the publication Whole-bo
 
 For details on how to use this data for training, see https://github.com/platybrowser/platybrowser-backend/tree/master/segmentation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1672,7 +1672,7 @@ Licensed UNLICENSED
 
 This repo is the official implementation of our paper "Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides".
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1693,7 +1693,7 @@ Licensed CC-BY-4.0
 
 40 annotated immunofluorescence microscopy images (600 microns x 600 microns) of foreskin tissue stained for CD3/CD4/CCR5/Nuclei. These images were used to train StarDist models used for the identification of HIV Target Cells in foreskin tissue section scans.&nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1716,7 +1716,7 @@ Licensed CC-BY-4.0
 
 The PHDFM dataset is composed of fluorescence microscopy images of root tissue samples from A. thaliana, using the ratiometric fluorescent indicator 8‐hydroxypyrene‐1,3,6‐trisulfonic acid trisodium salt (HPTS). This semantic segmentation training dataset consists of 2D microscopy images (the brightfield channel for excitation at 405 nm), each containing a segmentation mask as an additional image channel (manually annotated by plant biologists). The segmentation masks classify pixels into the following 5 labels with the corresponding IDs: background (0), root tissue (1), early elongation zone (2), late elongation zone (3), and meristematic zone (4).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1744,7 +1744,7 @@ This dataset consists of 50 annotated images, divided into 11 patients.
 
 v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1773,7 +1773,7 @@ For more details see&nbsp;https://imagej.net/plugins/trackmate/trackmate-stardis
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1796,7 +1796,7 @@ Licensed CC0-1.0
 
 These are synthetic images from the Cell Tracking Challenge. The images depict simulated nuclei of HL60 cells stained with Hoescht (training datasets). These synthetic images of HL60 cells provide an opportunity to test image analysis software by comparing segmentation results to the available ground truth for each time point. The number of clustered nuclei increases with time adding more complexity to the problem. This time-laps dataset can be used for simple segmentation or for nuclei tracking.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1824,7 +1824,7 @@ The four numbered zip files contain the data used to create all figures displayi
 Abstract:
 Staphylococcus aureus both colonizes humans and causes severe virulent infections. Virulence is regulated by the agr quorum sensing system and its autoinducing peptide (AIP), with dynamics at the single-cell level across four agr-types &ndash; each defined by distinct AIP sequences and capable of cross-inhibition &ndash; remaining elusive. Employing microfluidics, time-lapse microscopy, and deep-learning image analysis, we uncovered significant differences in AIP sensitivity among agr-types. We observed bimodal agr activation, attributed to intergenerational phenotypic stability and influenced by AIP concentration. Upon AIP stimulation, agr‑III showed AIP insensitivity, while agr‑II exhibited increased sensitivity and prolonged generation time. Beyond expected cross-inhibition of agr‑I by heterologous AIP‑II and ‑III, the presumably cross-activating AIP‑IV also inhibited agr‑I. Community interactions across different agr-type pairings revealed four main patterns: stable or switched dominance, and delayed or stable dual activation, influenced by community characteristics. These insights underscore the potential of personalized treatment strategies considering virulence and genetic diversity.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1865,7 +1865,7 @@ Quality Control.ipynb
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1895,7 +1895,7 @@ Model:
 The StarDist 2D model was trained from scratch for 100 epochs on 300 paired image patches (image dimensions: (480 x 480 px&sup2;), patch size: (480 x 480 px&sup2;)) with a batch size of 4 and a mae loss function, using the StarDist 2D ZeroCostDL4Mic notebook (v 1) (von Chamier &amp; Laine et al., 2020). Grid parameter was set to 2 and the number of rays to 120. The model was trained with an initial learning rate of 0.0003 using a 80/20 train/test split. The dataset was augmented 4-fold by flipping and rotation.
 Key python packages used include tensorflow (v 0.1.12), Keras (v2.3.1), csbdeep (v 0.7.2), numpy (v 1.21.6), cuda (v 11.1.105Build cuda_11.1.TC455_06.29190527_0). The training was accelerated using a Tesla T4 GPU.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1984,7 +1984,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2073,7 +2073,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2164,7 +2164,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2258,7 +2258,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2350,7 +2350,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2441,7 +2441,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2535,7 +2535,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2624,7 +2624,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2660,7 +2660,7 @@ Cell type: MDA-MB-231 cells and BT20 cells
 
 File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2748,7 +2748,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2772,7 +2772,7 @@ Licensed CC-BY-4.0
 This dataset contains room-temperature single-axis TEM tomograms from Schaffer collateral and mossy fiber synapses in organotypic hippocampal slices.&nbsp;The tomograms were published in the two studies [1, 2]. The data was re-used for training deep neural networks to segment different synaptic structures in electron micrographs in [3].&nbsp;For the tomograms, organotypic slices were prepared from the hippocampi of neonatal mice according to the interface protocol55 and vitrified after 28 days in vitro in culture medium supplemented with 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. The dataset also contains 23 tomograms resulting from chemically-fixed material, which were also published in (Maus et al., 2020). For these tomograms, wild-type animals at postnatal day 28 were transcardially perfused under deep anesthesia, first with 0.9% sodium chloride solution, and then one of two fixatives (Fixative 1: Ice-cold 4% paraformaldehyde, 2.5% glutaraldehyde in 0.1 M phosphate buffer16; Fixative 2: 37&deg; C 2% paraformaldehyde, 2.5% glutaraldehyde, 2 mM CaCl2, in 0.1 M cacodylate buffer56). Brains were rinsed and sectioned coronally through the dorsal hippocampus in an ice-cold 0.1 M phosphate buffer using a VT 1200S vibratome (Leica) (step size 100 &micro;m; amplitude 1.5 mm, speed 0.1 mm/sec). Hippocampal CA3 subregions were excised using a 1.5 mm diameter biopsy punch and high-pressure frozen on the same day in 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. For both sample preparations, automated freeze-substitution was performed. Tomograms were collected using a 200 kV JEM-2100 (JEOL) transmission electron microscope equipped with an 11 MP Orius SC1000 CCD camera (Gatan). Tilt-series (tilt range +/- 60&deg;; 1&deg; angular increments) were acquired at 30 000x magnification using SerialEM58. Tomographic reconstructions were generated using weighted back-projection with etomo.The data is organized into two different subfolders for data with annotations for "vesicles" and "active_zones". Each of these subfolders is further subdivided into "train" and "test" folders, which containtomograms for the two different sample preparations in "chemical_fixation" and "single_axis_tem".Each tomogram and the corresponding annotation is stored as a hdf5 file, containing the following internal datasets:- raw: The tomogram data.- labels/vesicles: Annotations for the synaptic vesicles, annotated with IMOD, further postprocessed and then exported to instance masks. (for tomograms in "vesicles")- labels/AZ: Annotations for the active zone, annotated with IMOD and exported to binary masks.
 [1] Imig et al., The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones, Neuron, 2014, DOI:10.1016/j.neuron.2014.10.009[2] Maus et al., Ultrastructural Correlates of Presynaptic Functional Heterogeneity in Hippocampal Synapses, Cell Reports, 2020, DOI: 10.1016/j.celrep.2020.02.083[3] Muth, Moschref et al., 2024, Preprint to be published
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2795,7 +2795,7 @@ Licensed CC-BY-NC-SA-3.0
 
 One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of five subsets with increasing degree of clustering.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2816,7 +2816,7 @@ Licensed CC-BY-3.0
 
 One of the principal challenges in counting or segmenting nuclei is dealing with clustered nuclei. To help assess algorithms performance in this regard, this synthetic image set consists of four subsets with increasing degree of clustering. Each subset is also provided in two different levels of quality: high SNR and low SNR.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2837,7 +2837,7 @@ Licensed CC-BY-4.0
 
 Involves an annotated large number of cells, including normal epithelial and myoepithelial breast cells (localized in ducts and lobules), invasive carcinomatous cells, fibroblasts, endothelial cells, adipocytes, macrophages and inflammatory cells (lymphocytes and plasmocytes). In total, our data set consists of 50 images with a total of 4022 annotated cells, the maximum number of cells in one sample is 293 and the minimum number of cells in one sample is 5, with an average of 80 cells per sample and a high standard deviation of 58. The annotation was performed by three experts: an expert pathologist and two trained research fellows. Each sample was annotated by one of the annotators, checked by another one and in case of disagreement, a consensus was established by discussion among the 3 experts.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2858,7 +2858,7 @@ Licensed CC-BY-4.0
 
 Training set of microscopy images for Dietler et al. Nature Communications 2020
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2911,7 +2911,7 @@ cellMask = maskODTSAS.Cell{1};
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2962,7 +2962,7 @@ Affiliation&nbsp;:&nbsp;
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -3019,7 +3019,7 @@ Associated publications: Unpublished
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -3042,7 +3042,7 @@ Licensed CUSTOM LICENSE
 
 This is a cellpose training dataset. Cellpose is a generalist deep learning model for cell segmentation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 

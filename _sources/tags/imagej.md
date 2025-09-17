@@ -7,7 +7,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -22,7 +22,7 @@ Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel 
 
 
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication, Poster
 
@@ -42,7 +42,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -67,7 +67,7 @@ Licensed ALL RIGHTS RESERVED
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -84,7 +84,7 @@ Licensed BSD-2-CLAUSE
 
 Fiji is a popular free open-source image processing package based on ImageJ.
 
-Tags: Imagej, OMERO
+Tags: Imagej, OMERO, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -101,7 +101,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -118,7 +118,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Imagej, Bioimage Analysis
+Tags: Python, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -135,7 +135,7 @@ Licensed CC-BY-NC-4.0
 
 
 
-Tags: Imagej, Fiji, Bioimage Analysis
+Tags: Imagej, Fiji, Bioimage Analysis, Include In Dalia
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -150,7 +150,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -167,7 +167,7 @@ Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 JIPipe is an open-source visual programming language for easy-access pipeline development
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -188,7 +188,7 @@ Licensed GPL-3.0
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Workflow
+Tags: Imagej, OMERO, Workflow, Exclude From Dalia
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -205,7 +205,7 @@ Robert Haase
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -222,7 +222,7 @@ Birgit Möller, Markus Glaß, Danny Misiak, Stefan Posch
 
 The Microscope Image Analysis Toolbox is a toolbox with a collection of algorithms for processing and analyzing digital images.
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -241,7 +241,7 @@ Stephen J. Cross, Jordan D. J. R. Fisher, Mark A. Jepson
 
 ModularImageAnalysis is a Fiji plugin providing a modular framework for assembling image and object analysis workflows
 
-Tags: Workflow Engine, Imagej
+Tags: Workflow Engine, Imagej, Exclude From Dalia
 
 Content type: Publication, Documentation
 
@@ -262,7 +262,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -279,7 +279,7 @@ Licensed GPL-2.0
 
 An ImageJ plugin to run a script or macro on a batch of images from/to OMERO.
 
-Tags: OMERO, Imagej, Imagej Macro, Github
+Tags: OMERO, Imagej, Imagej Macro, Github, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -298,7 +298,7 @@ Licensed ALL RIGHTS RESERVED
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication
 
@@ -317,7 +317,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -334,7 +334,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -351,7 +351,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 

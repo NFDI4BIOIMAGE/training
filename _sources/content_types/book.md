@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 A short book with 6 steps that get you closer to making your work reproducible.
 
-Tags: Reproducibility, Research Data Management
+Tags: Reproducibility, Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -28,7 +28,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -45,7 +45,7 @@ Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -62,7 +62,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -83,7 +83,7 @@ Licensed BSD-3-CLAUSE
 
 This is a repository containing a textbook written for BioImaging scientists and other microscopists.
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Book, Github Repository
 
@@ -102,7 +102,7 @@ Licensed CC-BY-NC-SA-4.0
 
 
 
-Tags: Data Visualization, R
+Tags: Data Visualization, R, Include In Dalia
 
 Content type: Book
 
@@ -123,7 +123,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -144,7 +144,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Book
 
@@ -163,7 +163,7 @@ Licensed CC-BY-4.0
 
 This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -180,7 +180,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -197,7 +197,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -216,7 +216,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Imagej, Bioimage Analysis
+Tags: Python, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -237,7 +237,7 @@ Licensed CC-BY-NC-3.0 UNPORTED
 
 Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
 
-Tags: Deep Learning, Neural Networks, Machine Learning
+Tags: Deep Learning, Neural Networks, Machine Learning, Exclude From Dalia
 
 Content type: Book
 
@@ -254,7 +254,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -268,6 +268,8 @@ Content type: Book, Notebook
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Book
 
@@ -290,7 +292,7 @@ Licensed CC-BY-4.0
 
 Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
 
-Tags: Open Science, Open Access, Copyright
+Tags: Open Science, Open Access, Copyright, Include In Dalia
 
 Content type: Book
 
@@ -307,7 +309,7 @@ Licensed CC-BY-ND-SA-4.0
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Book
 
@@ -324,6 +326,8 @@ Ann Wheeler (Editor), Ricardo Henriques (Editor)
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Book
 
 [https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900](https://www.wiley.com/en-us/Standard+and+Super+Resolution+Bioimaging+Data+Analysis%3A+A+Primer-p-9781119096900)
@@ -337,7 +341,7 @@ Stephen Royle
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -353,6 +357,8 @@ Licensed ['CC-BY-4.0', 'MIT']
 
 
 A guide which covers topics related to skills, tools and best practices for research reproducibility.
+
+Tags: Include In Dalia
 
 Content type: Book
 
@@ -375,7 +381,7 @@ Within the project FDMentor, a German Train-the-Trainer Programme on Research Da
 
 After the end of the project, the concept was supplemented and updated by members of the Sub-Working Group Training/Further Education (UAG Schulungen/Fortbildungen) of the DINI/nestor Working Group Research Data (DINI/nestor-AG Forschungsdaten). The newly published English version of the Train-the-Trainer Concept contains the translated concept, the materials and all methods of the Train-the-Trainer Programme. Furthermore, additional English references and materials complement this version.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 

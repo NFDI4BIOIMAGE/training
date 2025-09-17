@@ -17,7 +17,7 @@ Research data management is essential in nowadays research, and one of the big o
 
 In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
 
@@ -32,7 +32,7 @@ Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -53,7 +53,7 @@ Licensed UNKNOWN
 
 Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
 
-Tags: I3Dbio, Research Data Management
+Tags: I3Dbio, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -72,7 +72,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management
+Tags: Metadata, I3Dbio, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -93,7 +93,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -120,7 +120,7 @@ omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
 The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
@@ -157,7 +157,7 @@ See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
@@ -197,6 +197,8 @@ See cross reference:
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12547566](https://zenodo.org/records/12547566)
 
 [https://doi.org/10.5281/zenodo.12547566](https://doi.org/10.5281/zenodo.12547566)
@@ -212,7 +214,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Metadata
+Tags: Research Data Management, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -233,7 +235,7 @@ Licensed CCY-BY-SA-4.0
 
 Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Conference Abstract, Slides
 
@@ -252,6 +254,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
 
 [https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
@@ -269,7 +273,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
@@ -290,7 +294,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -307,7 +311,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -328,7 +332,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -349,7 +353,7 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
@@ -370,7 +374,7 @@ Licensed CC-BY-4.0
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
@@ -390,6 +394,8 @@ Licensed CC-BY-4.0
 
 
 Overview of GerBI RDM projects: why and how?
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
 
@@ -412,7 +418,7 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
@@ -432,6 +438,8 @@ Licensed CC-BY-4.0
 
 
 Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM &amp; ZB MED.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10939520](https://zenodo.org/records/10939520)
 
@@ -469,7 +477,7 @@ Identify the dos and don'ts for bioimage data publication
 &nbsp;
 (taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
 
-Tags: Nfdi4Bioimage, Fair Principles, Research Data Management
+Tags: Nfdi4Bioimage, Fair Principles, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
 
@@ -519,7 +527,7 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
@@ -552,7 +560,7 @@ Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) 
 Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
 Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
@@ -611,6 +619,8 @@ Day 2 - April 30th, 2024
 2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
 2.15 p.m. to 3.00 p.m.: Discussion, Outlook
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 
 [https://doi.org/10.5281/zenodo.11109616](https://doi.org/10.5281/zenodo.11109616)
@@ -644,7 +654,7 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 
@@ -672,7 +682,7 @@ Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Hein
 
 Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 

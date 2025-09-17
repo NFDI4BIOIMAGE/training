@@ -10,7 +10,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -31,6 +31,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
@@ -46,7 +48,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -63,7 +65,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -80,7 +82,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -99,7 +101,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides, Workshop
 

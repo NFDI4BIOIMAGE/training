@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -22,7 +22,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -41,7 +41,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -58,7 +58,7 @@ Daniel Franco-Barranco, et al.
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -79,7 +79,7 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Slides
 
@@ -100,7 +100,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -119,7 +119,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Slides
 
@@ -138,7 +138,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Napari
+Tags: Python, Bioimage Analysis, Napari, Include In Dalia
 
 Content type: Notebook
 
@@ -157,7 +157,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -174,7 +174,7 @@ Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -191,7 +191,7 @@ Licensed CC-BY-ND-SA-4.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection
 
@@ -208,7 +208,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Python
+Tags: OMERO, Python, Include In Dalia
 
 Content type: Blog Post
 
@@ -225,7 +225,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -242,7 +242,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -257,7 +257,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Napari, Python, Bioimage Analysis
+Tags: Napari, Python, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -276,7 +276,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -293,7 +293,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Big Data
+Tags: Python, Bioimage Analysis, Big Data, Exclude From Dalia
 
 Content type: Notebook
 
@@ -308,7 +308,7 @@ Licensed AGPL-3.0
 
 
 
-Tags: Python, R, Artificial Intelligence
+Tags: Python, R, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -325,7 +325,7 @@ Licensed MIT
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -342,7 +342,7 @@ Sreeni Bhattiprolu
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -361,7 +361,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -378,7 +378,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -395,7 +395,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -410,7 +410,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -425,7 +425,7 @@ Content type: Blog Post
 
 Fractal is a framework to process high-content imaging data at scale and prepare it for interactive visualization.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -442,7 +442,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -459,7 +459,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -476,7 +476,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -491,7 +491,7 @@ Mara Lampert
 
 
 
-Tags: Github, Python, Science Communication
+Tags: Github, Python, Science Communication, Include In Dalia
 
 Content type: Blog Post
 
@@ -510,7 +510,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Tutorial, Workflow
 
@@ -527,7 +527,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -544,7 +544,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -563,7 +563,7 @@ Licensed MIT
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -580,7 +580,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Imagej, Bioimage Analysis
+Tags: Python, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -599,7 +599,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -616,7 +616,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Deployment, Python
+Tags: Deployment, Python, Include In Dalia
 
 Content type: Documentation
 
@@ -633,7 +633,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -650,7 +650,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Code, Notebook
 
@@ -669,7 +669,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -688,7 +688,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -703,7 +703,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Neubias, Bioimage Analysis
+Tags: Python, Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -720,7 +720,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -739,7 +739,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -754,7 +754,7 @@ Content type: Slides, Notebook
 
 nf-core is a community effort to collect a curated set of analysis pipelines built using Nextflow
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Collection
 
@@ -773,7 +773,7 @@ Licensed MIT
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO, Include In Dalia
 
 Content type: Github Repository
 
@@ -792,7 +792,7 @@ Licensed GPL-2.0
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -809,7 +809,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -822,7 +822,7 @@ Content type: Book, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -835,7 +835,7 @@ Content type: Event, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -854,7 +854,7 @@ Licensed CC-BY-4.0
 
 This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
 
-Tags: Gpu, Clesperanto, Dask, Python
+Tags: Gpu, Clesperanto, Dask, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -869,7 +869,7 @@ Mara Lampert
 
 
 
-Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
+Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob, Include In Dalia
 
 Content type: Blog Post
 
@@ -886,7 +886,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 [https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
 
@@ -901,7 +901,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Code, Notebook
 
@@ -918,7 +918,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -937,7 +937,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -956,7 +956,7 @@ Licensed CC-BY-4.0
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: Napari, Python
+Tags: Napari, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -977,7 +977,7 @@ Licensed UNKNOWN
 
 These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
 
-Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -992,7 +992,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -1007,7 +1007,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -1024,7 +1024,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -1041,7 +1041,7 @@ Licensed CC-BY-ND-SA-4.0
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Book
 
@@ -1058,7 +1058,7 @@ Content type: Book
 
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -1077,7 +1077,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -1094,7 +1094,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -1109,7 +1109,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -1128,7 +1128,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 
@@ -1149,7 +1149,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -1164,7 +1164,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection, Notebook
 
@@ -1181,7 +1181,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Big Data
+Tags: Python, Big Data, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1202,7 +1202,7 @@ Licensed BSD-3-CLAUSE
 
 This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
 
-Tags: Python, Napari
+Tags: Python, Napari, Include In Dalia
 
 Content type: Github Repository
 
@@ -1219,7 +1219,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 

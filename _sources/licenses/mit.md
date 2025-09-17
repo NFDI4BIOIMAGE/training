@@ -11,7 +11,7 @@ Licensed MIT
 
 Course about image analysis with materials in English and videos in Portuguese.
 
-Tags: Cell Profiler, Bioimage Analysis
+Tags: Cell Profiler, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -32,7 +32,7 @@ Licensed MIT
 
 BCCD Dataset is a small-scale dataset for blood cells detection.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -51,7 +51,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -72,7 +72,7 @@ Licensed MIT
 
 Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
 
@@ -88,6 +88,8 @@ Guillaume Jacquemet
 Licensed MIT
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -106,7 +108,7 @@ Licensed MIT
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
 
@@ -118,6 +120,8 @@ Tags: Artificial Intelligence, Bioimage Analysis
 Licensed ['CC-BY-4.0', 'MIT']
 
 
+
+Tags: Include In Dalia
 
 Content type: Tutorial, Code
 
@@ -134,7 +138,7 @@ Licensed MIT
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -155,7 +159,7 @@ Licensed MIT
 
 Friends don't let friends make certain types of data visualization - What are they and why are they bad. 
 
-Tags: Visualization
+Tags: Visualization, Include In Dalia
 
 Content type: Github Repository
 
@@ -169,6 +173,8 @@ Content type: Github Repository
 Licensed MIT
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Slides, Tutorial
 
@@ -186,6 +192,8 @@ Licensed MIT
 
 
 Training materials about image registration, big warp and elastix
+
+Tags: Include In Dalia
 
 [https://github.com/tischi/image-analysis-course-material](https://github.com/tischi/image-analysis-course-material)
 
@@ -215,6 +223,8 @@ Publication Date: January 2025
 Keywords: Fiji, ImageJ, Image Analysis, Microscopy, Segmentation, Particle Analysis, 3D Visualization, StarDist
 License: MIT
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14771563](https://zenodo.org/records/14771563)
 
 [https://doi.org/10.5281/zenodo.14771563](https://doi.org/10.5281/zenodo.14771563)
@@ -232,7 +242,7 @@ Licensed MIT
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -251,7 +261,7 @@ Licensed MIT
 
 Introduction to napari workshop run at JAX (Spring 2024).
 
-Tags: Napari
+Tags: Napari, Include In Dalia
 
 Content type: Slides
 
@@ -270,7 +280,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -291,7 +301,7 @@ Licensed MIT
 
 Linking Electronic Lab Notebooks and other sources with OMERO objects 
 
-Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -318,6 +328,8 @@ See GitHub readme for the documentation.
 
 Latest tested with Fiji 2.1.0/ImageJ 1.53j
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5121890](https://zenodo.org/records/5121890)
 
 [https://doi.org/10.5281/zenodo.5121890](https://doi.org/10.5281/zenodo.5121890)
@@ -337,6 +349,8 @@ Licensed MIT
 
 Also re-uploaded the compiled FilenameGetter.py$class to the update site, to fix https://github.com/LauLauThom/MaskFromRois-Fiji/issues/7
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14917722](https://zenodo.org/records/14917722)
 
 [https://doi.org/10.5281/zenodo.14917722](https://doi.org/10.5281/zenodo.14917722)
@@ -354,7 +368,7 @@ Licensed MIT
 
 YSDA course in Natural Language Processing
 
-Tags: Natural Language Processing
+Tags: Natural Language Processing, Include In Dalia
 
 Content type: Github Repository
 
@@ -373,7 +387,7 @@ Licensed MIT
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO, Include In Dalia
 
 Content type: Github Repository
 
@@ -394,7 +408,7 @@ Licensed MIT
 
 
 
-Tags: Llms, Prompt Engineering, Code Generation
+Tags: Llms, Prompt Engineering, Code Generation, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -411,7 +425,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 [https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
 
@@ -426,7 +440,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -443,7 +457,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -460,7 +474,7 @@ Licensed MIT
 
 
 
-Tags: Fiji, Bioimage Analysis
+Tags: Fiji, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -477,6 +491,8 @@ Licensed ['CC-BY-4.0', 'MIT']
 
 A guide which covers topics related to skills, tools and best practices for research reproducibility.
 
+Tags: Include In Dalia
+
 Content type: Book
 
 [https://the-turing-way.netlify.app/reproducible-research/reproducible-research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
@@ -490,7 +506,7 @@ Licensed MIT
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Workshop, Collection
 
@@ -511,7 +527,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -528,7 +544,7 @@ Licensed MIT
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -553,7 +569,7 @@ Licensed MIT
 
 Your Personal Assistant in Computational Bioimaging.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -572,7 +588,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -593,7 +609,7 @@ Licensed MIT
 
 repo for training materials
 
-Tags: Todo
+Tags: Exclude From Dalia
 
 Content type: Github Repository
 

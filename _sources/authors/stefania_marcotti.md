@@ -9,7 +9,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -33,6 +33,8 @@ Licensed CC-BY-SA-4.0
 Presentation slides associated with the Introduction to Image Analysis workshop run at the Francis Crick Institute on 18-19th August 2025:
 https://doi.org/10.5281/zenodo.16949737
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
 
 [https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
@@ -51,6 +53,8 @@ Licensed CC-BY-4.0
 
 
 The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
@@ -71,7 +75,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -92,7 +96,7 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Todo
+Tags: Include In Dalia
 
 Content type: Github Repository
 
@@ -113,7 +117,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

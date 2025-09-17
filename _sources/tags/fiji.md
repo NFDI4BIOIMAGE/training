@@ -11,7 +11,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Include In Dalia
 
 Content type: Github Repository
 
@@ -28,7 +28,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Fiji, Artificial Intelligence, Bioimage Analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -45,7 +45,7 @@ Licensed CC-BY-NC-4.0
 
 
 
-Tags: Imagej, Fiji, Bioimage Analysis
+Tags: Imagej, Fiji, Bioimage Analysis, Include In Dalia
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -64,7 +64,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -83,7 +83,7 @@ Licensed GPL-2.0
 
 A wrapper library which can be called from scripts in Fiji, but can mostly be used in Maven projects to wrap calls to the underlying OMERO Java Gateway.
 
-Tags: OMERO, Github, Fiji
+Tags: OMERO, Github, Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -100,7 +100,7 @@ Licensed MIT
 
 
 
-Tags: Fiji, Bioimage Analysis
+Tags: Fiji, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 

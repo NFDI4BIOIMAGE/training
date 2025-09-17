@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -24,7 +24,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -41,7 +41,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Big Data
+Tags: Python, Bioimage Analysis, Big Data, Exclude From Dalia
 
 Content type: Notebook
 
@@ -58,7 +58,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -75,7 +75,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -94,7 +94,7 @@ Licensed MIT
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -111,7 +111,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -132,7 +132,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -149,7 +149,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 

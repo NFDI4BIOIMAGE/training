@@ -25,6 +25,8 @@ Prediction Procedure: Using this model, a label image can be obtained from new u
 
 python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
 
 [https://doi.org/10.5281/zenodo.6023317](https://doi.org/10.5281/zenodo.6023317)
@@ -92,6 +94,8 @@ NOTE: Make sure that you delete the &ldquo;_flow&rdquo; images that are auto-com
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6140111](https://zenodo.org/records/6140111)
 
 [https://doi.org/10.5281/zenodo.6140111](https://doi.org/10.5281/zenodo.6140111)
@@ -126,7 +130,7 @@ If you are going to use the QuPath projects, you need a local QuPath Installatio
 Instructions for installation are available from the links above.
 After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -165,7 +169,7 @@ After that, you should be able to open the QuPath project, navigate to the "Auto
 1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
 2. trigger cell segmentation from a QuPath project in a semi-automated pipeline
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -206,6 +210,8 @@ PythonCode.txt : code ran to transform output results from QuPath to final resul
 
 [1] Bankhead, P. et al.&nbsp;QuPath: Open source software for digital pathology image analysis.&nbsp;Scientific Reports&nbsp;(2017). https://doi.org/10.1038/s41598-017-17204-5
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/6523649](https://zenodo.org/records/6523649)
 
 [https://doi.org/10.5281/zenodo.6523649](https://doi.org/10.5281/zenodo.6523649)
@@ -225,6 +231,8 @@ Licensed CC-BY-4.0
 
 This imagej macro analyses the reporter intensity activity and expression domain in EPI aggregates and Gastruloids.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7409423](https://zenodo.org/records/7409423)
 
 [https://doi.org/10.5281/zenodo.7409423](https://doi.org/10.5281/zenodo.7409423)
@@ -240,7 +248,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -257,7 +265,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 

@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Tutorial, Workflow
 
@@ -28,7 +28,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -49,6 +49,8 @@ Licensed CC-BY-4.0
 
 The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
 [https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
@@ -66,7 +68,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -83,7 +85,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -104,7 +106,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

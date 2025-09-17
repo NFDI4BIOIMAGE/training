@@ -7,7 +7,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -26,7 +26,7 @@ Licensed GPL-3.0
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Workflow
+Tags: Imagej, OMERO, Workflow, Exclude From Dalia
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -47,7 +47,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -62,7 +62,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection, Notebook
 
@@ -83,7 +83,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Histopathology, Bioimage Analysis
+Tags: Histopathology, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository, Notebook
 
@@ -104,7 +104,7 @@ Licensed GPL-3.0
 
 First complete code set for The Digital Cell book.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Code
 
@@ -129,7 +129,7 @@ Licensed GPL-3.0
 
 Teaching materials for improving research software writing abilities.
 
-Tags: Research Software Engineering
+Tags: Research Software Engineering, Include In Dalia
 
 Content type: Github Repository, Slides
 

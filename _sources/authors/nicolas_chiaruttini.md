@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis
+Tags: Research Data Management, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -37,6 +37,8 @@ A set of public CZI files. These can be used for testing CZI readers.
 
 - a set of multi angle, multi illumination, mutli tile acquisition, taken on the LightSheet Z1 microscope of the PTBIOP by Lorenzo Tal&agrave;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/8305531](https://zenodo.org/records/8305531)
 
 [https://doi.org/10.5281/zenodo.8305531](https://doi.org/10.5281/zenodo.8305531)
@@ -61,6 +63,8 @@ The stiched image is named `Stitch_A01_G001` and contains an extra file `Stitch_
 Some metadata like the tiles positions are stored in the extra files (omp2info)
 
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13680725](https://zenodo.org/records/13680725)
 
@@ -87,6 +91,8 @@ DAPI_mCherry_4T_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 
 DAPI_mCherry_4Z_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices
 DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices, 3 timepoints
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
 
@@ -116,6 +122,8 @@ https://forum.image.sc/t/null-pointer-exception-in-perkin-elmer-operetta-dataset
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/8153907](https://zenodo.org/records/8153907)
 
 [https://doi.org/10.5281/zenodo.8153907](https://doi.org/10.5281/zenodo.8153907)
@@ -144,6 +152,8 @@ Image datasets from the&nbsp;publication :&nbsp;LimeSeg: A coarse-grained lipid 
 Image metadata contains extra information including voxel sizes.
 
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/1472859](https://zenodo.org/records/1472859)
 
@@ -176,6 +186,8 @@ Associated documents:
 This document contains a full QuPath project with an example of registered image.
 
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/5675686](https://zenodo.org/records/5675686)
 

@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum Thema Repositorien. Anschlie&szlig;end teilten Nutzer (Jan Deinert &ndash; HZDR) und Anbieter (Christian L&ouml;schen &ndash; TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -32,7 +32,7 @@ Licensed CC-BY-4.0
 
 The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU München by Anca Margineanu, Chiara Stringari and Conni Wetzker. 
 
-Tags: Bioimage Analysis, Flim
+Tags: Bioimage Analysis, Flim, Include In Dalia
 
 Content type: Slides
 
@@ -53,7 +53,7 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides, Webinar
 
@@ -70,7 +70,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -93,7 +93,7 @@ Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten, an deren En
 &nbsp;
 &nbsp;
 
-Tags: Research Data Management, Licensing
+Tags: Research Data Management, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -111,6 +111,8 @@ Christian Tischer
 Licensed UNKNOWN
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Slides
 
@@ -131,7 +133,7 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -154,7 +156,7 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Slides
 
@@ -175,7 +177,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Slides
 
@@ -194,7 +196,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -211,7 +213,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -228,7 +230,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -251,7 +253,7 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -274,6 +276,8 @@ Licensed CC-BY-4.0
 
 In this interactive session, Carpentries team members will guide attendees through three stages of the backward design process to create a lesson development plan for the open source tool of their choosing. Attendees will leave having identified what practical skills they aim to teach (learning objectives), an approach for designing challenge questions (formative assessment), and mechanisms to give and receive feedback.
 
+Tags: Include In Dalia
+
 Content type: Slides
 
 [https://zenodo.org/records/4317149](https://zenodo.org/records/4317149)
@@ -295,7 +299,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -320,7 +324,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, FAIR-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -339,7 +343,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Notebook
 
@@ -356,7 +360,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dalia
 
 Content type: Slides, Presentation
 
@@ -377,7 +381,7 @@ Licensed CC-BY-4.0
 
 In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -401,7 +405,7 @@ Licensed CC-BY-4.0
  Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -428,7 +432,7 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -459,7 +463,7 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -482,7 +486,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -505,7 +509,7 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: Research Data Management, Data Protection
+Tags: Research Data Management, Data Protection, Include In Dalia
 
 Content type: Slides
 
@@ -528,7 +532,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -549,7 +553,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -575,7 +579,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -592,6 +596,8 @@ Licensed MIT
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Slides, Tutorial
 
 [https://github.com/galaxyproject/training-material](https://github.com/galaxyproject/training-material)
@@ -607,7 +613,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -626,7 +632,7 @@ Licensed CC-BY-4.0
 
 Results of the project 'Conversion of KNIME image analysis workflows to Galaxy' during the Hackathon 'Image Analysis in Galaxy' (Freiburg 26 Feb - 01 Mar 2024)
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Slides
 
@@ -647,7 +653,7 @@ Licensed CC-BY-4.0
 
 Overview about decision making and how to influence decisions in the bio-image analysis software context.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Presentation
 
@@ -670,7 +676,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -691,6 +697,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
@@ -706,7 +714,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -723,7 +731,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Imagej Macro, Bioimage Analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code
 
@@ -740,7 +748,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -759,7 +767,7 @@ Licensed MIT
 
 Introduction to napari workshop run at JAX (Spring 2024).
 
-Tags: Napari
+Tags: Napari, Include In Dalia
 
 Content type: Slides
 
@@ -776,7 +784,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -797,7 +805,7 @@ Licensed CC-BY-4.0
 
 Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
 
-Tags: Research Data Management, Open Science
+Tags: Research Data Management, Open Science, Include In Dalia
 
 Content type: Slides
 
@@ -820,7 +828,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -837,7 +845,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -865,7 +873,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, FAIR-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo, Include In Dalia
 
 Content type: Slides
 
@@ -884,7 +892,7 @@ Robert Haase
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -903,7 +911,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Slides, Notebook
 
@@ -920,7 +928,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -937,7 +945,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -954,7 +962,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -984,7 +992,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Slides
 
@@ -1005,7 +1013,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -1024,7 +1032,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1043,7 +1051,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides, Workshop
 
@@ -1066,7 +1074,7 @@ Licensed CC-BY-4.0
 
 In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences.&nbsp;
 
-Tags: Teaching
+Tags: Teaching, Include In Dalia
 
 Content type: Slides
 
@@ -1085,7 +1093,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1102,7 +1110,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -1119,7 +1127,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1136,7 +1144,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1155,7 +1163,7 @@ Licensed CC-BY-4.0
 
 Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
 
-Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1176,7 +1184,7 @@ Licensed CCY-BY-SA-4.0
 
 Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Conference Abstract, Slides
 
@@ -1195,7 +1203,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1216,7 +1224,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -1233,7 +1241,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -1254,7 +1262,7 @@ Licensed CC-BY-4.0
 
 Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Slides
 
@@ -1277,7 +1285,7 @@ Licensed GPL-3.0
 
 I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackMate and CellTracksColab"
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Tutorial, Workshop, Slides
 
@@ -1298,7 +1306,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -1316,6 +1324,8 @@ Robert Haase
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Slides
 
@@ -1338,7 +1348,7 @@ Licensed CC-BY-4.0 INTERNATIONAL
 
 Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
 
-Tags: Reproducibility, Image Analysis
+Tags: Reproducibility, Image Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1359,7 +1369,7 @@ Licensed CC-BY-4.0
 
 Slides from the CZI/EOSS online meeting in December 2020.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1380,7 +1390,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1410,7 +1420,7 @@ This Research Data Management (RDM) Slides introduce to the multidisciplinary kn
 
 &nbsp;
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -1431,7 +1441,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -1452,7 +1462,7 @@ Licensed CC-BY-4.0
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: Research Data Management, Data Protection, FAIR-Principles
+Tags: Research Data Management, Data Protection, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -1475,7 +1485,7 @@ Licensed CC-BY-4.0
 
  These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
 
-Tags: Research Data Management, Data Stewardship
+Tags: Research Data Management, Data Stewardship, Include In Dalia
 
 Content type: Slides
 
@@ -1496,7 +1506,7 @@ Licensed CC-BY-4.0
 
 Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1515,7 +1525,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1534,7 +1544,7 @@ Licensed CC-BY-4.0
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
+Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -1551,7 +1561,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1568,7 +1578,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1585,7 +1595,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1606,7 +1616,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -1623,7 +1633,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1644,7 +1654,7 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Slides
 
@@ -1665,7 +1675,7 @@ Licensed CC-BY-4.0
 
 Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1682,7 +1692,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1703,7 +1713,7 @@ Licensed GPL-3.0
 
 Teaching materials for improving research software writing abilities.
 
-Tags: Research Software Engineering
+Tags: Research Software Engineering, Include In Dalia
 
 Content type: Github Repository, Slides
 

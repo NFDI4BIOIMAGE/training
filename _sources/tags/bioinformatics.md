@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Nfdi4Bioimage, Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -30,7 +30,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -64,7 +64,7 @@ Published 2024-09-04T12:24:24+00:00
 
 Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Collection
 
@@ -85,7 +85,7 @@ Licensed UNKNOWN
 
 BioCypher is a framework to support users in creating KGs
 
-Tags: Knowledge Graph, Bioinformatics
+Tags: Knowledge Graph, Bioinformatics, Exclude From Dalia
 
 Content type: Publication
 
@@ -106,7 +106,7 @@ Licensed CC-BY-4.0 INTERNATIONAL
 
 The objective is to organise bioimage metadata, find out what REMBI is and why it is useful, categorise what metadata belongs to each of the submodules of REMBI and gather the metadata for an example bioimage dataset.
 
-Tags: Bioinformatics, Bioimage Analysis
+Tags: Bioinformatics, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -125,7 +125,7 @@ Licensed CC0 (MOSTLY, BUT CAN DIFFER DEPENDING ON RESOURCE)
 
 Online tutorial and webinar library, designed and delivered by EMBL-EBI experts
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -144,7 +144,7 @@ Licensed ['ACADEMIC FREE LICENSE VERSION 3.0', 'CREATIVE COMMONS ATTRIBUTION 3.0
 
 Galaxy is an open source tool that offers a filtered set of tools that you can assemble into workflows to manage image data, and perform image analysis and processing.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Tool
 
@@ -165,7 +165,7 @@ Licensed UNKNOWN
 
 Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -184,7 +184,7 @@ Licensed UNKNOWN
 
 Tutorial for accessing de.NBI cloud
 
-Tags: Bioinformatics, Cloud Computing
+Tags: Bioinformatics, Cloud Computing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -203,7 +203,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Slides, Notebook
 
@@ -216,7 +216,7 @@ Content type: Github Repository, Slides, Notebook
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection, Event
 
@@ -231,7 +231,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -252,7 +252,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles
+Tags: Metadata, Bioinformatics, FAIR-Principles, Include In Dalia
 
 Content type: Publication
 
@@ -271,7 +271,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioinformatics, Bioimage Analysis
+Tags: Bioinformatics, Bioimage Analysis, Include In Dalia
 
 Content type: Workflow, Tutorial
 
@@ -290,7 +290,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 
@@ -311,7 +311,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -332,7 +332,7 @@ Licensed UNKNOWN
 
 Tutorial for registering for de.NBI cloud access
 
-Tags: Bioinformatics, Cloud Computing
+Tags: Bioinformatics, Cloud Computing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -351,7 +351,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
 
-Tags: Bioinformatics, Galaxy
+Tags: Bioinformatics, Galaxy, Exclude From Dalia
 
 Content type: Website
 

@@ -15,6 +15,8 @@ Link to the event:
 https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
 M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project number [NFDI46/1] - 501864659
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16880913](https://zenodo.org/records/16880913)
 
 [https://doi.org/10.5281/zenodo.16880913](https://doi.org/10.5281/zenodo.16880913)
@@ -34,7 +36,7 @@ Licensed CC-BY-4.0
 
 Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum Thema Repositorien. Anschlie&szlig;end teilten Nutzer (Jan Deinert &ndash; HZDR) und Anbieter (Christian L&ouml;schen &ndash; TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -57,6 +59,8 @@ Licensed CC-BY-4.0
 
 .lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens fine in LASX but FIJI only likes some of the files.&nbsp; I think it was captured during a poweroutage so may have lived on a temp drive and been recovered when the power came back.&nbsp; LASX uses the .lifext but I don't think FIJI does.&nbsp; I have included it however since it is part of the dataset output from the microscope.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15353569](https://zenodo.org/records/15353569)
 
 [https://doi.org/10.5281/zenodo.15353569](https://doi.org/10.5281/zenodo.15353569)
@@ -75,6 +79,8 @@ Licensed CC-BY-4.0
 
 
 10 frames of fluorescent particles. They don't do much, but they are a DCIMG version 0x7 file example.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14281237](https://zenodo.org/records/14281237)
 
@@ -95,7 +101,7 @@ Licensed CC-BY-4.0
 
 This submission contains a set of 3D microscopy volumes of cell nuclei from different species and tissues that have been manually segmented. We also provide synthetically generated 3D microscopy volumes that can be used for training segmentation methods.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -136,6 +142,8 @@ These images were obtained using the plugin BigSticher on the raw data ( https:/
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6645978](https://zenodo.org/records/6645978)
 
 [https://doi.org/10.5281/zenodo.6645978](https://doi.org/10.5281/zenodo.6645978)
@@ -155,7 +163,7 @@ Licensed CC-BY-4.0
 
 This dataset is the training set with annotations for the SELMA3D challenge. The SELMA3D challenge focuses on self-supervised learning for 3D light-sheet microscopy image segmentation. Its objective is to encourage the development of self-supervised learning methods for general segmentation of various structures in 3D light-sheet microscopy images. The dataset comtains 3D image patches of different labeled biological structures in the brain, including blood vessels, c-Fos labeled brain cells involved in neural activity, cell nuclei, and Alzheimers disease plaques. Each patch includes corresponding pixel-wise annotations for the labeled structures.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -196,7 +204,7 @@ Weigert, M., Schmidt, U., Haase, R., Sugawara, K., &amp; Myers, G. (2020). Star-
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -217,7 +225,7 @@ Licensed CC-BY-4.0
 
 A short book with 6 steps that get you closer to making your work reproducible.
 
-Tags: Reproducibility, Research Data Management
+Tags: Reproducibility, Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -236,7 +244,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Conference Abstract
 
@@ -257,6 +265,8 @@ Licensed CC-BY-4.0
 
 The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
 
 [https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
@@ -274,7 +284,7 @@ Licensed CC-BY-4.0
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -295,6 +305,8 @@ Licensed CC-BY-4.0
 
 The rapid development of new imaging technologies across scientific domains–especially high-throughput technologies–results in a growing volume of image datasets in the Tera- to Petabyte scale. Efficient visualization and analysis of such massive image resources is critical but remains challenging due to the sheer size of the data, its continuous growth, and the limitations of conventional software tools to address these problems. Tools for visualization, annotation and analysis of large image data are confronted with the fundamental dilemma of balancing computational efficiency and memory requirements. Many tools are unable to process large datasets due to memory constraints, requiring workarounds like downsampling. On the other hand, solutions that can handle large data efficiently often rely on specialized or even proprietary file formats, limiting interoperability with other software. This reflects diverging requirements: storage favours compression for efficiency, analysis demands fast data access, and visualization requires tiled, multi-resolution representations. Lacking a unified approach for these conflicting needs, the operation of large and dynamically evolving image repositories in practice often requires undesirable data conversions and costly data duplication. In addressing these challenges, the bioimaging community increasingly adheres to the FAIR principles [1] through national and international initiatives [2], [3], [4]. For example, the Open Microscopy Environment (OME) fosters standards such as OME-TIFF [5] and its cloud-native successor OME-NGFF [6]; BioFormats [7] and OMERO [8] facilitate metadata-rich data handling across diverse platforms; and BrAinPI [9] provides web-based visualization of images via Neuroglancer [10]. These tools represent important developments towards more efficient and standardized use of bioimaging data. However, for very large and dynamically growing repositories, it is still not feasible to settle on a single standard for a subset of these tools, in particular in the light of very diverging needs for massively parallel processing on HPC systems. Therefore, converting data to a single target format is often not a practical solution. We propose a concept for a modular image delivery service which acts as a middleware between large image data resources and applications, serving image data from a cloud resource in multiple requested representations on demand. The service allows reading data stored in different input file formats, applying coordinate transformations and filtering operations on-the-fly, and serving the results in a range of different output formats and layouts. Building upon a common framework for reading and transforming data, an extensible set of access points connects the service to client applications: Lightweight REST APIs allow web-based mutli-resolution access (e.g., in common formats such as used in Neuroglancer and OpenSeadragon base viewers); mountable filesystem interfaces enable linking the repository to file-oriented solutions (e.g., OMERO, ImageJ); and programmatic access from customizable software tools (e.g., Napari). To provide compatibility with upcoming image data standards like BIDS [11] and minimize conversion efforts, the service is able to dynamically expose standard-conform views into arbitrarily organized datasets. The proposed approach for reading and transforming data on-the-fly eliminates the need for redundant storage and application-specific conversions of datasets, improving workflow efficiency and sustainability. In summary, we advocate for the development of a flexible and extensible image data service that supports large-scale analysis, dynamic transformations, multi-tool interoperability, and compatibility with community standards for large image datasets. This way it supports the FAIR principles, reduces integration barriers, meets the performance demands of modern imaging research, and still fosters the use of existing community developments.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16736220](https://zenodo.org/records/16736220)
 
 [https://doi.org/10.5281/zenodo.16736220](https://doi.org/10.5281/zenodo.16736220)
@@ -314,7 +326,7 @@ Licensed CC-BY-4.0
 
 StarDist 2D deep learning model and training dataset.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -343,7 +355,7 @@ Research data management is essential in nowadays research, and one of the big o
 
 In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
 
@@ -361,6 +373,8 @@ Published 2025-08-27
 Licensed CC-BY-4.0
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16962727](https://zenodo.org/records/16962727)
 
@@ -380,7 +394,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -406,6 +420,8 @@ Licensed CC-BY-4.0
 This upload features a simple model for the creation (Manufacturing/Prototyping) of an abdominal imaging window (AIW) for use in mice intravital microscopy.
 Manufacture in titanium for chronic implantation. Measures in mm.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14168603](https://zenodo.org/records/14168603)
 
 [https://doi.org/10.5281/zenodo.14168603](https://doi.org/10.5281/zenodo.14168603)
@@ -425,6 +441,8 @@ Licensed CC-BY-4.0
 
 Bead stack taken on lower path of a 4Pi without deformable mirror corrections. DCIMG examples, not for other purposes.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14268554](https://zenodo.org/records/14268554)
 
 [https://doi.org/10.5281/zenodo.14268554](https://doi.org/10.5281/zenodo.14268554)
@@ -440,7 +458,7 @@ Licensed CC-BY-4.0
 
 The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Document
 
@@ -461,7 +479,7 @@ Licensed CC-BY-4.0
 
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
 
-Tags: Nfdi4Bioimage, OMERO
+Tags: Nfdi4Bioimage, OMERO, Include In Dalia
 
 [https://zenodo.org/records/15771899](https://zenodo.org/records/15771899)
 
@@ -479,6 +497,8 @@ Published 2025-03-06
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
 
@@ -501,7 +521,7 @@ Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten, an deren En
 &nbsp;
 &nbsp;
 
-Tags: Research Data Management, Licensing
+Tags: Research Data Management, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -534,7 +554,7 @@ Annotations: 24-bit .png format (RGB)
 
 Script used to convert C01 to png images:&nbsp;C01_to_png.py file with python code and readme.md file with instructions to run it
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -557,7 +577,7 @@ Licensed CC-BY-4.0
 
 3D zebrafish embryo images with single-cell segmentation and point cloud-based morphometry
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -578,7 +598,7 @@ Licensed CC-BY-4.0
 
 In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
 
@@ -599,6 +619,8 @@ Licensed CC-BY-4.0
 
 A groovy script to use in Fiji to generate artificial images and labels, with example images.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7919117](https://zenodo.org/records/7919117)
 
 [https://doi.org/10.5281/zenodo.7919117](https://doi.org/10.5281/zenodo.7919117)
@@ -617,6 +639,8 @@ Licensed CC-BY-4.0
 
 
 Bead stack taken on a 4Pi. DCIMG 0x1000000 file with a 4-pixel correction requirement.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14287640](https://zenodo.org/records/14287640)
 
@@ -669,7 +693,7 @@ NOTE: This dataset uses&nbsp;the &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;unde
 
 NOTE: This dataset was used to train cellpose models in the following Zenodo entry&nbsp;https://doi.org/10.5281/zenodo.6140111
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -690,7 +714,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Nfdi4Bioimage, Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -709,7 +733,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -730,7 +754,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis
+Tags: OMERO, Workflow, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -751,6 +775,8 @@ Licensed CC-BY-4.0
 
 DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15150937](https://zenodo.org/records/15150937)
 
 [https://doi.org/10.5281/zenodo.15150937](https://doi.org/10.5281/zenodo.15150937)
@@ -766,7 +792,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis
+Tags: Research Data Management, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -787,7 +813,7 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -813,6 +839,8 @@ https://github.com/haesleinhuepf/bia-bob
 https://github.com/haesleinhuepf/git-bob
 &nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14001044](https://zenodo.org/records/14001044)
 
 [https://doi.org/10.5281/zenodo.14001044](https://doi.org/10.5281/zenodo.14001044)
@@ -832,7 +860,7 @@ Licensed CC-BY-4.0
 
 In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
 
@@ -853,7 +881,7 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Slides
 
@@ -874,7 +902,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -895,7 +923,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
@@ -914,7 +942,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Slides
 
@@ -933,7 +961,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Napari
+Tags: Python, Bioimage Analysis, Napari, Include In Dalia
 
 Content type: Notebook
 
@@ -948,7 +976,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -967,6 +995,8 @@ Licensed CC-BY-4.0
 
 Bio-Formats is a standalone Java library for reading and writing life sciences image file formats. There are several scripts for using Bio-Formats on the command line, which are listed here.
 
+Tags: Exclude From Dalia
+
 Content type: Documentation
 
 [https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html](https://bio-formats.readthedocs.io/en/v8.0.0/users/comlinetools/index.html)
@@ -982,7 +1012,7 @@ Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -1019,6 +1049,8 @@ The second day commenced with a remote presentation by SVI.nl, introducing parti
 
 In the afternoon, participants engaged in practical sessions. Martin Sch&auml;tz presented Ilastik, a versatile software for image classification and segmentation. Pat Robison delivered a scientific lecture on the role of detyrosinated microtubules in contracting cardiomyocytes. Zdenek Svindrych, along with other experts, led a hands-on session on customizing Fiji using the ImageJ Macro language. The day concluded with a practical session on the interactive design of GPU-accelerated image data flow graphs in Fiji, guided by Martin Sch&auml;tz and the workshop team.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/8025067](https://zenodo.org/records/8025067)
 
 [https://doi.org/10.5281/zenodo.8025067](https://doi.org/10.5281/zenodo.8025067)
@@ -1037,6 +1069,8 @@ Licensed CC-BY-4.0
 
 
 The dynamic field of bioimage analysis continually seeks innovative tools to democratize access to analysis tools and its documentation. The BioImage.IO Chatbot, leveraging state-of-the-art AI technologies including Large Language Models (LLMs) and Retrieval Augmented Generation (RAG), provides an interactive platform that significantly integrates the exploration and application of bioimage analysis tools and models. This seminar will introduce the BioImage.IO Chatbot's capabilities, focusing on how it facilitates access to advanced analysis tools and documentation, allows for the execution of complex models, and enables users to create customized extensions adjusted to specific research needs. In a live demo, attendees will see how to interact with the chatbot and all its assistants and capabilities. Join us to explore how the BioImage.IO Chatbot ca transform your research by making sophisticated analysis more intuitive and accessible.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/13880367](https://zenodo.org/records/13880367)
 
@@ -1057,7 +1091,7 @@ Licensed CC-BY-4.0
 
 This research data management workflow for bioimaging is designed to bridge the gap between image metadata and experimental / process metadata. By linking images and microscopy-related metadata with broader experimental records, the workflow particularly supports the adoption of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles in interdisciplinary fields where bioimaging is used to analyse treated samples requiring multimodal metadata. A Jupyter Notebook guides the user through the metadata level, data handling level, and data processing level and connects various software components in a modular manner. On the metadata level, microscope-specific metadata are captured using the Micro-Meta App and stored as reusable digital assets. Adamant provides a user interface to collect and process schema-based metadata related to the experiment / treatment procedure. Structured imaging and process metadata are attached to the complete experiment description in eLabFTW. On the data handling level, OMERO serves as the central platform for storing and managing microscopy images together with their metadata retrieved from eLabFTW (workflow with ELN) or directly from JSON files (workflow without ELN). On the data processing level, OMERO supports both automated and manual image analysis either directly via the Jupyter Notebook or FIJI. Due to the modularity of the workflow, the integrated tools can be substituted with equivalent systems based on institutional / user requirements. Whether in teaching or research settings, this workflow supports high-throughput, reproducible imaging workflows, ensuring that data, metadata, and analysis steps remain transparent, interoperable, and reusable across diverse bioimage analysis platforms.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/16561545](https://zenodo.org/records/16561545)
 
@@ -1088,7 +1122,7 @@ StarDist Model:The StarDist model was generated using the ZeroCostDL4Mic platfor
 &nbsp;
 
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1107,7 +1141,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Python
+Tags: OMERO, Python, Include In Dalia
 
 Content type: Blog Post
 
@@ -1131,6 +1165,8 @@ In the frame of NFDI4BioImaging (the National Research Data Infrastructure focus
 Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of HCS bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation.
 In the present study, we proposed an automated analysis pipeline for storing, processing, analysing, and sharing HCS bioimaging data. The (semi)automatic workflow was developed by taking as a case study a dataset of zebrafish larvae and cell lines images previously obtained from an automated imaging system generating data in an HCS fashion. In our workflows, images are automatically enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to the UFZ-OME Remote Objects (OMERO) server using a novel OMERO tool suite developed with GALAXY. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation) or even more complex toxicological analyses (dose response modelling). Furthermore, we want to improve the FAIRness of the protocol by adding a direct upload link to the Image Data Resource (IDR) repository to automatically prepare the data for publication and sharing.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14909526](https://zenodo.org/records/14909526)
 
 [https://doi.org/10.5281/zenodo.14909526](https://doi.org/10.5281/zenodo.14909526)
@@ -1149,6 +1185,8 @@ Licensed CC-BY-4.0
 
 
 Bioimaging has now entered the era of big data with faster than ever development of complex microscopy technologies leading to increasingly complex datasets. This enormous increase in data size and informational complexity within those datasets has brought with it several difficulties in terms of common and harmonized data handling, analysis and management practices, which are currently hampering the full potential of image data being realized. Here we outline a wide range of efforts and solutions currently being developed by the microscopy community to address these challenges on the path towards FAIR bioimage data. We also highlight how different actors in the microscopy ecosystem are working together, creating synergies that develop new approaches, and how research infrastructures, such as Euro-BioImaging, are fostering these interactions to shape the field.&nbsp;
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/7788899](https://zenodo.org/records/7788899)
 
@@ -1171,7 +1209,7 @@ Licensed CC-BY-4.0
 Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
 This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
 
@@ -1215,6 +1253,8 @@ The test files (so far) contain not any data with more &quot;advanced&quot; dime
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7015307](https://zenodo.org/records/7015307)
 
 [https://doi.org/10.5281/zenodo.7015307](https://doi.org/10.5281/zenodo.7015307)
@@ -1242,6 +1282,8 @@ A set of public CZI files. These can be used for testing CZI readers.
 - a xt scan, xz scan, xzt scan
 
 - a set of multi angle, multi illumination, mutli tile acquisition, taken on the LightSheet Z1 microscope of the PTBIOP by Lorenzo Tal&agrave;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/8305531](https://zenodo.org/records/8305531)
 
@@ -1275,6 +1317,8 @@ The model file (MODEL NAME) in this repository is the result of this training.
 Prediction Procedure: Using this model, a label image can be obtained from new unseen images in a given folder with
 
 python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
 
@@ -1343,6 +1387,8 @@ NOTE: Make sure that you delete the &ldquo;_flow&rdquo; images that are auto-com
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6140111](https://zenodo.org/records/6140111)
 
 [https://doi.org/10.5281/zenodo.6140111](https://doi.org/10.5281/zenodo.6140111)
@@ -1377,7 +1423,7 @@ If you are going to use the QuPath projects, you need a local QuPath Installatio
 Instructions for installation are available from the links above.
 After that, you should be able to open the QuPath project, navigate to the "Automate &gt; Project scripts" menu and locate the script you wish to run.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1416,7 +1462,7 @@ After that, you should be able to open the QuPath project, navigate to the "Auto
 1. train a cell segmentation algorithm in the context of the rat brain Layer&nbsp;Boundaries project&nbsp;
 2. trigger cell segmentation from a QuPath project in a semi-automated pipeline
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1435,7 +1481,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1454,7 +1500,7 @@ Licensed CC-BY-4.0
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -1475,6 +1521,8 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) such as ChatGPT are changing the way we interact with computers, including how we analye microscopy imaging data. In this talk I introduce basic concepts of asking LLMs to write code and how to modify the questions to get the best out of it. For trying out these prompt engineering basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13371196](https://zenodo.org/records/13371196)
 
 [https://doi.org/10.5281/zenodo.13371196](https://doi.org/10.5281/zenodo.13371196)
@@ -1494,7 +1542,7 @@ Licensed CC-BY-4.0
 
 Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
 
@@ -1515,7 +1563,7 @@ Licensed CC-BY-4.0
 
 Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
 
@@ -1536,7 +1584,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
 
-Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management, Include In Dalia
 
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
@@ -1555,7 +1603,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1590,7 +1638,7 @@ Artificial intelligence that can respond to GitHub issues
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
 
@@ -1623,7 +1671,7 @@ File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 634 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1656,7 +1704,7 @@ File format: .tif (16-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 645 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1689,7 +1737,7 @@ File format: .tif (8-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 650 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1712,7 +1760,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Poster
 
@@ -1735,7 +1783,7 @@ Licensed CC-BY-4.0
 
 The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -1756,6 +1804,8 @@ Licensed CC-BY-4.0
 
 Conference Slides for the presentation of GerBI e.V. at the 4th Day of Intravital Microscopy in Leuven, Belgium.
 Features Structure, activities and Links to join GerBI e.V.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14113714](https://zenodo.org/records/14113714)
 
@@ -1778,7 +1828,7 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -1795,7 +1845,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Workflow
+Tags: Workflow, Include In Dalia
 
 Content type: Tutorial, Online Tutorial
 
@@ -1816,7 +1866,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -1836,6 +1886,8 @@ Licensed CC-BY-4.0
 
 
 In this interactive session, Carpentries team members will guide attendees through three stages of the backward design process to create a lesson development plan for the open source tool of their choosing. Attendees will leave having identified what practical skills they aim to teach (learning objectives), an approach for designing challenge questions (formative assessment), and mechanisms to give and receive feedback.
+
+Tags: Include In Dalia
 
 Content type: Slides
 
@@ -1858,7 +1910,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -1883,7 +1935,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, FAIR-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -1906,6 +1958,8 @@ Licensed CC-BY-4.0
 
 Two 2000-frame chunks acquired at different times (~40 minutes apart) on a 4Pi widefield, showing some slow sample drift.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16875377](https://zenodo.org/records/16875377)
 
 [https://doi.org/10.5281/zenodo.16875377](https://doi.org/10.5281/zenodo.16875377)
@@ -1921,7 +1975,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -1940,6 +1994,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15933943](https://zenodo.org/records/15933943)
 
 [https://doi.org/10.5281/zenodo.15933943](https://doi.org/10.5281/zenodo.15933943)
@@ -1952,6 +2008,8 @@ Licensed CC-BY-4.0
 Licensed ['CC-BY-4.0', 'MIT']
 
 
+
+Tags: Include In Dalia
 
 Content type: Tutorial, Code
 
@@ -1970,7 +2028,7 @@ Licensed CC-BY-4.0
 
 In this section, information is organised according to the stages of the research data life cycle.
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Website, Online Tutorial
 
@@ -1991,6 +2049,8 @@ Licensed CC-BY-4.0
 
 A more detailed understanding of the effect of plasmas on biological systems can be fostered by combining data from different imaging modalities, such as optical imaging, fluorescence imaging, and mass spectrometry imaging. This, however, requires the implementation and use of sophisticated research data management (RDM) solutions to incorporate the influence of plasma parameters and treatment procedures as well as the effects of plasma on the treated targets. In order to address this, RDM activities on different levels and from different perspectives are started and brought together within the framework of the NFDI consortium NFDI4BIOIMAGE.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
@@ -2008,7 +2068,7 @@ Licensed CC-BY-4.0
 
 Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
 
-Tags: Research Data Management, Dataplant
+Tags: Research Data Management, Dataplant, Include In Dalia
 
 Content type: Collection
 
@@ -2035,6 +2095,8 @@ Dataset_fail: 20 wells, 4 fields of view per well, 5 channels, with one duplicat
 BioFormats version: 8.0.1
 A discussion thread has been open on this topic.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14769820](https://zenodo.org/records/14769820)
 
 [https://doi.org/10.5281/zenodo.14769820](https://doi.org/10.5281/zenodo.14769820)
@@ -2054,7 +2116,7 @@ Licensed CC-BY-4.0
 
 In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2078,7 +2140,7 @@ Licensed CC-BY-4.0
  Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2105,7 +2167,7 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2136,7 +2198,7 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2171,6 +2233,8 @@ This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acq
 
 - PSFgen_WFsquare_WBpsf.tif, is the result of&nbsp;the&nbsp;square operation on PSFgen_WF_WBpsf.tif , to approximate a confocal PSF
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5101351](https://zenodo.org/records/5101351)
 
 [https://doi.org/10.5281/zenodo.5101351](https://doi.org/10.5281/zenodo.5101351)
@@ -2190,7 +2254,7 @@ Licensed CC-BY-4.0
 
 This submission includes ground truth datasets that were used to segment the nuclear envelope (NE), mitochondria, endoplasmic reticulum (ER) and Golgi from a human bone osteosarcoma epithelial cell (U2-OS) imaged using focused-ion beam scanning electron microscopy (FIB-SEM).The full FIB-SEM dataset is deposited to EMPIAR (https://www.ebi.ac.uk/empiar, EMPIAR-11746).&nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2253,7 +2317,7 @@ Affiliation:
 
 &nbsp;Associated publications: Whitley et al., 2021, Nature Communications, https://doi.org/10.15252/embj.201696235
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2313,7 +2377,7 @@ Affiliation(s):&nbsp;
 
 3) ORCID: 0000-0002-9821-3578
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2416,7 +2480,7 @@ Affiliation(s):&nbsp;
 
 8) ORCID: 0000-0002-7132-8842
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2474,7 +2538,7 @@ Affiliation:&nbsp;
 
 3) ORCID: https://orcid.org/0000-0002-7132-8842
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2495,7 +2559,7 @@ Licensed CC-BY-4.0
 
 High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -2516,7 +2580,7 @@ Licensed CC-BY-4.0
 
 When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
@@ -2535,7 +2599,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -2556,7 +2620,7 @@ Licensed CC-BY-4.0
 
 Imaging is crucial across various scientific disciplines, particularly in life sciences, where it plays a key role in studies ranging from single molecules to whole organisms. However, the complexity and sheer volume of image data present significant challenges. Managing and analyzing this data efficiently requires well-defined image processing tools and analysis pipelines that align with the FAIR principles—ensuring they are findable, accessible, interoperable, and reusable across different domains. In the frame of NFDI4BIOIMAGE1 (the National Research Data Infrastructure focusing on bioimaging in Germany), we want to find viable solutions for storing, processing, analyzing, and sharing bioimaging data. In particular, we want to develop solutions to make findable and machine-readable metadata developing analysis pipelines. In scientific research, such pipelines are crucial for maintaining data integrity, supporting reproducibility, and enabling interdisciplinary collaboration. These tools can be used by different users to retrieve images based on specific attributes as well as support quality control by identifying appropriate metadata. Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis2. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of RDM processes in bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation. In the present poster, we showed how to integrate RDM processes and tools in Galaxy. We will showcase how Images can be enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to a target OME Remote Objects (OMERO) server using a novel set of OMERO tools developed with Galaxy3. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation). Furthermore, we will show the potential integration of eletronic lab books such as eLabFTW4, cloud storage systems (i.e. OneData)5 and interactive norebooks (Jupyter Notebooks) 6 in the Galaxy pipeline.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
 
@@ -2578,6 +2642,8 @@ Licensed CC-BY-4.0
 In bio-medical research we often need to combine a broad range of expertise to run complex experiments and analyse and interpret their results. Also, it is desirable that all stakeholders of a project understand all parts of the experiment and analysis to draw and support the right conclusions. For imaging experiments this usually requires a basic understanding of the underlying physics. This has not necessarily been part of the professional training of all stakeholders, e.g. biologists or data scientists. Therefore an affordable platform for easily demonstrating and explaining imaging principles would be desirable.
 Building up on a commercially available STEM Optics kit we developed extensions with widely available and affordable components to demonstrate advanced imaging techniques like e.g. confocal, lightsheet, OPT, spectral imaging. All models are quick and easy to build, yet demonstrate the important physical principles each imaging technique is based on.
 Further use cases for this kit are training courses, demonstrations for imaging newbies when designing an experiment and outreach activities but also basic level prototyping.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/10925217](https://zenodo.org/records/10925217)
 
@@ -2616,6 +2682,8 @@ NOTE : This dataset was used to train cellpose model ( 10.5281/zenodo.6023317 )
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5996883](https://zenodo.org/records/5996883)
 
 [https://doi.org/10.5281/zenodo.5996883](https://doi.org/10.5281/zenodo.5996883)
@@ -2633,7 +2701,7 @@ Licensed CC-BY-4.0
 
 EDAM-bioimaging is an extension of the EDAM ontology, dedicated to bioimage analysis, bioimage informatics, and bioimaging.
 
-Tags: Ontology, Bioimage Analysis
+Tags: Ontology, Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -2650,7 +2718,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -2679,7 +2747,7 @@ Stardist2d_Model.zip
 
 Stardist 2D deep learning model for segmentation of surface attached S.aureus, obtained using the StarDist 2D ZeroCostDL4Mic notebook (v 1.12.3).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -2703,7 +2771,7 @@ Licensed CC-BY-4.0
 Researchers are increasingly often confronted with research data management (RDM) topics during their work. Higher education institutions therefore begin to offer services for RDM at some point to give support and advice. However, many groundbreaking decisions have to be made at the very beginning of RDM services. Priorities must be set and policies formulated. Likewise, the staff must first be qualified in order to provide advice and adequately deal with the manifold problems awaiting.
 The FDMentor project has therefore bundled the expertise of five German universities with different experiences and levels of RDM knowledge to jointly develop strategies, roadmaps, guidelines, and open access training material. Humboldt-Universit&auml;t zu Berlin, Freie Universit&auml;t Berlin, Technische Universit&auml;t Berlin, University of Potsdam, and European University Viadrina Frankfurt (Oder) have worked together on common solutions that are easy to adapt. With funding of the German Federal Ministry of Education and Research, the collaborative project addressed four problem areas: strategy development, legal issues, policy development, and competence enhancement. The aim of the project outcomes is to provide other higher education institutions with the best possible support for the efficient introduction of research data management. Therefore, all project results are freely accessible under the CC-BY 4.0 international license. The early involvement of the community in the form of workshops and the collection of feedback has proven its worth: the FDMentor strategies, roadmaps, guidelines, and training materials are applied and adapted beyond the partner universities.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Document
 
@@ -2728,7 +2796,7 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: Research Data Management, Data Protection
+Tags: Research Data Management, Data Protection, Include In Dalia
 
 Content type: Slides
 
@@ -2751,7 +2819,7 @@ Licensed CC-BY-4.0
 
 This tutorial will demonstrate how to use the Galaxy multiplex imaging tools to process and analyze publicly available TMA test data provided by MCMICRO (Figure 1); however, the majority of the steps in this tutorial are the same for both TMAs and WSIs and notes are made throughout the tutorial where processing of these two imaging types diverge.
 
-Tags: Galaxy, Multiplex Imaging
+Tags: Galaxy, Multiplex Imaging, Include In Dalia
 
 Content type: Tutorial
 
@@ -2772,7 +2840,7 @@ Licensed CC-BY-4.0
 
 Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -2794,6 +2862,8 @@ Licensed CC-BY-4.0
 
 
 Graduation presentation for the 7th cohort of the Open Seeds mentoring &amp; training program for Open Science ambassadors. The project presented is called &quot;Euro-BioImaging &nbsp;Scientific Ambassadors Program&quot;.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/8182154](https://zenodo.org/records/8182154)
 
@@ -2817,6 +2887,8 @@ This version has&nbsp;not yet been reviewed or approved by the European Commissi
 A final, EC-approved version will be published when available.
 This document presents a strategic analysis of training resources for Euro-BioImaging Nodes, assessing bothNode-organized and global opportunities. By analyzing Node-organized and externally available trainingcourses, alongside insights from recent surveys and training bursary applications, this report provides afoundation for strengthening the training framework of Euro-BioImagingDelivering high-quality imaging services relies on continuous skill development, particularly as scientificadvancements and technological innovations reshape the imaging landscape.&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/17048377](https://zenodo.org/records/17048377)
 
 [https://doi.org/10.5281/zenodo.17048377](https://doi.org/10.5281/zenodo.17048377)
@@ -2835,6 +2907,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2020.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16357209](https://zenodo.org/records/16357209)
 
@@ -2855,6 +2929,8 @@ Licensed CC-BY-4.0
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2021.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16357461](https://zenodo.org/records/16357461)
 
 [https://doi.org/10.5281/zenodo.16357461](https://doi.org/10.5281/zenodo.16357461)
@@ -2873,6 +2949,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2023.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
 
@@ -2893,6 +2971,8 @@ Licensed CC-BY-4.0
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2024.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16761197](https://zenodo.org/records/16761197)
 
 [https://doi.org/10.5281/zenodo.16761197](https://doi.org/10.5281/zenodo.16761197)
@@ -2911,6 +2991,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2022.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/8146412](https://zenodo.org/records/8146412)
 
@@ -2931,7 +3013,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -2955,7 +3037,7 @@ Licensed CC-BY-4.0
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Tutorial
 
@@ -2985,6 +3067,8 @@ run_conversion.py replaces batchconvert_cli.sh and construct_cli.py, uniting the
 Error handling updated for each process
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10679318](https://zenodo.org/records/10679318)
 
 [https://doi.org/10.5281/zenodo.10679318](https://doi.org/10.5281/zenodo.10679318)
@@ -3009,6 +3093,8 @@ The stiched image is named `Stitch_A01_G001` and contains an extra file `Stitch_
 Some metadata like the tiles positions are stored in the extra files (omp2info)
 
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13680725](https://zenodo.org/records/13680725)
 
@@ -3036,6 +3122,8 @@ DAPI_mCherry_4Z_5Lambda-420-630-w10nm-s50nm.oir : 20 planes, 5 lambdas from 420 
 DAPI-mCherry_3T_4Z_5Lambda-420-630-w10nm-s50nm.oir : 60 planes, 5 lambdas from 420 to 630 nm by steps of 50 nm, 4 slices, 3 timepoints
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12773657](https://zenodo.org/records/12773657)
 
 [https://doi.org/10.5281/zenodo.12773657](https://doi.org/10.5281/zenodo.12773657)
@@ -3056,6 +3144,8 @@ Licensed CC-BY-4.0
 The files contained in this repository are example Imaris ims images.
 &nbsp;
 Initially related to https://github.com/ome/bioformats/pull/4249
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14235726](https://zenodo.org/records/14235726)
 
@@ -3321,6 +3411,8 @@ If you want to learn more about the importance of metadata and quality control t
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5847477](https://zenodo.org/records/5847477)
 
 [https://doi.org/10.5281/zenodo.5847477](https://doi.org/10.5281/zenodo.5847477)
@@ -3349,6 +3441,8 @@ https://forum.image.sc/t/null-pointer-exception-in-perkin-elmer-operetta-dataset
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/8153907](https://zenodo.org/records/8153907)
 
 [https://doi.org/10.5281/zenodo.8153907](https://doi.org/10.5281/zenodo.8153907)
@@ -3370,6 +3464,8 @@ This Excel Workbook contains some simple Macros to help with the generation of a
 The format is tailored for the OMERO.web script&nbsp;"KeyVal_from_csv.py"&nbsp; (from the version &lt;=5.8.3 of the core omero-scripts).
 Attached is also a video of Thomas Zobel, the head of the imaging core facility Uni M&uuml;nster, showcasing the use of the Excel workbook.The video uses a slightly older version of the workbook and OMERO, but the core functionality remains unchanged.
 Please keep in mind, that the OMERO.web script(s) to handle Key-Value Pairs from/to .csv files will undergo a major change very soon.This might break the compatibility with the format used now for the generated .csv from the workbook.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14014252](https://zenodo.org/records/14014252)
 
@@ -3416,6 +3512,8 @@ identifying areas with high inter-ridge spacing by maping the distance to the ne
 measuring the spatial uniformity of the structure of interest by&nbsp;examining the distribution of the local densities and the distances to the nearest ridge.&nbsp;
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13897937](https://zenodo.org/records/13897937)
 
 [https://doi.org/10.5281/zenodo.13897937](https://doi.org/10.5281/zenodo.13897937)
@@ -3436,7 +3534,7 @@ Licensed CC-BY-4.0
 In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
 Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
@@ -3451,7 +3549,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Fair, Bioimage Analysis
+Tags: Research Data Management, Fair, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -3472,7 +3570,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -3489,7 +3587,7 @@ Licensed CC-BY-4.0
 
 In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
 
-Tags: FAIR-Principles, Data Stewardship, Research Data Management
+Tags: FAIR-Principles, Data Stewardship, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -3508,7 +3606,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -3529,6 +3627,8 @@ Licensed CC-BY-4.0
 
 Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen. Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen, ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung des Ombudsman f&uuml;r die Wissenschaft (OfdW) dar, sondern beschreiben den Status Quo und ordnen bereits bestehende Empfehlungen aus Sicht der GWP ein, identifizieren L&uuml;cken und verweisen auf weiterf&uuml;hrende Literatur. Diese FAQ-Sammlung richtet sich prim&auml;r an Forschende. F&uuml;r die Nutzung von KI in der Lehre und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re KI-Richtlinien, angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen sowie Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen FAQ nicht besprochen.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14045172](https://zenodo.org/records/14045172)
 
 [https://doi.org/10.5281/zenodo.14045172](https://doi.org/10.5281/zenodo.14045172)
@@ -3548,7 +3648,7 @@ Licensed CC-BY-4.0
 
 This repository hosts a comprehensive collection of datasets used to develop an innovative deep learning model designed to enhance the segmentation and characterization of macerated fibers and vessel forms in microscopy images. Included in the deposit are raw images, alongside meticulously prepared training and validation datasets. We present an automated segmentation approach that utilizes the one-stage YOLOv8 model, which has been specifically adapted to process high-resolution microscopy images up to 32640 x 25920 pixels. Our model excels in cell detection and segmentation, demonstrating exceptional proficiency.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -3571,7 +3671,7 @@ Licensed CC-BY-4.0
 
 This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Worksheet
 
@@ -3592,7 +3692,7 @@ Licensed CC-BY-4.0
 
 Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
 
-Tags: Open Science, Teaching, Sharing
+Tags: Open Science, Teaching, Sharing, Include In Dalia
 
 Content type: Collection, Tutorial, Video
 
@@ -3609,7 +3709,7 @@ Licensed CC-BY-4.0
 
 Research Data Management Wiki in German
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -3630,6 +3730,8 @@ Licensed CC-BY-4.0
 
 Arbeitspapier des Steuerungsgremiums des Allianz-Schwerpunkts "Digitalit&auml;t in der Wissenschaft"
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14032908](https://zenodo.org/records/14032908)
 
 [https://doi.org/10.5281/zenodo.14032908](https://doi.org/10.5281/zenodo.14032908)
@@ -3648,6 +3750,8 @@ Licensed CC-BY-4.0
 
 
 Bioimaging has transformed our understanding of biological processes, yet extracting&nbsp;meaningful information from complex datasets remains a challenge, particularly for&nbsp;early career scientists. This paper proposes a simplified, systematic approach to&nbsp;bioimage analysis, focusing on categorizing commonly observed structures and&nbsp;shapes, and providing relevant analysis methods. Our approach includes illustrative&nbsp;examples and a visual flowchart, enabling researchers to define analysis objectives&nbsp;clearly. By understanding the diversity of bioimage structures and aligning them with&nbsp;appropriate analysis approaches, the framework empowers researchers to navigate&nbsp;bioimage datasets more efficiently. It also aims to foster a common language between&nbsp;researchers and analysts, thereby enhancing mutual understanding and facilitating&nbsp;effective communication.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/13331351](https://zenodo.org/records/13331351)
 
@@ -3673,7 +3777,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -3697,6 +3801,8 @@ Licensed CC-BY-4.0
 This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
 Date of presentation: 2025-07-24
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
 
 [https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
@@ -3714,7 +3820,7 @@ Licensed CC-BY-4.0
 
 Collection of tutorials developed and maintained by the worldwide Galaxy community.
 
-Tags: Bioimage Analysis, Data Analysis
+Tags: Bioimage Analysis, Data Analysis, Exclude From Dalia
 
 Content type: Collection, Tutorial
 
@@ -3733,6 +3839,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
 
 [https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
@@ -3748,7 +3856,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -3776,6 +3884,8 @@ Antragsbewilligung und Nutzung&nbsp;
 
 Dieser hier enthaltene Beitrag ist der Initialvortrag des GerBi-Chats zum Teil 1 - Von der Bedarfsanmeldung bis zum Beginn der Antragststellung. Die weiteren Stufen der Gro&szlig;ger&auml;tebeschaffung werden in nachfolgenden Beitr&auml;gen behandelt.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13810879](https://zenodo.org/records/13810879)
 
 [https://doi.org/10.5281/zenodo.13810879](https://doi.org/10.5281/zenodo.13810879)
@@ -3802,6 +3912,8 @@ Antragsbewilligung und Nutzung&nbsp;
 
 Nach dem Initialvortrag der GerBI-Chat Reihe, in dem das Thema Bedarfsanmeldung im Fokus stand, geht es im hier enthaltenen zweiten Teil &bdquo;Antragsvorbereitung und -fertigstellung: Wie schreibe ich am besten einen Gro&szlig;ger&auml;teantrag?&ldquo; um die Beantragung von Forschungsgro&szlig;ger&auml;ten nach Art. 91b GG.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13807114](https://zenodo.org/records/13807114)
 
 [https://doi.org/10.5281/zenodo.13807114](https://doi.org/10.5281/zenodo.13807114)
@@ -3817,7 +3929,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -3839,6 +3951,8 @@ Licensed CC-BY-4.0
 YMIA python event 2024
 Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment with Dr. Riccardo Massei"
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13908480](https://zenodo.org/records/13908480)
 
 [https://doi.org/10.5281/zenodo.13908480](https://doi.org/10.5281/zenodo.13908480)
@@ -3857,6 +3971,8 @@ Licensed CC-BY-4.0
 
 
 This document reports on the first in-person workshop supported by GloBIAS. Each session has its own chapter provided by the people chairing the sessions, summarising the outputs achieved.&nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
 
@@ -3877,7 +3993,7 @@ Licensed CC-BY-4.0
 
 Accurate segmentation of volumetric fluorescence image data has been a long-standing challenge and it can considerably degrade the accuracy of multiplexed fluorescence in situ hybridization (FISH) analysis. To overcome this challenge, we developed a deep learning-based automatic 3D segmentation algorithm, called Starfinity. It first predicts its cell center probability and its radial distances to the nearest cell borders for each pixel. It then aggregates pixel affinity maps from the densely predicted distances and applies a watershed segmentation on the affinity maps using the thresholded center probability as seeds.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -3896,7 +4012,7 @@ Licensed CC-BY-4.0
 
 This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -3930,6 +4046,8 @@ New Contributors
 @mattyrowey made their first contribution in https://github.com/pr4deepr/GutAnalysisToolbox/pull/18
 
 Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v0.6...v0.7
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13739137](https://zenodo.org/records/13739137)
 
@@ -4033,6 +4151,8 @@ G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
 
 [https://doi.org/10.5281/zenodo.15314214](https://doi.org/10.5281/zenodo.15314214)
@@ -4052,7 +4172,7 @@ Licensed CC-BY-4.0
 
 Download RDF Package
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -4083,7 +4203,7 @@ This dataset is provided together with the following preprint and if you use it,
 
 Estibaliz G&oacute;mez-de-Mariscal, Hasini Jayatilaka, &Ouml;zg&uuml;n &Ccedil;i&ccedil;ek, Thomas Brox, Denis Wirtz, Arrate Mu&ntilde;oz-Barrutia, *Search for temporal cell segmentation robustness in phase-contrast microscopy videos*, arXiv 2021 (arXiv:2112.08817)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -4106,6 +4226,8 @@ Licensed CC-BY-4.0
 
 Results of the project "Conversion of KNIME image analysis workflows to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01 Mar 2024)
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
 
@@ -4158,6 +4280,8 @@ NOTE: This dataset was used to automatically generate label images in the follow
 
 NOTE: This dataset was used to train the cellpose models in the following Zenodo entry: https://doi.org/10.5281/zenodo.6140111
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6139958](https://zenodo.org/records/6139958)
 
 [https://doi.org/10.5281/zenodo.6139958](https://doi.org/10.5281/zenodo.6139958)
@@ -4175,7 +4299,7 @@ Licensed CC-BY-4.0
 
 In this workshop a fully integrated data analysis solutions employing OMERO and commonly applied image analysis tools (e.g., CellProfiler, Fiji) using existing python interfaces (OMERO Python language bindings, ezOmero, Cellprofiler Python API) is presented.
 
-Tags: OMERO, Data Analysis, Bioimage Analysis
+Tags: OMERO, Data Analysis, Bioimage Analysis, Include In Dalia
 
 Content type: Collection
 
@@ -4194,7 +4318,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -4215,7 +4339,7 @@ Licensed CC-BY-4.0
 
 Overview about decision making and how to influence decisions in the bio-image analysis software context.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Presentation
 
@@ -4238,6 +4362,8 @@ Licensed CC-BY-4.0
 
 Human brain tissue with DAB immunostaining. Image acquired by BF microscopy in&nbsp; Zeiss Axioscan at 20x.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/11234863](https://zenodo.org/records/11234863)
 
 [https://doi.org/10.5281/zenodo.11234863](https://doi.org/10.5281/zenodo.11234863)
@@ -4257,7 +4383,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -4310,6 +4436,8 @@ java.lang.NullPointerException
 You can find one example file at&nbsp;this link&nbsp;1.
 Thanks for your help !Best,Laurent
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/11637422](https://zenodo.org/records/11637422)
 
 [https://doi.org/10.5281/zenodo.11637422](https://doi.org/10.5281/zenodo.11637422)
@@ -4327,7 +4455,7 @@ Licensed CC-BY-4.0
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: Licensing, Research Data Management
+Tags: Licensing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -4342,7 +4470,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -4362,6 +4490,8 @@ Licensed CC-BY-4.0
 
 
 Workshop presentation from XXXIV Foro de Investigaci&oacute;n en Salud 2025.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/17080219](https://zenodo.org/records/17080219)
 
@@ -4394,6 +4524,8 @@ Abstract: This webinar will introduce the Galaxy Image Analysis Community and hi
 
 &nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14944040](https://zenodo.org/records/14944040)
 
 [https://doi.org/10.5281/zenodo.14944040](https://doi.org/10.5281/zenodo.14944040)
@@ -4411,7 +4543,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Tutorial, Workflow
 
@@ -4434,6 +4566,8 @@ Depositing data in quality data repositories is one crucial step towards FAIR (F
 To guide you in the selection of appropriate repositories, we have created an overview of available repositories for different types of image data, including their scope and requirements. This decision tree guides you through questions about your data and directs you to the correct repository, and/or provides instructions for further processing to meet the critera of the repositories.&nbsp;
 Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data. These versions with three trees can be used for web-view. Update: also the editable versions in powerpoint format (.pptx) are now provided. Please be aware that opening the versions with another program might lead to shifted formatting.
 Update: we now also provide ready-to-print versions designed to be printed on A3 format. One page shows the open bioimaging data tree and one page combines the preclinical and human imaging data trees. Also the editable versions of these are provided.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
 
@@ -4460,6 +4594,8 @@ I have also tried opening this file on multiple computers with multiple versions
 Any advice would be greatly appreciated I am panicking a bit because this is a few months worth of data I am suddenly not able to analyze.&nbsp;
 Please let me know if there's anything else needed to help figure this out.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16921650](https://zenodo.org/records/16921650)
 
 [https://doi.org/10.5281/zenodo.16921650](https://doi.org/10.5281/zenodo.16921650)
@@ -4484,6 +4620,8 @@ Contributions:Martin SCH&Auml;TZ:&nbsp; &nbsp; &nbsp; &nbsp;Coding, tool testing
 The work was funded by the Ministry of Education, Youth and Sports by grant &lsquo;Development of Advanced Computational Algorithms for evaluating post-surgery rehabilitation&rsquo; number LTAIN19007. The work was also supported from the grant of Specific university research &ndash; grant No FCHI 2022-001.
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15827771](https://zenodo.org/records/15827771)
 
 [https://doi.org/10.5281/zenodo.15827771](https://doi.org/10.5281/zenodo.15827771)
@@ -4502,6 +4640,8 @@ Licensed CC-BY-4.0
 
 
 When using bioformats the images are not scaled correctly. The problem arises with low magnifications where the lengths in the metadata are given in &micro;m (not in nm). Attached are two pictures. Only with the picture with the ending &ldquo;Correct_scale_bar&rdquo; the import is working correctly. One issue might be that the metadata information of the images are stored in iso-8859-1&nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16760282](https://zenodo.org/records/16760282)
 
@@ -4532,6 +4672,8 @@ A discussion thread is already open on that topic.
 Bio-Formats version : 8.0.1
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14777242](https://zenodo.org/records/14777242)
 
 [https://doi.org/10.5281/zenodo.14777242](https://doi.org/10.5281/zenodo.14777242)
@@ -4552,7 +4694,7 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE and presents tools of research data management in microscopy to increase the FAIRness of data at the Microscopy Conference in Karlsruhe 2025. On site, it is presented in booth 57 for joint introduction of the national research data infrastructure (NFDI) consortia matWERK, FAIRmat and NFDI4BIOIMAGE.
 C.W. is funded by the German consortium NFDI4BIOIMAGE (Deutsche Forschungsgemeinschaft, grant number NFDI 46/1, project number 501864659).
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/17014253](https://zenodo.org/records/17014253)
 
@@ -4571,7 +4713,7 @@ Licensed CC-BY-4.0
 
 Open source software (OSS) is essential for advancing scientific discovery, particularly in biomedical research, yet funding to support these vital tools has been limited. The Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program has significantly contributed to this field by providing $51.8 million in funding over five years to support the maintenance, growth, and community engagement of critical OSS tools. The program has impacted scientific OSS projects by improving their technical outputs, community building, and sustainability practices, and fostering collaborations within the OSS community. Additionally, EOSS funding has enhanced diversity, equity, and inclusion within the OSS community, although changes in principal investigator demographics were not observed. The funded projects have had a substantial impact on biomedical research by improving the usability and accessibility of scientific software, which has led to increased adoption and advancements in various biomedical fields.
 
-Tags: Open Source Software, Funding, Sustainability
+Tags: Open Source Software, Funding, Sustainability, Exclude From Dalia
 
 Content type: Publication
 
@@ -4592,6 +4734,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/11503289](https://zenodo.org/records/11503289)
 
 [https://doi.org/10.5281/zenodo.11503289](https://doi.org/10.5281/zenodo.11503289)
@@ -4608,6 +4752,8 @@ Published 2024-04-10
 Licensed CC-BY-4.0
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13380289](https://zenodo.org/records/13380289)
 
@@ -4631,6 +4777,8 @@ To enhance and foster OS, the Team provides individual consultations, services a
 Furthermore, the Team had the leading role in creating the University of Konstanz&rsquo; OS Policy, one of the first ones passed by a German university. This policy stands out because it encompasses various OS domains. It demands, among other things, that text publications be made OA and that research data be managed according to relevant subject-specific standards. If permissible and reasonable, it demands that research data should be made publicly available at the earliest possible time. Along these lines, the policy has a large impact on how the library handles closed access books and subscription-based journals. As a consequence, OA is pursued wherever possible, leading to the highest OA quota of all German universities. In that sense, the Team is a crucial driving force of OS in the University of Konstanz, which ties in with the library&rsquo;s major role of open research transformation.
 Beyond the University of Konstanz, the Team is involved in a range of national and international projects collaborating with other libraries. On a national level, they lead the project open.access-network which provides an information platform for researchers and librarians and connects the German-speaking OA community through events like bar camps. The project KOALA-AV supports libraries in establishing consortial solutions for financing Diamond OA publications. Moreover, the Team is involved in the federal state initiative for RDM in Baden-W&uuml;rttemberg (bwFDM). Here, the Team is in charge of forschungsdaten.info, the German-speaking countries&rsquo; leading RDM information platform, which will be offered in English within the next years. Internationally, the Team cooperates with librarians and other OS professionals from the European Reform University Alliance (ERUA) and the European University for Well-Being (EUniWell), establishing formats for best practice exchange, such as monthly OS Meet-Ups.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12699637](https://zenodo.org/records/12699637)
 
 [https://doi.org/10.5281/zenodo.12699637](https://doi.org/10.5281/zenodo.12699637)
@@ -4649,6 +4797,8 @@ Licensed CC-BY-4.0
 
 
 Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei (Lesson_04)Video Recording (in Mandarin): https://www.youtube.com/watch?v=uheSMSENnzE
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/15070246](https://zenodo.org/records/15070246)
 
@@ -4669,6 +4819,8 @@ Licensed CC-BY-4.0
 
 The slides were presented during the Macro programming with ImageJ workshop (https://www.16mcm.cz/programme/#workshops) which was part of the&nbsp;16th Multinational Congress on Microscopy. It is a collection and &quot;reshuffle&quot; of slides originally made by Robert Haase on topics from Image Analysis in general up to&nbsp;User-friendly GPU-accelerated bio-image analysis and CLIJ2.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/7215114](https://zenodo.org/records/7215114)
 
 [https://doi.org/10.5281/zenodo.7215114](https://doi.org/10.5281/zenodo.7215114)
@@ -4687,6 +4839,8 @@ Licensed CC-BY-4.0
 
 
 Internal ALM BioImage Analysis Workshop 2023OverviewThe Internal ALM BioImage Analysis Workshop 2023, organized by the Advanced Light Microscopy i3S scientific platform, was a comprehensive 2.5-day internal workshop dedicated to open-source BioImage Analysis. The event combined informative presentations with hands-on sessions, utilizing the EMBL Bioimage Analysis Desktop (BAND) Platform. The used sources for datasets and presentations are in Notes.Workshop ProgramDay 1: Foundations of BioImage AnalysisIntroduction to Research Data Management [00i3S_Data_Management_2023_MP_Slido]: An exploration of data management, naming conventions, and ethical considerations in BioImage Analysis and image manipulation. Referencing content from the NEUBIASAcademy@Home Webinar: "In Defense of Image Data &amp; Analysis Integrity."Interactive Image Data Flow Graphs with CLIJ2 in FIJI [01i3S_Interactive Image Data Flow Graphs]: A hands-on session introducing CLIJ2 in FIJI, with a focus on practical applications. Relevant datasets were explored during the presentation, and are described in notes.Day 2: Advanced Techniques in BioImage AnalysisNoise2Void Denoising with CSBdeep in FIJI [02i3S_IMCF_noise2void_EN] : Exploring the Noise2Void denoising approach using the CSBdeep FIJI plugin, with hands-on examples using data from the juglab/n2v GitHub repository.StarDist for Fluorescence Nuclei Segmentation [03i3S_schatzm_stardist_21] : An introduction to StarDist through the FIJI StarDist plugin, with hands-on experience using the BBBC004 dataset.Introduction to Napari 2023 [04i3S_Introduction to Napari 2023] : A hands-on session introducing Napari and its connection with CLIJ2. The datasets used were detailed in the presentation.Ilastik Pixel Classification and BioImage Model Zoo [05i3S_schatzm_Ilastik_woHandOn_PixObj_2023]: Hands-on exploration of Ilastik with a focus on pixel and object classification. Neural networks from the BioImage Model Zoo were also introduced.BioImage Model Zoo Possibilities [06i3S_BioImageModelZoo-Kreshuk]: An overview of the concept of BioImage Model Zoo and its potential applications.DeepImageJ Plugin with Hands-on on Stardist and Unet NNs [07i3S_deepImageJ-Gomez_de_Mariscal]: Introduction to the deepImageJ plugin, capable of utilizing models from the BioImage Model Zoo. The hands-on session focused on Stardist and Unet Neural Networks.Day 3: Practical Applications and Advanced TrainingHands-on with Ilastik Neural Networks: Utilizing BioImage Model Zoos, participants engaged in hands-on exercises using the Ilastik Multicut method from the AdvanceImageAnalysisEMBO2023 GitHub repository.Hands-on with Cellpose 2.0: Practical sessions included applying pre-trained models with the Simple Visual Cellpose Cheat Sheet. Participants also had the opportunity to train new models using original Cellpose datasets and larger data from BBBC019 and BBBC003 datasets.&nbsp;This workshop would not be possible without the previous excellent work of many people involved in the Network of European BioImage Analysts - NEUBIAS and without my attendance at the EMBO Practical Course Advanced methods in bioimage analysis .
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/10205578](https://zenodo.org/records/10205578)
 
@@ -4712,6 +4866,8 @@ Filtering possible for organ system and contrasted structure/cell type in both d
 Source publications are listed by DOI.
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12166710](https://zenodo.org/records/12166710)
 
 [https://doi.org/10.5281/zenodo.12166710](https://doi.org/10.5281/zenodo.12166710)
@@ -4733,7 +4889,7 @@ omero-vitessce: an OMERO.web plugin for multi-modal data viewing.
 OMERO is the most used research data management system (RDM) in the bioimaging domain, and has been adopted as a centralized RDM solution by several academic and research institutions. A main reason for this is the ability to directly view and annotate images from a web-based interface. However, this feature of OMERO is currently underpowered for the visualization of very large or multimodal datasets. These datasets, are becoming a more and more common foundation for biological and biomedical studies, due to the recent developments in imaging, and sequencing technologies which enabled their application to spatial-omics. In order to begin to provide this multimodal-data capability to OMERO, we developed omero-vitessce (https://github.com/NFDI4BIOIMAGE/omero-vitessce/tree/main), a new OMERO.web plugin for viewing data stored in OMERO with the Vitessce (http://vitessce.io/) multimodal data viewer. omero-vitessce can be installed as an OMERO.web plugin with PiPy (https://pypi.org/project/omero-vitessce/), and allows users to set up interactive visualizations of their images of cells and tissues through interactive plots which are directly linked to the image. This enables the visual exploration of bioimage-analysis results and of multimodal data such as those generated through spatial-omics experiments. The data visualization is highly customizable and can be configured not only through custom configuration files, but also with the graphical interface provided by the plugin, thus making omero-vitessce a highly user-friendly solution for multimodal data viewing. most biological datasets. We plan to extend the interoperability of omero-vitessce with the OME-NGFF and SpatialData file formats to leverage the efficiency of these cloud optimized formats.
 The three files in this Zenodo Record are all the same poster saved in different format all with high resolution images.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/14832855](https://zenodo.org/records/14832855)
 
@@ -4750,7 +4906,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Imagej, Bioimage Analysis
+Tags: Python, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -4771,7 +4927,7 @@ Licensed CC-BY-4.0
 
 This course introduces life science researchers to high-performance computing (HPC), covering essential concepts and providing hands-on experience using the UK’s ARCHER2 supercomputing service. It aims to help participants understand how HPC can benefit their research and prepare them to use it effectively for tasks like biomolecular simulation.
 
-Tags: High Performance Computing
+Tags: High Performance Computing, Include In Dalia
 
 Content type: Github Repository
 
@@ -4794,7 +4950,7 @@ These slides were presented during an online introductory session to OMERO for t
 The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
 
@@ -4815,7 +4971,7 @@ Licensed CC-BY-4.0
 
 Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
 
-Tags: Research Data Management, Open Science
+Tags: Research Data Management, Open Science, Include In Dalia
 
 Content type: Slides
 
@@ -4838,7 +4994,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -4876,7 +5032,7 @@ See cross reference:
 10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
 10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
 
@@ -4913,7 +5069,7 @@ See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
@@ -4953,6 +5109,8 @@ See cross reference:
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/12547566](https://zenodo.org/records/12547566)
 
 [https://doi.org/10.5281/zenodo.12547566](https://doi.org/10.5281/zenodo.12547566)
@@ -4979,7 +5137,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, FAIR-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo, Include In Dalia
 
 Content type: Slides
 
@@ -5003,6 +5161,8 @@ Licensed CC-BY-4.0
 Im Rahmen von FDM-SH Kontor &ndash; einem Projekt, das im Kontext der AG Kompetenzentwicklung von der Landesinitiative FDM-SH durchgef&uuml;hrt wurde - haben wir zum Ziel, eine kuratierte Materialbasis f&uuml;r Fortbildungen und Schulungen zu schaffen. Dies stellte uns vor die Herausforderung, festzulegen, wie die Materialien ausgew&auml;hlt werden sollen.
 Dieser Kriterienkatalog ist ein Versuch, erste Qualit&auml;tskriterien (insbesondere hinsichtlich der Nachnutzbarkeit und den FAIR-Prinzipien) f&uuml;r Materialien auf Basis von Metadaten zu erstellen. Dabei wurde das Vorgehen des Open Science Learning Gates (https://zenodo.org/records/12772135), als Vorbild genommen. Neben dem Metadatenschema der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) haben wir auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zur&uuml;ckgegriffen.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14729452](https://zenodo.org/records/14729452)
 
 [https://doi.org/10.5281/zenodo.14729452](https://doi.org/10.5281/zenodo.14729452)
@@ -5021,6 +5181,8 @@ Licensed CC-BY-4.0
 
 
 First updates of LEO (Linking ELN with OMERO)
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/11146807](https://zenodo.org/records/11146807)
 
@@ -5043,7 +5205,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -5068,7 +5230,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -5089,6 +5251,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14510432](https://zenodo.org/records/14510432)
 
 [https://doi.org/10.5281/zenodo.14510432](https://doi.org/10.5281/zenodo.14510432)
@@ -5107,6 +5271,8 @@ Licensed CC-BY-4.0
 
 
 The files contained in this repository are cropped versions of Imaris demo images compressed with LZ4.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14197622](https://zenodo.org/records/14197622)
 
@@ -5127,7 +5293,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
-Tags: Globias, Artificial Intelligence
+Tags: Globias, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
@@ -5162,6 +5328,8 @@ Image size: 1024x1024x62 (Pixel size: 0.152 x 0.152 x 1 micron), 2 channels.
 
 NOTE : Some tiles were annotated and used to train a StarDist3D model (https://doi.org/10.5281/zenodo.6645978 &nbsp;&nbsp;)
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6646128](https://zenodo.org/records/6646128)
 
 [https://doi.org/10.5281/zenodo.6646128](https://doi.org/10.5281/zenodo.6646128)
@@ -5183,6 +5351,8 @@ This repository contains the imaging data for the laser perturbation experiments
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15876646](https://zenodo.org/records/15876646)
 
 [https://doi.org/10.5281/zenodo.15876646](https://doi.org/10.5281/zenodo.15876646)
@@ -5201,6 +5371,8 @@ Licensed CC-BY-4.0
 
 
 The advent of large language models (LLMs) such as ChatGPT changes the way we analyse images. We ask LLMs to generate code, apply it to images and spend less time on learning implementation details. This also has impact on how we learn image analysis. While coding skills are still required, we can use LLMs to explain code, make proposals how to analyse the images and yet still decide how the analysis is done.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
 
@@ -5225,6 +5397,8 @@ Diese Ausgabe enth&auml;lt ein zus&auml;tzliches Kapitel (4.2) mit konkreten Pra
 Dieser Artikel wurde ins Englische &uuml;bersetzt:
 Heber, M., Jakob, M., Landwehr, M., Leendertse, J., M&uuml;ller, M., Schneider, G., von Suchodoletz, D., &amp; Ulrich, R. (2024). A Users' Guide to Economical Digital Data Usage. Zenodo. https://doi.org/10.5281/zenodo.13752220
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/11445843](https://zenodo.org/records/11445843)
 
 [https://doi.org/10.5281/zenodo.11445843](https://doi.org/10.5281/zenodo.11445843)
@@ -5244,7 +5418,7 @@ Licensed CC-BY-4.0
 
 As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
 
-Tags: Research Data Management, FAIR-Principles
+Tags: Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Publication
 
@@ -5267,6 +5441,8 @@ Preprint in submission process to GigaScience journal
 Abstract:
 European Life Science Research Infrastructures (LS-RIs), one of the five major RI Science Clusters in Europe, were established to provide access to cutting-edge technologies to the scientific community. Individually, and collectively as the LS-RI cluster, they contribute to the development of the European Open Science Cloud (EOSC), under the aegis of the EOSC Federation. They are actively involved in the design and implementation of Competence Centres (CCs). These aim to increase the accessibility of domain-specific knowledge and tools, enhance interoperability, facilitate sharing and harmonisation of procedures, and promote Open Science and FAIR (Findable, Accessible, Interoperable, Reusable) practices. In this paper, we report a landscape mapping of the existing resources that formed the basis for the construction of CCs. We describe the possible design of CCs and their articulation with the LS-RIs. We focus on community-based ideas and recommendations to increase the potential of CCs to address long-standing challenges in sustainability, governance, scalability, and interoperability of Open Science within EOSC and the European Research Area (ERA) more generally.This paper provides a description of the nascent LS CCs, built following a survey of needs and services of existing LS-RI communities. When fully implemented, the LS CCs will serve as dynamic hubs to foster innovation, contribute to the EOSC&rsquo;s future FAIR web of data, and support ongoing developments of the EOSC Federation. They will act as drivers of collaborative and impactful LS research in Europe and beyond. We explore the underlying challenges, and propose solutions, to ensure that the establishment of CCs will add value to the LS RI community, and to the EOSC, in a sustainable way.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15798751](https://zenodo.org/records/15798751)
 
 [https://doi.org/10.5281/zenodo.15798751](https://doi.org/10.5281/zenodo.15798751)
@@ -5287,6 +5463,8 @@ Licensed CC-BY-4.0
 This repository contains the lightsheet and in situ hybridization imaging data for the manuscript:
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/15876638](https://zenodo.org/records/15876638)
 
@@ -5317,6 +5495,8 @@ Image metadata contains extra information including voxel sizes.
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/1472859](https://zenodo.org/records/1472859)
 
 [https://doi.org/10.5281/zenodo.1472859](https://doi.org/10.5281/zenodo.1472859)
@@ -5333,6 +5513,8 @@ Published 2024-03-12
 Licensed CC-BY-4.0
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10808486](https://zenodo.org/records/10808486)
 
@@ -5353,7 +5535,7 @@ Licensed CC-BY-4.0
 
 Applied plasma research involves several disciplines such as physics, medicine and biology to solve application-oriented problems, often generating large and heterogeneous experimental data sets. The descriptions and metadata describing these interdisciplinary scientific investiga-tions is stored in distributed systems (e.g., physical laboratory notebooks or electronic labora-tory notebooks (ELN) like eLabFTW [1]), and the experimental data are either stored locally within the laboratories or on centralized institutional storage systems. As a result, the collected information often has to be tediously assembled for processing into publications. The workflow represented in Figure 1 addresses this suboptimal situation and promotes the combination of the image database OMERO [2], the ELN system eLabFTW, the research data management tool Adamant [3] and Python scripts for handling microscopy images in plasma life science and plasma medicine [4]. This workflow highlights how the developments from the NFDI4BIOIMAGE consortium can be brought into practical applications by addressing the specific demands of plasma science, where domain-specific metadata is essential for effective data interpretation and reuse. It showcases the benefits of FAIR [5] metadata combining do-main-specific requirements with method-specific solutions. Similar to most imaging workflows, image analysis in plasma research requires metadata from several sections of the experiment. Moreover, the plasma-related metadata are essential for the experimental context and must be included in the analysis, e.g. to describe the influence of plasma on the treated sample. Therefore, the metadata schema Plasma-MDS [6] is adapted to collect plasma-related metadata, such as information on the plasma species having a major impact on the treated samples. Alongside Plasma-MDS, the Recommended Metadata for Bio-logical Images (REMBI) standard [7] is used for the biological metadata such as the sample preparation and treatment procedures. The collection of these metadata is realized using Adamant, which enables the beginner-friendly collection of structured metadata. The tool presents JSON schemas in easy-to-read and easy-to-fill HTML forms, enabling metadata validation. Once completed and validated, the metadata are uploaded directly to eLabFTW using Adamant's workflow functionalities. The images from the treated samples are uploaded to OMERO by OMERO.insight and afterwards automatically annotated via Python scripts. These scripts take previously collected metadata from the related eLabFTW experiments and the microscope description metadata collected by the Micro Meta App [8], which are also stored in eLabFTW. The metadata is categorized and annotated according to the various data organizational levels within OMERO, specifically fo-cusing on project and dataset hierarchies, as well as screens that are composed of plates, which in turn contain wells. Screens resemble microwell plates, commonly used in a variety of biological experiments. The hieraic organization of metadata significantly enhances the ease of reusing images and associated metadata for subsequent processing and analysis. By efficiently distributing and reducing large metadata sets to an acceptable level, while simultaneously eliminating redun-dancies, this approach facilitates straightforward analyses with tools like ImageJ [9] and FIJI [10], thanks to the close association of metadata with the images themselves. In summary, one of the application-specific developments within the NFDI4BIOIMAGE consor-tium is presented, which contributes to the adoption of the FAIR principles in laboratory envi-ronments. Further work will address the integration of ontologies for the semantic description of data and metadata.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Exclude From Dalia
 
 [https://zenodo.org/records/17092348](https://zenodo.org/records/17092348)
 
@@ -5392,6 +5574,8 @@ PythonCode.txt : code ran to transform output results from QuPath to final resul
 
 [1] Bankhead, P. et al.&nbsp;QuPath: Open source software for digital pathology image analysis.&nbsp;Scientific Reports&nbsp;(2017). https://doi.org/10.1038/s41598-017-17204-5
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/6523649](https://zenodo.org/records/6523649)
 
 [https://doi.org/10.5281/zenodo.6523649](https://doi.org/10.5281/zenodo.6523649)
@@ -5421,7 +5605,7 @@ The files are uploaded in &#39;.npy&#39; format. The files of LyNSeC 1 (x_l1.npy
 
 Additionally, we also make our HoVer-Net-based pre-trained nuclei segmentation and classification models available (he.tar for H&amp;E images and ihc.tar for IHC images).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -5442,7 +5626,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 
 Content type: Publication
 
@@ -5459,7 +5643,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Deployment, Python
+Tags: Deployment, Python, Include In Dalia
 
 Content type: Documentation
 
@@ -5476,7 +5660,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -5507,6 +5691,8 @@ Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FA
 
 Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15837532](https://zenodo.org/records/15837532)
 
 [https://doi.org/10.5281/zenodo.15837532](https://doi.org/10.5281/zenodo.15837532)
@@ -5526,6 +5712,8 @@ Licensed CC-BY-4.0
 
 This imagej macro analyses the reporter intensity activity and expression domain in EPI aggregates and Gastruloids.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7409423](https://zenodo.org/records/7409423)
 
 [https://doi.org/10.5281/zenodo.7409423](https://doi.org/10.5281/zenodo.7409423)
@@ -5541,7 +5729,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -5564,7 +5752,7 @@ This dataset contains training data for segmenting membranes in cryo-electron to
 
 More details will follow.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -5587,6 +5775,8 @@ Licensed CC-BY-4.0
 
 In a Memorandum of Understanding, the undersigned consortia agree to work together to enhance their support capabilities (helpdesks) to meet the needs of interdisciplinary research in&nbsp;Earth-, Chemical and Life Sciences.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
 
 [https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
@@ -5605,6 +5795,8 @@ Licensed CC-BY-4.0
 
 
 Short presentation given at at PoL BioImage Analysis Symposium Dresden 2023
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/8314968](https://zenodo.org/records/8314968)
 
@@ -5625,7 +5817,7 @@ Licensed CC-BY-4.0
 
 Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
@@ -5642,7 +5834,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -5672,7 +5864,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Slides
 
@@ -5693,7 +5885,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -5714,7 +5906,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -5737,6 +5929,8 @@ This repository contains the code and simulations for the manuscript:
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15869598](https://zenodo.org/records/15869598)
 
 [https://doi.org/10.5281/zenodo.15869598](https://doi.org/10.5281/zenodo.15869598)
@@ -5756,7 +5950,7 @@ Licensed CC-BY-4.0
 
 The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
 
-Tags: Data Stewardship, FAIR-Principles, Metadata
+Tags: Data Stewardship, FAIR-Principles, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -5779,6 +5973,8 @@ Licensed CC-BY-4.0
 
 The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
 [https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
@@ -5799,6 +5995,8 @@ Licensed CC-BY-4.0
 A simple workflow to detect Soma and neurite paths, from light microscopy&nbsp;datasets.
 
 Using open-source tools for beginners.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/6834214](https://zenodo.org/records/6834214)
 
@@ -5821,6 +6019,8 @@ This presentations describes Multi-Template-Matching, a novel method extending o
 
 The project was part of the PhD project of Laurent Thomas between 2017 and 2020, under supervision of Jochen Gehrig. The project was hosted at ACQUIFER Imaging with collaboration of the medical university of Heidelberg, and part of the ImageInLife Horizon2020 ITN (PhD program).&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/6554166](https://zenodo.org/records/6554166)
 
 [https://doi.org/10.5281/zenodo.6554166](https://doi.org/10.5281/zenodo.6554166)
@@ -5842,6 +6042,8 @@ Image-based data set of a post-mortem lung sample from a non-COVID-related pneum
 
 Each image shows the same field of view (FOV), sequentially stained with the depicted fluorescence-labelled antibodies, including surface proteins, intracellular proteins and transcription factors. Images contain 2024 x 2024 pixels and are generated using an inverted wide-field fluorescence microscope with a 20x objective, a lateral resolution of 325 nm and an axial resolution above 5 &micro;m. Images have&nbsp;been normalized and intensities adjusted.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7447491](https://zenodo.org/records/7447491)
 
 [https://doi.org/10.5281/zenodo.7447491](https://doi.org/10.5281/zenodo.7447491)
@@ -5859,7 +6061,7 @@ Licensed CC-BY-4.0
 
 Material for the I2K 2024 "Multiplexed tissue imaging - tools and approaches" workshop
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides, Workshop
 
@@ -5882,7 +6084,7 @@ Licensed CC-BY-4.0
 
 In these slides I introducemy journey through teaching bioimage analysis courses in different formats, from in person courses to online material. I have an overview of different training formats and comparing these for different audiences.&nbsp;
 
-Tags: Teaching
+Tags: Teaching, Include In Dalia
 
 Content type: Slides
 
@@ -5905,6 +6107,8 @@ Licensed CC-BY-4.0
 
 This presentation was given at the 2nd MPG-NFDI Workshop on April 18th.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/11031747](https://zenodo.org/records/11031747)
 
 [https://doi.org/10.5281/zenodo.11031747](https://doi.org/10.5281/zenodo.11031747)
@@ -5922,7 +6126,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -5943,7 +6147,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -5964,6 +6168,8 @@ Licensed CC-BY-4.0
 
 Bioimaging refers to a collection of methods to visualize the internal structures and mechanisms of living organisms. The fundamental tool, the microscope, has enabled seminal discoveries like that of the cell as the smallest unit of life, and continues to expand our understanding of biological processes. Today, we can follow the interaction of single molecules within nanoseconds in a living cell, and the development of complete small organisms like fish and flies over several days starting from the fertilized egg. Each image pixel encodes multiple spatiotemporal and spectral dimensions, compounding the massive volume and complexity of bioimage data. Proper handling of this data is indispensable for analysis and its lack has become a growing hindrance for the many disciplines of the life and biomedical sciences relying on bioimaging. No single domain has the expertise to tackle this bottleneck alone.
 As a method-specific consortium, NFDI4BIOMAGE seeks to address these issues, enabling bioimaging data to be shared and re-used like they are acquired, i.e., independently of disciplinary boundaries. We will provide solutions for exploiting the full information content of bioimage data and enable new discoveries through sharing and re-analysis. Our RDM strategy is based on a robust needs analysis that derives not only from a community survey but also from over a decade of experience in German BioImaging, the German Society for Microscopy and Image Analysis. It considers the entire lifecycle of bioimaging data, from acquisition to archiving, including analysis and enabling re-use. A foundational element of this strategy is the definition of a common, cloud-compatible, and interoperable digital object that bundles binary images with their descriptive and provenance metadata. With members from plant biology to neuroscience, NFDI4BIOIMAGE will champion the standardization of bioimage data to create a framework that answers discipline-specific needs while ensuring communication and interoperability with data types and RDM systems across domains. Integration of bioimage data with, e.g., omics data as the basis for spatial omics, holds great promise for fields such as cancer medicine. Unlocking the full potential of bioimage data will rely on the development and broad availability of exceptional analysis tools and training sets. NFDI4BIOIMAGE will make these accessible and usable including cutting-edge AI-based methods in scalable cloud environments. NFDI4BIOIMAGE intersects with multiple NFDI consortia, most prominently with GHGA for linking image and genomics data and with DataPLANT on the definition of FAIR data objects. Last but not least, NFDI4BIOIMAGE is internationally well connected and represents the opportunity for German scientists to keep path with and have a voice in several international initiatives focusing on the FAIRification of bioimage data as one of the main challenges for the advancement of knowledge in the life and biomedical sciences.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/13168693](https://zenodo.org/records/13168693)
 
@@ -6054,6 +6260,8 @@ Submitted via NFDI4Biodiversity
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16980661](https://zenodo.org/records/16980661)
 
@@ -6183,6 +6391,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16993059](https://zenodo.org/records/16993059)
 
@@ -6455,6 +6665,8 @@ Submitted via NFDI4BIOIMAGE
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16979744](https://zenodo.org/records/16979744)
 
 [https://doi.org/10.5281/zenodo.16979744](https://doi.org/10.5281/zenodo.16979744)
@@ -6637,6 +6849,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16993955](https://zenodo.org/records/16993955)
 
@@ -6834,6 +7048,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16980217](https://zenodo.org/records/16980217)
 
 [https://doi.org/10.5281/zenodo.16980217](https://doi.org/10.5281/zenodo.16980217)
@@ -7022,6 +7238,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16992904](https://zenodo.org/records/16992904)
 
 [https://doi.org/10.5281/zenodo.16992904](https://doi.org/10.5281/zenodo.16992904)
@@ -7099,6 +7317,8 @@ Submitted via FAIRagro
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16992716](https://zenodo.org/records/16992716)
 
@@ -7221,6 +7441,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 &nbsp;
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/17098115](https://zenodo.org/records/17098115)
 
@@ -7442,6 +7664,8 @@ Submitted via NFDI4Biodiversity
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16991961](https://zenodo.org/records/16991961)
 
@@ -7719,6 +7943,8 @@ Submitted via NFDI4Immuno
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16993649](https://zenodo.org/records/16993649)
 
 [https://doi.org/10.5281/zenodo.16993649](https://doi.org/10.5281/zenodo.16993649)
@@ -7851,6 +8077,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16993297](https://zenodo.org/records/16993297)
 
@@ -8019,6 +8247,8 @@ Submitted via NFDI4BIOIMAGE
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16993178](https://zenodo.org/records/16993178)
 
 [https://doi.org/10.5281/zenodo.16993178](https://doi.org/10.5281/zenodo.16993178)
@@ -8039,7 +8269,7 @@ Licensed CC-BY-4.0
 These illustrations were contracted by the Heinrich Heine University D&uuml;sseldorf in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.AttributionPlease include an attribution similar to: "Data annoation matters", NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by Henning Falk, Zenodo,&nbsp;https://doi.org/10.5281/zenodo.14186100, is used under a CC-BY 4.0 license. Modifications to this illustration include cropping.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/14186101](https://zenodo.org/records/14186101)
 
@@ -8056,7 +8286,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Publication
 
@@ -8073,7 +8303,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -8094,7 +8324,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -8115,7 +8345,7 @@ Licensed CC-BY-4.0
 
 Raw microscopy image from the NFDI4Bioimage calendar October 2024
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/13837146](https://zenodo.org/records/13837146)
 
@@ -8235,6 +8465,8 @@ Image area
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14937632](https://zenodo.org/records/14937632)
 
 [https://doi.org/10.5281/zenodo.14937632](https://doi.org/10.5281/zenodo.14937632)
@@ -8258,6 +8490,8 @@ Workshop on light microscopyJune 26th to 28th, 2024
 Outreach 9June 29th, 2024
 Expanding Global Access to BioimagingConnecting the Mexican Bioimaging Community
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/12584729](https://zenodo.org/records/12584729)
 
 [https://doi.org/10.5281/zenodo.12584729](https://doi.org/10.5281/zenodo.12584729)
@@ -8277,6 +8511,8 @@ Licensed CC-BY-4.0
 
 this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp; It is in RGB and it is a stack of hundreds of Z layers
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15579371](https://zenodo.org/records/15579371)
 
 [https://doi.org/10.5281/zenodo.15579371](https://doi.org/10.5281/zenodo.15579371)
@@ -8295,6 +8531,8 @@ Licensed CC-BY-4.0
 
 
 This dataset contains 4 .nd2 image files of pollen grains captured using a Nikon 80i microscope. The files include both the original full-frame images and cropped Regions of Interest (ROIs) extracted from them. All images are in RGB format and include multiple Z-stack layers.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/15493140](https://zenodo.org/records/15493140)
 
@@ -8316,6 +8554,8 @@ Licensed CC-BY-4.0
 Related to github issue: https://github.com/ome/bioformats/issues/3517
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16628927](https://zenodo.org/records/16628927)
 
 [https://doi.org/10.5281/zenodo.16628927](https://doi.org/10.5281/zenodo.16628927)
@@ -8336,6 +8576,8 @@ Licensed CC-BY-4.0
 The poster introduces the consortium NFDI4BIOIMAGE with its central objectives, provides an overview of challenges in bioimage data handling, sharing and analysis and lists support options by the consortium through its data stewardship team.
 It is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659) and has been presented at the conference FDM@Campus held in G&ouml;ttingen September 23-25, 2024.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14006558](https://zenodo.org/records/14006558)
 
 [https://doi.org/10.5281/zenodo.14006558](https://doi.org/10.5281/zenodo.14006558)
@@ -8355,7 +8597,7 @@ Licensed CC-BY-4.0
 
 Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
 
-Tags: Workflow Engine
+Tags: Workflow Engine, Exclude From Dalia
 
 Content type: Slides
 
@@ -8378,7 +8620,7 @@ Licensed CC-BY-4.0
 
 A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -8393,7 +8635,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Documentation
 
@@ -8410,7 +8652,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -8433,7 +8675,7 @@ Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gid
 Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
@@ -8452,6 +8694,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
 
 [https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
@@ -8469,7 +8713,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
@@ -8488,7 +8732,7 @@ Licensed CC-BY-4.0
 
 This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
 
-Tags: OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -8505,7 +8749,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -8524,7 +8768,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Video, Collection
 
@@ -8545,7 +8789,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -8568,6 +8812,8 @@ Licensed CC-BY-4.0
 
 Data and access to it are central to each NFDI consortium. However, moving data&nbsp;around is often impractical&mdash;it may be too large, sensitive, or restricted by agreements&nbsp;with, e.g., the funding provider, and copying introduces duplication, versioning issues,&nbsp;and loss of provenance. Rather than bringing data to the researcher, a Desktop-as-a-Service (DaaS) approach can offer researchers interactive, high-performance access in a secure and efficient manner. Driven by the need for seamless workflows and&nbsp;efficient data handling in NFDI4BIOIMAGE, we present a DaaS approach that is&nbsp;broadly applicable across NFDI. It supports diverse use cases, such as standardized&nbsp;virtual training environments for distributed participants (like required in DataPLANT), remote visualization of large-scale HPC datasets, and secure access to sensitive&nbsp;data (BERD)&mdash;all without the overhead of local machine setup and maintenance.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/17103962](https://zenodo.org/records/17103962)
 
 [https://doi.org/10.5281/zenodo.17103962](https://doi.org/10.5281/zenodo.17103962)
@@ -8589,7 +8835,7 @@ Presentation file used in the &nbsp;Open source AI Tools for bioimage analysis w
 Full video recording (in Chinese) is available on YouTube: https://youtu.be/KqwssouW0G0
 This document is part III of the previous document:Chu, W.-C. (2024). Bioimage Analysis with FIJI /ImageJ &amp; Friends workshop (2024) @ICOB, Academia Sinica, Taiwan. Zenodo. https://doi.org/10.5281/zenodo.12803966
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/13284351](https://zenodo.org/records/13284351)
 
@@ -8610,6 +8856,8 @@ Licensed CC-BY-4.0
 
 In the field of radiooncological research, individualised therapy is one of the hot topics at the moment. As a key aspect biologically-adapted therapy is discussed. Therapy adaption based on biological parameters&nbsp;may include tomographic imaging to determine biological properties of the tumour. One often invoked&nbsp;imaging modality is positron emission tomography (PET) using the tracer [18F]-fluoromisonidazole&nbsp;(FMISO) for hypoxia imaging. Hypoxia imaging is of interest, because hypoxic tumours are known to be radiorestistant. Even further, patients with hypoxic tumours have worse prognosis compared to patients&nbsp;with normoxic tumours. Thus, hypoxia imaging appears promising for radiotherapy treatment adaption.&nbsp;For example, volumetric analysis of FMISO PET could deliver additional hypoxia target volumes, which&nbsp;may be irradiated with higher radiation doses to improve the therapeutic effect. However, limited contrast&nbsp;between target volume and background in FMISO PET images interferes image analysis.Established&nbsp;methods for target volume delineation in PET do not allow determination of reliable contours in FMISO PET. To tackle this aspect, this thesis focusses on an earlier developed swarm intelligence based&nbsp;segmentation algorithm for FMISO PET and rather, its optimisation and validation in a clinically relevant&nbsp;setting. In this setting, clinical FMISO PET images were used which were acquired as part of a clinical&nbsp;trial performed at the Clinic and Policlinic for Radiation Therapy and Radiooncology of the University&nbsp;Hospital Carl Gustav Carus Dresden. The segmentation algorithm was applied to these imaging data&nbsp;sets and optimised using a cross-validation approach incorporating reference contours from experienced&nbsp;observers who outlined FMISO PET positive volumes manually. Afterwards, the performance of the algorithm&nbsp;and the properties of the resulting contours were studied in more detail. The algorithm was shown&nbsp;to deliver contours which were similar to manually-created contours to a degree like manually-created&nbsp;contours were similar to each other. Thus, the application of the algorithm in clinical research is recommended&nbsp;to eliminate inter-observer-variabilities. Finally, it was shown that repeated FMISO PET imaging&nbsp;before and shortly after the beginning of combined radiochemotherapy lead to manually-created contours&nbsp;with significantly higher variations than the variations of automatically-created contours using the&nbsp;proposed algorithm. Increased contour similarity in subsequently acquired imaging data highlights the&nbsp;observer-independence of the algorithm. While several observers outline different volumes, in identical&nbsp;data sets as well as in subsequent imaging data sets, the algorithm outlines more stable volumes in both&nbsp;cases. Thus, increased contour reproducibility is reached by automation of the delineation process by&nbsp;the proposed algorithm.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7209862](https://zenodo.org/records/7209862)
 
 [https://doi.org/10.5281/zenodo.7209862](https://doi.org/10.5281/zenodo.7209862)
@@ -8629,6 +8877,8 @@ Licensed CC-BY-4.0
 
 Intravital workshop 15/11/2024
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14641777](https://zenodo.org/records/14641777)
 
 [https://doi.org/10.5281/zenodo.14641777](https://doi.org/10.5281/zenodo.14641777)
@@ -8646,7 +8896,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 
@@ -8662,6 +8912,8 @@ Robert Haase
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Slides
 
@@ -8688,7 +8940,7 @@ For further&nbsp;details, see README&nbsp;file.
 
 This version fixes&nbsp;the duplicated label IDs found in the previous version of label files. This version ensures that each instance has a unique ID. Thanks to&nbsp;Jackson Borchardt for reporting that error.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -8709,7 +8961,7 @@ Licensed CC-BY-4.0
 
 Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
 
-Tags: FAIR-Principles, Machine Learning, Research Data Management
+Tags: FAIR-Principles, Machine Learning, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -8736,7 +8988,7 @@ Training data for Convolutional Neural Networks used in the publication Whole-bo
 
 For details on how to use this data for training, see https://github.com/platybrowser/platybrowser-backend/tree/master/segmentation.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -8801,6 +9053,8 @@ annotations for longest-isoform dataset
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14250773](https://zenodo.org/records/14250773)
 
 [https://doi.org/10.5281/zenodo.14250773](https://doi.org/10.5281/zenodo.14250773)
@@ -8818,7 +9072,7 @@ Licensed CC-BY-4.0
 
 This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
 
-Tags: Gpu, Clesperanto, Dask, Python
+Tags: Gpu, Clesperanto, Dask, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -8832,6 +9086,8 @@ Content type: Notebook
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Book
 
@@ -8854,7 +9110,7 @@ Licensed CC-BY-4.0
 
 This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
 
-Tags: Bioimage Analysis, Data Exploration
+Tags: Bioimage Analysis, Data Exploration, Include In Dalia
 
 Content type: Publication
 
@@ -8875,6 +9131,8 @@ Licensed CC-BY-4.0
 
 "Be SURE - Be SUstainable REcommendations"The main goals and challenges for the Life Science (LS) communities in the Open Science framework are to increase reuse and sustainability of data resources, software tools, and workflows, especially in large-scale data-driven research and computational analyses. Here, we present key findings, procedures, effective measures and recommendations for generating and establishing sustainable LS resources based on the collaborative, cross-disciplinary work done within the EOSC-Life (European Open Science Cloud for Life Sciences) consortium. Bringing together 13 European LS Research Infrastructures (RIs), it has laid the foundation for an open, digital space to support biological and medical research. Using lessons learned from 27 selected projects, we describe the organisational, technical, financial and legal/ethical challenges that represent the main barriers to sustainability in the life sciences. We show how EOSC-Life provides a model for sustainable FAIR data management, including solutions for sensitive- and industry-related resources, by means of cross-disciplinary training and best practices sharing. Finally, we illustrate how data harmonisation and collaborative work facilitate interoperability of tools, data, solutions and lead to a better understanding of concepts, semantics and functionalities in the life sciences.IN PRESS EMBO Journal:&nbsp;https://www.embopress.org/journal/14602075&nbsp;AVAILABLE SOON at : https://doi.org/10.15252/embj.2023115008&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/8338931](https://zenodo.org/records/8338931)
 
 [https://doi.org/10.5281/zenodo.8338931](https://doi.org/10.5281/zenodo.8338931)
@@ -8894,7 +9152,7 @@ Licensed CC-BY-4.0
 
 40 annotated immunofluorescence microscopy images (600 microns x 600 microns) of foreskin tissue stained for CD3/CD4/CCR5/Nuclei. These images were used to train StarDist models used for the identification of HIV Target Cells in foreskin tissue section scans.&nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -8917,6 +9175,8 @@ Licensed CC-BY-4.0
 
 In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
 
 [https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
@@ -8934,7 +9194,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -8953,7 +9213,7 @@ Licensed CC-BY-4.0
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: Napari, Python
+Tags: Napari, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -8970,7 +9230,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Quareo-Limi
+Tags: Quareo-Limi, Include In Dalia
 
 Content type: Publication
 
@@ -8991,7 +9251,7 @@ Licensed CC-BY-4.0
 
 Slides from the CZI/EOSS online meeting in December 2020.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -9012,7 +9272,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -9031,7 +9291,7 @@ Licensed CC-BY-4.0
 
 This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Website
 
@@ -9046,7 +9306,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -9061,7 +9321,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -9082,6 +9342,8 @@ Licensed CC-BY-4.0
 
 The poster is part of the work of the German consortium NFDI4BIOIMAGE funded by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number 501864659).
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13684187](https://zenodo.org/records/13684187)
 
 [https://doi.org/10.5281/zenodo.13684187](https://doi.org/10.5281/zenodo.13684187)
@@ -9101,7 +9363,7 @@ Licensed CC-BY-4.0
 
 Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
 
-Tags: Open Science, Open Access, Copyright
+Tags: Open Science, Open Access, Copyright, Include In Dalia
 
 Content type: Book
 
@@ -9122,6 +9384,8 @@ Licensed CC-BY-4.0
 
 Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with 30% laser power and 200ms of exposition.&nbsp; Fluorescence is a knocked-in mStayGold-&beta;2Spectrin. Cells are rat hippocampal neurons &agrave; DIV 3. The file is a reconstructed multiposition acquisition (10 positions). Uploaded to show a probable issue with Bio-Formats in Fiji, where SIM reconstrcuted multipositions files open like static noise.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14893791](https://zenodo.org/records/14893791)
 
 [https://doi.org/10.5281/zenodo.14893791](https://doi.org/10.5281/zenodo.14893791)
@@ -9140,6 +9404,8 @@ Licensed CC-BY-4.0
 
 
 The Core Facility Cellular Imaging (CFCI) at the Faculty of Medicine Carl Gustav Carus (TU Dresden) is currently running a pilot project for testing the use and handling of the OMERO software. This is done together with interested users of the imaging facility and a research group. Currently, we are pushing forward this pilot study on a small scale without any data steward. Our experiences argue so far for giving data management issues into the hands of dedicated personnel not fully involved in research projects. As funding agencies will ask for higher and higher standards for implementing FAIRdata principles in the future, this will be a releva
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/10103316](https://zenodo.org/records/10103316)
 
@@ -9162,6 +9428,8 @@ This repository contains the data and analyses for the manuscript:
 Vellutini, B. C., Mart&iacute;n-Dur&aacute;n, J. M., B&oslash;rve, A. &amp; Hejnol, A.&nbsp;Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning.&nbsp;BMC Biol. 22, 1&ndash;23 (2024).&nbsp;https://doi.org/10.1186/s12915-024-01988-w
 The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
 
 [https://doi.org/10.5281/zenodo.13338425](https://doi.org/10.5281/zenodo.13338425)
@@ -9181,7 +9449,7 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
 
@@ -9211,7 +9479,7 @@ This Research Data Management (RDM) Slides introduce to the multidisciplinary kn
 
 &nbsp;
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -9234,6 +9502,8 @@ Licensed CC-BY-4.0
 
 Research data management and how not to get overwhelmed with data presentation is an overview of bioimage analysis with a focus on the basics for data management planning, FAIR principles, and how to practically organize folders and prepares naming convention. The presentation includes an overview of metadata, Creative Common licenses, and a sum up of electronic laboratory notebooks. The last two slides go through how all of that works in practice in open access core microscopy facility.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/8372703](https://zenodo.org/records/8372703)
 
 [https://doi.org/10.5281/zenodo.8372703](https://doi.org/10.5281/zenodo.8372703)
@@ -9253,7 +9523,7 @@ Licensed CC-BY-4.0
 
 This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
 
-Tags: Research Data Management, Open Science, Data Protection
+Tags: Research Data Management, Open Science, Data Protection, Exclude From Dalia
 
 Content type: Publication
 
@@ -9274,7 +9544,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -9291,7 +9561,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -9312,7 +9582,7 @@ Licensed CC-BY-4.0
 
 The PHDFM dataset is composed of fluorescence microscopy images of root tissue samples from A. thaliana, using the ratiometric fluorescent indicator 8‐hydroxypyrene‐1,3,6‐trisulfonic acid trisodium salt (HPTS). This semantic segmentation training dataset consists of 2D microscopy images (the brightfield channel for excitation at 405 nm), each containing a segmentation mask as an additional image channel (manually annotated by plant biologists). The segmentation masks classify pixels into the following 5 labels with the corresponding IDs: background (0), root tissue (1), early elongation zone (2), late elongation zone (3), and meristematic zone (4).
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9336,6 +9606,8 @@ Licensed CC-BY-4.0
 Notes from a round table workshop on the 4th Day of Intravital Microscopy in Leuven, Belgium.
 Contains hands-on tips, tricks and schemes to improve sample stability during various models of Intravital Miroscopy.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14161289](https://zenodo.org/records/14161289)
 
 [https://doi.org/10.5281/zenodo.14161289](https://doi.org/10.5281/zenodo.14161289)
@@ -9355,6 +9627,8 @@ Licensed CC-BY-4.0
 
 Session 2 of a round table workshop. Features description of image processing methods useful in intravital imaging to compensate for the motion of living tissue.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14161633](https://zenodo.org/records/14161633)
 
 [https://doi.org/10.5281/zenodo.14161633](https://doi.org/10.5281/zenodo.14161633)
@@ -9370,7 +9644,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -9389,6 +9663,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/17039369](https://zenodo.org/records/17039369)
 
 [https://doi.org/10.5281/zenodo.17039369](https://doi.org/10.5281/zenodo.17039369)
@@ -9403,6 +9679,8 @@ Licensed CC-BY-4.0
 
 
 Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Include In Dalia
 
 Content type: Collection, Online Course, Video, Tutorial
 
@@ -9423,6 +9701,8 @@ Licensed CC-BY-4.0
 
 With this file the problem addressed in PR#4284 can be reproduced: when runningbfconvert -series 4 -channel 0 2025_01_27__0007_offline_Zen_3_9_5.czi output.png
 the result is garbled.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14968770](https://zenodo.org/records/14968770)
 
@@ -9448,7 +9728,7 @@ This dataset consists of 50 annotated images, divided into 11 patients.
 
 v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9477,7 +9757,7 @@ For more details see&nbsp;https://imagej.net/plugins/trackmate/trackmate-stardis
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9500,7 +9780,7 @@ Licensed CC-BY-4.0
 
 Modern bioimaging core facilities at research institutions are essential for managing and maintaining high-end instruments, providing training and support for researchers in experimental design, image acquisition and data analysis. 
 
-Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis
+Tags: Nfdi4Bioimage, OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -9519,7 +9799,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -9538,7 +9818,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -9566,7 +9846,7 @@ The four numbered zip files contain the data used to create all figures displayi
 Abstract:
 Staphylococcus aureus both colonizes humans and causes severe virulent infections. Virulence is regulated by the agr quorum sensing system and its autoinducing peptide (AIP), with dynamics at the single-cell level across four agr-types &ndash; each defined by distinct AIP sequences and capable of cross-inhibition &ndash; remaining elusive. Employing microfluidics, time-lapse microscopy, and deep-learning image analysis, we uncovered significant differences in AIP sensitivity among agr-types. We observed bimodal agr activation, attributed to intergenerational phenotypic stability and influenced by AIP concentration. Upon AIP stimulation, agr‑III showed AIP insensitivity, while agr‑II exhibited increased sensitivity and prolonged generation time. Beyond expected cross-inhibition of agr‑I by heterologous AIP‑II and ‑III, the presumably cross-activating AIP‑IV also inhibited agr‑I. Community interactions across different agr-type pairings revealed four main patterns: stable or switched dominance, and delayed or stable dual activation, influenced by community characteristics. These insights underscore the potential of personalized treatment strategies considering virulence and genetic diversity.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9595,6 +9875,8 @@ The software is available on GitHub: https://github.com/LaboratoryOpticsBioscien
 and it is published on Biological imaging Journal: Gottlieb, D., Asadipour, B., Kostina, P., Ung, T., &amp; Stringari, C. (2023). FLUTE: A Python GUI for interactive phasor analysis of FLIM data. Biological Imaging, 1-22. doi:10.1017/S2633903X23000211
 The lecture was part of the short talks on community developed FLIM-software at the German BioImaging workshop on FLIM in Munich.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/10839310](https://zenodo.org/records/10839310)
 
 [https://doi.org/10.5281/zenodo.10839310](https://doi.org/10.5281/zenodo.10839310)
@@ -9614,7 +9896,7 @@ Licensed CC-BY-4.0
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: Research Data Management, Data Protection, FAIR-Principles
+Tags: Research Data Management, Data Protection, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -9633,7 +9915,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -9654,6 +9936,8 @@ Licensed CC-BY-4.0
 
 This is a dataset of PNG images of [Bio-Image Data Science teaching slides](https://zenodo.org/records/12623730). The png_umap.yml file contains a list of all images and a dimensionality reduced embedding (Uniform Manifold Approximation Projection, UMAP) made using OpenAI's text-embedding-ada-002 model.
 A notebook for visualizing this data is published here: https://github.com/haesleinhuepf/stackview/blob/main/docs/sliceplot.ipynb
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/14030307](https://zenodo.org/records/14030307)
 
@@ -9692,7 +9976,7 @@ Quality Control.ipynb
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9722,7 +10006,7 @@ Model:
 The StarDist 2D model was trained from scratch for 100 epochs on 300 paired image patches (image dimensions: (480 x 480 px&sup2;), patch size: (480 x 480 px&sup2;)) with a batch size of 4 and a mae loss function, using the StarDist 2D ZeroCostDL4Mic notebook (v 1) (von Chamier &amp; Laine et al., 2020). Grid parameter was set to 2 and the number of rays to 120. The model was trained with an initial learning rate of 0.0003 using a 80/20 train/test split. The dataset was augmented 4-fold by flipping and rotation.
 Key python packages used include tensorflow (v 0.1.12), Keras (v2.3.1), csbdeep (v 0.7.2), numpy (v 1.21.6), cuda (v 11.1.105Build cuda_11.1.TC455_06.29190527_0). The training was accelerated using a Tesla T4 GPU.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9811,7 +10095,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9900,7 +10184,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -9991,7 +10275,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10085,7 +10369,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10177,7 +10461,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10268,7 +10552,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10362,7 +10646,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10451,7 +10735,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10487,7 +10771,7 @@ Cell type: MDA-MB-231 cells and BT20 cells
 
 File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10575,7 +10859,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10617,7 +10901,7 @@ Content:
 	...
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
@@ -10638,7 +10922,7 @@ Licensed CC-BY-4.0
 
  These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
 
-Tags: Research Data Management, Data Stewardship
+Tags: Research Data Management, Data Stewardship, Include In Dalia
 
 Content type: Slides
 
@@ -10662,7 +10946,7 @@ Licensed CC-BY-4.0
 This dataset contains room-temperature single-axis TEM tomograms from Schaffer collateral and mossy fiber synapses in organotypic hippocampal slices.&nbsp;The tomograms were published in the two studies [1, 2]. The data was re-used for training deep neural networks to segment different synaptic structures in electron micrographs in [3].&nbsp;For the tomograms, organotypic slices were prepared from the hippocampi of neonatal mice according to the interface protocol55 and vitrified after 28 days in vitro in culture medium supplemented with 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. The dataset also contains 23 tomograms resulting from chemically-fixed material, which were also published in (Maus et al., 2020). For these tomograms, wild-type animals at postnatal day 28 were transcardially perfused under deep anesthesia, first with 0.9% sodium chloride solution, and then one of two fixatives (Fixative 1: Ice-cold 4% paraformaldehyde, 2.5% glutaraldehyde in 0.1 M phosphate buffer16; Fixative 2: 37&deg; C 2% paraformaldehyde, 2.5% glutaraldehyde, 2 mM CaCl2, in 0.1 M cacodylate buffer56). Brains were rinsed and sectioned coronally through the dorsal hippocampus in an ice-cold 0.1 M phosphate buffer using a VT 1200S vibratome (Leica) (step size 100 &micro;m; amplitude 1.5 mm, speed 0.1 mm/sec). Hippocampal CA3 subregions were excised using a 1.5 mm diameter biopsy punch and high-pressure frozen on the same day in 20% (w/v) bovine serum albumin using an HPM100 (Leica) high-pressure freezing device. For both sample preparations, automated freeze-substitution was performed. Tomograms were collected using a 200 kV JEM-2100 (JEOL) transmission electron microscope equipped with an 11 MP Orius SC1000 CCD camera (Gatan). Tilt-series (tilt range +/- 60&deg;; 1&deg; angular increments) were acquired at 30 000x magnification using SerialEM58. Tomographic reconstructions were generated using weighted back-projection with etomo.The data is organized into two different subfolders for data with annotations for "vesicles" and "active_zones". Each of these subfolders is further subdivided into "train" and "test" folders, which containtomograms for the two different sample preparations in "chemical_fixation" and "single_axis_tem".Each tomogram and the corresponding annotation is stored as a hdf5 file, containing the following internal datasets:- raw: The tomogram data.- labels/vesicles: Annotations for the synaptic vesicles, annotated with IMOD, further postprocessed and then exported to instance masks. (for tomograms in "vesicles")- labels/AZ: Annotations for the active zone, annotated with IMOD and exported to binary masks.
 [1] Imig et al., The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones, Neuron, 2014, DOI:10.1016/j.neuron.2014.10.009[2] Maus et al., Ultrastructural Correlates of Presynaptic Functional Heterogeneity in Hippocampal Synapses, Cell Reports, 2020, DOI: 10.1016/j.celrep.2020.02.083[3] Muth, Moschref et al., 2024, Preprint to be published
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10685,7 +10969,7 @@ Licensed CC-BY-4.0
 
 Involves an annotated large number of cells, including normal epithelial and myoepithelial breast cells (localized in ducts and lobules), invasive carcinomatous cells, fibroblasts, endothelial cells, adipocytes, macrophages and inflammatory cells (lymphocytes and plasmocytes). In total, our data set consists of 50 images with a total of 4022 annotated cells, the maximum number of cells in one sample is 293 and the minimum number of cells in one sample is 5, with an average of 80 cells per sample and a high standard deviation of 58. The annotation was performed by three experts: an expert pathologist and two trained research fellows. Each sample was annotated by one of the annotators, checked by another one and in case of disagreement, a consensus was established by discussion among the 3 experts.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -10706,7 +10990,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles
+Tags: Metadata, Bioinformatics, FAIR-Principles, Include In Dalia
 
 Content type: Publication
 
@@ -10800,6 +11084,8 @@ J. Sasse, V. Kneip, R. Baum, P. Zimmermann, J. Darms, J. Schneider, V. Clemens, 
 
 
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14381522](https://zenodo.org/records/14381522)
 
 [https://doi.org/10.5281/zenodo.14381522](https://doi.org/10.5281/zenodo.14381522)
@@ -10832,6 +11118,8 @@ This document contains a full QuPath project with an example of registered image
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5675686](https://zenodo.org/records/5675686)
 
 [https://doi.org/10.5281/zenodo.5675686](https://doi.org/10.5281/zenodo.5675686)
@@ -10851,7 +11139,7 @@ Licensed CC-BY-4.0
 
 This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
 
-Tags: FAIR-Principles, Research Data Management
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -10874,7 +11162,7 @@ Licensed CC-BY-4.0
 
 The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
 
-Tags: FAIR-Principles, Data Stewardship, Sharing
+Tags: FAIR-Principles, Data Stewardship, Sharing, Exclude From Dalia
 
 Content type: Publication
 
@@ -10895,7 +11183,7 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
@@ -10916,7 +11204,7 @@ Licensed CC-BY-4.0
 
 The Open Microscopy Environment (OME) defines a data model and a software implementation to serve as an informatics framework for imaging in biological microscopy experiments, including representation of acquisition parameters, annotations and image analysis results.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -10934,6 +11222,8 @@ Licensed ['CC-BY-4.0', 'MIT']
 
 
 A guide which covers topics related to skills, tools and best practices for research reproducibility.
+
+Tags: Include In Dalia
 
 Content type: Book
 
@@ -10954,7 +11244,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -10975,7 +11265,7 @@ Licensed CC-BY-4.0
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
@@ -10994,7 +11284,7 @@ Licensed CC-BY-4.0
 
 Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -11015,7 +11305,7 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
@@ -11035,6 +11325,8 @@ Licensed CC-BY-4.0
 
 
 The integration of Large Language Models (LLMs) in scientific research presents both opportunities and challenges for life scientists. Key challenges include ensuring transparency in AI-generated content and facilitating efficient knowledge exchange among researchers. These issues arise from the in-transparent nature of AI-driven code generation and the informal sharing of AI insights, which may hinder reproducibility and collaboration. This paper introduces git-bob, an innovative AI-assistant designed to address these challenges by fostering an interactive and transparent collaboration platform within GitHub. By enabling seamless dialogue between humans and AI, git-bob ensures that AI contributions are transparent and reproducible. Moreover, it supports collaborative knowledge exchange, enhancing the interdisciplinary dialogue necessary for cutting-edge life sciences research. The open-source nature of git-bob further promotes accessibility and customization, positioning it as a vital tool in employing LLMs responsibly and effectively within scientific communities.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13928832](https://zenodo.org/records/13928832)
 
@@ -11057,7 +11349,7 @@ https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data
 Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
 In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
 
@@ -11076,7 +11368,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioinformatics, Bioimage Analysis
+Tags: Bioinformatics, Bioimage Analysis, Include In Dalia
 
 Content type: Workflow, Tutorial
 
@@ -11099,7 +11391,7 @@ Within the project FDMentor, a German Train-the-Trainer Programme on Research Da
 
 After the end of the project, the concept was supplemented and updated by members of the Sub-Working Group Training/Further Education (UAG Schulungen/Fortbildungen) of the DINI/nestor Working Group Research Data (DINI/nestor-AG Forschungsdaten). The newly published English version of the Train-the-Trainer Concept contains the translated concept, the materials and all methods of the Train-the-Trainer Programme. Furthermore, additional English references and materials complement this version.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -11122,7 +11414,7 @@ Licensed CC-BY-4.0
 
 Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
@@ -11143,7 +11435,7 @@ Licensed CC-BY-4.0
 
 Training set of microscopy images for Dietler et al. Nature Communications 2020
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -11166,7 +11458,7 @@ Licensed CC-BY-4.0
 
 Course contents for biapol course at Trends in Microscopy conference 2025
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -11187,7 +11479,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -11224,7 +11516,7 @@ napari-chatgpt
 bioimage.io chatbot
 
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
@@ -11275,7 +11567,7 @@ cellMask = maskODTSAS.Cell{1};
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -11296,6 +11588,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15402904](https://zenodo.org/records/15402904)
 
 [https://doi.org/10.5281/zenodo.15402904](https://doi.org/10.5281/zenodo.15402904)
@@ -11313,7 +11607,7 @@ Licensed CC-BY-4.0
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
+Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -11332,7 +11626,7 @@ Licensed CC-BY-4.0
 
 This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
 
-Tags: Open Science
+Tags: Open Science, Include In Dalia
 
 Content type: Collection
 
@@ -11353,6 +11647,8 @@ Licensed CC-BY-4.0
 
 Presented at "International Symposium on Integrative Bioinformatics", Gatersleben Research Conference Series&nbsp;from&nbsp;September 10&ndash;12, 2025, &nbsp;https://meetings.ipk-gatersleben.de/grc-ib2025/
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/17087096](https://zenodo.org/records/17087096)
 
 [https://doi.org/10.5281/zenodo.17087096](https://doi.org/10.5281/zenodo.17087096)
@@ -11371,6 +11667,8 @@ Licensed CC-BY-4.0
 
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
@@ -11391,7 +11689,7 @@ Licensed CC-BY-4.0
 
 At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml;sseldorf, Germany, we have established a workflow to guide users through all aspects of bioimaging. The process begins with an initial consultation with our imaging specialists regarding microscopy techniques for their specific project. Users then receive training in microscope operation, ensuring they can handle the equipment effectively. If needed, our specialists also provide support in image analysis. Next, we introduce users to OMERO, highlighting its features and the advantages of using a bioimage data management system. They are then trained to structure and annotate their data within OMERO according to the Recommended Metadata for Biological Images (REMBI), taking their specific research topics into account. As users prepare for data publication, we assist with data organization and repository uploads. Our goal is to educate researchers in managing bioimage data&nbsp;throughout its entire lifecycle, with a strong emphasis on the FAIR (findable, accessible, interoperable, reusable) principles.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/14988921](https://zenodo.org/records/14988921)
 
@@ -11412,6 +11710,8 @@ Licensed CC-BY-4.0
 
 Support is an essential component of an efficient infrastructure for research data management (RDM). Helpdesks guide researchers through this complex landscape and provide reliable support about all questions regarding research data management, including support for technical services, best practices, requirements of funding organizations and legal topics. In NFDI, most consortia have already established or are planning to establish helpdesks to support their specific communities. On a local level, many institutions have set up RDM helpdesks that provide support for the researchers of their own institution. Additional RDM support services are offered by RDM federal state initiatives, by research data centers, by specialist libraries, by the EOSC, and by providers of RDM-relevant tools. Helpdesks cover a wide range of institutions, disciplines, topics, methodologies and target audiences. However, the individual helpdesks are not yet interconnected and therefore cannot complement one another in an efficient way: Given the wide and constantly increasing complexity of RDM, no single helpdesk can provide the expertise for all potential support requests. Therefore, we see great potential in combining the efforts and resources of the existing RDM helpdesks into an efficient and comprehensive national RDM support network in order to provide optimal and tailored RDM support to all researchers and research-related institutions in Germany and in an international context.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14035822](https://zenodo.org/records/14035822)
 
 [https://doi.org/10.5281/zenodo.14035822](https://doi.org/10.5281/zenodo.14035822)
@@ -11431,7 +11731,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -11454,6 +11754,8 @@ A 3D- printable microscope stage adapter for the reproducible accomodation of sa
 4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors.
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7963020](https://zenodo.org/records/7963020)
 
 [https://doi.org/10.5281/zenodo.7963020](https://doi.org/10.5281/zenodo.7963020)
@@ -11473,6 +11775,8 @@ Licensed CC-BY-4.0
 
 A 3D- printable microscope stage adapter for the reproducible accomodation of 6 or 12-well plates at a Zeiss AxioZoom microscope.
 4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates a standard Greiner 6- or 12-well plate.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/7944877](https://zenodo.org/records/7944877)
 
@@ -11495,6 +11799,8 @@ A 3D- printable microscope stage adapter for the reproducible accomodation of EM
 
 4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates 70 standard resin EM blocks.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7963006](https://zenodo.org/records/7963006)
 
 [https://doi.org/10.5281/zenodo.7963006](https://doi.org/10.5281/zenodo.7963006)
@@ -11514,6 +11820,8 @@ Licensed CC-BY-4.0
 
 A 3D- printable microscope stage adapter for the reproducible accomodation of microscopic slides at a Zeiss AxioZoom microscope.
 4 cylindrical anchors are fixed to the glass plate of the stage. The stage adapter is reversibly placed on these anchors and acommodates 4 standard glass slides.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/7945018](https://zenodo.org/records/7945018)
 
@@ -11562,7 +11870,7 @@ Affiliation&nbsp;:&nbsp;
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -11619,7 +11927,7 @@ Associated publications: Unpublished
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -11642,6 +11950,8 @@ Licensed CC-BY-4.0
 
 Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13831274](https://zenodo.org/records/13831274)
 
 [https://doi.org/10.5281/zenodo.13831274](https://doi.org/10.5281/zenodo.13831274)
@@ -11662,7 +11972,7 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
@@ -11685,7 +11995,7 @@ CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
 https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
 &nbsp;
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
@@ -11704,7 +12014,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Research Data Management, Bioimage Analysis, Data Science
+Tags: Research Data Management, Bioimage Analysis, Data Science, Exclude From Dalia
 
 Content type: Poster
 
@@ -11726,7 +12036,7 @@ Licensed CC-BY-4.0
 Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
 
@@ -11746,6 +12056,8 @@ Licensed CC-BY-4.0
 
 
 Overview of GerBI RDM projects: why and how?
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
 
@@ -11767,7 +12079,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
 
@@ -11786,7 +12098,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -11809,7 +12121,7 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
@@ -11836,7 +12148,7 @@ In 2024, following expanding community engagement, the focus of the Next-Generat
 In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
 &nbsp;
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
 
@@ -11861,6 +12173,8 @@ FAIR 101 - Navigating FAIR data from principles to practice
 Isabel Kemmer, Euro-BioImaging ERIC
 This workshop will introduce the FAIR principles in the context of bioimaging data. Designed for researchers working across scales and technologies of biological and biomedical imaging, the session will address the unique challenges posed by complex, multidimensional bioimaging datasets. With the aim of providing simple yet impactful steps for a smooth start to the FAIR journey we will explore the features and benefits of FAIR data through interactive exercises and discussions - from metadata annotation and data management planning to repository selection. By the end of the workshop, you will feel more confident in applying the FAIR concepts and be prepared to improve your imaging workflows to make your precious data even more valuable.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
 
 [https://doi.org/10.5281/zenodo.15647102](https://doi.org/10.5281/zenodo.15647102)
@@ -11879,6 +12193,8 @@ Licensed CC-BY-4.0
 
 
 Presentation made to the GBI Image Data Management Working Group during the 7th Exchange of Experience in Uruguay.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/11318151](https://zenodo.org/records/11318151)
 
@@ -11901,6 +12217,8 @@ Licensed CC-BY-4.0
 
 Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix in Okazaki, Japan.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14001388](https://zenodo.org/records/14001388)
 
 [https://doi.org/10.5281/zenodo.14001388](https://doi.org/10.5281/zenodo.14001388)
@@ -11921,6 +12239,8 @@ Licensed CC-BY-4.0
 or, "OME-Zarr: 'even a talk on formats [can be] interesting'"
 Presented at https://events.humantechnopole.it/event/1/
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13991322](https://zenodo.org/records/13991322)
 
 [https://doi.org/10.5281/zenodo.13991322](https://doi.org/10.5281/zenodo.13991322)
@@ -11940,7 +12260,7 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
@@ -11962,7 +12282,7 @@ Licensed CC-BY-4.0
 Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
 See http://nfdi.de/talks for more information.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
 
@@ -11981,7 +12301,7 @@ Licensed CC-BY-4.0
 
 Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
 
-Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -12001,6 +12321,8 @@ Licensed CC-BY-4.0
 
 
 Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C&sup3;RDM &amp; ZB MED.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10939520](https://zenodo.org/records/10939520)
 
@@ -12038,7 +12360,7 @@ Identify the dos and don'ts for bioimage data publication
 &nbsp;
 (taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
 
-Tags: Nfdi4Bioimage, Fair Principles, Research Data Management
+Tags: Nfdi4Bioimage, Fair Principles, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
 
@@ -12088,7 +12410,7 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
@@ -12121,7 +12443,7 @@ Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) 
 Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
 Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
@@ -12180,6 +12502,8 @@ Day 2 - April 30th, 2024
 2.00 p.m. to 2.15 p.m.:&nbsp;Coffee break&nbsp;
 2.15 p.m. to 3.00 p.m.: Discussion, Outlook
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 
 [https://doi.org/10.5281/zenodo.11109616](https://doi.org/10.5281/zenodo.11109616)
@@ -12213,7 +12537,7 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 
@@ -12241,7 +12565,7 @@ Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Hein
 
 Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
@@ -12258,7 +12582,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -12279,6 +12603,8 @@ Licensed CC-BY-4.0
 
 This file cannot be read by bfGetReader() v8.1.1 on a Windows operating workstation.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15001649](https://zenodo.org/records/15001649)
 
 [https://doi.org/10.5281/zenodo.15001649](https://doi.org/10.5281/zenodo.15001649)
@@ -12298,7 +12624,7 @@ Licensed CC-BY-4.0
 
 Course repository for Strategic Use of Generative AI
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -12321,7 +12647,7 @@ Licensed CC-BY-4.0
 
 Nextflow workshop materials March 2023
 
-Tags: Workflow, Nextflow
+Tags: Workflow, Nextflow, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -12344,7 +12670,7 @@ Licensed CC-BY-4.0
 
 Materials supporting the QuPath workshop at Harvard Medical School.
 
-Tags: Notebook, Slides, Collection
+Tags: Notebook, Slides, Collection, Include In Dalia
 
 Content type: Github Repository
 
@@ -12361,7 +12687,7 @@ Licensed CC-BY-4.0
 
 Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -12380,7 +12706,7 @@ Licensed CC-BY-4.0
 
 Machine learning in Python with scikit-learn MOOC
 
-Tags: Bioimage Analysis, Machine Learning
+Tags: Bioimage Analysis, Machine Learning, Include In Dalia
 
 Content type: Github Repository
 
@@ -12401,7 +12727,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Bioimageanalysis, Neurobias
+Tags: Bioimageanalysis, Neurobias, Include In Dalia
 
 Content type: Github Repository
 

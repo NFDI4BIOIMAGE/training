@@ -5,7 +5,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -26,7 +26,7 @@ Licensed UNKNOWN
 
 UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
 
-Tags: Biology, Data Analysis, Umap
+Tags: Biology, Data Analysis, Umap, Exclude From Dalia
 
 Content type: Blog Post
 
@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Python
+Tags: OMERO, Python, Include In Dalia
 
 Content type: Blog Post
 
@@ -62,7 +62,7 @@ Licensed UNKNOWN
 
  ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
 
-Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning
+Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning, Include In Dalia
 
 Content type: Blog Post
 
@@ -81,7 +81,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -102,7 +102,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -121,7 +121,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bio Image Analysis, Artifical Intelligence
+Tags: Bio Image Analysis, Artifical Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -142,7 +142,7 @@ Licensed UNKNOWN
 
 The author discusses a number of color palettes that are suitable for coloring graphical elements in plots.
 
-Tags: Data Visualization
+Tags: Data Visualization, Include In Dalia
 
 Content type: Blog Post
 
@@ -157,7 +157,7 @@ Job Fermie
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -172,7 +172,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -191,7 +191,7 @@ Licensed UNKNOWN
 
 Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
 
-Tags: Research Data Management, Sharing
+Tags: Research Data Management, Sharing, Include In Dalia
 
 Content type: Blog Post
 
@@ -212,7 +212,7 @@ Licensed UNKNOWN
 
 This post explores how animation can enhance data visualizations by improving viewer understanding and engagement, while also acknowledging the risks of misuse. It presents five practical techniques, supported by examples and implementation tips using D3 or Observable Plot.
 
-Tags: Data Visualization
+Tags: Data Visualization, Include In Dalia
 
 Content type: Blog Post
 
@@ -229,7 +229,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -250,7 +250,7 @@ Licensed UNKNOWN
 
 A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
 
-Tags: Research Data Management, Microscopy
+Tags: Research Data Management, Microscopy, Exclude From Dalia
 
 Content type: Blog Post
 
@@ -265,7 +265,7 @@ Mara Lampert
 
 
 
-Tags: Github, Python, Science Communication
+Tags: Github, Python, Science Communication, Include In Dalia
 
 Content type: Blog Post
 
@@ -284,7 +284,7 @@ Licensed CC-BY-4.0
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: Licensing, Research Data Management
+Tags: Licensing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -301,7 +301,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -322,7 +322,7 @@ Licensed UNKNOWN
 
 This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -341,7 +341,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Open Source, Alphafold
+Tags: Open Source, Alphafold, Exclude From Dalia
 
 Content type: Report, Blog Post
 
@@ -356,7 +356,7 @@ Jennifer Waters
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -371,7 +371,7 @@ Mara Lampert
 
 
 
-Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
+Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob, Include In Dalia
 
 Content type: Blog Post
 
@@ -386,7 +386,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -401,7 +401,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -418,7 +418,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -433,7 +433,7 @@ Elisabeth Kugler
 
 
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -452,7 +452,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -473,7 +473,7 @@ Licensed UNKNOWN
 
 In this blog post, the author emphasizes problematic characters (e.g., spaces, slashes, colons) that should be avoided in filenames to ensure cross-platform compatibility across operating systems like Windows, macOS, and Linux, emphasizing the chaos caused by differing filesystem rules and naming conventions.
 
-Tags: Reseach Data Management
+Tags: Reseach Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -488,7 +488,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 

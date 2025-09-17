@@ -7,7 +7,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -24,7 +24,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -41,7 +41,7 @@ Robert Haase
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -60,7 +60,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -79,7 +79,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -96,7 +96,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -113,7 +113,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 

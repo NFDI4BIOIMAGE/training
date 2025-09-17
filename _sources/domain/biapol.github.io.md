@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Python
+Tags: OMERO, Python, Include In Dalia
 
 Content type: Blog Post
 
@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 This repository contains a collection of tools for working with OMERO. Such tools can be working with the OMERO command line interface to transfer datasets between repositories, etc.
 
-Tags: OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -56,7 +56,7 @@ Content type: Github Repository
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -69,7 +69,7 @@ Content type: Event, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -86,7 +86,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -107,7 +107,7 @@ Licensed CC-BY-4.0
 
 Course contents for biapol course at Trends in Microscopy conference 2025
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 

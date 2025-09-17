@@ -11,6 +11,8 @@ Licensed CC-BY-4.0
 
 Bioimaging has now entered the era of big data with faster than ever development of complex microscopy technologies leading to increasingly complex datasets. This enormous increase in data size and informational complexity within those datasets has brought with it several difficulties in terms of common and harmonized data handling, analysis and management practices, which are currently hampering the full potential of image data being realized. Here we outline a wide range of efforts and solutions currently being developed by the microscopy community to address these challenges on the path towards FAIR bioimage data. We also highlight how different actors in the microscopy ecosystem are working together, creating synergies that develop new approaches, and how research infrastructures, such as Euro-BioImaging, are fostering these interactions to shape the field.&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/7788899](https://zenodo.org/records/7788899)
 
 [https://doi.org/10.5281/zenodo.7788899](https://doi.org/10.5281/zenodo.7788899)
@@ -26,7 +28,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -47,7 +49,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -69,6 +71,8 @@ Licensed CC-BY-4.0
 This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
 Date of presentation: 2025-07-24
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
 
 [https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
@@ -83,6 +87,8 @@ Aastha Mathur
 Licensed UNKNOWN
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Slides
 
@@ -105,7 +111,7 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 

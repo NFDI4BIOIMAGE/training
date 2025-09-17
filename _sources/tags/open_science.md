@@ -11,7 +11,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -32,7 +32,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -51,7 +51,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dalia
 
 Content type: Slides, Presentation
 
@@ -72,7 +72,7 @@ Licensed CC-BY-4.0
 
 Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
 
-Tags: Open Science, Teaching, Sharing
+Tags: Open Science, Teaching, Sharing, Include In Dalia
 
 Content type: Collection, Tutorial, Video
 
@@ -93,7 +93,7 @@ Licensed CC-BY-4.0
 
 Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
 
-Tags: Research Data Management, Open Science
+Tags: Research Data Management, Open Science, Include In Dalia
 
 Content type: Slides
 
@@ -114,7 +114,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 
 Content type: Publication
 
@@ -135,7 +135,7 @@ Licensed CC-BY-4.0
 
 Die Digitalisierung ermöglicht eine offene Wissenschaft (Open Science). Diese hat viele Aspekte, insbesondere den freien Zugang zu wissenschaftlichen Veröffentlichungen und Materialien (Open Access), transparente Begutachtungsverfahren (Open Peer Review) oder quelloffene Technologien (Open Source). Das Programm Hamburg Open Science (Laufzeit 2018–2020) unterstützt unter anderem den Kulturwandel in der Wissenschaft. In diesem Kontext entstand der nun vorliegende Leitfaden, der das rechtliche Umfeld greifbar machen soll. Der Leitfaden erarbeitet die betroffenen Rechtsgebiete zunächst systematisch. Im zweiten Teil werden rechtliche Fragen zu Open Science beantwortet, die direkt aus den Universitäten und Bibliotheken kommen.
 
-Tags: Open Science, Open Access, Copyright
+Tags: Open Science, Open Access, Copyright, Include In Dalia
 
 Content type: Book
 
@@ -156,7 +156,7 @@ Licensed CC-BY-4.0
 
 This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
 
-Tags: Research Data Management, Open Science, Data Protection
+Tags: Research Data Management, Open Science, Data Protection, Exclude From Dalia
 
 Content type: Publication
 
@@ -175,7 +175,7 @@ Licensed CC-BY-4.0
 
 This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
 
-Tags: Open Science
+Tags: Open Science, Include In Dalia
 
 Content type: Collection
 

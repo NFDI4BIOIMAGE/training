@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Conference Abstract
 
@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 Repository for documentation during the 2nd de.NBI BioHackathon Germany - 11.-15.12.2023 - OMERO-ARC project (in short: BHG2023-OMERO-ARC)
 
-Tags: Nfdi4Bioimage, Bioinformatics, OMERO
+Tags: Nfdi4Bioimage, Bioinformatics, OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -49,7 +49,7 @@ Licensed CC-BY-4.0
 Presentation for the BioImagingUK Meeting taking place from 1200 - 1500 BST on Monday 30 June 2025 at mmc2025 https://www.mmc-series.org.uk/meetings-features/bioimaginguk-meeting.html
 This pre-congress meeting provides an opportunity for the UK Bioimaging community to discuss priorities and strategies in national infrastructure, technology development, training, careers and ways to share knowledge across different disciplines. The session will consist of short talks from members of the BioImagingUK community and industrial/institute collaboration partners to update on progress, new opportunities and initiatives. There will be interactive Q+A sessions to encourage discussion and enable emerging priorities and ideas to be highlighted.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15756866](https://zenodo.org/records/15756866)
 
@@ -70,7 +70,7 @@ Licensed CC-BY-4.0
 
 Poster presentation for the abstract "Enabling Peta-Scale Federated Repositories through Cloud-Native Formats: Lessons from a fast-paced challenge in the bioimaging community" submitted to 2nd Conference on Research Data Infrastructure (CoRDI) 2025
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/16911980](https://zenodo.org/records/16911980)
 
@@ -87,7 +87,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -108,7 +108,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -127,7 +127,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Open Science, Microscopy
+Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 
 Content type: Publication
 
@@ -148,7 +148,7 @@ Licensed CC-BY-4.0
 
 Presentation given to the Search &amp; Harvesting workgroup of the Metadata section of NFDI on March 25th, 2025
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15083018](https://zenodo.org/records/15083018)
 
@@ -165,7 +165,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Publication
 
@@ -182,7 +182,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -205,7 +205,7 @@ Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gid
 Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
@@ -224,6 +224,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15423904](https://zenodo.org/records/15423904)
 
 [https://doi.org/10.5281/zenodo.15423904](https://doi.org/10.5281/zenodo.15423904)
@@ -241,7 +243,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
@@ -260,7 +262,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -281,7 +283,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -298,7 +300,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -315,7 +317,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -338,7 +340,7 @@ https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data
 Microscopy and bioimaging technologies are fundamental tools for exploring biological systems, generating large, multidimensional datasets rich in experimental detail. However, the bioimaging community has historically faced major challenges around data handling: vendor-specific proprietary formats, fragmented metadata storage, and increasingly large dataset sizes that outstrip traditional storage and computing solutions.
 In this webinar, key open technologies developed by the Open Microscopy Environment (OME) to address these challenges were presented. Specifically, the Bio-Formats library for accessing diverse proprietary file formats, the OME-TIFF standard for archival data storage, and the OME-Zarr format for cloud-native, scalable bioimaging workflows were presented.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15479606](https://zenodo.org/records/15479606)
 
@@ -357,7 +359,7 @@ Licensed CC-BY-4.0
 
 Welcome at NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023
 
-Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage
+Tags: OMERO, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -378,6 +380,8 @@ Licensed CC-BY-4.0
 
 Presented at "International Symposium on Integrative Bioinformatics", Gatersleben Research Conference Series&nbsp;from&nbsp;September 10&ndash;12, 2025, &nbsp;https://meetings.ipk-gatersleben.de/grc-ib2025/
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/17087096](https://zenodo.org/records/17087096)
 
 [https://doi.org/10.5281/zenodo.17087096](https://doi.org/10.5281/zenodo.17087096)
@@ -397,7 +401,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -417,6 +421,8 @@ Licensed CC-BY-4.0
 
 
 Presented at https://www.bioimagingnorthamerica.org/events/bina-2024-community-congress/
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13831274](https://zenodo.org/records/13831274)
 
@@ -438,7 +444,7 @@ Licensed CC-BY-4.0
 Talk given at Georg-August-Universit&auml;t G&ouml;ttingen Campus Institute Data Science23rd January 2025
 https://www.uni-goettingen.de/en/653203.html
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/14845059](https://zenodo.org/records/14845059)
 
@@ -461,7 +467,7 @@ CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th January 2025
 https://tu-dresden.de/cmcb/crtd/news-termine/termine/cmcb-life-sciences-seminar-josh-moore-german-bioimaging-e-v-society-for-microscopy-and-image-analysis-constance
 &nbsp;
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/14650434](https://zenodo.org/records/14650434)
 
@@ -480,7 +486,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Research Data Management, Bioimage Analysis, Data Science
+Tags: Research Data Management, Bioimage Analysis, Data Science, Exclude From Dalia
 
 Content type: Poster
 
@@ -500,6 +506,8 @@ Licensed CC-BY-4.0
 
 
 Overview of GerBI RDM projects: why and how?
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/10889694](https://zenodo.org/records/10889694)
 
@@ -521,7 +529,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
 
@@ -540,7 +548,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -563,7 +571,7 @@ Presented at ELMI2025
 &nbsp;
 https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15393592](https://zenodo.org/records/15393592)
 
@@ -590,7 +598,7 @@ In 2024, following expanding community engagement, the focus of the Next-Generat
 In 2025, we are set to take a major step toward a stable FAIR solution with OME-Zarr 1.0. This milestone marks a crucial phase towards an international standard, providing an open, cloud-optimized, and scalable solution for handling terabyte- and petabyte-scale imaging data. The 1.0 release will introduce long-awaited transforms, enabling robust support for multimodal datasets, followed by collections and an extensibility mechanism to accommodate evolving scientific needs. These additions emphasize a solid foundation on which future capabilities can be built while providing the stability needed for broader adoption of the format. This presentation will outline the path to 1.0, including community-driven refinements, vendor engagement to ensure complete metadata representation, and alignment with global bioimaging initiatives. As imaging data continues to grow in scale and complexity, consensus-driven evolution of infrastructure will be key to ensuring a truly FAIR future for bioimaging.
 &nbsp;
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15597856](https://zenodo.org/records/15597856)
 
@@ -610,6 +618,8 @@ Licensed CC-BY-4.0
 
 
 Presentation made to the GBI Image Data Management Working Group during the 7th Exchange of Experience in Uruguay.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/11318151](https://zenodo.org/records/11318151)
 
@@ -632,6 +642,8 @@ Licensed CC-BY-4.0
 
 Presented at https://globalbioimaging.org/exchange-of-experience/exchange-of-experience-ix in Okazaki, Japan.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14001388](https://zenodo.org/records/14001388)
 
 [https://doi.org/10.5281/zenodo.14001388](https://doi.org/10.5281/zenodo.14001388)
@@ -652,6 +664,8 @@ Licensed CC-BY-4.0
 or, "OME-Zarr: 'even a talk on formats [can be] interesting'"
 Presented at https://events.humantechnopole.it/event/1/
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13991322](https://zenodo.org/records/13991322)
 
 [https://doi.org/10.5281/zenodo.13991322](https://doi.org/10.5281/zenodo.13991322)
@@ -671,7 +685,7 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/15031842](https://zenodo.org/records/15031842)
 
@@ -693,7 +707,7 @@ Licensed CC-BY-4.0
 Slides for the NFDI Tech Talk live streamed to https://www.youtube.com/live/bzfmE29S270
 See http://nfdi.de/talks for more information.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
 
@@ -712,7 +726,7 @@ Licensed CC-BY-4.0
 
 Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
 
-Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -731,7 +745,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 
@@ -751,6 +765,8 @@ Licensed BSD-2-CLAUSE
 
 
 Web page for validating OME-NGFF files.
+
+Tags: Exclude From Dalia
 
 Content type: Github Repository, Application
 
@@ -773,7 +789,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing, Nfdi4Bioimage, Research Data Management
+Tags: Sharing, Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -792,7 +808,7 @@ Licensed GPL-2.0
 
 Java application to convert a directory of tiles to an OME-TIFF pyramid. This is the second half of iSyntax/.mrxs => OME-TIFF conversion.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 

@@ -13,7 +13,7 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -37,7 +37,7 @@ Licensed CC-BY-4.0
  Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -64,7 +64,7 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -95,7 +95,7 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -120,7 +120,7 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: Research Data Management, Data Protection
+Tags: Research Data Management, Data Protection, Include In Dalia
 
 Content type: Slides
 
@@ -143,7 +143,7 @@ Licensed CC-BY-4.0
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: Research Data Management, Data Protection, FAIR-Principles
+Tags: Research Data Management, Data Protection, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 

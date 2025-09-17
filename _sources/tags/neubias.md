@@ -7,7 +7,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -24,7 +24,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -41,7 +41,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -58,7 +58,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -77,7 +77,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -96,7 +96,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Book
 
@@ -115,7 +115,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -130,7 +130,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -147,7 +147,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Imagej Macro, Bioimage Analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code
 
@@ -164,7 +164,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -181,7 +181,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -198,7 +198,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -219,7 +219,7 @@ Licensed CC-BY-4.0
 
 Resources for teaching/preparing to teach bioimage analysis
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/14264885](https://zenodo.org/records/14264885)
 
@@ -238,7 +238,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -253,7 +253,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Neubias, Bioimage Analysis
+Tags: Python, Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -270,7 +270,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -287,7 +287,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -304,7 +304,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -321,7 +321,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -336,7 +336,7 @@ Content type: Slides, Code, Notebook
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 
-Tags: Neubias
+Tags: Neubias, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -353,7 +353,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -370,7 +370,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -387,7 +387,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Code
 
@@ -406,7 +406,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -423,7 +423,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -440,7 +440,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -457,7 +457,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 

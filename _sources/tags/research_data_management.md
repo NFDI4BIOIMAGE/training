@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 Die Online-Veranstaltung fand am 21.01.2021 im Rahmen der SaxFDM-Veranstaltungsreihe &quot;Digital Kitchen - K&uuml;chengespr&auml;che mit SaxFDM&quot; statt. SaxFDM-Sprecherin Elfi Hesse (HTW Dresden) erl&auml;uterte zun&auml;chst Grunds&auml;tzliches zum Thema Repositorien. Anschlie&szlig;end teilten Nutzer (Jan Deinert &ndash; HZDR) und Anbieter (Christian L&ouml;schen &ndash; TU Dresden/ZIH) lokaler Repositorien ihre Erfahrungen mit uns.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -32,7 +32,7 @@ Licensed CC-BY-4.0
 
 A short book with 6 steps that get you closer to making your work reproducible.
 
-Tags: Reproducibility, Research Data Management
+Tags: Reproducibility, Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -51,7 +51,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Conference Abstract
 
@@ -66,7 +66,7 @@ Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ard
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -93,7 +93,7 @@ Research data management is essential in nowadays research, and one of the big o
 
 In this presentation, Stefanie Weidtkamp-Peters will introduce the challenges for bioimaging data management, and the necessary steps to achieve data FAIRification. German BioImaging - GMB e.V., together with other institutions, contributes to this endeavor. Janina Hanne will present how the network of imaging core facilities, research groups and industry partners is key to the German bioimaging community&rsquo;s aligned collaboration toward FAIR bioimaging data. These activities have paved the way for two data management initiatives in Germany: I3D:bio (Information Infrastructure for BioImage Data) and NFDI4BIOIMAGE, a consortium of the National Research Data Infrastructure. Christian Schmidt will introduce the goals and measures of these initiatives to the benefit of imaging scientist&rsquo;s work and everyday practice. &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7890311](https://zenodo.org/records/7890311)
 
@@ -108,7 +108,7 @@ Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -125,7 +125,7 @@ Licensed CC-BY-4.0
 
 The NFDI Basic Service DMP4NFDI supports consortia in developing and providing data management plans (DMP) services for their community.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Document
 
@@ -148,7 +148,7 @@ Wem geh&ouml;ren Forschungsdaten? Diese Frage stellt sich bei Daten, an deren En
 &nbsp;
 &nbsp;
 
-Tags: Research Data Management, Licensing
+Tags: Research Data Management, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -171,7 +171,7 @@ Licensed CC-BY-4.0
 
 In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
 
@@ -190,7 +190,7 @@ Licensed UNKNOWN
 
 The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
 
-Tags: Research Data Management, Fair
+Tags: Research Data Management, Fair, Exclude From Dalia
 
 Content type: Framework
 
@@ -211,7 +211,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -228,7 +228,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis
+Tags: Research Data Management, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -249,7 +249,7 @@ Licensed CC-BY-4.0
 
 This presentation gives a short outline of the complexity of data and metadata in the bioimaging universe. It introduces NFDI4BIOIMAGE as a newly formed consortium as part of the German 'Nationale Forschungsdateninfrastruktur' (NFDI) and its goals and tools for data management including its current members on TU Dresden campus. &nbsp;
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -270,7 +270,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -283,7 +283,7 @@ Content type: Notebook
 
 
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Workshop
 
@@ -298,7 +298,7 @@ Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra Özde
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -315,7 +315,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -334,7 +334,7 @@ Licensed CC-BY-4.0
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -355,7 +355,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
 
-Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management, Include In Dalia
 
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
@@ -374,7 +374,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -409,7 +409,7 @@ Artificial intelligence that can respond to GitHub issues
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
 
@@ -430,7 +430,7 @@ Licensed CC-BY-4.0
 
 Interdisciplinary collaboration and integration of large and diverse datasets are becoming increasingly important. Answering complex research questions requires combining and analysing multimodal datasets. Research data management follows the FAIR principles making data findable, accessible, interoperable, and reusable. However, there are challenges in capturing the entire research cycle and contextualizing data according, not only for the DataPLANT and NFDI4BIOIMAGE communities. To address these challenges, DataPLANT developed a data structure called Annotated Research Context (ARC). The Brain Imaging Data Structure (BIDS) originated from the neuroimaging community extended for microscopic image data. Both concepts provide standardised and file system based data storage structures for organising and sharing research data accompanied with metadata. We exemplarily compare the ARC and BIDS designs and propose structural and metadata mapping.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Poster
 
@@ -451,7 +451,7 @@ Licensed BSD-3-CLAUSE
 
 This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -472,7 +472,7 @@ Licensed CC-BY-4.0
 
 The lifecycle of scientific tools comprises the creation of code releases, packages and containers which can be deployed into cloud platforms, such as the Galaxy Project, where they are run and integrated into workflows. The tools and workflows are further used to create training material that benefits a broad community. The need to organize and streamline this tool development lifecycle has led to a sophisticated development and deployment architecture.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -495,7 +495,7 @@ Diese Pr&auml;sentation bietet einen Einstieg in alle relevanten Bereiche des Fo
 
 Erg&auml;nzend hierzu wird eine Pr&auml;sentation mit &Uuml;bungsaufgaben angeboten, die helfen soll, das Gelernte zu festigen und in der eigenen Forschungspraxis umzusetzen. Den Aufgaben folgen jeweils eine Antwortfolie sowie deren Aufl&ouml;sung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -518,7 +518,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -539,7 +539,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -564,7 +564,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, FAIR-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -583,7 +583,7 @@ Licensed UNKOWN
 
 Leading open-source platform for collaborative and living data management plans.
 
-Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -598,7 +598,7 @@ Job Fermie
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -617,7 +617,7 @@ Licensed CC-BY-4.0
 
 In this section, information is organised according to the stages of the research data life cycle.
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Website, Online Tutorial
 
@@ -634,7 +634,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dalia
 
 Content type: Slides, Presentation
 
@@ -653,7 +653,7 @@ Licensed CC-BY-4.0
 
 Explore fundamental topics on research data management (RDM), how DataPLANT implements these aspects to support plant researchers with RDM tools and services, read guides and manuals or search for some teaching materials.
 
-Tags: Research Data Management, Dataplant
+Tags: Research Data Management, Dataplant, Include In Dalia
 
 Content type: Collection
 
@@ -674,7 +674,7 @@ Licensed CC-BY-4.0
 
 In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -698,7 +698,7 @@ Licensed CC-BY-4.0
  Workshop zum Thema &bdquo;Datenmanagement im Fokus: Organisation, Speicherstrategien und Datenschutz&ldquo; auf der Data Week Leipzig
 Der Umgang mit Daten ist im Alltag nicht immer leicht: Wie und wo speichert man Daten idealerweise? Welche Strategien helfen, den &Uuml;berblick zu behalten und wie geht man mit personenbezogenen Daten um? Diese Fragen m&ouml;chten wir gemeinsam mit Ihnen anhand individueller Datenprobleme besprechen und Ihnen L&ouml;sungen aufzeigen, wie Sie ihr Datenmanagement effizient gestalten k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -725,7 +725,7 @@ Die Anforderungen der Forschungsf&ouml;rderer zum Datenmanagement steigen stetig
 
 Was im ersten Moment un&uuml;bersichtlich und &uuml;berfordernd wirkt, soll in diesem Kurs anhand einer grundlegenden theoretischen Einf&uuml;hrung im ersten und praxisorientierter Beispiele im zweiten Teil der Veranstaltung handhabbar gemacht werden. Sie lernen, was hinter den Anforderungen der Forschungsf&ouml;rderer steckt, welche Elemente ein Datenmanagementplan enthalten sollte und wie sie einen solchen mithilfe interaktiver Tools selbst erstellen k&ouml;nnen.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -756,7 +756,7 @@ Version 2 enth&auml;lt aktuelle Links und weiterf&uuml;hrende Hinweise zu einzel
 
 Version 3 ist die &uuml;berarbeitete und aktualisierte Version der ersten beiden und enth&auml;lt u.a. Hinweise zur Lizenzierung und zu Nutzungsrechten an Forschungsdaten.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -779,7 +779,7 @@ Licensed AGPL-3.0
 
 Documentation for eLabFTW. With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Documentation, Document, Tutorial
 
@@ -803,7 +803,7 @@ Licensed CC-BY-4.0
 Researchers are increasingly often confronted with research data management (RDM) topics during their work. Higher education institutions therefore begin to offer services for RDM at some point to give support and advice. However, many groundbreaking decisions have to be made at the very beginning of RDM services. Priorities must be set and policies formulated. Likewise, the staff must first be qualified in order to provide advice and adequately deal with the manifold problems awaiting.
 The FDMentor project has therefore bundled the expertise of five German universities with different experiences and levels of RDM knowledge to jointly develop strategies, roadmaps, guidelines, and open access training material. Humboldt-Universit&auml;t zu Berlin, Freie Universit&auml;t Berlin, Technische Universit&auml;t Berlin, University of Potsdam, and European University Viadrina Frankfurt (Oder) have worked together on common solutions that are easy to adapt. With funding of the German Federal Ministry of Education and Research, the collaborative project addressed four problem areas: strategy development, legal issues, policy development, and competence enhancement. The aim of the project outcomes is to provide other higher education institutions with the best possible support for the efficient introduction of research data management. Therefore, all project results are freely accessible under the CC-BY 4.0 international license. The early involvement of the community in the form of workshops and the collection of feedback has proven its worth: the FDMentor strategies, roadmaps, guidelines, and training materials are applied and adapted beyond the partner universities.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Document
 
@@ -828,7 +828,7 @@ Diese Pr&auml;sentation wurde im Zuge der digitalen Veranstaltungsreihe &quot;Ei
 
 Dieser Teil der Reihe dreht sich um Rechtsfragen im Umgang mit Forschungsdaten und deren Bedeutung f&uuml;r die wissenschaftliche Praxis. Sie finden in der vorliegenden Pr&auml;sentation einen &Uuml;berblick &uuml;ber relevante Rechtsbereiche sowie Erl&auml;uterungen zum Datenschutz, Urheberrecht und den Grunds&auml;tzen der guten wissenschaftlichen Praxis mit Fokus auf deren Bedeutung im Forschungsdatenmanagement.
 
-Tags: Research Data Management, Data Protection
+Tags: Research Data Management, Data Protection, Include In Dalia
 
 Content type: Slides
 
@@ -851,7 +851,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Coordinated collaboration is essential to realize the added value of and infrastructure requirements for global image data sharing in the life sciences. In this White Paper, we take a first step at presenting some of the most common use cases as well as critical/emerging use cases of (including the use of artificial intelligence for) biological and medical image data, which would benefit tremendously from better frameworks for sharing (including technical, resourcing, legal, and ethical aspects). 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -872,7 +872,7 @@ Licensed CC-BY-4.0
 
 Die vorliegende Empfehlung sowie die zugehörigen Erfahrungsberichte geben einen Überblick über die verschiedenen Möglichkeiten der Gestaltung einer Forschungsdatenmanagement Policy sowie Wege zu deren Erstellung.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -895,7 +895,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -919,7 +919,7 @@ Licensed CC-BY-4.0
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Tutorial
 
@@ -936,7 +936,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Fair, Bioimage Analysis
+Tags: Research Data Management, Fair, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -957,7 +957,7 @@ Licensed CC-BY-4.0
 
 The authors show the utility of Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) for High Content Screening (HCS) data using multiple examples from the Leiden FAIR Cell Observatory, a Euro-Bioimaging flagship node for high content screening and the pilot node for implementing FAIR bioimaging data throughout the Netherlands Bioimaging network.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -974,7 +974,7 @@ Licensed CC-BY-4.0
 
 In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
 
-Tags: FAIR-Principles, Data Stewardship, Research Data Management
+Tags: FAIR-Principles, Data Stewardship, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -995,7 +995,7 @@ Licensed CC-BY-4.0
 
 This worksheet walks researchers through the process of creating a file naming convention for a group of files. This process includes: choosing metadata, encoding and ordering the metadata, adding version information, and properly formatting the file names. Two versions of the worksheet are available: a Caltech Library branded version and a generic editable version.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Worksheet
 
@@ -1016,7 +1016,7 @@ Licensed UNKNOWN
 
 Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
 
-Tags: I3Dbio, Research Data Management
+Tags: I3Dbio, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -1031,7 +1031,7 @@ Content type: Tutorial
 
 Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
 
-Tags: Bioimage Analysis, OMERO, Research Data Management
+Tags: Bioimage Analysis, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Workshop
 
@@ -1050,7 +1050,7 @@ Licensed UNKNOWN
 
 Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
 
-Tags: Research Data Management, Sharing
+Tags: Research Data Management, Sharing, Include In Dalia
 
 Content type: Blog Post
 
@@ -1067,7 +1067,7 @@ Licensed PUBLIC DOMAIN
 
 Research Data Management Information Portal in German
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -1084,7 +1084,7 @@ Licensed CC-BY-4.0
 
 Research Data Management Wiki in German
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -1110,7 +1110,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -1131,7 +1131,7 @@ Licensed UNKNOWN
 
 The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -1150,7 +1150,7 @@ Licensed CC-BY-4.0
 
 This document provides the essential elements of a Research Data Management (RDM) Policy and is part of the LEARN Toolkit containing the Model Policy for Research Data Management (RDM) at Research Institutions/Institutes.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -1171,7 +1171,7 @@ Licensed CC-BY-4.0
 
 Results of the project 'Conversion of KNIME image analysis workflows to Galaxy' during the Hackathon 'Image Analysis in Galaxy' (Freiburg 26 Feb - 01 Mar 2024)
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Slides
 
@@ -1192,7 +1192,7 @@ Licensed CC-BY-NC-SA-4.0 INTERNATIONAL
 
 Together with the molecular knowledge of genes and proteins, biological images promise to significantly enhance the scientific understanding of complex cellular systems and to advance predictive and personalized therapeutic products for human health. For this potential to be realized, quality-assured image data must be shared among labs at a global scale to be compared, pooled, and reanalyzed, thus unleashing untold potential beyond the original purpose for which the data was generated.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1213,7 +1213,7 @@ Licensed UNKNOWN
 
 A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
 
-Tags: Research Data Management, Microscopy
+Tags: Research Data Management, Microscopy, Exclude From Dalia
 
 Content type: Blog Post
 
@@ -1232,7 +1232,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management
+Tags: Metadata, I3Dbio, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -1249,7 +1249,7 @@ Licensed UNKNOWN
 
 List of links to training materials by the I3D:bio community.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -1270,7 +1270,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -1293,7 +1293,7 @@ Licensed CC-BY-4.0
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: Licensing, Research Data Management
+Tags: Licensing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1316,7 +1316,7 @@ These slides were presented during an online introductory session to OMERO for t
 The two-hour session consisted of a first part highlighting the benefits that image data management brings to the lab. The second part showcased image analysis workflows with a Fiji macro and a Python notebook.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15152576](https://zenodo.org/records/15152576)
 
@@ -1337,7 +1337,7 @@ Licensed CC-BY-4.0
 
 Introduction to RDM primarily for researchers. Can be seen as primer to all other materials in this catalogue.
 
-Tags: Research Data Management, Open Science
+Tags: Research Data Management, Open Science, Include In Dalia
 
 Content type: Slides
 
@@ -1377,7 +1377,7 @@ See cross reference:
 10.5281/zenodo.12547566 Key-Value pair template for annotation of datasets in OMERO for light- and electron microscopy data within the research group of Prof. Mueller-Reichert
 10.5281/zenodo.12546808&nbsp;Key-Value pair template for annotation of datasets in OMERO (PERIKLES study)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12578084](https://zenodo.org/records/12578084)
 
@@ -1414,7 +1414,7 @@ See cross reference:
 10.5281/zenodo.12547566&nbsp;Key-Value pair template for annotation of datasets in OMERO (light- and electron microscopy data within the research group of Prof. Mueller-Reichert)
 10.5281/zenodo.12578084 Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/12546808](https://zenodo.org/records/12546808)
 
@@ -1442,7 +1442,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, FAIR-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo, Include In Dalia
 
 Content type: Slides
 
@@ -1465,7 +1465,7 @@ Licensed MIT
 
 Linking Electronic Lab Notebooks and other sources with OMERO objects 
 
-Tags: OMERO, Research Data Management, Electronic Lab Notebooks
+Tags: OMERO, Research Data Management, Electronic Lab Notebooks, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1486,7 +1486,7 @@ Licensed CC-BY-4.0
 
 As a methodological approach, research data policies of German universities are collected and evaluated, and compared to international recommendations on research data policies.
 
-Tags: Research Data Management, FAIR-Principles
+Tags: Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Publication
 
@@ -1499,7 +1499,7 @@ Content type: Publication
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Document
 
@@ -1516,7 +1516,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Research Data Management, Metadata
+Tags: Research Data Management, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -1531,7 +1531,7 @@ Content type: Publication
 
 A tutorial explaining how to make Github repositories citable by automatically creating DOIs using the Github-Zenodo integration.
 
-Tags: Sharing, Citing, Research Data Management
+Tags: Sharing, Citing, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -1552,7 +1552,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1569,7 +1569,7 @@ Licensed UNKNOWN
 
 Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -1588,7 +1588,7 @@ Licensed CC-BY-4.0
 
 Presentation was given at the 2nd MPG-NFDI Workshop on April 18th about e NFDI4BIOIMAGE Consortium, FAIRification of Image (meta)data, Zarr, RFC, Training (TA5), contributing.
 
-Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, FAIR-Principles, Zarr, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1609,7 +1609,7 @@ Licensed CCY-BY-SA-4.0
 
 Align existing and establish novel services & solutions for data management tasks throughout the bioimage data lifecycle.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Conference Abstract, Slides
 
@@ -1628,7 +1628,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE core mission, bioimage data challenge, task areas, FAIR bioimage workflows.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -1649,7 +1649,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -1666,7 +1666,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Collection
 
@@ -1688,7 +1688,7 @@ Licensed CC-BY-4.0
 These illustrations were contracted by the Heinrich Heine University D&uuml;sseldorf in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.AttributionPlease include an attribution similar to: "Data annoation matters", NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by Henning Falk, Zenodo,&nbsp;https://doi.org/10.5281/zenodo.14186100, is used under a CC-BY 4.0 license. Modifications to this illustration include cropping.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/14186101](https://zenodo.org/records/14186101)
 
@@ -1705,7 +1705,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management
+Tags: Arc, Dataplant, Hackathon, Nfdi4Bioimage, OMERO, Python, Research Data Management, Exclude From Dalia
 
 Content type: Event, Publication, Documentation
 
@@ -1726,7 +1726,7 @@ Licensed CC-BY-4.0
 
 This repository documents the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon), where topics like 'Interoperability', 'REMBI / Mapping', and 'Neuroglancer (OMERO / zarr)' were explored through collaborative discussions and workflow sessions, culminating in reports that bridge NFDI4Bioimage to DataPLANT. Funded by various DFG initiatives, this event emphasized documentation and use cases, contributing preparatory work for future interoperability projects at the 2nd de.NBI BioHackathon in Bielefeld.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1747,7 +1747,7 @@ Licensed CC-BY-4.0
 
 Raw microscopy image from the NFDI4Bioimage calendar October 2024
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/13837146](https://zenodo.org/records/13837146)
 
@@ -1768,7 +1768,7 @@ Licensed UNKNOWN
 
 This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1781,7 +1781,7 @@ Content type: Blog Post
 
 
 
-Tags: OMERO, Research Data Management
+Tags: OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Event
 
@@ -1798,7 +1798,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1821,7 +1821,7 @@ Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gid
 Note: much of the presentation was a demonstration of the OME2024-NGFF-Challenge -- https://ome.github.io/ome2024-ngff-challenge/ especially of querying an extraction of the metadata (https://github.com/ome/ome2024-ngff-challenge-metadata)
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
@@ -1840,7 +1840,7 @@ Licensed ALL RIGHTS RESERVED
 
 A use case example from the Münster Imaging Network
 
-Tags: Nfdi4Bioimage, OMERO, Research Data Management
+Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1857,7 +1857,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -1878,7 +1878,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -1899,7 +1899,7 @@ Licensed CC-BY-4.0
 
 Photonic data analysis, combining imaging, spectroscopy, machine learning, and computer science, requires flexible methods and interdisciplinary collaborations to advance. Essential developments include standardizing data infrastructure for comparability, optimizing data-driven models for complex investigations, and creating techniques to handle limited or unbalanced data and device variations.
 
-Tags: FAIR-Principles, Machine Learning, Research Data Management
+Tags: FAIR-Principles, Machine Learning, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -1914,7 +1914,7 @@ Jennifer Waters
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1933,7 +1933,7 @@ Licensed CC-BY-4.0
 
 In 2005, the first version of OMERO stored RDF natively. However, just a year after the 1.0 release of RDF, performance considerations led to the development of a more traditional SQL approach for OMERO. A binary protocol makes it possible to query and retrieve metadata but the resulting information cannot immediately be combined with other sources. This is the adventure of rediscovering the benefit of RDF triples as a -- if not the -- common exchange mechanism.
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1952,7 +1952,7 @@ Licensed CC-BY-4.0
 
 This page is supposed to serve as a Starter Kit for research data management (RDM). It lists resources designed to help researchers get started to organize their data.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Website
 
@@ -1967,7 +1967,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -1982,7 +1982,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, OMERO
+Tags: Research Data Management, OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -1997,7 +1997,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -2014,7 +2014,7 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management, Open Source Software
+Tags: Research Data Management, Open Source Software, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -2033,7 +2033,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -2054,7 +2054,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2075,7 +2075,7 @@ Licensed CC0-1.0
 
 Recommended Metadata for Biological Images (REMBI) provides guidelines for metadata for biological images to enable the FAIR sharing of scientific data.
 
-Tags: FAIR-Principles, Metadata, Research Data Management
+Tags: FAIR-Principles, Metadata, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -2105,7 +2105,7 @@ This Research Data Management (RDM) Slides introduce to the multidisciplinary kn
 
 &nbsp;
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2128,7 +2128,7 @@ Licensed CC-BY-4.0
 
 This article discusses various aspects of data reusability in the context of scientific research, including technological, legal, and policy frameworks.
 
-Tags: Research Data Management, Open Science, Data Protection
+Tags: Research Data Management, Open Science, Data Protection, Exclude From Dalia
 
 Content type: Publication
 
@@ -2145,7 +2145,7 @@ Licensed UNKNOWN
 
 The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
 
-Tags: Research Data Management, FAIR-Principles, Licensing
+Tags: Research Data Management, FAIR-Principles, Licensing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -2166,7 +2166,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2183,7 +2183,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2200,7 +2200,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -2215,7 +2215,7 @@ Elisabeth Kugler
 
 
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -2234,7 +2234,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -2253,7 +2253,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -2274,7 +2274,7 @@ Licensed CC-BY-4.0
 
 Der Umgang mit personenbezogenen Daten stellt Forschende oft vor rechtliche Herausforderungen: Unter welchen Bedingungen d&uuml;rfen personenbezogene Daten verarbeitet werden? Welche Voraussetzungen m&uuml;ssen erf&uuml;llt sein und welche Strategien k&ouml;nnen angewendet werden, um Daten sicher speichern, verarbeiten, teilen und aufbewahren zu k&ouml;nnen? Mit Hilfe dieses Foliensatzes erhalten Sie Einblicke in datenschutzrechtliche Aspekte beim Umgang mit Ihren Forschungsdaten.&nbsp;
 
-Tags: Research Data Management, Data Protection, FAIR-Principles
+Tags: Research Data Management, Data Protection, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -2291,7 +2291,7 @@ Content type: Slides
 
 How to make your Github repository citable by adding a citation.cff file.
 
-Tags: Sharing, Citing, Research Data Management
+Tags: Sharing, Citing, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -2331,7 +2331,7 @@ Content:
 	...
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/7018750](https://zenodo.org/records/7018750)
 
@@ -2348,7 +2348,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Tutorial, Video
 
@@ -2369,7 +2369,7 @@ Licensed CC-BY-4.0
 
  These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
 
-Tags: Research Data Management, Data Stewardship
+Tags: Research Data Management, Data Stewardship, Include In Dalia
 
 Content type: Slides
 
@@ -2386,7 +2386,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -2407,7 +2407,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2430,7 +2430,7 @@ Licensed CC-BY-4.0
 
 This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.
 
-Tags: FAIR-Principles, Research Data Management
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2453,7 +2453,7 @@ Licensed CC-BY-4.0
 
 Research data management (RDM) in microscopy and image analysis is a challenging task. Large files in proprietary formats, complex N-dimensional array structures, and various metadata models and formats can make image data handling inconvenient and difficult. For data organization, annotation, and sharing, researchers need solutions that fit everyday practice and comply with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. International community-based efforts have begun creating open data models (OME), an open file format and translation library (OME-TIFF, Bio-Formats), data management software platforms, and microscopy metadata recommendations and annotation tools. Bringing these developments into practice requires support and training. Iterative feedback and tool&nbsp;improvement is needed to foster practical adoption by the scientific&nbsp;community. The Information Infrastructure for BioImage Data (I3D:bio) project&nbsp;works on guidelines, training resources, and practical assistance for FAIR&nbsp;microscopy RDM adoption with a focus on the management platform OMERO&nbsp;and metadata annotations.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
@@ -2474,7 +2474,7 @@ Licensed CC-BY-4.0
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
@@ -2493,7 +2493,7 @@ Licensed CC-BY-4.0
 
 Presentation given at PoL BioImage Analysis Symposium Dresden 2023
 
-Tags: Research Data Management, Nfdi4Bioimage
+Tags: Research Data Management, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -2512,7 +2512,7 @@ Licensed CC-BY-NC-ND-4.0
 
 This paper focuses on the ongoing process of establishing a FAIR (Findable, Accessible, Interoperable and Reusable) data workflow for multidisciplinary research and development in applied plasma science. The presented workflow aims to support researchers in handling their project data while also fulfilling the requirements of modern digital research data management. 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -2533,7 +2533,7 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
@@ -2556,7 +2556,7 @@ Within the project FDMentor, a German Train-the-Trainer Programme on Research Da
 
 After the end of the project, the concept was supplemented and updated by members of the Sub-Working Group Training/Further Education (UAG Schulungen/Fortbildungen) of the DINI/nestor Working Group Research Data (DINI/nestor-AG Forschungsdaten). The newly published English version of the Train-the-Trainer Concept contains the translated concept, the materials and all methods of the Train-the-Trainer Programme. Furthermore, additional English references and materials complement this version.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Book
 
@@ -2577,7 +2577,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -2596,7 +2596,7 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
-Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -2617,7 +2617,7 @@ Licensed CC-BY-4.0
 
 At the Center for Advanced Imaging (CAi) at the Heinrich Heine University D&uuml;sseldorf, Germany, we have established a workflow to guide users through all aspects of bioimaging. The process begins with an initial consultation with our imaging specialists regarding microscopy techniques for their specific project. Users then receive training in microscope operation, ensuring they can handle the equipment effectively. If needed, our specialists also provide support in image analysis. Next, we introduce users to OMERO, highlighting its features and the advantages of using a bioimage data management system. They are then trained to structure and annotate their data within OMERO according to the Recommended Metadata for Biological Images (REMBI), taking their specific research topics into account. As users prepare for data publication, we assist with data organization and repository uploads. Our goal is to educate researchers in managing bioimage data&nbsp;throughout its entire lifecycle, with a strong emphasis on the FAIR (findable, accessible, interoperable, reusable) principles.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/14988921](https://zenodo.org/records/14988921)
 
@@ -2636,7 +2636,7 @@ Licensed CC-BY-4.0
 
 For decades, the sharing of large N-dimensional datasets has posed issues across multiple domains. Interactively accessing terabyte-scale data has previously required significant server resources to properly prepare cropped or down-sampled representations on the fly. Now, a cloud-native chunked format easing this burden has been adopted in the bioimaging domain for standardization. The format — Zarr — is potentially of interest for other consortia and sections of NFDI.
 
-Tags: Research Data Management, Bioimage Analysis, Data Science
+Tags: Research Data Management, Bioimage Analysis, Data Science, Exclude From Dalia
 
 Content type: Poster
 
@@ -2658,7 +2658,7 @@ Licensed CC-BY-4.0
 Overview of Activities of the Team Image Data Analysis and Management of German BioImaging e.V.
 &nbsp;
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/10796364](https://zenodo.org/records/10796364)
 
@@ -2680,7 +2680,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11235513](https://zenodo.org/records/11235513)
 
@@ -2699,7 +2699,7 @@ Licensed CC-BY-4.0
 
 Poster presented at the European Light Microscopy Initiative meeting in Liverpool (https://www.elmi2024.org/)
 
-Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -2720,7 +2720,7 @@ Licensed CC-BY-4.0
 
 Keynote at the NFDI4BIOIMAGE All-Hands Meeting in Düsseldorf, Germany, October 16, 2023.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Slides
 
@@ -2741,7 +2741,7 @@ Licensed CC-BY-4.0
 
 Poster presented at Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4HCLS 2023), Feb 13--16, 2023, Basel, Switzerland. NFDI4BIOIMAGE is a newly established German consortium dedicated to the FAIR representation of biological imaging data. A key deliverable is the definition of a semantically-compatible FAIR image object integrating RDF metadata with web-compatible storage of large n-dimensional binary data in OME-Zarr. We invite feedback from and collaboration with other endeavors during the soon-to-begin 5 year funding period.
 
-Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage
+Tags: Research Data Management, FAIR-Principles, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 
@@ -2760,7 +2760,7 @@ Licensed CC-BY-4.0
 
 Short Talk about the NFDI4BIOIMAGE consortium presented at the RDM in (Bio-)Medicine Information Event on April 10th, 2024, organized C³RDM & ZB MED.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -2798,7 +2798,7 @@ Identify the dos and don'ts for bioimage data publication
 &nbsp;
 (taken from: https://www.ebi.ac.uk/training/events/journey-fair-bioimage-data/)
 
-Tags: Nfdi4Bioimage, Fair Principles, Research Data Management
+Tags: Nfdi4Bioimage, Fair Principles, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15796252](https://zenodo.org/records/15796252)
 
@@ -2848,7 +2848,7 @@ Learn from each other, leverage different expertise
 Learn how to train users, establish sustainability strategies, and foster FAIR RDM for bioimaging at your institution
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14178789](https://zenodo.org/records/14178789)
 
@@ -2881,7 +2881,7 @@ Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) 
 Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
 Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
@@ -2916,7 +2916,7 @@ By the end of the workshop, participants will have gained hands-on experience wi
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/15026373](https://zenodo.org/records/15026373)
 
@@ -2944,7 +2944,7 @@ Publishing datasets in public archives for bioimage dataKsenia Kroo&szlig; /Hein
 
 Date &amp; Venue:Thursday, Sept. 26, 5.30 p.m.Haus 22 / Paul Ehrlich Lecture Hall (H22-1)University Hospital Frankfurt
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
@@ -2963,7 +2963,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -2984,7 +2984,7 @@ Licensed GNU GENERAL PUBLIC LICENSE V3.0
 
 
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository, Software
 
@@ -3005,7 +3005,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing, Nfdi4Bioimage, Research Data Management
+Tags: Sharing, Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -3026,7 +3026,7 @@ Licensed GNU GENERAL PUBLIC LICENSE V3.0
 
 Library to export OMERO projects to ARC repositories
 
-Tags: OMERO, Research Data Management
+Tags: OMERO, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository, Software
 
@@ -3043,7 +3043,7 @@ Licensed CC-BY-4.0
 
 Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines. It includes repositories that enable permanent storage of and access to data sets to researchers, funding bodies, publishers, and scholarly institutions.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 

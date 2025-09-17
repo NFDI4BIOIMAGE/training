@@ -5,7 +5,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -64,7 +64,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bio Image Analysis, Artifical Intelligence
+Tags: Bio Image Analysis, Artifical Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -79,7 +79,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -94,7 +94,7 @@ Mara Lampert
 
 
 
-Tags: Github, Python, Science Communication
+Tags: Github, Python, Science Communication, Include In Dalia
 
 Content type: Blog Post
 
@@ -113,7 +113,7 @@ Licensed CC-BY-4.0
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: Licensing, Research Data Management
+Tags: Licensing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -130,7 +130,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -145,7 +145,7 @@ Mara Lampert
 
 
 
-Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
+Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob, Include In Dalia
 
 Content type: Blog Post
 
@@ -160,7 +160,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -175,7 +175,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -190,7 +190,7 @@ Elisabeth Kugler
 
 
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -209,7 +209,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -224,7 +224,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 

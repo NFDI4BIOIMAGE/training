@@ -5,7 +5,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -20,7 +20,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -37,7 +37,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -52,7 +52,7 @@ Mara Lampert
 
 
 
-Tags: Github, Python, Science Communication
+Tags: Github, Python, Science Communication, Include In Dalia
 
 Content type: Blog Post
 
@@ -67,7 +67,7 @@ Mara Lampert
 
 
 
-Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob
+Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob, Include In Dalia
 
 Content type: Blog Post
 
@@ -82,7 +82,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -97,7 +97,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -112,7 +112,7 @@ Mara Lampert
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 

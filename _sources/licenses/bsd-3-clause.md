@@ -9,7 +9,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -27,6 +27,8 @@ Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali,
 Licensed BSD-3-CLAUSE
 
 
+
+Tags: Include In Dalia
 
 Content type: Collection, Publication
 
@@ -49,7 +51,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Include In Dalia
 
 Content type: Github Repository
 
@@ -66,7 +68,7 @@ Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -87,7 +89,7 @@ Licensed BSD-3-CLAUSE
 
 This is a repository containing a textbook written for BioImaging scientists and other microscopists.
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Book, Github Repository
 
@@ -106,7 +108,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -129,6 +131,8 @@ Licensed BSD-3-CLAUSE
 
 Contains the survey data collected through the 2024 Bridging Imaging Users to Imaging Analysis Survey and figures/code from preliminary data exploration of the survey results.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/17127544](https://zenodo.org/records/17127544)
 
 [https://doi.org/10.5281/zenodo.17127544](https://doi.org/10.5281/zenodo.17127544)
@@ -144,7 +148,7 @@ Licensed BSD-3-CLAUSE
 
 CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
 
-Tags: Cellprofiler, Bioimage Analysis
+Tags: Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -163,7 +167,7 @@ Licensed BSD-3-CLAUSE
 
 This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -182,7 +186,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.
 
-Tags: Image Registration, Itk, Elastix
+Tags: Image Registration, Itk, Elastix, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -203,7 +207,7 @@ Licensed BSD-3-CLAUSE
 
 Napari-ndev is a collection of widgets intended to serve any person seeking to process microscopy images from start to finish. The goal of this example pipeline is to get the user familiar with working with napari-ndev for batch processing and reproducibility (view Image Utilities and Workflow Widget).
 
-Tags: Napari, Bioimage Analysis
+Tags: Napari, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation, Github Repository, Tutorial
 
@@ -222,7 +226,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -248,6 +252,8 @@ Updated documentation website to use a stable Fiji download: https://gut-analysi
 
 Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
 
 [https://doi.org/10.5281/zenodo.16396219](https://doi.org/10.5281/zenodo.16396219)
@@ -265,7 +271,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -284,7 +290,7 @@ Licensed BSD-3-CLAUSE
 
 This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
 
-Tags: Bioimage Analysis, Notebooks, Biabob
+Tags: Bioimage Analysis, Notebooks, Biabob, Include In Dalia
 
 Content type: Github Repository, Tutorial, Notebook
 
@@ -305,7 +311,7 @@ Licensed BSD-3-CLAUSE
 
 Self-guided notebook tutorials to help get started with IDC
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -322,7 +328,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -339,7 +345,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -356,7 +362,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -375,7 +381,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -390,7 +396,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Neubias, Bioimage Analysis
+Tags: Python, Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -409,7 +415,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial for running CellPose advanced functions
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository
 
@@ -430,7 +436,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Fiji
+Tags: Fiji, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -449,7 +455,7 @@ Licensed BSD-3-CLAUSE
 
 This is a conversion and second life of SciPy Cookbook as a bunch of Ipython notebooks.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -468,7 +474,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -489,7 +495,7 @@ Licensed BSD-3-CLAUSE
 
 Repository accompanying the multiview-stitcher tutorial for Virtual I2K 2024
 
-Tags: Big Data, Bioimageanalysis
+Tags: Big Data, Bioimageanalysis, Include In Dalia
 
 Content type: Github Repository, Tutorial
 
@@ -508,7 +514,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 
@@ -525,7 +531,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -542,7 +548,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -563,7 +569,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Todo
+Tags: Exclude From Dalia
 
 Content type: Github Repository
 
@@ -584,7 +590,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -605,7 +611,7 @@ Licensed BSD-3-CLAUSE
 
 This is a three-part workshop guiding you through using napari to view images, a brief bioimaging analysis application, and extending napari's functionality with your own custom workflows.
 
-Tags: Python, Napari
+Tags: Python, Napari, Include In Dalia
 
 Content type: Github Repository
 
@@ -626,7 +632,7 @@ Licensed BSD-3-CLAUSE
 
 NextFlow 101
 
-Tags: Bioimage Analysis, Workflows
+Tags: Bioimage Analysis, Workflows, Include In Dalia
 
 Content type: Github Repository
 
@@ -643,7 +649,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -664,7 +670,7 @@ Licensed BSD-3-CLAUSE
 
 Project planning and material repository for the 2024 challenge to generate 1 PB of OME-Zarr data
 
-Tags: Sharing, Nfdi4Bioimage, Research Data Management
+Tags: Sharing, Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -685,7 +691,7 @@ Licensed BSD-3-CLAUSE
 
 Scanpy Tutorials.
 
-Tags: Single-Cell Analysis, Bioimage Analysis
+Tags: Single-Cell Analysis, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 
@@ -706,7 +712,7 @@ Licensed BSD-3-CLAUSE
 
 A tutorial of classical shape analysis methods
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 

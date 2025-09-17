@@ -11,7 +11,7 @@ Licensed APACHE-2.0
 
 The BIOMERO framework, for BioImage analysis in OMERO, allows you to run (FAIR) bioimage analysis workflows directly from OMERO on a high-performance compute (HPC) cluster, remotely through SSH.
 
-Tags: OMERO, Github
+Tags: OMERO, Github, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -30,7 +30,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -47,7 +47,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 [https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples](https://github.com/InsightSoftwareConsortium/ITKElastix/tree/main/examples)
 
@@ -64,7 +64,7 @@ Licensed APACHE-2.0
 
 Jupyter notebooks for learning how to use SimpleITK
 
-Tags: Bioimage Analysis, Simpleitk
+Tags: Bioimage Analysis, Simpleitk, Include In Dalia
 
 Content type: Github Repository
 
@@ -85,7 +85,7 @@ Licensed APACHE-2.0
 
 firefox extension: reads datamatrix code from camera and create a sample in an inventory to link it into an ELN.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -106,7 +106,7 @@ Licensed APACHE-2.0
 
 Teaching material for image processing and analysis
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository
 

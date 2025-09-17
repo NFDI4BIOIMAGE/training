@@ -31,6 +31,8 @@ These images were obtained using the plugin BigSticher on the raw data ( https:/
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6645978](https://zenodo.org/records/6645978)
 
 [https://doi.org/10.5281/zenodo.6645978](https://doi.org/10.5281/zenodo.6645978)
@@ -82,7 +84,7 @@ NOTE: This dataset uses&nbsp;the &ldquo;HeLa &ldquo;Kyoto&rdquo; cells&nbsp;unde
 
 NOTE: This dataset was used to train cellpose models in the following Zenodo entry&nbsp;https://doi.org/10.5281/zenodo.6140111
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -118,6 +120,8 @@ The model file (MODEL NAME) in this repository is the result of this training.
 Prediction Procedure: Using this model, a label image can be obtained from new unseen images in a given folder with
 
 python -m cellpose --dir NEW/DATASET/PATH --pretrained_model FULL_MODEL_PATH --chan 0 --chan2 0 --save_tif --no_npy
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/6023317](https://zenodo.org/records/6023317)
 
@@ -186,6 +190,8 @@ NOTE: Make sure that you delete the &ldquo;_flow&rdquo; images that are auto-com
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6140111](https://zenodo.org/records/6140111)
 
 [https://doi.org/10.5281/zenodo.6140111](https://doi.org/10.5281/zenodo.6140111)
@@ -216,6 +222,8 @@ This a test dataset, HeLa cells stained for action using Phalloidin-488&nbsp;acq
 -&nbsp;PSFgen_WF_WBpsf.tif&nbsp; , is a theoretical PSF generated with PSF generator
 
 - PSFgen_WFsquare_WBpsf.tif, is the result of&nbsp;the&nbsp;square operation on PSFgen_WF_WBpsf.tif , to approximate a confocal PSF
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/5101351](https://zenodo.org/records/5101351)
 
@@ -268,6 +276,8 @@ NOTE: This dataset was used to automatically generate label images in the follow
 
 NOTE: This dataset was used to train the cellpose models in the following Zenodo entry: https://doi.org/10.5281/zenodo.6140111
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/6139958](https://zenodo.org/records/6139958)
 
 [https://doi.org/10.5281/zenodo.6139958](https://doi.org/10.5281/zenodo.6139958)
@@ -285,7 +295,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -324,6 +334,8 @@ PythonCode.txt : code ran to transform output results from QuPath to final resul
 
 [1] Bankhead, P. et al.&nbsp;QuPath: Open source software for digital pathology image analysis.&nbsp;Scientific Reports&nbsp;(2017). https://doi.org/10.1038/s41598-017-17204-5
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/6523649](https://zenodo.org/records/6523649)
 
 [https://doi.org/10.5281/zenodo.6523649](https://doi.org/10.5281/zenodo.6523649)
@@ -342,6 +354,8 @@ Licensed CC-BY-4.0
 
 
 This imagej macro analyses the reporter intensity activity and expression domain in EPI aggregates and Gastruloids.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/7409423](https://zenodo.org/records/7409423)
 
@@ -375,6 +389,8 @@ This document contains a full QuPath project with an example of registered image
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/5675686](https://zenodo.org/records/5675686)
 
 [https://doi.org/10.5281/zenodo.5675686](https://doi.org/10.5281/zenodo.5675686)
@@ -390,7 +406,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 

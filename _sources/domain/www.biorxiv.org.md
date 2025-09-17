@@ -9,7 +9,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -28,6 +28,8 @@ Licensed MIT
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Notebook, Collection
 
 [https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
@@ -45,7 +47,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -60,7 +62,7 @@ Joachim Goedhart
 
 
 
-Tags: Sharing
+Tags: Sharing, Exclude From Dalia
 
 Content type: Preprint
 
@@ -79,7 +81,7 @@ Licensed CC-BY-4.0
 
 Glittr.org is a platform that aggregates and indexes training materials on computational life sciences from public git repositories, making it easier for users to find, compare, and analyze these resources based on various metrics. By providing insights into the availability of materials, collaboration patterns, and licensing practices, Glittr.org supports adherence to the FAIR principles, benefiting the broader life sciences community.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -100,7 +102,7 @@ Licensed None
 
 Single cell and spatial transcriptomics illuminate complementary features of tissues. However, the online dissemination and exploration of multi-modal datasets is challenging. We introduce the WebAtlas pipeline for user-friendly sharing and interactive navigation of integrated datasets. WebAtlas unifies commonly used atlassing technologies into the cloud-optimised Zarr format and builds on Vitessce to enable remote data navigation. We showcase WebAtlas on the developing human lower limb to cross-query cell types and genes across single cell, sequencing- and imaging-based spatial transcriptomic data.
 
-Tags: Spatial Transcriptomics, Single Cell, Bioimage Analysis
+Tags: Spatial Transcriptomics, Single Cell, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Atlas
 

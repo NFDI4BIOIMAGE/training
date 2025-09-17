@@ -7,7 +7,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -24,7 +24,7 @@ Licensed BSD-2-CLAUSE
 
 Fiji is a popular free open-source image processing package based on ImageJ.
 
-Tags: Imagej, OMERO
+Tags: Imagej, OMERO, Exclude From Dalia
 
 Content type: Online Tutorial
 
@@ -39,7 +39,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Collection
 
@@ -54,7 +54,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Document
 
@@ -69,7 +69,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Document
 
@@ -84,7 +84,7 @@ Licensed BSD-2-CLAUSE
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Collection
 
@@ -104,6 +104,8 @@ Licensed BSD-2-CLAUSE
 
 
 Web page for validating OME-NGFF files.
+
+Tags: Exclude From Dalia
 
 Content type: Github Repository, Application
 

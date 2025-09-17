@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -24,7 +24,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -60,7 +60,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Napari
+Tags: Python, Bioimage Analysis, Napari, Include In Dalia
 
 Content type: Notebook
 
@@ -77,7 +77,7 @@ Licensed ['CC-BY-4.0', 'BSD-3-CLAUSE']
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -94,7 +94,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -111,7 +111,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -128,7 +128,7 @@ Licensed BSD-3-CLAUSE
 
 CellProfiler tutorials and guided exercises about translocation, segmentation, pixel-based classification and quality control
 
-Tags: Cellprofiler, Bioimage Analysis
+Tags: Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -144,6 +144,8 @@ Guillaume Jacquemet
 Licensed MIT
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -164,7 +166,7 @@ Licensed BSD-3-CLAUSE
 
 This book is a companion to the Nature Methods publication Community-developed checklists for publishing images and image analyses. In this paper, members of QUAREP-LiMi have proposed 3 sets of standards for publishing image figures and image analysis - minimal requirements, recommended additions, and ideal comprehensive goals. By following this guidance, we hope to remove some of the stress non-experts may face in determining what they need to do, and we also believe that researchers will find their science more interpretable and more reproducible.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -181,7 +183,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -198,7 +200,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook
 
@@ -215,7 +217,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -232,7 +234,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Notebook
 
@@ -249,7 +251,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Big Data
+Tags: Python, Bioimage Analysis, Big Data, Exclude From Dalia
 
 Content type: Notebook
 
@@ -264,7 +266,7 @@ Licensed AGPL-3.0
 
 
 
-Tags: Python, R, Artificial Intelligence
+Tags: Python, R, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -281,7 +283,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Fiji, Artificial Intelligence, Bioimage Analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -298,7 +300,7 @@ Licensed MIT
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -315,7 +317,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -332,7 +334,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -349,7 +351,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -368,7 +370,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial material for teaching the basics of (itk-)elastix for image registration in microscopy images.
 
-Tags: Image Registration, Itk, Elastix
+Tags: Image Registration, Itk, Elastix, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -385,7 +387,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -402,7 +404,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -421,7 +423,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -440,7 +442,7 @@ Licensed APACHE-2.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Notebook, Github Repository
 
@@ -461,7 +463,7 @@ Licensed BSD-3-CLAUSE
 
 This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
 
-Tags: Bioimage Analysis, Notebooks, Biabob
+Tags: Bioimage Analysis, Notebooks, Biabob, Include In Dalia
 
 Content type: Github Repository, Tutorial, Notebook
 
@@ -478,7 +480,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -495,7 +497,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -512,7 +514,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -531,7 +533,7 @@ Licensed MIT
 
 Series of Notebooks exposing how to do mostly basic and some advanced image processing using Python. It uses standard packages (Numpy, Maplotlib) and for the image processing parts is heavily based on the scikit-image package.
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -548,7 +550,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Imagej, Bioimage Analysis
+Tags: Python, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -567,7 +569,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -586,7 +588,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Slides, Notebook
 
@@ -603,7 +605,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Code, Notebook
 
@@ -622,7 +624,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -637,7 +639,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python, Neubias, Bioimage Analysis
+Tags: Python, Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -654,7 +656,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -671,7 +673,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -688,7 +690,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -705,7 +707,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -724,7 +726,7 @@ Licensed GPL-2.0
 
 This repository contains the materials for the University of Oxford DTC ONBI Image Analysis course.
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -741,7 +743,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis
+Tags: Neubias, Research Data Management, Napari, Python, Bioimage Analysis, Include In Dalia
 
 Content type: Book, Notebook
 
@@ -754,7 +756,7 @@ Content type: Book, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -767,7 +769,7 @@ Content type: Event, Notebook
 
 
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Event, Notebook
 
@@ -786,7 +788,7 @@ Licensed CC-BY-4.0
 
 This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
 
-Tags: Gpu, Clesperanto, Dask, Python
+Tags: Gpu, Clesperanto, Dask, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -803,7 +805,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Code, Notebook
 
@@ -820,7 +822,7 @@ Licensed MIT
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook, Collection
 
@@ -839,7 +841,7 @@ Licensed CC-BY-4.0
 
 This book contains the quantitative analysis labs for the QI CSHL course, 2024
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -858,7 +860,7 @@ Licensed CC-BY-4.0
 
 In these lectures, we will explore ways to analyze microscopy images with Python and visualize them with napari, an nD viewer open-source software. The analysis will be done in Python mostly using the scikit-image, pyclesperanto and apoc libraries, via Jupyter notebooks. We will also explore some napari plugins as an interactive and convenient alternative way of performing these analysis, especially the napari-assistant, napari-apoc and napari-flim-phasor-plotter plugins.
 
-Tags: Napari, Python
+Tags: Napari, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -879,7 +881,7 @@ Licensed UNKNOWN
 
 These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
 
-Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -894,7 +896,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Python, Napari, Bioimage Analysis
+Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 
 Content type: Collection, Notebook
 
@@ -911,7 +913,7 @@ Licensed MIT
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -936,7 +938,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -953,7 +955,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -974,7 +976,7 @@ Licensed GPL-3.0
 
 
 
-Tags: Histopathology, Bioimage Analysis
+Tags: Histopathology, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository, Notebook
 
@@ -995,7 +997,7 @@ Licensed BSD-3-CLAUSE
 
 A tutorial of classical shape analysis methods
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 

@@ -15,6 +15,8 @@ Link to the event:
 https://fortbildung.uni-leipzig.de/fortbildung.html?id=2436
 M. Massei is funded by the Deutsche Forschungsgemeinschaft (DFG) &ndash; project number [NFDI46/1] - 501864659
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16880913](https://zenodo.org/records/16880913)
 
 [https://doi.org/10.5281/zenodo.16880913](https://doi.org/10.5281/zenodo.16880913)
@@ -35,6 +37,8 @@ Licensed GPL-2.0
 This tutorial shows how to make cartographic projections of fly embryos using the ImSAnE Toolbox&nbsp;(Heemskerk and Streichan 2015).
 
 Instructions: download and open the imsane-tutorial.html&nbsp;file on your browser.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/7628300](https://zenodo.org/records/7628300)
 
@@ -57,6 +61,8 @@ This repository contains the imaging data for the laser perturbation experiments
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15876646](https://zenodo.org/records/15876646)
 
 [https://doi.org/10.5281/zenodo.15876646](https://doi.org/10.5281/zenodo.15876646)
@@ -78,6 +84,8 @@ This repository contains the lightsheet and in situ hybridization imaging data f
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15876638](https://zenodo.org/records/15876638)
 
 [https://doi.org/10.5281/zenodo.15876638](https://doi.org/10.5281/zenodo.15876638)
@@ -98,6 +106,8 @@ Licensed CC-BY-4.0
 This repository contains the code and simulations for the manuscript:
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomanč&aacute;k P.&nbsp;Patterned embryonic invagination evolved in response to mechanical instability. bioRxiv (2023) doi:10.1101/2023.03.30.534554
 Please refer to the main repository for more information:&nbsp;https://doi.org/10.5281/zenodo.7781947
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/15869598](https://zenodo.org/records/15869598)
 
@@ -160,6 +170,8 @@ annotations for longest-isoform dataset
 
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14250773](https://zenodo.org/records/14250773)
 
 [https://doi.org/10.5281/zenodo.14250773](https://doi.org/10.5281/zenodo.14250773)
@@ -180,6 +192,8 @@ Licensed CC-BY-4.0
 This repository contains the data and analyses for the manuscript:
 Vellutini, B. C., Mart&iacute;n-Dur&aacute;n, J. M., B&oslash;rve, A. &amp; Hejnol, A.&nbsp;Combinatorial Wnt signaling landscape during brachiopod anteroposterior patterning.&nbsp;BMC Biol. 22, 1&ndash;23 (2024).&nbsp;https://doi.org/10.1186/s12915-024-01988-w
 The source is maintained at&nbsp;https://github.com/bruvellu/terebratalia-wnts.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/13338425](https://zenodo.org/records/13338425)
 

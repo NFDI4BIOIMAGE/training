@@ -7,6 +7,8 @@ Licensed MIT
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Notebook, Collection
 
 [https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
@@ -40,7 +42,7 @@ File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 634 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -73,7 +75,7 @@ File format: .tif (16-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 645 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -106,7 +108,7 @@ File format: .tif (8-bit for brightfield images and 8 and 16-bit for the masks)
 
 Image size: 1024x1024 (Pixel size: 650 nm)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -129,7 +131,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -148,7 +150,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -169,7 +171,7 @@ Licensed CC-BY-4.0
 
 This article emphasizes the importance of structured, hands-on data exploration in quantitative cell biology, offering practical advice for analyzing bioimage datasets. It also highlights how generative AI and large language models can enhance and streamline data workflows for more reliable and transparent research.
 
-Tags: Bioimage Analysis, Data Exploration
+Tags: Bioimage Analysis, Data Exploration, Include In Dalia
 
 Content type: Publication
 
@@ -196,7 +198,7 @@ For more details see&nbsp;https://imagej.net/plugins/trackmate/trackmate-stardis
 
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -285,7 +287,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -374,7 +376,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -465,7 +467,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -559,7 +561,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -651,7 +653,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -742,7 +744,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -836,7 +838,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi: https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -925,7 +927,7 @@ Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&a
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 &nbsp;
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -961,7 +963,7 @@ Cell type: MDA-MB-231 cells and BT20 cells
 
 File format: .tif (16-bit for fluorescence and 8 and 16-bit for the masks)
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1049,7 +1051,7 @@ Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA inte
 Gautier&nbsp;Follain,&nbsp;Sujan&nbsp;Ghimire,&nbsp;Joanna W.&nbsp;Pylv&auml;n&auml;inen,&nbsp;Monika&nbsp;Vaitkevičiūtė,&nbsp;Diana&nbsp;Wurzinger,&nbsp;Camilo&nbsp;Guzm&aacute;n,&nbsp;James RW&nbsp;Conway,&nbsp;Michal&nbsp;Dibus,&nbsp;Sanna&nbsp;Oikari,&nbsp;Kirsi&nbsp;Rilla,&nbsp;Marko&nbsp;Salmi,&nbsp;Johanna&nbsp;Ivaska,&nbsp;Guillaume&nbsp;Jacquemet
 bioRxiv&nbsp;2024.09.30.615654;&nbsp;doi:&nbsp;https://doi.org/10.1101/2024.09.30.615654
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1100,7 +1102,7 @@ Affiliation&nbsp;:&nbsp;
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1157,7 +1159,7 @@ Associated publications: Unpublished
 
 Funding bodies: G.J. was supported by grants awarded by the Academy of Finland, the Sigrid Juselius Foundation and &Aring;bo Akademi University Research Foundation (CoE CellMech) and by Drug Discovery and Diagnostics strategic funding to &Aring;bo Akademi University.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -1176,7 +1178,7 @@ Licensed MIT
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 

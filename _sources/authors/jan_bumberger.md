@@ -11,7 +11,7 @@ Licensed MIT
 
 Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
 
@@ -30,7 +30,7 @@ Licensed CC-BY-4.0
 
 High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -48,6 +48,8 @@ Published 2025-03-05
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
 
@@ -68,7 +70,7 @@ Licensed CC-BY-4.0
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 

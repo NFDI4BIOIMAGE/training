@@ -14,6 +14,8 @@ This version has&nbsp;not yet been reviewed or approved by the European Commissi
 A final, EC-approved version will be published when available.
 This document presents a strategic analysis of training resources for Euro-BioImaging Nodes, assessing bothNode-organized and global opportunities. By analyzing Node-organized and externally available trainingcourses, alongside insights from recent surveys and training bursary applications, this report provides afoundation for strengthening the training framework of Euro-BioImagingDelivering high-quality imaging services relies on continuous skill development, particularly as scientificadvancements and technological innovations reshape the imaging landscape.&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/17048377](https://zenodo.org/records/17048377)
 
 [https://doi.org/10.5281/zenodo.17048377](https://doi.org/10.5281/zenodo.17048377)
@@ -32,6 +34,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2020.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16357209](https://zenodo.org/records/16357209)
 
@@ -52,6 +56,8 @@ Licensed CC-BY-4.0
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2021.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16357461](https://zenodo.org/records/16357461)
 
 [https://doi.org/10.5281/zenodo.16357461](https://doi.org/10.5281/zenodo.16357461)
@@ -70,6 +76,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2023.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16323251](https://zenodo.org/records/16323251)
 
@@ -90,6 +98,8 @@ Licensed CC-BY-4.0
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2024.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/16761197](https://zenodo.org/records/16761197)
 
 [https://doi.org/10.5281/zenodo.16761197](https://doi.org/10.5281/zenodo.16761197)
@@ -108,6 +118,8 @@ Licensed CC-BY-4.0
 
 
 Euro-BioImaging ERIC is the European landmark research infrastructure for biological and biomedical imaging as recognized by the European Strategy Forum on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class imaging facilities across Europe. This document is the Euro-BioImaging Annual Report for the year 2022.
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/8146412](https://zenodo.org/records/8146412)
 
@@ -128,7 +140,7 @@ Licensed CC-BY-4.0
 
 Hands-on exercises on FAIR Bioimage Data from the interactive online workshop "Euro-BioImaging's Guide to FAIR BioImage Data 2024" (https://www.eurobioimaging.eu/news/a-guide-to-fair-bioimage-data-2024/).&nbsp; Types of tasks included: FAIR characteristics of a real world dataset Data Management Plan (DMP) Journal Policies on FAIR data sharing Ontology search Metadata according to REMBI scheme (Image from: Sarkans, U., Chiu, W., Collinson, L. et al. REMBI: Recommended Metadata for Biological Images&mdash;enabling reuse of microscopy data in biology. Nat Methods 18, 1418&ndash;1422 (2021). https://doi.org/10.1038/s41592-021-01166-8) Matching datasets to bioimage repositories Browsing bioimage repositories
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -152,7 +164,7 @@ Licensed CC-BY-4.0
 Euro-BioImaging has developed a Data Management Plan (DMP) template with questions tailored to bioimaging research projects. Outlining data management practices in this way ensures traceability of project data, allowing for a continuous and unambiguous flow of information throughout the research project. This template can be used to satisfy the requirement to submit a DMP to certain funders. Regardless of the funder, Euro-BioImaging users are encouraged to provide a DMP and can use this template accordingly.&nbsp;
 This DMP template is available as a fillable PDF with further instructions and sample responses available by hovering over the fillable fields.&nbsp;
 
-Tags: Bioimage Analysis, FAIR-Principles, Research Data Management
+Tags: Bioimage Analysis, FAIR-Principles, Research Data Management, Exclude From Dalia
 
 Content type: Collection, Tutorial
 
@@ -176,6 +188,8 @@ Licensed CC-BY-4.0
 This presentaiton sumarises Euro-BioImaging ERIC services, focussing on their Image Data Services. It briefly presents processes and challenges in image anlaysis service provison and introduces some supporting tools. It also emphasises the roll of community initiatives and networks in providing solutions and support towards Image data management and analysis. This presentaiton was part of the GloBIAS BioImage Analysis Seminar Series.
 Date of presentation: 2025-07-24
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
 
 [https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
@@ -197,6 +211,8 @@ Depositing data in quality data repositories is one crucial step towards FAIR (F
 To guide you in the selection of appropriate repositories, we have created an overview of available repositories for different types of image data, including their scope and requirements. This decision tree guides you through questions about your data and directs you to the correct repository, and/or provides instructions for further processing to meet the critera of the repositories.&nbsp;
 Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data. These versions with three trees can be used for web-view. Update: also the editable versions in powerpoint format (.pptx) are now provided. Please be aware that opening the versions with another program might lead to shifted formatting.
 Update: we now also provide ready-to-print versions designed to be printed on A3 format. One page shows the open bioimaging data tree and one page combines the preclinical and human imaging data trees. Also the editable versions of these are provided.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
 
@@ -227,6 +243,8 @@ Sylvia E. Le D&eacute;v&eacute;dec &ndash; &ldquo;Image Data Management &amp; FA
 
 Why Archive These Sessions?These masterclasses offer invaluable insights for core facility managers, imaging scientists, and team leaders in life sciences. They blend hands-on leadership strategies, technical facility growth advice, and real-world experience&mdash;making them essential viewing for professionals and institutions aiming to build sustainable, people-centred imaging infrastructures.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15837532](https://zenodo.org/records/15837532)
 
 [https://doi.org/10.5281/zenodo.15837532](https://doi.org/10.5281/zenodo.15837532)
@@ -249,6 +267,8 @@ Abstract
 FAIR 101 - Navigating FAIR data from principles to practice
 Isabel Kemmer, Euro-BioImaging ERIC
 This workshop will introduce the FAIR principles in the context of bioimaging data. Designed for researchers working across scales and technologies of biological and biomedical imaging, the session will address the unique challenges posed by complex, multidimensional bioimaging datasets. With the aim of providing simple yet impactful steps for a smooth start to the FAIR journey we will explore the features and benefits of FAIR data through interactive exercises and discussions - from metadata annotation and data management planning to repository selection. By the end of the workshop, you will feel more confident in applying the FAIR concepts and be prepared to improve your imaging workflows to make your precious data even more valuable.
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
 

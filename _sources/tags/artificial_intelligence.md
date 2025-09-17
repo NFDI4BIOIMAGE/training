@@ -11,7 +11,7 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides, Webinar
 
@@ -28,7 +28,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation
 
@@ -49,7 +49,7 @@ Licensed UNKNOWN
 
 How can artificial intelligence be used for digital pathology?
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Video
 
@@ -68,7 +68,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -89,7 +89,7 @@ Licensed CC-BY-4.0
 
 In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
 
@@ -110,7 +110,7 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Slides
 
@@ -131,7 +131,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -152,7 +152,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
@@ -171,7 +171,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Slides
 
@@ -192,7 +192,7 @@ Licensed UNKNOWN
 
 BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: Artificial Intelligence, Workflow Engine
+Tags: Artificial Intelligence, Workflow Engine, Exclude From Dalia
 
 Content type: Publication
 
@@ -211,7 +211,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -226,7 +226,7 @@ Licensed CC0-1.0
 
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -241,7 +241,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Collection
 
@@ -262,7 +262,7 @@ Licensed BSD-3-CLAUSE
 
 This is a repository containing a textbook written for BioImaging scientists and other microscopists.
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Book, Github Repository
 
@@ -279,7 +279,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -296,7 +296,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -313,7 +313,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -330,7 +330,7 @@ Licensed MIT
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/dl-teaching-resources](https://github.com/constantinpape/dl-teaching-resources)
 
@@ -345,7 +345,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -366,7 +366,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -383,7 +383,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook
 
@@ -400,7 +400,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Notebook
 
@@ -415,7 +415,7 @@ Licensed AGPL-3.0
 
 
 
-Tags: Python, R, Artificial Intelligence
+Tags: Python, R, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -432,7 +432,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Fiji, Artificial Intelligence, Bioimage Analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -449,7 +449,7 @@ Licensed MIT
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -466,7 +466,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -489,7 +489,7 @@ Licensed CC-BY-4.0
 
 When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
@@ -510,7 +510,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -527,7 +527,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -544,7 +544,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -561,7 +561,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -583,7 +583,7 @@ Licensed CC-BY-4.0
 In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
 Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
@@ -602,7 +602,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -619,7 +619,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -638,7 +638,7 @@ Licensed MIT
 
 This course consists of lectures and exercises that teach the background of deep learning for image analysis and show applications to classification and segmentation analysis problems.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -655,7 +655,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Tutorial
 
@@ -676,7 +676,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
-Tags: Globias, Artificial Intelligence
+Tags: Globias, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
@@ -693,7 +693,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -710,7 +710,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -736,7 +736,7 @@ Overview of Segment Anythign for Microscopy given at the SWISSBIAS online meetin
 Talk about vision foundation models and Segment Anything for Microscopy given at Human Technopole as part of the EMBO Deep Learning Course in May 2024
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Slides
 
@@ -757,7 +757,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -774,7 +774,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -793,7 +793,7 @@ Licensed BSD-3-CLAUSE
 
 Tutorial for running CellPose advanced functions
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository
 
@@ -810,7 +810,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -831,7 +831,7 @@ Licensed CC-BY-4.0
 
 Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
@@ -848,7 +848,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 
@@ -883,7 +883,7 @@ napari-chatgpt
 bioimage.io chatbot
 
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
@@ -900,7 +900,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -921,7 +921,7 @@ Licensed MIT
 
 Your Personal Assistant in Computational Bioimaging.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -938,7 +938,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -959,7 +959,7 @@ Licensed CC-BY-4.0
 
 Course repository for Strategic Use of Generative AI
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Github Repository, Tutorial
 

@@ -7,7 +7,7 @@ Licensed UNKOWN
 
 Leading open-source platform for collaborative and living data management plans.
 
-Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles
+Tags: Data Stewardship, Open Source, Research Data Management, FAIR-Principles, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -24,7 +24,7 @@ Licensed CC-BY-4.0
 
 In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
 
-Tags: FAIR-Principles, Data Stewardship, Research Data Management
+Tags: FAIR-Principles, Data Stewardship, Research Data Management, Include In Dalia
 
 Content type: Collection
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 The authors have developed a model for scientific metadata, and they have made that model usable by both CEDAR and FAIRware. The approach shows that a formal metadata model can standardize reporting guidelines and that it can enable separate software systems to assist (1) in the authoring of standards-adherent metadata and (2) in the evaluation of existing metadata.
 
-Tags: Data Stewardship, FAIR-Principles, Metadata
+Tags: Data Stewardship, FAIR-Principles, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -68,7 +68,7 @@ Licensed CC-BY-4.0
 
  These slides were presented at the 2. SaxFDM-Beratungsstammtisch and delve into the strategic integration of Research Data Management (RDM) within research organizations. The Leibniz IOER presented an insightful overview of RDM activities and approaches, emphasizing the criticality of embedding RDM strategically within research institutions. The presentation showcases some best practices in RDM implementation through practical examples, offering valuable insights for optimizing data stewardship processes.
 
-Tags: Research Data Management, Data Stewardship
+Tags: Research Data Management, Data Stewardship, Include In Dalia
 
 Content type: Slides
 
@@ -91,7 +91,7 @@ Licensed CC-BY-4.0
 
 The FAIR guiding principles for research data stewardship (findability, accessibility, interoperability, and reusability) look set to become a cornerstone of research in the life sciences. A critical appraisal of these principles in light of ongoing discussions and developments about data sharing is in order.
 
-Tags: FAIR-Principles, Data Stewardship, Sharing
+Tags: FAIR-Principles, Data Stewardship, Sharing, Exclude From Dalia
 
 Content type: Publication
 
@@ -110,7 +110,7 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
-Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Data Stewardship, Nfdi4Bioimage, Include In Dalia
 
 Content type: Poster
 

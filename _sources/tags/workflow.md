@@ -11,7 +11,7 @@ Licensed CC-BY-4.0
 
 The authors introduce BIOMERO (bioimage analysis in OMERO), a bridge connecting OMERO, a renowned bioimaging data management platform, FAIR workflows, and high-performance computing (HPC) environments.
 
-Tags: OMERO, Workflow, Bioimage Analysis
+Tags: OMERO, Workflow, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Workflow
+Tags: Workflow, Include In Dalia
 
 Content type: Tutorial, Online Tutorial
 
@@ -43,7 +43,7 @@ Licensed CC0-1.0
 
 A workflow is a chain of analysis steps. In Galaxy, we can create a workflow from an existing analysis history, or we can create one visually by adding tools to a canvas. This tutorial covers building a workflow to analyse a bacterial genome, from input FASTQ sequencing reads to assembly, annotation, and visualization.
 
-Tags: Workflow
+Tags: Workflow, Include In Dalia
 
 Content type: Online Tutorial, Tutorial
 
@@ -62,7 +62,7 @@ Licensed GPL-3.0
 
 The KNIME Image Processing Extension allows you to read in more than 140 different kinds of images and to apply well known methods on images, like preprocessing. segmentation, feature extraction, tracking and classification in KNIME.
 
-Tags: Imagej, OMERO, Workflow
+Tags: Imagej, OMERO, Workflow, Exclude From Dalia
 
 Content type: Tutorial, Online Tutorial, Documentation
 
@@ -81,7 +81,7 @@ Licensed CC-BY-NC-SA
 
 Multimodal large language models have been recognized as a historical milestone in the field of artificial intelligence and have demonstrated revolutionary potentials not only in commercial applications, but also for many scientific fields. Here we give a brief overview of multimodal large language models through the lens of bioimage analysis and discuss how we could build these models as a community to facilitate biology research
 
-Tags: Bioimage Analysis, FAIR-Principles, Workflow
+Tags: Bioimage Analysis, FAIR-Principles, Workflow, Exclude From Dalia
 
 Content type: Publication
 
@@ -98,7 +98,7 @@ Jens Wendt
 
 
 
-Tags: Metadata, Workflow, OMERO
+Tags: Metadata, Workflow, OMERO, Include In Dalia
 
 Content type: Forum Post
 
@@ -117,7 +117,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 
@@ -136,7 +136,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -157,7 +157,7 @@ Licensed CC-BY-4.0
 
 Nextflow workshop materials March 2023
 
-Tags: Workflow, Nextflow
+Tags: Workflow, Nextflow, Include In Dalia
 
 Content type: Github Repository, Tutorial
 

@@ -9,6 +9,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
 
 [https://doi.org/10.5281/zenodo.14979253](https://doi.org/10.5281/zenodo.14979253)
@@ -26,6 +28,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
 
 [https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
@@ -41,7 +45,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -62,6 +66,8 @@ Licensed CC-BY-4.0
 
 Data and access to it are central to each NFDI consortium. However, moving data&nbsp;around is often impractical&mdash;it may be too large, sensitive, or restricted by agreements&nbsp;with, e.g., the funding provider, and copying introduces duplication, versioning issues,&nbsp;and loss of provenance. Rather than bringing data to the researcher, a Desktop-as-a-Service (DaaS) approach can offer researchers interactive, high-performance access in a secure and efficient manner. Driven by the need for seamless workflows and&nbsp;efficient data handling in NFDI4BIOIMAGE, we present a DaaS approach that is&nbsp;broadly applicable across NFDI. It supports diverse use cases, such as standardized&nbsp;virtual training environments for distributed participants (like required in DataPLANT), remote visualization of large-scale HPC datasets, and secure access to sensitive&nbsp;data (BERD)&mdash;all without the overhead of local machine setup and maintenance.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/17103962](https://zenodo.org/records/17103962)
 
 [https://doi.org/10.5281/zenodo.17103962](https://doi.org/10.5281/zenodo.17103962)
@@ -79,7 +85,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 

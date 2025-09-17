@@ -7,6 +7,8 @@ Licensed BSD-3-CLAUSE
 
 
 
+Tags: Include In Dalia
+
 Content type: Collection, Publication
 
 [https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
@@ -30,7 +32,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -55,7 +57,7 @@ Original image files, label (ground truth) files, and PSF files used in the ABRF
 
 See https://github.com/ABRFLMRG/image-analysis-study for more details.
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -72,7 +74,7 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -93,7 +95,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 

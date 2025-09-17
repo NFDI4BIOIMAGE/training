@@ -7,7 +7,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis
+Tags: Python, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -28,7 +28,7 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides, Webinar
 
@@ -45,7 +45,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis
+Tags: Artificial Intelligence, Workflow Engine, Bioimage Analysis, Exclude From Dalia
 
 Content type: Documentation
 
@@ -64,7 +64,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 [https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md](https://github.com/miura/HTManalysisCourse/blob/master/CentreCourseProtocol.md)
 
@@ -81,7 +81,7 @@ Licensed UNKNOWN
 
 The ARC is a framework for organizing and documenting research data, as well as a container that continuously supports collaboration, data exchange, and adherence to FAIR principles among various researchers. The ARC can be checked for completeness and quality at any time and converted into a citable data publication without interrupting the research or documentation process. It is built on widely accepted research data standards such as RO-Crate, ISA, and abstract CWL.
 
-Tags: Research Data Management, Fair
+Tags: Research Data Management, Fair, Exclude From Dalia
 
 Content type: Framework
 
@@ -102,7 +102,7 @@ Licensed UNKNOWN
 
 How can artificial intelligence be used for digital pathology?
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Video
 
@@ -121,7 +121,7 @@ Licensed UNKNOWN
 
 The primary goal of this seminar series is to provide a dynamic platform for bioimage analysts, enabling the community to stay up to date with the latest developments in the field and foster community interactions. The seminars are designed to cater to intermediate and advanced analysts, focusing on practical, high-level content that extends beyond basic instruction.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection
 
@@ -142,7 +142,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -158,6 +158,8 @@ Christian Tischer
 Licensed UNKNOWN
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Slides
 
@@ -176,7 +178,7 @@ Licensed UNKNOWN
 
 BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: Artificial Intelligence, Workflow Engine
+Tags: Artificial Intelligence, Workflow Engine, Exclude From Dalia
 
 Content type: Publication
 
@@ -191,7 +193,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 Content type: Collection
 
@@ -212,7 +214,7 @@ Licensed UNKNOWN
 
 UMAP is a powerful tool for exploratory data analysis, but without a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
 
-Tags: Biology, Data Analysis, Umap
+Tags: Biology, Data Analysis, Umap, Exclude From Dalia
 
 Content type: Blog Post
 
@@ -229,7 +231,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -246,7 +248,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -265,7 +267,7 @@ Licensed UNKNOWN
 
  ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
 
-Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning
+Tags: Deep Learning, Computer Vision, Neural Networks, Machine Learning, Include In Dalia
 
 Content type: Blog Post
 
@@ -282,7 +284,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -303,7 +305,7 @@ Licensed UNKNOWN
 
 This is a playlist of videos about how CT works
 
-Tags: Imaging
+Tags: Imaging, Exclude From Dalia
 
 Content type: Video
 
@@ -318,7 +320,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -333,7 +335,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Data
 
@@ -350,7 +352,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -367,7 +369,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Cellprofiler, Bioimage Analysis
+Tags: Neubias, Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -382,7 +384,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Napari, Python, Bioimage Analysis
+Tags: Napari, Python, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -401,7 +403,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -418,7 +420,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook
 
@@ -437,7 +439,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bio Image Analysis, Artifical Intelligence
+Tags: Bio Image Analysis, Artifical Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -454,7 +456,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Notebook
 
@@ -471,7 +473,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Bioimage Analysis, Big Data
+Tags: Python, Bioimage Analysis, Big Data, Exclude From Dalia
 
 Content type: Notebook
 
@@ -492,7 +494,7 @@ Licensed UNKNOWN
 
 The author discusses a number of color palettes that are suitable for coloring graphical elements in plots.
 
-Tags: Data Visualization
+Tags: Data Visualization, Include In Dalia
 
 Content type: Blog Post
 
@@ -509,7 +511,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Open Science
+Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dalia
 
 Content type: Slides, Presentation
 
@@ -526,7 +528,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Fiji, Artificial Intelligence, Bioimage Analysis
+Tags: Fiji, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -543,7 +545,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Book
 
@@ -566,7 +568,7 @@ Licensed UNKNOWN
 
 BioCypher is a framework to support users in creating KGs
 
-Tags: Knowledge Graph, Bioinformatics
+Tags: Knowledge Graph, Bioinformatics, Exclude From Dalia
 
 Content type: Publication
 
@@ -585,7 +587,7 @@ Licensed UNKNOWN
 
 Presentation given at the EMBO-DL4MIA 2024, Advanced Topic Seminar, May-11-2024
 
-Tags: Bioimage Analysis, Diffusion Models, Tu Dresden
+Tags: Bioimage Analysis, Diffusion Models, Tu Dresden, Exclude From Dalia
 
 Content type: Presentation
 
@@ -604,7 +606,7 @@ Licensed UNKNOWN
 
 In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
 
-Tags: Docker
+Tags: Docker, Include In Dalia
 
 Content type: Video, Tutorial, Online Course
 
@@ -625,7 +627,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -642,7 +644,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -659,7 +661,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -676,7 +678,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Artificial Intelligence
+Tags: Python, Artificial Intelligence, Include In Dalia
 
 Content type: Notebook
 
@@ -695,7 +697,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Book
 
@@ -716,7 +718,7 @@ Licensed UNKNOWN
 
 Funding agencies may demand that original source data of a publication be published, too. So the question is - where should one publish the data? And how does it get there?
 
-Tags: I3Dbio, Research Data Management
+Tags: I3Dbio, Research Data Management, Include In Dalia
 
 Content type: Tutorial
 
@@ -735,7 +737,7 @@ Licensed UNKNOWN
 
 Sharing your data can benefit your career in some interesting ways. In this post, read why you should be making more of your research data openly available.
 
-Tags: Research Data Management, Sharing
+Tags: Research Data Management, Sharing, Include In Dalia
 
 Content type: Blog Post
 
@@ -756,7 +758,7 @@ Licensed UNKNOWN
 
 This post explores how animation can enhance data visualizations by improving viewer understanding and engagement, while also acknowledging the risks of misuse. It presents five practical techniques, supported by examples and implementation tips using D3 or Observable Plot.
 
-Tags: Data Visualization
+Tags: Data Visualization, Include In Dalia
 
 Content type: Blog Post
 
@@ -773,7 +775,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Notebook
 
@@ -794,7 +796,7 @@ Licensed UNKNOWN
 
 Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research.
 
-Tags: Galaxy, Bioinformatics
+Tags: Galaxy, Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -810,6 +812,8 @@ Licensed UNKNOWN
 
 
 List of training materials by the German BioImaging community provided by facilities, the scientific community, and companies.
+
+Tags: Exclude From Dalia
 
 Content type: Collection
 
@@ -828,7 +832,7 @@ Licensed UNKNOWN
 
 Tutorial for accessing de.NBI cloud
 
-Tags: Bioinformatics, Cloud Computing
+Tags: Bioinformatics, Cloud Computing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -847,7 +851,7 @@ Licensed UNKNOWN
 
 The website provides resources and guidelines for managing research data efficiently and responsibly. Its focus is to ensure that data are properly organized, stored, documented, and shared throughout a research project, and even beyond, in a way that aligns with Open Science principles.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -866,7 +870,7 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Video, Tutorial, Collection
 
@@ -887,7 +891,7 @@ Licensed UNKNOWN
 
 This is the YouTube channel of GloBIAS, the Global BioImage Analysts Society. GloBIAS is a non-profit association officially constituted in October 2024.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -908,7 +912,7 @@ Licensed UNKNOWN
 
 A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.
 
-Tags: Research Data Management, Microscopy
+Tags: Research Data Management, Microscopy, Exclude From Dalia
 
 Content type: Blog Post
 
@@ -927,7 +931,7 @@ Licensed UNKNOWN
 
 A Microscopy Research Data Management Resource.
 
-Tags: Metadata, I3Dbio, Research Data Management
+Tags: Metadata, I3Dbio, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -944,7 +948,7 @@ Licensed UNKNOWN
 
 List of links to training materials by the I3D:bio community.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -965,7 +969,7 @@ Licensed UNKNOWN
 
 This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
 
-Tags: Galaxy, Bioimage Analysis
+Tags: Galaxy, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Video
 
@@ -982,6 +986,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Slides
 
 [https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1](https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1)
@@ -997,7 +1003,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1014,7 +1020,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Imagej Macro, Bioimage Analysis
+Tags: Neubias, Imagej Macro, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code
 
@@ -1031,7 +1037,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1048,7 +1054,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1065,7 +1071,7 @@ Licensed UNKNOWN
 
 The key-value pairs are annotations in OMERO useful to describe thoroughly the data and can be added & edited via the OMERO.web interface.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Documentation, Collection
 
@@ -1082,7 +1088,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Tutorial
 
@@ -1103,7 +1109,7 @@ Licensed UNKNOWN
 
 This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
 
-Tags: Dimensionality Reduction
+Tags: Dimensionality Reduction, Include In Dalia
 
 Content type: Video
 
@@ -1122,7 +1128,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Github Repository, Slides, Notebook
 
@@ -1143,7 +1149,7 @@ Licensed UNKNOWN
 
 This is a playlist of videos about how MRI works
 
-Tags: Imaging
+Tags: Imaging, Exclude From Dalia
 
 Content type: Video
 
@@ -1160,7 +1166,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1175,7 +1181,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Cellprofiler, Bioimage Analysis
+Tags: Cellprofiler, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial
 
@@ -1192,7 +1198,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Neubias, Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1209,7 +1215,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Code, Notebook
 
@@ -1228,7 +1234,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Notebook
 
@@ -1245,7 +1251,7 @@ Licensed UNKNOWN
 
 The mission of Metrics Reloaded is to guide researchers in the selection of appropriate performance metrics for biomedical image analysis problems, as well as provide a comprehensive online resource for metric-related information and pitfalls
 
-Tags: Bioimage Analysis, Quality Control
+Tags: Bioimage Analysis, Quality Control, Exclude From Dalia
 
 Content type: Website, Collection
 
@@ -1262,6 +1268,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 [https://github.com/imjoy-team/bioimage-io-resources](https://github.com/imjoy-team/bioimage-io-resources)
 
 
@@ -1275,7 +1283,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1292,7 +1300,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -1309,7 +1317,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1326,7 +1334,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1343,7 +1351,7 @@ Licensed UNKNOWN
 
 Schritt für Schritt verbessern wir die Nutzungsmöglichkeiten von Daten für Wissenschaft und Gesellschaft. Durch unser Zusammenwirken im NFDI-Verein entsteht eine Dachorganisation für das Forschungsdatenmanagement in allen Wissenschaftszweigen.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Website
 
@@ -1360,7 +1368,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage
+Tags: Bioimage Analysis, Research Data Management, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Collection
 
@@ -1381,7 +1389,7 @@ Licensed UNKNOWN
 
 This playful exploration delves into the quirky world of naming conventions in computing and data, humorously comparing them to Boston Box matrices and D&D alignments while poking fun at the chaos of categorizing what makes sense in metadata standards.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1398,7 +1406,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Neubias, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Notebook
 
@@ -1417,7 +1425,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Open Source, Alphafold
+Tags: Open Source, Alphafold, Exclude From Dalia
 
 Content type: Report, Blog Post
 
@@ -1431,6 +1439,8 @@ Content type: Report, Blog Post
 Licensed UNKNOWN
 
 
+
+Tags: Include In Dalia
 
 Content type: Code
 
@@ -1447,6 +1457,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Tutorial
 
 [https://git.embl.de/oezdemir/course_scripts#ome-zarr-course](https://git.embl.de/oezdemir/course_scripts#ome-zarr-course)
@@ -1460,7 +1472,7 @@ Licensed UNKNOWN
 
 
 
-Tags: OMERO
+Tags: OMERO, Include In Dalia
 
 Content type: Documentation
 
@@ -1477,7 +1489,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Include In Dalia
 
 Content type: Code, Notebook
 
@@ -1498,7 +1510,7 @@ Licensed UNKNOWN
 
 These are the notebooks and associated files for the i2k 2024 QuPath for Python programmers workshop.
 
-Tags: Python, Notebooks, Open Source Software, Bioimage Analysis
+Tags: Python, Notebooks, Open Source Software, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Notebook, Collection
 
@@ -1513,7 +1525,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, OMERO
+Tags: Research Data Management, OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -1530,7 +1542,7 @@ Licensed UNKNOWN
 
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 
-Tags: Research Data Management, Open Source Software
+Tags: Research Data Management, Open Source Software, Exclude From Dalia
 
 Content type: Website, Online Tutorial
 
@@ -1549,7 +1561,7 @@ Licensed UNKNOWN
 
 This tool is intended to link different research data management platforms with each other.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -1570,7 +1582,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1595,7 +1607,7 @@ Licensed UNKNOWN
 
 Reference Collection to understand how to deal with common statistical myths.
 
-Tags: Statistics
+Tags: Statistics, Exclude From Dalia
 
 Content type: Wiki
 
@@ -1614,7 +1626,7 @@ Licensed UNKNOWN
 
 This Focus issue features a series of papers offering guidelines and tools for improving the tracking and reporting of microscopy metadata with an emphasis on reproducibility and data re-use.
 
-Tags: Reproducibility, Metadata
+Tags: Reproducibility, Metadata, Exclude From Dalia
 
 Content type: Collection
 
@@ -1631,7 +1643,7 @@ Licensed UNKNOWN
 
 The website offers detailed advice on publishing research data, focusing on key issues like data management, FAIR data principles, legal considerations, and repository selection.
 
-Tags: Research Data Management, FAIR-Principles, Licensing
+Tags: Research Data Management, FAIR-Principles, Licensing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -1648,7 +1660,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Code
 
@@ -1665,7 +1677,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -1682,6 +1694,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Include In Dalia
+
 Content type: Tutorial
 
 [https://github.com/VolkerH/Jupyter-Napari-Desktop](https://github.com/VolkerH/Jupyter-Napari-Desktop)
@@ -1694,6 +1708,8 @@ Content type: Tutorial
 Licensed UNKNOWN
 
 
+
+Tags: Include In Dalia
 
 Content type: Tutorial
 
@@ -1714,7 +1730,7 @@ Licensed UNKNOWN
 
 Video Lectures for Statistical Rethinking Course
 
-Tags: Statistics
+Tags: Statistics, Exclude From Dalia
 
 Content type: Video
 
@@ -1729,7 +1745,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Collection
 
@@ -1744,7 +1760,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Data Life Cycle, Research Data Management
+Tags: Data Life Cycle, Research Data Management, Exclude From Dalia
 
 Content type: Collection
 
@@ -1765,7 +1781,7 @@ Licensed UNKNOWN
 
 The BioImage Archive is a new archival data resource at the European Bioinformatics Institute (EMBL-EBI).
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -1788,7 +1804,7 @@ Licensed UNKNOWN
 
 In this blog post, the author emphasizes problematic characters (e.g., spaces, slashes, colons) that should be avoided in filenames to ensure cross-platform compatibility across operating systems like Windows, macOS, and Linux, emphasizing the chaos caused by differing filesystem rules and naming conventions.
 
-Tags: Reseach Data Management
+Tags: Reseach Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1809,7 +1825,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Bioimage Analysis, Metadata
+Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -1826,7 +1842,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
 
@@ -1841,7 +1857,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -1858,7 +1874,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides
 
@@ -1875,7 +1891,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1896,7 +1912,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Youtube channel (http://www.denbi.de/)
 
-Tags: Bioinformatics
+Tags: Bioinformatics, Exclude From Dalia
 
 Content type: Youtube Channel
 
@@ -1917,7 +1933,7 @@ Licensed UNKNOWN
 
 Tutorial for registering for de.NBI cloud access
 
-Tags: Bioinformatics, Cloud Computing
+Tags: Bioinformatics, Cloud Computing, Exclude From Dalia
 
 Content type: Tutorial
 
@@ -1936,7 +1952,7 @@ Licensed UNKNOWN
 
 The de.NBI (German Network for Bioformatics Infrastructure) Online Training & Media Library provides a collection of training materials for bioinformatics and computational biology.
 
-Tags: Bioinformatics, Galaxy
+Tags: Bioinformatics, Galaxy, Exclude From Dalia
 
 Content type: Website
 
@@ -1953,7 +1969,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python, Big Data
+Tags: Python, Big Data, Exclude From Dalia
 
 Content type: Github Repository
 

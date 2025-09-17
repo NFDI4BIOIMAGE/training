@@ -7,7 +7,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -26,7 +26,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -43,7 +43,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -62,7 +62,7 @@ Licensed CC-BY-4.0
 
 Introduction to FAIR deep learning. Furthermore, tools to deploy trained DL models (deepImageJ), easily train and evaluate them (ZeroCostDL4Mic and DeepBacs) ensure reproducibility (DL4MicEverywhere), and share this technology in an open-source and reproducible manner (BioImage Model Zoo) are introduced.
 
-Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis
+Tags: Artificial Intelligence, FAIR-Principles, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -79,7 +79,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -98,7 +98,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -119,7 +119,7 @@ Licensed CC-BY-4.0
 
 Overview about decision making and how to influence decisions in the bio-image analysis software context.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Presentation
 
@@ -137,6 +137,8 @@ Robert Haase
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Slides
 
@@ -159,7 +161,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -176,7 +178,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -195,7 +197,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 

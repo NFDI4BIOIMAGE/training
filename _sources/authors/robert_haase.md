@@ -9,7 +9,7 @@ Licensed CC-BY-4.0
 
 This article gives an overview about commonly used bioimage analysis software and which aspects to consider when choosing a software for a specific project.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -24,7 +24,7 @@ Robert Haase, Deborah Schmidt, Wayne Rasband, Curtis Rueden, Florian Jug, Pavel 
 
 
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication, Poster
 
@@ -45,7 +45,7 @@ Licensed CC-BY-4.0
 
 In diesem Slidedeck geben wir einen Einblick in Angebote und Dienste der Nationalen Forschungsdaten Infrastruktur (NFDI), die Relevant f&uuml;r die Zoologie und angrenzende Disziplinen relevant sein k&ouml;nnten.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/14278058](https://zenodo.org/records/14278058)
 
@@ -64,7 +64,7 @@ Licensed CC-BY-4.0
 
 Training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -88,6 +88,8 @@ https://github.com/haesleinhuepf/bia-bob
 https://github.com/haesleinhuepf/git-bob
 &nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14001044](https://zenodo.org/records/14001044)
 
 [https://doi.org/10.5281/zenodo.14001044](https://doi.org/10.5281/zenodo.14001044)
@@ -107,7 +109,7 @@ Licensed CC-BY-4.0
 
 In this presentation I introduce bia-bob, an AI-based code generator that integrates into Jupyter Lab and allows for easy generation of Bio-Image Analysis Python code. It highlights how to get started with using large language models and prompt engineering to get high-quality bio-image analysis code.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/13908108](https://zenodo.org/records/13908108)
 
@@ -128,7 +130,7 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) change the way how we use computers. This also has impact on the bio-image analysis community. We can generate code that analyzes biomedical image data if we ask the right prompts. This talk outlines introduces basic principles, explains prompt engineering and how to apply it to bio-image analysis. We also compare how different LLM vendors perform on code generation tasks and which challenges are ahead for the bio-image analysis community.
 
-Tags: Artificial Intelligence, Python
+Tags: Artificial Intelligence, Python, Include In Dalia
 
 Content type: Slides
 
@@ -149,7 +151,7 @@ Licensed CC-BY-4.0
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python.
 
-Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python
+Tags: Research Data Management, Artificial Intelligence, Bioimage Analysis, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -170,7 +172,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material will develop here and in the corresponding&nbsp;github repository between April and July 2025.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Exclude From Dalia
 
 [https://zenodo.org/records/15858127](https://zenodo.org/records/15858127)
 
@@ -189,7 +191,7 @@ Licensed CC-BY-4.0
 
 These are the PPTx training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. The material developed here between April and July 2024.
 
-Tags: Bioimage Analysis, Artificial Intelligence, Python
+Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Slides
 
@@ -208,7 +210,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Napari
+Tags: Python, Bioimage Analysis, Napari, Include In Dalia
 
 Content type: Notebook
 
@@ -225,7 +227,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Python
+Tags: OMERO, Python, Include In Dalia
 
 Content type: Blog Post
 
@@ -246,7 +248,7 @@ Licensed ALL RIGHTS RESERVED
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -263,7 +265,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Include In Dalia
 
 Content type: Slides
 
@@ -282,7 +284,7 @@ Licensed CC-BY-4.0
 
 This article outlines common reasons for founding bioimage analysis core-facilities, services they can provide to fulfill certain need and conflicts of interest that arise from these services.
 
-Tags: Bioimage Analysis, Research Data Management
+Tags: Bioimage Analysis, Research Data Management, Include In Dalia
 
 Content type: Publication
 
@@ -303,6 +305,8 @@ Licensed CC-BY-4.0
 
 Large Language Models (LLMs) such as ChatGPT are changing the way we interact with computers, including how we analye microscopy imaging data. In this talk I introduce basic concepts of asking LLMs to write code and how to modify the questions to get the best out of it. For trying out these prompt engineering basics there are additional online resources available: https://scads.github.io/prompt-engineering-basics-2024/intro.html
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13371196](https://zenodo.org/records/13371196)
 
 [https://doi.org/10.5281/zenodo.13371196](https://doi.org/10.5281/zenodo.13371196)
@@ -322,7 +326,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces the version control tool git, related terminology and the Github Desktop app for managing files in Git[hub] repositories. We furthermore dive into:* Working with repositories* Collaborative with others* Github-Zenodo integration* Github pages* Artificial Intelligence answering Github Issues
 
-Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management
+Tags: Nfdi4Bioimage, Globias, Research Data Management, Research Software Management, Include In Dalia
 
 [https://zenodo.org/records/14626054](https://zenodo.org/records/14626054)
 
@@ -341,7 +345,7 @@ Licensed CC-BY-4.0
 
 Introduction to version control using git for collaborative, reproducible script editing.
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -376,7 +380,7 @@ Artificial intelligence that can respond to GitHub issues
 
 
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/15379632](https://zenodo.org/records/15379632)
 
@@ -397,7 +401,7 @@ Licensed CC-BY-4.0
 
 In this blog post the author demonstrates how chatGPT can be used to combine a fictive project description with a DMP specification to produce a project-specific DMP.
 
-Tags: Research Data Management, Artificial Intelligence
+Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 
 Content type: Blog Post
 
@@ -418,7 +422,7 @@ Licensed CC-BY-4.0
 
 In this SaxFDM Digital Kitchen, I introduced current challenges and potential solutions for openly sharing training materials, softly focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and uploading materials to publicly acessible repositories are proposed to fill this gap.
 
-Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing
+Tags: Open Science, Research Data Management, FAIR-Principles, Bioimage Analysis, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -443,7 +447,7 @@ Licensed CC-BY-4.0
 These slides introduce current challenges and potential solutions for openly sharing training materials, focusing on bio-image analysis. In this field a lot of training materials circulate in private channels, but openly shared, reusable materials, according to the FAIR-principles, are still rare. Using the CC-BY license and publicly acessible repositories are proposed to fill this gap.
 
 
-Tags: Research Data Management, Licensing, FAIR-Principles
+Tags: Research Data Management, Licensing, FAIR-Principles, Include In Dalia
 
 Content type: Slides
 
@@ -466,7 +470,7 @@ Licensed CC-BY-4.0
 
 In dieser Data Management Session wird der Lebenszyklus von Daten n&auml;her beleuchtet. Wie entstehen Daten, was passiert mit ihnen, wenn sie verarbeitet werden? Wem geh&ouml;ren die Daten und wer ist daf&uuml;r verantwortlich, sie zu ver&ouml;ffentlichen, zu archivieren und gegebenenfalls wiederzuverwenden? Wir werden einen Datenmanagementplan in Gruppenarbeit entwerfen, ggf. mit Hilfe von ChatGPT.
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -489,7 +493,7 @@ Licensed CC-BY-4.0
 
 When training people in topics such as programming, bio-image analysis or data science, it makes sense to define a training strategy with a wider perspective than just trainees needs. This slide deck gives insights into aspects to consider when defining a training strategy. It considers funder's interests, financial aspects, metrics / goals, steps towards sustainability and opportunities for outreach and for founding future collaborations.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14053758](https://zenodo.org/records/14053758)
 
@@ -508,7 +512,7 @@ Licensed CC-BY-4.0
 
 This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Neubias
+Tags: Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -525,7 +529,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication, Poster
 
@@ -547,7 +551,7 @@ Licensed CC-BY-4.0
 In this slide deck we learn about the basics of Explainable Artificial Intelligence with a soft focus on Computer Vision. We take a deeper dive in one method: Gradient Class Activation Maps.
 Releated exercise materials are available online: https://haesleinhuepf.github.io/xai/
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14996127](https://zenodo.org/records/14996127)
 
@@ -564,7 +568,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Bioimage Analysis, Artificial Intelligence
+Tags: Python, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Slides
 
@@ -589,6 +593,8 @@ Added StarDist models back and removed deepimageJ models for neuron segmentation
 Updated documentation website to use a stable Fiji download: https://gut-analysis-toolbox.gitbook.io/docs#installation-and-configuration
 
 Full Changelog: https://github.com/pr4deepr/GutAnalysisToolbox/compare/v1.0...v1.1
+
+Tags: Exclude From Dalia
 
 [https://zenodo.org/records/16396219](https://zenodo.org/records/16396219)
 
@@ -692,6 +698,8 @@ G&oacute;mez-de-Mariscal, E., Garc&iacute;a-L&oacute;pez-de-Haro, C., Ouyang, W.
 ZeroCost DL4Mic
 von Chamier, L., Laine, R.F., Jukkala, J., Spahn, C., Krentzel, D., Nehme, E., Lerche, M., Hern&aacute;ndez-P&eacute;rez, S., Mattila, P.K., Karinou, E. and Holden, S., 2021. Democratising deep learning for microscopy with ZeroCostDL4Mic.&nbsp;Nature communications,&nbsp;12(1), pp.1-18.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/15314214](https://zenodo.org/records/15314214)
 
 [https://doi.org/10.5281/zenodo.15314214](https://doi.org/10.5281/zenodo.15314214)
@@ -709,7 +717,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis, Neubias
+Tags: Bioimage Analysis, Neubias, Include In Dalia
 
 Content type: Publication
 
@@ -730,7 +738,7 @@ Licensed CC-BY-4.0
 
 Overview about decision making and how to influence decisions in the bio-image analysis software context.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Slides, Presentation
 
@@ -751,7 +759,7 @@ Licensed BSD-3-CLAUSE
 
 Course and material for the clEsperanto workshop presented at I2K 2024 @ Human Technopol (Milan, Italy). The workshop is an hands-on demo of the clesperanto project, focussing on how to use the library for users who want use GPU-acceleration for their Image Processing pipeline.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Workshop, Tutorial, Notebook
 
@@ -770,7 +778,7 @@ Licensed BSD-3-CLAUSE
 
 This repository contains training materials for the Tutorial "Bio-Image Analysis Code Generation" at the From Images To Knowledge (I2K) Conference (virtual) October 28th-30th 2024.
 
-Tags: Bioimage Analysis, Notebooks, Biabob
+Tags: Bioimage Analysis, Notebooks, Biabob, Include In Dalia
 
 Content type: Github Repository, Tutorial, Notebook
 
@@ -789,7 +797,7 @@ Licensed CC-BY-4.0
 
 Blog post about why we should license our work and what is important when choosing a license.
 
-Tags: Licensing, Research Data Management
+Tags: Licensing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -806,7 +814,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -823,7 +831,7 @@ Licensed CC-BY-NC-4.0
 
 
 
-Tags: Imagej, Fiji, Bioimage Analysis
+Tags: Imagej, Fiji, Bioimage Analysis, Include In Dalia
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -838,7 +846,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -866,7 +874,7 @@ Automatisiertes Archivieren von Inhalten nach Zenodo.org
 Eigene Webseiten auf github.io publizieren
 
 
-Tags: Research Data Management, FAIR-Principles, Git, Zenodo
+Tags: Research Data Management, FAIR-Principles, Git, Zenodo, Include In Dalia
 
 Content type: Slides
 
@@ -889,7 +897,7 @@ Licensed CC-BY-4.0
 
 This slide deck introduces Large Language Models to an audience of life-scientists. We first dive into terminology: Different kinds of Language Models and what they can be used for. The remaining slides are optional slides to allow us to dive deeper into topics such as tools for using LLMs in Science, Quality Assurance, Techniques such as Retrieval Augmented Generation and Prompt Engineering.
 
-Tags: Globias, Artificial Intelligence
+Tags: Globias, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14418209](https://zenodo.org/records/14418209)
 
@@ -910,6 +918,8 @@ Licensed CC-BY-4.0
 
 The advent of large language models (LLMs) such as ChatGPT changes the way we analyse images. We ask LLMs to generate code, apply it to images and spend less time on learning implementation details. This also has impact on how we learn image analysis. While coding skills are still required, we can use LLMs to explain code, make proposals how to analyse the images and yet still decide how the analysis is done.
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/15165424](https://zenodo.org/records/15165424)
 
 [https://doi.org/10.5281/zenodo.15165424](https://doi.org/10.5281/zenodo.15165424)
@@ -925,7 +935,7 @@ Robert Haase
 
 Slides, scripts, data and other exercise materials of the BioImage Analysis lecture at CMCB TU Dresden 2020
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -942,7 +952,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Conda, Mamba
+Tags: Python, Conda, Mamba, Include In Dalia
 
 Content type: Blog Post
 
@@ -959,7 +969,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -978,7 +988,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -995,7 +1005,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -1016,7 +1026,7 @@ Licensed CC-BY-4.0
 
 Wir tauchen ein in die Welt der Open Science und definieren Begriffe wie Open Source, Open Access und die FAIR-Prinzipien (Findable, Accessible, Interoperable and Reuasable). Wir diskutieren, wie diese Methoden der [wissenschaftlichen] Kommunikation und des Datenmanagements die Welt ver&auml;ndern und wie wir sie praktisch in unsere Arbeit integrieren k&ouml;nnen. Dabei spielen Aspekte wie Copyright und Lizenzierung eine wichtige Rolle.
 
-Tags: Research Data Management, Open Access, FAIR-Principles, Licensing
+Tags: Research Data Management, Open Access, FAIR-Principles, Licensing, Include In Dalia
 
 Content type: Slides
 
@@ -1039,6 +1049,8 @@ Licensed ALL RIGHTS RESERVED
 
 This comment article outlines the current state of the art in open hardware publishing in the context of microscopy.
 
+Tags: Exclude From Dalia
+
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
@@ -1058,6 +1070,8 @@ Licensed CC-BY-4.0
 
 In the field of radiooncological research, individualised therapy is one of the hot topics at the moment. As a key aspect biologically-adapted therapy is discussed. Therapy adaption based on biological parameters&nbsp;may include tomographic imaging to determine biological properties of the tumour. One often invoked&nbsp;imaging modality is positron emission tomography (PET) using the tracer [18F]-fluoromisonidazole&nbsp;(FMISO) for hypoxia imaging. Hypoxia imaging is of interest, because hypoxic tumours are known to be radiorestistant. Even further, patients with hypoxic tumours have worse prognosis compared to patients&nbsp;with normoxic tumours. Thus, hypoxia imaging appears promising for radiotherapy treatment adaption.&nbsp;For example, volumetric analysis of FMISO PET could deliver additional hypoxia target volumes, which&nbsp;may be irradiated with higher radiation doses to improve the therapeutic effect. However, limited contrast&nbsp;between target volume and background in FMISO PET images interferes image analysis.Established&nbsp;methods for target volume delineation in PET do not allow determination of reliable contours in FMISO PET. To tackle this aspect, this thesis focusses on an earlier developed swarm intelligence based&nbsp;segmentation algorithm for FMISO PET and rather, its optimisation and validation in a clinically relevant&nbsp;setting. In this setting, clinical FMISO PET images were used which were acquired as part of a clinical&nbsp;trial performed at the Clinic and Policlinic for Radiation Therapy and Radiooncology of the University&nbsp;Hospital Carl Gustav Carus Dresden. The segmentation algorithm was applied to these imaging data&nbsp;sets and optimised using a cross-validation approach incorporating reference contours from experienced&nbsp;observers who outlined FMISO PET positive volumes manually. Afterwards, the performance of the algorithm&nbsp;and the properties of the resulting contours were studied in more detail. The algorithm was shown&nbsp;to deliver contours which were similar to manually-created contours to a degree like manually-created&nbsp;contours were similar to each other. Thus, the application of the algorithm in clinical research is recommended&nbsp;to eliminate inter-observer-variabilities. Finally, it was shown that repeated FMISO PET imaging&nbsp;before and shortly after the beginning of combined radiochemotherapy lead to manually-created contours&nbsp;with significantly higher variations than the variations of automatically-created contours using the&nbsp;proposed algorithm. Increased contour similarity in subsequently acquired imaging data highlights the&nbsp;observer-independence of the algorithm. While several observers outline different volumes, in identical&nbsp;data sets as well as in subsequent imaging data sets, the algorithm outlines more stable volumes in both&nbsp;cases. Thus, increased contour reproducibility is reached by automation of the delineation process by&nbsp;the proposed algorithm.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/7209862](https://zenodo.org/records/7209862)
 
 [https://doi.org/10.5281/zenodo.7209862](https://doi.org/10.5281/zenodo.7209862)
@@ -1072,6 +1086,8 @@ Robert Haase
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 Content type: Slides
 
@@ -1092,7 +1108,7 @@ Licensed CC-BY-4.0
 
 This repository hosts notebooks, information and data for the GPU-Accelerated Image Analysis Track of the PoL Bio-Image Analysis Symposium.
 
-Tags: Gpu, Clesperanto, Dask, Python
+Tags: Gpu, Clesperanto, Dask, Python, Include In Dalia
 
 Content type: Notebook
 
@@ -1113,6 +1129,8 @@ Licensed CC-BY-4.0
 
 In these two slide-decks we explore applications of large language models. In the first slide deck we dive into prompt engineering, function calling and how to build agentic workflows. In the second slide-deck we explore multi-modal large language models focusing on vision language models and image generation models.&nbsp;
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
 
 [https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
@@ -1132,7 +1150,7 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis
+Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
 
 [https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
 
@@ -1151,7 +1169,7 @@ Licensed CC-BY-4.0
 
 Introduction to sharing resources online and licensing
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -1170,7 +1188,7 @@ Licensed CC-BY-4.0
 
 Blog post about how to share data using zenodo.org
 
-Tags: Sharing, Research Data Management
+Tags: Sharing, Research Data Management, Include In Dalia
 
 Content type: Blog Post
 
@@ -1192,6 +1210,8 @@ Licensed CC-BY-4.0
 This is a dataset of PNG images of [Bio-Image Data Science teaching slides](https://zenodo.org/records/12623730). The png_umap.yml file contains a list of all images and a dimensionality reduced embedding (Uniform Manifold Approximation Projection, UMAP) made using OpenAI's text-embedding-ada-002 model.
 A notebook for visualizing this data is published here: https://github.com/haesleinhuepf/stackview/blob/main/docs/sliceplot.ipynb
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/14030307](https://zenodo.org/records/14030307)
 
 [https://doi.org/10.5281/zenodo.14030307](https://doi.org/10.5281/zenodo.14030307)
@@ -1209,7 +1229,7 @@ Licensed ALL RIGHTS RESERVED
 
 Article about the Fiji Updater explaining how it works in the background.
 
-Tags: Imagej
+Tags: Imagej, Exclude From Dalia
 
 Content type: Publication
 
@@ -1230,7 +1250,7 @@ Licensed CC-BY-4.0
 
 Bioimage analysis (BIA), a crucial discipline in biological research, overcomes the limitations of subjective analysis in microscopy through the creation and application of quantitative and reproducible methods. The establishment of dedicated BIA support within academic institutions is vital to improving research quality and efficiency and can significantly advance scientific discovery. However, a lack of training resources, limited career paths and insufficient recognition of the contributions made by bioimage analysts prevent the full realization of this potential. This Perspective – the result of the recent The Company of Biologists Workshop ‘Effectively Communicating Bioimage Analysis’, which aimed to summarize the global BIA landscape, categorize obstacles and offer possible solutions – proposes strategies to bring about a cultural shift towards recognizing the value of BIA by standardizing tools, improving training and encouraging formal credit for contributions
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Publication
 
@@ -1251,7 +1271,7 @@ Licensed CC-BY-4.0
 
 This talk will present the initiatives of the NFDI4BioImage consortium aimed at the long-term preservation of life science data. We will discuss our efforts to establish metadata standards, which are crucial for ensuring data reusability and integrity. The development of sustainable infrastructure is another key focus, enabling seamless data integration and analysis in the cloud. We will take a look at how we manage training materials and communicate with our community. Through these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for German researchers, across disciplines and embedded in the international framework.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/13640979](https://zenodo.org/records/13640979)
 
@@ -1272,6 +1292,8 @@ Licensed CC-BY-4.0
 
 The integration of Large Language Models (LLMs) in scientific research presents both opportunities and challenges for life scientists. Key challenges include ensuring transparency in AI-generated content and facilitating efficient knowledge exchange among researchers. These issues arise from the in-transparent nature of AI-driven code generation and the informal sharing of AI insights, which may hinder reproducibility and collaboration. This paper introduces git-bob, an innovative AI-assistant designed to address these challenges by fostering an interactive and transparent collaboration platform within GitHub. By enabling seamless dialogue between humans and AI, git-bob ensures that AI contributions are transparent and reproducible. Moreover, it supports collaborative knowledge exchange, enhancing the interdisciplinary dialogue necessary for cutting-edge life sciences research. The open-source nature of git-bob further promotes accessibility and customization, positioning it as a vital tool in employing LLMs responsibly and effectively within scientific communities.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/13928832](https://zenodo.org/records/13928832)
 
 [https://doi.org/10.5281/zenodo.13928832](https://doi.org/10.5281/zenodo.13928832)
@@ -1289,7 +1311,7 @@ Licensed BSD-3-CLAUSE
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1310,7 +1332,7 @@ Licensed CC-BY-4.0
 
 Artificial intelligence (AI) and large language models (LLMs) are changing the way we use computers in science. This slide deck introduces ways for using AI and LLMs for making training materials and for exchanging knowledge about how to use AI in joint discussions between humans and LLM-based AI-systems.
 
-Tags: Nfdi4Bioimage, Artificial Intelligence
+Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
@@ -1347,7 +1369,7 @@ napari-chatgpt
 bioimage.io chatbot
 
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence
+Tags: Nfdi4Bioimage, Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 [https://zenodo.org/records/15735577](https://zenodo.org/records/15735577)
 
@@ -1364,7 +1386,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1381,7 +1403,7 @@ Licensed BSD-3-CLAUSE
 
 
 
-Tags: Neubias, Imagej, Bioimage Analysis
+Tags: Neubias, Imagej, Bioimage Analysis, Include In Dalia
 
 Content type: Slides
 
@@ -1402,7 +1424,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 

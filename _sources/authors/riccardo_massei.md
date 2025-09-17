@@ -9,6 +9,8 @@ Licensed CC-BY-4.0
 
 
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/14979253](https://zenodo.org/records/14979253)
 
 [https://doi.org/10.5281/zenodo.14979253](https://doi.org/10.5281/zenodo.14979253)
@@ -28,7 +30,7 @@ Licensed MIT
 
 Imaging plays a crucial role across various scientific disciplines, particularly in life sciences. However, image data often proves complex, and the volume of images requiring analysis is steadily increasing, especially in high-content screening (HCS) experiments involving cell lines or other organisms. Specifically, analysis pipelines must align to the FAIR principles, ensuring they are reusable and interchangeable across different domains
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Include In Dalia
 
 [https://zenodo.org/records/15047849](https://zenodo.org/records/15047849)
 
@@ -47,7 +49,7 @@ Licensed CC-BY-4.0
 
 High-content screening (HCS) bioimaging automates the imaging and analysis of numerous biological samples, generating extensive metadata that is crucial for effective image management and interpretation. Efficiently handling this complex data is essential to implementing FAIR principles and realizing HCS's full potential for scientific discoveries.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Poster
 
@@ -68,7 +70,7 @@ Licensed CC-BY-4.0
 
 Imaging is crucial across various scientific disciplines, particularly in life sciences, where it plays a key role in studies ranging from single molecules to whole organisms. However, the complexity and sheer volume of image data present significant challenges. Managing and analyzing this data efficiently requires well-defined image processing tools and analysis pipelines that align with the FAIR principles—ensuring they are findable, accessible, interoperable, and reusable across different domains. In the frame of NFDI4BIOIMAGE1 (the National Research Data Infrastructure focusing on bioimaging in Germany), we want to find viable solutions for storing, processing, analyzing, and sharing bioimaging data. In particular, we want to develop solutions to make findable and machine-readable metadata developing analysis pipelines. In scientific research, such pipelines are crucial for maintaining data integrity, supporting reproducibility, and enabling interdisciplinary collaboration. These tools can be used by different users to retrieve images based on specific attributes as well as support quality control by identifying appropriate metadata. Galaxy, an open-source, web-based platform for data-intensive research, offers a solution by enabling the construction of reproducible pipelines for image analysis2. By integrating popular analysis software like CellProfiler and connecting with cloud services such as OMERO and IDR, Galaxy facilitates the seamless access and management of image data. This capability is particularly valuable in bioimaging, where automated pipelines can streamline the handling of complex metadata, ensuring data integrity and fostering interdisciplinary collaboration. This approach not only increases the efficiency of RDM processes in bioimaging but also contributes to the broader scientific community's efforts to embrace FAIR principles, ultimately advancing scientific discovery and innovation. In the present poster, we showed how to integrate RDM processes and tools in Galaxy. We will showcase how Images can be enriched with metadata (i.e. key-value pairs, tags, raw data, regions of interest) and uploaded to a target OME Remote Objects (OMERO) server using a novel set of OMERO tools developed with Galaxy3. Workflows give the possibility to the user to intuitively fetch images from the local server and perform image analysis (i.e. annotation). Furthermore, we will show the potential integration of eletronic lab books such as eLabFTW4, cloud storage systems (i.e. OneData)5 and interactive norebooks (Jupyter Notebooks) 6 in the Galaxy pipeline.
 
-Tags: Nfdi4Bioimage
+Tags: Nfdi4Bioimage, Exclude From Dalia
 
 [https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
 
@@ -94,7 +96,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -114,6 +116,8 @@ Published 2025-03-05
 Licensed CC-BY-4.0
 
 
+
+Tags: Include In Dalia
 
 [https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
 
@@ -135,6 +139,8 @@ Licensed CC-BY-4.0
 YMIA python event 2024
 Presentation :&nbsp; "Getting started with Python: intro and set-up a conda environment with Dr. Riccardo Massei"
 
+Tags: Include In Dalia
+
 [https://zenodo.org/records/13908480](https://zenodo.org/records/13908480)
 
 [https://doi.org/10.5281/zenodo.13908480](https://doi.org/10.5281/zenodo.13908480)
@@ -155,6 +161,8 @@ Licensed CC-BY-4.0
 Results of the project "Conversion of KNIME image analysis workflows to Galaxy" during the Hackathon "Image Analysis in Galaxy" (Freiburg 26 Feb - 01 Mar 2024)
 &nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10793700](https://zenodo.org/records/10793700)
 
 [https://doi.org/10.5281/zenodo.10793700](https://doi.org/10.5281/zenodo.10793700)
@@ -174,7 +182,7 @@ Licensed UNKNOWN
 
 This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
 
-Tags: Galaxy, Bioimage Analysis
+Tags: Galaxy, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Video
 
@@ -193,7 +201,7 @@ Licensed CC-BY-4.0
 
 NFDI4BIOIMAGE is a consortium within the framework of the National Research Data Infrastructure (NFDI) in Germany. In this talk, the consortium and the contribution to the work programme by the Helmholtz Centre for Environmental Research (UFZ) in Leipzig are outlined.
 
-Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage
+Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Exclude From Dalia
 
 Content type: Slides
 
@@ -212,7 +220,7 @@ Licensed MIT
 
 Material and solutions for the course 'Bioimage data management and analysis with OMERO' held in Heidelberg (13th May 2024) - Module 3 (1.45 pm - 3.45 pm): OMERO and Jupyter Notebooks. Main goal of the workflow is to show the potential of JN to perform reproducible image analysis in connection with an OMERO instance. In this specific example, we are performing a simple nuclei segmentation from raw images uploaded in OMERO.
 
-Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO
+Tags: Teaching, Bioimage Analysis, Notebooks, Python, OMERO, Include In Dalia
 
 Content type: Github Repository
 
@@ -231,7 +239,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage
+Tags: OMERO, Galaxy, Metadata, Nfdi4Bioimage, Include In Dalia
 
 Content type: Tutorial, Framework, Workflow
 
@@ -252,7 +260,7 @@ Licensed CC-BY-4.0
 
 Germany&rsquo;s National Research Data Infrastructure (NFDI) aims to establish a sustained, cross-disciplinary research data management (RDM) infrastructure that enables researchers to handle FAIR (findable, accessible, interoperable, reusable) data. While&nbsp;FAIR principles have been&nbsp;adopted by funders, policymakers, and publishers, their practical implementation remains an ongoing effort. In the field of bio-imaging, harmonization of&nbsp;data formats, metadata ontologies, and open data repositories is necessary&nbsp;to achieve FAIR data.&nbsp;The NFDI4BIOIMAGE was established&nbsp;to address these issues and&nbsp;develop tools and best practices to facilitate FAIR microscopy and image analysis data in alignment with international community activities. The&nbsp;consortium operates through its Data Stewards team to provide expertise and direct support to help overcome RDM challenges. The three Helmholtz Centers in NFDI4BIOIMAGE aim to collaborate closely with other centers and initiatives, such as HMC, Helmholtz AI, and HIP. Here we present NFDI4BIOIMAGE&rsquo;s work and its significance for research in Helmholtz and beyond
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 [https://zenodo.org/records/11501662](https://zenodo.org/records/11501662)
 
@@ -273,6 +281,8 @@ Licensed CC-BY-4.0
 
 The Data Steward Team of the NFDI4BIOIMAGE consortium presents themselves and the services (including the Helpdesk) that we offer.
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
@@ -292,7 +302,7 @@ Licensed MIT
 
 This repository offer access to teaching material and useful resources for the YMIA - Python-Based Event Series.
 
-Tags: Python, Artifical Intelligence, Bioimage Analysis
+Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Github Repository, Slides
 
@@ -325,7 +335,7 @@ Dr. Riccardo Massei (Helmholtz-Center for Environmental Research, UFZ, Leipzig) 
 Dr. Michele Bortolomeazzi (DKFZ, Single cell Open Lab, bioimage data specialist, bioinformatician, staff scientist in the NFDI4BIOIMAGE project)
 Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging, German Cancer Research Center, Heidelberg, Project Coordinator of the NFDI4BIOIMAGE project)
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 

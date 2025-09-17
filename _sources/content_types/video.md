@@ -10,7 +10,7 @@ Licensed CC-BY-4.0
 A structured beginner to intermediate-level course in image analysis using Fiji, developed for ABIC 2024.  It includes a video lecture playlist, course documentation, and participant image files.
 
 
-Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej
+Tags: Bioimage Analysis, Image Processing, Teaching Resource, Imagej, Exclude From Dalia
 
 Content type: Workshop, Video, Document
 
@@ -35,7 +35,7 @@ Licensed UNKNOWN
 
 A review of the tools, methods and concepts useful for biologists and life scientists as well as bioimage analysts.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides, Webinar
 
@@ -56,7 +56,7 @@ Licensed UNKNOWN
 
 How can artificial intelligence be used for digital pathology?
 
-Tags: Artificial Intelligence
+Tags: Artificial Intelligence, Include In Dalia
 
 Content type: Video
 
@@ -69,7 +69,7 @@ Content type: Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -82,7 +82,7 @@ Content type: Collection, Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -103,7 +103,7 @@ Licensed UNKNOWN
 
 This is a playlist of videos about how CT works
 
-Tags: Imaging
+Tags: Imaging, Exclude From Dalia
 
 Content type: Video
 
@@ -118,7 +118,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Napari, Python, Bioimage Analysis
+Tags: Napari, Python, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -137,7 +137,7 @@ Sreeni Bhattiprolu
 
 A collection tutorial videos for using Python in general and for processing images using Python, machine learning and deep learning
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -158,7 +158,7 @@ Licensed UNKNOWN
 
 In this course you will learn how to use Docker, Compose and Kubernetes on your machine for better software building and testing.
 
-Tags: Docker
+Tags: Docker, Include In Dalia
 
 Content type: Video, Tutorial, Online Course
 
@@ -179,7 +179,7 @@ Licensed UNKNOWN
 
 Leukocyte extravasation is a critical component of the innate immune response, while circulating tumour cell extravasation is a crucial step in metastasis formation. Despite their importance, these extravasation mechanisms remain incompletely understood. In this talk, Guillaume Jacquemet presents a novel imaging framework that integrates microfluidics with high-speed, label-free imaging to study the arrest of pancreatic cancer cells (PDAC) on human endothelial layers under physiological flow conditions.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Video, Slides
 
@@ -198,7 +198,7 @@ Licensed YOUTUBE STANDARD LICENSE
 
 
 
-Tags: OMERO, Bioimage Analysis
+Tags: OMERO, Bioimage Analysis, Exclude From Dalia
 
 Content type: Video, Presentation
 
@@ -210,6 +210,8 @@ Content type: Video, Presentation
 ## Euro-BioImaging Communication YouTube Channel
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -224,7 +226,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Research Data Management, Fair, Bioimage Analysis
+Tags: Research Data Management, Fair, Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -237,7 +239,7 @@ Content type: Collection, Video
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -258,7 +260,7 @@ Licensed CC-BY-4.0
 
 Sharing knowledge and data in the life sciences allows us to learn from each other and built on what others have discovered. This collection of online courses brings together a variety of training, covering topics such as biocuration, open data, restricted access data and finding publicly available data, to help you discover and make the most of publicly available data in the life sciences.
 
-Tags: Open Science, Teaching, Sharing
+Tags: Open Science, Teaching, Sharing, Include In Dalia
 
 Content type: Collection, Tutorial, Video
 
@@ -277,7 +279,7 @@ Licensed UNKNOWN
 
 Example Workflows / usage of the Glencoe Software.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Video, Tutorial, Collection
 
@@ -290,6 +292,8 @@ Content type: Video, Tutorial, Collection
 
 
 
+Tags: Exclude From Dalia
+
 Content type: Collection, Video
 
 [https://www.youtube.com/GlobalBioImaging](https://www.youtube.com/GlobalBioImaging)
@@ -300,6 +304,8 @@ Content type: Collection, Video
 ## How to get started with Jupyter and Colab
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Video
 
@@ -320,7 +326,7 @@ Licensed CC-BY-4.0
 
 The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
 
-Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio
+Tags: OMERO, Research Data Management, Nfdi4Bioimage, I3Dbio, Include In Dalia
 
 Content type: Slides, Video
 
@@ -339,7 +345,7 @@ Licensed CC BY-NC-ND 3.0 DEED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -360,7 +366,7 @@ Licensed UNKNOWN
 
 This video is a tutorial on how to use the Galaxy platform for bioimage analysis.
 
-Tags: Galaxy, Bioimage Analysis
+Tags: Galaxy, Bioimage Analysis, Include In Dalia
 
 Content type: Tutorial, Video
 
@@ -375,7 +381,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -396,7 +402,7 @@ Licensed CC-BY-4.0
 
 The course gives a basic introduction into microscopy, optics, and image analysis. This is followed by interactive tutorials that explain the basics of creating fully automated image analysis workflows in JIPipe using a simple blobs analysis and intermediate-level quantification of LSFM kidney images. JIPipe-specific features including annotation-guided batch processing, organization with graph compartments, expressions and path processing, and project-wide metadata and parameters are also established. Finally, an advanced real-world pipeline is showcased with detailed guidance through the individual components that include integrations of Cellpose and TrackMate.
 
-Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis
+Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis, Include In Dalia
 
 Content type: Workshop, Video, Tutorial, Slides
 
@@ -417,7 +423,7 @@ Licensed UNKNOWN
 
 This video provides information about three very common methods for data dimensionality reduction: PCA, t-SNE and UMAP. These are especially useful when you want to visualise the latent space of an autoencoder.
 
-Tags: Dimensionality Reduction
+Tags: Dimensionality Reduction, Include In Dalia
 
 Content type: Video
 
@@ -438,7 +444,7 @@ Licensed UNKNOWN
 
 This is a playlist of videos about how MRI works
 
-Tags: Imaging
+Tags: Imaging, Exclude From Dalia
 
 Content type: Video
 
@@ -453,7 +459,7 @@ Content type: Video
 
 Collection of tutorial videos for Fiji users
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -470,7 +476,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Include In Dalia
 
 Content type: Online Tutorial, Video, Slides
 
@@ -493,7 +499,7 @@ Licensed CC-BY-4.0
 
 The Microscopy data analysis: machine learning and the BioImage Archive course, which focused on introducing programmatic approaches used in the analysis of bioimage data via the BioImage Archive, ran in May 2023.
 
-Tags: Bioimage Analysis, Python, Artificial Intelligence
+Tags: Bioimage Analysis, Python, Artificial Intelligence, Include In Dalia
 
 Content type: Video, Slides
 
@@ -508,7 +514,7 @@ Content type: Video, Slides
 
 A collection of bio-image analysis webinars where commonly authors of open-source bio-image analysis software explain how to use their tools.
 
-Tags: Neubias
+Tags: Neubias, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -527,7 +533,7 @@ Licensed CC-BY-4.0
 
 OME develops open-source software and data format standards for the storage and manipulation of biological microscopy data
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Video, Collection
 
@@ -542,7 +548,7 @@ Content type: Video, Collection
 
 YouTube channel collecting videos and webinar recordings about the Open Microscopy Environment (OME), the Next Generation File Format OME-NGFF, the Image Data Resource (IDR), the Omero platform and Omero plugins.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -557,7 +563,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Research Data Management, OMERO
+Tags: Research Data Management, OMERO, Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -569,6 +575,8 @@ Content type: Collection, Video
 ## RDMBites BioImage metadata
 
 
+
+Tags: Exclude From Dalia
 
 Content type: Collection, Video
 
@@ -584,6 +592,8 @@ Licensed CC-BY-4.0
 
 
 Computational skills training at the UCL Sainsbury Wellcome Centre and Gatsby Computational Neuroscience Unit, delivered by members of the Neuroinformatics Unit.
+
+Tags: Include In Dalia
 
 Content type: Collection, Online Course, Video, Tutorial
 
@@ -604,7 +614,7 @@ Licensed UNKNOWN
 
 Video Lectures for Statistical Rethinking Course
 
-Tags: Statistics
+Tags: Statistics, Exclude From Dalia
 
 Content type: Video
 
@@ -629,7 +639,7 @@ which provides an overview of contexts, frameworks, and models from the world of
 
 You can also watch the video in the browser on the I3D:bio website.
 
-Tags: Nfdi4Bioimage, Research Data Management
+Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 Content type: Video
 
@@ -648,7 +658,7 @@ Licensed CC0-1.0
 
 To submit, you’ll need to register an account, organise and upload your data, prepare a file list, and then submit using our web submission form. These steps are explained here.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Tutorial, Video
 
@@ -663,7 +673,7 @@ Licensed ALL RIGHTS RESERVED
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Video
 

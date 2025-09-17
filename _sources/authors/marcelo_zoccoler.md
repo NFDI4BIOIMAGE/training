@@ -11,6 +11,8 @@ Licensed CC-BY-4.0
 
 The presentations introduce open-source software to read in, visualize and analyse fluorescence lifetime imaging microscopy (FLIM) raw data developed for life scientists. The slides were presented at German Bioimaging (GerBI) FLIM Workshop held February 26 to 29 2024 at the Biomedical Center of LMU M&uuml;nchen by Anca Margineanu, Chiara Stringari and Conni Wetzker.&nbsp;
 
+Tags: Exclude From Dalia
+
 [https://zenodo.org/records/10886750](https://zenodo.org/records/10886750)
 
 [https://doi.org/10.5281/zenodo.10886750](https://doi.org/10.5281/zenodo.10886750)
@@ -35,7 +37,7 @@ https://zenodo.org/records/11382341
 https://zenodo.org/records/11261115
 The workshop organization was funded by the CMCB/PoL Networking Grant and supported by the consortium NFDI4BIOIMAGE (funded by DFG grant number NFDI 46/1, project number 501864659).
 
-Tags: Research Data Management
+Tags: Research Data Management, Include In Dalia
 
 Content type: Slides
 
@@ -54,7 +56,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Python, Artificial Intelligence, Bioimage Analysis
+Tags: Python, Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 Content type: Blog Post
 
@@ -75,7 +77,7 @@ Licensed CC-BY-4.0
 
 Course contents for biapol course at Trends in Microscopy conference 2025
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 

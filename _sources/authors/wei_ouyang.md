@@ -9,7 +9,7 @@ Licensed UNKNOWN
 
 BioEngine is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
 
-Tags: Artificial Intelligence, Workflow Engine
+Tags: Artificial Intelligence, Workflow Engine, Exclude From Dalia
 
 Content type: Publication
 
@@ -28,7 +28,7 @@ Licensed MIT
 
 BioEngine, a Python package designed for flexible deployment and execution of bioimage analysis models and workflows using AI, accessible via HTTP API and RPC.
 
-Tags: Workflow Engine, Artificial Intelligence, Python
+Tags: Workflow Engine, Artificial Intelligence, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -49,7 +49,7 @@ Licensed BSD-3-CLAUSE
 
 This is a repository containing a textbook written for BioImaging scientists and other microscopists.
 
-Tags: Bioimage Analysis, Artificial Intelligence
+Tags: Bioimage Analysis, Artificial Intelligence, Include In Dalia
 
 Content type: Book, Github Repository
 
@@ -70,7 +70,7 @@ Licensed CC-BY-4.0
 
 Download RDF Package
 
-Tags: Ai-Ready
+Tags: Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
@@ -89,6 +89,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 [https://github.com/imjoy-team/bioimage-io-resources](https://github.com/imjoy-team/bioimage-io-resources)
 
 
@@ -106,7 +108,7 @@ Licensed MIT
 
 Your Personal Assistant in Computational Bioimaging.
 
-Tags: Artificial Intelligence, Bioimage Analysis
+Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 
 Content type: Github Repository
 

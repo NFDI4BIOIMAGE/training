@@ -7,6 +7,8 @@ J.R. Swedlow, P. Kankaanpää, U. Sarkans, et al.
 
 A comprehensive overview of existing standards for image data formats in biomedicine, including DICOM, OME-TIFF and NIfTI. It discusses standardisation challenges and provides recommendations for improving the interoperability and FAIRness of image data.
 
+Tags: Include In Dalia
+
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-021-01113-7](https://doi.org/10.1038/s41592-021-01113-7)
@@ -26,7 +28,7 @@ Licensed UNKNOWN
 
 The authors provide an overview of best practice data life cycle approaches for researchers in the life sciences/bioinformatics space with a particular focus on ‘omics’ datasets and computer-based data processing and analysis.
 
-Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science
+Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open Science, Include In Dalia
 
 Content type: Publication
 
@@ -43,7 +45,7 @@ Daniel Franco-Barranco, et al.
 
 BiaPy is an open source Python library for building bioimage analysis pipelines, also called workflows.
 
-Tags: Workflow Engine, Python
+Tags: Workflow Engine, Python, Exclude From Dalia
 
 Content type: Documentation
 
@@ -64,7 +66,7 @@ Licensed ALL RIGHTS RESERVED
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
 
-Tags: Imagej, Bioimage Analysis
+Tags: Imagej, Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication
 
@@ -81,7 +83,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Notebook, Collection
 
@@ -100,7 +102,7 @@ Licensed CC-BY-4.0
 
 This lesson shows how to use Python and scikit-image to do basic image processing.
 
-Tags: Bioimage Analysis, Python
+Tags: Bioimage Analysis, Python, Include In Dalia
 
 Content type: Tutorial, Workflow
 
@@ -117,7 +119,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Python
+Tags: Python, Exclude From Dalia
 
 Content type: Code, Notebook
 
@@ -136,7 +138,7 @@ Published 2010
 
 
 
-Tags: Metadata
+Tags: Metadata, Include In Dalia
 
 Content type: Publication
 
@@ -151,7 +153,7 @@ Alessandro Rigano, et al.
 
 
 
-Tags: Metadata
+Tags: Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -172,7 +174,7 @@ Licensed CC-BY-4.0
 
 The Brain Imaging Data Structure (BIDS) is a specification for organizing, sharing, and archiving neuroimaging data and metadata in a reusable way.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -189,6 +191,8 @@ Licensed UNKNOWN
 
 
 
+Tags: Exclude From Dalia
+
 [https://github.com/imjoy-team/bioimage-io-resources](https://github.com/imjoy-team/bioimage-io-resources)
 
 
@@ -202,7 +206,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Tutorial
 
@@ -219,7 +223,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -236,7 +240,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Neubias, Bioimage Analysis
+Tags: Neubias, Bioimage Analysis, Include In Dalia
 
 Content type: Slides, Code, Notebook
 
@@ -257,7 +261,7 @@ Licensed GPL-2.0
 
 An OMERO CLI plugin for creating and using transfer packets between OMERO servers.
 
-Tags: OMERO
+Tags: OMERO, Exclude From Dalia
 
 Content type: Github Repository
 
@@ -274,7 +278,7 @@ Licensed CC-BY-4.0
 
 
 
-Tags: Quareo-Limi
+Tags: Quareo-Limi, Include In Dalia
 
 Content type: Publication
 
@@ -295,7 +299,7 @@ Licensed UNKNOWN
 
 Bioimaging data have significant potential for reuse, but unlocking this potential requires systematic archiving of data and metadata in public databases. The authors propose draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy.
 
-Tags: Metadata, Research Data Management
+Tags: Metadata, Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -320,7 +324,7 @@ Licensed CC-BY-4.0
 
 As an initiative within Germany's National Research Data Infrastructure, the authors conducted this community survey in summer 2021 to assess the state of the art of bioimaging RDM and the community needs.
 
-Tags: Research Data Management
+Tags: Research Data Management, Exclude From Dalia
 
 Content type: Publication
 
@@ -341,7 +345,7 @@ Licensed CC-BY-4.0
 
 The authors offer trainers some simple rules, to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
-Tags: Metadata, Bioinformatics, FAIR-Principles
+Tags: Metadata, Bioinformatics, FAIR-Principles, Include In Dalia
 
 Content type: Publication
 
@@ -362,7 +366,7 @@ Licensed UNKNOWN
 
 Rigorous record-keeping and quality control are required to ensure the quality, reproducibility and value of imaging data. The 4DN Initiative and BINA here propose light Microscopy Metadata specifications that extend the OME data model, scale with experimental intent and complexity, and make it possible for scientists to create comprehensive records of imaging experiments.
 
-Tags: Reproducibility, Bioimage Analysis, Metadata
+Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 
 Content type: Publication
 
@@ -381,7 +385,7 @@ Published 2023
 
 This article gives a detailed overview about pitfalls when using metric for image analysis algorithm validation.
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Publication, Preprint
 
@@ -398,7 +402,7 @@ Licensed UNKNOWN
 
 
 
-Tags: Bioimage Analysis
+Tags: Bioimage Analysis, Exclude From Dalia
 
 Content type: Collection, Event, Forum Post, Workshop
 
@@ -417,7 +421,7 @@ Licensed CC-BY-4.0
 
 This handbook is about open data but what exactly is it? In particular what makes open data open, and what sorts of data are we talking about?
 
-Tags: Open Science
+Tags: Open Science, Include In Dalia
 
 Content type: Collection
 
@@ -436,7 +440,7 @@ Licensed BSD-3-CLAUSE
 
 A registry for describing, sharing and publishing scientific computational workflows.
 
-Tags: Bioinformatics, Workflow, Workflow Engine, Python, R
+Tags: Bioinformatics, Workflow, Workflow Engine, Python, R, Exclude From Dalia
 
 Content type: Collection
 
@@ -455,7 +459,7 @@ Licensed GPL-2.0
 
 Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification.
 
-Tags: Open Source Software
+Tags: Open Source Software, Exclude From Dalia
 
 Content type: Application, Github Repository
 
@@ -474,7 +478,7 @@ Licensed MIT
 
 
 
-Tags: Workflow, Research Data Management
+Tags: Workflow, Research Data Management, Exclude From Dalia
 
 Content type: Tutorial
 
