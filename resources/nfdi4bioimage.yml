@@ -483,6 +483,7 @@ resources:
   - Carolin Odebrecht https://orcid.org/0000-0003-4887-7701
   - Cord Wiljes https://orcid.org/0000-0003-2528-5391
   - Ulrike Wuttke https://orcid.org/0000-0002-8217-4025
+  file_formats: pdf * zip
 - authors:
   - Katarzyna Biernacka
   - Katrin Cortez
