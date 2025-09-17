@@ -21627,6 +21627,55 @@ resources:
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
   file_formats: .pdf * .pptx
 - authors:
+  - Frisch, Katrin
+  description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
+    k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen.
+    Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen,
+    ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung
+    des Ombudsman f&uuml;r die Wissenschaft (OfdW) dar, sondern beschreiben den Status
+    Quo und ordnen bereits bestehende Empfehlungen aus Sicht der GWP ein, identifizieren
+    L&uuml;cken und verweisen auf weiterf&uuml;hrende Literatur. Diese FAQ-Sammlung
+    richtet sich prim&auml;r an Forschende. F&uuml;r die Nutzung von KI in der Lehre
+    und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re KI-Richtlinien,
+    angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen sowie
+    Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle
+    Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen
+    FAQ nicht besprochen.
+  license: cc-by-4.0
+  name: "FAQ K\xFCnstliche Intelligenz und gute wissenschaftliche Praxis"
+  num_downloads: 1940
+  publication_date: '2024-11-06'
+  submission_date: '2025-07-16T10:42:00.640310'
+  url:
+  - https://zenodo.org/records/14045172
+  - https://doi.org/10.5281/zenodo.14045172
+- authors:
+  - Naylor Peter Jack
+  - Walter Thomas
+  - "La\xE9 Marick"
+  - Reyal Fabien
+  description: 'This dataset has been annonced in our accepted paper &quot;Segmentation
+    of Nuclei in Histopathology Images by deep regression of the distance map&quot;
+    in Transcation on Medical Imaging on the 13th of August.
+  
+    This dataset consists of 50 annotated images, divided into 11 patients.
+  
+  
+    &nbsp;
+  
+  
+    v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but
+    weren&#39;t.'
+  license: cc-by-4.0
+  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance
+    map
+  num_downloads: 6816
+  publication_date: '2018-02-16'
+  submission_date: '2025-07-17T11:33:08.663386'
+  url:
+  - https://zenodo.org/records/2579118
+  - https://doi.org/10.5281/zenodo.2579118
+- authors:
   - Kevin Yamauchi
   description: ''
   license: BSD 3-Clause "New" or "Revised" License
@@ -21636,3 +21685,4 @@ resources:
   tags: TODO
   type: GitHub Repository
   url: https://github.com/kevinyamauchi/embo-bia-2025
+
