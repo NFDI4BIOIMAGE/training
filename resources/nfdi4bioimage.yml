@@ -11361,6 +11361,8 @@ resources:
   uuid: e126a935-fa9f-4e56-84e3-d6ac2c4b3f48
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Ben Vermaercke
   description: Intravital workshop 15/11/2024
@@ -11586,6 +11588,8 @@ resources:
   type: GitHub Repository
   url: https://github.com/NFDI4BIOIMAGE/omero-vitessce
   uuid: 15331066-c748-4275-81c5-dd85bcdc0c33
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Rodrigo Escobar Diaz Guerrero
   description: 'Linking Electronic Lab Notebooks and other sources with OMERO objects '
@@ -11895,6 +11899,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14845059
   uuid: 47115e0d-41db-442d-a469-aad7542c4bf5
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -11937,6 +11943,8 @@ resources:
   uuid: 63f5f077-197d-4538-91c7-1267c76ece9f
   language: en
   file_formats: .afdesign * .pdf * .svg
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Fuster-Barcelo, Caterina
   description: The dynamic field of bioimage analysis continually seeks innovative
@@ -12065,6 +12073,9 @@ resources:
   uuid: 1fe47d3d-e561-473c-9257-eb0c8cfba46a
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Artificial Intelligence
 - authors:
   - Haase, Robert
   description: Artificial intelligence (AI) and large language models (LLMs) are changing
@@ -12082,6 +12093,9 @@ resources:
   uuid: 2ace6a7f-809e-4126-9cea-0a345cd9b680
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Artificial Intelligence
 - authors:
   - Draga Doncila Pop
   description: This is a three-part workshop guiding you through using napari to view
@@ -12369,6 +12383,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15031842
   uuid: c4b8c1bb-1945-47c0-8bbb-fdc800220d68
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Schmidt, Christian
   - Bortolomeazzi, Michele
@@ -12443,6 +12459,9 @@ resources:
   uuid: 506bcd94-1b1a-40a2-94be-0017e4ff7ad9
   language: en
   file_formats: .pdf * .pptx
+  tags:'
+  - NFDI4Bioimage
+  - Research Data Management
 - authors:
   - Krooß, Ksenia
   - Fuchs, Vanessa Aphaia Fiona
@@ -12474,6 +12493,9 @@ resources:
   uuid: 686572ec-e463-4a05-b809-5fbd751f73e1
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
+  - Research Data Management
 - authors:
   - Chiang Jurado, Diana
   - Massei, Riccardo
@@ -12622,6 +12644,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15083018
   uuid: bfed4738-50b9-4a42-8cb1-eb67991db18e
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -12645,6 +12669,8 @@ resources:
   uuid: d5e2ad4e-1190-4720-877c-6a682bcb5935
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Wei Ouyang
   - Wanlu Lei
@@ -12811,6 +12837,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15268798
   uuid: 249e0bd4-c3ee-4036-810e-e48191cc95c3
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in
@@ -12865,6 +12893,7 @@ resources:
     Organization
   publication_date: '2023-09-12'
   tags:
+  - NFDI4Bioimage
   - Research Data Management
   type:
   - Poster
@@ -12889,6 +12918,7 @@ resources:
   license: CC-BY-4.0
   name: BHG2023-OMERO-ARC
   tags:
+  - NFDI4Bioimage
   - Bioinformatics
   - Omero
   type:
@@ -12936,6 +12966,7 @@ resources:
   name: Zarr - A Cloud-Optimized Storage for Interactive Access of Large Arrays
   publication_date: '2023-09-07'
   tags:
+  - NFDI4Bioimage
   - Bioimage Analysis
   type:
   - Publication
@@ -12973,6 +13004,7 @@ resources:
     Workflows and Training Materials
   publication_date: '2023-09-07'
   tags:
+  - NFDI4Bioimage
   - Research Data Management
   type:
   - Publication
@@ -13016,6 +13048,7 @@ resources:
     from both facility staff and users'
   publication_date: '2024-09-14'
   tags:
+  - NFDI4Bioimage
   - OMERO
   - Bioimage Analysis
   type:
@@ -13209,6 +13242,7 @@ resources:
   license: cc-by-4.0
   publication_date: 2025-05-12:T13:37:00+00:00
   tags:
+  - NFDI4Bioimage
   - jipipe
   - bioimage analysis
   uuid: 62c9a2ad-81b3-4ac2-9524-197a9e25be55
@@ -16887,6 +16921,9 @@ resources:
   uuid: 3d7e262e-c4af-4301-bc61-fd5f8da193a6
   language: en
   file_formats: .ijm * .ipynb * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Research Data Management
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -17102,6 +17139,9 @@ resources:
   uuid: 145a5dc8-29e5-4e66-bced-7ffb15fcbe36
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Research Data Management
 - authors:
   - Haase, Robert
   description: The advent of large language models (LLMs) such as ChatGPT changes
@@ -17139,6 +17179,10 @@ resources:
   uuid: b027a9ac-a79b-4388-b00f-11accdc67184
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Bioimage Analysis
+  - Artificial Intelligence
 - authors:
   - Vebjorn Ljosa
   - Katherine L. Sokolnicki
@@ -17860,6 +17904,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15575379
   uuid: bc586df5-e0ec-4cf9-9df7-b9ecccb4bae4
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Schmidt, Christian
   - Mathur, Aastha
@@ -17879,6 +17925,8 @@ resources:
   - https://doi.org/10.5281/zenodo.15393592
   uuid: 3dcaa04f-b228-45f0-babb-a6af81b33ba8
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Moore, Josh
   description: 'https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
@@ -17907,6 +17955,8 @@ resources:
   uuid: 72cf60c5-830f-4080-82ec-e5307060a76d
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Bustos, Jonatan
   description: This dataset contains 4 .nd2 image files of pollen grains captured
@@ -17958,7 +18008,10 @@ resources:
   url: https://github.com/ImagingDataCommons/IDC-Tutorials
   uuid: b50b1a33-9fd0-4aab-9208-a2af56c63d77
 - authors:
-  - Swedlow, J.R., Kankaanpää, P., Sarkans, U. et al.
+  - Swedlow, J.R.
+  - Kankaanpää, P.
+  - Sarkans, U. 
+  - et al.
   name: A global view of standards for open image data formats and repositories
   description: A comprehensive overview of existing standards for image data formats
     in biomedicine, including DICOM, OME-TIFF and NIfTI. It discusses standardisation
@@ -18017,6 +18070,8 @@ resources:
   uuid: aa977cf8-3042-4cfe-863f-edd3fec3200a
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -18252,6 +18307,10 @@ resources:
   uuid: 80f681e0-94cb-4059-8096-3d396f16e4dc
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
+  - FAIR Principles
+  - Research Data Management
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -18268,6 +18327,10 @@ resources:
   uuid: a59dab46-98ac-4317-a7cd-c6fca9b3eb64
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Bioimage Analysis
+  - Artificial Intelligence
 - authors:
   - Michele, Bortolomeazzi
   description: OMERO is the most used research data management system (RDM) in the
@@ -18304,6 +18367,9 @@ resources:
   uuid: e41f9a04-555e-42be-ae13-bc37f42da881
   language: en
   file_formats: .pptx
+  tags:
+  - NFDI4Bioimage
+  - OMERO
 - authors:
   - Moore, Josh
   description: 'Presentation for the BioImagingUK Meeting taking place from 1200 -
@@ -18328,6 +18394,8 @@ resources:
   uuid: 1df2f876-ae76-46ea-b32c-b4aafaafba56
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Haase, Robert
   description: 'In this talk, I demonstrate potential use-cases for vision-language
@@ -18374,6 +18442,10 @@ resources:
   uuid: fb0f3cd1-86ff-48e0-b6a1-42dcb16f33ae
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Bioimage Analysis
+  - Artificial Intelligence
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18555,6 +18627,10 @@ resources:
   uuid: 32445e07-b9e2-4bef-b501-17007552a9b1
   language: en
   file_formats: .pdf * .pptx
+  tags:
+  - NFDI4Bioimage
+  - Bioimage Analysis
+  - Artificial Intelligence
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -18774,6 +18850,8 @@ resources:
   uuid: 9432641f-d43b-451d-8197-5c3f15ecbb53
   language: en
   file_formats: .pptx
+  tags:
+  - Bioimage Analysis
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -18851,6 +18929,8 @@ resources:
   uuid: de33ce5c-0837-47e0-8758-0507e18e8c01
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Mathur, Aastha
   - Euro-BioImaging ERIC
@@ -19411,6 +19491,8 @@ resources:
   uuid: 0c912c69-697c-4bd4-b6cb-4419b30609c1
   language: en
   file_formats: .pdf
+  tags:
+  - NFDI4Bioimage
 - authors:
   - Snyder, Erika, Erika Thomas, Erika T.
   description: 'Hi all,I was referred to this community from the Image.sc Forum original
@@ -19474,6 +19556,8 @@ resources:
   uuid: bf1429a9-cdff-4ec5-94f7-0de4d341a88c
   language: en
   file_formats: .pdf * .svg
+  tags: 
+  - NFDI4Bioimage
 - authors:
   - Wang
   license: cc-by-4.0
@@ -21299,6 +21383,8 @@ resources:
   uuid: a1c75d49-e6d9-423e-ad25-10e3b521aaf0
   language: en
   file_formats: .pdf
+  tags: 
+  - NFDI4Bioimage
 - authors:
   - Wagner, Robert
   - Ahmadi, Mohsen
@@ -21363,6 +21449,9 @@ resources:
   uuid: 2febfada-4362-466f-872d-fb8b5e2aa6a6
   language: en
   file_formats: .pdf
+  tags: 
+  - NFDI4Bioimage
+  - Bioimage Analysis
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -21400,6 +21489,8 @@ resources:
   uuid: fdac071c-3b28-4aac-949d-bd87a51211d1
   language: en
   file_formats: .pdf
+  tags: 
+  - NFDI4Bioimage
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -21419,6 +21510,9 @@ resources:
   uuid: be614b13-5234-40d7-8038-9bf03fed98a3
   language: en
   file_formats: .pdf * .pptx
+  tags: 
+  - NFDI4Bioimage
+  - Bioimage Analysis
 - authors:
   - Thönnißen, Julia
   - Oliveira, Sarah
