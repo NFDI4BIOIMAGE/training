@@ -18,6 +18,25 @@ The rapid development of new imaging technologies across scientific domains–es
 
 ---
 
+## COBA-NIH/2024_Bridging_Imaging_Users_to_Imaging_Analysis_Survey: Survey data with preliminary exploration
+
+Erin Weisbart
+
+Published 2025-09-15
+
+Licensed BSD-3-CLAUSE
+
+
+
+Contains the survey data collected through the 2024 Bridging Imaging Users to Imaging Analysis Survey and figures/code from preliminary data exploration of the survey results.
+
+[https://zenodo.org/records/17127544](https://zenodo.org/records/17127544)
+
+[https://doi.org/10.5281/zenodo.17127544](https://doi.org/10.5281/zenodo.17127544)
+
+
+---
+
 ## Cloud-Based Virtual Desktops for Reproducible Research
 
 Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
@@ -367,124 +386,6 @@ Submitted via NFDI4BIOIMAGE
 [https://zenodo.org/records/16979744](https://zenodo.org/records/16979744)
 
 [https://doi.org/10.5281/zenodo.16979744](https://doi.org/10.5281/zenodo.16979744)
-
-
----
-
-## NFDI4BIOIMAGE Calendar February 2025
-
-Oleg Kutskiy
-
-Published 2025-09-15
-
-Licensed CC-BY-SA-4.0
-
-
-
-Image from the NFDI4BIOIMAGE Calendar February 2025.
-&ldquo;The Way of the Cross: Christ collapses under the weight of the cross" is a recording from the partially destroyed Transfiguration Cathedral in Odessa, Ukraine. The image was taken in September 2023 and impressively shows the urgency of photographic documentation of cultural heritage. It was created as part of the &ldquo;Documenting Ukrainian Cultural Heritage Project &ndash; Photographic Documentation of War-Threatened Buildings in Ukraine&rdquo;.
-
-
-
-
-Project
-
-
-Documenting Ukrainian Cultural Heritage &ndash; Photographic Documentation of War-Threatened Buildings in Ukraine
-
-
-
-
-Recording date
-
-
-2023-09-01
-
-
-
-
-Location
-
-
-The Savior Transfiguration Cathedral, south side choir
-Ploshcha Soborna 3, Odessa, Ukraine
-
-
-
-
-Dating
-
-
-1999/2005
-
-
-
-
-Factual term
-
-
-Mural
-
-
-
-
-Genus
-
-
-Wall painting
-
-
-
-
-Status
-
-
-Partially destroyed 2023-07-23
-
-
-
-
-Image file number 
-
-
-fmd10034507
-
-
-
-
-Topic
-
-
-Iconography: 73D4113 * the third fall (Christ carrying the cross) 
-
-
-
-
-Dataset from
-
-
-Bildarchiv Foto Marburg
-
-
-
-
-Acquisition parameter
-
-
-Color, born digital
-
-
-
-
-Submitted via NFDI4Culture
-
-
-
-
-
-[https://zenodo.org/records/16980386](https://zenodo.org/records/16980386)
-
-[https://doi.org/10.5281/zenodo.16980386](https://doi.org/10.5281/zenodo.16980386)
 
 
 ---

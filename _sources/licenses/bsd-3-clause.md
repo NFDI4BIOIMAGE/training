@@ -1,4 +1,4 @@
-# Bsd-3-clause (36)
+# Bsd-3-clause (37)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -113,6 +113,25 @@ Content type: Publication, Preprint
 [https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
 [https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
+
+
+---
+
+## COBA-NIH/2024_Bridging_Imaging_Users_to_Imaging_Analysis_Survey: Survey data with preliminary exploration
+
+Erin Weisbart
+
+Published 2025-09-15
+
+Licensed BSD-3-CLAUSE
+
+
+
+Contains the survey data collected through the 2024 Bridging Imaging Users to Imaging Analysis Survey and figures/code from preliminary data exploration of the survey results.
+
+[https://zenodo.org/records/17127544](https://zenodo.org/records/17127544)
+
+[https://doi.org/10.5281/zenodo.17127544](https://doi.org/10.5281/zenodo.17127544)
 
 
 ---
@@ -635,7 +654,7 @@ Content type: Notebook
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

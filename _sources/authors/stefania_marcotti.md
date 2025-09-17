@@ -1,4 +1,4 @@
-# Stefania marcotti (5)
+# Stefania marcotti (6)
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
@@ -16,6 +16,26 @@ Content type: Publication, Preprint
 [https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
 [https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
+
+
+---
+
+## Introduction to Image Analysis
+
+Barry, David J, Stefania Marcotti, Salgueiro Torres, Sara, Martin Jones, Alicja Skórkowska
+
+Published 2025-08-19
+
+Licensed CC-BY-SA-4.0
+
+
+
+Presentation slides associated with the Introduction to Image Analysis workshop run at the Francis Crick Institute on 18-19th August 2025:
+https://doi.org/10.5281/zenodo.16949737
+
+[https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
+
+[https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
 
 
 ---

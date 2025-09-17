@@ -1,4 +1,4 @@
-# Cc-by-sa-4.0 (5)
+# Cc-by-sa-4.0 (6)
 ## DALIA Interchange Format
 
 Jonathan Geiger, Petra Steiner, Abdelmoneim Amer Desouki, Frank Lange
@@ -37,6 +37,26 @@ Tags: Documentation
 Content type: Website, Tutorial, Workflow
 
 [https://www.diataxis.fr/](https://www.diataxis.fr/)
+
+
+---
+
+## Introduction to Image Analysis
+
+Barry, David J, Stefania Marcotti, Salgueiro Torres, Sara, Martin Jones, Alicja Skórkowska
+
+Published 2025-08-19
+
+Licensed CC-BY-SA-4.0
+
+
+
+Presentation slides associated with the Introduction to Image Analysis workshop run at the Francis Crick Institute on 18-19th August 2025:
+https://doi.org/10.5281/zenodo.16949737
+
+[https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
+
+[https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
 
 
 ---
