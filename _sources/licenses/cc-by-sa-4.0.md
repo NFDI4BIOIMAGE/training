@@ -178,9 +178,9 @@ Submitted via NFDI4Culture
 
 ## introduction-to-image-analysis
 
-Dave Barry, Stefania Marcotti, Martin Jones
+Dave Barry, Stefania Marcotti, Sara Salgueiro Torres, Martin Jones, AlicjaSkorkowska
 
-Published 2024-10-23T14:05:55+00:00
+Published 2025-08-26T14:08:22+00:00
 
 Licensed CC-BY-SA-4.0
 
@@ -188,11 +188,11 @@ Licensed CC-BY-SA-4.0
 
 
 
-Tags: Bioimage Analysis
+Tags: Todo
 
-Content type: Github Repository, Notebooks
+Content type: Github Repository
 
-[https://github.com/RMS-DAIM/introduction-to-image-analysis](https://github.com/RMS-DAIM/introduction-to-image-analysis)
+[https://github.com/FrancisCrickInstitute/introduction-to-image-analysis](https://github.com/FrancisCrickInstitute/introduction-to-image-analysis)
 
 
 ---
