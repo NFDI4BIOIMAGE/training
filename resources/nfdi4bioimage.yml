@@ -21155,3 +21155,17 @@ resources:
   - https://zenodo.org/records/17080219
   - https://doi.org/10.5281/zenodo.17080219
   uuid: ccae0123-60de-462b-aeb6-dbb64eb4cef6
+
+- authors:
+  - Wangjun Hu
+  - "Nikolai K\xF6hler"
+  - Britta Velten
+  description: Contains material for the 2025 EMBO Practical course "Advanced methods
+    in bioimage analysis" https://www.embl.org/about/info/course-and-conference-office/events/bia25-01/
+  name: embo_bioimage_analysis
+  publication_date: '2025-06-16T09:41:44+00:00'
+  submission_date: '2025-09-17T07:18:24.260404'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/velten-group/embo_bioimage_analysis
+  
