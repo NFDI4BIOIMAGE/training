@@ -22694,3 +22694,19 @@ resources:
   url: https://github.com/kevinyamauchi/embo-bia-2025
   tags:
   - exclude from DALIA
+
+- authors:
+  - Lea Kabjesz
+  - Lea Gihlein
+  - Mara Lampert
+  - FPGro
+  description: 'A collection of workshop materials for exploring prompting techniques
+    by building a Snake game in Cursor.  '
+  license: Creative Commons Attribution 4.0 International
+  name: PygamePrompts
+  publication_date: '2025-08-12T11:36:36+00:00'
+  submission_date: '2025-09-19T12:01:46.533704'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/kaabl/PygamePrompts
+  
