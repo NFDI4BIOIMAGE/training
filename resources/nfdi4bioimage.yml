@@ -20505,6 +20505,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16921650
   tags:
   - exclude from DALIA
+  uuid: 740035c1-d1d1-4e71-a6db-a8ecbfe13591
 - authors:
   - Barry, David J
   - Marcotti, Stefania
@@ -20525,6 +20526,7 @@ resources:
   - https://doi.org/10.5281/zenodo.16949737
   tags:
   - include in DALIA
+  uuid: d5a431fc-fcb5-4dbb-a9e3-d2b388c41cdc
 - authors:
   - Erick Martins Ratamero
   - dependabot[bot]
@@ -20555,6 +20557,7 @@ resources:
   url: https://github.com/FrancisCrickInstitute/introduction-to-image-analysis
   tags:
   - include in DALIA
+  uuid: 958d4854-e2ed-4edb-9f29-fec19ba86502
 - authors:
   - Wetzker, Cornelia
   description: 'The poster introduces the consortium NFDI4BIOIMAGE and presents tools
@@ -22683,6 +22686,7 @@ resources:
   - https://doi.org/10.5281/zenodo.17127544
   tags:
   - exclude from DALIA
+  uuid: 81370b88-9575-4e72-97f3-9903708f9bc7
 - authors:
   - Kevin Yamauchi
   description: ''
@@ -22694,3 +22698,4 @@ resources:
   url: https://github.com/kevinyamauchi/embo-bia-2025
   tags:
   - exclude from DALIA
+  uuid: 7aa3ba41-d1ae-4a2b-9a20-1f08f20b8017
