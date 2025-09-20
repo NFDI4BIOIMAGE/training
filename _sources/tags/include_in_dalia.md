@@ -1,4 +1,4 @@
-# Include in dalia (332)
+# Include in dalia (333)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -4642,6 +4642,27 @@ Tags: Llms, Prompt Engineering, Code Generation, Include In Dalia
 Content type: Github Repository, Tutorial
 
 [https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
+
+
+---
+
+## PygamePrompts
+
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
+
+Published 2025-08-12T11:36:36+00:00
+
+Licensed CC-BY-4.0
+
+
+
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
+
+Tags: Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---

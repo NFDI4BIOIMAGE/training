@@ -398,200 +398,23 @@ Tags: Exclude From Dalia
 
 ---
 
-## NFDI4BIOIMAGE Calendar January 2025
+## PygamePrompts
 
-Lea Miebach, Sander Bekeschus
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
 
-Published 2025-09-15
+Published 2025-08-12T11:36:36+00:00
 
 Licensed CC-BY-4.0
 
 
 
-Image from the NFDI4BIOIMAGE Calendar January 2025.
-A Heart for Redox Biology: The image of primary bone mesenchymal stromal/stem cells (hBM-MSCs) was captured in a study evaluating the cellular effects of therapeutic oxidation in the context of regenerative medicine. The cells were isolated from an arthroplasty patient cohort in a joint research project between the Center for Orthopaedics at University Medical Center and the group ZIK plasmatis at the Leibniz Institute for Plasma Science and Technology (INP) in Greifswald. You can appreciate the characteristic morphology and complex actin cytoskeleton that is crucial for the cellular function of hBM-MSCs. Can you spot the heart that is formed by the prominent actin protrusions of interconnected cells?
-Image Metadata (using REMBI template):
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
 
+Tags: Include In Dalia
 
+Content type: Github Repository
 
-
-Study Component
-
-
-
-
-Imaging method
-
-
-Spinning-disc confocal mode, epifluorescence
-
-
-
-
-Biosample
-
-
-
-
-Biological entity
-
-
-Bone marrow-mesenchymal stem cells (BM-MSCs)
-
-
-
-
-Organism
-
-
-Homo sapiens
-
-
-
-
-Specimen
-
-
-
-
-Preparation method
-
-
-Fixation (4% PFA)
-
-
-
-
-Signal/contrast mechanism
-
-
-Fluorescence
-
-
-
-
-Channel 1 &ndash; content
-
-
-4',6-Diamidin-2-phenylindol (DAPI; Thermo Fisher, USA), blue
-
-
-
-
-Channel 1 &ndash; biological entity
-
-
-Nuclei
-
-
-
-
-Channel 2 &ndash; content
-
-
-MitoSpy Green (Biolegend, USA), green
-
-
-
-
-Channel 2 &ndash; biological entity
-
-
-Mitochondria
-
-
-
-
-Channel 3 &ndash; content
-
-
-Flash Phalloidin Red (Biolegend, USA), orange
-
-
-
-
-Channel 3 &ndash; biological entity
-
-
-Actin
-
-
-
-
-Image acquisition
-
-
-
-
-Microscope model
-
-
-Operetta CLS (PerkinElmer, USA)
-
-
-
-
-Image data
-
-
-
-
-Type
-
-
-Raw and processed image in comparison
-
-
-
-
-Magnification
-
-
-20x air objective (NA = 0.8)
-
-
-
-
-Excitation
-
-
-Channel 1: 365 nm; Channel 2: 475 nm; Channel 3: 550 nm
-
-
-
-
-Detection
-
-
-Channel 1: 465 nm; Channel 2: 525 nm; Channel 3: 610 nm
-
-
-
-
-Analysed data
-
-
-
-
-Image processing method
-
-
-Algorithm-based, unsupervised image segmentation with Harmony 4.9 analysis software (PerkinElmer, USA)
-
-
-
-
-Submitted via NFDI4BIOIMAGE
-
-
-
-
-
-Tags: Exclude From Dalia
-
-[https://zenodo.org/records/16980217](https://zenodo.org/records/16980217)
-
-[https://doi.org/10.5281/zenodo.16980217](https://doi.org/10.5281/zenodo.16980217)
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---

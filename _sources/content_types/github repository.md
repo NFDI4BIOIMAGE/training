@@ -1,4 +1,4 @@
-# Github repository (69)
+# Github repository (70)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -597,6 +597,27 @@ Tags: Llms, Prompt Engineering, Code Generation, Include In Dalia
 Content type: Github Repository, Tutorial
 
 [https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
+
+
+---
+
+## PygamePrompts
+
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
+
+Published 2025-08-12T11:36:36+00:00
+
+Licensed CC-BY-4.0
+
+
+
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
+
+Tags: Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---

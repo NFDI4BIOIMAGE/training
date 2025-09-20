@@ -1,4 +1,4 @@
-# Mara lampert (8)
+# Mara lampert (9)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -72,6 +72,27 @@ Tags: Python, Jupyter, Bioimage Analysis, Prompt Engineering, Biabob, Include In
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
+
+
+---
+
+## PygamePrompts
+
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
+
+Published 2025-08-12T11:36:36+00:00
+
+Licensed CC-BY-4.0
+
+
+
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
+
+Tags: Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---

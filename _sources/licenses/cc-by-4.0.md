@@ -1,4 +1,4 @@
-# Cc-by-4.0 (407)
+# Cc-by-4.0 (408)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -9180,6 +9180,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/14692037](https://zenodo.org/records/14692037)
 
 [https://doi.org/10.5281/zenodo.14692037](https://doi.org/10.5281/zenodo.14692037)
+
+
+---
+
+## PygamePrompts
+
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
+
+Published 2025-08-12T11:36:36+00:00
+
+Licensed CC-BY-4.0
+
+
+
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
+
+Tags: Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---

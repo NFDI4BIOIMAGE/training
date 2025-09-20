@@ -1,4 +1,4 @@
-# Github.com (150)
+# Github.com (151)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1691,6 +1691,27 @@ Tags: Llms, Prompt Engineering, Code Generation, Include In Dalia
 Content type: Github Repository, Tutorial
 
 [https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Course)
+
+
+---
+
+## PygamePrompts
+
+Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
+
+Published 2025-08-12T11:36:36+00:00
+
+Licensed CC-BY-4.0
+
+
+
+A collection of workshop materials for exploring prompting techniques by building a Snake game in Cursor.  
+
+Tags: Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/kaabl/PygamePrompts](https://github.com/kaabl/PygamePrompts)
 
 
 ---
