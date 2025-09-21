@@ -9623,6 +9623,8 @@ resources:
   file_formats: .3mf * .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Gerlach https://orcid.org/0000-0002-6831-751X
 - submission_date: '2024-11-18T16:34:15.720049'
   authors:
   - Michael Gerlach
@@ -9644,6 +9646,8 @@ resources:
   file_formats: .3mf * .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Gerlach https://orcid.org/0000-0002-6831-751X
 - submission_date: '2024-11-18T16:34:16.060174'
   authors:
   - Michael Gerlach
@@ -9664,6 +9668,8 @@ resources:
   file_formats: .3mf * .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Gerlach https://orcid.org/0000-0002-6831-751X
 - submission_date: '2024-11-18T16:34:16.445941'
   authors:
   - Michael Gerlach
@@ -9697,6 +9703,8 @@ resources:
   file_formats: .xlsx
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Gerlach https://orcid.org/0000-0002-6831-751X
 - submission_date: '2024-11-18T16:34:16.785479'
   authors:
   - Nadine Utz
@@ -9733,6 +9741,11 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Nadine Utz
+  - Sabine Reither
+  - Ruth Hans
+  - Christian Feldhaus https://orcid.org/0009-0008-5000-7645
 - submission_date: '2024-11-18T16:34:17.179933'
   authors:
   - Stefanie Weidtkamp-Peters
@@ -9753,6 +9766,13 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Roland Nitschke https://orcid.org/0000-0002-9397-8475
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
 - submission_date: '2024-11-18T16:34:17.925836'
   authors:
   - Chiara Stringari
@@ -9786,6 +9806,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Chiara Stringari https://orcid.org/0000-0002-0550-7463
 - submission_date: '2024-11-18T16:34:18.393086'
   authors:
   - Christian Schmidt
@@ -9828,6 +9850,18 @@ resources:
   uuid: d8991538-e181-482e-aeb4-ada02d7f7671
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  - Julia Dohle
+  - Tobias Wernet https://orcid.org/0009-0004-2093-7885
+  - Janina Hanne https://orcid.org/0000-0002-5332-3589
+  - Roland Nitschke https://orcid.org/0000-0002-9397-8475
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  - Karen Bernhardt
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
 - submission_date: '2024-11-18T16:34:18.767636'
   authors:
   - Susanne Kunis
@@ -9849,6 +9883,9 @@ resources:
   - https://doi.org/10.5281/zenodo.10796364
   uuid: 38117ab5-3161-4224-9b43-41426da1d052
   file_formats: .pdf
+  authors_with_orcid:
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
 - submission_date: '2024-11-18T16:34:21.337970'
   authors:
   - bugraoezdemir
@@ -9879,6 +9916,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - bugraoezdemir
 - submission_date: '2024-11-18T16:34:22.477169'
   authors:
   - Romain David
@@ -9972,6 +10011,66 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain David https://orcid.org/0000-0003-4073-7456
+  - Arina Rybina https://orcid.org/0000-0002-5609-5710
+  - Jean-Marie Burel https://orcid.org/0000-0002-1789-1861
+  - Jean-Karim Heriche https://orcid.org/0000-0001-6867-9425
+  - Pauline Audergon https://orcid.org/0000-0002-1624-7388
+  - Jan-Willem Boiten https://orcid.org/0000-0003-0327-638X
+  - Frederik Coppens https://orcid.org/0000-0001-6565-5145
+  - Sara Crockett https://orcid.org/0009-0008-7983-0360
+  - Exter Katrina https://orcid.org/0000-0002-5911-1536
+  - Sven Fahrener https://orcid.org/0000-0001-6240-9678
+  - Maddalena Fratelli https://orcid.org/0000-0002-1769-3427
+  - Carole Goble https://orcid.org/0000-0003-1219-2137
+  - Philipp Gormanns https://orcid.org/0000-0001-9823-1621
+  - Tobias Grantner https://orcid.org/0000-0001-5104-5004
+  - Bjorn Gruning https://orcid.org/0000-0002-3079-6586
+  - Kim Tamara Gurwitz https://orcid.org/0000-0003-1992-5073
+  - John Hancock https://orcid.org/0000-0003-2991-2217
+  - Henriette Harmse https://orcid.org/0000-0001-7251-9504
+  - Petr Holub https://orcid.org/0000-0002-5358-616X
+  - Nick Juty https://orcid.org/0000-0002-2036-8350
+  - Geoffrey Karnbach https://orcid.org/0009-0005-9892-7799
+  - Emma Karoune https://orcid.org/0000-0002-6576-6053
+  - Antje Keppler https://orcid.org/0000-0003-4358-2269
+  - Jessica Klemeier https://orcid.org/0009-0006-9083-3808
+  - Carla Lancelotti https://orcid.org/0000-0003-1099-7329
+  - Jean-Luc Legras https://orcid.org/0000-0002-4006-4389
+  - L. Allyson Lister https://orcid.org/0000-0002-7702-4495
+  - Dario Livio Longo https://orcid.org/0000-0002-6906-9925
+  - Rebecca Ludwig https://orcid.org/0000-0001-9877-3287
+  - Benedicte Madon https://orcid.org/0000-0001-8608-3895
+  - Marzia Massimi https://orcid.org/0000-0001-5052-1822
+  - Vera Matser https://orcid.org/0000-0002-2010-6844
+  - Rafaele Matteoni https://orcid.org/0000-0002-0314-5948
+  - Michaela Th. Mayrhofer https://orcid.org/0000-0001-6932-0473
+  - Christian Ohmann https://orcid.org/0000-0002-5919-1003
+  - Maria Panagiotopoulou https://orcid.org/0000-0002-4221-7254
+  - Helen Parkinson https://orcid.org/0000-0003-3035-4195
+  - Isabelle Perseil https://orcid.org/0000-0001-9058-9290
+  - Claudia Pfander https://orcid.org/0000-0002-9574-9553
+  - Roland Pieruschka https://orcid.org/0000-0002-9774-2670
+  - Michael Raess https://orcid.org/0000-0002-8759-1186
+  - Andreas Rauber https://orcid.org/0000-0002-9272-6225
+  - Audrey S. Richard https://orcid.org/0000-0002-0207-0139
+  - Paolo Romano https://orcid.org/0000-0003-4694-3883
+  - Antonio Rosato https://orcid.org/0000-0001-6172-0368
+  - Alex Sanchez-Pla https://orcid.org/0000-0002-8673-7737
+  - Susanna-Assunta Sansone https://orcid.org/0000-0001-5306-5690
+  - Ugis Sarkans https://orcid.org/0000-0001-9227-8488
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Jing Tang https://orcid.org/0000-0001-7480-7710
+  - Ziaurrehman Tanoli https://orcid.org/0000-0003-2435-9862
+  - Jonathan Tedds https://orcid.org/0000-0003-2829-4584
+  - Harald Wagener https://orcid.org/0000-0003-1073-4991
+  - Martin Weise https://orcid.org/0000-0003-4216-302X
+  - Hans V. Westerhoff https://orcid.org/0000-0002-0443-6114
+  - Rudolf Wittner https://orcid.org/0000-0002-0003-2024
+  - Jonathan Ewbank https://orcid.org/0000-0002-1257-6862
+  - Niklas Blomberg https://orcid.org/0000-0003-4155-5910
+  - Philip Gribbon https://orcid.org/0000-0001-7655-2459
 - submission_date: '2024-11-18T16:34:22.816011'
   authors:
   - Beatriz Serrano-Solano
@@ -9990,6 +10089,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
 - submission_date: '2024-11-18T16:34:23.197583'
   authors:
   - Euro-BioImaging ERIC
@@ -10010,6 +10111,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - submission_date: '2024-11-18T16:34:23.860886'
   authors:
   - Isabel Kemmer
@@ -10044,6 +10147,16 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Antje Keppler https://orcid.org/0000-0003-4358-2269
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Arina Rybina https://orcid.org/0000-0002-5609-5710
+  - Bugra Özdemir https://orcid.org/0000-0001-9823-0581
+  - Johanna Bischof https://orcid.org/0000-0002-5668-841X
+  - Ayoub El Ghadraoui https://orcid.org/0000-0002-5494-036X
+  - John E. Eriksson https://orcid.org/0000-0002-1570-7725
+  - Aastha Mathur https://orcid.org/0000-0001-9734-9767
 - submission_date: '2024-11-18T16:34:26.146506'
   authors:
   - Luke Sorensen
@@ -10101,6 +10214,29 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han https://orcid.org/0000-0003-3028-7359
+  - Ryan Hamnett https://orcid.org/0000-0002-9118-1585
+  - Peter Neckel https://orcid.org/0000-0003-1976-0512
+  - Adam Humenick
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes https://orcid.org/0000-0001-5635-0876
+  - Rachel M McQuade https://orcid.org/0000-0002-3510-1288
+  - Jaime PP Foong https://orcid.org/0000-0003-2082-5520
+  - Estibaliz Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Arrate Muñoz Barrutia
+  - Julia A. Kaltschmidt
+  - Sebastian K. King https://orcid.org/0000-0001-5396-0265
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Simona Carbone https://orcid.org/0000-0002-4350-6357
+  - Nicholas A. Veldhuis https://orcid.org/0000-0002-8902-9365
+  - Daniel P. Poole https://orcid.org/0000-0002-6168-8422
+  - Pradeep Rajasekhar https://orcid.org/0000-0002-1983-7244
 - submission_date: '2024-11-18T16:34:26.566744'
   authors:
   - Luke Sorensen
@@ -10202,6 +10338,27 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han https://orcid.org/0000-0003-3028-7359
+  - Adam Humenick
+  - Peter Neckel
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes https://orcid.org/0000-0001-5635-0876
+  - Rachel M McQuade https://orcid.org/0000-0002-3510-1288
+  - Jaime PP Foong https://orcid.org/0000-0003-2082-5520
+  - Sebastian K. King https://orcid.org/0000-0001-5396-0265
+  - Estibaliz  Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Arrate Muñoz-Barrutia https://orcid.org/0000-0002-1573-1661
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Simona Carbone https://orcid.org/0000-0002-4350-6357
+  - Nicholas A. Veldhuis https://orcid.org/0000-0002-8902-9365
+  - Daniel P. Poole https://orcid.org/0000-0002-6168-8422
+  - Pradeep Rajasekhar https://orcid.org/0000-0002-1983-7244
 - submission_date: '2024-11-18T16:34:27.012540'
   authors:
   - Martin Schätz
@@ -10225,6 +10382,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
 - submission_date: '2024-11-18T16:34:28.045966'
   authors:
   - Romain
@@ -10241,6 +10400,8 @@ resources:
   file_formats: .groovy * .tif
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain https://orcid.org/0000-0001-6715-4897
 - submission_date: '2024-11-18T16:34:28.513488'
   authors:
   - Martin Schätz
@@ -10301,6 +10462,11 @@ resources:
   file_formats: .csv * .xlsx * .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Olga Rubešová https://orcid.org/0000-0003-2101-499X
+  - Jan Mareš https://orcid.org/0000-0003-4693-2519
+  - Alan Spark
 - submission_date: '2024-11-18T16:34:29.533446'
   authors:
   - Anna Pascual Reguant
@@ -10330,6 +10496,11 @@ resources:
   file_formats: .tif
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Anna Pascual Reguant https://orcid.org/0000-0002-5042-3699
+  - Ronja Mothes
+  - Helena Radbruch
+  - Anja E. Hauser https://orcid.org/0000-0002-7725-9526
 - submission_date: '2024-11-18T16:34:29.961816'
   authors:
   - Romain Guiet
@@ -10349,6 +10520,11 @@ resources:
   file_formats: .ijm * .nd2
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
+  - Mehmet Girgin https://orcid.org/0000-0001-6191-3071
+  - Matthias Lutolf
 - submission_date: '2024-11-18T16:34:30.357363'
   authors:
   - Martin Schätz
@@ -10369,6 +10545,8 @@ resources:
   file_formats: .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
 - submission_date: '2024-11-18T16:34:30.816975'
   authors:
   - Robert Haase
@@ -10422,6 +10600,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - submission_date: '2024-11-18T16:34:31.351869'
   authors:
   - Sebastian Rhode
@@ -10449,6 +10629,8 @@ resources:
   file_formats: .czi
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Sebastian Rhode
 - submission_date: '2024-11-18T16:34:31.831739'
   authors:
   - Martin Schätz
@@ -10473,6 +10655,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
 - submission_date: '2024-11-18T16:34:32.177486'
   authors:
   - Martin Schätz
@@ -10497,6 +10681,10 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Lukáš Mrazík https://orcid.org/0000-0002-8847-5697
+  - Karolina Máhlerova https://orcid.org/0000-0001-7970-485X
 - submission_date: '2024-11-18T16:34:32.987735'
   authors:
   - Daniel Waiger
@@ -10515,6 +10703,8 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Daniel Waiger https://orcid.org/0000-0002-5519-1022
 - submission_date: '2024-11-18T16:34:33.487847'
   authors:
   - Julie Meystre
@@ -10554,6 +10744,8 @@ resources:
   file_formats: .lsm
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Julie Meystre
 - submission_date: '2024-11-18T16:34:34.152918'
   authors:
   - Romain Guiet
@@ -10611,6 +10803,8 @@ resources:
   file_formats: .ipynb * .png * .tif * .yml * .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
 - submission_date: '2024-11-18T16:34:34.654130'
   authors:
   - Laurent Thomas
@@ -10634,6 +10828,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Laurent Thomas https://orcid.org/0000-0001-7686-3249
 - submission_date: '2024-11-18T16:34:35.063614'
   authors:
   - Thomas Laurent
@@ -10686,6 +10882,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Thomas Laurent https://orcid.org/0000-0001-7686-3249
 - submission_date: '2024-11-18T16:34:35.407938'
   authors:
   - Laia Simó-Riudalbas
@@ -10742,6 +10940,12 @@ resources:
   file_formats: .pdf * .png * .txt * .zip
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Laia Simó-Riudalbas https://orcid.org/0000-0001-9294-3636
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
+  - Julien Duc https://orcid.org/0000-0001-8195-804X
+  - Didier Trono https://orcid.org/0000-0002-3383-0401
 - submission_date: '2024-11-18T16:34:35.773605'
   authors:
   - Romain Guiet
@@ -10793,6 +10997,9 @@ resources:
   file_formats: .ipynb * .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
 - submission_date: '2024-11-18T16:34:36.126990'
   authors:
   - Romain Guiet
@@ -10868,6 +11075,8 @@ resources:
   file_formats: .png * .tif * .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
 - submission_date: '2024-11-18T16:34:36.472002'
   authors:
   - Laura Capolupo
@@ -10919,6 +11128,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Laura Capolupo https://orcid.org/0000-0003-1254-5019
 - submission_date: '2024-11-18T16:34:36.805571'
   authors:
   - Laura Capolupo
@@ -10965,6 +11176,10 @@ resources:
   file_formats: '.171894'
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Laura Capolupo https://orcid.org/0000-0003-1254-5019
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
 - submission_date: '2024-11-18T16:34:37.223826'
   authors:
   - Laurent Thomas
@@ -10993,6 +11208,9 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Laurent Thomas https://orcid.org/0000-0001-7686-3249
+  - Pierre Trehin https://orcid.org/0000-0002-1724-2191
 - submission_date: '2024-11-18T16:34:37.614706'
   authors:
   - Romain Guiet
@@ -11030,6 +11248,8 @@ resources:
   file_formats: .czi * .tif
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
 - submission_date: '2024-11-18T16:34:39.643990'
   authors:
   - Cavanagh
@@ -11045,6 +11265,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Cavanagh
 - submission_date: '2024-11-18T16:34:40.260008'
   authors:
   - Nicolas Chiaruttini
@@ -11082,6 +11304,8 @@ resources:
   file_formats: .oir
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Nicolas Chiaruttini https://orcid.org/0000-0003-4722-6245
 - submission_date: '2024-11-18T16:34:40.728131'
   authors:
   - j
@@ -11104,6 +11328,8 @@ resources:
   file_formats: .czi
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - j
 - submission_date: '2024-11-18T16:34:41.114444'
   authors:
   - IMCF
@@ -11136,6 +11362,8 @@ resources:
   file_formats: .ics * .ids
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - IMCF
 - submission_date: '2024-11-18T16:34:41.460603'
   authors:
   - Mario Garcia
@@ -11152,6 +11380,8 @@ resources:
   file_formats: .czi
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Mario Garcia
 - authors:
   - Sarah Weischer
   - Jens Wendt
@@ -11179,6 +11409,9 @@ resources:
   uuid: 0967d465-a99f-49d8-bb21-2559a34ec4c3
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  - Julia Dohle
 - authors:
   - Kunis
   description: 'This thesis deals with concepts and solutions in the field of data
@@ -11233,6 +11466,8 @@ resources:
   uuid: 4f173204-6c66-4dec-9d22-a66d274d22a8
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Kunis https://orcid.org/0000-0001-6523-7496
 - authors:
   - Marco Stucchi
   description: The files contained in this repository are cropped versions of Imaris
@@ -11249,6 +11484,8 @@ resources:
   file_formats: .ims
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Marco Stucchi
 - authors:
   - Josh Moore
   description: 'Presented at the 2024 FoundingGIDE event in Okazaki, Japan: https://founding-gide.eurobioimaging.eu/event/foundinggide-community-event-2024/
@@ -11273,6 +11510,8 @@ resources:
   uuid: ab00a09a-f8a9-4fa6-b8f7-55e20d1e691a
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Josh Moore
 - authors:
   - Marco Stucchi
   description: 'The files contained in this repository are example Imaris ims images.
@@ -11292,6 +11531,8 @@ resources:
   file_formats: .ims
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Marco Stucchi
 - authors:
   - Will Moore
   - Josh Moore
@@ -11343,6 +11584,12 @@ resources:
   uuid: 5a85cdc8-f012-462f-bf56-39673e2e7f37
   language: de
   file_formats: .pdf * .pptx
+  authors_with_orcid:
+  - Birgitta König-Ries https://orcid.org/0000-0002-2382-9722
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Daniel Nüst https://orcid.org/0000-0002-0024-5046
+  - Konrad Förstner https://orcid.org/0000-0002-1481-2996
+  - Judith Sophie Engel https://orcid.org/0000-0001-8665-6382
 - authors:
   - Zach Marin
   - Maohan Su
@@ -11360,6 +11607,9 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Zach Marin https://orcid.org/0000-0001-5341-9911
+  - Maohan Su https://orcid.org/0000-0001-5523-9607
 - authors:
   - Zach Marin
   - Maohan Su
@@ -11377,6 +11627,9 @@ resources:
   file_formats: .dcimg
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Zach Marin https://orcid.org/0000-0001-5341-9911
+  - Maohan Su https://orcid.org/0000-0001-5523-9607
 - authors:
   - Zach Marin
   description: Bead stack taken on lower path of a 4Pi without deformable mirror corrections.
@@ -11393,6 +11646,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Zach Marin https://orcid.org/0000-0001-5341-9911
 - authors:
   - JanClusmann
   - Tim Lenz
@@ -11466,6 +11721,8 @@ resources:
   uuid: 4340cca4-96ed-42a4-8448-39a9807fbd10
   language: en
   file_formats: .pdf * .pptx
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Markus M. Becker
   - Ihda Chaerony Siffa
@@ -11552,6 +11809,10 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Markus M. Becker https://orcid.org/0000-0001-9324-3236
+  - Ihda Chaerony Siffa https://orcid.org/0000-0002-4232-4543
+  - Roman Baum https://orcid.org/0000-0001-5246-9351
 - authors:
   - NFDI4BIOIMAGE Consortium
   description: 'These illustrations were contracted by the Heinrich Heine University
@@ -11579,6 +11840,8 @@ resources:
   uuid: 1ff5dfba-379a-4238-a08c-540f9c72af7a
   language: en
   file_formats: .jpg * .pdf
+  authors_with_orcid:
+  - NFDI4BIOIMAGE Consortium
 - authors:
   - Judith Engel
   - Patrick Helling
@@ -11622,6 +11885,17 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Judith Engel https://orcid.org/0000-0001-8665-6382
+  - Patrick Helling https://orcid.org/0000-0003-4043-165X
+  - Robert Herrenbrück https://orcid.org/0000-0002-1355-5043
+  - Marina Lemaire https://orcid.org/0000-0003-4726-2481
+  - Hela Mehrtens https://orcid.org/0000-0002-4526-2472
+  - Marcus Schmidt https://orcid.org/0000-0002-5546-5521
+  - Martha Stellmacher https://orcid.org/0000-0001-5655-0130
+  - Lukas Weimer https://orcid.org/0000-0001-6919-3646
+  - Cord Wiljes https://orcid.org/0000-0003-2528-5391
+  - Wolf Zinke https://orcid.org/0000-0001-5525-5973
 - authors:
   - Christian Schmidt
   - Tom Boissonnet
@@ -11660,6 +11934,11 @@ resources:
   uuid: aa83ee95-067f-4a26-b6c4-14b6d08b56aa
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
 - authors:
   - Salama Lab Fred Hutchinson Cancer Center
   license: cc-by-4.0
@@ -11674,6 +11953,8 @@ resources:
   file_formats: .lsm
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Salama Lab Fred Hutchinson Cancer Center
 - authors:
   - Michael Chungyoun
   - Courtney Thomas
@@ -11733,6 +12014,8 @@ resources:
   uuid: 59719fe9-0c44-42d4-abb5-2e6f05c9910d
   language: en
   file_formats: .pdf * .pptx
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors: Rafael Irizarry
   description: UMAP is a powerful tool for exploratory data analysis, but without
     a clear understanding of how it works, it can easily lead to confusion and misinterpretation.
@@ -11765,6 +12048,8 @@ resources:
   - https://doi.org/10.5281/zenodo.7257808
   uuid: 6b73ed65-2d42-42ff-9b49-18f19a561e87
   file_formats: .zip
+  authors_with_orcid:
+  - Joachim Goedhart
 - authors: Joachim Goedhart
   description: The author discusses a number of color palettes that are suitable for
     coloring graphical elements in plots.
@@ -11889,6 +12174,8 @@ resources:
   - https://doi.org/10.5281/zenodo.4778265
   uuid: dbbee207-410b-4486-a7d6-963a6e7f2545
   file_formats: .pdf
+  authors_with_orcid:
+  - Shanmugasundaram https://orcid.org/0000-0002-3200-2698
 - authors: Richard McElreath
   description: Video Lectures for Statistical Rethinking Course
   license: UNKNOWN
@@ -11967,6 +12254,25 @@ resources:
   - https://doi.org/10.5281/zenodo.14264885
   uuid: 1741687d-e150-4d8d-b0c8-dff02e605a53
   file_formats: .zip
+  authors_with_orcid:
+  - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  - Antonio Politi https://orcid.org/0000-0003-4788-0933
+  - Tim-Oliver Buchholz https://orcid.org/0000-0001-6953-8915
+  - Elnaz Fazeli https://orcid.org/0000-0002-0770-0777
+  - Nicola Gritti https://orcid.org/0000-0002-7637-4258
+  - Aliaksandr Halavatyi https://orcid.org/0000-0002-9002-457X
+  - Sebastian Gonzalez Tirado
+  - Julian Hennies https://orcid.org/0000-0002-0555-151X
+  - Toby Hodges https://orcid.org/0000-0003-1766-456X
+  - Arif Khan https://orcid.org/0000-0003-4105-1990
+  - Dominik Kutra https://orcid.org/0000-0003-4202-3908
+  - Stefania Marcotti https://orcid.org/0000-0002-2877-0133
+  - Bugra Oezdemir https://orcid.org/0000-0001-9823-0581
+  - Felix Schneider https://orcid.org/0000-0002-9958-8961
+  - Martin Schorb
+  - Anniek Stokkermans https://orcid.org/0000-0002-9013-9983
+  - Yi Sun https://orcid.org/0000-0002-7636-0200
+  - Nima Vakili
 - authors:
   - Alex Wolf
   - pre-commit-ci[bot]
@@ -12018,6 +12324,8 @@ resources:
   - https://doi.org/10.5281/zenodo.14716546
   uuid: 93dd5805-f9db-44c7-affb-af125e8620b8
   file_formats: .pdf
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Josh Moore
   description: 'CMCB LIFE SCIENCES SEMINARSTechnische Universit&auml;t Dresden16th
@@ -12040,6 +12348,8 @@ resources:
   uuid: e126a935-fa9f-4e56-84e3-d6ac2c4b3f48
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Ben Vermaercke
   description: Intravital workshop 15/11/2024
@@ -12056,6 +12366,8 @@ resources:
   file_formats: .pptx
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Ben Vermaercke https://orcid.org/0000-0002-9645-0625
 - authors:
   - Hoku West-Foyle
   license: CC0-1.0
@@ -12070,6 +12382,8 @@ resources:
   file_formats: .ims
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Hoku West-Foyle https://orcid.org/0000-0002-1603-7639
 - authors:
   - Pylvänäinen, Joanna
   description: 'Description:This training package provides a guide to image processing
@@ -12113,6 +12427,8 @@ resources:
   file_formats: .lsm * .nd2 * .pdf * .tif
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Joanna W. Pylvänäinen https://orcid.org/0000-0002-3540-5150
 - authors:
   - Haase, Robert
   description: In these two slide-decks we explore applications of large language
@@ -12133,6 +12449,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0003-2311-8004
 - authors:
   - Fortmann-Grote, Carsten
   - Meireles, Mariana
@@ -12159,6 +12477,9 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  - Mariana Meireles https://orcid.org/0000-0001-9227-9798
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -12195,6 +12516,9 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Fabien Kuttler https://orcid.org/0000-0003-2575-1989
+  - Rémy Dornier https://orcid.org/0009-0006-1381-4582
 - authors:
   - Kuttler, Fabien
   - Dornier, Rémy
@@ -12227,6 +12551,9 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Fabien Kuttler https://orcid.org/0000-0003-2575-1989
+  - Rémy Dornier https://orcid.org/0009-0006-1381-4582
 - authors:
   - Matthew Mueller
   - Aaron
@@ -12328,6 +12655,9 @@ resources:
   file_formats: .odt
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Linda Zollitsch https://orcid.org/0000-0001-9592-3382
+  - Swantje Piotrowski https://orcid.org/0000-0002-5492-3746
 - authors:
   - SaibotMagd
   description: 'firefox extension: reads datamatrix code from camera and create a
@@ -12613,6 +12943,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -12658,6 +12990,10 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Jan-Philipp Mallm https://orcid.org/0000-0002-7059-4030
 - authors:
   - Fuster-Barcelo, Caterina
   description: The dynamic field of bioimage analysis continually seeks innovative
@@ -12685,6 +13021,8 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Caterina Fuster-Barcelo https://orcid.org/0000-0002-4784-6957
 - authors:
   - Laurent Thomas
   - Pierre Trehin
@@ -12702,6 +13040,9 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Laurent Thomas
+  - Pierre Trehin
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -12754,6 +13095,29 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han https://orcid.org/0000-0003-3028-7359
+  - Ryan Hamnett https://orcid.org/0000-0002-9118-1585
+  - Peter Neckel https://orcid.org/0000-0003-1976-0512
+  - Adam Humenick
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes https://orcid.org/0000-0001-5635-0876
+  - Rachel M McQuade https://orcid.org/0000-0002-3510-1288
+  - Jaime PP Foong https://orcid.org/0000-0003-2082-5520
+  - Estibaliz Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Arrate Muñoz Barrutia
+  - Julia A. Kaltschmidt
+  - Sebastian K. King https://orcid.org/0000-0001-5396-0265
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Simona Carbone https://orcid.org/0000-0002-4350-6357
+  - Nicholas A. Veldhuis https://orcid.org/0000-0002-8902-9365
+  - Daniel P. Poole https://orcid.org/0000-0002-6168-8422
+  - Pradeep Rajasekhar https://orcid.org/0000-0002-1983-7244
 - authors:
   - Romette, Louis
   description: Acquired with an Nikon SIM, in 2D-SIM mode at 488nm of excitation with
@@ -12775,6 +13139,8 @@ resources:
   file_formats: .nd2
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Louis Romette https://orcid.org/0000-0003-2841-091X
 - authors:
   - Haase, Robert
   description: When training people in topics such as programming, bio-image analysis
@@ -12798,6 +13164,8 @@ resources:
   - NFDI4Bioimage
   - Artificial Intelligence
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Haase, Robert
   description: Artificial intelligence (AI) and large language models (LLMs) are changing
@@ -12819,6 +13187,8 @@ resources:
   - NFDI4Bioimage
   - Artificial Intelligence
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Draga Doncila Pop
   description: This is a three-part workshop guiding you through using napari to view
@@ -13015,6 +13385,8 @@ resources:
   file_formats: .czi
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Schwarz https://orcid.org/0009-0002-1414-3291
 - authors:
   - Rodriguez, Areli
   description: The blue and red channels get swapped when imported with Bio-formats.
@@ -13030,6 +13402,8 @@ resources:
   file_formats: .lif
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Areli Rodriguez
 - authors:
   - Serrano-Solano, Beatriz
   - Kostrykin, Leonid
@@ -13083,6 +13457,11 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Leonid Kostrykin https://orcid.org/0000-0003-1323-3762
+  - Anne Fouilloux https://orcid.org/0000-0002-1784-2920
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Marcelo Zoccoler
   - Johannes Soltwedel
@@ -13117,6 +13496,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Schmidt, Christian
   - Bortolomeazzi, Michele
@@ -13195,6 +13576,13 @@ resources:
   - NFDI4Bioimage
   - Research Data Management
   - include in DALIA
+  authors_with_orcid:
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
+  - Jan-Philipp Mallm https://orcid.org/0000-0002-7059-4030
+  - Elisa Ferrando-May https://orcid.org/0000-0002-5567-8690
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Krooß, Ksenia
   - Fuchs, Vanessa Aphaia Fiona
@@ -13230,6 +13618,11 @@ resources:
   - NFDI4Bioimage
   - Research Data Management
   - include in DALIA
+  authors_with_orcid:
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Chiang Jurado, Diana
   - Massei, Riccardo
@@ -13251,6 +13644,15 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Diana Chiang Jurado https://orcid.org/0000-0002-5857-1477
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Pavankumar Videm https://orcid.org/0000-0002-5192-126X
+  - Anup Kumar https://orcid.org/0000-0002-2068-4695
+  - Anne Fouilloux https://orcid.org/0000-0002-1784-2920
+  - Leonid Kostrykin https://orcid.org/0000-0003-1323-3762
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Björn Grüning https://orcid.org/0000-0002-3079-6586
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -13271,6 +13673,14 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Matthias Bernt https://orcid.org/0000-0003-2380-8830
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Lucille Lopez-Delisle https://orcid.org/0000-0002-1964-4960
+  - Jan Bumberger https://orcid.org/0000-0003-3780-8663
+  - Björn Grüning https://orcid.org/0000-0002-3079-6586
+  - Leonid Kostrykin https://orcid.org/0000-0003-1323-3762
 - authors:
   - Massei, Riccardo
   - Berndt, Matthias
@@ -13338,6 +13748,17 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Matthias Berndt
+  - Lucille Lopez-Delisle https://orcid.org/0000-0002-1964-4960
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Wibke Busch https://orcid.org/0000-0002-5497-6266
+  - Stefan Scholz https://orcid.org/0000-0002-6990-4716
+  - Hannes Bohring
+  - Jo Nyffeler
+  - Luise Reger
+  - Jan Bumberger https://orcid.org/0000-0003-3780-8663
 - authors:
   - Dubrulle, Julien
   description: This file cannot be read by bfGetReader() v8.1.1 on a Windows operating
@@ -13354,6 +13775,8 @@ resources:
   file_formats: .ims
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Julien Dubrulle https://orcid.org/0000-0002-4186-7749
 - authors:
   - Bohl, Jürgen
   description: 'With this file the problem addressed in PR#4284 can be reproduced:
@@ -13373,6 +13796,8 @@ resources:
   file_formats: .czi
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Jürgen Bohl
 - authors:
   - Moore, Josh
   - Kunis, Susanne
@@ -13391,6 +13816,9 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
 - authors:
   - Massei, Riccardo
   - Bernt, Matthias
@@ -13417,6 +13845,11 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Matthias Bernt https://orcid.org/0000-0003-3763-0797
+  - Leonid Kostrykin https://orcid.org/0000-0003-1323-3762
+  - Jan Bumberger https://orcid.org/0000-0003-3780-8663
 - authors:
   - Wei Ouyang
   - Wanlu Lei
@@ -13510,6 +13943,36 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Lars Bernard https://orcid.org/0000-0002-3085-7457
+  - Maike Brück https://orcid.org/0009-0009-8508-8585
+  - Christian Busse https://orcid.org/0000-0001-7553-905X
+  - Judith Engel https://orcid.org/0000-0001-8665-6382
+  - Jan Eufinger https://orcid.org/0000-0002-3439-1674
+  - Frank Ewert https://orcid.org/0000-0002-4392-8154
+  - Juliane Fluck https://orcid.org/0000-0003-1379-7023
+  - Konrad Förstner https://orcid.org/0000-0002-1481-2996
+  - Julia Fürst https://orcid.org/0000-0003-2547-933X
+  - Holger Gauza
+  - Klaus Getzlaff https://orcid.org/0000-0002-0347-7838
+  - Frank Oliver Glöckner https://orcid.org/0000-0001-8528-9023
+  - Johannes Hunold https://orcid.org/0000-0002-4378-6061
+  - Oliver Koepler https://orcid.org/0000-0003-3385-4232
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
+  - Birte Lindstädt https://orcid.org/0000-0002-8251-1597
+  - Alice C. McHardy https://orcid.org/0000-0003-2370-3430
+  - Hela Mehrtens https://orcid.org/0000-0002-4526-2472
+  - Elena Rey-Mazon https://orcid.org/0000-0003-4813-5927
+  - Marcus Schmidt https://orcid.org/0000-0002-5546-5521
+  - Isabel Schober https://orcid.org/0000-0002-4894-1913
+  - Annett Schröter https://orcid.org/0000-0002-2542-0867
+  - Oliver Stegle https://orcid.org/0000-0002-8818-7193
+  - Christoph Steinbeck https://orcid.org/0000-0001-6966-0814
+  - Feray Steinhart
+  - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Conni Wetzker https://orcid.org/0000-0002-8367-5163
 - authors:
   - Marin, Zach
   description: DCIMG 0x1000000 images of beads over time (30 seconds, 0.03 s exposure).&nbsp;
@@ -13525,6 +13988,8 @@ resources:
   file_formats: .dcimg
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Zach Marin https://orcid.org/0000-0001-5341-9911
 - authors:
   - Walther, Christa
   description: This document reports on the first in-person workshop supported by
@@ -13542,6 +14007,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Christa Walther https://orcid.org/0000-0002-8962-3102
 - authors:
   - Tischer, Christian
   - Politi, Antonio
@@ -13575,6 +14042,25 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  - Antonio Politi https://orcid.org/0000-0003-4788-0933
+  - Tim-Oliver Buchholz https://orcid.org/0000-0001-6953-8915
+  - Elnaz Fazeli https://orcid.org/0000-0002-0770-0777
+  - Nicola Gritti https://orcid.org/0000-0002-7637-4258
+  - Aliaksandr Halavatyi https://orcid.org/0000-0002-9002-457X
+  - Sebastian Gonzalez Tirado
+  - Julian Hennies https://orcid.org/0000-0002-0555-151X
+  - Toby Hodges https://orcid.org/0000-0003-1766-456X
+  - Arif Khan https://orcid.org/0000-0003-4105-1990
+  - Dominik Kutra https://orcid.org/0000-0003-4202-3908
+  - Stefania Marcotti https://orcid.org/0000-0002-2877-0133
+  - Bugra Oezdemir https://orcid.org/0000-0001-9823-0581
+  - Felix Schneider https://orcid.org/0000-0002-9958-8961
+  - Martin Schorb
+  - Anniek Stokkermans https://orcid.org/0000-0002-9013-9983
+  - Yi Sun https://orcid.org/0000-0002-7636-0200
+  - Nima Vakili
 - authors:
   - Dvoretskii, Stefan
   - Bortolomeazzi, Michele
@@ -13596,6 +14082,13 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Stefan Dvoretskii https://orcid.org/0000-0001-7769-0167
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Marco Nolden https://orcid.org/0000-0001-9629-0564
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Fernanda Fossa
   description: Course about image analysis with materials in English and videos in
@@ -13663,6 +14156,18 @@ resources:
   uuid: 9d30fab4-4f91-476d-82f5-dd7ee41ab6d9
   language: en
   file_formats: .pdf
+  authors_with_orcid:
+  - Torsten Stöter
+  - Tobias Gottschall https://orcid.org/0000-0003-3001-1491
+  - Andrea Schrader https://orcid.org/0000-0002-3879-7057
+  - Peter Zentis https://orcid.org/0000-0002-6999-132X
+  - Monica Valencia-Schneider https://orcid.org/0000-0003-3430-2683
+  - Niraj Kandpal https://orcid.org/0009-0007-5101-4786
+  - Werner Zuschratter https://orcid.org/0000-0002-9845-6393
+  - Astrid Schauss https://orcid.org/0000-0002-6658-2192
+  - Timo Dickscheid https://orcid.org/0000-0002-9051-3701
+  - Timo Mühlhaus https://orcid.org/0000-0003-3925-6778
+  - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
 - authors:
   - Andrea Schrader
   - Michele Bortolomeazzi
@@ -14339,6 +14844,10 @@ resources:
   uuid: 79c64350-a63a-4789-a904-8c5a9d388ba3
   language: en
   file_formats: .png * .tif
+  authors_with_orcid:
+  - Jean-Yves Tinevez https://orcid.org/0000-0002-0998-4718
+  - Joanna W. Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Kubow, Kristopoher
   - Pengo, Thomas
@@ -14365,6 +14874,9 @@ resources:
   uuid: 94e58226-e1d1-41b3-9e9d-c49b41d20c7b
   language: en
   file_formats: .ics * .tiff
+  authors_with_orcid:
+  - Kristopoher Kubow
+  - Thomas Pengo
 - authors:
   - Fuhui Long
   - Hanchuan Peng
@@ -14435,6 +14947,14 @@ resources:
   uuid: c239c0da-c68f-4c7b-b28a-726f521cb2f0
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Fuhui Long
+  - Hanchuan Peng
+  - Xiao Liu
+  - Stuart K Kim
+  - Eugene Myers
+  - Dagmar Kainmüller
+  - Martin Weigert
 - authors:
   - Kubow, Kristopher
   - Pengo, Thomas
@@ -14460,6 +14980,9 @@ resources:
   uuid: 44fdab55-a58d-413e-ab6d-43d58719b4a4
   language: en
   file_formats: .ics * .tif
+  authors_with_orcid:
+  - Kristopher Kubow
+  - Thomas Pengo
 - authors:
   - Romain Guiet
   description: 'Name: Automatic labelling&nbsp;of HeLa &ldquo;Kyoto&rdquo; cells using
@@ -14543,6 +15066,8 @@ resources:
   uuid: d170719b-7ff1-4c32-9b0e-6c680ac08df0
   language: en
   file_formats: .ijm * .png * .zip
+  authors_with_orcid:
+  - Romain Guiet https://orcid.org/0000-0001-6715-4897
 - authors:
   - Malou Arvidsson
   - Salma Kazemi Rashed
@@ -14592,6 +15117,10 @@ resources:
   uuid: 1f6d2526-c0c4-4723-901e-db8d030c8f51
   language: en
   file_formats: .md * .py * .zip
+  authors_with_orcid:
+  - Malou Arvidsson
+  - Salma Kazemi Rashed https://orcid.org/0000-0002-2345-8167
+  - Sonja Aits https://orcid.org/0000-0002-1321-0678
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14720,6 +15249,12 @@ resources:
   uuid: 7ac4316b-95e0-4613-b940-c6d4c575f200
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14842,6 +15377,12 @@ resources:
   uuid: eeb3909f-353d-40ed-80f5-4fd157dab77f
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -14960,6 +15501,12 @@ resources:
   uuid: 93280692-a363-4bad-bdb6-649c28ae220f
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15082,6 +15629,12 @@ resources:
   uuid: b3b05f51-70f7-4245-879d-5de96d1caf74
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15202,6 +15755,12 @@ resources:
   uuid: c4234bce-3ff9-4926-8cf4-d4c23c1a95f2
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Dohmen, Melanie
   - Mittermaier, Mirja
@@ -15244,6 +15803,10 @@ resources:
   uuid: 739bab74-cbe1-40c8-a1b7-beeb52a28015
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Melanie Dohmen https://orcid.org/0000-0002-4447-0579
+  - Mirja Mittermaier https://orcid.org/0000-0003-0678-6676
+  - Andreas Hocke https://orcid.org/0000-0002-6935-8612
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15364,6 +15927,12 @@ resources:
   uuid: 1adebe3d-8069-471d-9751-23943608202a
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Hao Xu
   - Wei Ouyang
@@ -15383,6 +15952,9 @@ resources:
   - https://doi.org/10.5281/zenodo.7690494
   uuid: 2a07498b-4a36-4e04-8f00-dcd077f55f4f
   file_formats: .ijm * .md * .npy * .png * .pt * .tif * .yaml
+  authors_with_orcid:
+  - Hao Xu
+  - Wei Ouyang
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15504,6 +16076,12 @@ resources:
   uuid: 59f7e086-a93a-43d9-8f1d-66a20b5a9038
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Naylor Peter Jack
   - Walter Thomas
@@ -15538,6 +16116,11 @@ resources:
   uuid: 321f9795-473d-46bd-ab62-5ea6ca94a165
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Naylor Peter Jack https://orcid.org/0000-0002-9984-1736
+  - Walter Thomas https://orcid.org/0000-0001-7419-7879
+  - Laé Marick
+  - Reyal Fabien
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -15663,6 +16246,12 @@ resources:
   uuid: ac96e671-8549-47d0-a04b-34649430febd
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Golani, Ofra
   - Mohan, Vishnu
@@ -15716,6 +16305,10 @@ resources:
   uuid: 2f8aebb9-ba35-4f23-8cb5-802f28433eeb
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Ofra Golani https://orcid.org/0000-0002-9793-236X
+  - Vishnu Mohan https://orcid.org/0000-0002-0008-5513
+  - Tamar Geiger https://orcid.org/0000-0002-9526-197X
 - authors:
   - Hussein Al-Akhrass
   - Johanna Ivaska
@@ -15770,6 +16363,10 @@ resources:
   uuid: c494e040-24da-4786-b621-bb1c8cca5a57
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Hussein Al-Akhrass https://orcid.org/0000-0002-9630-3000
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Sorzabal Bellido, Ioritz
   - Barbieri, Luca
@@ -15812,6 +16409,16 @@ resources:
   uuid: edd47bc0-bf35-493f-8c4e-ae5dcd0df92b
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Ioritz Sorzabal Bellido https://orcid.org/0000-0001-8050-1443
+  - Luca Barbieri
+  - Alison J. Beckett
+  - Ian A. Prior
+  - Arturo Susarrey-Arce
+  - Roald M. Tiggelaar
+  - Jo Forthergill
+  - Rasmita Raval
+  - Yuri A. Diaz Fernandez
 - authors:
   - Spahn, Christoph
   - Diepold, Andreas
@@ -15869,6 +16476,10 @@ resources:
   uuid: 1e02a908-276e-4219-9bab-784ac18f7022
   language: en
   file_formats: .png * .zip
+  authors_with_orcid:
+  - Christoph Spahn https://orcid.org/0000-0001-9886-2263
+  - Andreas Diepold https://orcid.org/0000-0002-4475-3923
+  - Francesca Ermoli
 - authors:
   - Gautier Follain
   - Guillaume Jacquemet
@@ -15908,6 +16519,9 @@ resources:
   uuid: dbd2d690-e191-4f3e-a919-27ad6246a500
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain
+  - Guillaume Jacquemet
 - authors:
   - Guillaume Jacquemet
   description: 'Description: Contains a StarDist example training dataset, a test
@@ -15949,6 +16563,8 @@ resources:
   uuid: 3311a187-1bfb-42df-a186-2b9412d05637
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Guillaume Jacquemet
 - authors:
   - Sarkis Rita
   - Naveiras Olaia
@@ -16005,6 +16621,12 @@ resources:
   uuid: a6707b5a-38be-4408-818b-8e1d81a366d8
   language: en
   file_formats: .ipynb * .pb * .txt * .zip
+  authors_with_orcid:
+  - Sarkis Rita https://orcid.org/0000-0003-4874-9937
+  - Naveiras Olaia https://orcid.org/0000-0003-3434-0022
+  - Burri Olivier https://orcid.org/0000-0002-7100-3749
+  - Weigert Martin https://orcid.org/0000-0002-7780-9057
+  - De Leval Laurence https://orcid.org/0000-0003-3994-516X
 - authors:
   - Nathan H. Roy
   - Guillaume Jacquemet
@@ -16047,6 +16669,9 @@ resources:
   uuid: 397c9592-60ce-4bed-84f1-e8d5075a378a
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Nathan H. Roy
+  - Guillaume Jacquemet
 - authors:
   - Zhongtian Shao
   description: 40 annotated immunofluorescence microscopy images (600 microns x 600
@@ -16069,6 +16694,8 @@ resources:
   uuid: 9ca14b2d-311b-4eeb-af24-19e702e05227
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Zhongtian Shao
 - authors:
   - Spahn, Christoph
   - Heilemann, Mike
@@ -16240,6 +16867,13 @@ resources:
   uuid: d4e9d735-2d39-40d8-837e-8482f69211ca
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Christoph Spahn https://orcid.org/0000-0001-9886-2263
+  - Mike Heilemann https://orcid.org/0000-0002-9821-3578
+  - Séamus Holden https://orcid.org/0000-0002-7169-907X
+  - Mia Conduit
+  - Pedro Matos Pereira https://orcid.org/0000-0002-1426-9540
+  - Mariana Pinho https://orcid.org/0000-0002-7132-8842
 - authors:
   - Alwes, Frederike
   - Sugawara, Ko
@@ -16271,6 +16905,10 @@ resources:
   uuid: dda7b774-993f-4138-927e-33d38debc0cf
   language: en
   file_formats: .pdf * .tif
+  authors_with_orcid:
+  - Frederike Alwes
+  - Ko Sugawara
+  - Michalis Averof
 - authors:
   - Johanna Jukkala
   - Guillaume Jacquemet
@@ -16349,6 +16987,9 @@ resources:
   uuid: 6e3d1986-21b1-482d-9235-ba0431a20038
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Johanna Jukkala
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Johanna Jukkala
   - Guillaume Jacquemet
@@ -16419,6 +17060,9 @@ resources:
   uuid: 26774451-dd2f-465f-999a-5e9dffc64886
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Johanna Jukkala
+  - Guillaume Jacquemet
 - authors:
   - Follain, Gautier
   - Ghimire, Sujan
@@ -16542,6 +17186,12 @@ resources:
   uuid: 1ed3c5f5-04ab-4ae4-966e-7c38e16b0e1d
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Gautier Follain https://orcid.org/0000-0003-0495-9529
+  - Sujan Ghimire https://orcid.org/0000-0003-3660-4300
+  - Joanna Pylvänäinen https://orcid.org/0000-0002-3540-5150
+  - Johanna Ivaska https://orcid.org/0000-0002-6295-6556
+  - Guillaume Jacquemet https://orcid.org/0000-0002-9286-920X
 - authors:
   - Bär, Julian
   description: 'Training data for the two StarDist2D models and the DeLTA 2.0 2D tracking
@@ -16600,6 +17250,8 @@ resources:
   uuid: 6e0f58d5-e64d-47ab-a59c-04ed8e7c137d
   language: en
   file_formats: .hdf5 * .zip
+  authors_with_orcid:
+  - Julian Bär https://orcid.org/0000-0003-1929-0338
 - authors:
   - Pereira, Pedro Matos
   - Pinho, Mariana
@@ -16681,6 +17333,9 @@ resources:
   uuid: 6464b22a-ab55-46ba-9495-9c021377f585
   language: en
   file_formats: .png * .zip
+  authors_with_orcid:
+  - Pedro Matos Pereira https://orcid.org/0000-0002-1426-9540
+  - Mariana Pinho https://orcid.org/0000-0002-7132-8842
 - authors:
   - Holden, Séamus
   - Conduit, Mia
@@ -16770,6 +17425,9 @@ resources:
   uuid: 71c9db70-523d-404e-ab28-d883e9caa1f7
   language: en
   file_formats: .png * .zip
+  authors_with_orcid:
+  - Séamus Holden https://orcid.org/0000-0002-7169-907X
+  - Mia Conduit
 - authors:
   - Spahn, Christoph
   - Heilemann, Mike
@@ -16855,6 +17513,9 @@ resources:
   uuid: 9904b1da-b46f-4b1d-b60c-f2512f6e03e2
   language: en
   file_formats: .png * .zip
+  authors_with_orcid:
+  - Christoph Spahn https://orcid.org/0000-0001-9886-2263
+  - Mike Heilemann https://orcid.org/0000-0002-9821-3578
 - authors:
   - Cortada, Maurizio
   - Sauteur, Loïc
@@ -16877,6 +17538,12 @@ resources:
   - https://doi.org/10.5281/zenodo.4590066
   uuid: 26e5244e-59cd-413c-bde5-889f58c8d5fa
   file_formats: .zip
+  authors_with_orcid:
+  - Maurizio Cortada
+  - Loïc Sauteur https://orcid.org/0000-0002-9163-0424
+  - Michael Lanz
+  - Soledad Levano
+  - Daniel Bodmer
 - authors:
   - Qamar, Saqib
   - Baba, Abu Imran
@@ -16906,6 +17573,11 @@ resources:
   uuid: 87dc692c-e771-4fd3-9097-f5e25584fe55
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Saqib Qamar https://orcid.org/0000-0002-5980-5976
+  - Abu Imran Baba
+  - Stèphane Verger https://orcid.org/0000-0003-3643-3978
+  - Magnus Andersson https://orcid.org/0000-0002-9835-3263
 - authors:
   - Wanner, Julian
   - Kuhn Cuellar, Luis
@@ -16935,6 +17607,10 @@ resources:
   uuid: 17685617-b2a4-43f2-9be1-6bd3c6cedd04
   language: en
   file_formats: .gz
+  authors_with_orcid:
+  - Julian Wanner https://orcid.org/0000-0002-1487-7909
+  - Luis Kuhn Cuellar https://orcid.org/0000-0002-6950-6929
+  - Friederike Wanke
 - authors:
   - Constantin Pape
   description: 'Training data for Convolutional Neural Networks used in the publication
@@ -16971,6 +17647,8 @@ resources:
   uuid: a5fedfe4-8006-4b2e-bb46-f2ed9bc519f9
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Constantin Pape https://orcid.org/0000-0001-6562-7187
 - authors:
   - Ilya, Belevich
   - Jokitalo, Eija
@@ -16995,6 +17673,9 @@ resources:
   uuid: 54e29da3-0cbc-4f25-8c21-3efa43df9fa2
   language: en
   file_formats: .pdf * .zip
+  authors_with_orcid:
+  - Belevich Ilya https://orcid.org/0000-0003-2190-4909
+  - Eija Jokitalo https://orcid.org/0000-0002-4159-6934
 - authors:
   - Pape, Constantin
   description: 'This dataset contains room-temperature single-axis TEM tomograms from
@@ -17052,6 +17733,8 @@ resources:
   uuid: 49420074-9e04-47d0-b673-9ba1278d84be
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Constantin Pape https://orcid.org/0000-0001-6562-7187
 - authors:
   - Dietler, Nicola
   - Minder, Matthias
@@ -17082,6 +17765,18 @@ resources:
   - https://doi.org/10.5281/zenodo.5765648
   uuid: deddb142-d5c3-47c7-9aef-4c3fc176447b
   file_formats: .gz
+  authors_with_orcid:
+  - Nicola Dietler
+  - Matthias Minder
+  - Vojislav Gligorovski
+  - Augoustina Maria Economou
+  - Denis Alain Henri Lucien Joly
+  - Ahmad Sadeghi
+  - Chun Hei Michael Chan
+  - Mateusz Kozinski
+  - Martin Weigert
+  - Anne-Florence Bitbol
+  - Sahand Jamal Rahi
 - authors:
   - Lamm, Lorenz
   description: 'This dataset contains training data for segmenting membranes in cryo-electron
@@ -17104,6 +17799,8 @@ resources:
   - https://doi.org/10.5281/zenodo.7739793
   uuid: bb88717c-85f2-494a-8506-a45eefdd8b38
   file_formats: .zip
+  authors_with_orcid:
+  - Lorenz Lamm
 - authors:
   - Heebner, Jessica
   - Purnell, Carson
@@ -17142,6 +17839,13 @@ resources:
   uuid: 3ac03ab8-2d28-48af-9fb5-f1d8bb344f08
   language: en
   file_formats: .md * .zip
+  authors_with_orcid:
+  - Jessica Heebner
+  - Carson Purnell
+  - Ryan Hylton
+  - Mike Marsh
+  - Michael Grillo
+  - Matt Swulius https://orcid.org/0000-0002-8147-208X
 - authors:
   - Wohlwend, Martin
   - Burri, Olivier
@@ -17207,6 +17911,10 @@ resources:
   uuid: a4a93984-060e-4308-8717-f404f680c885
   language: en
   file_formats: .md * .zip
+  authors_with_orcid:
+  - Martin Wohlwend https://orcid.org/0000-0001-9851-0364
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
+  - Johan Auwerx https://orcid.org/0000-0002-5065-5393
 - authors:
   - Jacquemier, Jean
   - Meystre, Julie
@@ -17273,6 +17981,10 @@ resources:
   uuid: e5c3eee0-3cb9-4f3e-9e54-62973e42abc0
   language: en
   file_formats: .pdf * .zip
+  authors_with_orcid:
+  - Jean Jacquemier https://orcid.org/0009-0002-0029-7951
+  - Julie Meystre https://orcid.org/0009-0000-9093-9385
+  - Olivier Burri https://orcid.org/0000-0002-7100-3749
 - authors:
   - Martyna Mazur
   - Wojciech Krauze
@@ -17314,6 +18026,9 @@ resources:
   uuid: 0596c4ec-d64b-4e85-9539-86992a955f6e
   language: en
   file_formats: .mat
+  authors_with_orcid:
+  - Martyna Mazur https://orcid.org/0000-0002-7386-4243
+  - Wojciech Krauze https://orcid.org/0000-0002-5248-3986
 - authors:
   - Shi, Can
   - Fan, Jinghong
@@ -17362,6 +18077,20 @@ resources:
   uuid: 60d7e30c-eee5-44dc-be52-dc6c482c8c72
   language: en
   file_formats: .txt * .xlsx * .zip
+  authors_with_orcid:
+  - Can Shi https://orcid.org/0009-0007-0003-2378
+  - Jinghong Fan https://orcid.org/0009-0001-9556-4831
+  - Zhonghan Deng
+  - Huanlin Liu
+  - Qiang Kang
+  - Yumei Li
+  - Jing Guo
+  - Jingwen Wang
+  - Jinjiang Gong
+  - Sha Liao
+  - Ao Chen
+  - Ying Zhang
+  - Mei Li
 - authors:
   - Ma, Jun
   - Xie, Ronald
@@ -17449,6 +18178,47 @@ resources:
   uuid: 4fbb34f6-9d7d-47f0-a63b-c0abbad5b541
   language: en
   file_formats: .md * .zip
+  authors_with_orcid:
+  - Jun Ma
+  - Ronald Xie
+  - Shamini Ayyadhury
+  - Cheng Ge
+  - Anubha Gupta
+  - Ritu Gupta
+  - Song Gu
+  - Yao Zhang
+  - Gihun Lee
+  - Joonkee Kim
+  - Wei Lou
+  - Haofeng Li
+  - Eric Upschulte
+  - Timo Dickscheid
+  - José Guilherme de Almeida
+  - Yixin Wang
+  - Lin Han
+  - Xin Yang
+  - Marco Labagnara
+  - Vojislav Gligorovski
+  - Maxime Scheder
+  - Sahand Jamal Rahi
+  - Carly Kempster
+  - Alice Pollitt
+  - Leon Espinosa
+  - Tam Mignot
+  - Jan Moritz Middeke
+  - Jan-Niklas Eckardt
+  - Wangkai Li
+  - Zhaoyang Li
+  - Xiaochen Cai
+  - Bizhe Bai
+  - Noah F. Greenwald
+  - David Van Valen
+  - Erin Weisbart
+  - Beth A Cimini
+  - Trevor Cheung
+  - Oscar Brück
+  - Gary D. Bader
+  - Bo Wang
 - authors:
   - Naji Hussein
   - Büttner Reinhard
@@ -17518,6 +18288,13 @@ resources:
   uuid: 6320c301-bad6-4d68-a6f0-9ff0e22cd8b6
   language: en
   file_formats: .tar * .zip
+  authors_with_orcid:
+  - Naji Hussein
+  - Büttner Reinhard
+  - Simon Adrian
+  - Eich Marie-Lisa
+  - Lohneis Philipp
+  - Bozek Katarzyna
 - authors:
   - Schuiveling, Mark
   description: 'Description:
@@ -17605,6 +18382,8 @@ resources:
   uuid: 00df53b9-3104-4128-b66d-5a89d5a346ce
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Mark Schuiveling https://orcid.org/0000-0002-2631-7271
 - authors:
   - Jeongun Ryu
   - Aaron Valero Puche
@@ -17675,6 +18454,20 @@ resources:
   uuid: 3ebc596f-51f7-4d32-b480-9b2f4f348c10
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Jeongun Ryu
+  - Aaron Valero Puche
+  - JaeWoong Shin
+  - Seonwook Park
+  - Biagio Brattoli
+  - Mohammad Mostafavi
+  - Jinhee Lee
+  - Sérgio Pereira
+  - Wonkyung Jung
+  - Soo Ick Cho
+  - Chan-Young Ock
+  - Kyunghyun Paeng
+  - Donggeun Yoo
 - authors:
   - Estibaliz Gómez-de-Mariscal
   - Hasini Jayatilaka
@@ -17721,6 +18514,11 @@ resources:
   uuid: 65c10444-143a-48d1-88a0-1ec439cdce85
   language: en
   file_formats: .zip
+  authors_with_orcid:
+  - Estibaliz Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Hasini Jayatilaka https://orcid.org/0000-0001-7418-9393
+  - Denis Wirtz https://orcid.org/0000-0001-6147-3045
+  - Arrate Muñoz-Barrutia https://orcid.org/0000-0002-1573-1661
 - authors:
   - Dvoretskii, Stefan
   - Maier-Hein, Klaus
@@ -17741,6 +18539,13 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Stefan Dvoretskii https://orcid.org/0000-0001-7769-0167
+  - Klaus Maier-Hein https://orcid.org/0000-0002-6626-2463
+  - Marco Nolden https://orcid.org/0000-0001-9629-0564
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Bortolomeazzi, Michele
   - Boissonnet, Tom
@@ -17767,6 +18572,9 @@ resources:
   - NFDI4Bioimage
   - Research Data Management
   - include in DALIA
+  authors_with_orcid:
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -17804,6 +18612,10 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Feriel Romdhane https://orcid.org/0000-0002-5854-9341
+  - Euro-BioImaging ERIC
 - authors:
   - Luke Sorensen
   - Ayame Saito
@@ -17914,6 +18726,27 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han https://orcid.org/0000-0003-3028-7359
+  - Adam Humenick
+  - Peter Neckel
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes https://orcid.org/0000-0001-5635-0876
+  - Rachel M McQuade https://orcid.org/0000-0002-3510-1288
+  - Jaime PP Foong https://orcid.org/0000-0003-2082-5520
+  - Sebastian K. King https://orcid.org/0000-0001-5396-0265
+  - Estibaliz  Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Arrate Muñoz-Barrutia https://orcid.org/0000-0002-1573-1661
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Simona Carbone https://orcid.org/0000-0002-4350-6357
+  - Nicholas A. Veldhuis https://orcid.org/0000-0002-8902-9365
+  - Daniel P. Poole https://orcid.org/0000-0002-6168-8422
+  - Pradeep Rajasekhar https://orcid.org/0000-0002-1983-7244
 - authors:
   - Young, Pamela
   description: .lif files misbehaving in fiji but fine in LASX.&nbsp; This data opens
@@ -17934,6 +18767,8 @@ resources:
   file_formats: .lif * .lifext
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Pamela Young https://orcid.org/0009-0009-2068-1521
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -17952,6 +18787,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Haase, Robert
   description: 'Working together on the internet presents us with new challenges:
@@ -17994,6 +18831,8 @@ resources:
   - NFDI4Bioimage
   - Research Data Management
   - exclude from DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Haase, Robert
   description: The advent of large language models (LLMs) such as ChatGPT changes
@@ -18015,6 +18854,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Haase, Robert
   description: 'In this slide deck we learn about the basics of Explainable Artificial
@@ -18038,6 +18879,8 @@ resources:
   - Bioimage Analysis
   - Artificial Intelligence
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Vebjorn Ljosa
   - Katherine L. Sokolnicki
@@ -18794,6 +19637,9 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore
+  - Yi Sun
 - authors:
   - Schmidt, Christian
   - Mathur, Aastha
@@ -18816,6 +19662,10 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Christian Schmidt
+  - Aastha Mathur
+  - Josh Moore
 - authors:
   - Moore, Josh
   description: 'https://www.ebi.ac.uk/training/events/towards-open-and-standardised-imaging-data-introduction-bio-formats-ome-tiff-and-ome-zarr/
@@ -18847,6 +19697,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Bustos, Jonatan
   description: This dataset contains 4 .nd2 image files of pollen grains captured
@@ -18866,6 +19718,8 @@ resources:
   file_formats: .nd2
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Jonatan Bustos
 - authors:
   - Carlos, Jaramillo
   description: this file is a .nd2 image of a pollen grain taken with a Nikon 80i.&nbsp;
@@ -18882,6 +19736,8 @@ resources:
   file_formats: .nd2
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Jaramillo Carlos https://orcid.org/0000-0002-2616-5079
 - authors:
   - Andrey Fedorov
   - Daniela Schacherer
@@ -18971,6 +19827,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -19006,6 +19864,9 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Euro-BioImaging ERIC
 - authors:
   - Schätz, Martin
   description: 'Presented as a part of:
@@ -19032,6 +19893,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
 - authors:
   - Koutentaki, Georgia
   - Schätz, Martin
@@ -19048,6 +19911,10 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Georgia Koutentaki https://orcid.org/0000-0002-8099-9963
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Jan Vališ https://orcid.org/0000-0003-0349-6868
 - authors:
   - Kylies, Dominik
   - Heil, Hannah S.
@@ -19141,6 +20008,16 @@ resources:
   file_formats: .ipynb * .pdf * .tif
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Dominik Kylies https://orcid.org/0009-0005-8801-0354
+  - Hannah S. Heil https://orcid.org/0000-0003-4279-7022
+  - Arturo G. Vesga https://orcid.org/0000-0003-1485-9978
+  - Mario Del Rosario https://orcid.org/0000-0002-0430-1463
+  - Maria Schwerk https://orcid.org/0000-0002-1185-2343
+  - Malte Kuehl https://orcid.org/0000-0003-4167-2498
+  - Milagros N. Wong
+  - Victor Puelles https://orcid.org/0000-0002-7735-5462
+  - Ricardo Henriques https://orcid.org/0000-0002-2043-5234
 - authors:
   - Weidtkamp-Peters, Stefanie
   - Boissonnet, Tom
@@ -19219,6 +20096,10 @@ resources:
   - FAIR Principles
   - Research Data Management
   - include in DALIA
+  authors_with_orcid:
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
 - authors:
   - Haase, Robert
   description: These are the PPTx training resources for Students at Uni Leipzig who
@@ -19240,6 +20121,8 @@ resources:
   - Bioimage Analysis
   - Artificial Intelligence
   - exclude from DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Michele, Bortolomeazzi
   description: OMERO is the most used research data management system (RDM) in the
@@ -19280,6 +20163,8 @@ resources:
   - NFDI4Bioimage
   - OMERO
   - include in DALIA
+  authors_with_orcid:
+  - Bortolomeazzi Michele https://orcid.org/0000-0001-5805-5774
 - authors:
   - Moore, Josh
   description: 'Presentation for the BioImagingUK Meeting taking place from 1200 -
@@ -19307,6 +20192,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Haase, Robert
   description: 'In this talk, I demonstrate potential use-cases for vision-language
@@ -19358,6 +20245,8 @@ resources:
   - Bioimage Analysis
   - Artificial Intelligence
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -19426,6 +20315,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Schätz, Martin
   - Rubešová, Olga
@@ -19475,6 +20366,11 @@ resources:
   file_formats: .csv * .xlsx * .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Olga Rubešová https://orcid.org/0000-0003-2101-499X
+  - Jan Mareš https://orcid.org/0000-0003-4693-2519
+  - Alan Spark
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the EABIAS training event:&nbsp;EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei
@@ -19492,6 +20388,8 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Wei-Chen Chu https://orcid.org/0000-0002-3447-9043
 - authors:
   - Myles Scolnick
   description: Teaching material for image processing and analysis
@@ -19554,6 +20452,8 @@ resources:
   - Bioimage Analysis
   - Artificial Intelligence
   - exclude from DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Euro-BioImaging ERIC
   description: 'EVOLVE Mentoring Masterclasses
@@ -19622,6 +20522,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Burdíková, Zuzana
   - Švindrych, Zdeněk
@@ -19700,6 +20602,12 @@ resources:
   file_formats: .docx * .pdf * .pptx * .rtf * .zip
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Zuzana Burdíková https://orcid.org/0000-0003-1866-8095
+  - Zdeněk Švindrych https://orcid.org/0000-0001-9197-9813
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Jakub Soukup https://orcid.org/0000-0002-0459-9394
+  - Pat Robison
 - authors:
   - Schätz, Martin
   - Azevedo, Maria
@@ -19756,6 +20664,10 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Maria Azevedo https://orcid.org/0000-0001-7316-8283
+  - Paula Sampaio https://orcid.org/0000-0003-1148-2159
 - authors:
   - Chu, Wei-Chen
   description: 'Presentation file used in the &nbsp;Open source AI Tools for bioimage
@@ -19782,6 +20694,8 @@ resources:
   tags:
   - Bioimage Analysis
   - include in DALIA
+  authors_with_orcid:
+  - Wei-Chen Chu https://orcid.org/0000-0002-3447-9043
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -19810,6 +20724,8 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Katrin Frisch https://orcid.org/0000-0002-6669-5015
 - authors:
   - Michael
   license: cc-by-4.0
@@ -19824,6 +20740,8 @@ resources:
   file_formats: .dng
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael
 - authors:
   - Ahmadi, Mohsen
   - Wagner, Robert
@@ -19866,6 +20784,11 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Robert Wagner https://orcid.org/0000-0002-2762-293X
+  - Sander Bekeschus https://orcid.org/0000-0002-8773-8862
+  - Markus M. Becker https://orcid.org/0000-0001-9324-3236
 - authors:
   - Mathur, Aastha
   - Euro-BioImaging ERIC
@@ -19890,6 +20813,9 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Aastha Mathur https://orcid.org/0000-0001-9734-9767
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19910,6 +20836,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19930,6 +20858,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -19950,6 +20880,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -20025,6 +20957,41 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Romain David https://orcid.org/0000-0003-4073-7456
+  - Nektarios Liaskos https://orcid.org/0000-0003-0633-8670
+  - Arina Rybina https://orcid.org/0000-0002-5609-5710
+  - Christos Arvanitidis https://orcid.org/0000-0002-6924-5255
+  - Anne-Sophie Bage https://orcid.org/0000-0002-8129-5503
+  - Patricia K. Carvajal-Vallejos https://orcid.org/0000-0002-4900-4593
+  - Sudeep Das https://orcid.org/0000-0001-9393-204X
+  - Francesca De Pascalis https://orcid.org/0000-0002-1694-882X
+  - Dorothea Dörr https://orcid.org/0000-0001-8575-7560
+  - Katrina Exter https://orcid.org/0000-0002-5911-1536
+  - Petr Holub https://orcid.org/0000-0002-5358-616X
+  - Kim Tamara Gurwitz https://orcid.org/0000-0003-1992-5073
+  - Fabio Liberante https://orcid.org/0000-0002-0192-5385
+  - Philippe Lieutaud https://orcid.org/0000-0002-5080-3456
+  - Allyson Lister https://orcid.org/0000-0002-7702-4495
+  - Joaquin Lopez https://orcid.org/0000-0001-9697-7710
+  - Bénédicte Madon https://orcid.org/0000-0001-8608-3895
+  - Marzia Massimi https://orcid.org/0000-0001-5052-1822
+  - Rafaele Matteoni https://orcid.org/0000-0002-0314-5948
+  - Maria Mîrza https://orcid.org/0000-0001-9158-6403
+  - Sarah Morgan https://orcid.org/0000-0001-9528-8323
+  - Bugra Oezdemir
+  - Maria Panagiotopoulou https://orcid.org/0000-0002-4221-7254
+  - Christina Pavloudi https://orcid.org/0000-0001-5106-6067
+  - Ana M. P. Melo https://orcid.org/0000-0003-0695-3817
+  - Susanna-Assunta Sansone https://orcid.org/0000-0001-5306-5690
+  - Harald Schwalbe https://orcid.org/0000-0001-5693-7909
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Carlos Oscar Sorzano https://orcid.org/0000-0002-9473-283X
+  - Emilio Urbinati https://orcid.org/0009-0000-3629-2584
+  - Jing Tang https://orcid.org/0000-0001-7480-7710
+  - Jonathan Tedds https://orcid.org/0000-0003-2829-4584
+  - Gary Saunders https://orcid.org/0000-0002-7468-0008
+  - Jonathan Ewbank https://orcid.org/0000-0002-1257-6862
 - authors:
   - Sorensen, Luke
   - Saito, Ayame
@@ -20072,6 +21039,29 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Luke Sorensen
+  - Ayame Saito
+  - Sabrina Poon
+  - Myat Noe Han https://orcid.org/0000-0003-3028-7359
+  - Ryan Hamnett https://orcid.org/0000-0002-9118-1585
+  - Peter Neckel https://orcid.org/0000-0003-1976-0512
+  - Adam Humenick
+  - Keith Mutunduwe
+  - Christie Glennan
+  - Narges Mahdavian
+  - Simon JH Brookes https://orcid.org/0000-0001-5635-0876
+  - Rachel M McQuade https://orcid.org/0000-0002-3510-1288
+  - Jaime PP Foong https://orcid.org/0000-0003-2082-5520
+  - Estibaliz Gómez-de-Mariscal https://orcid.org/0000-0003-2082-3277
+  - Arrate Muñoz Barrutia
+  - Julia A. Kaltschmidt
+  - Sebastian K. King https://orcid.org/0000-0001-5396-0265
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Simona Carbone https://orcid.org/0000-0002-4350-6357
+  - Nicholas A. Veldhuis https://orcid.org/0000-0002-8902-9365
+  - Daniel P. Poole https://orcid.org/0000-0002-6168-8422
+  - Pradeep Rajasekhar https://orcid.org/0000-0002-1983-7244
 - authors:
   - Sauteur, Loïc
   description: 'Related to github issue: https://github.com/ome/bioformats/issues/3517
@@ -20089,6 +21079,8 @@ resources:
   file_formats: .nd2
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Loïc Sauteur https://orcid.org/0000-0002-9163-0424
 - authors:
   - VP
   description: 'Solution: https://forum.image.sc/t/weird-representation-of-qptiff-of-fluorescent-sample-in-qupath-v-0-6-0/115165/6?u=zuksmp3
@@ -20110,6 +21102,8 @@ resources:
   file_formats: .qptiff
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - VP
 - authors:
   - Vellutini, Bruno C.
   description: 'This tutorial shows how to make cartographic projections of fly embryos
@@ -20130,6 +21124,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
 - authors:
   - Vellutini, Bruno C.
   - Handberg-Thorsager, Mette
@@ -20242,6 +21238,10 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
+  - Mette Handberg-Thorsager https://orcid.org/0000-0002-3908-7233
+  - Pavel Tomancak https://orcid.org/0000-0002-2222-9370
 - authors:
   - Vellutini, Bruno C.
   - Martín-Durán, José M.
@@ -20268,6 +21268,11 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
+  - José M. Martín-Durán https://orcid.org/0000-0002-2572-1061
+  - Aina Børve https://orcid.org/0000-0003-0311-5156
+  - Andreas Hejnol https://orcid.org/0000-0003-2196-8507
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -20297,6 +21302,13 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
+  - Marina B. Cuenca https://orcid.org/0000-0001-6395-7246
+  - Abhijeet Krishna https://orcid.org/0000-0002-9291-500X
+  - Alicja Szałapak https://orcid.org/0000-0001-9091-7004
+  - Carl D. Modes https://orcid.org/0000-0001-9940-0730
+  - Pavel Tomančák https://orcid.org/0000-0002-2222-9370
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -20326,6 +21338,13 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
+  - Marina B. Cuenca https://orcid.org/0000-0001-6395-7246
+  - Abhijeet Krishna https://orcid.org/0000-0002-9291-500X
+  - Alicja Szałapak https://orcid.org/0000-0001-9091-7004
+  - Carl D. Modes https://orcid.org/0000-0001-9940-0730
+  - Pavel Tomančák https://orcid.org/0000-0002-2222-9370
 - authors:
   - Krishna, Abhijeet
   - Szałapak, Alicja
@@ -20354,6 +21373,13 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Abhijeet Krishna https://orcid.org/0000-0002-9291-500X
+  - Alicja Szałapak https://orcid.org/0000-0001-9091-7004
+  - Bruno C. Vellutini https://orcid.org/0000-0002-0000-9465
+  - Marina B. Cuenca https://orcid.org/0000-0001-6395-7246
+  - Pavel Tomančák https://orcid.org/0000-0002-2222-9370
+  - Carl D. Modes https://orcid.org/0000-0001-9940-0730
 - authors:
   - Vellutini, Bruno C.
   - Cuenca, Marina B.
@@ -20388,6 +21414,8 @@ resources:
   file_formats: .odp * .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -20408,6 +21436,8 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Marin, Zach
   description: Two 2000-frame chunks acquired at different times (~40 minutes apart)
@@ -20424,6 +21454,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Zach Marin https://orcid.org/0000-0001-5341-9911
 - authors:
   - Preußner, Johannes
   description: When using bioformats the images are not scaled correctly. The problem
@@ -20445,6 +21477,8 @@ resources:
   file_formats: .tif
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Johannes Preußner https://orcid.org/0000-0001-8151-8749
 - authors:
   - Moore, Josh
   description: 'Poster presentation for the abstract "Enabling Peta-Scale Federated
@@ -20465,6 +21499,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Snyder, Erika, Erika Thomas, Erika T.
   description: 'Hi all,I was referred to this community from the Image.sc Forum original
@@ -20506,6 +21542,8 @@ resources:
   tags:
   - exclude from DALIA
   uuid: 740035c1-d1d1-4e71-a6db-a8ecbfe13591
+  authors_with_orcid:
+  - Erika Snyder https://orcid.org/0009-0005-8850-0687
 - authors:
   - Barry, David J
   - Marcotti, Stefania
@@ -20527,6 +21565,12 @@ resources:
   tags:
   - include in DALIA
   uuid: d5a431fc-fcb5-4dbb-a9e3-d2b388c41cdc
+  authors_with_orcid:
+  - David J Barry https://orcid.org/0000-0003-2763-5244
+  - Stefania Marcotti https://orcid.org/0000-0002-2877-0133
+  - Sara Salgueiro Torres https://orcid.org/0009-0007-3420-1619
+  - Martin Jones https://orcid.org/0000-0003-0994-5652
+  - Alicja Skórkowska https://orcid.org/0000-0002-1167-7610
 - authors:
   - Erick Martins Ratamero
   - dependabot[bot]
@@ -20583,6 +21627,8 @@ resources:
   tags:
   - NFDI4Bioimage
   - include in DALIA
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
 - authors:
   - Wang
   license: cc-by-4.0
@@ -20597,6 +21643,8 @@ resources:
   file_formats: .zip
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Wang
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe funded EVOLVE Deliverable 6.2 - Landscape analysis
@@ -20628,6 +21676,8 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Gladitz, Nils
   license: cc-by-4.0
@@ -20643,6 +21693,8 @@ resources:
   file_formats: .obf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Nils Gladitz
 - authors:
   - Virginie
   - Johannes Hugger
@@ -20724,6 +21776,12 @@ resources:
   file_formats: .pdf
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Scherle https://orcid.org/0009-0008-6652-0697
+  - Rafael Gieschke https://orcid.org/0000-0002-2778-4218
+  - Isabela Mocanu https://orcid.org/0009-0003-0825-1680
+  - Björn Grüning https://orcid.org/0000-0002-3079-6586
+  - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
 - authors:
   - Schwarz, Michael
   description: 'Raw microscopy image from the NFDI4Bioimage calendar March 2025.
@@ -20899,6 +21957,8 @@ resources:
   file_formats: .czi * .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Michael Schwarz https://orcid.org/0009-0002-1414-3291
 - authors:
   - Moore, Josh
   description: Presented at "International Symposium on Integrative Bioinformatics",
@@ -20917,6 +21977,8 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Müntjes, Kira
   - Schipper, Kerstin
@@ -20956,6 +22018,9 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Kira Müntjes https://orcid.org/0000-0001-5160-6342
+  - Kerstin Schipper https://orcid.org/0000-0002-5782-9085
 - authors:
   - Macas, Jadranka
   description: "Image from the NFDI4BIOIMAGE Calendar November 2025.\nThe image shows\
@@ -21010,6 +22075,8 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Jadranka Macas
 - authors:
   - Joisten-Rosenthal, Vivien
   description: 'Image from the NFDI4BIOIMAGE Calendar October 2025.
@@ -21177,6 +22244,8 @@ resources:
   file_formats: .heic
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Vivien Joisten-Rosenthal https://orcid.org/0009-0000-0645-6891
 - authors:
   - Faber-Zuschratter, Heidi
   - Stöter, Torsten
@@ -21224,6 +22293,12 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Heidi Faber-Zuschratter
+  - Torsten Stöter
+  - Werner Zuschratter https://orcid.org/0000-0002-9845-6393
+  - Roland Hartig https://orcid.org/0000-0002-3706-7458
+  - Markus Wilke
 - authors:
   - Jiang, Haowen
   - Chalopin, Claire
@@ -21400,6 +22475,9 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Haowen Jiang
+  - Claire Chalopin https://orcid.org/0000-0001-9309-7531
 - authors:
   - Lörzing, Pilar
   - Iliasov, Denis
@@ -21450,6 +22528,11 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Pilar Lörzing https://orcid.org/0009-0009-2532-9121
+  - Denis Iliasov https://orcid.org/0009-0004-6533-7410
+  - Michael Schlierf https://orcid.org/0000-0002-6209-2364
+  - Thorsten Mascher https://orcid.org/0000-0002-6300-5541
 - authors:
   - Warstat, Kevin
   description: 'Image from the NFDI4BIOIMAGE Calendar June 2025.
@@ -21547,6 +22630,8 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Kevin Warstat https://orcid.org/0009-0002-4195-2406
 - authors:
   - Lück, Stefanie
   description: "Image from the NFDI4BIOIMAGE Calendar May 2025.\nThe microscopy image\
@@ -21601,6 +22686,8 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Stefanie Lück https://orcid.org/0000-0003-0536-835X
 - authors:
   - Zurowietz, Martin
   - Nattkemper, Tim W.
@@ -21728,6 +22815,9 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Martin Zurowietz https://orcid.org/0000-0002-7122-2343
+  - Tim W. Nattkemper https://orcid.org/0000-0002-7986-1158
 - authors:
   - Kutskiy, Oleg
   description: "Image from the NFDI4BIOIMAGE Calendar February 2025.\n&ldquo;The Way\
@@ -21759,6 +22849,8 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Oleg Kutskiy
 - authors:
   - Miebach, Lea
   - Bekeschus, Sander
@@ -22006,6 +23098,9 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Lea Miebach https://orcid.org/0000-0002-8773-8862
+  - Sander Bekeschus https://orcid.org/0000-0001-7411-9299
 - authors:
   - Rademacher, Anne
   - Huseynov, Alik
@@ -22395,6 +23490,19 @@ resources:
   file_formats: .png
   tags:
   - exclude from DALIA
+  authors_with_orcid:
+  - Anne Rademacher https://orcid.org/0000-0003-3054-3121
+  - Alik Huseynov https://orcid.org/0000-0002-1438-4389
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Sina Jasmin Wille https://orcid.org/0009-0000-1254-7431
+  - Sabrina Schumacher https://orcid.org/0000-0003-2292-9286
+  - Pooja Sant https://orcid.org/0000-0001-9301-3211
+  - Denise Keitel
+  - Konstantin Okonechnikov https://orcid.org/0000-0002-3409-2340
+  - David R. Ghasemi https://orcid.org/0000-0002-3844-9933
+  - Kristian W. Pajtler https://orcid.org/0000-0002-3562-6121
+  - Jan-Philipp Mallm https://orcid.org/0000-0002-7059-4030
+  - Karsten Rippe https://orcid.org/0000-0001-9951-9395
 - authors:
   - Massei, Riccardo
   - Serrano-Solano, Beatriz
@@ -22450,6 +23558,15 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Riccardo Massei
+  - Beatriz Serrano-Solano
+  - Anne Fouilloux
+  - Björg Gruening
+  - Yi Sun
+  - Diana Chiang
+  - Matthias Bernt
+  - Leonid Kostrykin
 - authors:
   - Wagner, Robert
   - Ahmadi, Mohsen
@@ -22518,6 +23635,12 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - exclude from DALIA
+  authors_with_orcid:
+  - Robert Wagner https://orcid.org/0000-0002-2762-293X
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Dagmar Waltemath https://orcid.org/0000-0002-5886-5563
+  - Kristina Yordanova https://orcid.org/0000-0002-6428-1062
+  - Markus M. Becker https://orcid.org/0000-0001-9324-3236
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -22558,6 +23681,11 @@ resources:
   tags:
   - NFDI4Bioimage
   - exclude from DALIA
+  authors_with_orcid:
+  - Yi Sun
+  - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  - Harry Alexander Kelleher
+  - Jean-Karim Heriche https://orcid.org/0000-0001-6867-9425
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -22581,6 +23709,8 @@ resources:
   - NFDI4Bioimage
   - Bioimage Analysis
   - include in DALIA
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Thönnißen, Julia
   - Oliveira, Sarah
@@ -22652,6 +23782,14 @@ resources:
   file_formats: .pdf
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Julia Thönnißen https://orcid.org/0000-0002-5467-871X
+  - Sarah Oliveira https://orcid.org/0000-0002-8050-6305
+  - Alexander Oberstrass https://orcid.org/0000-0003-0712-034X
+  - Jan-Oliver Kropp https://orcid.org/0000-0002-4770-6612
+  - Xiao Gui
+  - Christian Schiffer https://orcid.org/0000-0002-2544-843X
+  - Timo Dickscheid https://orcid.org/0000-0002-9051-3701
 - authors:
   - Schätz, Martin
   - Pérez Koldenkova, Vadim
@@ -22670,6 +23808,9 @@ resources:
   file_formats: .pdf * .pptx
   tags:
   - include in DALIA
+  authors_with_orcid:
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Vadim Pérez Koldenkova https://orcid.org/0000-0001-9118-8800
 - authors:
   - Erin Weisbart
   description: Contains the survey data collected through the 2024 Bridging Imaging
@@ -22687,6 +23828,8 @@ resources:
   tags:
   - exclude from DALIA
   uuid: 81370b88-9575-4e72-97f3-9903708f9bc7
+  authors_with_orcid:
+  - Erin Weisbart
 - authors:
   - Kevin Yamauchi
   description: ''
@@ -22699,7 +23842,6 @@ resources:
   tags:
   - exclude from DALIA
   uuid: 7aa3ba41-d1ae-4a2b-9a20-1f08f20b8017
-
 - authors:
   - Lea Kabjesz
   - Lea Gihlein
