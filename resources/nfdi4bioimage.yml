@@ -21544,6 +21544,7 @@ resources:
   uuid: 740035c1-d1d1-4e71-a6db-a8ecbfe13591
   authors_with_orcid:
   - Erika Snyder https://orcid.org/0009-0005-8850-0687
+  file_formats: .nd2
 - authors:
   - Barry, David J
   - Marcotti, Stefania
@@ -21571,6 +21572,7 @@ resources:
   - Sara Salgueiro Torres https://orcid.org/0009-0007-3420-1619
   - Martin Jones https://orcid.org/0000-0003-0994-5652
   - Alicja Skórkowska https://orcid.org/0000-0002-1167-7610
+  file_formats: .zip
 - authors:
   - Erick Martins Ratamero
   - dependabot[bot]
@@ -23830,6 +23832,7 @@ resources:
   uuid: 81370b88-9575-4e72-97f3-9903708f9bc7
   authors_with_orcid:
   - Erin Weisbart
+  file_formats: .zip
 - authors:
   - Kevin Yamauchi
   description: ''
