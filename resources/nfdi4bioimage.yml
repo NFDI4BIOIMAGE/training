@@ -23875,7 +23875,7 @@ resources:
   - Nir Yosef
   description: 'CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.'
   license: CC-BY-4.0
-  name: CytoVI: Deep generative modeling of antibody-based single cell technologies
+  name: CytoVI Deep generative modeling of antibody-based single cell technologies
   publication_date: '2025-09-12'
   tags:
   - Artificial Intelligence
@@ -23884,5 +23884,19 @@ resources:
   type:
   - Preprint
   url: https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1
+  uuid: 
+  language: en
+- authors: 
+  - Alberto Díez
+  description: 'Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. '
+  license: UNKNOWN
+  name: Python for Bioimage Analysis Basic Tools and Setup on Windows
+  publication_date: '2025-09-04'
+  tags:
+  - Bioimage Analysis
+  - exclude from DALIA
+  type:
+  - Video
+  url: https://youtu.be/tzdFuxF2E3U
   uuid: 
   language: en
