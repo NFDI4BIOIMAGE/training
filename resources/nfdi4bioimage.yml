@@ -23900,3 +23900,59 @@ resources:
   url: https://youtu.be/tzdFuxF2E3U
   uuid: 
   language: en
+- authors: 
+  - Riccardo Massei
+  - Wibke Busch
+  - Beatriz Serrano-Solano
+  - Matthias Bernt
+  - Stefan Scholz
+  - Elena K. Nicolay
+  - Hannes Bohring 
+  - Jan Bumberger 
+  description: 'This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.'
+  license: CC-BY-4.0
+  name: High-content screening (HCS) workflows for FAIR image data management with OMERO
+  publication_date: '2025-05-09'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - include in DALIA
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41598-025-00720-0
+  uuid: 
+  language: en
+- authors: 
+  - Niraj Kandpal
+  - Peter Zentis
+  - Monica Valencia-Schneider
+  - Astrid Schauss
+  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. '
+  license: CC-BY-4.0
+  name: OMERO and ARC Workflow
+  publication_date: '2025-04-15'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - include in DALIA
+  type:
+  - Slides
+  url: https://zenodo.org/records/15225616
+  uuid: 
+  language: en
+- authors: 
+  - Josh Moore
+  - Yi Sun
+  description: 'In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.'
+  license: UNKNOWN
+  name: NFDITalk Cloud based image data science
+  publication_date: '2025-06-02'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - exclude from DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=bzfmE29S270
+  uuid: 
+  language: en
