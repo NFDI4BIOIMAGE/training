@@ -1,4 +1,4 @@
-# Zenodo.org (327)
+# Zenodo.org (329)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -8638,6 +8638,25 @@ Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
 
 ---
 
+## Research Data Management
+
+Robert Haase
+
+Published 2025-09-22
+
+Licensed CC-BY-4.0
+
+
+
+This slides covers aspects of research data management (RDM) and open science such as the RDM life cylce, FAIR principles, sharing data on Zenodo, rights and duties of scientists in the RDM context.
+
+[https://zenodo.org/records/17174207](https://zenodo.org/records/17174207)
+
+[https://doi.org/10.5281/zenodo.17174207](https://doi.org/10.5281/zenodo.17174207)
+
+
+---
+
 ## Research Data Management Seminar - Slides
 
 Stefano Della Chiesa
@@ -10115,6 +10134,23 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/5675686](https://zenodo.org/records/5675686)
 
 [https://doi.org/10.5281/zenodo.5675686](https://doi.org/10.5281/zenodo.5675686)
+
+
+---
+
+## Test data for Bioformats Issue #4366
+
+Ivo Alxneit
+
+Published 2025-09-22
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17176730](https://zenodo.org/records/17176730)
+
+[https://doi.org/10.5281/zenodo.17176730](https://doi.org/10.5281/zenodo.17176730)
 
 
 ---
