@@ -23857,3 +23857,26 @@ resources:
   - include in DALIA
   type: GitHub Repository
   url: https://github.com/kaabl/PygamePrompts
+- authors:
+  - Haase, Robert
+  description: This slides covers aspects of research data management (RDM) and open
+    science such as the RDM life cylce, FAIR principles, sharing data on Zenodo, rights
+    and duties of scientists in the RDM context.
+  license: cc-by-4.0
+  name: Research Data Management
+  num_downloads: 41
+  publication_date: '2025-09-22'
+  submission_date: '2025-09-23T11:19:13.689095'
+  url:
+  - https://zenodo.org/records/17174207
+  - https://doi.org/10.5281/zenodo.17174207
+- authors:
+  - Alxneit, Ivo
+  license: cc-by-4.0
+  name: 'Test data for Bioformats Issue #4366'
+  num_downloads: 2
+  publication_date: '2025-09-22'
+  submission_date: '2025-09-23T11:22:11.047143'
+  url:
+  - https://zenodo.org/records/17176730
+  - https://doi.org/10.5281/zenodo.17176730
