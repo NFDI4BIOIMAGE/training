@@ -23984,21 +23984,6 @@ resources:
   uuid: 
   language: en
 - authors: 
-  - Antoine A. Ruzette
-  description: 'Materials supporting the QuPath workshop at Harvard Medical School.'
-  license: CC-BY-4.0
-  name: QuPath Workshop
-  publication_date: '2025-09-17'
-  tags:
-  - FAIR-Principles
-  - Research Data Management
-  - include in DALIA
-  type:
-  - Github Repository
-  url: https://github.com/HMS-IAC/qupath-workshop
-  uuid: 
-  language: en
-- authors: 
   - Fabio Crameri
   description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
   license: UNKNOWN
@@ -24065,24 +24050,6 @@ resources:
   type:
   - Data
   url: https://www.nature.com/articles/srep00503#Sec16
-  uuid: 
-  language: en
-- authors: 
-  - Naylor Peter Jack
-  - Walter Thomas
-  - Laé Marick
-  - Reyal Fabien
-  description: 'This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.'
-  license: CC-BY-4.0
-  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance map
-  publication_date: '2018-02-16'
-  tags:
-  - Nuclei images
-  - AI-ready
-  - exclude from DALIA
-  type:
-  - Data
-  url: https://zenodo.org/records/1175282#.WyP61xy-l5E 
   uuid: 
   language: en
 - authors: 
