@@ -23977,7 +23977,7 @@ resources:
   - include in DALIA
   type:
   - Publication
-  url: https://www.youtube.com/watch?v=bzfmE29S270
+  url: https://repository.publisso.de/resource/frl:6453768
   uuid: 
   language: en
 - authors: 
@@ -23992,7 +23992,7 @@ resources:
   - include in DALIA
   type:
   - Github Repository
-  url: https://www.youtube.com/watch?v=bzfmE29S270
+  url: https://github.com/HMS-IAC/qupath-workshop
   uuid: 
   language: en
 - authors: 
@@ -24007,6 +24007,38 @@ resources:
   - exclude from DALIA
   type:
   - Website
-  url: https://www.youtube.com/watch?v=bzfmE29S270
+  url: https://www.fabiocrameri.ch/colourmaps/
   uuid: 
   language: en
+- authors: 
+  - Helena Klara Jambor 
+  description: 'Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.'
+  license: Copyright
+  name: A checklist for designing and improving the visualization of scientific data
+  publication_date: '2025-06-13'
+  tags:
+  - Copyright
+  - Research Data Management
+  - exclude from DALIA
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41556-025-01684-z.pdf
+  uuid: 
+  language: en
+- authors: 
+  - Booz Allen Hamilton
+  description: 'This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.'
+  license: Restrictive license
+  name: 2018 Data Science Bowl
+  publication_date: '2018-01-16'
+  tags:
+  - Nuclei images
+  - Restrictive license
+  - AI-ready
+  - exclude from DALIA
+  type:
+  - Data
+  url: https://www.kaggle.com/c/data-science-bowl-2018/data
+  uuid: 
+  language: en
+
