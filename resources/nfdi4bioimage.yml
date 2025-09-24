@@ -23956,3 +23956,27 @@ resources:
   url: https://www.youtube.com/watch?v=bzfmE29S270
   uuid: 
   language: en
+- authors: 
+  - Jens Dierkes
+  - Julia Fürst
+  - Tanja Hörner
+  - Sebastian Klammt
+  - Birte Lindstädt
+  - Iris Pigeot
+  - Katja Restel
+  - Carsten Oliver Schmidt
+  - Dagmar Waltemath
+  - Atinkut Zeleke
+  description: 'This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.'
+  license: CC-BY-4.0
+  name: Training concepts in research data management and data science with the focus on health research
+  publication_date: '2023-08-22'
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=bzfmE29S270
+  uuid: 
+  language: en
