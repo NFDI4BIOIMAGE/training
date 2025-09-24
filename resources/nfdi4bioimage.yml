@@ -23986,7 +23986,7 @@ resources:
 - authors: 
   - Fabio Crameri
   description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
-  license: UNKNOWN
+  license: All rights reserved
   name: Scientific colour maps
   publication_date: '2023-10-05'
   tags:
