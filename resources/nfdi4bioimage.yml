@@ -23896,7 +23896,7 @@ resources:
   publication_date: '2025-09-04'
   tags:
   - Bioimage Analysis
-  - exclude from DALIA
+  - include in DALIA
   type:
   - Video
   url: https://youtu.be/tzdFuxF2E3U
