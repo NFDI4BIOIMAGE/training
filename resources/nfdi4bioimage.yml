@@ -23980,3 +23980,18 @@ resources:
   url: https://www.youtube.com/watch?v=bzfmE29S270
   uuid: 
   language: en
+- authors: 
+  - Antoine A. Ruzette
+  description: 'Materials supporting the QuPath workshop at Harvard Medical School.'
+  license: CC-BY-4.0
+  name: QuPath Workshop
+  publication_date: '2025-09-17'
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=bzfmE29S270
+  uuid: 
+  language: en
