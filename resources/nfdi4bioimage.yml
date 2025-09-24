@@ -23976,7 +23976,7 @@ resources:
   - Research Data Management
   - include in DALIA
   type:
-  - Video
+  - Publication
   url: https://www.youtube.com/watch?v=bzfmE29S270
   uuid: 
   language: en
@@ -23991,7 +23991,22 @@ resources:
   - Research Data Management
   - include in DALIA
   type:
-  - Video
+  - Github Repository
+  url: https://www.youtube.com/watch?v=bzfmE29S270
+  uuid: 
+  language: en
+- authors: 
+  - Fabio Crameri
+  description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
+  license: UNKNOWN
+  name: Scientific colour maps
+  publication_date: '2023-10-05'
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  - exclude from DALIA
+  type:
+  - Website
   url: https://www.youtube.com/watch?v=bzfmE29S270
   uuid: 
   language: en
