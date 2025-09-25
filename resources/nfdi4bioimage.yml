@@ -24082,3 +24082,23 @@ resources:
   url:
   - https://zenodo.org/records/17176730
   - https://doi.org/10.5281/zenodo.17176730
+
+- authors:
+  - "Matthias T\xE4schner"
+  - mxsunc
+  - dsinas
+  - Robert Haase
+  - 'Asier Rabasco '
+  - "Laura \u017Digutyt\u0117"
+  - kepler186f-git
+  - mar-chem
+  description: Resources and materials for a DataScience / AI training school for the
+    medical domain, conducted as part of the Come2Data (https://come2data.de/) project.
+  license: Creative Commons Attribution 4.0 International
+  name: ai4medicine-2025
+  publication_date: '2025-05-13T08:12:43+00:00'
+  submission_date: '2025-09-25T13:34:22.495573'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/ScaDS/ai4medicine-2025
+  
