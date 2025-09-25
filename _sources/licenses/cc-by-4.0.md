@@ -1,4 +1,4 @@
-# Cc-by-4.0 (410)
+# Cc-by-4.0 (414)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -1942,6 +1942,27 @@ Content type: Slides
 [https://zenodo.org/records/11066250](https://zenodo.org/records/11066250)
 
 [https://doi.org/10.5281/zenodo.11066250](https://doi.org/10.5281/zenodo.11066250)
+
+
+---
+
+## CytoVI Deep generative modeling of antibody-based single cell technologies
+
+Florian Ingelfinger, Nathan Levy, Can Ergen, Artemy Bakulin, Alexander Becker, Pierre Boyeau, Martin Kim, Diana Ditz, Jan Dirks, Jonas Maaskola, Tobias Wertheimer, Robert Zeiser, Corinne C. Widmer, Ido Amit, Nir Yosef
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.
+
+Tags: Artificial Intelligence, Bioinformatics, Include In Dalia
+
+Content type: Preprint
+
+[https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1](https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1)
 
 
 ---
@@ -4304,6 +4325,27 @@ Tags: OMERO, Data Analysis, Bioimage Analysis, Include In Dalia
 Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
+
+
+---
+
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
 
 
 ---
@@ -8684,6 +8726,27 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 ---
 
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
 
 Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
@@ -9761,20 +9824,13 @@ Licensed CC-BY-4.0
 
 
 
-This dataset has been annonced in our accepted paper &quot;Segmentation of Nuclei in Histopathology Images by deep regression of the distance map&quot; in Transcation on Medical Imaging on the 13th of August.
-This dataset consists of 50 annotated images, divided into 11 patients.
+This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.
 
-&nbsp;
-
-v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
-
-Tags: Ai-Ready, Exclude From Dalia
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
-[https://zenodo.org/records/2579118](https://zenodo.org/records/2579118)
-
-[https://doi.org/10.5281/zenodo.2579118](https://doi.org/10.5281/zenodo.2579118)
+[https://zenodo.org/records/1175282#.WyP61xy-l5E](https://zenodo.org/records/1175282#.WyP61xy-l5E)
 
 
 ---
@@ -11476,6 +11532,27 @@ Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
 [https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+
+
+---
+
+## Training concepts in research data management and data science with the focus on health research
+
+Jens Dierkes, Julia Fürst, Tanja Hörner, Sebastian Klammt, Birte Lindstädt, Iris Pigeot, Katja Restel, Carsten Oliver Schmidt, Dagmar Waltemath, Atinkut Zeleke
+
+Published 2023-08-22
+
+Licensed CC-BY-4.0
+
+
+
+This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.
+
+Tags: FAIR-Principles, Research Data Management, Include In Dalia
+
+Content type: Publication
+
+[https://repository.publisso.de/resource/frl:6453768](https://repository.publisso.de/resource/frl:6453768)
 
 
 ---

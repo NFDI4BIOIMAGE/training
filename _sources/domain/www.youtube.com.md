@@ -1,4 +1,4 @@
-# Www.youtube.com (28)
+# Www.youtube.com (29)
 ## ABIC - Intermediate Fiji Image Analysis Course 2024
 
 Rensu Petrus Theart
@@ -369,6 +369,27 @@ Tags: Neubias, Exclude From Dalia
 Content type: Collection, Video
 
 [https://www.youtube.com/neubias](https://www.youtube.com/neubias)
+
+
+---
+
+## NFDITalk Cloud based image data science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed UNKNOWN
+
+
+
+In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.
+
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=bzfmE29S270](https://www.youtube.com/watch?v=bzfmE29S270)
 
 
 ---

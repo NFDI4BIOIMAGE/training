@@ -1,4 +1,4 @@
-# Bioinformatics (19)
+# Bioinformatics (20)
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -50,6 +50,27 @@ Tags: Bioinformatics, Exclude From Dalia
 Content type: Collection
 
 [https://bio.tools/](https://bio.tools/)
+
+
+---
+
+## CytoVI Deep generative modeling of antibody-based single cell technologies
+
+Florian Ingelfinger, Nathan Levy, Can Ergen, Artemy Bakulin, Alexander Becker, Pierre Boyeau, Martin Kim, Diana Ditz, Jan Dirks, Jonas Maaskola, Tobias Wertheimer, Robert Zeiser, Corinne C. Widmer, Ido Amit, Nir Yosef
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.
+
+Tags: Artificial Intelligence, Bioinformatics, Include In Dalia
+
+Content type: Preprint
+
+[https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1](https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1)
 
 
 ---

@@ -1,4 +1,4 @@
-# Bioimage analysis (210)
+# Bioimage analysis (214)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -1560,6 +1560,27 @@ Content type: Collection
 
 ---
 
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
+
+
+---
+
 ## Highlights from the 2016-2020 NEUBIAS training schools for Bioimage Analysts: a success story and key asset for analysts and life scientists
 
 Gabriel G. Martins, Fabrice P. Cordelières, Julien Colombelli, Rocco D’Antuono, Ofra Golani, Romain Guiet, Robert Haase, Anna H. Klemm, Marion Louveaux, Perrine Paul-Gilloteaux, Jean-Yves Tinevez, Kota Miura
@@ -2484,6 +2505,27 @@ Content type: Github Repository
 
 ---
 
+## NFDITalk Cloud based image data science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed UNKNOWN
+
+
+
+In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.
+
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=bzfmE29S270](https://www.youtube.com/watch?v=bzfmE29S270)
+
+
+---
+
 ## Neubias Academy 2020: Introduction to Nuclei Segmentation with StarDist
 
 Martin Weigert, Olivier Burri, Siân Culley, Uwe Schmidt
@@ -2554,6 +2596,27 @@ Tags: Bioimage Analysis, OMERO, Exclude From Dalia
 Content type: Online Tutorial
 
 [https://wiki-biop.epfl.ch/en/data-management/omero/qupath](https://wiki-biop.epfl.ch/en/data-management/omero/qupath)
+
+
+---
+
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
 
 
 ---
@@ -2730,6 +2793,27 @@ Licensed MIT
 Tags: Python, Bioimage Analysis, Include In Dalia
 
 [https://github.com/WhoIsJack/python-bioimage-analysis-tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
+
+
+---
+
+## Python for Bioimage Analysis Basic Tools and Setup on Windows
+
+Alberto Díez
+
+Published 2025-09-04
+
+Licensed UNKNOWN
+
+
+
+Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. 
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Video
+
+[https://youtu.be/tzdFuxF2E3U](https://youtu.be/tzdFuxF2E3U)
 
 
 ---

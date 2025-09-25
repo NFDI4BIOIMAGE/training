@@ -1,4 +1,4 @@
-# Zenodo.org (329)
+# Zenodo.org (330)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -8158,6 +8158,27 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 ---
 
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
 
 Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
@@ -8850,20 +8871,13 @@ Licensed CC-BY-4.0
 
 
 
-This dataset has been annonced in our accepted paper &quot;Segmentation of Nuclei in Histopathology Images by deep regression of the distance map&quot; in Transcation on Medical Imaging on the 13th of August.
-This dataset consists of 50 annotated images, divided into 11 patients.
+This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.
 
-&nbsp;
-
-v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
-
-Tags: Ai-Ready, Exclude From Dalia
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
-[https://zenodo.org/records/2579118](https://zenodo.org/records/2579118)
-
-[https://doi.org/10.5281/zenodo.2579118](https://doi.org/10.5281/zenodo.2579118)
+[https://zenodo.org/records/1175282#.WyP61xy-l5E](https://zenodo.org/records/1175282#.WyP61xy-l5E)
 
 
 ---

@@ -1,4 +1,4 @@
-# Exclude from dalia (455)
+# Exclude from dalia (460)
 ## .lif files misbehaving in fiji but fine in LASX
 
 Pamela Young
@@ -37,6 +37,27 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14281237](https://zenodo.org/records/14281237)
 
 [https://doi.org/10.5281/zenodo.14281237](https://doi.org/10.5281/zenodo.14281237)
+
+
+---
+
+## 2018 Data Science Bowl
+
+Booz Allen Hamilton
+
+Published 2018-01-16
+
+Licensed RESTRICTIVE LICENSE
+
+
+
+This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.
+
+Tags: Nuclei Images, Restrictive License, Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://www.kaggle.com/c/data-science-bowl-2018/data](https://www.kaggle.com/c/data-science-bowl-2018/data)
 
 
 ---
@@ -279,6 +300,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
+
+
+---
+
+## A checklist for designing and improving the visualization of scientific data
+
+Helena Klara Jambor
+
+Published 2025-06-13
+
+Licensed COPYRIGHT
+
+
+
+Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.
+
+Tags: Copyright, Research Data Management, Exclude From Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41556-025-01684-z.pdf](https://www.nature.com/articles/s41556-025-01684-z.pdf)
 
 
 ---
@@ -2627,6 +2669,27 @@ Tags: Knowledge Graph, Bioinformatics, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41587-023-01848-y](https://www.nature.com/articles/s41587-023-01848-y)
+
+
+---
+
+## Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+
+Stephan Wienert, Daniel Heim, Kai Saeger, Albrecht Stenzinger, Michael Beil, Peter Hufnagl, Manfred Dietel, Carsten Denkert, Frederick Klauschen
+
+Published 2012-07-11
+
+Licensed CC-BY-NC-SA-3.0
+
+
+
+A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.
+
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://www.nature.com/articles/srep00503#Sec16](https://www.nature.com/articles/srep00503#Sec16)
 
 
 ---
@@ -8897,6 +8960,27 @@ Tags: Exclude From Dalia
 
 ---
 
+## NFDITalk Cloud based image data science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed UNKNOWN
+
+
+
+In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.
+
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=bzfmE29S270](https://www.youtube.com/watch?v=bzfmE29S270)
+
+
+---
+
 ## NGFF Converter
 
 Licensed GPL-2.0
@@ -10196,6 +10280,27 @@ Tags: Exclude From Dalia
 
 ---
 
+## Scientific colour maps
+
+Fabio Crameri
+
+Published 2023-10-05
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
+
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
+
+Content type: Website
+
+[https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
+
+
+---
+
 ## Scripts_FilopodyanR - a case study for the NEUBIAS TS7 in Szeged
 
 Marion Louveaux
@@ -10223,20 +10328,13 @@ Licensed CC-BY-4.0
 
 
 
-This dataset has been annonced in our accepted paper &quot;Segmentation of Nuclei in Histopathology Images by deep regression of the distance map&quot; in Transcation on Medical Imaging on the 13th of August.
-This dataset consists of 50 annotated images, divided into 11 patients.
+This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.
 
-&nbsp;
-
-v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
-
-Tags: Ai-Ready, Exclude From Dalia
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
-[https://zenodo.org/records/2579118](https://zenodo.org/records/2579118)
-
-[https://doi.org/10.5281/zenodo.2579118](https://doi.org/10.5281/zenodo.2579118)
+[https://zenodo.org/records/1175282#.WyP61xy-l5E](https://zenodo.org/records/1175282#.WyP61xy-l5E)
 
 
 ---

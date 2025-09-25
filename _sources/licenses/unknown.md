@@ -1,4 +1,4 @@
-# Unknown (109)
+# Unknown (111)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1377,6 +1377,27 @@ Content type: Collection
 
 ---
 
+## NFDITalk Cloud based image data science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed UNKNOWN
+
+
+
+In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.
+
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=bzfmE29S270](https://www.youtube.com/watch?v=bzfmE29S270)
+
+
+---
+
 ## Name Styles
 
 Nick Radcliffe
@@ -1494,6 +1515,27 @@ Tags: Python, Include In Dalia
 Content type: Code, Notebook
 
 [https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
+
+
+---
+
+## Python for Bioimage Analysis Basic Tools and Setup on Windows
+
+Alberto Díez
+
+Published 2025-09-04
+
+Licensed UNKNOWN
+
+
+
+Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. 
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Video
+
+[https://youtu.be/tzdFuxF2E3U](https://youtu.be/tzdFuxF2E3U)
 
 
 ---

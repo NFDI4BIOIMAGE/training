@@ -1,4 +1,4 @@
-# Www.nature.com (18)
+# Www.nature.com (21)
 ## A call for public archives for biological image data
 
 Jan Ellenberg, Jason R. Swedlow, Mary Barlow, Charles E. Cook, Ugis Sarkans, Ardan Patwardhan, Alvis Brazma, Ewan Birney
@@ -10,6 +10,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
+
+
+---
+
+## A checklist for designing and improving the visualization of scientific data
+
+Helena Klara Jambor
+
+Published 2025-06-13
+
+Licensed COPYRIGHT
+
+
+
+Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.
+
+Tags: Copyright, Research Data Management, Exclude From Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41556-025-01684-z.pdf](https://www.nature.com/articles/s41556-025-01684-z.pdf)
 
 
 ---
@@ -71,6 +92,27 @@ Content type: Publication
 
 ---
 
+## Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+
+Stephan Wienert, Daniel Heim, Kai Saeger, Albrecht Stenzinger, Michael Beil, Peter Hufnagl, Manfred Dietel, Carsten Denkert, Frederick Klauschen
+
+Published 2012-07-11
+
+Licensed CC-BY-NC-SA-3.0
+
+
+
+A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.
+
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://www.nature.com/articles/srep00503#Sec16](https://www.nature.com/articles/srep00503#Sec16)
+
+
+---
+
 ## FAIR High Content Screening in Bioimaging
 
 Rohola Hosseini, Matthijs Vlasveld, Joost Willemse, Bob van de Water, Sylvia E. Le Dévédec, Katherine J. Wolstencroft
@@ -88,6 +130,27 @@ Tags: FAIR-Principles, Metadata, Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41597-023-02367-w](https://www.nature.com/articles/s41597-023-02367-w)
+
+
+---
+
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
 
 
 ---

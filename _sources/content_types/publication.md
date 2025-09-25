@@ -1,4 +1,4 @@
-# Publication (71)
+# Publication (74)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -86,6 +86,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
+
+
+---
+
+## A checklist for designing and improving the visualization of scientific data
+
+Helena Klara Jambor
+
+Published 2025-06-13
+
+Licensed COPYRIGHT
+
+
+
+Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.
+
+Tags: Copyright, Research Data Management, Exclude From Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41556-025-01684-z.pdf](https://www.nature.com/articles/s41556-025-01684-z.pdf)
 
 
 ---
@@ -483,6 +504,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://arxiv.org/abs/2401.13022](https://arxiv.org/abs/2401.13022)
+
+
+---
+
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
 
 
 ---
@@ -1295,6 +1337,27 @@ Tags: Reproducibility, Bioimage Analysis, Metadata, Exclude From Dalia
 Content type: Publication
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9271325/)
+
+
+---
+
+## Training concepts in research data management and data science with the focus on health research
+
+Jens Dierkes, Julia Fürst, Tanja Hörner, Sebastian Klammt, Birte Lindstädt, Iris Pigeot, Katja Restel, Carsten Oliver Schmidt, Dagmar Waltemath, Atinkut Zeleke
+
+Published 2023-08-22
+
+Licensed CC-BY-4.0
+
+
+
+This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.
+
+Tags: FAIR-Principles, Research Data Management, Include In Dalia
+
+Content type: Publication
+
+[https://repository.publisso.de/resource/frl:6453768](https://repository.publisso.de/resource/frl:6453768)
 
 
 ---

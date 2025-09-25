@@ -1,4 +1,4 @@
-# Peter zentis (6)
+# Peter zentis (7)
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -102,6 +102,27 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 [https://zenodo.org/records/13837146](https://zenodo.org/records/13837146)
 
 [https://doi.org/10.5281/zenodo.13837146](https://doi.org/10.5281/zenodo.13837146)
+
+
+---
+
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
 
 
 ---

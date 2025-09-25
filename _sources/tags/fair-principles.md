@@ -1,4 +1,4 @@
-# Fair-principles (27)
+# Fair-principles (29)
 ## Combining the BIDS and ARC Directory Structures for Multimodal Research Data Organization
 
 Torsten Stöter, Tobias Gottschall, Andrea Schrader, Peter Zentis, Monica Valencia-Schneider, Niraj Kandpal, Werner Zuschratter, Astrid Schauss, Timo Dickscheid, Timo Mühlhaus, Dirk von Suchodoletz
@@ -436,6 +436,27 @@ Content type: Tutorial
 
 ---
 
+## Scientific colour maps
+
+Fabio Crameri
+
+Published 2023-10-05
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
+
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
+
+Content type: Website
+
+[https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
+
+
+---
+
 ## So geschlossen wie nötig, so offen wie möglich - Datenschutz beim Umgang mit Forschungsdaten
 
 Pia Voigt
@@ -520,6 +541,27 @@ Tags: FAIR-Principles, Data Stewardship, Sharing, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41431-018-0160-0](https://www.nature.com/articles/s41431-018-0160-0)
+
+
+---
+
+## Training concepts in research data management and data science with the focus on health research
+
+Jens Dierkes, Julia Fürst, Tanja Hörner, Sebastian Klammt, Birte Lindstädt, Iris Pigeot, Katja Restel, Carsten Oliver Schmidt, Dagmar Waltemath, Atinkut Zeleke
+
+Published 2023-08-22
+
+Licensed CC-BY-4.0
+
+
+
+This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.
+
+Tags: FAIR-Principles, Research Data Management, Include In Dalia
+
+Content type: Publication
+
+[https://repository.publisso.de/resource/frl:6453768](https://repository.publisso.de/resource/frl:6453768)
 
 
 ---

@@ -1,4 +1,4 @@
-# Include in dalia (333)
+# Include in dalia (338)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -1323,6 +1323,27 @@ Content type: Slides
 
 ---
 
+## CytoVI Deep generative modeling of antibody-based single cell technologies
+
+Florian Ingelfinger, Nathan Levy, Can Ergen, Artemy Bakulin, Alexander Becker, Pierre Boyeau, Martin Kim, Diana Ditz, Jan Dirks, Jonas Maaskola, Tobias Wertheimer, Robert Zeiser, Corinne C. Widmer, Ido Amit, Nir Yosef
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.
+
+Tags: Artificial Intelligence, Bioinformatics, Include In Dalia
+
+Content type: Preprint
+
+[https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1](https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1)
+
+
+---
+
 ## DALIA Interchange Format
 
 Jonathan Geiger, Petra Steiner, Abdelmoneim Amer Desouki, Frank Lange
@@ -2611,6 +2632,27 @@ Tags: OMERO, Data Analysis, Bioimage Analysis, Include In Dalia
 Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
+
+
+---
+
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
 
 
 ---
@@ -4193,6 +4235,27 @@ Content type: Collection
 
 ---
 
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
+
+
+---
+
 ## OMERO documentation
 
 Licensed UNKNOWN
@@ -4695,6 +4758,27 @@ Tags: Python, Include In Dalia
 Content type: Code, Notebook
 
 [https://github.com/karinsasaki/python-workshop-image-processing](https://github.com/karinsasaki/python-workshop-image-processing)
+
+
+---
+
+## Python for Bioimage Analysis Basic Tools and Setup on Windows
+
+Alberto Díez
+
+Published 2025-09-04
+
+Licensed UNKNOWN
+
+
+
+Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. 
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Video
+
+[https://youtu.be/tzdFuxF2E3U](https://youtu.be/tzdFuxF2E3U)
 
 
 ---
@@ -5614,6 +5698,27 @@ Licensed UNKNOWN
 Tags: Artificial Intelligence, Bioimage Analysis, Include In Dalia
 
 [https://github.com/constantinpape/training-deep-learning-models-for-vison](https://github.com/constantinpape/training-deep-learning-models-for-vison)
+
+
+---
+
+## Training concepts in research data management and data science with the focus on health research
+
+Jens Dierkes, Julia Fürst, Tanja Hörner, Sebastian Klammt, Birte Lindstädt, Iris Pigeot, Katja Restel, Carsten Oliver Schmidt, Dagmar Waltemath, Atinkut Zeleke
+
+Published 2023-08-22
+
+Licensed CC-BY-4.0
+
+
+
+This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.
+
+Tags: FAIR-Principles, Research Data Management, Include In Dalia
+
+Content type: Publication
+
+[https://repository.publisso.de/resource/frl:6453768](https://repository.publisso.de/resource/frl:6453768)
 
 
 ---

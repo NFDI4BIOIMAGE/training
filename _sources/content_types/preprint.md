@@ -1,4 +1,4 @@
-# Preprint (5)
+# Preprint (6)
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
@@ -16,6 +16,27 @@ Content type: Publication, Preprint
 [https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
 
 [https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
+
+
+---
+
+## CytoVI Deep generative modeling of antibody-based single cell technologies
+
+Florian Ingelfinger, Nathan Levy, Can Ergen, Artemy Bakulin, Alexander Becker, Pierre Boyeau, Martin Kim, Diana Ditz, Jan Dirks, Jonas Maaskola, Tobias Wertheimer, Robert Zeiser, Corinne C. Widmer, Ido Amit, Nir Yosef
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.
+
+Tags: Artificial Intelligence, Bioinformatics, Include In Dalia
+
+Content type: Preprint
+
+[https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1](https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1)
 
 
 ---

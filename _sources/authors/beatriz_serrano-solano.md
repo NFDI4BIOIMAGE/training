@@ -1,4 +1,4 @@
-# Beatriz serrano-solano (11)
+# Beatriz serrano-solano (12)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -139,6 +139,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/14975462](https://zenodo.org/records/14975462)
 
 [https://doi.org/10.5281/zenodo.14975462](https://doi.org/10.5281/zenodo.14975462)
+
+
+---
+
+## High-content screening (HCS) workflows for FAIR image data management with OMERO
+
+Riccardo Massei, Wibke Busch, Beatriz Serrano-Solano, Matthias Bernt, Stefan Scholz, Elena K. Nicolay, Hannes Bohring, Jan Bumberger
+
+Published 2025-05-09
+
+Licensed CC-BY-4.0
+
+
+
+This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41598-025-00720-0](https://www.nature.com/articles/s41598-025-00720-0)
 
 
 ---

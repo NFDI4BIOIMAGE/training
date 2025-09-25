@@ -1,4 +1,4 @@
-# Research data management (145)
+# Research data management (148)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -71,6 +71,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-018-0195-8](https://www.nature.com/articles/s41592-018-0195-8)
+
+
+---
+
+## A checklist for designing and improving the visualization of scientific data
+
+Helena Klara Jambor
+
+Published 2025-06-13
+
+Licensed COPYRIGHT
+
+
+
+Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.
+
+Tags: Copyright, Research Data Management, Exclude From Dalia
+
+Content type: Publication
+
+[https://www.nature.com/articles/s41556-025-01684-z.pdf](https://www.nature.com/articles/s41556-025-01684-z.pdf)
 
 
 ---
@@ -2192,6 +2213,27 @@ Content type: Publication
 
 ---
 
+## Scientific colour maps
+
+Fabio Crameri
+
+Published 2023-10-05
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
+
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
+
+Content type: Website
+
+[https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
+
+
+---
+
 ## Setting up a data management infrastructure for bioimaging
 
 Susanne Kunis, Karen Bernhardt, Michael Hensel
@@ -2563,6 +2605,27 @@ Content type: Book
 [https://zenodo.org/record/4071471](https://zenodo.org/record/4071471)
 
 [https://doi.org/10.5281/zenodo.4071471](https://doi.org/10.5281/zenodo.4071471)
+
+
+---
+
+## Training concepts in research data management and data science with the focus on health research
+
+Jens Dierkes, Julia Fürst, Tanja Hörner, Sebastian Klammt, Birte Lindstädt, Iris Pigeot, Katja Restel, Carsten Oliver Schmidt, Dagmar Waltemath, Atinkut Zeleke
+
+Published 2023-08-22
+
+Licensed CC-BY-4.0
+
+
+
+This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.
+
+Tags: FAIR-Principles, Research Data Management, Include In Dalia
+
+Content type: Publication
+
+[https://repository.publisso.de/resource/frl:6453768](https://repository.publisso.de/resource/frl:6453768)
 
 
 ---

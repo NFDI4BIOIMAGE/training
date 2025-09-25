@@ -1,4 +1,4 @@
-# Yi sun (5)
+# Yi sun (6)
 ## Cloud-Based Virtual Desktops for Reproducible Research
 
 Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
@@ -58,6 +58,27 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
 
 [https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
+
+
+---
+
+## NFDITalk Cloud based image data science
+
+Josh Moore, Yi Sun
+
+Published 2025-06-02
+
+Licensed UNKNOWN
+
+
+
+In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.
+
+Tags: Bioimage Analysis, OMERO, Exclude From Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=bzfmE29S270](https://www.youtube.com/watch?v=bzfmE29S270)
 
 
 ---

@@ -1,4 +1,4 @@
-# Slides (84)
+# Slides (85)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1269,6 +1269,27 @@ Content type: Slides
 [https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
 
 [https://doi.org/10.5281/zenodo.4334697](https://doi.org/10.5281/zenodo.4334697)
+
+
+---
+
+## OMERO and ARC Workflow
+
+Niraj Kandpal, Peter Zentis, Monica Valencia-Schneider, Astrid Schauss
+
+Published 2025-04-15
+
+Licensed CC-BY-4.0
+
+
+
+A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. 
+
+Tags: Bioimage Analysis, OMERO, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/15225616](https://zenodo.org/records/15225616)
 
 
 ---

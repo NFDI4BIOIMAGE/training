@@ -1,4 +1,4 @@
-# All rights reserved (13)
+# All rights reserved (14)
 ## Basics of Image Processing and Analysis
 
 Kota Miura
@@ -169,6 +169,27 @@ Tags: Exclude From Dalia
 Content type: Publication
 
 [https://doi.org/10.1038/s41592-022-01602-3](https://doi.org/10.1038/s41592-022-01602-3)
+
+
+---
+
+## Scientific colour maps
+
+Fabio Crameri
+
+Published 2023-10-05
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
+
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
+
+Content type: Website
+
+[https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
 
 
 ---

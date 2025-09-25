@@ -1,4 +1,25 @@
-# Ai-ready (84)
+# Ai-ready (86)
+## 2018 Data Science Bowl
+
+Booz Allen Hamilton
+
+Published 2018-01-16
+
+Licensed RESTRICTIVE LICENSE
+
+
+
+This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.
+
+Tags: Nuclei Images, Restrictive License, Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://www.kaggle.com/c/data-science-bowl-2018/data](https://www.kaggle.com/c/data-science-bowl-2018/data)
+
+
+---
+
 ## 3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes
 
 Alain Chen, Liming Wu, Seth Winfree, Kenneth Dunn, Paul Salama, Edward Delp, Teresa Zulueta-Coarasa
@@ -950,6 +971,27 @@ Content type: Data
 
 ---
 
+## Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+
+Stephan Wienert, Daniel Heim, Kai Saeger, Albrecht Stenzinger, Michael Beil, Peter Hufnagl, Manfred Dietel, Carsten Denkert, Frederick Klauschen
+
+Published 2012-07-11
+
+Licensed CC-BY-NC-SA-3.0
+
+
+
+A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.
+
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://www.nature.com/articles/srep00503#Sec16](https://www.nature.com/articles/srep00503#Sec16)
+
+
+---
+
 ## Drosophila Kc167 cells
 
 Vebjorn Ljosa, Katherine L. Sokolnicki, Anne E. Carpenter
@@ -1737,20 +1779,13 @@ Licensed CC-BY-4.0
 
 
 
-This dataset has been annonced in our accepted paper &quot;Segmentation of Nuclei in Histopathology Images by deep regression of the distance map&quot; in Transcation on Medical Imaging on the 13th of August.
-This dataset consists of 50 annotated images, divided into 11 patients.
+This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.
 
-&nbsp;
-
-v1.1 (27/02/19): Small corrections to a few pixel that were labelled nuclei but weren&#39;t.
-
-Tags: Ai-Ready, Exclude From Dalia
+Tags: Nuclei Images, Ai-Ready, Exclude From Dalia
 
 Content type: Data
 
-[https://zenodo.org/records/2579118](https://zenodo.org/records/2579118)
-
-[https://doi.org/10.5281/zenodo.2579118](https://doi.org/10.5281/zenodo.2579118)
+[https://zenodo.org/records/1175282#.WyP61xy-l5E](https://zenodo.org/records/1175282#.WyP61xy-l5E)
 
 
 ---

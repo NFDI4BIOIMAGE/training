@@ -1,4 +1,4 @@
-# Website (11)
+# Website (12)
 ## Choose an open source license
 
 GitHub
@@ -158,6 +158,27 @@ Tags: Research Data Management, Open Source Software, Exclude From Dalia
 Content type: Website, Online Tutorial
 
 [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
+
+
+---
+
+## Scientific colour maps
+
+Fabio Crameri
+
+Published 2023-10-05
+
+Licensed ALL RIGHTS RESERVED
+
+
+
+Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.
+
+Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
+
+Content type: Website
+
+[https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
 
 
 ---

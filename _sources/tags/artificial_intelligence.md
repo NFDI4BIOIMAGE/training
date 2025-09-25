@@ -1,4 +1,4 @@
-# Artificial intelligence (51)
+# Artificial intelligence (52)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -371,6 +371,27 @@ Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
+## CytoVI Deep generative modeling of antibody-based single cell technologies
+
+Florian Ingelfinger, Nathan Levy, Can Ergen, Artemy Bakulin, Alexander Becker, Pierre Boyeau, Martin Kim, Diana Ditz, Jan Dirks, Jonas Maaskola, Tobias Wertheimer, Robert Zeiser, Corinne C. Widmer, Ido Amit, Nir Yosef
+
+Published 2025-09-12
+
+Licensed CC-BY-4.0
+
+
+
+CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.
+
+Tags: Artificial Intelligence, Bioinformatics, Include In Dalia
+
+Content type: Preprint
+
+[https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1](https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1)
 
 
 ---
