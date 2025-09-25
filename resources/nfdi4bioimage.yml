@@ -23860,6 +23860,205 @@ resources:
   - include in DALIA
   type: GitHub Repository
   url: https://github.com/kaabl/PygamePrompts
+- authors: 
+  - Florian Ingelfinger
+  - Nathan Levy
+  - Can Ergen
+  - Artemy Bakulin
+  - Alexander Becker
+  - Pierre Boyeau
+  - Martin Kim
+  - Diana Ditz
+  - Jan Dirks
+  - Jonas Maaskola
+  - Tobias Wertheimer
+  - Robert Zeiser
+  - Corinne C. Widmer
+  - Ido Amit
+  - Nir Yosef
+  description: 'CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.'
+  license: CC-BY-4.0
+  name: CytoVI Deep generative modeling of antibody-based single cell technologies
+  publication_date: '2025-09-12'
+  tags:
+  - Artificial Intelligence
+  - Bioinformatics
+  - include in DALIA
+  type:
+  - Preprint
+  url: https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1
+  language: en
+- authors: 
+  - Alberto Díez
+  description: 'Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. '
+  license: UNKNOWN
+  name: Python for Bioimage Analysis Basic Tools and Setup on Windows
+  publication_date: '2025-09-04'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Video
+  url: https://youtu.be/tzdFuxF2E3U
+  language: en
+- authors: 
+  - Riccardo Massei
+  - Wibke Busch
+  - Beatriz Serrano-Solano
+  - Matthias Bernt
+  - Stefan Scholz
+  - Elena K. Nicolay
+  - Hannes Bohring 
+  - Jan Bumberger 
+  description: 'This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.'
+  license: CC-BY-4.0
+  name: High-content screening (HCS) workflows for FAIR image data management with OMERO
+  publication_date: '2025-05-09'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - include in DALIA
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41598-025-00720-0
+  language: en
+- authors: 
+  - Niraj Kandpal
+  - Peter Zentis
+  - Monica Valencia-Schneider
+  - Astrid Schauss
+  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. '
+  license: CC-BY-4.0
+  name: OMERO and ARC Workflow
+  publication_date: '2025-04-15'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - include in DALIA
+  type:
+  - Slides
+  url: https://zenodo.org/records/15225616
+  language: en
+- authors: 
+  - Josh Moore
+  - Yi Sun
+  description: 'In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.'
+  license: UNKNOWN
+  name: NFDITalk Cloud based image data science
+  publication_date: '2025-06-02'
+  tags:
+  - Bioimage Analysis
+  - OMERO
+  - exclude from DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=bzfmE29S270
+  language: en
+- authors: 
+  - Jens Dierkes
+  - Julia Fürst
+  - Tanja Hörner
+  - Sebastian Klammt
+  - Birte Lindstädt
+  - Iris Pigeot
+  - Katja Restel
+  - Carsten Oliver Schmidt
+  - Dagmar Waltemath
+  - Atinkut Zeleke
+  description: 'This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.'
+  license: CC-BY-4.0
+  name: Training concepts in research data management and data science with the focus on health research
+  publication_date: '2023-08-22'
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Publication
+  url: https://repository.publisso.de/resource/frl:6453768
+  language: en
+- authors: 
+  - Fabio Crameri
+  description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
+  license: All rights reserved
+  name: Scientific colour maps
+  publication_date: '2023-10-05'
+  tags:
+  - FAIR-Principles
+  - Research Data Management
+  - exclude from DALIA
+  type:
+  - Website
+  url: https://www.fabiocrameri.ch/colourmaps/
+  language: en
+- authors: 
+  - Helena Klara Jambor 
+  description: 'Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.'
+  license: Copyright
+  name: A checklist for designing and improving the visualization of scientific data
+  publication_date: '2025-06-13'
+  tags:
+  - Copyright
+  - Research Data Management
+  - exclude from DALIA
+  type:
+  - Publication
+  url: https://www.nature.com/articles/s41556-025-01684-z.pdf
+  language: en
+- authors: 
+  - Booz Allen Hamilton
+  description: 'This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.'
+  license: Restrictive license
+  name: 2018 Data Science Bowl
+  publication_date: '2018-01-16'
+  tags:
+  - Nuclei images
+  - Restrictive license
+  - AI-ready
+  - exclude from DALIA
+  type:
+  - Data
+  url: https://www.kaggle.com/c/data-science-bowl-2018/data
+  language: en
+- authors: 
+  - Stephan Wienert
+  - Daniel Heim
+  - Kai Saeger
+  - Albrecht Stenzinger
+  - Michael Beil
+  - Peter Hufnagl
+  - Manfred Dietel
+  - Carsten Denkert 
+  - Frederick Klauschen 
+  description: 'A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.'
+  license: CC-BY-NC-SA-3.0
+  name: Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+  publication_date: '2012-07-11'
+  tags:
+  - Nuclei images
+  - AI-ready
+  - exclude from DALIA
+  type:
+  - Data
+  url: https://www.nature.com/articles/srep00503#Sec16
+  language: en
+- authors: 
+  - Naylor Peter Jack
+  - Walter Thomas
+  - Laé Marick
+  - Reyal Fabien
+  description: 'This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.'
+  license: CC-BY-4.0
+  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance map
+  publication_date: '2018-02-16'
+  tags:
+  - Nuclei images
+  - AI-ready
+  - exclude from DALIA
+  type:
+  - Data
+  url: https://zenodo.org/records/1175282#.WyP61xy-l5E 
+  language: en
 - authors:
   - Haase, Robert
   description: This slides covers aspects of research data management (RDM) and open
