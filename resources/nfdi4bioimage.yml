@@ -23860,7 +23860,8 @@ resources:
   - include in DALIA
   type: GitHub Repository
   url: https://github.com/kaabl/PygamePrompts
-- authors: 
+  uuid: b2c515fb-e34d-4906-b5f8-0fb8ca669763
+- authors:
   - Florian Ingelfinger
   - Nathan Levy
   - Can Ergen
@@ -23876,7 +23877,11 @@ resources:
   - Corinne C. Widmer
   - Ido Amit
   - Nir Yosef
-  description: 'CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.'
+  description: CytoVI is a probabilistic generative model that enables statistically
+    rigorous and integrative analysis of antibody-based single cell technologies,
+    outperforming existing methods and enabling key functionalities like cell embeddings
+    and differential protein expression testing, with applications in B cell maturation,
+    non-Hodgkin lymphoma, and diagnostic flow cytometry.
   license: CC-BY-4.0
   name: CytoVI Deep generative modeling of antibody-based single cell technologies
   publication_date: '2025-09-12'
@@ -23888,9 +23893,11 @@ resources:
   - Preprint
   url: https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1
   language: en
-- authors: 
+  uuid: 78a6739e-5068-4d85-bf7d-c3d79e001c26
+- authors:
   - Alberto Díez
-  description: 'Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. '
+  description: 'Introduction to basic concepts and tools needed to set up Python for
+    bioimage analysis on Windows. '
   license: UNKNOWN
   name: Python for Bioimage Analysis Basic Tools and Setup on Windows
   publication_date: '2025-09-04'
@@ -23901,18 +23908,23 @@ resources:
   - Video
   url: https://youtu.be/tzdFuxF2E3U
   language: en
-- authors: 
+  uuid: ac29d368-d4f0-4b70-b2fd-d65a7b5a025e
+- authors:
   - Riccardo Massei
   - Wibke Busch
   - Beatriz Serrano-Solano
   - Matthias Bernt
   - Stefan Scholz
   - Elena K. Nicolay
-  - Hannes Bohring 
-  - Jan Bumberger 
-  description: 'This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.'
+  - Hannes Bohring
+  - Jan Bumberger
+  description: This study demonstrates the use of Workflow Management Systems (WMS)
+    and the OMERO platform to create reusable semi-automatic workflows for managing
+    high-content screening (HCS) bioimaging data, improving data management efficiency,
+    reducing errors, and providing a blueprint for future HCS data management systems.
   license: CC-BY-4.0
-  name: High-content screening (HCS) workflows for FAIR image data management with OMERO
+  name: High-content screening (HCS) workflows for FAIR image data management with
+    OMERO
   publication_date: '2025-05-09'
   tags:
   - Bioimage Analysis
@@ -23922,12 +23934,15 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41598-025-00720-0
   language: en
-- authors: 
+  uuid: 88fe8efa-7012-4235-bbd0-631cf334043c
+- authors:
   - Niraj Kandpal
   - Peter Zentis
   - Monica Valencia-Schneider
   - Astrid Schauss
-  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. '
+  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange.
+    This describes the relevant metadata to transfer from OMERO to ARC and the other
+    way round. '
   license: CC-BY-4.0
   name: OMERO and ARC Workflow
   publication_date: '2025-04-15'
@@ -23939,10 +23954,14 @@ resources:
   - Slides
   url: https://zenodo.org/records/15225616
   language: en
-- authors: 
+  uuid: 11effefc-ea15-4ff5-b4fe-9760cb90a28b
+- authors:
   - Josh Moore
   - Yi Sun
-  description: 'In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.'
+  description: In this talk, we will be discussing OME-ZARR, a cloud-optimized format
+    for scalable bioimage data management, and BARD,  a cloud virtual desktop that
+    provides a seamless way to run resource-intensive applications in the cloud, enabling
+    users to access powerful computing environments from any device with a web browser.
   license: UNKNOWN
   name: NFDITalk Cloud based image data science
   publication_date: '2025-06-02'
@@ -23954,7 +23973,8 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=bzfmE29S270
   language: en
-- authors: 
+  uuid: 28cc634c-f16a-4bc4-b731-eb64e048e60d
+- authors:
   - Jens Dierkes
   - Julia Fürst
   - Tanja Hörner
@@ -23965,9 +23985,15 @@ resources:
   - Carsten Oliver Schmidt
   - Dagmar Waltemath
   - Atinkut Zeleke
-  description: 'This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.'
+  description: This handbook provides an overview of Research Data Management (RDM)
+    and FAIR principles, with a focus on practical implementation and training for
+    master students, doctoral researchers, and professionals in biomedical sciences.
+    The handbook is a living document that will be updated iteratively to address
+    the specific needs and requirements of the target group, with a focus on the NFDI4Health
+    domain.
   license: CC-BY-4.0
-  name: Training concepts in research data management and data science with the focus on health research
+  name: Training concepts in research data management and data science with the focus
+    on health research
   publication_date: '2023-08-22'
   tags:
   - FAIR-Principles
@@ -23977,9 +24003,11 @@ resources:
   - Publication
   url: https://repository.publisso.de/resource/frl:6453768
   language: en
-- authors: 
+  uuid: fc75b6f0-f29f-40bb-b76d-6c0e0eb738da
+- authors:
   - Fabio Crameri
-  description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
+  description: Scientific, colour-vision deficiency friendly and perceptually-uniform
+    colour maps that include all readers and significantly reduce visual errors.
   license: All rights reserved
   name: Scientific colour maps
   publication_date: '2023-10-05'
@@ -23991,9 +24019,14 @@ resources:
   - Website
   url: https://www.fabiocrameri.ch/colourmaps/
   language: en
-- authors: 
-  - Helena Klara Jambor 
-  description: 'Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.'
+  uuid: cd1c6e64-73ae-415f-bd3c-a1c407763b46
+- authors:
+  - Helena Klara Jambor
+  description: Creating clear and engaging scientific figures is crucial to communicate
+    complex data. In this Comment, I condense principles from design, visual perception
+    and data visualization research in a checklist that can help researchers to improve
+    their data visualization, by focusing on clarity, accessibility and design best
+    practices.
   license: Copyright
   name: A checklist for designing and improving the visualization of scientific data
   publication_date: '2025-06-13'
@@ -24005,9 +24038,13 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41556-025-01684-z.pdf
   language: en
-- authors: 
+  uuid: effd10a7-6f1a-4f1e-948c-802bf16e6699
+- authors:
   - Booz Allen Hamilton
-  description: 'This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.'
+  description: This dataset contains a large number of segmented nuclei images. The
+    images were acquired under a variety of conditions and vary in the cell type,
+    magnification, and imaging modality (brightfield vs. fluorescence). The dataset
+    is designed to challenge an algorithms ability to generalize across these variations.
   license: Restrictive license
   name: 2018 Data Science Bowl
   publication_date: '2018-01-16'
@@ -24020,7 +24057,8 @@ resources:
   - Data
   url: https://www.kaggle.com/c/data-science-bowl-2018/data
   language: en
-- authors: 
+  uuid: dfafa540-14b7-4e34-896d-5b19c531a0b5
+- authors:
   - Stephan Wienert
   - Daniel Heim
   - Kai Saeger
@@ -24028,11 +24066,16 @@ resources:
   - Michael Beil
   - Peter Hufnagl
   - Manfred Dietel
-  - Carsten Denkert 
-  - Frederick Klauschen 
-  description: 'A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.'
+  - Carsten Denkert
+  - Frederick Klauschen
+  description: A novel contour-based approach to cell detection and segmentation has
+    been developed, which uses minimal prior information and detects contours independently
+    of their shape, avoiding a segmentation bias. This approach has been shown to
+    accurately segment a broad range of normal and disease-related morphological features,
+    with high precision and recall rates.
   license: CC-BY-NC-SA-3.0
-  name: Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+  name: Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model
+    Approach
   publication_date: '2012-07-11'
   tags:
   - Nuclei images
@@ -24042,14 +24085,19 @@ resources:
   - Data
   url: https://www.nature.com/articles/srep00503#Sec16
   language: en
-- authors: 
+  uuid: 712f20ca-21fc-4cf6-8b06-5349006979c1
+- authors:
   - Naylor Peter Jack
   - Walter Thomas
   - Laé Marick
   - Reyal Fabien
-  description: 'This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.'
+  description: This dataset has been annonced in our accepted paper "Segmentation
+    of Nuclei in Histopathology Images by deep regression of the distance map" in
+    Transcation on Medical Imaging on the 13th of August. This dataset consists of
+    50 annotated images, divided into 11 patients.
   license: CC-BY-4.0
-  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance map
+  name: Segmentation of Nuclei in Histopathology Images by deep regression of the
+    distance map
   publication_date: '2018-02-16'
   tags:
   - Nuclei images
@@ -24057,8 +24105,9 @@ resources:
   - exclude from DALIA
   type:
   - Data
-  url: https://zenodo.org/records/1175282#.WyP61xy-l5E 
+  url: https://zenodo.org/records/1175282#.WyP61xy-l5E
   language: en
+  uuid: acee2628-5a74-40fe-98c0-8c3fe3dc73fc
 - authors:
   - Haase, Robert
   description: This slides covers aspects of research data management (RDM) and open
@@ -24072,6 +24121,7 @@ resources:
   url:
   - https://zenodo.org/records/17174207
   - https://doi.org/10.5281/zenodo.17174207
+  uuid: b85a3396-ba20-4e22-b4ef-0cf336ff2c9e
 - authors:
   - Alxneit, Ivo
   license: cc-by-4.0
@@ -24082,3 +24132,4 @@ resources:
   url:
   - https://zenodo.org/records/17176730
   - https://doi.org/10.5281/zenodo.17176730
+  uuid: a938b445-43ed-49a5-8c34-d7492a165d43
