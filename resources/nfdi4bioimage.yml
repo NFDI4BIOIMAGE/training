@@ -23955,6 +23955,11 @@ resources:
   url: https://zenodo.org/records/15225616
   language: en
   uuid: 11effefc-ea15-4ff5-b4fe-9760cb90a28b
+  authors_with_orcid:
+  - Niraj Kandpal https://orcid.org/0009-0007-5101-4786
+  - Peter Zentis https://orcid.org/0000-0002-6999-132X
+  - Monica Valencia-Schneider https://orcid.org/0000-0003-3430-2683
+  - Astrid Schauss https://orcid.org/0000-0002-6658-2192
 - authors:
   - Josh Moore
   - Yi Sun
@@ -24122,6 +24127,8 @@ resources:
   - https://zenodo.org/records/17174207
   - https://doi.org/10.5281/zenodo.17174207
   uuid: b85a3396-ba20-4e22-b4ef-0cf336ff2c9e
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Alxneit, Ivo
   license: cc-by-4.0
@@ -24133,3 +24140,5 @@ resources:
   - https://zenodo.org/records/17176730
   - https://doi.org/10.5281/zenodo.17176730
   uuid: a938b445-43ed-49a5-8c34-d7492a165d43
+  authors_with_orcid:
+  - Ivo Alxneit
