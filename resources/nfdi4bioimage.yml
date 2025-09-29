@@ -23960,6 +23960,7 @@ resources:
   - Peter Zentis https://orcid.org/0000-0002-6999-132X
   - Monica Valencia-Schneider https://orcid.org/0000-0003-3430-2683
   - Astrid Schauss https://orcid.org/0000-0002-6658-2192
+  file_formats: .pdf
 - authors:
   - Josh Moore
   - Yi Sun
@@ -24113,6 +24114,7 @@ resources:
   url: https://zenodo.org/records/1175282#.WyP61xy-l5E
   language: en
   uuid: acee2628-5a74-40fe-98c0-8c3fe3dc73fc
+  file_formats: null
 - authors:
   - Haase, Robert
   description: This slides covers aspects of research data management (RDM) and open
@@ -24129,6 +24131,7 @@ resources:
   uuid: b85a3396-ba20-4e22-b4ef-0cf336ff2c9e
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Alxneit, Ivo
   license: cc-by-4.0
@@ -24142,3 +24145,4 @@ resources:
   uuid: a938b445-43ed-49a5-8c34-d7492a165d43
   authors_with_orcid:
   - Ivo Alxneit
+  file_formats: .dm4
