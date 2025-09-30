@@ -8447,7 +8447,7 @@ Tags: Exclude From Dalia
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -8663,7 +8663,7 @@ Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
 
 Robert Haase
 
-Published 2025-09-22
+Published 2025-09-23
 
 Licensed CC-BY-4.0
 
@@ -8671,9 +8671,9 @@ Licensed CC-BY-4.0
 
 This slides covers aspects of research data management (RDM) and open science such as the RDM life cylce, FAIR principles, sharing data on Zenodo, rights and duties of scientists in the RDM context.
 
-[https://zenodo.org/records/17174207](https://zenodo.org/records/17174207)
+[https://zenodo.org/records/17186869](https://zenodo.org/records/17186869)
 
-[https://doi.org/10.5281/zenodo.17174207](https://doi.org/10.5281/zenodo.17174207)
+[https://doi.org/10.5281/zenodo.17186869](https://doi.org/10.5281/zenodo.17186869)
 
 
 ---

@@ -1163,7 +1163,7 @@ Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
 
 Robert Haase
 
-Published 2025-09-22
+Published 2025-09-23
 
 Licensed CC-BY-4.0
 
@@ -1171,9 +1171,9 @@ Licensed CC-BY-4.0
 
 This slides covers aspects of research data management (RDM) and open science such as the RDM life cylce, FAIR principles, sharing data on Zenodo, rights and duties of scientists in the RDM context.
 
-[https://zenodo.org/records/17174207](https://zenodo.org/records/17174207)
+[https://zenodo.org/records/17186869](https://zenodo.org/records/17186869)
 
-[https://doi.org/10.5281/zenodo.17174207](https://doi.org/10.5281/zenodo.17174207)
+[https://doi.org/10.5281/zenodo.17186869](https://doi.org/10.5281/zenodo.17186869)
 
 
 ---
