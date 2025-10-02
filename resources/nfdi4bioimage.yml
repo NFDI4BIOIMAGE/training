@@ -24159,3 +24159,16 @@ resources:
   url:
   - https://zenodo.org/records/17186869
   - https://doi.org/10.5281/zenodo.17186869
+
+- authors:
+  - Mona Perbix
+  - "Matthias L\xF6be"
+  description: ''
+  license: Creative Commons Attribution 4.0 International
+  name: MI-Lab-E04-FDM
+  publication_date: '2024-10-25T09:54:29+00:00'
+  submission_date: '2025-10-02T05:53:51.837117'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/IMISE/MI-Lab-E04-FDM
+  
