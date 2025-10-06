@@ -24161,3 +24161,4 @@ resources:
   - https://doi.org/10.5281/zenodo.17186869
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
