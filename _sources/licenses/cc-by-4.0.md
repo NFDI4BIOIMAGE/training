@@ -1,4 +1,4 @@
-# Cc-by-4.0 (414)
+# Cc-by-4.0 (417)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -4002,6 +4002,27 @@ Tags: Exclude From Dalia
 
 ---
 
+## Global cooperation in Research Infrastructures: the EU-CELAC case, with focus on bioimaging and structural biology
+
+Instruct-ERIC, Euro-BioImaging ERIC, Institut Pasteur de Montevideo, Institut Pasteur, Universidade de São Paulo, Universidad de la República, Chan Zuckerberg Initiative (United States), Universidad de la Ciudad de Buenos Aires, Universidade Federal do Rio de Janeiro, Brazilian Center for Research in Energy and Materials
+
+Published 2025-09-18
+
+Licensed CC-BY-4.0
+
+
+
+This White Paper outlines a strategic approach to further develop the collaboration among Research Infrastructures (RIs) in the European Union (EU) and the Community of Latin American and Caribbean States (CELAC, for its acronym in Spanish/Portuguese), prioritising long-term planning and commitment, sustainability, open access, and scientific excellence. Building upon existing policy frameworks, particularly the EU-CELAC Working Group on Research Infrastructures, this document proposes concrete mechanisms to strengthen bi-regional cooperation in research and innovation, in the context of shared values and global scientific needs.
+Research Infrastructures (RIs) are key enablers of scientific progress and innovation, especially in advanced domains such as artificial intelligence, big data, and biomedicine. Their value lies not only in the high performance of their sophisticated equipment, but also in the advanced expertise of RI researchers and technical staff. Global challenges&mdash;like pandemics, climate change, and energy transition&mdash;require robust and internationally connected RIs supported by stable, long-term institutional commitments.
+This White Paper focuses on strengthening RI collaboration between European and CELAC countries, particularly in Bioimaging and Structural Biology, which already have established network partnerships through Euro-BioImaging ERIC / Latin America BioImaging, and Instruct-ERIC / Mercosur Structural Biology Center. The document serves as a roadmap for expanding EU&ndash;CELAC cooperation, building upon previous collaborative projects, and proposing new mechanisms for sustainable engagement.
+
+[https://zenodo.org/records/17152974](https://zenodo.org/records/17152974)
+
+[https://doi.org/10.5281/zenodo.17152974](https://doi.org/10.5281/zenodo.17152974)
+
+
+---
+
 ## Ground-truth cell body segmentation used for Starfinity training
 
 Yuhan Wang, Martin Weigert, Uwe Schmidt, Stephan Saalfeld, Eugene W. Myers, Tim Wang, Karel Svoboda, Mark Eddison, Greg Fleishman, Shengjin Xu, Fredrick E. Henry, Andrew L. Lemire, Hui Yang, Konrad Rokicki, Cristian Goina, Eugene W Myers, Wyatt Korff, Scott M. Sternson, Paul W. Tillberg
@@ -6133,6 +6154,28 @@ Content type: Slides
 [https://zenodo.org/records/10679054](https://zenodo.org/records/10679054)
 
 [https://doi.org/10.5281/zenodo.10679054](https://doi.org/10.5281/zenodo.10679054)
+
+
+---
+
+## NFDI Life Science Consortia – Supporting your journey to FAIR research data
+
+Ulrik Stervbo, Dominik Brilhaus, Justine Vandendorpe, Julia Fürst, Stefanie Weidtkamp-Peters
+
+Published 2025-10-02
+
+Licensed CC-BY-4.0
+
+
+
+Presentation at the HHU Core Facility Day 2025
+18.09.2025, University of D&uuml;sseldorf
+&nbsp;
+NFDI consortia are legally non-independent projects that do not act autonomously towards third parties. The authors of this presentation represent the contributions to these projects as members of their affiliated institutions, which are members of the NFDI e.V.
+
+[https://zenodo.org/records/17251110](https://zenodo.org/records/17251110)
+
+[https://doi.org/10.5281/zenodo.17251110](https://doi.org/10.5281/zenodo.17251110)
 
 
 ---
@@ -11219,6 +11262,26 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/5675686](https://zenodo.org/records/5675686)
 
 [https://doi.org/10.5281/zenodo.5675686](https://doi.org/10.5281/zenodo.5675686)
+
+
+---
+
+## Test data for Bioformats Issue #116781
+
+Anna Rappe
+
+Published 2025-10-03
+
+Licensed CC-BY-4.0
+
+
+
+Test data, for reference see link below.
+https://forum.image.sc/t/how-to-open-ims-files-in-fiji-on-mac/116781
+
+[https://zenodo.org/records/17257407](https://zenodo.org/records/17257407)
+
+[https://doi.org/10.5281/zenodo.17257407](https://doi.org/10.5281/zenodo.17257407)
 
 
 ---

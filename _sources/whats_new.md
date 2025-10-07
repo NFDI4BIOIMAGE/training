@@ -1,25 +1,4 @@
 # Recently added (9)
-## A Perspective on FAIR and Scalable Access to Large Image Data
-
-Julia Thönnißen, Sarah Oliveira, Alexander Oberstrass, Jan-Oliver Kropp, Xiao Gui, Christian Schiffer, Timo Dickscheid
-
-Published 2025-08-04
-
-Licensed CC-BY-4.0
-
-
-
-The rapid development of new imaging technologies across scientific domains–especially high-throughput technologies–results in a growing volume of image datasets in the Tera- to Petabyte scale. Efficient visualization and analysis of such massive image resources is critical but remains challenging due to the sheer size of the data, its continuous growth, and the limitations of conventional software tools to address these problems. Tools for visualization, annotation and analysis of large image data are confronted with the fundamental dilemma of balancing computational efficiency and memory requirements. Many tools are unable to process large datasets due to memory constraints, requiring workarounds like downsampling. On the other hand, solutions that can handle large data efficiently often rely on specialized or even proprietary file formats, limiting interoperability with other software. This reflects diverging requirements: storage favours compression for efficiency, analysis demands fast data access, and visualization requires tiled, multi-resolution representations. Lacking a unified approach for these conflicting needs, the operation of large and dynamically evolving image repositories in practice often requires undesirable data conversions and costly data duplication. In addressing these challenges, the bioimaging community increasingly adheres to the FAIR principles [1] through national and international initiatives [2], [3], [4]. For example, the Open Microscopy Environment (OME) fosters standards such as OME-TIFF [5] and its cloud-native successor OME-NGFF [6]; BioFormats [7] and OMERO [8] facilitate metadata-rich data handling across diverse platforms; and BrAinPI [9] provides web-based visualization of images via Neuroglancer [10]. These tools represent important developments towards more efficient and standardized use of bioimaging data. However, for very large and dynamically growing repositories, it is still not feasible to settle on a single standard for a subset of these tools, in particular in the light of very diverging needs for massively parallel processing on HPC systems. Therefore, converting data to a single target format is often not a practical solution. We propose a concept for a modular image delivery service which acts as a middleware between large image data resources and applications, serving image data from a cloud resource in multiple requested representations on demand. The service allows reading data stored in different input file formats, applying coordinate transformations and filtering operations on-the-fly, and serving the results in a range of different output formats and layouts. Building upon a common framework for reading and transforming data, an extensible set of access points connects the service to client applications: Lightweight REST APIs allow web-based mutli-resolution access (e.g., in common formats such as used in Neuroglancer and OpenSeadragon base viewers); mountable filesystem interfaces enable linking the repository to file-oriented solutions (e.g., OMERO, ImageJ); and programmatic access from customizable software tools (e.g., Napari). To provide compatibility with upcoming image data standards like BIDS [11] and minimize conversion efforts, the service is able to dynamically expose standard-conform views into arbitrarily organized datasets. The proposed approach for reading and transforming data on-the-fly eliminates the need for redundant storage and application-specific conversions of datasets, improving workflow efficiency and sustainability. In summary, we advocate for the development of a flexible and extensible image data service that supports large-scale analysis, dynamic transformations, multi-tool interoperability, and compatibility with community standards for large image datasets. This way it supports the FAIR principles, reduces integration barriers, meets the performance demands of modern imaging research, and still fosters the use of existing community developments.
-
-Tags: Include In Dalia
-
-[https://zenodo.org/records/16736220](https://zenodo.org/records/16736220)
-
-[https://doi.org/10.5281/zenodo.16736220](https://doi.org/10.5281/zenodo.16736220)
-
-
----
-
 ## COBA-NIH/2024_Bridging_Imaging_Users_to_Imaging_Analysis_Survey: Survey data with preliminary exploration
 
 Erin Weisbart
@@ -41,23 +20,23 @@ Tags: Exclude From Dalia
 
 ---
 
-## Cloud-Based Virtual Desktops for Reproducible Research
+## Global cooperation in Research Infrastructures: the EU-CELAC case, with focus on bioimaging and structural biology
 
-Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
+Instruct-ERIC, Euro-BioImaging ERIC, Institut Pasteur de Montevideo, Institut Pasteur, Universidade de São Paulo, Universidad de la República, Chan Zuckerberg Initiative (United States), Universidad de la Ciudad de Buenos Aires, Universidade Federal do Rio de Janeiro, Brazilian Center for Research in Energy and Materials
 
-Published 2025-09-10
+Published 2025-09-18
 
 Licensed CC-BY-4.0
 
 
 
-Reproducing computing environments become increasingly challenging in research, especially when compute-intensive scientific workflows require specialised software stacks, specialized hardware (e.g. GPUs), and interactive analysis tools. While traditional high-performance computing (HPC) systems offer scalable resources for batch processing, they don't easily support interactive workflows. On the other hand, workstations have fixed resources  and face workflow deployment challenges because conflicts can occur when multiple tools and dependencies are deployed into the same environment. To address these limitations, we present cloud-based virtual desktop platforms, built on the desktop-as-a-service (DaaS) model, using a containerised, cloud-native approach.  Our platforms offer on-demand, customized desktop environments accessible from any web browser, with dynamic allocation of CPU, memory, and GPU resources for efficient utilization of resources. We introduce two types of virtual desktops: BAND, built on top of a Slurm scheduler and BARD, using Kubernetes. In both cases, containerization ensures consistent and reproducible environments across sessions and pre-installed software improves accessibility for researchers. Deployment and system administration are also simplified through the use of orchestration and automation tools.  Our virtual desktop platforms are particularly valuable for bioimage analysis, which requires complex workflows involving high interactivity, multiple software and GPU acceleration. By combining containerization and cloud-native services, BAND and BARD offer a scalable and sustainable model for delivering interactive, reproducible research environments.
+This White Paper outlines a strategic approach to further develop the collaboration among Research Infrastructures (RIs) in the European Union (EU) and the Community of Latin American and Caribbean States (CELAC, for its acronym in Spanish/Portuguese), prioritising long-term planning and commitment, sustainability, open access, and scientific excellence. Building upon existing policy frameworks, particularly the EU-CELAC Working Group on Research Infrastructures, this document proposes concrete mechanisms to strengthen bi-regional cooperation in research and innovation, in the context of shared values and global scientific needs.
+Research Infrastructures (RIs) are key enablers of scientific progress and innovation, especially in advanced domains such as artificial intelligence, big data, and biomedicine. Their value lies not only in the high performance of their sophisticated equipment, but also in the advanced expertise of RI researchers and technical staff. Global challenges&mdash;like pandemics, climate change, and energy transition&mdash;require robust and internationally connected RIs supported by stable, long-term institutional commitments.
+This White Paper focuses on strengthening RI collaboration between European and CELAC countries, particularly in Bioimaging and Structural Biology, which already have established network partnerships through Euro-BioImaging ERIC / Latin America BioImaging, and Instruct-ERIC / Mercosur Structural Biology Center. The document serves as a roadmap for expanding EU&ndash;CELAC cooperation, building upon previous collaborative projects, and proposing new mechanisms for sustainable engagement.
 
-Tags: Nfdi4Bioimage, Exclude From Dalia
+[https://zenodo.org/records/17152974](https://zenodo.org/records/17152974)
 
-[https://zenodo.org/records/17092303](https://zenodo.org/records/17092303)
-
-[https://doi.org/10.5281/zenodo.17092303](https://doi.org/10.5281/zenodo.17092303)
+[https://doi.org/10.5281/zenodo.17152974](https://doi.org/10.5281/zenodo.17152974)
 
 
 ---
@@ -83,6 +62,28 @@ Tags: Include In Dalia
 
 ---
 
+## NFDI Life Science Consortia – Supporting your journey to FAIR research data
+
+Ulrik Stervbo, Dominik Brilhaus, Justine Vandendorpe, Julia Fürst, Stefanie Weidtkamp-Peters
+
+Published 2025-10-02
+
+Licensed CC-BY-4.0
+
+
+
+Presentation at the HHU Core Facility Day 2025
+18.09.2025, University of D&uuml;sseldorf
+&nbsp;
+NFDI consortia are legally non-independent projects that do not act autonomously towards third parties. The authors of this presentation represent the contributions to these projects as members of their affiliated institutions, which are members of the NFDI e.V.
+
+[https://zenodo.org/records/17251110](https://zenodo.org/records/17251110)
+
+[https://doi.org/10.5281/zenodo.17251110](https://doi.org/10.5281/zenodo.17251110)
+
+
+---
+
 ## PygamePrompts
 
 Lea Kabjesz, Lea Gihlein, Mara Lampert, FPGro
@@ -104,27 +105,6 @@ Content type: Github Repository
 
 ---
 
-## Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI
-
-Robert Haase
-
-Published 2025-09-09
-
-Licensed CC-BY-4.0
-
-
-
-In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
-
-Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
-
-[https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
-
-[https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
-
-
----
-
 ## Research Data Management
 
 Robert Haase
@@ -140,6 +120,26 @@ This slides covers aspects of research data management (RDM) and open science su
 [https://zenodo.org/records/17174207](https://zenodo.org/records/17174207)
 
 [https://doi.org/10.5281/zenodo.17174207](https://doi.org/10.5281/zenodo.17174207)
+
+
+---
+
+## Test data for Bioformats Issue #116781
+
+Anna Rappe
+
+Published 2025-10-03
+
+Licensed CC-BY-4.0
+
+
+
+Test data, for reference see link below.
+https://forum.image.sc/t/how-to-open-ims-files-in-fiji-on-mac/116781
+
+[https://zenodo.org/records/17257407](https://zenodo.org/records/17257407)
+
+[https://doi.org/10.5281/zenodo.17257407](https://doi.org/10.5281/zenodo.17257407)
 
 
 ---

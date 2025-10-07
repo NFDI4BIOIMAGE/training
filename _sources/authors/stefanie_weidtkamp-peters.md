@@ -1,4 +1,4 @@
-# Stefanie weidtkamp-peters (15)
+# Stefanie weidtkamp-peters (16)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -387,6 +387,28 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
 
 [https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
+
+
+---
+
+## NFDI Life Science Consortia – Supporting your journey to FAIR research data
+
+Ulrik Stervbo, Dominik Brilhaus, Justine Vandendorpe, Julia Fürst, Stefanie Weidtkamp-Peters
+
+Published 2025-10-02
+
+Licensed CC-BY-4.0
+
+
+
+Presentation at the HHU Core Facility Day 2025
+18.09.2025, University of D&uuml;sseldorf
+&nbsp;
+NFDI consortia are legally non-independent projects that do not act autonomously towards third parties. The authors of this presentation represent the contributions to these projects as members of their affiliated institutions, which are members of the NFDI e.V.
+
+[https://zenodo.org/records/17251110](https://zenodo.org/records/17251110)
+
+[https://doi.org/10.5281/zenodo.17251110](https://doi.org/10.5281/zenodo.17251110)
 
 
 ---

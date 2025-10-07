@@ -1,4 +1,4 @@
-# Euro-bioimaging eric (12)
+# Euro-bioimaging eric (13)
 ## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
 
 Euro-BioImaging ERIC
@@ -193,6 +193,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
 
 [https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
+
+
+---
+
+## Global cooperation in Research Infrastructures: the EU-CELAC case, with focus on bioimaging and structural biology
+
+Instruct-ERIC, Euro-BioImaging ERIC, Institut Pasteur de Montevideo, Institut Pasteur, Universidade de São Paulo, Universidad de la República, Chan Zuckerberg Initiative (United States), Universidad de la Ciudad de Buenos Aires, Universidade Federal do Rio de Janeiro, Brazilian Center for Research in Energy and Materials
+
+Published 2025-09-18
+
+Licensed CC-BY-4.0
+
+
+
+This White Paper outlines a strategic approach to further develop the collaboration among Research Infrastructures (RIs) in the European Union (EU) and the Community of Latin American and Caribbean States (CELAC, for its acronym in Spanish/Portuguese), prioritising long-term planning and commitment, sustainability, open access, and scientific excellence. Building upon existing policy frameworks, particularly the EU-CELAC Working Group on Research Infrastructures, this document proposes concrete mechanisms to strengthen bi-regional cooperation in research and innovation, in the context of shared values and global scientific needs.
+Research Infrastructures (RIs) are key enablers of scientific progress and innovation, especially in advanced domains such as artificial intelligence, big data, and biomedicine. Their value lies not only in the high performance of their sophisticated equipment, but also in the advanced expertise of RI researchers and technical staff. Global challenges&mdash;like pandemics, climate change, and energy transition&mdash;require robust and internationally connected RIs supported by stable, long-term institutional commitments.
+This White Paper focuses on strengthening RI collaboration between European and CELAC countries, particularly in Bioimaging and Structural Biology, which already have established network partnerships through Euro-BioImaging ERIC / Latin America BioImaging, and Instruct-ERIC / Mercosur Structural Biology Center. The document serves as a roadmap for expanding EU&ndash;CELAC cooperation, building upon previous collaborative projects, and proposing new mechanisms for sustainable engagement.
+
+[https://zenodo.org/records/17152974](https://zenodo.org/records/17152974)
+
+[https://doi.org/10.5281/zenodo.17152974](https://doi.org/10.5281/zenodo.17152974)
 
 
 ---
