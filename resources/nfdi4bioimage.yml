@@ -24166,7 +24166,7 @@ resources:
   - Stervbo, Ulrik
   - Brilhaus, Dominik
   - Vandendorpe, Justine
-  - "F\xFCrst, Julia"
+  - Fürst, Julia
   - Weidtkamp-Peters, Stefanie
   description: 'Presentation at the HHU Core Facility Day 2025
 
@@ -24179,21 +24179,21 @@ resources:
     to these projects as members of their affiliated institutions, which are members
     of the NFDI e.V.'
   license: cc-by-4.0
-  name: "NFDI Life Science Consortia \u2013 Supporting your journey to FAIR research\
-    \ data"
+  name: NFDI Life Science Consortia – Supporting your journey to FAIR research data
   num_downloads: 16
   publication_date: '2025-10-02'
   submission_date: '2025-10-07T11:19:38.502429'
   url:
   - https://zenodo.org/records/17251110
   - https://doi.org/10.5281/zenodo.17251110
+  file_formats: .pdf
 - authors:
   - Instruct-ERIC
   - Euro-BioImaging ERIC
   - Institut Pasteur de Montevideo
   - Institut Pasteur
-  - "Universidade de S\xE3o Paulo"
-  - "Universidad de la Rep\xFAblica"
+  - Universidade de São Paulo
+  - Universidad de la República
   - Chan Zuckerberg Initiative (United States)
   - Universidad de la Ciudad de Buenos Aires
   - Universidade Federal do Rio de Janeiro
@@ -24230,6 +24230,7 @@ resources:
   url:
   - https://zenodo.org/records/17152974
   - https://doi.org/10.5281/zenodo.17152974
+  file_formats: .pdf
 - authors:
   - Rappe, Anna
   description: 'Test data, for reference see link below.
@@ -24243,3 +24244,4 @@ resources:
   url:
   - https://zenodo.org/records/17257407
   - https://doi.org/10.5281/zenodo.17257407
+  file_formats: .ims
