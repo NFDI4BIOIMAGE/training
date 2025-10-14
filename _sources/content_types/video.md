@@ -394,7 +394,7 @@ Content type: Collection, Video
 
 Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
-Published 2025-05-12:T13:37:00+00:00
+Published 2025-05-12
 
 Licensed CC-BY-4.0
 

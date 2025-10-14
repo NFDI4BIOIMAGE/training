@@ -1975,7 +1975,7 @@ Content type: Slides
 
 Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
-Published 2025-05-12:T13:37:00+00:00
+Published 2025-05-12
 
 Licensed CC-BY-4.0
 
@@ -3093,7 +3093,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

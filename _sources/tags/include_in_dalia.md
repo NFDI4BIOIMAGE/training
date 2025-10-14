@@ -2015,7 +2015,7 @@ Tags: Nfdi4Bioimage, Research Data Managementv, Include In Dalia
 
 Uli Hahn, Kerstin Helbig, Gerald Jagusch, Jessica Rex
 
-Published  2018-10-22
+Published 2018-10-22
 
 Licensed CC-BY-4.0
 
@@ -2103,8 +2103,6 @@ Content type: Slides, Tutorial
 ## Expansion and fluctuations-enhanced microscopy for nanoscale molecular profiling of cells and tissues - Data processing manual
 
 Dominik Kylies, Heil, Hannah S., Vesga, Arturo G., Del Rosario, Mario, Maria Schwerk, Malte Kuehl, Wong, Milagros N., Victor Puelles, Ricardo Henriques
-
-Published 2023/2024
 
 Licensed CC-BY-4.0
 
@@ -3352,7 +3350,7 @@ Content type: Slides
 
 Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
-Published 2025-05-12:T13:37:00+00:00
+Published 2025-05-12
 
 Licensed CC-BY-4.0
 
