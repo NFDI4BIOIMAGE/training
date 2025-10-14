@@ -24244,3 +24244,21 @@ resources:
   - https://zenodo.org/records/17257407
   - https://doi.org/10.5281/zenodo.17257407
   file_formats: .ims
+
+- authors:
+  - Haase, Robert
+  description: In this slide deck we dive into Large Language Models (LLMs) and Vision
+    Language Models (VLMs) for Bio-image Analysis. We test their capabilities for object
+    counting, pointing at objects and drawing bounding boxes around them. We also dive
+    into VLMs deciding for segmentation algorithms and LLMs for code generation. We
+    see bia-bob, git-bob and [alice] in action, which represent three generations of
+    AI-based coding assistants analysing image data increasingly autonomously.
+  license: cc-by-4.0
+  name: How Large Language Models impact Bio-Image Data Science
+  num_downloads: 189
+  publication_date: '2025-09-11'
+  submission_date: '2025-10-14T14:36:08.987371'
+  url:
+  - https://zenodo.org/records/17102027
+  - https://doi.org/10.5281/zenodo.17102027
+  
