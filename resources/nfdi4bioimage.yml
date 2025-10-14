@@ -5981,7 +5981,7 @@ resources:
   - include in DALIA
   type:
   - Publication
-  publication_date: ' 2018-10-22'
+  publication_date: '2018-10-22'
   url:
   - https://bausteine-fdm.de/article/view/7945
   - https://doi.org/10.17192/bfdm.2018.1.7945
@@ -14515,7 +14515,7 @@ resources:
   - Tutorial
   - Slides
   license: cc-by-4.0
-  publication_date: 2025-05-12:T13:37:00+00:00
+  publication_date: '2025-05-12'
   tags:
   - NFDI4Bioimage
   - jipipe
@@ -19998,7 +19998,6 @@ resources:
   name: Expansion and fluctuations-enhanced microscopy for nanoscale molecular profiling
     of cells and tissues - Data processing manual
   num_downloads: 156
-  publication_date: 2023/2024
   submission_date: '2025-07-05T21:50:21.910963'
   url:
   - https://zenodo.org/records/13897937
