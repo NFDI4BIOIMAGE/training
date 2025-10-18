@@ -24161,6 +24161,7 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
+  uuid: d6aa6c7e-758f-4213-a1f6-d3d5818798a5
 - authors:
   - Stervbo, Ulrik
   - Brilhaus, Dominik
@@ -24186,6 +24187,7 @@ resources:
   - https://zenodo.org/records/17251110
   - https://doi.org/10.5281/zenodo.17251110
   file_formats: .pdf
+  uuid: 4fded864-8989-41a6-a7a4-ffe12dc64d90
 - authors:
   - Instruct-ERIC
   - Euro-BioImaging ERIC
@@ -24230,6 +24232,7 @@ resources:
   - https://zenodo.org/records/17152974
   - https://doi.org/10.5281/zenodo.17152974
   file_formats: .pdf
+  uuid: 1d0a207c-afd3-4b36-8c0a-2ca26acf5df7
 - authors:
   - Rappe, Anna
   description: 'Test data, for reference see link below.
@@ -24244,3 +24247,4 @@ resources:
   - https://zenodo.org/records/17257407
   - https://doi.org/10.5281/zenodo.17257407
   file_formats: .ims
+  uuid: ec5ef84e-645d-48bb-a941-d86e31dcd966
