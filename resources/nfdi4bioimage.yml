@@ -24186,6 +24186,12 @@ resources:
   - https://zenodo.org/records/17251110
   - https://doi.org/10.5281/zenodo.17251110
   file_formats: .pdf
+  authors_with_orcid:
+  - Ulrik Stervbo https://orcid.org/0000-0002-2831-8868
+  - Dominik Brilhaus https://orcid.org/0000-0001-9021-3197
+  - Justine Vandendorpe https://orcid.org/0000-0002-9421-8582
+  - Julia Fürst
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Instruct-ERIC
   - Euro-BioImaging ERIC
@@ -24230,6 +24236,17 @@ resources:
   - https://zenodo.org/records/17152974
   - https://doi.org/10.5281/zenodo.17152974
   file_formats: .pdf
+  authors_with_orcid:
+  - Instruct-ERIC
+  - Euro-BioImaging ERIC
+  - Institut Pasteur de Montevideo
+  - Institut Pasteur
+  - Universidade de São Paulo
+  - Universidad de la República
+  - Chan Zuckerberg Initiative (United States)
+  - Universidad de la Ciudad de Buenos Aires
+  - Universidade Federal do Rio de Janeiro
+  - Brazilian Center for Research in Energy and Materials
 - authors:
   - Rappe, Anna
   description: 'Test data, for reference see link below.
@@ -24244,3 +24261,5 @@ resources:
   - https://zenodo.org/records/17257407
   - https://doi.org/10.5281/zenodo.17257407
   file_formats: .ims
+  authors_with_orcid:
+  - Anna Rappe
