@@ -1,4 +1,4 @@
-# Thomas zobel (7)
+# Thomas zobel (8)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -63,6 +63,46 @@ Content type: Slides, Video
 [https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
 
 [https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
+## MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your Research Data
+
+Thomas Zobel
+
+Published 2025-10-08
+
+Licensed CC-BY-4.0
+
+
+
+MetaFold simplifies laboratory data management through easy-to-use templates that create reproducible metadata.It reduces manual steps by automatically generating folder structures and metadata files at multiple locations simultaneously.Thanks to its integration with OMERO and ELNs, microscopy data can be automatically imported based on the existing metadata &mdash; saving researchers significant time and effort.
+Core functions
+
+
+Template-based creation of project folders and metadata forms
+
+
+Multi-user and group-level configuration
+
+
+Secure credential storage and user authentication
+
+
+Direct integrations with elabFTW (ELN) and OMERO (image data management)
+
+
+Project discovery: recursive scan and visualization of existing data
+
+
+Category system: customizable templates by project type
+
+
+
+[https://zenodo.org/records/17296688](https://zenodo.org/records/17296688)
+
+[https://doi.org/10.5281/zenodo.17296688](https://doi.org/10.5281/zenodo.17296688)
 
 
 ---

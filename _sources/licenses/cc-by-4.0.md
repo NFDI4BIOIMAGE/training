@@ -1,4 +1,4 @@
-# Cc-by-4.0 (417)
+# Cc-by-4.0 (418)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -5841,6 +5841,46 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
 
 [https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
+
+
+---
+
+## MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your Research Data
+
+Thomas Zobel
+
+Published 2025-10-08
+
+Licensed CC-BY-4.0
+
+
+
+MetaFold simplifies laboratory data management through easy-to-use templates that create reproducible metadata.It reduces manual steps by automatically generating folder structures and metadata files at multiple locations simultaneously.Thanks to its integration with OMERO and ELNs, microscopy data can be automatically imported based on the existing metadata &mdash; saving researchers significant time and effort.
+Core functions
+
+
+Template-based creation of project folders and metadata forms
+
+
+Multi-user and group-level configuration
+
+
+Secure credential storage and user authentication
+
+
+Direct integrations with elabFTW (ELN) and OMERO (image data management)
+
+
+Project discovery: recursive scan and visualization of existing data
+
+
+Category system: customizable templates by project type
+
+
+
+[https://zenodo.org/records/17296688](https://zenodo.org/records/17296688)
+
+[https://doi.org/10.5281/zenodo.17296688](https://doi.org/10.5281/zenodo.17296688)
 
 
 ---

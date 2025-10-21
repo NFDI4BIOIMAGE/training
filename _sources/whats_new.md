@@ -41,23 +41,42 @@ This White Paper focuses on strengthening RI collaboration between European and 
 
 ---
 
-## Image Analysis in Healthcare - The Current Landscape, Trends, and Collaborative Opportunities
+## MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your Research Data
 
-Martin Schätz, Pérez Koldenkova, Vadim
+Thomas Zobel
 
-Published 2025-09-09
+Published 2025-10-08
 
 Licensed CC-BY-4.0
 
 
 
-Workshop presentation from XXXIV Foro de Investigaci&oacute;n en Salud 2025.
+MetaFold simplifies laboratory data management through easy-to-use templates that create reproducible metadata.It reduces manual steps by automatically generating folder structures and metadata files at multiple locations simultaneously.Thanks to its integration with OMERO and ELNs, microscopy data can be automatically imported based on the existing metadata &mdash; saving researchers significant time and effort.
+Core functions
 
-Tags: Include In Dalia
 
-[https://zenodo.org/records/17080219](https://zenodo.org/records/17080219)
+Template-based creation of project folders and metadata forms
 
-[https://doi.org/10.5281/zenodo.17080219](https://doi.org/10.5281/zenodo.17080219)
+
+Multi-user and group-level configuration
+
+
+Secure credential storage and user authentication
+
+
+Direct integrations with elabFTW (ELN) and OMERO (image data management)
+
+
+Project discovery: recursive scan and visualization of existing data
+
+
+Category system: customizable templates by project type
+
+
+
+[https://zenodo.org/records/17296688](https://zenodo.org/records/17296688)
+
+[https://doi.org/10.5281/zenodo.17296688](https://doi.org/10.5281/zenodo.17296688)
 
 
 ---
