@@ -251,7 +251,7 @@ Content type: Slides, Code, Notebook
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
