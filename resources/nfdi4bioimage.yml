@@ -24309,3 +24309,63 @@ resources:
   url:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
+
+- authors:
+  - Kather, Jakob Nikolas
+  - Halama, Niels
+  - Marx, Alexander
+  description: "Data Description &quot;NCT-CRC-HE-100K&quot;\n\n\n\tThis is a set of\
+    \ 100,000 non-overlapping image patches from hematoxylin &amp; eosin (H&amp;E) stained\
+    \ histological images of human colorectal cancer (CRC) and normal tissue.\n\tAll\
+    \ images are 224x224 pixels (px) at 0.5 microns per pixel (MPP). All images are\
+    \ color-normalized using Macenko&#39;s method (http://ieeexplore.ieee.org/abstract/document/5193250/,\
+    \ DOI 10.1109/ISBI.2009.5193250).\n\tTissue classes are: Adipose (ADI), background\
+    \ (BACK), debris (DEB), lymphocytes (LYM), mucus (MUC), smooth muscle (MUS), normal\
+    \ colon mucosa (NORM), cancer-associated stroma (STR), colorectal adenocarcinoma\
+    \ epithelium (TUM).\n\tThese images were manually extracted from N=86 H&amp;E stained\
+    \ human cancer tissue slides from formalin-fixed paraffin-embedded (FFPE) samples\
+    \ from the NCT Biobank (National Center for Tumor Diseases, Heidelberg, Germany)\
+    \ and the UMM pathology archive (University Medical Center Mannheim, Mannheim, Germany).\
+    \ Tissue samples contained CRC primary tumor slides and tumor tissue from CRC liver\
+    \ metastases; normal tissue classes were augmented with non-tumorous regions from\
+    \ gastrectomy specimen to increase variability.\n\n\nEthics statement &quot;NCT-CRC-HE-100K&quot;\n\
+    \nAll experiments were conducted in accordance with the Declaration of Helsinki,\
+    \ the International Ethical Guidelines for Biomedical Research Involving Human Subjects\
+    \ (CIOMS), the Belmont Report and the U.S. Common Rule. Anonymized archival tissue\
+    \ samples were retrieved from the tissue bank of the National Center for Tumor diseases\
+    \ (NCT, Heidelberg, Germany) in accordance with the regulations of the tissue bank\
+    \ and the approval of the ethics committee of Heidelberg University (tissue bank\
+    \ decision numbers 2152 and 2154, granted to Niels Halama and Jakob Nikolas Kather;\
+    \ informed consent was obtained from all patients as part of the NCT tissue bank\
+    \ protocol, ethics board approval S-207/2005, renewed on 20 Dec 2017). Another set\
+    \ of tissue samples was provided by the pathology archive at UMM (University Medical\
+    \ Center Mannheim, Heidelberg University, Mannheim, Germany) after approval by the\
+    \ institutional ethics board (Ethics Board II at University Medical Center Mannheim,\
+    \ decision number 2017-806R-MA, granted to Alexander Marx and waiving the need for\
+    \ informed consent for this retrospective and fully anonymized analysis of archival\
+    \ samples).\n\nData set &quot;CRC-VAL-HE-7K&quot;\n\nThis is a set of 7180 image\
+    \ patches from N=50 patients with colorectal adenocarcinoma (no overlap with patients\
+    \ in NCT-CRC-HE-100K). It can be used as a validation set for models trained on\
+    \ the larger data set. Like in the larger data set, images are 224x224 px at 0.5\
+    \ MPP. All tissue samples were provided by the NCT tissue bank, see above for further\
+    \ details and ethics statement.\n\nData set &quot;NCT-CRC-HE-100K-NONORM&quot;\n\
+    \nThis is a slightly different version of the &quot;NCT-CRC-HE-100K&quot; image\
+    \ set: This set contains 100,000 images in 9 tissue classes at 0.5 MPP and was created\
+    \ from the same raw data as &quot;NCT-CRC-HE-100K&quot;. However, no color normalization\
+    \ was applied to these images. Consequently, staining intensity and color slightly\
+    \ varies between the images. Please note that although this image set was created\
+    \ from the same data as &quot;NCT-CRC-HE-100K&quot;, the image regions are not completely\
+    \ identical because the selection of non-overlapping tiles from raw images was a\
+    \ stochastic process.\n\nGeneral comments\n\nPlease note that the classes are only\
+    \ roughly balanced. Classifiers should never be evaluated based on accuracy in the\
+    \ full set alone. Also, if a high risk of training bias is excepted, balancing the\
+    \ number of cases per class is recommended."
+  license: cc-by-4.0
+  name: 100,000 histological images of human colorectal cancer and healthy tissue
+  num_downloads: 77755
+  publication_date: '2018-04-07'
+  submission_date: '2025-10-24T12:55:37.087232'
+  url:
+  - https://zenodo.org/records/1214456
+  - https://doi.org/10.5281/zenodo.1214456
+  
