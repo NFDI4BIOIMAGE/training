@@ -24161,6 +24161,7 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
+  uuid: 7d29de53-2fc0-43bc-a1db-e3726e8ab2c7
 - authors:
   - Stervbo, Ulrik
   - Brilhaus, Dominik
@@ -24192,6 +24193,7 @@ resources:
   - Justine Vandendorpe https://orcid.org/0000-0002-9421-8582
   - Julia Fürst
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  uuid: 65c81b9b-87ab-4040-adec-487f7c4e89af
 - authors:
   - Instruct-ERIC
   - Euro-BioImaging ERIC
@@ -24247,6 +24249,7 @@ resources:
   - Universidad de la Ciudad de Buenos Aires
   - Universidade Federal do Rio de Janeiro
   - Brazilian Center for Research in Energy and Materials
+  uuid: 8caf58e1-7790-4a8f-8b1a-c87a24573da3
 - authors:
   - Rappe, Anna
   description: 'Test data, for reference see link below.
@@ -24263,6 +24266,7 @@ resources:
   file_formats: .ims
   authors_with_orcid:
   - Anna Rappe
+  uuid: 124ab0e1-b9fd-4e3f-bfdb-03b24c7946c2
 - authors:
   - Zobel, Thomas
   description: 'MetaFold simplifies laboratory data management through easy-to-use
@@ -24309,3 +24313,4 @@ resources:
   url:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
+  uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
