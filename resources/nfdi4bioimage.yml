@@ -24314,3 +24314,23 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+
+- authors:
+  - Beyer, Frauke
+  - Unger, Michaela
+  - Gey, Ronny
+  - Massei, Riccardo
+  - Wetzker, Cornelia
+  - Nicolay, Elena
+  - Lampert, Mara Harriet
+  description: The material supports the panel discussion about open data sharing with
+    stories and info from the panelists.
+  license: cc-by-4.0
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  num_downloads: 30
+  publication_date: '2025-10-24'
+  submission_date: '2025-10-28T10:48:09.771643'
+  url:
+  - https://zenodo.org/records/17429285
+  - https://doi.org/10.5281/zenodo.17429285
+  
