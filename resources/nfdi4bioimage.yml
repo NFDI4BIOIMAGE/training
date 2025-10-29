@@ -24314,3 +24314,43 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+
+- authors:
+  - Barry, David
+  description: Slides presented at Empowering Healthcare with Automated Analysis at
+    London Metropolitan University on 29th January 2025
+  license: cc-by-sa-4.0
+  name: Promoting Reproducibility in Biomedical Research through Image Analysis
+  num_downloads: 51
+  publication_date: '2025-01-29'
+  submission_date: '2025-10-29T06:50:37.005703'
+  url:
+  - https://zenodo.org/records/14767945
+  - https://doi.org/10.5281/zenodo.14767945
+  
+- authors:
+  - Barry, David
+  description: ARRIVE 2.0 checklist for &quot;Automated staging of zebrafish embryos
+    using machine learning&quot;
+  license: cc-by-4.0
+  name: ARRIVE 2.0 checklist for "Automated staging of zebrafish embryos using machine
+    learning"
+  num_downloads: 39
+  publication_date: '2022-10-14'
+  submission_date: '2025-10-29T06:50:37.758457'
+  url:
+  - https://zenodo.org/records/7198533
+  - https://doi.org/10.5281/zenodo.7198533
+  
+- authors:
+  - Barry, David
+  - Fallesen, Todd
+  license: cc-by-4.0
+  name: Multi-dimensional Imaging and Analysis Workshop
+  num_downloads: 4
+  publication_date: '2024-09-24'
+  submission_date: '2025-10-29T06:50:38.437827'
+  url:
+  - https://zenodo.org/records/13832613
+  - https://doi.org/10.5281/zenodo.13832613
+  
