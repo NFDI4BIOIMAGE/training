@@ -24314,3 +24314,28 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+
+- authors:
+  - Barry, David
+  description: 'Reproducibility is a cornerstone of robust biomedical research, yet
+    challenges persist, particularly in the complex domains of AI and bioimage informatics/analysis.
+    In this presentation, I discuss the critical need for enhanced reproducibility in
+    image-based biological studies and detail some strategies implemented at the Francis
+    Crick Institute. Our Image Analysis Group aims to empower researchers with the tools
+    and knowledge to independently analyse their data, focusing on key pillars: training,
+    standardization, informed interpretation and self-sufficiency. Through dedicated
+    workshops, we have taught hundreds of researchers fundamental image analysis concepts,
+    emphasizing the impact of image quality and appropriate quantification on data reliability.
+    I will also showcase some practical examples of our work and the challenges associated
+    with ensuring they can be used reproducibly by others. Finally, I will discuss our
+    latest work on common pitfalls in image data interpretation, highlighting the importance
+    of rigorous image quality control.'
+  license: cc-by-4.0
+  name: Promoting Reproducibility in Biomedical Research
+  num_downloads: 18
+  publication_date: '2025-10-17'
+  submission_date: '2025-10-29T06:36:04.564688'
+  url:
+  - https://zenodo.org/records/17377255
+  - https://doi.org/10.5281/zenodo.17377255
+  
