@@ -24314,3 +24314,33 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+
+- authors:
+  - Frisch, Katrin
+  description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
+    k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen.
+    Die vorliegende Version 2 enth&auml;lt Updates und Erweiterungen der urspr&uuml;nglichen
+    Fassung vom November 2024. Die FAQ beschr&auml;nken sich dabei auf generative KI,
+    insbesondere Large Language Models (LLM), die Forschenden seit der Markteinf&uuml;hrung
+    von ChatGPT im November 2022 in verschiedensten Tools zur Verf&uuml;gung stehen.
+    Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen,
+    ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung
+    des Ombudsgremiums f&uuml;r die wissenschaftliche Integrit&auml;t in Deutschland
+    (OWID) dar, sondern beschreiben den Status Quo und ordnen bereits bestehende Empfehlungen
+    aus Sicht der GWP ein, identifizieren L&uuml;cken und verweisen auf weiterf&uuml;hrende
+    Literatur. Diese FAQ richten sich prim&auml;r an Forschende sowie an Ombudspersonen,
+    die Forschende in Bezug auf Fragen zur KI beraten. F&uuml;r die Nutzung von KI in
+    der Lehre und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re
+    KI-Richtlinien, angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen
+    sowie Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle
+    Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen
+    FAQ nicht besprochen.
+  license: cc-by-4.0
+  name: "FAQ K\xFCnstliche Intelligenz und gute wissenschaftliche Praxis - Version 2"
+  num_downloads: 2746
+  publication_date: '2025-10-14'
+  submission_date: '2025-10-30T19:56:37.645387'
+  url:
+  - https://zenodo.org/records/17349995
+  - https://doi.org/10.5281/zenodo.17349995
+  
