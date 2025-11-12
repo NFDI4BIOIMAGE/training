@@ -1,4 +1,4 @@
-# Thomas zobel (9)
+# Thomas zobel (8)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -38,25 +38,6 @@ Tags: OMERO, Data Analysis, Bioimage Analysis, Include In Dalia
 Content type: Collection
 
 [https://zenodo.org/doi/10.5281/zenodo.8139353](https://zenodo.org/doi/10.5281/zenodo.8139353)
-
-
----
-
-## Howto organize your image data in OMERO
-
-Thomas Zobel, Carsten Fortmann-Grote
-
-Published 2025-10-21
-
-Licensed CC-BY-4.0
-
-
-
-Material for the OMERO Training Workshop at MPI Evolutionary Biology, Dec. 7 &amp; 8 2023
-
-[https://zenodo.org/records/17404133](https://zenodo.org/records/17404133)
-
-[https://doi.org/10.5281/zenodo.17404133](https://doi.org/10.5281/zenodo.17404133)
 
 
 ---

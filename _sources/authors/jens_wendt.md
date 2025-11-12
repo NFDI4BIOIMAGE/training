@@ -1,4 +1,4 @@
-# Jens wendt (9)
+# Jens wendt (8)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -173,25 +173,6 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
-
-
----
-
-## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
-
-Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
-
-Published 2025-10-29
-
-Licensed CC-BY-4.0
-
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
-
-[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

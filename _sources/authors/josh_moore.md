@@ -1,4 +1,4 @@
-# Josh moore (42)
+# Josh moore (41)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -197,7 +197,7 @@ Content type: Video
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -326,26 +326,6 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
-
-
----
-
-## Road to OME-Zarr 1.0
-
-Josh Moore
-
-Published 2025-11-10
-
-Licensed CC-BY-4.0
-
-
-
-Presented at the 2025 International OME-NGFF workshop.
-https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html
-
-[https://zenodo.org/records/17579804](https://zenodo.org/records/17579804)
-
-[https://doi.org/10.5281/zenodo.17579804](https://doi.org/10.5281/zenodo.17579804)
 
 
 ---
@@ -820,7 +800,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
