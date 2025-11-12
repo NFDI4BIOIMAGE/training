@@ -1,4 +1,4 @@
-# Josh moore (41)
+# Josh moore (42)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -326,6 +326,26 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://f1000research.com/articles/11-638](https://f1000research.com/articles/11-638)
+
+
+---
+
+## Road to OME-Zarr 1.0
+
+Josh Moore
+
+Published 2025-11-10
+
+Licensed CC-BY-4.0
+
+
+
+Presented at the 2025 International OME-NGFF workshop.
+https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html
+
+[https://zenodo.org/records/17579804](https://zenodo.org/records/17579804)
+
+[https://doi.org/10.5281/zenodo.17579804](https://doi.org/10.5281/zenodo.17579804)
 
 
 ---

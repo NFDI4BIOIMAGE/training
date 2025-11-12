@@ -1,4 +1,4 @@
-# Robert haase (67)
+# Robert haase (68)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -1212,6 +1212,27 @@ Tags: Sharing, Research Data Management, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Smart Slide Generation: Re-Using Training Materials Through the Power of LLMs
+
+Lea Kabjesz, Lea Gihlein, Lampert, Mara Harriet, Robert Haase
+
+Published 2025-11-06
+
+Licensed CC-BY-4.0
+
+
+
+This record contains the poster "Smart Slide Generation: Re-Using Training Materials Through the Power of LLMs" presented by Lea Kabjesz and Lea Gihlein at the All Hands Meeting of the German AI Centers, held on 5th - 6th November 2025 at DFKI Saarbr&uuml;cken, Germany.&nbsp;
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17541532](https://zenodo.org/records/17541532)
+
+[https://doi.org/10.5281/zenodo.17541532](https://doi.org/10.5281/zenodo.17541532)
 
 
 ---

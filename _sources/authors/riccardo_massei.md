@@ -1,4 +1,4 @@
-# Riccardo massei (17)
+# Riccardo massei (19)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -269,6 +269,27 @@ Content type: Tutorial, Framework, Workflow
 
 ---
 
+## The Power of Sharing: Open Data in Bio-image Analysis
+
+Frauke Beyer, Michaela Unger, Ronny Gey, Riccardo Massei, Cornelia Wetzker, Elena Nicolay, Lampert, Mara Harriet
+
+Published 2025-10-24
+
+Licensed CC-BY-4.0
+
+
+
+The material supports the panel discussion about open data sharing with stories and info from the panelists.
+&nbsp;
+C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17429285](https://zenodo.org/records/17429285)
+
+[https://doi.org/10.5281/zenodo.17429285](https://doi.org/10.5281/zenodo.17429285)
+
+
+---
+
 ## The role of Helmholtz Centers in NFDI4BIOIMAGE - A national consortium enhancing FAIR data management for microscopy and bioimage analysis
 
 Riccardo Massei, Christian Schmidt, Michele Bortolomeazzi, Julia Thoennissen, Jan Bumberger, Timo Dickscheid, Jan-Philipp Mallm, Elisa Ferrando-May
@@ -328,6 +349,25 @@ Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 Content type: Github Repository, Slides
 
 [https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
+
+
+---
+
+## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
+
+[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

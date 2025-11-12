@@ -1,4 +1,4 @@
-# Cornelia wetzker (7)
+# Cornelia wetzker (9)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -136,6 +136,27 @@ Tags: Exclude From Dalia
 
 ---
 
+## The Power of Sharing: Open Data in Bio-image Analysis
+
+Frauke Beyer, Michaela Unger, Ronny Gey, Riccardo Massei, Cornelia Wetzker, Elena Nicolay, Lampert, Mara Harriet
+
+Published 2025-10-24
+
+Licensed CC-BY-4.0
+
+
+
+The material supports the panel discussion about open data sharing with stories and info from the panelists.
+&nbsp;
+C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17429285](https://zenodo.org/records/17429285)
+
+[https://doi.org/10.5281/zenodo.17429285](https://doi.org/10.5281/zenodo.17429285)
+
+
+---
+
 ## Who you gonna call? - Data Stewards to the rescue
 
 Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
@@ -153,6 +174,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
+
+
+---
+
+## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
+
+[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

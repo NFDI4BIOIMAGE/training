@@ -1,4 +1,23 @@
-# Carsten fortmann-grote (5)
+# Carsten fortmann-grote (8)
+## Howto organize your image data in OMERO
+
+Thomas Zobel, Carsten Fortmann-Grote
+
+Published 2025-10-21
+
+Licensed CC-BY-4.0
+
+
+
+Material for the OMERO Training Workshop at MPI Evolutionary Biology, Dec. 7 &amp; 8 2023
+
+[https://zenodo.org/records/17404133](https://zenodo.org/records/17404133)
+
+[https://doi.org/10.5281/zenodo.17404133](https://doi.org/10.5281/zenodo.17404133)
+
+
+---
+
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -39,6 +58,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14792534](https://zenodo.org/records/14792534)
 
 [https://doi.org/10.5281/zenodo.14792534](https://doi.org/10.5281/zenodo.14792534)
+
+
+---
+
+## Knowledge Graphs for NFDI4BIOIMAGE
+
+Carsten Fortmann-Grote
+
+Published 2025-10-16
+
+Licensed CC-BY-4.0
+
+
+
+Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on October 16 2025This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17372593](https://zenodo.org/records/17372593)
+
+[https://doi.org/10.5281/zenodo.17372593](https://doi.org/10.5281/zenodo.17372593)
 
 
 ---
@@ -98,6 +136,27 @@ Tags: OMERO, Exclude From Dalia
 Content type: Github Repository
 
 [https://github.com/German-BioImaging/omero-ontop-mappings](https://github.com/German-BioImaging/omero-ontop-mappings)
+
+
+---
+
+## openBIS for Evolutionary Biology
+
+Carsten Fortmann-Grote, Kristian Ullrich
+
+Published 2025-09-24
+
+Licensed CC-BY-4.0
+
+
+
+Presentation given at the openBIS User Group Meeting on September 22nd 2025
+&nbsp;
+This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17191504](https://zenodo.org/records/17191504)
+
+[https://doi.org/10.5281/zenodo.17191504](https://doi.org/10.5281/zenodo.17191504)
 
 
 ---

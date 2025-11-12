@@ -1,4 +1,23 @@
-# Susanne kunis (18)
+# Susanne kunis (19)
+## (Meta)data in Action - Developments in NFDI4BIOIMAGE and I3D:bio
+
+Susanne Kunis
+
+Published 2025-10-23
+
+Licensed CC-BY-4.0
+
+
+
+This presentation gives a short overview of the outcome of the I3D:bio project and the ongoing developments in terms of data and metadata in the NFDI4BIOIMAGE consortium. Presented at the RDM4mic meeting in M&uuml;nster, from Okt. 21-23, 2025
+
+[https://zenodo.org/records/17424911](https://zenodo.org/records/17424911)
+
+[https://doi.org/10.5281/zenodo.17424911](https://doi.org/10.5281/zenodo.17424911)
+
+
+---
+
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
