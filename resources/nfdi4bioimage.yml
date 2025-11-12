@@ -24328,4 +24328,16 @@ resources:
   - Github Repository
   url: https://github.com/ScaDS/embo-lsm-bia-2025
   language: en
-
+- authors:
+  - Mara Lampert
+  description: 'This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.'
+  license: CC-BY-4.0
+  name: 'From Click to Code: Reproducibility in Bio-image Analysis'
+  publication_date: '2025-08-05'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/
+  language: en
