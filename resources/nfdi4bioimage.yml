@@ -24396,3 +24396,23 @@ resources:
   - Website
   url: https://www.skills4eosc.eu/participate/skills4eosc-training-courses
   language: en
+- authors:
+  - Rodrigo Escobar Díaz Guerrero
+  - Jamile Mohammad Jafari
+  - Tobias Meyer-Zedler
+  - Michael Schmitt
+  - Juergen Popp
+  - Thomas Bocklitz
+  description: 'In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.'
+  license: CC-BY-4.0
+  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources'
+  publication_date: '2025-08-01'
+  tags:
+  - Research Data Management
+  - OMERO
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: https://arxiv.org/abs/2508.00654
+  language: en
