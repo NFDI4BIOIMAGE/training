@@ -24416,3 +24416,153 @@ resources:
   - Publication
   url: https://arxiv.org/abs/2508.00654
   language: en
+- authors:
+  - Moore, Josh
+  description: 'Presented at the 2025 International OME-NGFF workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Road to OME-Zarr 1.0
+  num_downloads: 18
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-11T11:22:33.461962'
+  url:
+  - https://zenodo.org/records/17579804
+  - https://doi.org/10.5281/zenodo.17579804
+- authors:
+  - Kabjesz, Lea
+  - Gihlein, Lea
+  - Lampert, Mara Harriet
+  - Haase, Robert
+  description: 'This record contains the poster "Smart Slide Generation: Re-Using
+    Training Materials Through the Power of LLMs" presented by Lea Kabjesz and Lea
+    Gihlein at the All Hands Meeting of the German AI Centers, held on 5th - 6th November
+    2025 at DFKI Saarbr&uuml;cken, Germany.&nbsp;
+
+    &nbsp;
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: 'Smart Slide Generation: Re-Using Training Materials Through the Power of
+    LLMs'
+  num_downloads: 92
+  publication_date: '2025-11-06'
+  submission_date: '2025-11-11T11:22:39.019204'
+  url:
+  - https://zenodo.org/records/17541532
+  - https://doi.org/10.5281/zenodo.17541532
+- authors:
+  - Wetzker, Cornelia
+  - Fuchs, Vanessa
+  - Wendt, Jens
+  - Ahmadi, Mohsen
+  - "M\xFCller, Maximilian E."
+  - Massei, Riccardo
+  description: The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1,
+    project number 501864659.
+  license: cc-by-4.0
+  name: '[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support
+    and Training in NFDI4BIOIMAGE'
+  num_downloads: 52
+  publication_date: '2025-10-29'
+  submission_date: '2025-11-11T11:22:47.679388'
+  url:
+  - https://zenodo.org/records/17472821
+  - https://doi.org/10.5281/zenodo.17472821
+- authors:
+  - Beyer, Frauke
+  - Unger, Michaela
+  - Gey, Ronny
+  - Massei, Riccardo
+  - Wetzker, Cornelia
+  - Nicolay, Elena
+  - Lampert, Mara Harriet
+  description: 'The material supports the panel discussion about open data sharing
+    with stories and info from the panelists.
+
+    &nbsp;
+
+    C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash;
+    501864659'
+  license: cc-by-4.0
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  num_downloads: 86
+  publication_date: '2025-10-24'
+  submission_date: '2025-11-11T11:22:49.939572'
+  url:
+  - https://zenodo.org/records/17429285
+  - https://doi.org/10.5281/zenodo.17429285
+- authors:
+  - Kunis, Susanne
+  description: This presentation gives a short overview of the outcome of the I3D:bio
+    project and the ongoing developments in terms of data and metadata in the NFDI4BIOIMAGE
+    consortium. Presented at the RDM4mic meeting in M&uuml;nster, from Okt. 21-23,
+    2025
+  license: cc-by-4.0
+  name: (Meta)data in Action - Developments in NFDI4BIOIMAGE and I3D:bio
+  num_downloads: 87
+  publication_date: '2025-10-23'
+  submission_date: '2025-11-11T11:23:05.071201'
+  url:
+  - https://zenodo.org/records/17424911
+  - https://doi.org/10.5281/zenodo.17424911
+- authors:
+  - Zobel, Thomas
+  - Fortmann-Grote, Carsten
+  description: Material for the OMERO Training Workshop at MPI Evolutionary Biology,
+    Dec. 7 &amp; 8 2023
+  license: cc-by-4.0
+  name: Howto organize your image data in OMERO
+  num_downloads: 42
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:23:07.258414'
+  url:
+  - https://zenodo.org/records/17404133
+  - https://doi.org/10.5281/zenodo.17404133
+- authors:
+  - Fortmann-Grote, Carsten
+  description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
+    October 16 2025This work is funded by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659
+  license: cc-by-4.0
+  name: Knowledge Graphs for NFDI4BIOIMAGE
+  num_downloads: 43
+  publication_date: '2025-10-16'
+  submission_date: '2025-11-11T11:23:08.814837'
+  url:
+  - https://zenodo.org/records/17372593
+  - https://doi.org/10.5281/zenodo.17372593
+- authors:
+  - Fortmann-Grote, Carsten
+  - Ullrich, Kristian
+  description: 'Presentation given at the openBIS User Group Meeting on September
+    22nd 2025
+
+    &nbsp;
+
+    This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659'
+  license: cc-by-4.0
+  name: openBIS for Evolutionary Biology
+  num_downloads: 42
+  publication_date: '2025-09-24'
+  submission_date: '2025-11-11T11:23:30.585626'
+  url:
+  - https://zenodo.org/records/17191504
+  - https://doi.org/10.5281/zenodo.17191504
+- authors:
+  - "Pais de Azevedo, Tom\xE1s"
+  description: Unsupported Imaris file. Exported from Imaris 9.9.1.
+  license: cc-by-4.0
+  name: IMS image
+  num_downloads: 2
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:27:58.639584'
+  url:
+  - https://zenodo.org/records/17406102
+  - https://doi.org/10.5281/zenodo.17406102
