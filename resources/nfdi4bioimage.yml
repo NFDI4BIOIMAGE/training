@@ -24341,3 +24341,16 @@ resources:
   - Blog Post
   url: https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/
   language: en
+- authors:
+  - Rahul Pandita
+  description: 'Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.'
+  license: UNKNOWN
+  name: 'Autopilot, Copilot, and Software Developers'
+  publication_date: '2025-10-12'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://rahulpandita.me/blog/2025-10-12-Copilot 
+  language: en
