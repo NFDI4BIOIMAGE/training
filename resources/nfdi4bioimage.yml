@@ -24327,6 +24327,7 @@ resources:
   url:
   - https://zenodo.org/records/17579804
   - https://doi.org/10.5281/zenodo.17579804
+  uuid: 112c8828-a4ee-46c9-999e-427a8145212d
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24351,12 +24352,13 @@ resources:
   url:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
+  uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
 - authors:
   - Wetzker, Cornelia
   - Fuchs, Vanessa
   - Wendt, Jens
   - Ahmadi, Mohsen
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Massei, Riccardo
   description: The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1,
     project number 501864659.
@@ -24369,6 +24371,7 @@ resources:
   url:
   - https://zenodo.org/records/17472821
   - https://doi.org/10.5281/zenodo.17472821
+  uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24393,6 +24396,7 @@ resources:
   url:
   - https://zenodo.org/records/17429285
   - https://doi.org/10.5281/zenodo.17429285
+  uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24407,6 +24411,7 @@ resources:
   url:
   - https://zenodo.org/records/17424911
   - https://doi.org/10.5281/zenodo.17424911
+  uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24420,6 +24425,7 @@ resources:
   url:
   - https://zenodo.org/records/17404133
   - https://doi.org/10.5281/zenodo.17404133
+  uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24434,6 +24440,7 @@ resources:
   url:
   - https://zenodo.org/records/17372593
   - https://doi.org/10.5281/zenodo.17372593
+  uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24453,8 +24460,9 @@ resources:
   url:
   - https://zenodo.org/records/17191504
   - https://doi.org/10.5281/zenodo.17191504
+  uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
 - authors:
-  - "Pais de Azevedo, Tom\xE1s"
+  - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
   license: cc-by-4.0
   name: IMS image
@@ -24464,3 +24472,4 @@ resources:
   url:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
+  uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
