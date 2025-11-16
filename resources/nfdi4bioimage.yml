@@ -24314,6 +24314,8 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+  authors_with_orcid:
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
 - authors:
   - Moore, Josh
   description: 'Presented at the 2025 International OME-NGFF workshop.
@@ -24328,6 +24330,8 @@ resources:
   - https://zenodo.org/records/17579804
   - https://doi.org/10.5281/zenodo.17579804
   uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24353,6 +24357,11 @@ resources:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+  authors_with_orcid:
+  - Lea Kabjesz https://orcid.org/0009-0004-7280-1226
+  - Lea Gihlein https://orcid.org/0009-0001-0303-9176
+  - Mara Harriet Lampert https://orcid.org/0009-0001-6900-5032
+  - Robert Haase https://orcid.org/0009-0004-7280-1226
 - authors:
   - Wetzker, Cornelia
   - Fuchs, Vanessa
@@ -24372,6 +24381,13 @@ resources:
   - https://zenodo.org/records/17472821
   - https://doi.org/10.5281/zenodo.17472821
   uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Vanessa Fuchs https://orcid.org/0000-0002-2941-8086
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24397,6 +24413,14 @@ resources:
   - https://zenodo.org/records/17429285
   - https://doi.org/10.5281/zenodo.17429285
   uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+  authors_with_orcid:
+  - Frauke Beyer https://orcid.org/0000-0001-5401-852X
+  - Michaela Unger https://orcid.org/0000-0001-5811-0200
+  - Ronny Gey https://orcid.org/0000-0003-1028-1670
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Elena Nicolay
+  - Mara Harriet Lampert
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24412,6 +24436,8 @@ resources:
   - https://zenodo.org/records/17424911
   - https://doi.org/10.5281/zenodo.17424911
   uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+  authors_with_orcid:
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24426,6 +24452,9 @@ resources:
   - https://zenodo.org/records/17404133
   - https://doi.org/10.5281/zenodo.17404133
   uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+  authors_with_orcid:
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24441,6 +24470,8 @@ resources:
   - https://zenodo.org/records/17372593
   - https://doi.org/10.5281/zenodo.17372593
   uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24461,6 +24492,9 @@ resources:
   - https://zenodo.org/records/17191504
   - https://doi.org/10.5281/zenodo.17191504
   uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  - Kristian Ullrich https://orcid.org/0000-0003-4308-9626
 - authors:
   - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
@@ -24473,3 +24507,5 @@ resources:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+  authors_with_orcid:
+  - Tomás Pais de Azevedo https://orcid.org/0000-0002-3239-2198
