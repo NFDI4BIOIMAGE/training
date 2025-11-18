@@ -24473,3 +24473,60 @@ resources:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
+    2025
+  license: cc-by-4.0
+  name: '[Halfway-to-I2K 2025]: Introduction to ome-zarr and S3 cloud storage'
+  num_downloads: 0
+  publication_date: '2025-11-18'
+  submission_date: '2025-11-18T11:23:41.172852'
+  url:
+  - https://zenodo.org/records/17639350
+  - https://doi.org/10.5281/zenodo.17639350
+- authors:
+  - Moore, Josh
+  description: Invited talk given to Zeiss
+  license: cc-by-4.0
+  name: OME-Zarr and Next-Generational File Formats (NGFF)
+  num_downloads: 22
+  publication_date: '2025-07-02'
+  submission_date: '2025-11-18T11:23:41.733350'
+  url:
+  - https://zenodo.org/records/17604591
+  - https://doi.org/10.5281/zenodo.17604591
+- authors:
+  - Gros, Aafke
+  license: cc-by-4.0
+  name: CellSens vsi file for testing metadata extraction of timeinterval
+  num_downloads: 18
+  publication_date: '2025-11-12'
+  submission_date: '2025-11-18T11:25:35.234671'
+  url:
+  - https://zenodo.org/records/17590655
+  - https://doi.org/10.5281/zenodo.17590655
+- authors:
+  - Corbat, Agustin Andres
+  description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
+    the Global BioImage Analysts'' Society.'
+  license: cc-by-4.0
+  name: 'GloBIAS: Strengthening the Foundations of Bioimage Analysis'
+  num_downloads: 2
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-18T11:26:19.155859'
+  url:
+  - https://zenodo.org/records/17633744
+  - https://doi.org/10.5281/zenodo.17633744
+- authors:
+  - Corbat, Agustin Andres
+  description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
+    deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
+  license: cc-by-4.0
+  name: GloBIAS Presentation at Latin America BioImaging Meeting
+  num_downloads: 2
+  publication_date: '2025-11-11'
+  submission_date: '2025-11-18T11:26:20.328938'
+  url:
+  - https://zenodo.org/records/17632823
+  - https://doi.org/10.5281/zenodo.17632823
