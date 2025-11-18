@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (781 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (210 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (237 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (210 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (237 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15858127) by "Haase, Robert" (210 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
