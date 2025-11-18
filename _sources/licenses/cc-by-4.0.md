@@ -1,4 +1,4 @@
-# Cc-by-4.0 (427)
+# Cc-by-4.0 (432)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -1307,6 +1307,23 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/8305531](https://zenodo.org/records/8305531)
 
 [https://doi.org/10.5281/zenodo.8305531](https://doi.org/10.5281/zenodo.8305531)
+
+
+---
+
+## CellSens vsi file for testing metadata extraction of timeinterval
+
+Aafke Gros
+
+Published 2025-11-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17590655](https://zenodo.org/records/17590655)
+
+[https://doi.org/10.5281/zenodo.17590655](https://doi.org/10.5281/zenodo.17590655)
 
 
 ---
@@ -3998,6 +4015,25 @@ Tags: Include In Dalia
 
 ---
 
+## GloBIAS Presentation at Latin America BioImaging Meeting
+
+Corbat, Agustin Andres
+
+Published 2025-11-11
+
+Licensed CC-BY-4.0
+
+
+
+Presentation about the Global BioImage Analysts' Society (GloBIAS) deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
+
+[https://zenodo.org/records/17632823](https://zenodo.org/records/17632823)
+
+[https://doi.org/10.5281/zenodo.17632823](https://doi.org/10.5281/zenodo.17632823)
+
+
+---
+
 ## GloBIAS in-person workshop 2024
 
 Christa Walther
@@ -4015,6 +4051,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
 
 [https://doi.org/10.5281/zenodo.15168241](https://doi.org/10.5281/zenodo.15168241)
+
+
+---
+
+## GloBIAS: Strengthening the Foundations of Bioimage Analysis
+
+Corbat, Agustin Andres
+
+Published 2025-11-10
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at LABI Meeting 2025: From Data to Discovery about the Global BioImage Analysts' Society.
+
+[https://zenodo.org/records/17633744](https://zenodo.org/records/17633744)
+
+[https://doi.org/10.5281/zenodo.17633744](https://doi.org/10.5281/zenodo.17633744)
 
 
 ---
@@ -8860,6 +8915,25 @@ Content type: Publication
 
 ---
 
+## OME-Zarr and Next-Generational File Formats (NGFF)
+
+Josh Moore
+
+Published 2025-07-02
+
+Licensed CC-BY-4.0
+
+
+
+Invited talk given to Zeiss
+
+[https://zenodo.org/records/17604591](https://zenodo.org/records/17604591)
+
+[https://doi.org/10.5281/zenodo.17604591](https://doi.org/10.5281/zenodo.17604591)
+
+
+---
+
 ## OME2024 NGFF Challenge Results
 
 Josh Moore
@@ -12595,6 +12669,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14001388](https://zenodo.org/records/14001388)
 
 [https://doi.org/10.5281/zenodo.14001388](https://doi.org/10.5281/zenodo.14001388)
+
+
+---
+
+## [Halfway-to-I2K 2025]: Introduction to ome-zarr and S3 cloud storage
+
+Soltwedel, Johannes Richard
+
+Published 2025-11-18
+
+Licensed CC-BY-4.0
+
+
+
+Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference 2025
+
+[https://zenodo.org/records/17639350](https://zenodo.org/records/17639350)
+
+[https://doi.org/10.5281/zenodo.17639350](https://doi.org/10.5281/zenodo.17639350)
 
 
 ---

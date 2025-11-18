@@ -18,6 +18,61 @@ This presentation gives a short overview of the outcome of the I3D:bio project a
 
 ---
 
+## CellSens vsi file for testing metadata extraction of timeinterval
+
+Aafke Gros
+
+Published 2025-11-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17590655](https://zenodo.org/records/17590655)
+
+[https://doi.org/10.5281/zenodo.17590655](https://doi.org/10.5281/zenodo.17590655)
+
+
+---
+
+## GloBIAS Presentation at Latin America BioImaging Meeting
+
+Corbat, Agustin Andres
+
+Published 2025-11-11
+
+Licensed CC-BY-4.0
+
+
+
+Presentation about the Global BioImage Analysts' Society (GloBIAS) deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
+
+[https://zenodo.org/records/17632823](https://zenodo.org/records/17632823)
+
+[https://doi.org/10.5281/zenodo.17632823](https://doi.org/10.5281/zenodo.17632823)
+
+
+---
+
+## GloBIAS: Strengthening the Foundations of Bioimage Analysis
+
+Corbat, Agustin Andres
+
+Published 2025-11-10
+
+Licensed CC-BY-4.0
+
+
+
+Poster presented at LABI Meeting 2025: From Data to Discovery about the Global BioImage Analysts' Society.
+
+[https://zenodo.org/records/17633744](https://zenodo.org/records/17633744)
+
+[https://doi.org/10.5281/zenodo.17633744](https://doi.org/10.5281/zenodo.17633744)
+
+
+---
+
 ## Howto organize your image data in OMERO
 
 Thomas Zobel, Carsten Fortmann-Grote
@@ -75,123 +130,40 @@ Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on October 16 20
 
 ---
 
-## MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your Research Data
-
-Thomas Zobel
-
-Published 2025-10-08
-
-Licensed CC-BY-4.0
-
-
-
-MetaFold simplifies laboratory data management through easy-to-use templates that create reproducible metadata.It reduces manual steps by automatically generating folder structures and metadata files at multiple locations simultaneously.Thanks to its integration with OMERO and ELNs, microscopy data can be automatically imported based on the existing metadata &mdash; saving researchers significant time and effort.
-Core functions
-
-
-Template-based creation of project folders and metadata forms
-
-
-Multi-user and group-level configuration
-
-
-Secure credential storage and user authentication
-
-
-Direct integrations with elabFTW (ELN) and OMERO (image data management)
-
-
-Project discovery: recursive scan and visualization of existing data
-
-
-Category system: customizable templates by project type
-
-
-
-[https://zenodo.org/records/17296688](https://zenodo.org/records/17296688)
-
-[https://doi.org/10.5281/zenodo.17296688](https://doi.org/10.5281/zenodo.17296688)
-
-
----
-
-## Road to OME-Zarr 1.0
+## OME-Zarr and Next-Generational File Formats (NGFF)
 
 Josh Moore
 
-Published 2025-11-10
+Published 2025-07-02
 
 Licensed CC-BY-4.0
 
 
 
-Presented at the 2025 International OME-NGFF workshop.
-https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html
+Invited talk given to Zeiss
 
-[https://zenodo.org/records/17579804](https://zenodo.org/records/17579804)
+[https://zenodo.org/records/17604591](https://zenodo.org/records/17604591)
 
-[https://doi.org/10.5281/zenodo.17579804](https://doi.org/10.5281/zenodo.17579804)
+[https://doi.org/10.5281/zenodo.17604591](https://doi.org/10.5281/zenodo.17604591)
 
 
 ---
 
-## Smart Slide Generation: Re-Using Training Materials Through the Power of LLMs
+## [Halfway-to-I2K 2025]: Introduction to ome-zarr and S3 cloud storage
 
-Lea Kabjesz, Lea Gihlein, Lampert, Mara Harriet, Robert Haase
+Soltwedel, Johannes Richard
 
-Published 2025-11-06
-
-Licensed CC-BY-4.0
-
-
-
-This record contains the poster "Smart Slide Generation: Re-Using Training Materials Through the Power of LLMs" presented by Lea Kabjesz and Lea Gihlein at the All Hands Meeting of the German AI Centers, held on 5th - 6th November 2025 at DFKI Saarbr&uuml;cken, Germany.&nbsp;
-&nbsp;
-We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
-
-[https://zenodo.org/records/17541532](https://zenodo.org/records/17541532)
-
-[https://doi.org/10.5281/zenodo.17541532](https://doi.org/10.5281/zenodo.17541532)
-
-
----
-
-## The Power of Sharing: Open Data in Bio-image Analysis
-
-Frauke Beyer, Michaela Unger, Ronny Gey, Riccardo Massei, Cornelia Wetzker, Elena Nicolay, Lampert, Mara Harriet
-
-Published 2025-10-24
+Published 2025-11-18
 
 Licensed CC-BY-4.0
 
 
 
-The material supports the panel discussion about open data sharing with stories and info from the panelists.
-&nbsp;
-C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash; 501864659
+Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference 2025
 
-[https://zenodo.org/records/17429285](https://zenodo.org/records/17429285)
+[https://zenodo.org/records/17639350](https://zenodo.org/records/17639350)
 
-[https://doi.org/10.5281/zenodo.17429285](https://doi.org/10.5281/zenodo.17429285)
-
-
----
-
-## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
-
-Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
-
-Published 2025-10-29
-
-Licensed CC-BY-4.0
-
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
-
-[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
+[https://doi.org/10.5281/zenodo.17639350](https://doi.org/10.5281/zenodo.17639350)
 
 
 ---
