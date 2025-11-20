@@ -24161,6 +24161,7 @@ resources:
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
+  uuid: 7d29de53-2fc0-43bc-a1db-e3726e8ab2c7
 - authors:
   - Stervbo, Ulrik
   - Brilhaus, Dominik
@@ -24186,6 +24187,13 @@ resources:
   - https://zenodo.org/records/17251110
   - https://doi.org/10.5281/zenodo.17251110
   file_formats: .pdf
+  authors_with_orcid:
+  - Ulrik Stervbo https://orcid.org/0000-0002-2831-8868
+  - Dominik Brilhaus https://orcid.org/0000-0001-9021-3197
+  - Justine Vandendorpe https://orcid.org/0000-0002-9421-8582
+  - Julia Fürst
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  uuid: 65c81b9b-87ab-4040-adec-487f7c4e89af
 - authors:
   - Instruct-ERIC
   - Euro-BioImaging ERIC
@@ -24230,6 +24238,18 @@ resources:
   - https://zenodo.org/records/17152974
   - https://doi.org/10.5281/zenodo.17152974
   file_formats: .pdf
+  authors_with_orcid:
+  - Instruct-ERIC
+  - Euro-BioImaging ERIC
+  - Institut Pasteur de Montevideo
+  - Institut Pasteur
+  - Universidade de São Paulo
+  - Universidad de la República
+  - Chan Zuckerberg Initiative (United States)
+  - Universidad de la Ciudad de Buenos Aires
+  - Universidade Federal do Rio de Janeiro
+  - Brazilian Center for Research in Energy and Materials
+  uuid: 8caf58e1-7790-4a8f-8b1a-c87a24573da3
 - authors:
   - Rappe, Anna
   description: 'Test data, for reference see link below.
@@ -24244,3 +24264,269 @@ resources:
   - https://zenodo.org/records/17257407
   - https://doi.org/10.5281/zenodo.17257407
   file_formats: .ims
+  authors_with_orcid:
+  - Anna Rappe
+  uuid: 124ab0e1-b9fd-4e3f-bfdb-03b24c7946c2
+- authors:
+  - Zobel, Thomas
+  description: 'MetaFold simplifies laboratory data management through easy-to-use
+    templates that create reproducible metadata.It reduces manual steps by automatically
+    generating folder structures and metadata files at multiple locations simultaneously.Thanks
+    to its integration with OMERO and ELNs, microscopy data can be automatically imported
+    based on the existing metadata &mdash; saving researchers significant time and
+    effort.
+
+    Core functions
+
+
+
+    Template-based creation of project folders and metadata forms
+
+
+
+    Multi-user and group-level configuration
+
+
+
+    Secure credential storage and user authentication
+
+
+
+    Direct integrations with elabFTW (ELN) and OMERO (image data management)
+
+
+
+    Project discovery: recursive scan and visualization of existing data
+
+
+
+    Category system: customizable templates by project type
+
+
+    '
+  license: cc-by-4.0
+  name: MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your
+    Research Data
+  num_downloads: 23
+  publication_date: '2025-10-08'
+  submission_date: '2025-10-21T11:20:17.690525'
+  url:
+  - https://zenodo.org/records/17296688
+  - https://doi.org/10.5281/zenodo.17296688
+  uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+- authors:
+  - Moore, Josh
+  description: 'Presented at the 2025 International OME-NGFF workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Road to OME-Zarr 1.0
+  num_downloads: 18
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-11T11:22:33.461962'
+  url:
+  - https://zenodo.org/records/17579804
+  - https://doi.org/10.5281/zenodo.17579804
+  uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+- authors:
+  - Kabjesz, Lea
+  - Gihlein, Lea
+  - Lampert, Mara Harriet
+  - Haase, Robert
+  description: 'This record contains the poster "Smart Slide Generation: Re-Using
+    Training Materials Through the Power of LLMs" presented by Lea Kabjesz and Lea
+    Gihlein at the All Hands Meeting of the German AI Centers, held on 5th - 6th November
+    2025 at DFKI Saarbr&uuml;cken, Germany.&nbsp;
+
+    &nbsp;
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: 'Smart Slide Generation: Re-Using Training Materials Through the Power of
+    LLMs'
+  num_downloads: 92
+  publication_date: '2025-11-06'
+  submission_date: '2025-11-11T11:22:39.019204'
+  url:
+  - https://zenodo.org/records/17541532
+  - https://doi.org/10.5281/zenodo.17541532
+  uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+- authors:
+  - Wetzker, Cornelia
+  - Fuchs, Vanessa
+  - Wendt, Jens
+  - Ahmadi, Mohsen
+  - Müller, Maximilian E.
+  - Massei, Riccardo
+  description: The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1,
+    project number 501864659.
+  license: cc-by-4.0
+  name: '[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support
+    and Training in NFDI4BIOIMAGE'
+  num_downloads: 52
+  publication_date: '2025-10-29'
+  submission_date: '2025-11-11T11:22:47.679388'
+  url:
+  - https://zenodo.org/records/17472821
+  - https://doi.org/10.5281/zenodo.17472821
+  uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
+- authors:
+  - Beyer, Frauke
+  - Unger, Michaela
+  - Gey, Ronny
+  - Massei, Riccardo
+  - Wetzker, Cornelia
+  - Nicolay, Elena
+  - Lampert, Mara Harriet
+  description: 'The material supports the panel discussion about open data sharing
+    with stories and info from the panelists.
+
+    &nbsp;
+
+    C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash;
+    501864659'
+  license: cc-by-4.0
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  num_downloads: 86
+  publication_date: '2025-10-24'
+  submission_date: '2025-11-11T11:22:49.939572'
+  url:
+  - https://zenodo.org/records/17429285
+  - https://doi.org/10.5281/zenodo.17429285
+  uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+- authors:
+  - Kunis, Susanne
+  description: This presentation gives a short overview of the outcome of the I3D:bio
+    project and the ongoing developments in terms of data and metadata in the NFDI4BIOIMAGE
+    consortium. Presented at the RDM4mic meeting in M&uuml;nster, from Okt. 21-23,
+    2025
+  license: cc-by-4.0
+  name: (Meta)data in Action - Developments in NFDI4BIOIMAGE and I3D:bio
+  num_downloads: 87
+  publication_date: '2025-10-23'
+  submission_date: '2025-11-11T11:23:05.071201'
+  url:
+  - https://zenodo.org/records/17424911
+  - https://doi.org/10.5281/zenodo.17424911
+  uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+- authors:
+  - Zobel, Thomas
+  - Fortmann-Grote, Carsten
+  description: Material for the OMERO Training Workshop at MPI Evolutionary Biology,
+    Dec. 7 &amp; 8 2023
+  license: cc-by-4.0
+  name: Howto organize your image data in OMERO
+  num_downloads: 42
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:23:07.258414'
+  url:
+  - https://zenodo.org/records/17404133
+  - https://doi.org/10.5281/zenodo.17404133
+  uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+- authors:
+  - Fortmann-Grote, Carsten
+  description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
+    October 16 2025This work is funded by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659
+  license: cc-by-4.0
+  name: Knowledge Graphs for NFDI4BIOIMAGE
+  num_downloads: 43
+  publication_date: '2025-10-16'
+  submission_date: '2025-11-11T11:23:08.814837'
+  url:
+  - https://zenodo.org/records/17372593
+  - https://doi.org/10.5281/zenodo.17372593
+  uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+- authors:
+  - Fortmann-Grote, Carsten
+  - Ullrich, Kristian
+  description: 'Presentation given at the openBIS User Group Meeting on September
+    22nd 2025
+
+    &nbsp;
+
+    This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659'
+  license: cc-by-4.0
+  name: openBIS for Evolutionary Biology
+  num_downloads: 42
+  publication_date: '2025-09-24'
+  submission_date: '2025-11-11T11:23:30.585626'
+  url:
+  - https://zenodo.org/records/17191504
+  - https://doi.org/10.5281/zenodo.17191504
+  uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+- authors:
+  - Pais de Azevedo, Tomás
+  description: Unsupported Imaris file. Exported from Imaris 9.9.1.
+  license: cc-by-4.0
+  name: IMS image
+  num_downloads: 2
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:27:58.639584'
+  url:
+  - https://zenodo.org/records/17406102
+  - https://doi.org/10.5281/zenodo.17406102
+  uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
+    2025
+  license: cc-by-4.0
+  name: '[Halfway-to-I2K 2025]: Introduction to ome-zarr and S3 cloud storage'
+  num_downloads: 0
+  publication_date: '2025-11-18'
+  submission_date: '2025-11-18T11:23:41.172852'
+  url:
+  - https://zenodo.org/records/17639350
+  - https://doi.org/10.5281/zenodo.17639350
+- authors:
+  - Moore, Josh
+  description: Invited talk given to Zeiss
+  license: cc-by-4.0
+  name: OME-Zarr and Next-Generational File Formats (NGFF)
+  num_downloads: 22
+  publication_date: '2025-07-02'
+  submission_date: '2025-11-18T11:23:41.733350'
+  url:
+  - https://zenodo.org/records/17604591
+  - https://doi.org/10.5281/zenodo.17604591
+- authors:
+  - Gros, Aafke
+  license: cc-by-4.0
+  name: CellSens vsi file for testing metadata extraction of timeinterval
+  num_downloads: 18
+  publication_date: '2025-11-12'
+  submission_date: '2025-11-18T11:25:35.234671'
+  url:
+  - https://zenodo.org/records/17590655
+  - https://doi.org/10.5281/zenodo.17590655
+- authors:
+  - Corbat, Agustin Andres
+  description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
+    the Global BioImage Analysts'' Society.'
+  license: cc-by-4.0
+  name: 'GloBIAS: Strengthening the Foundations of Bioimage Analysis'
+  num_downloads: 2
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-18T11:26:19.155859'
+  url:
+  - https://zenodo.org/records/17633744
+  - https://doi.org/10.5281/zenodo.17633744
+- authors:
+  - Corbat, Agustin Andres
+  description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
+    deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
+  license: cc-by-4.0
+  name: GloBIAS Presentation at Latin America BioImaging Meeting
+  num_downloads: 2
+  publication_date: '2025-11-11'
+  submission_date: '2025-11-18T11:26:20.328938'
+  url:
+  - https://zenodo.org/records/17632823
+  - https://doi.org/10.5281/zenodo.17632823
