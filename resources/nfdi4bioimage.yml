@@ -24530,3 +24530,52 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+
+- authors:
+  - "And\xF2, Edward"
+  description: 'M2EA05 dataset from Laboratoire 3SR.
+  
+    The raw data is a series of x-ray tomography images 4x4x4 downscaled (i.e., "bin
+    4") acquired while doing an operando triaxial compression test on a granular material.
+  
+    It''s been roughly analysed with spam 0.8.1.4 (Stamati, O., And&ograve;, E., Roubin,
+    E., Cailletaud, R., Wiebicke, M., Pinzon, G., ... &amp; Birmpilis, G. (2020). Spam:
+    software for practical analysis of materials. Journal of Open Source Software, 5(51),
+    2286) to measure incremental grain motion (see analysis.zsh which could be significantly
+    improved).
+  
+    The principle of the "low effort" analysis is that:
+  
+  
+    (spam-reg) an overall incremental registration is performed between im_T and im_T+1
+  
+    (spam-ddic) a "dicrete DIC" is performed tracking labels from im_T and im_T+1 with
+    an initial guess of the registration
+  
+    (spam-moveLabels) an approximate new label image in im_T+1 is computed by displacing
+    the labelled image in im_T with the DDIC results
+  
+  
+    These data have already been used in:
+  
+  
+    Kawamoto, R., And&ograve;, E., Viggiani, G., &amp; Andrade, J. E. (2016). Level
+    set discrete element method for three-dimensional computations with triaxial case
+    study. Journal of the Mechanics and Physics of Solids, 91, 1-13
+  
+    Nadimi, S., Fonseca, J., And&ograve;, E., &amp; Viggiani, G. (2019). A micro finite-element
+    model for soil behaviour: experimental evaluation for sand under triaxial compression.
+    G&eacute;otechnique, 1-6
+  
+    Spam examples on Zenodo: https://zenodo.org/records/3888347
+  
+    '
+  license: cc-by-4.0
+  name: M2EA05 analysis results from spam
+  num_downloads: 2
+  publication_date: '2025-11-21'
+  submission_date: '2025-11-25T09:51:54.471733'
+  url:
+  - https://zenodo.org/records/17668709
+  - https://doi.org/10.5281/zenodo.17668709
+  
