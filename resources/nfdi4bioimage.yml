@@ -24315,6 +24315,108 @@ resources:
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
 - authors:
+  - Robert Haase
+  description: 'BioImage Analysis using Python tutorial at EMBO LSM 2025'
+  license: CC-BY-4.0
+  name: 'embo-lsm-bia-2025'
+  publication_date: '2025-08-03'
+  tags:
+  - Bioimage Analysis
+  - Python
+  - include in DALIA
+  type:
+  - Github Repository
+  url: https://github.com/ScaDS/embo-lsm-bia-2025
+  language: en
+- authors:
+  - Mara Lampert
+  description: 'This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.'
+  license: CC-BY-4.0
+  name: 'From Click to Code: Reproducibility in Bio-image Analysis'
+  publication_date: '2025-08-05'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/
+  language: en
+- authors:
+  - Rahul Pandita
+  description: 'Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.'
+  license: UNKNOWN
+  name: 'Autopilot, Copilot, and Software Developers'
+  publication_date: '2025-10-12'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://rahulpandita.me/blog/2025-10-12-Copilot 
+  language: en
+- authors:
+  - Publications Office of the European Union
+  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  license: CC-BY-4.0
+  name: 'Open Data Sharing Course Materials provided by the European Union'
+  publication_date: '2024-01-17'
+  tags:
+  - Research Data Management
+  - Open Data
+  - include in DALIA
+  type:
+  - Website
+  url: https://data.europa.eu/en/academy
+  language: en
+- authors:
+  - Publications Office of the European Union
+  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  license: CC-BY-4.0
+  name: 'Open Data Sharing Course Materials provided by the European Union'
+  publication_date: '2024-01-17'
+  tags:
+  - Research Data Management
+  - Open Data
+  - include in DALIA
+  type:
+  - Website
+  url: https://data.europa.eu/en/academy
+  language: en
+- authors:
+  - EOSC
+  description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
+  license: CC-BY-4.0
+  name: 'Skills4EOSC Training Courses on Open Data Sharing'
+  publication_date: '2024-01-17'
+  tags:
+  - Research Data Management
+  - Open Data
+  - include in DALIA
+  type:
+  - Website
+  url: https://www.skills4eosc.eu/participate/skills4eosc-training-courses
+  language: en
+- authors:
+  - Rodrigo Escobar Díaz Guerrero
+  - Jamile Mohammad Jafari
+  - Tobias Meyer-Zedler
+  - Michael Schmitt
+  - Juergen Popp
+  - Thomas Bocklitz
+  description: 'In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.'
+  license: CC-BY-4.0
+  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources'
+  publication_date: '2025-08-01'
+  tags:
+  - Research Data Management
+  - OMERO
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: https://arxiv.org/abs/2508.00654
+  language: en
+- authors:
   - Moore, Josh
   description: 'Presented at the 2025 International OME-NGFF workshop.
 
