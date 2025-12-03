@@ -24530,3 +24530,23 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+
+- authors:
+  - "Fran\xE7ois Chollet"
+  - Matt Watson
+  - Raja Nandhan
+  - Derek Chia
+  - Kuz-man
+  - Aziz Alto
+  - Boutaounte Faissal
+  - Rama Ramakrishnan
+  description: Jupyter notebooks for the code samples of the book "Deep Learning with
+    Python"
+  license: MIT License
+  name: deep-learning-with-python-notebooks
+  publication_date: '2017-09-05T19:47:56+00:00'
+  submission_date: '2025-12-03T15:53:58.326791'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/fchollet/deep-learning-with-python-notebooks
+  
