@@ -24485,6 +24485,7 @@ resources:
   url:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
+  uuid: 811d48cf-898f-4c9f-bf25-9ed1d941a8fd
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24496,6 +24497,7 @@ resources:
   url:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
+  uuid: a6436fd5-6eac-4d33-a892-d83ffd9cdc7e
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24506,6 +24508,7 @@ resources:
   url:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
+  uuid: 70812295-07bb-43c9-855f-7cfc0def09fd
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24518,6 +24521,7 @@ resources:
   url:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
+  uuid: 33ec6c7b-6e96-4fdf-9891-6bccd9b42a9f
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24530,3 +24534,4 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+  uuid: c1c51726-d167-40d6-bcfb-9f21a96eec23
