@@ -1,4 +1,4 @@
-# Robert haase (68)
+# Robert haase (70)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -481,6 +481,25 @@ Content type: Slides
 
 ---
 
+## Develop an LLM-based framework for translating KNIME workflows into Galaxy Imaging workflows
+
+Nguyen, Khanh Xuan, Matthias Bernt, Thomas Schnicke, Robert Haase, Riccardo Massei
+
+Published 2025-12-01
+
+Licensed CC-BY-4.0
+
+
+
+KNIME and Galaxy are leading workflow platforms widely used for imaging, data analysis, and automation. However, differences in their architectures make translating imaging workflows between them difficult and time- consuming. The lack of automated conversion workflow reuse. Enabling automatic conversion of KNIME imaging workflows into Galaxy could enhance accessibility, streamline image analysis with further Open Source Tools (i.e. OMERO, INTOB), and accelerate imaging-based scientific discovery. Our goal is to develop generative AI strategies for automated KNIME-to- Galaxy workflow translation using large language models (LLM). By learning from test workflows, the system will adapt to platform changes and improve accuracy over time.
+
+[https://zenodo.org/records/17775761](https://zenodo.org/records/17775761)
+
+[https://doi.org/10.5281/zenodo.17775761](https://doi.org/10.5281/zenodo.17775761)
+
+
+---
+
 ## Developing a Training Strategy
 
 Robert Haase
@@ -745,6 +764,25 @@ Content type: Slides, Presentation
 [https://f1000research.com/slides/11-746](https://f1000research.com/slides/11-746)
 
 [https://doi.org/10.7490/f1000research.1119026.1](https://doi.org/10.7490/f1000research.1119026.1)
+
+
+---
+
+## How LLMs impact BioImage Data Science
+
+Robert Haase
+
+Published 2025-11-21
+
+Licensed CC-BY-4.0
+
+
+
+In this slide-deck we dive into large language models for bioimage data science, focusing on code generation for bio image analysis. The slides also give an outlook on how AI-systems may change data analysis in the future through data analysis code generation.
+
+[https://zenodo.org/records/17669681](https://zenodo.org/records/17669681)
+
+[https://doi.org/10.5281/zenodo.17669681](https://doi.org/10.5281/zenodo.17669681)
 
 
 ---

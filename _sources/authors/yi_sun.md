@@ -1,4 +1,24 @@
-# Yi sun (6)
+# Yi sun (8)
+## Bioimage ANalysis Desktop Source Code
+
+Yi Sun, Christian Tischer, Jean-Karim Hériché
+
+Published 2025-11-21
+
+Licensed CC-BY-4.0
+
+
+
+The BAND platform offers cloud based desktops accessible with a web browser so that you can work on your data from anywhere with an internet connection.
+This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17671971](https://zenodo.org/records/17671971)
+
+[https://doi.org/10.5281/zenodo.17671971](https://doi.org/10.5281/zenodo.17671971)
+
+
+---
+
 ## Cloud-Based Virtual Desktops for Reproducible Research
 
 Yi Sun, Christian Tischer, Kelleher, Harry Alexander, Jean-Karim Heriche
@@ -37,6 +57,25 @@ Tags: Nfdi4Bioimage, Exclude From Dalia
 [https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
 
 [https://doi.org/10.5281/zenodo.17093454](https://doi.org/10.5281/zenodo.17093454)
+
+
+---
+
+## From Cells to Morphological Profiles A FAIR cloud processing pipeline using Galaxy
+
+Cruz C., Arsenio N., Pham, Thanh Huy, Collin Zimmer, Riccardo Massei, Yi Sun, Paul Czodrowski
+
+Published 2025-12-01
+
+Licensed CC-BY-4.0
+
+
+
+Galaxy is an online computational platform used by a global community of thousands of scientists for processing of large-scale data.This collective effort includes the development of the Galaxy software framework, the integration of analysis tools and visualizations, and the operation of public servers that provide access to Galaxy through web browsers (usegalaxy.eu). Galaxy increases the FAIRness of data analysis pipelines by&nbsp; providing versioned tools and workflows that can be annotated, shared and published. Furthermore, Galaxy has a dedicated interface for image data analysis&mdash;imaging.usegalaxy.eu&mdash;providing a comprehensive suite of tools and workflows tailored specifically for imaging scientists. Through the implementation of open source CellProfiler tool into the Galaxy framework, we are creating an interactive evaluation environment for the Cell Painting community. This environment can aid the drug discovery process.
+
+[https://zenodo.org/records/17775957](https://zenodo.org/records/17775957)
+
+[https://doi.org/10.5281/zenodo.17775957](https://doi.org/10.5281/zenodo.17775957)
 
 
 ---

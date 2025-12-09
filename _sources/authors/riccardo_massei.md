@@ -1,4 +1,4 @@
-# Riccardo massei (19)
+# Riccardo massei (22)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -39,6 +39,25 @@ Tags: Nfdi4Bioimage, Include In Dalia
 
 ---
 
+## Develop an LLM-based framework for translating KNIME workflows into Galaxy Imaging workflows
+
+Nguyen, Khanh Xuan, Matthias Bernt, Thomas Schnicke, Robert Haase, Riccardo Massei
+
+Published 2025-12-01
+
+Licensed CC-BY-4.0
+
+
+
+KNIME and Galaxy are leading workflow platforms widely used for imaging, data analysis, and automation. However, differences in their architectures make translating imaging workflows between them difficult and time- consuming. The lack of automated conversion workflow reuse. Enabling automatic conversion of KNIME imaging workflows into Galaxy could enhance accessibility, streamline image analysis with further Open Source Tools (i.e. OMERO, INTOB), and accelerate imaging-based scientific discovery. Our goal is to develop generative AI strategies for automated KNIME-to- Galaxy workflow translation using large language models (LLM). By learning from test workflows, the system will adapt to platform changes and improve accuracy over time.
+
+[https://zenodo.org/records/17775761](https://zenodo.org/records/17775761)
+
+[https://doi.org/10.5281/zenodo.17775761](https://doi.org/10.5281/zenodo.17775761)
+
+
+---
+
 ## Developing (semi)automatic analysis pipelines and technological solutions for metadata annotation and management in high-content screening (HCS) bioimaging
 
 Riccardo Massei, Stefan Scholz, Wibke Busch, Thomas Schnike, Hannes Bohring, Jan Bumberger
@@ -75,6 +94,25 @@ Tags: Nfdi4Bioimage, Exclude From Dalia
 [https://zenodo.org/records/17093454](https://zenodo.org/records/17093454)
 
 [https://doi.org/10.5281/zenodo.17093454](https://doi.org/10.5281/zenodo.17093454)
+
+
+---
+
+## From Cells to Morphological Profiles A FAIR cloud processing pipeline using Galaxy
+
+Cruz C., Arsenio N., Pham, Thanh Huy, Collin Zimmer, Riccardo Massei, Yi Sun, Paul Czodrowski
+
+Published 2025-12-01
+
+Licensed CC-BY-4.0
+
+
+
+Galaxy is an online computational platform used by a global community of thousands of scientists for processing of large-scale data.This collective effort includes the development of the Galaxy software framework, the integration of analysis tools and visualizations, and the operation of public servers that provide access to Galaxy through web browsers (usegalaxy.eu). Galaxy increases the FAIRness of data analysis pipelines by&nbsp; providing versioned tools and workflows that can be annotated, shared and published. Furthermore, Galaxy has a dedicated interface for image data analysis&mdash;imaging.usegalaxy.eu&mdash;providing a comprehensive suite of tools and workflows tailored specifically for imaging scientists. Through the implementation of open source CellProfiler tool into the Galaxy framework, we are creating an interactive evaluation environment for the Cell Painting community. This environment can aid the drug discovery process.
+
+[https://zenodo.org/records/17775957](https://zenodo.org/records/17775957)
+
+[https://doi.org/10.5281/zenodo.17775957](https://doi.org/10.5281/zenodo.17775957)
 
 
 ---
@@ -368,6 +406,32 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 [https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
+
+
+---
+
+## [SaxFDMTagung2025] Share your Bioimage Data with the World
+
+Cornelia Wetzker, Riccardo Massei, Michael Schlierf
+
+Published 2025-11-20
+
+Licensed CC-BY-4.0
+
+
+
+This poster presents motivations and strategies to share bioimage data in life science research. It presents NFDI4BIOIMAGE as a consortium in research data management in bioimaging and bioimage analysis and its data stewardship team.
+
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+
+&nbsp;
+
+[https://zenodo.org/records/17659149](https://zenodo.org/records/17659149)
+
+[https://doi.org/10.5281/zenodo.17659149](https://doi.org/10.5281/zenodo.17659149)
 
 
 ---

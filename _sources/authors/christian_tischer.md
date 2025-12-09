@@ -1,4 +1,4 @@
-# Christian tischer (15)
+# Christian tischer (16)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -65,6 +65,26 @@ Tags: Exclude From Dalia
 Content type: Slides
 
 [https://github.com/tischi/presentation-image-analysis](https://github.com/tischi/presentation-image-analysis)
+
+
+---
+
+## Bioimage ANalysis Desktop Source Code
+
+Yi Sun, Christian Tischer, Jean-Karim Hériché
+
+Published 2025-11-21
+
+Licensed CC-BY-4.0
+
+
+
+The BAND platform offers cloud based desktops accessible with a web browser so that you can work on your data from anywhere with an internet connection.
+This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+[https://zenodo.org/records/17671971](https://zenodo.org/records/17671971)
+
+[https://doi.org/10.5281/zenodo.17671971](https://doi.org/10.5281/zenodo.17671971)
 
 
 ---
@@ -185,7 +205,7 @@ Tags: Exclude From Dalia
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 

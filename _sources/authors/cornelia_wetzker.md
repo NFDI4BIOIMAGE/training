@@ -1,4 +1,4 @@
-# Cornelia wetzker (9)
+# Cornelia wetzker (10)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -193,6 +193,32 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 [https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
+
+
+---
+
+## [SaxFDMTagung2025] Share your Bioimage Data with the World
+
+Cornelia Wetzker, Riccardo Massei, Michael Schlierf
+
+Published 2025-11-20
+
+Licensed CC-BY-4.0
+
+
+
+This poster presents motivations and strategies to share bioimage data in life science research. It presents NFDI4BIOIMAGE as a consortium in research data management in bioimaging and bioimage analysis and its data stewardship team.
+
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+
+&nbsp;
+
+[https://zenodo.org/records/17659149](https://zenodo.org/records/17659149)
+
+[https://doi.org/10.5281/zenodo.17659149](https://doi.org/10.5281/zenodo.17659149)
 
 
 ---
