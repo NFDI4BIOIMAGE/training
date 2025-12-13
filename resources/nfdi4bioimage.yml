@@ -24485,6 +24485,7 @@ resources:
   url:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
+  uuid: 290029f4-a46c-4e81-baaf-0a3d6a257c23
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24496,6 +24497,7 @@ resources:
   url:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
+  uuid: 9307a344-3b24-463c-aa7f-18df6ec2ddc7
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24506,6 +24508,7 @@ resources:
   url:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
+  uuid: 02d3f4ab-5ccb-4958-9361-c6094254e154
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24518,6 +24521,7 @@ resources:
   url:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
+  uuid: bbe8aa7b-2208-418b-bc39-511e9b1fe5c0
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24530,6 +24534,7 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+  uuid: c115bdf1-743e-4dad-b797-4992f4571721
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -24555,6 +24560,7 @@ resources:
   url:
   - https://zenodo.org/records/17775761
   - https://doi.org/10.5281/zenodo.17775761
+  uuid: 5e618d9a-8cac-4e76-b694-f2313590e0f9
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -24583,6 +24589,7 @@ resources:
   url:
   - https://zenodo.org/records/17775957
   - https://doi.org/10.5281/zenodo.17775957
+  uuid: 65381760-607b-461e-a336-ce00d1406b06
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -24597,10 +24604,11 @@ resources:
   url:
   - https://zenodo.org/records/17669681
   - https://doi.org/10.5281/zenodo.17669681
+  uuid: edeb1862-ab7b-48ab-a70c-6070774ed942
 - authors:
   - Sun, Yi
   - Tischer, Christian
-  - "H\xE9rich\xE9, Jean-Karim"
+  - Hériché, Jean-Karim
   description: 'The BAND platform offers cloud based desktops accessible with a web
     browser so that you can work on your data from anywhere with an internet connection.
 
@@ -24615,6 +24623,7 @@ resources:
   url:
   - https://zenodo.org/records/17671971
   - https://doi.org/10.5281/zenodo.17671971
+  uuid: b9748f3c-e768-4ecf-95ee-1dd1f9edf171
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -24640,6 +24649,7 @@ resources:
   url:
   - https://zenodo.org/records/17659149
   - https://doi.org/10.5281/zenodo.17659149
+  uuid: d16d8a53-d5e9-478c-8a0e-a2feea2da051
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -24649,7 +24659,7 @@ resources:
   - Carvajal-Vallejos, Patricia K.
   - Das, Sudeep
   - De Pascalis, Francesca
-  - "D\xF6rr, Dorothea"
+  - Dörr, Dorothea
   - Exter, Katrina
   - Holub, Petr
   - Gurwitz, Kim Tamara
@@ -24657,10 +24667,10 @@ resources:
   - Lieutaud, Philippe
   - Lister, Allyson
   - Lopez, Joaquin
-  - "Madon, B\xE9n\xE9dicte"
+  - Madon, Bénédicte
   - Massimi, Marzia
   - Matteoni, Rafaele
-  - "M\xEErza, Maria"
+  - Mîrza, Maria
   - Morgan, Sarah
   - Oezdemir, Bugra
   - Panagiotopoulou, Maria
@@ -24710,6 +24720,7 @@ resources:
   url:
   - https://zenodo.org/records/17672046
   - https://doi.org/10.5281/zenodo.17672046
+  uuid: 34a2a700-18e1-4596-afee-48e54808a3df
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -24722,6 +24733,7 @@ resources:
   url:
   - https://zenodo.org/records/17725097
   - https://doi.org/10.5281/zenodo.17725097
+  uuid: e19b0eb0-b99e-469c-94e7-4f92a6342c0f
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -24747,3 +24759,4 @@ resources:
   url:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
+  uuid: 334dad2a-19e1-43af-9233-5c30ca4637f0
