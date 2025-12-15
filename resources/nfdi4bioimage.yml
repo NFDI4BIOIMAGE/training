@@ -24314,6 +24314,7 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+  file_formats: .pdf
 - authors:
   - Moore, Josh
   description: 'Presented at the 2025 International OME-NGFF workshop.
@@ -24328,6 +24329,7 @@ resources:
   - https://zenodo.org/records/17579804
   - https://doi.org/10.5281/zenodo.17579804
   uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+  file_formats: .pdf
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24353,6 +24355,7 @@ resources:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+  file_formats: .pdf
 - authors:
   - Wetzker, Cornelia
   - Fuchs, Vanessa
@@ -24372,6 +24375,7 @@ resources:
   - https://zenodo.org/records/17472821
   - https://doi.org/10.5281/zenodo.17472821
   uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
+  file_formats: .pdf * .pptx
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24397,6 +24401,7 @@ resources:
   - https://zenodo.org/records/17429285
   - https://doi.org/10.5281/zenodo.17429285
   uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+  file_formats: .pdf * .pptx
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24412,6 +24417,7 @@ resources:
   - https://zenodo.org/records/17424911
   - https://doi.org/10.5281/zenodo.17424911
   uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+  file_formats: .pdf
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24426,6 +24432,7 @@ resources:
   - https://zenodo.org/records/17404133
   - https://doi.org/10.5281/zenodo.17404133
   uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24441,6 +24448,7 @@ resources:
   - https://zenodo.org/records/17372593
   - https://doi.org/10.5281/zenodo.17372593
   uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24461,6 +24469,7 @@ resources:
   - https://zenodo.org/records/17191504
   - https://doi.org/10.5281/zenodo.17191504
   uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+  file_formats: .pdf
 - authors:
   - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
@@ -24473,6 +24482,7 @@ resources:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+  file_formats: .ims
 - authors:
   - Soltwedel, Johannes Richard
   description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
@@ -24485,6 +24495,7 @@ resources:
   url:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
+  file_formats: .pptx
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24496,6 +24507,7 @@ resources:
   url:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
+  file_formats: .pdf
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24506,6 +24518,7 @@ resources:
   url:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
+  file_formats: .ets * .vsi
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24518,6 +24531,7 @@ resources:
   url:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
+  file_formats: .pdf * .svg
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24530,6 +24544,7 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+  file_formats: .pdf * .pptx
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -24555,6 +24570,7 @@ resources:
   url:
   - https://zenodo.org/records/17775761
   - https://doi.org/10.5281/zenodo.17775761
+  file_formats: .pdf
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -24583,6 +24599,7 @@ resources:
   url:
   - https://zenodo.org/records/17775957
   - https://doi.org/10.5281/zenodo.17775957
+  file_formats: .pdf
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -24597,10 +24614,11 @@ resources:
   url:
   - https://zenodo.org/records/17669681
   - https://doi.org/10.5281/zenodo.17669681
+  file_formats: .pdf * .pptx
 - authors:
   - Sun, Yi
   - Tischer, Christian
-  - "H\xE9rich\xE9, Jean-Karim"
+  - Hériché, Jean-Karim
   description: 'The BAND platform offers cloud based desktops accessible with a web
     browser so that you can work on your data from anywhere with an internet connection.
 
@@ -24615,6 +24633,7 @@ resources:
   url:
   - https://zenodo.org/records/17671971
   - https://doi.org/10.5281/zenodo.17671971
+  file_formats: .zip
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -24640,6 +24659,7 @@ resources:
   url:
   - https://zenodo.org/records/17659149
   - https://doi.org/10.5281/zenodo.17659149
+  file_formats: .pdf * .svg
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -24649,7 +24669,7 @@ resources:
   - Carvajal-Vallejos, Patricia K.
   - Das, Sudeep
   - De Pascalis, Francesca
-  - "D\xF6rr, Dorothea"
+  - Dörr, Dorothea
   - Exter, Katrina
   - Holub, Petr
   - Gurwitz, Kim Tamara
@@ -24657,10 +24677,10 @@ resources:
   - Lieutaud, Philippe
   - Lister, Allyson
   - Lopez, Joaquin
-  - "Madon, B\xE9n\xE9dicte"
+  - Madon, Bénédicte
   - Massimi, Marzia
   - Matteoni, Rafaele
-  - "M\xEErza, Maria"
+  - Mîrza, Maria
   - Morgan, Sarah
   - Oezdemir, Bugra
   - Panagiotopoulou, Maria
@@ -24710,6 +24730,7 @@ resources:
   url:
   - https://zenodo.org/records/17672046
   - https://doi.org/10.5281/zenodo.17672046
+  file_formats: .pdf
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -24722,6 +24743,7 @@ resources:
   url:
   - https://zenodo.org/records/17725097
   - https://doi.org/10.5281/zenodo.17725097
+  file_formats: .czi
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -24747,3 +24769,4 @@ resources:
   url:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
+  file_formats: .zip
