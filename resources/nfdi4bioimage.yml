@@ -24747,3 +24747,238 @@ resources:
   url:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
+- authors:
+  - Wendt, Jens
+  - Bortolomeazzi, Michele
+  description: 'OMERO and Research Data Management Workshop at the Georg-Speyer-Haus
+    in Frankfurt 09-10/12/2025.
+
+    Colllection of slides and materials for the OMERO and Research Data Management
+    Workshop at the Georg-Speyer-Haus in Frankfurt.
+
+    funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+    under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+    &nbsp;
+
+    Program
+
+    Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+
+    10.00 a.m.: Introduction and Welcome
+
+    10.15 a.m.: FAIR data management and OMERO introduction
+
+    11.15 a.m.: Data organization in OMERO using Tags
+
+    12.00 a.m.: Lunch Break
+
+    01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+
+    02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp;
+    -access through the API&nbsp; Macros and python scripts for data analysis and
+    interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+
+    03.30 p.m.: Break
+
+    04.00 p.m.: OMERO.figure
+
+    04.45 p.m.: A glance at data sharing in public repositories
+
+    05.15 p.m.: Time for questions and individual case discussions
+
+    ~ 05.30 /05.45 p.m.: End of Day 1
+
+    &nbsp;
+
+    Dec. 10th 2025 - Day 2 (IT staff and project management)
+
+    09:00 a.m. ~ 10:00 a.m.: OMERO practical
+
+    Short break
+
+    - OMERO technical setup:
+
+    ~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+
+    ~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+
+    12.30 a.m.: Lunch Break
+
+    1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to
+    set up OMERO'
+  license: cc-by-4.0
+  name: OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+  num_downloads: 5
+  publication_date: '2025-12-11'
+  submission_date: '2025-12-16T11:25:49.303069'
+  url:
+  - https://zenodo.org/records/17897525
+  - https://doi.org/10.5281/zenodo.17897525
+- authors:
+  - Wetzker, Cornelia
+  - Schlierf, Michael
+  description: 'Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines
+    didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement
+    f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie.
+    Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements,
+    der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug
+    OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im
+    Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig
+    die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
+
+    &nbsp;
+
+    C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen
+    der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.'
+  license: cc-by-4.0
+  name: "Didaktisches Konzept zur Einf\xFChrung ins Forschungsdatenmanagement (FDM)\
+    \ am Beispiel von Elektronischen Laborb\xFCchern (ELNs) und OMERO f\xFCr Bio-Bild-Verwaltung\
+    \ f\xFCr Studierende der Lebenswissenschaften"
+  num_downloads: 16
+  publication_date: '2025-12-10'
+  submission_date: '2025-12-16T11:25:50.401687'
+  url:
+  - https://zenodo.org/records/17876813
+  - https://doi.org/10.5281/zenodo.17876813
+- authors:
+  - Vedder, Lucia
+  - Peschel, Paul
+  - Bortolomeazzi, Michele
+  - Schmidt, Christian
+  - "Schr\xF6der, Katrin"
+  description: 'Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp;
+    Veranstaltungsort:
+
+
+    Hybrid event at University of Kassel (FB 10)
+
+
+    Veranstalter:
+
+
+    Universit&auml;tsbibliothek
+
+    Forschungsdaten-Service
+
+    NFDI4BIOIMAGE
+
+    FAIRagro
+
+    RTG Multiscale Clocks
+
+
+    Zielgruppen:
+
+
+    Promovierende/Doktorand:innen
+
+    Absolvent:innen
+
+    Wissenschaftliche Mitarbeitende
+
+    Gruppenleitungen
+
+    Postdoktorand:innen/Postdocs
+
+    Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+
+    Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+
+    Do you work with image data and want to optimize your data management workflows?
+    This workshop provides an overview of the key challenges associated with managing
+    image data and presents available support services. You will learn about useful
+    tools for image data management and how Bioimaging Research Data Management (RDM)
+    can be integrated into your everyday practice.
+
+    This workshop will not only provide knowledge in imaging data management but also
+    create an opportunity to get to know each other, network, and exchange ideas.
+
+    For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+
+    Content
+
+    Module 1:&nbsp;
+
+    General Introduction to Imaging Research Data Management
+
+    1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+
+    Module 2:&nbsp;
+
+    NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+
+    FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+
+    2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+
+    Module 3:
+
+    NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+
+    FAIRagro:&nbsp;Satellite and grid data: the view from above
+
+    3.10 pm - 4.00 pm: for researchers at all career levels
+
+    &nbsp;
+
+    It is possible to attend individual modules, and your choices can be made during
+    the registration process.
+
+
+
+    '
+  license: cc-by-4.0
+  name: '[Workshop] Image Data Management in the Biological Sciences and Agriculture
+    Research'
+  num_downloads: 54
+  publication_date: '2025-12-02'
+  submission_date: '2025-12-16T11:25:54.086699'
+  url:
+  - https://zenodo.org/records/17787401
+  - https://doi.org/10.5281/zenodo.17787401
+- authors:
+  - Boissonnet, Tom
+  - Massei, Riccardo
+  description: 'This record contains the presentations given at the 4th BioHackathon
+    Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the
+    project on "Integrating Data Science Capabilities within the OMERO Data Management
+    Ecosystem" and summarizing its results.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: de.NBI hackathon 2025 - Project 7 introduction and report presentations
+  num_downloads: 31
+  publication_date: '2025-12-08'
+  submission_date: '2025-12-16T11:26:05.625356'
+  url:
+  - https://zenodo.org/records/17856704
+  - https://doi.org/10.5281/zenodo.17856704
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Introductory slides for top-level understanding of ome-zarr, cloud
+    storage (S3) of ome-zarr data and usecases and nature of upcaming RFC5-style transformations.
+  license: cc-by-4.0
+  name: Introduction to OME-ZARR, S3 and transformations
+  num_downloads: 21
+  publication_date: '2025-12-09'
+  submission_date: '2025-12-16T11:29:42.879922'
+  url:
+  - https://zenodo.org/records/17898202
+  - https://doi.org/10.5281/zenodo.17898202
+- authors:
+  - Dayer, Andrew J
+  license: cc-by-4.0
+  name: 'Test files for Nikon NEF distorted image #4389'
+  num_downloads: 1
+  publication_date: '2025-12-12'
+  submission_date: '2025-12-16T11:35:49.229001'
+  url:
+  - https://zenodo.org/records/17914642
+  - https://doi.org/10.5281/zenodo.17914642
