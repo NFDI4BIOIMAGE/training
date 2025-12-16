@@ -1,4 +1,4 @@
-# Michele bortolomeazzi (18)
+# Michele bortolomeazzi (20)
 ## BHG2023-OMERO-ARC
 
 Andrea Schrader, Michele Bortolomeazzi, Niraj Kandpal, Torsten Stöter, Kevin Schneider, Peter Zentis, Josh Moore, Jeam-Marie Burel, Tom Boissonnet
@@ -477,6 +477,50 @@ Content type: Github Repository
 
 ---
 
+## OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+
+Jens Wendt, Michele Bortolomeazzi
+
+Published 2025-12-11
+
+Licensed CC-BY-4.0
+
+
+
+OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt 09-10/12/2025.
+Colllection of slides and materials for the OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+&nbsp;
+Program
+Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+10.00 a.m.: Introduction and Welcome
+10.15 a.m.: FAIR data management and OMERO introduction
+11.15 a.m.: Data organization in OMERO using Tags
+12.00 a.m.: Lunch Break
+01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp; -access through the API&nbsp; Macros and python scripts for data analysis and interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+03.30 p.m.: Break
+04.00 p.m.: OMERO.figure
+04.45 p.m.: A glance at data sharing in public repositories
+05.15 p.m.: Time for questions and individual case discussions
+~ 05.30 /05.45 p.m.: End of Day 1
+&nbsp;
+Dec. 10th 2025 - Day 2 (IT staff and project management)
+09:00 a.m. ~ 10:00 a.m.: OMERO practical
+Short break
+- OMERO technical setup:
+~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+12.30 a.m.: Lunch Break
+1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to set up OMERO
+
+[https://zenodo.org/records/17897525](https://zenodo.org/records/17897525)
+
+[https://doi.org/10.5281/zenodo.17897525](https://doi.org/10.5281/zenodo.17897525)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
 
 Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
@@ -607,6 +651,69 @@ Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
 [https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
+
+
+---
+
+## [Workshop] Image Data Management in the Biological Sciences and Agriculture Research
+
+Lucia Vedder, Paul Peschel, Michele Bortolomeazzi, Christian Schmidt, Katrin Schröder
+
+Published 2025-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp; Veranstaltungsort:
+
+Hybrid event at University of Kassel (FB 10)
+
+Veranstalter:
+
+Universit&auml;tsbibliothek
+Forschungsdaten-Service
+NFDI4BIOIMAGE
+FAIRagro
+RTG Multiscale Clocks
+
+Zielgruppen:
+
+Promovierende/Doktorand:innen
+Absolvent:innen
+Wissenschaftliche Mitarbeitende
+Gruppenleitungen
+Postdoktorand:innen/Postdocs
+Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+Do you work with image data and want to optimize your data management workflows? This workshop provides an overview of the key challenges associated with managing image data and presents available support services. You will learn about useful tools for image data management and how Bioimaging Research Data Management (RDM) can be integrated into your everyday practice.
+This workshop will not only provide knowledge in imaging data management but also create an opportunity to get to know each other, network, and exchange ideas.
+For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+Content
+Module 1:&nbsp;
+General Introduction to Imaging Research Data Management
+1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+Module 2:&nbsp;
+NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+Module 3:
+NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+FAIRagro:&nbsp;Satellite and grid data: the view from above
+3.10 pm - 4.00 pm: for researchers at all career levels
+&nbsp;
+It is possible to attend individual modules, and your choices can be made during the registration process.
+
+
+
+
+[https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
+
+[https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
 
 
 ---

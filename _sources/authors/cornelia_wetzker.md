@@ -1,4 +1,4 @@
-# Cornelia wetzker (10)
+# Cornelia wetzker (11)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -39,6 +39,27 @@ Content type: Slides
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 [https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
+
+---
+
+## Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung für Studierende der Lebenswissenschaften
+
+Cornelia Wetzker, Michael Schlierf
+
+Published 2025-12-10
+
+Licensed CC-BY-4.0
+
+
+
+Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie. Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements, der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
+&nbsp;
+C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17876813](https://zenodo.org/records/17876813)
+
+[https://doi.org/10.5281/zenodo.17876813](https://doi.org/10.5281/zenodo.17876813)
 
 
 ---

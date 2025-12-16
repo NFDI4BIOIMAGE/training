@@ -1,4 +1,4 @@
-# Zenodo.org (355)
+# Zenodo.org (361)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -2353,6 +2353,27 @@ Tags: Include In Dalia
 
 ---
 
+## Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung für Studierende der Lebenswissenschaften
+
+Cornelia Wetzker, Michael Schlierf
+
+Published 2025-12-10
+
+Licensed CC-BY-4.0
+
+
+
+Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie. Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements, der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
+&nbsp;
+C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17876813](https://zenodo.org/records/17876813)
+
+[https://doi.org/10.5281/zenodo.17876813](https://doi.org/10.5281/zenodo.17876813)
+
+
+---
+
 ## Digital Phase Contrast on Primary Dermal Human Fibroblasts cells
 
 Laura Capolupo
@@ -4571,6 +4592,25 @@ Tags: Include In Dalia
 [https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
 
 [https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
+
+
+---
+
+## Introduction to OME-ZARR, S3 and transformations
+
+Soltwedel, Johannes Richard
+
+Published 2025-12-09
+
+Licensed CC-BY-4.0
+
+
+
+Introductory slides for top-level understanding of ome-zarr, cloud storage (S3) of ome-zarr data and usecases and nature of upcaming RFC5-style transformations.
+
+[https://zenodo.org/records/17898202](https://zenodo.org/records/17898202)
+
+[https://doi.org/10.5281/zenodo.17898202](https://doi.org/10.5281/zenodo.17898202)
 
 
 ---
@@ -8485,6 +8525,50 @@ Content type: Slides
 
 ---
 
+## OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+
+Jens Wendt, Michele Bortolomeazzi
+
+Published 2025-12-11
+
+Licensed CC-BY-4.0
+
+
+
+OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt 09-10/12/2025.
+Colllection of slides and materials for the OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+&nbsp;
+Program
+Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+10.00 a.m.: Introduction and Welcome
+10.15 a.m.: FAIR data management and OMERO introduction
+11.15 a.m.: Data organization in OMERO using Tags
+12.00 a.m.: Lunch Break
+01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp; -access through the API&nbsp; Macros and python scripts for data analysis and interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+03.30 p.m.: Break
+04.00 p.m.: OMERO.figure
+04.45 p.m.: A glance at data sharing in public repositories
+05.15 p.m.: Time for questions and individual case discussions
+~ 05.30 /05.45 p.m.: End of Day 1
+&nbsp;
+Dec. 10th 2025 - Day 2 (IT staff and project management)
+09:00 a.m. ~ 10:00 a.m.: OMERO practical
+Short break
+- OMERO technical setup:
+~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+12.30 a.m.: Lunch Break
+1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to set up OMERO
+
+[https://zenodo.org/records/17897525](https://zenodo.org/records/17897525)
+
+[https://doi.org/10.5281/zenodo.17897525](https://doi.org/10.5281/zenodo.17897525)
+
+
+---
+
 ## OMExcavator: a tool for exporting and connecting  Bioimaging-specific metadata in wider knowledge graphs
 
 Stefan Dvoretskii, Klaus Maier-Hein, Marco Nolden, Christian Schmidt, Michele Bortolomeazzi, Josh Moore
@@ -8753,7 +8837,7 @@ Tags: Exclude From Dalia
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -10557,6 +10641,23 @@ Licensed CC-BY-4.0
 
 ---
 
+## Test files for Nikon NEF distorted image #4389
+
+Dayer, Andrew J
+
+Published 2025-12-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17914642](https://zenodo.org/records/17914642)
+
+[https://doi.org/10.5281/zenodo.17914642](https://doi.org/10.5281/zenodo.17914642)
+
+
+---
+
 ## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -11842,6 +11943,69 @@ Tags: Include In Dalia
 
 ---
 
+## [Workshop] Image Data Management in the Biological Sciences and Agriculture Research
+
+Lucia Vedder, Paul Peschel, Michele Bortolomeazzi, Christian Schmidt, Katrin Schröder
+
+Published 2025-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp; Veranstaltungsort:
+
+Hybrid event at University of Kassel (FB 10)
+
+Veranstalter:
+
+Universit&auml;tsbibliothek
+Forschungsdaten-Service
+NFDI4BIOIMAGE
+FAIRagro
+RTG Multiscale Clocks
+
+Zielgruppen:
+
+Promovierende/Doktorand:innen
+Absolvent:innen
+Wissenschaftliche Mitarbeitende
+Gruppenleitungen
+Postdoktorand:innen/Postdocs
+Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+Do you work with image data and want to optimize your data management workflows? This workshop provides an overview of the key challenges associated with managing image data and presents available support services. You will learn about useful tools for image data management and how Bioimaging Research Data Management (RDM) can be integrated into your everyday practice.
+This workshop will not only provide knowledge in imaging data management but also create an opportunity to get to know each other, network, and exchange ideas.
+For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+Content
+Module 1:&nbsp;
+General Introduction to Imaging Research Data Management
+1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+Module 2:&nbsp;
+NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+Module 3:
+NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+FAIRagro:&nbsp;Satellite and grid data: the view from above
+3.10 pm - 4.00 pm: for researchers at all career levels
+&nbsp;
+It is possible to attend individual modules, and your choices can be made during the registration process.
+
+
+
+
+[https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
+
+[https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
+
+
+---
+
 ## [Workshop] Managing FAIR microscopy data at scale for universities and research institutions: an introduction for non-imaging stakeholders
 
 Christian Schmidt, Michele Bortolomeazzi, Ksenia Krooß, Jan-Philipp Mallm, Elisa Ferrando-May, Stefanie Weidtkamp-Peters
@@ -11901,6 +12065,26 @@ Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 [https://zenodo.org/records/13861026](https://zenodo.org/records/13861026)
 
 [https://doi.org/10.5281/zenodo.13861026](https://doi.org/10.5281/zenodo.13861026)
+
+
+---
+
+## de.NBI hackathon 2025 - Project 7 introduction and report presentations
+
+Tom Boissonnet, Riccardo Massei
+
+Published 2025-12-08
+
+Licensed CC-BY-4.0
+
+
+
+This record contains the presentations given at the 4th BioHackathon Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the project on "Integrating Data Science Capabilities within the OMERO Data Management Ecosystem" and summarizing its results.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17856704](https://zenodo.org/records/17856704)
+
+[https://doi.org/10.5281/zenodo.17856704](https://doi.org/10.5281/zenodo.17856704)
 
 
 ---

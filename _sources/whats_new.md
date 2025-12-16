@@ -1,115 +1,40 @@
 # Recently added (10)
-## Bioimage ANalysis Desktop Source Code
+## Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung für Studierende der Lebenswissenschaften
 
-Yi Sun, Christian Tischer, Jean-Karim Hériché
+Cornelia Wetzker, Michael Schlierf
 
-Published 2025-11-21
+Published 2025-12-10
 
 Licensed CC-BY-4.0
 
 
 
-The BAND platform offers cloud based desktops accessible with a web browser so that you can work on your data from anywhere with an internet connection.
-This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie. Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements, der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
+&nbsp;
+C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.
 
-[https://zenodo.org/records/17671971](https://zenodo.org/records/17671971)
+[https://zenodo.org/records/17876813](https://zenodo.org/records/17876813)
 
-[https://doi.org/10.5281/zenodo.17671971](https://doi.org/10.5281/zenodo.17671971)
+[https://doi.org/10.5281/zenodo.17876813](https://doi.org/10.5281/zenodo.17876813)
 
 
 ---
 
-## Develop an LLM-based framework for translating KNIME workflows into Galaxy Imaging workflows
+## Introduction to OME-ZARR, S3 and transformations
 
-Nguyen, Khanh Xuan, Matthias Bernt, Thomas Schnicke, Robert Haase, Riccardo Massei
+Soltwedel, Johannes Richard
 
-Published 2025-12-01
-
-Licensed CC-BY-4.0
-
-
-
-KNIME and Galaxy are leading workflow platforms widely used for imaging, data analysis, and automation. However, differences in their architectures make translating imaging workflows between them difficult and time- consuming. The lack of automated conversion workflow reuse. Enabling automatic conversion of KNIME imaging workflows into Galaxy could enhance accessibility, streamline image analysis with further Open Source Tools (i.e. OMERO, INTOB), and accelerate imaging-based scientific discovery. Our goal is to develop generative AI strategies for automated KNIME-to- Galaxy workflow translation using large language models (LLM). By learning from test workflows, the system will adapt to platform changes and improve accuracy over time.
-
-[https://zenodo.org/records/17775761](https://zenodo.org/records/17775761)
-
-[https://doi.org/10.5281/zenodo.17775761](https://doi.org/10.5281/zenodo.17775761)
-
-
----
-
-## From Cells to Morphological Profiles A FAIR cloud processing pipeline using Galaxy
-
-Cruz C., Arsenio N., Pham, Thanh Huy, Collin Zimmer, Riccardo Massei, Yi Sun, Paul Czodrowski
-
-Published 2025-12-01
+Published 2025-12-09
 
 Licensed CC-BY-4.0
 
 
 
-Galaxy is an online computational platform used by a global community of thousands of scientists for processing of large-scale data.This collective effort includes the development of the Galaxy software framework, the integration of analysis tools and visualizations, and the operation of public servers that provide access to Galaxy through web browsers (usegalaxy.eu). Galaxy increases the FAIRness of data analysis pipelines by&nbsp; providing versioned tools and workflows that can be annotated, shared and published. Furthermore, Galaxy has a dedicated interface for image data analysis&mdash;imaging.usegalaxy.eu&mdash;providing a comprehensive suite of tools and workflows tailored specifically for imaging scientists. Through the implementation of open source CellProfiler tool into the Galaxy framework, we are creating an interactive evaluation environment for the Cell Painting community. This environment can aid the drug discovery process.
+Introductory slides for top-level understanding of ome-zarr, cloud storage (S3) of ome-zarr data and usecases and nature of upcaming RFC5-style transformations.
 
-[https://zenodo.org/records/17775957](https://zenodo.org/records/17775957)
+[https://zenodo.org/records/17898202](https://zenodo.org/records/17898202)
 
-[https://doi.org/10.5281/zenodo.17775957](https://doi.org/10.5281/zenodo.17775957)
-
-
----
-
-## GloBIAS Presentation at Latin America BioImaging Meeting
-
-Corbat, Agustin Andres
-
-Published 2025-11-11
-
-Licensed CC-BY-4.0
-
-
-
-Presentation about the Global BioImage Analysts' Society (GloBIAS) deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
-
-[https://zenodo.org/records/17632823](https://zenodo.org/records/17632823)
-
-[https://doi.org/10.5281/zenodo.17632823](https://doi.org/10.5281/zenodo.17632823)
-
-
----
-
-## GloBIAS: Strengthening the Foundations of Bioimage Analysis
-
-Corbat, Agustin Andres
-
-Published 2025-11-10
-
-Licensed CC-BY-4.0
-
-
-
-Poster presented at LABI Meeting 2025: From Data to Discovery about the Global BioImage Analysts' Society.
-
-[https://zenodo.org/records/17633744](https://zenodo.org/records/17633744)
-
-[https://doi.org/10.5281/zenodo.17633744](https://doi.org/10.5281/zenodo.17633744)
-
-
----
-
-## How LLMs impact BioImage Data Science
-
-Robert Haase
-
-Published 2025-11-21
-
-Licensed CC-BY-4.0
-
-
-
-In this slide-deck we dive into large language models for bioimage data science, focusing on code generation for bio image analysis. The slides also give an outlook on how AI-systems may change data analysis in the future through data analysis code generation.
-
-[https://zenodo.org/records/17669681](https://zenodo.org/records/17669681)
-
-[https://doi.org/10.5281/zenodo.17669681](https://doi.org/10.5281/zenodo.17669681)
+[https://doi.org/10.5281/zenodo.17898202](https://doi.org/10.5281/zenodo.17898202)
 
 
 ---
@@ -135,6 +60,50 @@ European Life Science Research Infrastructures (LS-RIs), one of the five major R
 
 ---
 
+## OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+
+Jens Wendt, Michele Bortolomeazzi
+
+Published 2025-12-11
+
+Licensed CC-BY-4.0
+
+
+
+OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt 09-10/12/2025.
+Colllection of slides and materials for the OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+&nbsp;
+Program
+Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+10.00 a.m.: Introduction and Welcome
+10.15 a.m.: FAIR data management and OMERO introduction
+11.15 a.m.: Data organization in OMERO using Tags
+12.00 a.m.: Lunch Break
+01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp; -access through the API&nbsp; Macros and python scripts for data analysis and interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+03.30 p.m.: Break
+04.00 p.m.: OMERO.figure
+04.45 p.m.: A glance at data sharing in public repositories
+05.15 p.m.: Time for questions and individual case discussions
+~ 05.30 /05.45 p.m.: End of Day 1
+&nbsp;
+Dec. 10th 2025 - Day 2 (IT staff and project management)
+09:00 a.m. ~ 10:00 a.m.: OMERO practical
+Short break
+- OMERO technical setup:
+~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+12.30 a.m.: Lunch Break
+1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to set up OMERO
+
+[https://zenodo.org/records/17897525](https://zenodo.org/records/17897525)
+
+[https://doi.org/10.5281/zenodo.17897525](https://doi.org/10.5281/zenodo.17897525)
+
+
+---
+
 ## Sample image data and annotations associated to Presynaptic Actin Nanostructures: A Reproducibility Case Study
 
 Rensu Theart, Florian Levet, Hernandez-Herrera, Christophe Leterrier, de la Ballina, Laura R
@@ -152,6 +121,23 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 [https://zenodo.org/records/17792816](https://zenodo.org/records/17792816)
 
 [https://doi.org/10.5281/zenodo.17792816](https://doi.org/10.5281/zenodo.17792816)
+
+
+---
+
+## Test files for Nikon NEF distorted image #4389
+
+Dayer, Andrew J
+
+Published 2025-12-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/17914642](https://zenodo.org/records/17914642)
+
+[https://doi.org/10.5281/zenodo.17914642](https://doi.org/10.5281/zenodo.17914642)
 
 
 ---
@@ -178,6 +164,89 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/17659149](https://zenodo.org/records/17659149)
 
 [https://doi.org/10.5281/zenodo.17659149](https://doi.org/10.5281/zenodo.17659149)
+
+
+---
+
+## [Workshop] Image Data Management in the Biological Sciences and Agriculture Research
+
+Lucia Vedder, Paul Peschel, Michele Bortolomeazzi, Christian Schmidt, Katrin Schröder
+
+Published 2025-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp; Veranstaltungsort:
+
+Hybrid event at University of Kassel (FB 10)
+
+Veranstalter:
+
+Universit&auml;tsbibliothek
+Forschungsdaten-Service
+NFDI4BIOIMAGE
+FAIRagro
+RTG Multiscale Clocks
+
+Zielgruppen:
+
+Promovierende/Doktorand:innen
+Absolvent:innen
+Wissenschaftliche Mitarbeitende
+Gruppenleitungen
+Postdoktorand:innen/Postdocs
+Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+Do you work with image data and want to optimize your data management workflows? This workshop provides an overview of the key challenges associated with managing image data and presents available support services. You will learn about useful tools for image data management and how Bioimaging Research Data Management (RDM) can be integrated into your everyday practice.
+This workshop will not only provide knowledge in imaging data management but also create an opportunity to get to know each other, network, and exchange ideas.
+For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+Content
+Module 1:&nbsp;
+General Introduction to Imaging Research Data Management
+1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+Module 2:&nbsp;
+NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+Module 3:
+NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+FAIRagro:&nbsp;Satellite and grid data: the view from above
+3.10 pm - 4.00 pm: for researchers at all career levels
+&nbsp;
+It is possible to attend individual modules, and your choices can be made during the registration process.
+
+
+
+
+[https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
+
+[https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
+
+
+---
+
+## de.NBI hackathon 2025 - Project 7 introduction and report presentations
+
+Tom Boissonnet, Riccardo Massei
+
+Published 2025-12-08
+
+Licensed CC-BY-4.0
+
+
+
+This record contains the presentations given at the 4th BioHackathon Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the project on "Integrating Data Science Capabilities within the OMERO Data Management Ecosystem" and summarizing its results.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17856704](https://zenodo.org/records/17856704)
+
+[https://doi.org/10.5281/zenodo.17856704](https://doi.org/10.5281/zenodo.17856704)
 
 
 ---

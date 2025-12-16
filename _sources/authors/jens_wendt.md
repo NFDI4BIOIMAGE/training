@@ -1,4 +1,4 @@
-# Jens wendt (9)
+# Jens wendt (10)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -78,6 +78,50 @@ Tags: Research Data Management, FAIR-Principles, Bioimage Analysis, Nfdi4Bioimag
 Content type: Github Repository
 
 [https://zenodo.org/doi/10.5281/zenodo.10609770](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
+
+---
+
+## OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+
+Jens Wendt, Michele Bortolomeazzi
+
+Published 2025-12-11
+
+Licensed CC-BY-4.0
+
+
+
+OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt 09-10/12/2025.
+Colllection of slides and materials for the OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+&nbsp;
+Program
+Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+10.00 a.m.: Introduction and Welcome
+10.15 a.m.: FAIR data management and OMERO introduction
+11.15 a.m.: Data organization in OMERO using Tags
+12.00 a.m.: Lunch Break
+01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp; -access through the API&nbsp; Macros and python scripts for data analysis and interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+03.30 p.m.: Break
+04.00 p.m.: OMERO.figure
+04.45 p.m.: A glance at data sharing in public repositories
+05.15 p.m.: Time for questions and individual case discussions
+~ 05.30 /05.45 p.m.: End of Day 1
+&nbsp;
+Dec. 10th 2025 - Day 2 (IT staff and project management)
+09:00 a.m. ~ 10:00 a.m.: OMERO practical
+Short break
+- OMERO technical setup:
+~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+12.30 a.m.: Lunch Break
+1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to set up OMERO
+
+[https://zenodo.org/records/17897525](https://zenodo.org/records/17897525)
+
+[https://doi.org/10.5281/zenodo.17897525](https://doi.org/10.5281/zenodo.17897525)
 
 
 ---

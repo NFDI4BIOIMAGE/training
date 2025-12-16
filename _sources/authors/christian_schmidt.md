@@ -1,4 +1,4 @@
-# Christian schmidt (26)
+# Christian schmidt (27)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -624,6 +624,69 @@ Tags: Include In Dalia
 [https://zenodo.org/records/11109616](https://zenodo.org/records/11109616)
 
 [https://doi.org/10.5281/zenodo.11109616](https://doi.org/10.5281/zenodo.11109616)
+
+
+---
+
+## [Workshop] Image Data Management in the Biological Sciences and Agriculture Research
+
+Lucia Vedder, Paul Peschel, Michele Bortolomeazzi, Christian Schmidt, Katrin Schröder
+
+Published 2025-12-02
+
+Licensed CC-BY-4.0
+
+
+
+Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp; Veranstaltungsort:
+
+Hybrid event at University of Kassel (FB 10)
+
+Veranstalter:
+
+Universit&auml;tsbibliothek
+Forschungsdaten-Service
+NFDI4BIOIMAGE
+FAIRagro
+RTG Multiscale Clocks
+
+Zielgruppen:
+
+Promovierende/Doktorand:innen
+Absolvent:innen
+Wissenschaftliche Mitarbeitende
+Gruppenleitungen
+Postdoktorand:innen/Postdocs
+Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+Do you work with image data and want to optimize your data management workflows? This workshop provides an overview of the key challenges associated with managing image data and presents available support services. You will learn about useful tools for image data management and how Bioimaging Research Data Management (RDM) can be integrated into your everyday practice.
+This workshop will not only provide knowledge in imaging data management but also create an opportunity to get to know each other, network, and exchange ideas.
+For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+Content
+Module 1:&nbsp;
+General Introduction to Imaging Research Data Management
+1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+Module 2:&nbsp;
+NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+Module 3:
+NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+FAIRagro:&nbsp;Satellite and grid data: the view from above
+3.10 pm - 4.00 pm: for researchers at all career levels
+&nbsp;
+It is possible to attend individual modules, and your choices can be made during the registration process.
+
+
+
+
+[https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
+
+[https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
 
 
 ---

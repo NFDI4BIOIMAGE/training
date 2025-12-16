@@ -1,4 +1,4 @@
-# Tom boissonnet (18)
+# Tom boissonnet (19)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -500,9 +500,29 @@ Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 ---
 
+## de.NBI hackathon 2025 - Project 7 introduction and report presentations
+
+Tom Boissonnet, Riccardo Massei
+
+Published 2025-12-08
+
+Licensed CC-BY-4.0
+
+
+
+This record contains the presentations given at the 4th BioHackathon Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the project on "Integrating Data Science Capabilities within the OMERO Data Management Ecosystem" and summarizing its results.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17856704](https://zenodo.org/records/17856704)
+
+[https://doi.org/10.5281/zenodo.17856704](https://doi.org/10.5281/zenodo.17856704)
+
+
+---
+
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

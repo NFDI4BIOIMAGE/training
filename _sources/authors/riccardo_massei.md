@@ -1,4 +1,4 @@
-# Riccardo massei (22)
+# Riccardo massei (23)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -465,6 +465,26 @@ Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 [https://zenodo.org/records/11350689](https://zenodo.org/records/11350689)
 
 [https://doi.org/10.5281/zenodo.11350689](https://doi.org/10.5281/zenodo.11350689)
+
+
+---
+
+## de.NBI hackathon 2025 - Project 7 introduction and report presentations
+
+Tom Boissonnet, Riccardo Massei
+
+Published 2025-12-08
+
+Licensed CC-BY-4.0
+
+
+
+This record contains the presentations given at the 4th BioHackathon Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the project on "Integrating Data Science Capabilities within the OMERO Data Management Ecosystem" and summarizing its results.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/17856704](https://zenodo.org/records/17856704)
+
+[https://doi.org/10.5281/zenodo.17856704](https://doi.org/10.5281/zenodo.17856704)
 
 
 ---
