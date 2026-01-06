@@ -25102,3 +25102,80 @@ resources:
   - Data
   url: https://huggingface.co/datasets/RationAI/MoNuSeg
   language: en
+- authors:
+  - Engelhardt, Claudia
+  - Haase, Robert
+  - Hundt, Carolin
+  - Langermann, Florence
+  - Voigt, Pia
+  description: Im Rahmen einer Kooperation zwischen der s&auml;chsischen FDM-Landesinitiative
+    SaxFDM, dem Datenkompetenzzentrum Come2Data sowie dem Data Science Center ScaDS.AI
+    in Leipzig und NFDI4Bioimage wurde der Train-the-Trainer Workshop f&uuml;r das
+    Forschungsdatenmanagement durchgef&uuml;hrt. Die hier ver&ouml;ffentlichten Folien
+    basieren auf dem Train-the-Trainer Konzept (v05) erarbeitet durch Mitglieder der&nbsp;UAG
+    Schulungen/Fortbildungen der DINI/nestor-AG Forschungsdaten. Die behandelten Themen
+    umfassen sowohl die Aspekte des Forschungsdatenmanagements als auch didaktischen
+    Einheiten zu Lernkonzepten, Workshopgestaltung und Methoden.
+  license: cc-by-4.0
+  name: Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)
+  num_downloads: 505
+  publication_date: '2025-12-18'
+  submission_date: '2026-01-06T11:25:11.334393'
+  url:
+  - https://zenodo.org/records/17978132
+  - https://doi.org/10.5281/zenodo.17978132
+- authors:
+  - Fuchs, Vanessa
+  - Zobel, Thomas
+  - Baldenius, Marie
+  - Wendt, Jens
+  description: "The presentations for the workshop \"Research Data Management\" at\
+    \ University M&uuml;nster on 25.11.2025.\nfunded by the Deutsche Forschungsgemeinschaft\
+    \ (DFG, German Research Foundation) under the National Research Data Infrastructure\
+    \ &ndash; NFDI 46/1 &ndash; 501864659\nProgram:\n\n\n\n09:00 - 09:30\nIntroduction\n\
+    \n\n09.30 - 10:30\nRDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files\
+    \ and folders\n\n\n10:30 - 11:00\nCoffee break \u2615\n\n\n11:00 - 12:00\nOMERO\
+    \ basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces\n\n\n12:00 - 13:00\n\
+    Lunch break \U0001F355\n\n\n13:00 - 13:30\nOMERO repetition and hands-on\n\n\n\
+    13:30 - 14:20\nREMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata\
+    \ in OMERO\n\n\n14:20 - 14:35\nCoffee break \u2615\n\n\n14:35 - 15:15\nOMERO.Figure&nbsp;\
+    \ &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories\n\n\n15:15 - 17:00&nbsp;\n\
+    Individual questions, play with your own data\n\n\n\n&nbsp;"
+  license: cc-by-4.0
+  name: "Workshop Research Data Management for Microscopy at University M\xFCnster"
+  num_downloads: 77
+  publication_date: '2025-12-18'
+  submission_date: '2026-01-06T11:25:13.245721'
+  url:
+  - https://zenodo.org/records/17974214
+  - https://doi.org/10.5281/zenodo.17974214
+- authors:
+  - Kemmer, Isabel
+  - Euro-BioImaging ERIC
+  description: 'This FAIR Bioimage Data Crossword Puzzle offers a fun and engaging
+    way to explore key concepts, principles, and resources related to FAIR (Findable,
+    Accessible, Interoperable, Reusable) data in bioimaging. The crossword promotes
+    active learning and discussion around FAIR practices, helping participants to
+    familiarize themselves with essential terminology and tools used across the bioimaging
+    community.
+
+    The puzzle can be used as a gentle introduction to FAIR bioimage data concepts.
+    You can tackle the puzzle independently to discover FAIR bioimaging terms at your
+    own pace or, when you''re already well-versed in those topics, use it for casual
+    enjoyment during&nbsp; for example commutes, breaks, or group get-togethers.
+
+    This crossword can also be used in a course-setting where educators might pair
+    each term with a quick explanation, encourage participants to independently research
+    the underlying resources and standards and spark deeper discussions once the puzzle
+    is solved. You have the option between the plain crossword and a version including
+    a solution phrase, especially suited as a playful assessment at the end of a course.&nbsp;
+
+    And if you need a digital version, you can also solve the puzzle on crosswordlabs:&nbsp;https://crosswordlabs.com/embed/fair-bioimage-data'
+  license: cc-by-4.0
+  name: 'Crossword puzzle: FAIR BioImage Data'
+  num_downloads: 58
+  publication_date: '2025-12-09'
+  submission_date: '2026-01-06T11:25:58.550490'
+  url:
+  - https://zenodo.org/records/17798356
+  - https://doi.org/10.5281/zenodo.17798356
