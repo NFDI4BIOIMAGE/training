@@ -24314,11 +24314,13 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+  authors_with_orcid:
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
 - authors:
   - Robert Haase
-  description: 'BioImage Analysis using Python tutorial at EMBO LSM 2025'
+  description: BioImage Analysis using Python tutorial at EMBO LSM 2025
   license: CC-BY-4.0
-  name: 'embo-lsm-bia-2025'
+  name: embo-lsm-bia-2025
   publication_date: '2025-08-03'
   tags:
   - Bioimage Analysis
@@ -24330,7 +24332,9 @@ resources:
   language: en
 - authors:
   - Mara Lampert
-  description: 'This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.'
+  description: This blog post revolves around reproducibility in bio-image analysis  across
+    several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler
+    and JIPipe.
   license: CC-BY-4.0
   name: 'From Click to Code: Reproducibility in Bio-image Analysis'
   publication_date: '2025-08-05'
@@ -24343,22 +24347,28 @@ resources:
   language: en
 - authors:
   - Rahul Pandita
-  description: 'Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.'
+  description: 'Language models (LLMs) are rapidly becoming essential developer tools.
+    But the metaphors we use to describe them matter. One often used is: "LLMs are
+    the autopilot of coding." As both a developer and a pilot, that metaphor misses
+    the mark on several levels. This blog post pens down why "Copilot" is a far better
+    analogy than "autopilot" when it comes to LLMs and vibe coding.'
   license: UNKNOWN
-  name: 'Autopilot, Copilot, and Software Developers'
+  name: Autopilot, Copilot, and Software Developers
   publication_date: '2025-10-12'
   tags:
   - Artificial Intelligence
   - include in DALIA
   type:
   - Blog Post
-  url: https://rahulpandita.me/blog/2025-10-12-Copilot 
+  url: https://rahulpandita.me/blog/2025-10-12-Copilot
   language: en
 - authors:
   - Publications Office of the European Union
-  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  description: 'Course materials on Open Data Sharing: Introducing and understanding
+    the legal side of open data, Incorporating open data in your applications, Measuring
+    the impact of open data and more.'
   license: CC-BY-4.0
-  name: 'Open Data Sharing Course Materials provided by the European Union'
+  name: Open Data Sharing Course Materials provided by the European Union
   publication_date: '2024-01-17'
   tags:
   - Research Data Management
@@ -24370,9 +24380,11 @@ resources:
   language: en
 - authors:
   - Publications Office of the European Union
-  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  description: 'Course materials on Open Data Sharing: Introducing and understanding
+    the legal side of open data, Incorporating open data in your applications, Measuring
+    the impact of open data and more.'
   license: CC-BY-4.0
-  name: 'Open Data Sharing Course Materials provided by the European Union'
+  name: Open Data Sharing Course Materials provided by the European Union
   publication_date: '2024-01-17'
   tags:
   - Research Data Management
@@ -24384,9 +24396,12 @@ resources:
   language: en
 - authors:
   - EOSC
-  description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
+  description: All Skills4EOSC training courses are now available in self-paced mode
+    on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning
+    materials across communities. This includes the courses that were originally delivered
+    in hybrid mode during the project, as part of the Master Trainers’ programme.
   license: CC-BY-4.0
-  name: 'Skills4EOSC Training Courses on Open Data Sharing'
+  name: Skills4EOSC Training Courses on Open Data Sharing
   publication_date: '2024-01-17'
   tags:
   - Research Data Management
@@ -24403,9 +24418,24 @@ resources:
   - Michael Schmitt
   - Juergen Popp
   - Thomas Bocklitz
-  description: 'In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.'
+  description: 'In the interdisciplinary field of microscopy research, managing and
+    integrating large volumes of data stored across disparate platforms remains a
+    major challenge. Data types such as bioimages, experimental records, and spectral
+    information are often maintained in separate repositories, each following different
+    management standards. However, linking these data sources across the research
+    lifecycle is essential to align with the FAIR principles of data management: Findability,
+    Accessibility, Interoperability, and Reusability. Despite this need, there is
+    a notable lack of tools capable of effectively integrating and linking data from
+    heterogeneous sources. To address this gap, we present LEO (Linking Electronic
+    Lab Notebooks with OMERO), a web-based platform designed to create and manage
+    links between distributed data systems. LEO was initially developed to link objects
+    between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since
+    been extended through a plugin-based architecture, allowing the integration of
+    additional data sources. This extensibility makes LEO a scalable and flexible
+    solution for a wide range of microscopy research workflows.'
   license: CC-BY-4.0
-  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources'
+  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous
+    Metadata Sources'
   publication_date: '2025-08-01'
   tags:
   - Research Data Management
@@ -24430,6 +24460,8 @@ resources:
   - https://zenodo.org/records/17579804
   - https://doi.org/10.5281/zenodo.17579804
   uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24455,6 +24487,11 @@ resources:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+  authors_with_orcid:
+  - Lea Kabjesz https://orcid.org/0009-0004-7280-1226
+  - Lea Gihlein https://orcid.org/0009-0001-0303-9176
+  - Mara Harriet Lampert https://orcid.org/0009-0001-6900-5032
+  - Robert Haase https://orcid.org/0009-0004-7280-1226
 - authors:
   - Wetzker, Cornelia
   - Fuchs, Vanessa
@@ -24474,6 +24511,13 @@ resources:
   - https://zenodo.org/records/17472821
   - https://doi.org/10.5281/zenodo.17472821
   uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Vanessa Fuchs https://orcid.org/0000-0002-2941-8086
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24499,6 +24543,14 @@ resources:
   - https://zenodo.org/records/17429285
   - https://doi.org/10.5281/zenodo.17429285
   uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+  authors_with_orcid:
+  - Frauke Beyer https://orcid.org/0000-0001-5401-852X
+  - Michaela Unger https://orcid.org/0000-0001-5811-0200
+  - Ronny Gey https://orcid.org/0000-0003-1028-1670
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Elena Nicolay
+  - Mara Harriet Lampert
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24514,6 +24566,8 @@ resources:
   - https://zenodo.org/records/17424911
   - https://doi.org/10.5281/zenodo.17424911
   uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+  authors_with_orcid:
+  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24528,6 +24582,9 @@ resources:
   - https://zenodo.org/records/17404133
   - https://doi.org/10.5281/zenodo.17404133
   uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+  authors_with_orcid:
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24543,6 +24600,8 @@ resources:
   - https://zenodo.org/records/17372593
   - https://doi.org/10.5281/zenodo.17372593
   uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24563,6 +24622,9 @@ resources:
   - https://zenodo.org/records/17191504
   - https://doi.org/10.5281/zenodo.17191504
   uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  - Kristian Ullrich https://orcid.org/0000-0003-4308-9626
 - authors:
   - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
@@ -24575,6 +24637,8 @@ resources:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+  authors_with_orcid:
+  - Tomás Pais de Azevedo https://orcid.org/0000-0002-3239-2198
 - authors:
   - Soltwedel, Johannes Richard
   description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
@@ -24587,6 +24651,8 @@ resources:
   url:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
+  authors_with_orcid:
+  - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24598,6 +24664,8 @@ resources:
   url:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24608,6 +24676,8 @@ resources:
   url:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
+  authors_with_orcid:
+  - Aafke Gros https://orcid.org/0000-0003-2459-9858
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24620,6 +24690,8 @@ resources:
   url:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
+  authors_with_orcid:
+  - Agustin Andres Corbat https://orcid.org/0000-0001-8068-3486
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24632,6 +24704,8 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+  authors_with_orcid:
+  - Agustin Andres Corbat https://orcid.org/0000-0001-8068-3486
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -24657,6 +24731,12 @@ resources:
   url:
   - https://zenodo.org/records/17775761
   - https://doi.org/10.5281/zenodo.17775761
+  authors_with_orcid:
+  - Khanh Xuan Nguyen
+  - Matthias Bernt
+  - Thomas Schnicke https://orcid.org/0000-0001-9868-4671
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -24685,6 +24765,13 @@ resources:
   url:
   - https://zenodo.org/records/17775957
   - https://doi.org/10.5281/zenodo.17775957
+  authors_with_orcid:
+  - Arsenio N. Cruz C.
+  - Thanh Huy Pham
+  - Collin Zimmer
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Yi Sun https://orcid.org/0000-0002-7636-0200
+  - Paul Czodrowski https://orcid.org/0000-0002-7390-8795
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -24699,10 +24786,12 @@ resources:
   url:
   - https://zenodo.org/records/17669681
   - https://doi.org/10.5281/zenodo.17669681
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Sun, Yi
   - Tischer, Christian
-  - "H\xE9rich\xE9, Jean-Karim"
+  - Hériché, Jean-Karim
   description: 'The BAND platform offers cloud based desktops accessible with a web
     browser so that you can work on your data from anywhere with an internet connection.
 
@@ -24717,6 +24806,10 @@ resources:
   url:
   - https://zenodo.org/records/17671971
   - https://doi.org/10.5281/zenodo.17671971
+  authors_with_orcid:
+  - Yi Sun https://orcid.org/0000-0002-7636-0200
+  - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  - Jean-Karim Hériché https://orcid.org/0000-0001-6867-9425
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -24742,6 +24835,10 @@ resources:
   url:
   - https://zenodo.org/records/17659149
   - https://doi.org/10.5281/zenodo.17659149
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  - Michael Schlierf https://orcid.org/0000-0002-6209-2364
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -24751,7 +24848,7 @@ resources:
   - Carvajal-Vallejos, Patricia K.
   - Das, Sudeep
   - De Pascalis, Francesca
-  - "D\xF6rr, Dorothea"
+  - Dörr, Dorothea
   - Exter, Katrina
   - Holub, Petr
   - Gurwitz, Kim Tamara
@@ -24759,10 +24856,10 @@ resources:
   - Lieutaud, Philippe
   - Lister, Allyson
   - Lopez, Joaquin
-  - "Madon, B\xE9n\xE9dicte"
+  - Madon, Bénédicte
   - Massimi, Marzia
   - Matteoni, Rafaele
-  - "M\xEErza, Maria"
+  - Mîrza, Maria
   - Morgan, Sarah
   - Oezdemir, Bugra
   - Panagiotopoulou, Maria
@@ -24812,6 +24909,41 @@ resources:
   url:
   - https://zenodo.org/records/17672046
   - https://doi.org/10.5281/zenodo.17672046
+  authors_with_orcid:
+  - Romain David https://orcid.org/0000-0003-4073-7456
+  - Nektarios Liaskos https://orcid.org/0000-0003-0633-8670
+  - Arina Rybina https://orcid.org/0000-0002-5609-5710
+  - Christos Arvanitidis https://orcid.org/0000-0002-6924-5255
+  - Anne-Sophie Bage https://orcid.org/0000-0002-8129-5503
+  - Patricia K. Carvajal-Vallejos https://orcid.org/0000-0002-4900-4593
+  - Sudeep Das https://orcid.org/0000-0001-9393-204X
+  - Francesca De Pascalis https://orcid.org/0000-0002-1694-882X
+  - Dorothea Dörr https://orcid.org/0000-0001-8575-7560
+  - Katrina Exter https://orcid.org/0000-0002-5911-1536
+  - Petr Holub https://orcid.org/0000-0002-5358-616X
+  - Kim Tamara Gurwitz https://orcid.org/0000-0003-1992-5073
+  - Fabio Liberante https://orcid.org/0000-0002-0192-5385
+  - Philippe Lieutaud https://orcid.org/0000-0002-5080-3456
+  - Allyson Lister https://orcid.org/0000-0002-7702-4495
+  - Joaquin Lopez https://orcid.org/0000-0001-9697-7710
+  - Bénédicte Madon https://orcid.org/0000-0001-8608-3895
+  - Marzia Massimi https://orcid.org/0000-0001-5052-1822
+  - Rafaele Matteoni https://orcid.org/0000-0002-0314-5948
+  - Maria Mîrza https://orcid.org/0000-0001-9158-6403
+  - Sarah Morgan https://orcid.org/0000-0001-9528-8323
+  - Bugra Oezdemir
+  - Maria Panagiotopoulou https://orcid.org/0000-0002-4221-7254
+  - Christina Pavloudi https://orcid.org/0000-0001-5106-6067
+  - Ana M. P. Melo https://orcid.org/0000-0003-0695-3817
+  - Susanna-Assunta Sansone https://orcid.org/0000-0001-5306-5690
+  - Harald Schwalbe https://orcid.org/0000-0001-5693-7909
+  - Beatriz Serrano-Solano https://orcid.org/0000-0002-5862-6132
+  - Carlos Oscar Sorzano https://orcid.org/0000-0002-9473-283X
+  - Emilio Urbinati https://orcid.org/0009-0000-3629-2584
+  - Jing Tang https://orcid.org/0000-0001-7480-7710
+  - Jonathan Tedds https://orcid.org/0000-0003-2829-4584
+  - Gary Saunders https://orcid.org/0000-0002-7468-0008
+  - Jonathan Ewbank https://orcid.org/0000-0002-1257-6862
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -24824,6 +24956,8 @@ resources:
   url:
   - https://zenodo.org/records/17725097
   - https://doi.org/10.5281/zenodo.17725097
+  authors_with_orcid:
+  - Ellen Geibelt
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -24849,6 +24983,12 @@ resources:
   url:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
+  authors_with_orcid:
+  - Rensu Theart https://orcid.org/0000-0003-0508-1690
+  - Florian Levet https://orcid.org/0000-0002-4009-6225
+  - Hernandez-Herrera https://orcid.org/0000-0002-2206-3489
+  - Christophe Leterrier https://orcid.org/0000-0002-2957-2032
+  - Laura R de la Ballina https://orcid.org/0000-0001-5363-7433
 - authors:
   - Wendt, Jens
   - Bortolomeazzi, Michele
@@ -24917,6 +25057,9 @@ resources:
   url:
   - https://zenodo.org/records/17897525
   - https://doi.org/10.5281/zenodo.17897525
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
 - authors:
   - Wetzker, Cornelia
   - Schlierf, Michael
@@ -24934,21 +25077,24 @@ resources:
     C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen
     der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.'
   license: cc-by-4.0
-  name: "Didaktisches Konzept zur Einf\xFChrung ins Forschungsdatenmanagement (FDM)\
-    \ am Beispiel von Elektronischen Laborb\xFCchern (ELNs) und OMERO f\xFCr Bio-Bild-Verwaltung\
-    \ f\xFCr Studierende der Lebenswissenschaften"
+  name: Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am
+    Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung
+    für Studierende der Lebenswissenschaften
   num_downloads: 16
   publication_date: '2025-12-10'
   submission_date: '2025-12-16T11:25:50.401687'
   url:
   - https://zenodo.org/records/17876813
   - https://doi.org/10.5281/zenodo.17876813
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Michael Schlierf https://orcid.org/0000-0002-6209-2364
 - authors:
   - Vedder, Lucia
   - Peschel, Paul
   - Bortolomeazzi, Michele
   - Schmidt, Christian
-  - "Schr\xF6der, Katrin"
+  - Schröder, Katrin
   description: 'Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp;
     Veranstaltungsort:
 
@@ -25043,6 +25189,12 @@ resources:
   url:
   - https://zenodo.org/records/17787401
   - https://doi.org/10.5281/zenodo.17787401
+  authors_with_orcid:
+  - Lucia Vedder https://orcid.org/0000-0002-8924-9800
+  - Paul Peschel https://orcid.org/0009-0003-4330-6309
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Katrin Schröder https://orcid.org/0009-0007-8336-7009
 - authors:
   - Boissonnet, Tom
   - Massei, Riccardo
@@ -25062,6 +25214,9 @@ resources:
   url:
   - https://zenodo.org/records/17856704
   - https://doi.org/10.5281/zenodo.17856704
+  authors_with_orcid:
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
+  - Riccardo Massei https://orcid.org/0000-0003-2104-9519
 - authors:
   - Soltwedel, Johannes Richard
   description: Introductory slides for top-level understanding of ome-zarr, cloud
@@ -25074,6 +25229,8 @@ resources:
   url:
   - https://zenodo.org/records/17898202
   - https://doi.org/10.5281/zenodo.17898202
+  authors_with_orcid:
+  - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
 - authors:
   - Dayer, Andrew J
   license: cc-by-4.0
@@ -25084,14 +25241,25 @@ resources:
   url:
   - https://zenodo.org/records/17914642
   - https://doi.org/10.5281/zenodo.17914642
+  authors_with_orcid:
+  - Andrew J Dayer
 - authors:
-  - Kumar, Neeraj 
-  - Verma, Ruchika 
-  - Sharma, Sanuj 
-  - Bhargava, Surabhi 
-  - Vahadane, Abhishek 
+  - Kumar, Neeraj
+  - Verma, Ruchika
+  - Sharma, Sanuj
+  - Bhargava, Surabhi
+  - Vahadane, Abhishek
   - Sethi, Amit
-  description: 'The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.'
+  description: The dataset for this challenge was obtained by carefully annotating
+    tissue images of several patients with tumors of different organs and who were
+    diagnosed at multiple hospitals. This dataset was created by downloading H&E stained
+    tissue images captured at 40x magnification from TCGA archive. H&E staining is
+    a routine protocol to enhance the contrast of a tissue section and is commonly
+    used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei
+    appearances across multiple organs and patients, and the richness of staining
+    protocols adopted at multiple hospitals, the training datatset will enable the
+    development of robust and generalizable nuclei segmentation techniques that will
+    work right out of the box.
   license: CC-BY-NC-SA-4.0
   name: A dataset for generalized nuclear segmentation for computational pathology
   publication_date: '2017-03-06'
@@ -25124,31 +25292,103 @@ resources:
   url:
   - https://zenodo.org/records/17978132
   - https://doi.org/10.5281/zenodo.17978132
+  authors_with_orcid:
+  - Claudia Engelhardt https://orcid.org/0000-0002-3391-7638
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  - Carolin Hundt https://orcid.org/0000-0002-7237-965X
+  - Florence Langermann https://orcid.org/0009-0009-1627-3568
+  - Pia Voigt https://orcid.org/0000-0001-9627-6252
 - authors:
   - Fuchs, Vanessa
   - Zobel, Thomas
   - Baldenius, Marie
   - Wendt, Jens
-  description: "The presentations for the workshop \"Research Data Management\" at\
-    \ University M&uuml;nster on 25.11.2025.\nfunded by the Deutsche Forschungsgemeinschaft\
-    \ (DFG, German Research Foundation) under the National Research Data Infrastructure\
-    \ &ndash; NFDI 46/1 &ndash; 501864659\nProgram:\n\n\n\n09:00 - 09:30\nIntroduction\n\
-    \n\n09.30 - 10:30\nRDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files\
-    \ and folders\n\n\n10:30 - 11:00\nCoffee break \u2615\n\n\n11:00 - 12:00\nOMERO\
-    \ basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces\n\n\n12:00 - 13:00\n\
-    Lunch break \U0001F355\n\n\n13:00 - 13:30\nOMERO repetition and hands-on\n\n\n\
-    13:30 - 14:20\nREMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata\
-    \ in OMERO\n\n\n14:20 - 14:35\nCoffee break \u2615\n\n\n14:35 - 15:15\nOMERO.Figure&nbsp;\
-    \ &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories\n\n\n15:15 - 17:00&nbsp;\n\
-    Individual questions, play with your own data\n\n\n\n&nbsp;"
+  description: 'The presentations for the workshop "Research Data Management" at University
+    M&uuml;nster on 25.11.2025.
+
+    funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+    under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+    Program:
+
+
+
+
+    09:00 - 09:30
+
+    Introduction
+
+
+
+    09.30 - 10:30
+
+    RDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files and folders
+
+
+
+    10:30 - 11:00
+
+    Coffee break ☕
+
+
+
+    11:00 - 12:00
+
+    OMERO basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces
+
+
+
+    12:00 - 13:00
+
+    Lunch break 🍕
+
+
+
+    13:00 - 13:30
+
+    OMERO repetition and hands-on
+
+
+
+    13:30 - 14:20
+
+    REMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata in OMERO
+
+
+
+    14:20 - 14:35
+
+    Coffee break ☕
+
+
+
+    14:35 - 15:15
+
+    OMERO.Figure&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories
+
+
+
+    15:15 - 17:00&nbsp;
+
+    Individual questions, play with your own data
+
+
+
+
+    &nbsp;'
   license: cc-by-4.0
-  name: "Workshop Research Data Management for Microscopy at University M\xFCnster"
+  name: Workshop Research Data Management for Microscopy at University Münster
   num_downloads: 77
   publication_date: '2025-12-18'
   submission_date: '2026-01-06T11:25:13.245721'
   url:
   - https://zenodo.org/records/17974214
   - https://doi.org/10.5281/zenodo.17974214
+  authors_with_orcid:
+  - Vanessa Fuchs https://orcid.org/0009-0009-2068-1521
+  - Thomas Zobel https://orcid.org/0000-0002-2101-8416
+  - Marie Baldenius https://orcid.org/0009-0002-3765-9813
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -25179,3 +25419,6 @@ resources:
   url:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Euro-BioImaging ERIC
