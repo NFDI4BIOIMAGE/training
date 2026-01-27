@@ -25179,3 +25179,59 @@ resources:
   url:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license. Modifications to this illustration include cropping.
+  license: cc-by-4.0
+  name: Santa Cloud's Workshop by Henning Falk
+  num_downloads: 30
+  publication_date: '2026-11-14'
+  submission_date: '2026-01-27T11:29:02.483199'
+  url:
+  - https://zenodo.org/records/17607828
+  - https://doi.org/10.5281/zenodo.17607828
+- authors:
+  - Wendt, Jens
+  description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659.
+  license: cc-by-4.0
+  name: "Presentation about an \"enriched OMERO\" at the RDM4Mic meeting in M\xFC\
+    nster at 10/2025"
+  num_downloads: 13
+  publication_date: '2026-01-13'
+  submission_date: '2026-01-27T11:29:04.969601'
+  url:
+  - https://zenodo.org/records/18230666
+  - https://doi.org/10.5281/zenodo.18230666
+- authors:
+  - Tischer, Christian
+  description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Accessible sharing of large correlative image datasets
+  num_downloads: 30
+  publication_date: '2026-01-08'
+  submission_date: '2026-01-27T11:29:05.991684'
+  url:
+  - https://zenodo.org/records/18184329
+  - https://doi.org/10.5281/zenodo.18184329
+- authors:
+  - Fabig, Gunar
+  description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
+    acquired on a 300 kV electron microscope. Sample is C. elegans sperm cell, high-pressure
+    frozen, freeze-substituted and embedded in Epon/Araldite. The resulting MRC-file
+    was imported to Amira and cropped there. The cropped file was saved in the Amira
+    file format (8bit unsigned). Pixel size is 25.72 Angstr&ouml;m.
+  license: cc-by-4.0
+  name: Example Amira file
+  num_downloads: 3
+  publication_date: '2026-01-22'
+  submission_date: '2026-01-27T11:40:21.838122'
+  url:
+  - https://zenodo.org/records/18337391
+  - https://doi.org/10.5281/zenodo.18337391
