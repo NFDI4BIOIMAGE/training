@@ -25180,9 +25180,9 @@ resources:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
 
-- name: Ten recommendations for organising bioimaging data for archival
+- name: Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed.
   type:
   - publication
-  url: https://f1000research.com/articles/12-1391/v2
-  abstract: "Organised data is easy to use but the rapid developments in the field of bioimaging, with improvements in instrumentation, detectors, software and experimental techniques, have resulted in an explosion of the volumes of data being generated, making well-organised data an elusive goal. This guide offers a handful of recommendations for bioimage depositors, analysts and microscope and software developers, whose implementation would contribute towards better organised data in preparation for archival. Based on our experience archiving large image datasets in EMPIAR, the BioImage Archive and BioStudies, we propose a number of strategies that we believe would improve the usability (clarity, orderliness, learnability, navigability, self-documentation, coherence and consistency of identifiers, accessibility, succinctness) of future data depositions more useful to the bioimaging community (data authors and analysts, researchers, clinicians, funders, collaborators, industry partners, hardware/software producers, journals, archive developers as well as interested but non-specialist users of bioimaging data). The recommendations that may also find use in other data-intensive disciplines. To facilitate the process of analysing data organisation, we present bandbox, a Python package that provides users with an assessment of their data by flagging potential issues, such as redundant directories or invalid characters in file or folder names, that should be addressed before archival. We offer these recommendations as a starting point and hope to engender more substantial conversations across and between the various data-rich communities."
-  
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8675413/
+  authors: White, T., Blok, E., & Calhoun, V. D.
+  publication date: 2020-07-04
