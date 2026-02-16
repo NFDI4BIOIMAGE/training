@@ -25261,3 +25261,19 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=z8MKF4FOjZ4 
   language: en
+- authors: 
+  - Michael Färber
+  - Simon Razniewski
+  - Robert Haase
+  description: 'This course provides a practical and in-depth understanding of large language models that power modern natural language processing systems. Students will explore the architecture, training methodologies, capabilities, and ethical implications of LLMs. The course combines theoretical knowledge with hands-on experience to equip students with the skills necessary to develop, analyze, and apply LLMs in various contexts.'
+  license: CC-BY-4.0
+  name: 'Behind the Secrets of Large Language Models'
+  publication_date: '2026-02-01'
+  tags:
+  - Large Language Models
+  - Natural Language Processing
+  - include in DALIA
+  type:
+  - Opal Repository 
+  url: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9
+  language: en
