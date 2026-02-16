@@ -25238,6 +25238,26 @@ resources:
   - Research Data Management
   - include in DALIA
   type:
-  - presentation
+  - Video
   url: https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI
+  language: en
+- authors: 
+  - Elena Nicolay
+  - Mara Lampert
+  - Frauke Beyer
+  - Ronny Gey
+  - Michaela Unger
+  - Dr. Riccardo Massei
+  description: 'The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.'
+  license: UNKNOWN
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  publication_date: '2026-02-06'
+  tags:
+  - Open Data
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=z8MKF4FOjZ4 
   language: en
