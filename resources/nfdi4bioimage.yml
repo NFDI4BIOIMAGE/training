@@ -25277,3 +25277,22 @@ resources:
   - Opal Repository 
   url: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9
   language: en
+- authors: 
+  - Hugo Mantion
+  - Zhao Zhang
+  - Diego Serra
+  - Lætitia Lebrun
+  - Maxime Tarabichi
+  - Vincent Detours
+  description: 'An atlas of human histological diversity that transposes to histology the concepts and methods of RNA-seq gene expression analysis, setting histology on an unbiased quantitative ground.'
+  license: CC-BY-NC-4.0 
+  name: 'An atlas of human histological diversity'
+  publication_date: '2026-02-02'
+  tags:
+  - Atlas
+  type:
+  - Preprint 
+  url: 
+  - https://histologyatlas.ulb.be/
+  - https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf
+  language: en
