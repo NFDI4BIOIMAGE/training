@@ -25296,3 +25296,19 @@ resources:
   - https://histologyatlas.ulb.be/
   - https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf
   language: en
+- authors: 
+  - Bruno C. Vellutini
+  description: 'A minimal set of principles for organizing research papers.'
+  license: CC-BY-SA-4.0 
+  name: 'DAFT: minimal principles for reproducible research papers'
+  publication_date: '2026-01-05'
+  tags:
+  - Reproducibility
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://brunovellutini.com/posts/daft-principles/
+  language: en
