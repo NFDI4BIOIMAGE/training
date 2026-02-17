@@ -25290,6 +25290,7 @@ resources:
   publication_date: '2026-02-02'
   tags:
   - Atlas
+  - exclude from DALIA
   type:
   - Preprint 
   url: 
@@ -25439,4 +25440,17 @@ resources:
   - Publication
   url: 
   - https://zenodo.org/records/8032892
+- authors: 
+  - Jay Alammar
+  description: 'AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses.'
+  license: CC-BY-NC-SA-4.0 
+  name: 'The Illustrated Stable Diffusion'
+  publication_date: '2022-10-04'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://jalammar.github.io/illustrated-stable-diffusion/
 
