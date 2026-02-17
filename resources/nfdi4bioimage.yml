@@ -25186,3 +25186,110 @@ resources:
   url: https://f1000research.com/articles/12-1391/v2
   abstract: "Organised data is easy to use but the rapid developments in the field of bioimaging, with improvements in instrumentation, detectors, software and experimental techniques, have resulted in an explosion of the volumes of data being generated, making well-organised data an elusive goal. This guide offers a handful of recommendations for bioimage depositors, analysts and microscope and software developers, whose implementation would contribute towards better organised data in preparation for archival. Based on our experience archiving large image datasets in EMPIAR, the BioImage Archive and BioStudies, we propose a number of strategies that we believe would improve the usability (clarity, orderliness, learnability, navigability, self-documentation, coherence and consistency of identifiers, accessibility, succinctness) of future data depositions more useful to the bioimaging community (data authors and analysts, researchers, clinicians, funders, collaborators, industry partners, hardware/software producers, journals, archive developers as well as interested but non-specialist users of bioimaging data). The recommendations that may also find use in other data-intensive disciplines. To facilitate the process of analysing data organisation, we present bandbox, a Python package that provides users with an assessment of their data by flagging potential issues, such as redundant directories or invalid characters in file or folder names, that should be addressed before archival. We offer these recommendations as a starting point and hope to engender more substantial conversations across and between the various data-rich communities."
   
+- authors:
+  - Wetzker, Cornelia
+  description: 'The presentation was given at the online format of the SaxFDM Beratungsstammtisch
+    on February 6, 2026, a networking event amongst data stewards in Saxony organized
+    by Pia Voigt and Stephan Janosch.
+
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+    '
+  license: cc-by-4.0
+  name: "[SaxFDM-Beratungsstammtisch] Between CONSORTIUM and CAMPUS: The role(s) of\
+    \ discipline-specific data stewards \u2013 an example"
+  num_downloads: 0
+  publication_date: '2026-02-16'
+  submission_date: '2026-02-17T11:43:29.965055'
+  url:
+  - https://zenodo.org/records/18659976
+  - https://doi.org/10.5281/zenodo.18659976
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license. Modifications to this illustration include cropping.
+  license: cc-by-4.0
+  name: Santa Cloud's Workshop by Henning Falk
+  num_downloads: 38
+  publication_date: '2026-11-14'
+  submission_date: '2026-02-17T11:43:30.597584'
+  url:
+  - https://zenodo.org/records/17607828
+  - https://doi.org/10.5281/zenodo.17607828
+- authors:
+  - Wendt, Jens
+  description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659.
+  license: cc-by-4.0
+  name: "Presentation about an \"enriched OMERO\" at the RDM4Mic meeting in M\xFC\
+    nster at 10/2025"
+  num_downloads: 14
+  publication_date: '2026-01-13'
+  submission_date: '2026-02-17T11:43:31.385396'
+  url:
+  - https://zenodo.org/records/18230666
+  - https://doi.org/10.5281/zenodo.18230666
+- authors:
+  - Tischer, Christian
+  description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Accessible sharing of large correlative image datasets
+  num_downloads: 40
+  publication_date: '2026-01-08'
+  submission_date: '2026-02-17T11:43:32.026490'
+  url:
+  - https://zenodo.org/records/18184329
+  - https://doi.org/10.5281/zenodo.18184329
+- authors:
+  - Kemmer, Isabel
+  - Romdhane, Feriel
+  - Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+
+    To guide you in the selection of appropriate repositories, we have created an
+    overview of available repositories for different types of image data, including
+    their scope and requirements. This decision tree guides you through questions
+    about your data and directs you to the correct repository, and/or provides instructions
+    for further processing to meet the critera of the repositories.&nbsp;
+
+    Three seperate trees (on two A3 pages) are provided for different classes of imaging
+    data: open bioimage data, preclinical data, and human imaging data. Additional
+    to the .pdf format, also the editable version in powerpoint format (.pptx) is
+    now provided. Please be aware that opening the versions with another program might
+    lead to shifted formatting.
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 1586
+  publication_date: '2026-01-28'
+  submission_date: '2026-02-17T11:44:08.137540'
+  url:
+  - https://zenodo.org/records/18378649
+  - https://doi.org/10.5281/zenodo.18378649
+- authors:
+  - Fabig, Gunar
+  description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
+    acquired on a 300 kV electron microscope. Sample is C. elegans sperm cell, high-pressure
+    frozen, freeze-substituted and embedded in Epon/Araldite. The resulting MRC-file
+    was imported to Amira and cropped there. The cropped file was saved in the Amira
+    file format (8bit unsigned). Pixel size is 25.72 Angstr&ouml;m.
+  license: cc-by-4.0
+  name: Example Amira file
+  num_downloads: 8
+  publication_date: '2026-01-22'
+  submission_date: '2026-02-17T11:44:43.250423'
+  url:
+  - https://zenodo.org/records/18337391
+  - https://doi.org/10.5281/zenodo.18337391
