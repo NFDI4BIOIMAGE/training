@@ -5357,30 +5357,6 @@ resources:
   tags:
   - include in DALIA
 - authors:
-  - Robert Haase
-  description: This talk will present the initiatives of the NFDI4BioImage consortium
-    aimed at the long-term preservation of life science data. We will discuss our
-    efforts to establish metadata standards, which are crucial for ensuring data reusability
-    and integrity. The development of sustainable infrastructure is another key focus,
-    enabling seamless data integration and analysis in the cloud. We will take a look
-    at how we manage training materials and communicate with our community. Through
-    these actions, NFDI4BioImage seeks to enable FAIR bioimage data management for
-    German researchers, across disciplines and embedded in the international framework.
-  license: CC-BY-4.0
-  name: Towards Preservation of Life Science Data with NFDI4BIOIMAGE
-  num_downloads: 0
-  publication_date: '2024-08-29'
-  url:
-  - https://zenodo.org/records/13506641
-  - https://doi.org/10.5281/zenodo.13506641
-  uuid: efe78686-6a71-4977-bc9b-8a725394a11d
-  language: en
-  authors_with_orcid:
-  - Robert Haase https://orcid.org/0000-0001-5949-2327
-  file_formats: .pdf * .pptx
-  tags:
-  - exclude from DALIA
-- authors:
   - Matúš Kalaš et al.
   description: EDAM-bioimaging is an extension of the EDAM ontology, dedicated to
     bioimage analysis, bioimage informatics, and bioimaging.
@@ -7484,108 +7460,6 @@ resources:
   uuid: 6a6d761a-ae7b-4a0b-b7e2-ca6cb1338de5
   language: en
 - authors:
-  - Tom Boissonnet
-  - Bettina Hagen
-  - Susanne Kunis
-  - Christian Schmidt
-  - Stefanie Weidtkamp-Peters
-  description: 'Fit for OMERO: How imaging facilities and IT departments work together
-    to enable RDM for bioimaging
-
-    Description:
-
-    Research data management (RDM) in bioimaging is challenging because of large file
-    sizes, heterogeneous file formats and the variability of imaging methods. The
-    image data management system OMERO (OME Remote Objects) allows for centralized
-    and secure storage, organization, annotation, and interrogation of microscopy
-    data by researchers. It is an internationally well-supported open-source software
-    tool that has become one of the best-known image data management tools among bioimaging
-    scientists. Nevertheless, the&nbsp;de novo&nbsp;setup of OMERO at an institute
-    is a multi-stakeholder process that demands time, funds, organization and iterative
-    implementation. In this workshop, participants learn how to begin setting up OMERO-based
-    image data management at their institution. The topics include:
-
-
-    Stakeholder identification at the university / research institute
-
-    Process management, time line expectations, and resources planning
-
-    Learning about each other&lsquo;s perspectives on chances and challenges for RDM
-
-    Funding opportunities and strategies for IT and imaging core facilities
-
-    Hands-on: Setting up an OMERO server in a virtual machine environment
-
-
-    Target audience:
-
-    This workshop was directed at universities and research institutions who consider
-    or plan to implement OMERO, or are in an early phase of implementation. This workshop
-    was intended for teams from IT departments and imaging facilities to participate
-    together with one person from the IT department, and one person from the imaging
-    core facility at the same institution.
-
-    The trainers:
-
-
-    Prof. Dr. Stefanie Weidtkamp-Peters (Imaging Core Facility Head, Center for Advanced
-    Imaging, Heinrich Heine University of D&uuml;sseldorf)
-
-    Dr. Susanne Kunis (Software architect, OMERO administrator, metadata specialist,
-    University of Osnabr&uuml;ck)
-
-    Dr. Tom Boissonnet (OMERO admin and image metadata specialist, Center for Advanced
-    Imaging, Heinrich Heine University of D&uuml;sseldorf)
-
-    Dr. Bettina Hagen&nbsp;(IT Administration and service specialist, Max Planck Institute
-    for the Biology of Ageing, Cologne)&nbsp;
-
-    Dr. Christian Schmidt (Science Manager for Research Data Management in Bioimaging,
-    German Cancer Research Center (DKFZ), Heidelberg)
-
-
-    Time and place
-
-    The format was a two-day, in-person workshop (October 16-17, 2024).&nbsp;Location:
-    Heidelberg, Germany
-
-    Workshop learning goals
-
-
-    Learn the steps to establish a local RDM environment fit for bioimaging data
-
-    Create a network of IT experts and bioimaging specialists for bioimage RDM across
-    institutions
-
-    Establish a stakeholder process management for installing OMERO-based RDM
-
-    Learn from each other, leverage different expertise
-
-    Learn how to train users, establish sustainability strategies, and foster FAIR
-    RDM for bioimaging at your institution
-
-    '
-  license: CC-BY-4.0
-  name: '[Workshop Material] Fit for OMERO - How imaging facilities and IT departments
-    work together to enable RDM for bioimaging, October 16-17, 2024, Heidelberg'
-  num_downloads: 101
-  proficiency_level: advanced beginner
-  publication_date: '2024-10-30'
-  url:
-  - https://zenodo.org/records/14013026
-  - https://doi.org/10.5281/zenodo.14013026
-  uuid: 38fbd343-3e03-49e2-baf2-fbe534033e68
-  language: en
-  authors_with_orcid:
-  - Tom Boissonnet
-  - Bettina Hagen
-  - Susanne Kunis https://orcid.org/0000-0001-6523-7496
-  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
-  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
-  file_formats: .pdf
-  tags:
-  - include in DALIA
-- authors:
   - Carl Herrmann
   - annavonbachmann
   - David Hoksza
@@ -8381,8 +8255,7 @@ resources:
   - research data management
   - exclude from DALIA
   url:
-  - https://zenodo.org/records/14178789
-  - https://doi.org/10.5281/zenodo.14178789
+  - https://doi.org/10.5281/zenodo.14013025
   uuid: b9c7adca-3f9d-472a-ab82-8dc201b9416a
   language: en
   authors_with_orcid:
@@ -8507,8 +8380,7 @@ resources:
   - research data management
   - exclude from DALIA
   url:
-  - https://zenodo.org/records/13640979
-  - https://doi.org/10.5281/zenodo.13640979
+  - https://doi.org/10.5281/zenodo.13506640
   uuid: 555f04f1-d27e-465c-a882-3914b4d610aa
   language: en
   authors_with_orcid:
