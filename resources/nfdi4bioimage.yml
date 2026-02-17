@@ -305,19 +305,6 @@ resources:
   - Collection
   url: https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023
   uuid: 281a3756-56a0-4d0e-9b04-d3937a92c336
-- description: Starts Oct 16, 2024, 9:00 AM, Ends Oct 17, 2024, 5:00 PM
-  name: 'Fit for OMERO: How imaging facilities and IT departments work together to
-    enable RDM for bioimaging'
-  proficiency_level: advanced beginner
-  tags:
-  - Bioimage Analysis
-  - OMERO
-  - Research Data Management
-  - exclude from DALIA
-  type:
-  - Workshop
-  url: https://doi.org/10.5281/zenodo.14013025
-  uuid: 3d360956-7e11-455e-9894-65817b7faf4c
 - license: CC-BY-4.0
   name: RDM4Mic Presentations
   proficiency_level: advanced beginner
