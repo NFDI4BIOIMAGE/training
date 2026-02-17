@@ -24369,20 +24369,6 @@ resources:
   url: https://data.europa.eu/en/academy
   language: en
 - authors:
-  - Publications Office of the European Union
-  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
-  license: CC-BY-4.0
-  name: 'Open Data Sharing Course Materials provided by the European Union'
-  publication_date: '2024-01-17'
-  tags:
-  - Research Data Management
-  - Open Data
-  - include in DALIA
-  type:
-  - Website
-  url: https://data.europa.eu/en/academy
-  language: en
-- authors:
   - EOSC
   description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
   license: CC-BY-4.0
@@ -24455,25 +24441,6 @@ resources:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
-- authors:
-  - Wetzker, Cornelia
-  - Fuchs, Vanessa
-  - Wendt, Jens
-  - Ahmadi, Mohsen
-  - Müller, Maximilian E.
-  - Massei, Riccardo
-  description: The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1,
-    project number 501864659.
-  license: cc-by-4.0
-  name: '[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support
-    and Training in NFDI4BIOIMAGE'
-  num_downloads: 52
-  publication_date: '2025-10-29'
-  submission_date: '2025-11-11T11:22:47.679388'
-  url:
-  - https://zenodo.org/records/17472821
-  - https://doi.org/10.5281/zenodo.17472821
-  uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -25296,22 +25263,6 @@ resources:
   url: 
   - https://histologyatlas.ulb.be/
   - https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf
-  language: en
-- authors: 
-  - Bruno C. Vellutini
-  description: 'A minimal set of principles for organizing research papers.'
-  license: CC-BY-SA-4.0 
-  name: 'DAFT: minimal principles for reproducible research papers'
-  publication_date: '2026-01-05'
-  tags:
-  - Reproducibility
-  - FAIR Principles
-  - Research Data Management
-  - include in DALIA
-  type:
-  - Blog Post
-  url: 
-  - https://brunovellutini.com/posts/daft-principles/
   language: en
 - authors: 
   - Bruno C. Vellutini
