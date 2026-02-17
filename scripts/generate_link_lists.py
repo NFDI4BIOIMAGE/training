@@ -93,6 +93,11 @@ def main():
         if count > 1:
             print(f"Duplicate entry detected: {url}")
             duplicate_found = True
+
+    # Check for Zenodo version duplicates (different child URLs for the same concept record)
+    if check_zenodo_version_duplicates(content):
+        duplicate_found = True
+
     if duplicate_found:
         raise KeyError(f"Duplicate entries detected! Remove them and rebuild the index.")
     
@@ -527,6 +532,72 @@ def complete_zenodo_data(zenodo_url):
         entry['num_downloads'] = zenodo_data['stats']['downloads']
 
     return entry
+
+
+def check_zenodo_version_duplicates(content):
+    """
+    Check for entries that are different versions of the same Zenodo concept record.
+    Two Zenodo records with different child-URLs but the same parent concept record
+    are considered duplicates.
+
+    Returns True if duplicates were found, False otherwise.
+    """
+    import re
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    # Collect one Zenodo record ID per entry
+    # Each item: (record_id, entry_name)
+    zenodo_entries = []
+    for entry in content['resources']:
+        if 'url' not in entry:
+            continue
+        urls = entry['url']
+        if not isinstance(urls, list):
+            urls = [urls]
+        for url in urls:
+            match = re.search(r'zenodo\.org/records/(\d+)', url)
+            if match:
+                zenodo_entries.append((match.group(1), entry.get('name', 'unknown')))
+                break  # one Zenodo record ID per entry is enough
+
+    if not zenodo_entries:
+        return False
+
+    print(f"Checking {len(zenodo_entries)} Zenodo entries for version duplicates...")
+
+    def resolve_concept_id(record_id):
+        """Query the Zenodo API for a record's concept record ID."""
+        try:
+            data = read_zenodo(f"https://zenodo.org/records/{record_id}")
+            return record_id, data.get('conceptrecid')
+        except Exception:
+            return record_id, None
+
+    # Resolve concept record IDs concurrently for speed
+    concept_map = {}  # concept_id -> list of (record_id, entry_name)
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {
+            executor.submit(resolve_concept_id, rid): (rid, name)
+            for rid, name in zenodo_entries
+        }
+        for future in as_completed(futures):
+            record_id, concept_id = future.result()
+            if concept_id is not None:
+                rid, name = futures[future]
+                concept_map.setdefault(concept_id, []).append((record_id, name))
+
+    # Flag concept records that have more than one child entry
+    duplicate_found = False
+    for concept_id, entries in concept_map.items():
+        if len(entries) > 1:
+            names = ", ".join(f"'{name}' (records/{rid})" for rid, name in entries)
+            print(
+                f"Duplicate Zenodo versions detected — concept record {concept_id} "
+                f"has {len(entries)} entries: {names}"
+            )
+            duplicate_found = True
+
+    return duplicate_found
 
 
 if __name__ == "__main__":
