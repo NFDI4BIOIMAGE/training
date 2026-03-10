@@ -25378,3 +25378,14 @@ resources:
   url:
   - https://zenodo.org/records/18337391
   - https://doi.org/10.5281/zenodo.18337391
+- authors:
+  - Hertzler, ian
+  description: imaris file that will not open in fiji. for troubleshooting purposes.
+  license: cc-by-4.0
+  name: ims file that won't open in FIJI
+  num_downloads: 2
+  publication_date: '2026-03-03'
+  submission_date: '2026-03-10T11:39:22.742261'
+  url:
+  - https://zenodo.org/records/18852087
+  - https://doi.org/10.5281/zenodo.18852087
