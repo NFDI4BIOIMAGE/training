@@ -25378,3 +25378,136 @@ resources:
   url:
   - https://zenodo.org/records/18337391
   - https://doi.org/10.5281/zenodo.18337391
+- authors:
+  - Wetzker, Cornelia
+  - "M\xFCller, Maximilian E."
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
+    key achievements until February 2026 and the support offered by its data stewardship
+    team and help desk service. We recommend strategies to make bioimage data FAIRer
+    along the individual stages of the research data life cycle.&nbsp;&nbsp;
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+
+    '
+  license: cc-by-4.0
+  name: '[2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community
+    Support in Bioimage Research Data Management'
+  num_downloads: 0
+  publication_date: '2026-03-16'
+  submission_date: '2026-03-17T11:47:49.741540'
+  url:
+  - https://zenodo.org/records/19001717
+  - https://doi.org/10.5281/zenodo.19001717
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license.
+  license: cc-by-4.0
+  name: The Beauty of Metadata by Henning Falk
+  num_downloads: 0
+  publication_date: '2026-03-13'
+  submission_date: '2026-03-17T11:47:50.899410'
+  url:
+  - https://zenodo.org/records/18998676
+  - https://doi.org/10.5281/zenodo.18998676
+- authors:
+  - Kunis, Susanne
+  - Hanne, Janina
+  - Wetzker, Cornelia
+  - Weidtkamp-Peters, Stefanie
+  - Moore, Josh
+  description: 'The scheme represents figure 1 of the interim report of the consortium
+    NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related
+    metrics accomplished in the past three years linked to the corresponding central
+    objectives listed in the application of the consortium. Key visions and concepts
+    are further emphasized using illustrations and cropped elements thereof of Henning
+    Falk, including ''Monolithic vs. chunked'', ''Bea computes'' and ''FAIR re-use''&nbsp;&copy;2022
+    NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page ''It''s
+    time to publish - where can bioimage data go? by Henning Falk'' used under a CC
+    BY 4.0 license. Modifications to the drawings include cropping.
+
+    NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number
+    NFDI 46/1, project number 501864659.'
+  license: cc-by-4.0
+  name: Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+  num_downloads: 0
+  publication_date: '2026-03-12'
+  submission_date: '2026-03-17T11:47:52.227075'
+  url:
+  - https://zenodo.org/records/18984621
+  - https://doi.org/10.5281/zenodo.18984621
+- authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  - Wendt, Jens
+  - "M\xFCller, Maximilian E."
+  - Wetzker, Cornelia
+  - Ahmadi, Mohsen
+  - Massei, Riccardo
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+  num_downloads: 0
+  publication_date: '2026-03-12'
+  submission_date: '2026-03-17T11:47:53.241653'
+  url:
+  - https://zenodo.org/records/18953151
+  - https://doi.org/10.5281/zenodo.18953151
+- authors:
+  - "M\xFCller, Maximilian E."
+  description: 'This short presentation provides a concise introduction to Data Management
+    Plans (DMPs) in the context of and bioimaging. It explains what DMPs are, why
+    they are important for research projects, and how they contribute to transparent,
+    reproducible, and FAIR research practices.
+
+    The slides outline commonly used templates and tools that support researchers
+    in creating and maintaining DMPs. In addition, the presentation highlights important
+    considerations for bioimaging data, including file formats, metadata annotation,
+    handling of large data sets and open software tools.
+
+    Designed as a brief educational resource, the presentation can be used for introductory
+    teaching, workshops, or self-learning by researchers and students who are new
+    to research data management and data management planning.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: Easy creation of your Bioimage Data Management Plan
+  num_downloads: 9
+  publication_date: '2026-03-11'
+  submission_date: '2026-03-17T11:47:53.960018'
+  url:
+  - https://zenodo.org/records/18957947
+  - https://doi.org/10.5281/zenodo.18957947
+- authors:
+  - Soltwedel, Johannes Richard
+  description: The German BioImaging research software engineering (RSE) unit is active
+    in a wide collection of projects. Here we sketch out how we envision these to
+    function together towards a better research data management environment for our
+    community of researchers, microscopists and bio-image analysts.
+  license: cc-by-4.0
+  name: 'GerBI community meeting 2026: Developing towards the ideal FAIR research
+    data management environment'
+  num_downloads: 0
+  publication_date: '2026-03-16'
+  submission_date: '2026-03-17T11:48:27.588298'
+  url:
+  - https://zenodo.org/records/19046270
+  - https://doi.org/10.5281/zenodo.19046270
+- authors:
+  - Hertzler, ian
+  description: imaris file that will not open in fiji. for troubleshooting purposes.
+  license: cc-by-4.0
+  name: ims file that won't open in FIJI
+  num_downloads: 3
+  publication_date: '2026-03-03'
+  submission_date: '2026-03-17T11:49:41.102734'
+  url:
+  - https://zenodo.org/records/18852087
+  - https://doi.org/10.5281/zenodo.18852087
