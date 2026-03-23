@@ -24369,20 +24369,6 @@ resources:
   url: https://data.europa.eu/en/academy
   language: en
 - authors:
-  - Publications Office of the European Union
-  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
-  license: CC-BY-4.0
-  name: 'Open Data Sharing Course Materials provided by the European Union'
-  publication_date: '2024-01-17'
-  tags:
-  - Research Data Management
-  - Open Data
-  - include in DALIA
-  type:
-  - Website
-  url: https://data.europa.eu/en/academy
-  language: en
-- authors:
   - EOSC
   description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
   license: CC-BY-4.0
