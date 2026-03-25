@@ -25497,3 +25497,77 @@ resources:
   url:
   - https://zenodo.org/records/18852087
   - https://doi.org/10.5281/zenodo.18852087
+- authors:
+  - Fortmann-Grote, Carsten
+  - Goutte-Gattat, Damien
+  - Lubiana Alves, Tiago
+  - Moore, Josh
+  - Olvera Cabrera, Daniel
+  - Waagmeester, Andra
+  description: Source files and pdf of the tutorial held at SWAT4HCLS 2026
+  license: cc-by-4.0
+  name: 'SWAT4HCLS Tutorial: KG Construction with ONTOP'
+  num_downloads: 45
+  publication_date: '2026-03-23'
+  submission_date: '2026-03-24T11:49:35.493509'
+  url:
+  - https://zenodo.org/records/19184109
+  - https://doi.org/10.5281/zenodo.19184109
+- authors:
+  - Wetzker, Cornelia
+  - "M\xFCller, Maximilian E."
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
+    key achievements until February 2026 and the support offered by its data stewardship
+    team and help desk service. We recommend strategies to make bioimage data FAIRer
+    along the individual stages of the research data life cycle.&nbsp;&nbsp;
+
+    Version 2 additionally comprises the poster in svg format for more flexible reuse.
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+
+    '
+  license: cc-by-4.0
+  name: '[2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community
+    Support in Bioimage Research Data Management'
+  num_downloads: 36
+  publication_date: '2026-03-19'
+  submission_date: '2026-03-24T11:49:35.932725'
+  url:
+  - https://zenodo.org/records/19107804
+  - https://doi.org/10.5281/zenodo.19107804
+- authors:
+  - Soltwedel, Johannes Richard
+  - Boissonnet, Tom
+  - Weidtkamp-Peters, Stefanie
+  description: The German BioImaging research software engineering (RSE) unit is active
+    in a wide collection of projects. Here we sketch out how we envision these to
+    function together towards a better research data management environment for our
+    community of researchers, microscopists and bio-image analysts.
+  license: cc-by-4.0
+  name: 'GerBI community meeting 2026: Developing towards the ideal FAIR research
+    data management environment'
+  num_downloads: 85
+  publication_date: '2026-03-17'
+  submission_date: '2026-03-24T11:49:36.398238'
+  url:
+  - https://zenodo.org/records/19063027
+  - https://doi.org/10.5281/zenodo.19063027
+- authors:
+  - Haase, Robert
+  description: In&nbsp; this slide deck we dive into generative artificial intelligence
+    in particular used for code generation and see how it impacts Bio-Image Data Science.
+    We learn about benchmarking large language models for data analysis code generation,
+    and how to use them practically in our work.
+  license: cc-by-4.0
+  name: How Generative Artificial Intelligence impacts Bio-Image Data Science
+  num_downloads: 36
+  publication_date: '2026-02-22'
+  submission_date: '2026-03-24T11:49:40.608039'
+  url:
+  - https://zenodo.org/records/18735653
+  - https://doi.org/10.5281/zenodo.18735653
