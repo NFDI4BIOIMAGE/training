@@ -24316,9 +24316,9 @@ resources:
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
 - authors:
   - Robert Haase
-  description: 'BioImage Analysis using Python tutorial at EMBO LSM 2025'
+  description: BioImage Analysis using Python tutorial at EMBO LSM 2025
   license: CC-BY-4.0
-  name: 'embo-lsm-bia-2025'
+  name: embo-lsm-bia-2025
   publication_date: '2025-08-03'
   tags:
   - Bioimage Analysis
@@ -24328,9 +24328,12 @@ resources:
   - Github Repository
   url: https://github.com/ScaDS/embo-lsm-bia-2025
   language: en
+  uuid: bac8fb99-0515-49bd-af30-9c5c09ee2d6b
 - authors:
   - Mara Lampert
-  description: 'This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.'
+  description: This blog post revolves around reproducibility in bio-image analysis  across
+    several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler
+    and JIPipe.
   license: CC-BY-4.0
   name: 'From Click to Code: Reproducibility in Bio-image Analysis'
   publication_date: '2025-08-05'
@@ -24341,24 +24344,32 @@ resources:
   - Blog Post
   url: https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/
   language: en
+  uuid: 1d2d613c-7cbc-4ce9-a60d-8acc249f6198
 - authors:
   - Rahul Pandita
-  description: 'Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.'
+  description: 'Language models (LLMs) are rapidly becoming essential developer tools.
+    But the metaphors we use to describe them matter. One often used is: "LLMs are
+    the autopilot of coding." As both a developer and a pilot, that metaphor misses
+    the mark on several levels. This blog post pens down why "Copilot" is a far better
+    analogy than "autopilot" when it comes to LLMs and vibe coding.'
   license: UNKNOWN
-  name: 'Autopilot, Copilot, and Software Developers'
+  name: Autopilot, Copilot, and Software Developers
   publication_date: '2025-10-12'
   tags:
   - Artificial Intelligence
   - include in DALIA
   type:
   - Blog Post
-  url: https://rahulpandita.me/blog/2025-10-12-Copilot 
+  url: https://rahulpandita.me/blog/2025-10-12-Copilot
   language: en
+  uuid: 51f25714-3d24-46f9-8f84-11a53e746035
 - authors:
   - Publications Office of the European Union
-  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  description: 'Course materials on Open Data Sharing: Introducing and understanding
+    the legal side of open data, Incorporating open data in your applications, Measuring
+    the impact of open data and more.'
   license: CC-BY-4.0
-  name: 'Open Data Sharing Course Materials provided by the European Union'
+  name: Open Data Sharing Course Materials provided by the European Union
   publication_date: '2024-01-17'
   tags:
   - Research Data Management
@@ -24368,11 +24379,15 @@ resources:
   - Website
   url: https://data.europa.eu/en/academy
   language: en
+  uuid: 5acb2be6-f49c-49bd-b54f-0bfa57b43bc0
 - authors:
   - EOSC
-  description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
+  description: All Skills4EOSC training courses are now available in self-paced mode
+    on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning
+    materials across communities. This includes the courses that were originally delivered
+    in hybrid mode during the project, as part of the Master Trainers’ programme.
   license: CC-BY-4.0
-  name: 'Skills4EOSC Training Courses on Open Data Sharing'
+  name: Skills4EOSC Training Courses on Open Data Sharing
   publication_date: '2024-01-17'
   tags:
   - Research Data Management
@@ -24382,6 +24397,7 @@ resources:
   - Website
   url: https://www.skills4eosc.eu/participate/skills4eosc-training-courses
   language: en
+  uuid: 0db7f417-d3b2-465b-8863-5c439693a3db
 - authors:
   - Rodrigo Escobar Díaz Guerrero
   - Jamile Mohammad Jafari
@@ -24389,9 +24405,24 @@ resources:
   - Michael Schmitt
   - Juergen Popp
   - Thomas Bocklitz
-  description: 'In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.'
+  description: 'In the interdisciplinary field of microscopy research, managing and
+    integrating large volumes of data stored across disparate platforms remains a
+    major challenge. Data types such as bioimages, experimental records, and spectral
+    information are often maintained in separate repositories, each following different
+    management standards. However, linking these data sources across the research
+    lifecycle is essential to align with the FAIR principles of data management: Findability,
+    Accessibility, Interoperability, and Reusability. Despite this need, there is
+    a notable lack of tools capable of effectively integrating and linking data from
+    heterogeneous sources. To address this gap, we present LEO (Linking Electronic
+    Lab Notebooks with OMERO), a web-based platform designed to create and manage
+    links between distributed data systems. LEO was initially developed to link objects
+    between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since
+    been extended through a plugin-based architecture, allowing the integration of
+    additional data sources. This extensibility makes LEO a scalable and flexible
+    solution for a wide range of microscopy research workflows.'
   license: CC-BY-4.0
-  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources'
+  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous
+    Metadata Sources'
   publication_date: '2025-08-01'
   tags:
   - Research Data Management
@@ -24402,6 +24433,7 @@ resources:
   - Publication
   url: https://arxiv.org/abs/2508.00654
   language: en
+  uuid: 4357a2f9-18f3-4d8a-b073-837464637372
 - authors:
   - Moore, Josh
   description: 'Presented at the 2025 International OME-NGFF workshop.
@@ -24573,6 +24605,7 @@ resources:
   url:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
+  uuid: b2f19e4e-417e-4b2d-b69b-7ac3a83cf33f
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24584,6 +24617,7 @@ resources:
   url:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
+  uuid: e7e0f21d-2dcf-4c23-9961-8ff8a94fff93
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24594,6 +24628,7 @@ resources:
   url:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
+  uuid: 90c18f9e-c7f1-4426-8e65-ae6f18251637
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24606,6 +24641,7 @@ resources:
   url:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
+  uuid: 1057ee72-a1b7-4aa1-af93-865de35448e8
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24618,6 +24654,7 @@ resources:
   url:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
+  uuid: fa432659-49d7-4dfe-b9f3-33bfd756d2aa
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -24643,6 +24680,7 @@ resources:
   url:
   - https://zenodo.org/records/17775761
   - https://doi.org/10.5281/zenodo.17775761
+  uuid: 06a8e4b7-4485-41a8-b8fc-f3f636b15206
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -24671,6 +24709,7 @@ resources:
   url:
   - https://zenodo.org/records/17775957
   - https://doi.org/10.5281/zenodo.17775957
+  uuid: 255ab0bc-c4b0-4bf4-8d38-da06cc3a1c8a
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -24685,10 +24724,11 @@ resources:
   url:
   - https://zenodo.org/records/17669681
   - https://doi.org/10.5281/zenodo.17669681
+  uuid: c1ecc9d7-1abc-4a5b-873f-a2eb0922b7b9
 - authors:
   - Sun, Yi
   - Tischer, Christian
-  - "H\xE9rich\xE9, Jean-Karim"
+  - Hériché, Jean-Karim
   description: 'The BAND platform offers cloud based desktops accessible with a web
     browser so that you can work on your data from anywhere with an internet connection.
 
@@ -24703,6 +24743,7 @@ resources:
   url:
   - https://zenodo.org/records/17671971
   - https://doi.org/10.5281/zenodo.17671971
+  uuid: 0ba3715b-6639-45ab-a370-ab7e879c676e
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -24728,6 +24769,7 @@ resources:
   url:
   - https://zenodo.org/records/17659149
   - https://doi.org/10.5281/zenodo.17659149
+  uuid: 63b8309d-0a5d-411e-bb3e-56164ef740bb
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -24737,7 +24779,7 @@ resources:
   - Carvajal-Vallejos, Patricia K.
   - Das, Sudeep
   - De Pascalis, Francesca
-  - "D\xF6rr, Dorothea"
+  - Dörr, Dorothea
   - Exter, Katrina
   - Holub, Petr
   - Gurwitz, Kim Tamara
@@ -24745,10 +24787,10 @@ resources:
   - Lieutaud, Philippe
   - Lister, Allyson
   - Lopez, Joaquin
-  - "Madon, B\xE9n\xE9dicte"
+  - Madon, Bénédicte
   - Massimi, Marzia
   - Matteoni, Rafaele
-  - "M\xEErza, Maria"
+  - Mîrza, Maria
   - Morgan, Sarah
   - Oezdemir, Bugra
   - Panagiotopoulou, Maria
@@ -24798,6 +24840,7 @@ resources:
   url:
   - https://zenodo.org/records/17672046
   - https://doi.org/10.5281/zenodo.17672046
+  uuid: f3cb0ee8-b7ba-41ac-8ce8-ce5f50819e6c
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -24810,6 +24853,7 @@ resources:
   url:
   - https://zenodo.org/records/17725097
   - https://doi.org/10.5281/zenodo.17725097
+  uuid: e7ebe26c-ec22-43ba-8292-9d1de8bd6852
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -24835,6 +24879,7 @@ resources:
   url:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
+  uuid: f3cc3b8a-54b3-417d-864b-6f21c888aa34
 - authors:
   - Wendt, Jens
   - Bortolomeazzi, Michele
@@ -24903,6 +24948,7 @@ resources:
   url:
   - https://zenodo.org/records/17897525
   - https://doi.org/10.5281/zenodo.17897525
+  uuid: 3265ccfc-81d5-44ee-9db1-ec5e248b0008
 - authors:
   - Wetzker, Cornelia
   - Schlierf, Michael
@@ -24920,21 +24966,22 @@ resources:
     C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen
     der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.'
   license: cc-by-4.0
-  name: "Didaktisches Konzept zur Einf\xFChrung ins Forschungsdatenmanagement (FDM)\
-    \ am Beispiel von Elektronischen Laborb\xFCchern (ELNs) und OMERO f\xFCr Bio-Bild-Verwaltung\
-    \ f\xFCr Studierende der Lebenswissenschaften"
+  name: Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am
+    Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung
+    für Studierende der Lebenswissenschaften
   num_downloads: 16
   publication_date: '2025-12-10'
   submission_date: '2025-12-16T11:25:50.401687'
   url:
   - https://zenodo.org/records/17876813
   - https://doi.org/10.5281/zenodo.17876813
+  uuid: 182d3a76-5265-4abe-a8b8-09da2f259e45
 - authors:
   - Vedder, Lucia
   - Peschel, Paul
   - Bortolomeazzi, Michele
   - Schmidt, Christian
-  - "Schr\xF6der, Katrin"
+  - Schröder, Katrin
   description: 'Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp;
     Veranstaltungsort:
 
@@ -25029,6 +25076,7 @@ resources:
   url:
   - https://zenodo.org/records/17787401
   - https://doi.org/10.5281/zenodo.17787401
+  uuid: f6f38fbd-d4bb-4d9a-a8ce-5d06d8972e42
 - authors:
   - Boissonnet, Tom
   - Massei, Riccardo
@@ -25048,6 +25096,7 @@ resources:
   url:
   - https://zenodo.org/records/17856704
   - https://doi.org/10.5281/zenodo.17856704
+  uuid: b4d24b60-1056-4914-a34c-6cecdb234d77
 - authors:
   - Soltwedel, Johannes Richard
   description: Introductory slides for top-level understanding of ome-zarr, cloud
@@ -25060,6 +25109,7 @@ resources:
   url:
   - https://zenodo.org/records/17898202
   - https://doi.org/10.5281/zenodo.17898202
+  uuid: 17a996f1-18f7-4dfd-97ef-a9953474c0a4
 - authors:
   - Dayer, Andrew J
   license: cc-by-4.0
@@ -25070,14 +25120,24 @@ resources:
   url:
   - https://zenodo.org/records/17914642
   - https://doi.org/10.5281/zenodo.17914642
+  uuid: 56f6214a-d4a1-443b-956a-c3f5a59aec6e
 - authors:
-  - Kumar, Neeraj 
-  - Verma, Ruchika 
-  - Sharma, Sanuj 
-  - Bhargava, Surabhi 
-  - Vahadane, Abhishek 
+  - Kumar, Neeraj
+  - Verma, Ruchika
+  - Sharma, Sanuj
+  - Bhargava, Surabhi
+  - Vahadane, Abhishek
   - Sethi, Amit
-  description: 'The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.'
+  description: The dataset for this challenge was obtained by carefully annotating
+    tissue images of several patients with tumors of different organs and who were
+    diagnosed at multiple hospitals. This dataset was created by downloading H&E stained
+    tissue images captured at 40x magnification from TCGA archive. H&E staining is
+    a routine protocol to enhance the contrast of a tissue section and is commonly
+    used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei
+    appearances across multiple organs and patients, and the richness of staining
+    protocols adopted at multiple hospitals, the training datatset will enable the
+    development of robust and generalizable nuclei segmentation techniques that will
+    work right out of the box.
   license: CC-BY-NC-SA-4.0
   name: A dataset for generalized nuclear segmentation for computational pathology
   publication_date: '2017-03-06'
@@ -25088,6 +25148,7 @@ resources:
   - Data
   url: https://huggingface.co/datasets/RationAI/MoNuSeg
   language: en
+  uuid: 1570d056-fb5e-4416-a658-56455d356cee
 - authors:
   - Engelhardt, Claudia
   - Haase, Robert
@@ -25110,31 +25171,94 @@ resources:
   url:
   - https://zenodo.org/records/17978132
   - https://doi.org/10.5281/zenodo.17978132
+  uuid: 3f615afc-ef15-441e-866d-6004d51336e1
 - authors:
   - Fuchs, Vanessa
   - Zobel, Thomas
   - Baldenius, Marie
   - Wendt, Jens
-  description: "The presentations for the workshop \"Research Data Management\" at\
-    \ University M&uuml;nster on 25.11.2025.\nfunded by the Deutsche Forschungsgemeinschaft\
-    \ (DFG, German Research Foundation) under the National Research Data Infrastructure\
-    \ &ndash; NFDI 46/1 &ndash; 501864659\nProgram:\n\n\n\n09:00 - 09:30\nIntroduction\n\
-    \n\n09.30 - 10:30\nRDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files\
-    \ and folders\n\n\n10:30 - 11:00\nCoffee break \u2615\n\n\n11:00 - 12:00\nOMERO\
-    \ basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces\n\n\n12:00 - 13:00\n\
-    Lunch break \U0001F355\n\n\n13:00 - 13:30\nOMERO repetition and hands-on\n\n\n\
-    13:30 - 14:20\nREMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata\
-    \ in OMERO\n\n\n14:20 - 14:35\nCoffee break \u2615\n\n\n14:35 - 15:15\nOMERO.Figure&nbsp;\
-    \ &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories\n\n\n15:15 - 17:00&nbsp;\n\
-    Individual questions, play with your own data\n\n\n\n&nbsp;"
+  description: 'The presentations for the workshop "Research Data Management" at University
+    M&uuml;nster on 25.11.2025.
+
+    funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+    under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+    Program:
+
+
+
+
+    09:00 - 09:30
+
+    Introduction
+
+
+
+    09.30 - 10:30
+
+    RDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files and folders
+
+
+
+    10:30 - 11:00
+
+    Coffee break ☕
+
+
+
+    11:00 - 12:00
+
+    OMERO basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces
+
+
+
+    12:00 - 13:00
+
+    Lunch break 🍕
+
+
+
+    13:00 - 13:30
+
+    OMERO repetition and hands-on
+
+
+
+    13:30 - 14:20
+
+    REMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata in OMERO
+
+
+
+    14:20 - 14:35
+
+    Coffee break ☕
+
+
+
+    14:35 - 15:15
+
+    OMERO.Figure&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories
+
+
+
+    15:15 - 17:00&nbsp;
+
+    Individual questions, play with your own data
+
+
+
+
+    &nbsp;'
   license: cc-by-4.0
-  name: "Workshop Research Data Management for Microscopy at University M\xFCnster"
+  name: Workshop Research Data Management for Microscopy at University Münster
   num_downloads: 77
   publication_date: '2025-12-18'
   submission_date: '2026-01-06T11:25:13.245721'
   url:
   - https://zenodo.org/records/17974214
   - https://doi.org/10.5281/zenodo.17974214
+  uuid: cdb33034-723e-4860-b0e9-01b150ae7fea
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -25165,13 +25289,32 @@ resources:
   url:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
-
+  uuid: 4cced0f5-ee3f-473b-90f7-a59879323770
 - name: Ten recommendations for organising bioimaging data for archival
   type:
   - publication
   url: https://f1000research.com/articles/12-1391/v2
-  abstract: "Organised data is easy to use but the rapid developments in the field of bioimaging, with improvements in instrumentation, detectors, software and experimental techniques, have resulted in an explosion of the volumes of data being generated, making well-organised data an elusive goal. This guide offers a handful of recommendations for bioimage depositors, analysts and microscope and software developers, whose implementation would contribute towards better organised data in preparation for archival. Based on our experience archiving large image datasets in EMPIAR, the BioImage Archive and BioStudies, we propose a number of strategies that we believe would improve the usability (clarity, orderliness, learnability, navigability, self-documentation, coherence and consistency of identifiers, accessibility, succinctness) of future data depositions more useful to the bioimaging community (data authors and analysts, researchers, clinicians, funders, collaborators, industry partners, hardware/software producers, journals, archive developers as well as interested but non-specialist users of bioimaging data). The recommendations that may also find use in other data-intensive disciplines. To facilitate the process of analysing data organisation, we present bandbox, a Python package that provides users with an assessment of their data by flagging potential issues, such as redundant directories or invalid characters in file or folder names, that should be addressed before archival. We offer these recommendations as a starting point and hope to engender more substantial conversations across and between the various data-rich communities."
-  
+  abstract: Organised data is easy to use but the rapid developments in the field
+    of bioimaging, with improvements in instrumentation, detectors, software and experimental
+    techniques, have resulted in an explosion of the volumes of data being generated,
+    making well-organised data an elusive goal. This guide offers a handful of recommendations
+    for bioimage depositors, analysts and microscope and software developers, whose
+    implementation would contribute towards better organised data in preparation for
+    archival. Based on our experience archiving large image datasets in EMPIAR, the
+    BioImage Archive and BioStudies, we propose a number of strategies that we believe
+    would improve the usability (clarity, orderliness, learnability, navigability,
+    self-documentation, coherence and consistency of identifiers, accessibility, succinctness)
+    of future data depositions more useful to the bioimaging community (data authors
+    and analysts, researchers, clinicians, funders, collaborators, industry partners,
+    hardware/software producers, journals, archive developers as well as interested
+    but non-specialist users of bioimaging data). The recommendations that may also
+    find use in other data-intensive disciplines. To facilitate the process of analysing
+    data organisation, we present bandbox, a Python package that provides users with
+    an assessment of their data by flagging potential issues, such as redundant directories
+    or invalid characters in file or folder names, that should be addressed before
+    archival. We offer these recommendations as a starting point and hope to engender
+    more substantial conversations across and between the various data-rich communities.
+  uuid: 770549f6-b040-4bb5-919f-548eec5f5890
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -25186,8 +25329,9 @@ resources:
   url:
   - https://zenodo.org/records/18782352
   - https://doi.org/10.5281/zenodo.18782352
+  uuid: c7c6abb5-f9a3-420c-9cbd-6486c258dec8
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held at the University
     of Konstanz as part of the Advanced Technologies for the Life Sciences course
     of the Master''s programme in Biology.
@@ -25216,11 +25360,12 @@ resources:
   url:
   - https://zenodo.org/records/18754248
   - https://doi.org/10.5281/zenodo.18754248
+  uuid: b4be8694-328c-4f93-ad56-d886c8217cbf
 - authors:
   - Ebert, Barbara
   - Ewert, Frank
-  - "F\xF6rstner, Konrad U."
-  - "Gl\xF6ckner, Frank Oliver"
+  - Förstner, Konrad U.
+  - Glöckner, Frank Oliver
   - McHardy, Alice Carolyn
   - von Rummel, Philipp
   - von Suchodoletz, Dirk
@@ -25232,7 +25377,7 @@ resources:
   - Lange, Matthias
   - Magel, Maja
   - Moore, Josh
-  - "M\xFChlhaus, Timo"
+  - Mühlhaus, Timo
   - Scholz, Uwe
   - Specka, Xenia
   - thor Straten, Mattis
@@ -25257,6 +25402,7 @@ resources:
   url:
   - https://zenodo.org/records/18694155
   - https://doi.org/10.5281/zenodo.18694155
+  uuid: 23e1e700-354b-4c27-8f6d-09d531dc0c3b
 - authors:
   - Wetzker, Cornelia
   description: 'The presentation was given at the online format of the SaxFDM Beratungsstammtisch
@@ -25271,14 +25417,15 @@ resources:
 
     '
   license: cc-by-4.0
-  name: "[SaxFDM-Beratungsstammtisch] Between CONSORTIUM and CAMPUS: The role(s) of\
-    \ discipline-specific data stewards \u2013 an example"
+  name: '[SaxFDM-Beratungsstammtisch] Between CONSORTIUM and CAMPUS: The role(s) of
+    discipline-specific data stewards – an example'
   num_downloads: 16
   publication_date: '2026-02-16'
   submission_date: '2026-03-03T11:38:51.729902'
   url:
   - https://zenodo.org/records/18659976
   - https://doi.org/10.5281/zenodo.18659976
+  uuid: ca102d5d-dcd8-4c35-bc4e-af1c01ddac8c
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -25293,20 +25440,22 @@ resources:
   url:
   - https://zenodo.org/records/17607828
   - https://doi.org/10.5281/zenodo.17607828
+  uuid: 152e2fdf-0134-4ec7-b680-d30070e03047
 - authors:
   - Wendt, Jens
   description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
     German Research Foundation) under the National Research Data Infrastructure &ndash;
     NFDI 46/1 &ndash; 501864659.
   license: cc-by-4.0
-  name: "Presentation about an \"enriched OMERO\" at the RDM4Mic meeting in M\xFC\
-    nster at 10/2025"
+  name: Presentation about an "enriched OMERO" at the RDM4Mic meeting in Münster at
+    10/2025
   num_downloads: 20
   publication_date: '2026-01-13'
   submission_date: '2026-03-03T11:38:53.033743'
   url:
   - https://zenodo.org/records/18230666
   - https://doi.org/10.5281/zenodo.18230666
+  uuid: dcada73b-256c-4c2f-a111-ee833791e379
 - authors:
   - Tischer, Christian
   description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
@@ -25320,6 +25469,7 @@ resources:
   url:
   - https://zenodo.org/records/18184329
   - https://doi.org/10.5281/zenodo.18184329
+  uuid: f53f238d-1823-4745-a33e-72d3a3537cba
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -25349,6 +25499,7 @@ resources:
   url:
   - https://zenodo.org/records/18378649
   - https://doi.org/10.5281/zenodo.18378649
+  uuid: ff16d78f-1111-4329-9e92-68338731d4af
 - authors:
   - Fabig, Gunar
   description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
@@ -25364,9 +25515,10 @@ resources:
   url:
   - https://zenodo.org/records/18337391
   - https://doi.org/10.5281/zenodo.18337391
+  uuid: e0a8f019-dce4-4328-87ce-739cef5ef0c5
 - authors:
   - Wetzker, Cornelia
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Fuchs, Vanessa Aphaia Fiona
   description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
     key achievements until February 2026 and the support offered by its data stewardship
@@ -25389,6 +25541,7 @@ resources:
   url:
   - https://zenodo.org/records/19001717
   - https://doi.org/10.5281/zenodo.19001717
+  uuid: 37e56c12-561f-4a40-9f89-fb3995550f1d
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -25403,6 +25556,7 @@ resources:
   url:
   - https://zenodo.org/records/18998676
   - https://doi.org/10.5281/zenodo.18998676
+  uuid: 7e4d329e-c4fb-443a-a8f8-8044f3f0115f
 - authors:
   - Kunis, Susanne
   - Hanne, Janina
@@ -25429,10 +25583,11 @@ resources:
   url:
   - https://zenodo.org/records/18984621
   - https://doi.org/10.5281/zenodo.18984621
+  uuid: b8c02061-ec43-4d02-88d9-d9b7d98df8a7
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Wetzker, Cornelia
   - Ahmadi, Mohsen
   - Massei, Riccardo
@@ -25444,8 +25599,9 @@ resources:
   url:
   - https://zenodo.org/records/18953151
   - https://doi.org/10.5281/zenodo.18953151
+  uuid: 969cd278-cfbc-4ac1-bc8d-7cc598b7a10c
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This short presentation provides a concise introduction to Data Management
     Plans (DMPs) in the context of and bioimaging. It explains what DMPs are, why
     they are important for research projects, and how they contribute to transparent,
@@ -25471,6 +25627,7 @@ resources:
   url:
   - https://zenodo.org/records/18957947
   - https://doi.org/10.5281/zenodo.18957947
+  uuid: 09a745b0-9ccb-4842-9d0f-4762493a694d
 - authors:
   - Soltwedel, Johannes Richard
   description: The German BioImaging research software engineering (RSE) unit is active
@@ -25486,6 +25643,7 @@ resources:
   url:
   - https://zenodo.org/records/19046270
   - https://doi.org/10.5281/zenodo.19046270
+  uuid: 781834f3-12c3-4088-82a9-a94f5ce6c05c
 - authors:
   - Hertzler, ian
   description: imaris file that will not open in fiji. for troubleshooting purposes.
@@ -25497,6 +25655,7 @@ resources:
   url:
   - https://zenodo.org/records/18852087
   - https://doi.org/10.5281/zenodo.18852087
+  uuid: b9baa7cc-bf3f-4c65-8765-7bf3c6082836
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -25513,9 +25672,10 @@ resources:
   url:
   - https://zenodo.org/records/19184109
   - https://doi.org/10.5281/zenodo.19184109
+  uuid: 94ce8dc1-f052-4a39-8642-0d200f582e21
 - authors:
   - Wetzker, Cornelia
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Fuchs, Vanessa Aphaia Fiona
   description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
     key achievements until February 2026 and the support offered by its data stewardship
@@ -25540,6 +25700,7 @@ resources:
   url:
   - https://zenodo.org/records/19107804
   - https://doi.org/10.5281/zenodo.19107804
+  uuid: 8ace7cff-d3c8-409e-8083-265b1b607821
 - authors:
   - Soltwedel, Johannes Richard
   - Boissonnet, Tom
@@ -25557,6 +25718,7 @@ resources:
   url:
   - https://zenodo.org/records/19063027
   - https://doi.org/10.5281/zenodo.19063027
+  uuid: 5dc25480-4242-4491-b2ce-6de10b66a609
 - authors:
   - Haase, Robert
   description: In&nbsp; this slide deck we dive into generative artificial intelligence
@@ -25571,3 +25733,4 @@ resources:
   url:
   - https://zenodo.org/records/18735653
   - https://doi.org/10.5281/zenodo.18735653
+  uuid: 9677999b-af9b-4dab-9938-da6a3b396a6f
