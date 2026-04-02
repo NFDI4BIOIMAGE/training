@@ -25571,3 +25571,89 @@ resources:
   url:
   - https://zenodo.org/records/18735653
   - https://doi.org/10.5281/zenodo.18735653
+- authors:
+  - "H\xF6ck, Lina Lisa"
+  - Haase, Robert
+  description: 'This slide deck accompanies the AI4Science for scientists at UFZ Magdeburg:
+    https://scads.github.io/ai4science-ufz-madgeburg-2026/intro.html
+
+    It outlines the topics:
+
+
+
+    Introduction to Artificial Intelligence, AI systems, and language models
+
+
+
+    Application areas and limitations of AI in text generation
+
+
+
+    AI-assisted literature research
+
+
+
+    Prompt engineering
+
+
+
+    Prompting with large context
+
+
+
+    Knowledge distillation
+
+
+
+    Text Analysis / Information Retrieval
+
+
+
+    Embeddings and retrieval-augmented generation
+
+
+
+    Data analysis
+
+
+
+    Data and code generation
+
+
+
+    Bias
+
+
+
+    Privacy-compliant use
+
+
+
+    Copyright
+
+
+
+    EU AI Act
+
+
+    '
+  license: cc-by-4.0
+  name: AI4Science Training @ UFZ Magdeburg
+  num_downloads: 83
+  publication_date: '2026-03-27'
+  submission_date: '2026-03-31T11:53:52.304811'
+  url:
+  - https://zenodo.org/records/19246441
+  - https://doi.org/10.5281/zenodo.19246441
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Summary of new features and use cases of transformation metadata in
+    the upcoming ome-zarr 0.6 metadata standard
+  license: cc-by-4.0
+  name: 'Transforming ome-zarr: What''s (going to be) new in 0.6'
+  num_downloads: 16
+  publication_date: '2026-03-31'
+  submission_date: '2026-03-31T11:54:14.019344'
+  url:
+  - https://zenodo.org/records/19335305
+  - https://doi.org/10.5281/zenodo.19335305
