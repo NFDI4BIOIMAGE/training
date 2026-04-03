@@ -1,4 +1,4 @@
-# Riccardo massei (23)
+# Riccardo massei (24)
 ## Advancing FAIR Image Analysis in Galaxy: Tools, Workflows, and Training
 
 Chiang Jurado, Diana, Riccardo Massei, Pavankumar Videm, Anup Kumar, Anne Fouilloux, Leonid Kostrykin, Beatriz Serrano-Solano, Björn Grüning
@@ -265,6 +265,23 @@ Tags: Research Data Management, Bioimage Analysis, Nfdi4Bioimage, Exclude From D
 Content type: Slides
 
 [https://zenodo.org/doi/10.5281/zenodo.8414318](https://zenodo.org/doi/10.5281/zenodo.8414318)
+
+
+---
+
+## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
+
+[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
 
 
 ---

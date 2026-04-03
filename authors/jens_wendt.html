@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Jens wendt (10) &#8212; NFDI4BioImage Training Materials</title>
+    <title>Jens wendt (13) &#8212; NFDI4BioImage Training Materials</title>
   
   
   
@@ -16,44 +16,47 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/css/searchbox.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
 
     <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
     <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="../_static/copybutton.js?v=f281be69"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/0.6.0/lunr.min.js"></script>
     <script src="../_static/js/searchbox.js"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="../_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="../_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -65,7 +68,8 @@
     <link rel="search" title="Search" href="../search.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-    <meta name="docbuild:last-update" content="2025-12-16"/>
+  <meta name="docsearch:version" content="" />
+    <meta name="docbuild:last-update" content="2026-04-03"/>
   </head>
   
   
@@ -81,19 +85,8 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -101,7 +94,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -109,8 +101,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -128,7 +120,8 @@
       
         
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -158,21 +151,17 @@
     
     
     <img src="../_static/logo.png" class="logo__image only-light" alt="NFDI4BioImage Training Materials - Home"/>
-    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NFDI4BioImage Training Materials - Home"/>`);</script>
+    <img src="../_static/logo.png" class="logo__image only-dark pst-js-only" alt="NFDI4BioImage Training Materials - Home"/>
   
   
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -185,7 +174,7 @@
         </ul>
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">What's new</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (10)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../whats_new.html">Recently added (9)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
 <ul class="nav bd-sidenav">
@@ -196,52 +185,52 @@
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By tag</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../tags/ai-ready.html">Ai-ready (86)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (52)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (214)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/ai-ready.html">Ai-ready (87)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/artificial_intelligence.html">Artificial intelligence (53)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/bioimage_analysis.html">Bioimage analysis (217)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/bioinformatics.html">Bioinformatics (20)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/data_stewardship.html">Data stewardship (6)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/exclude_from_dalia.html">Exclude from dalia (460)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/exclude_from_dalia.html">Exclude from dalia (461)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/fair-principles.html">Fair-principles (29)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/fiji.html">Fiji (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/galaxy.html">Galaxy (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/imagej.html">Imagej (20)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/include_in_dalia.html">Include in dalia (338)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/include_in_dalia.html">Include in dalia (344)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/licensing.html">Licensing (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/metadata.html">Metadata (15)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/napari.html">Napari (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/neubias.html">Neubias (27)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/nfdi4bioimage.html">Nfdi4bioimage (80)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (42)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/omero.html">Omero (43)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/open_science.html">Open science (9)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/open_source_software.html">Open source software (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (71)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/python.html">Python (72)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/reproducibility.html">Reproducibility (5)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (148)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tags/research_data_management.html">Research data management (151)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/sharing.html">Sharing (12)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/workflow.html">Workflow (9)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../tags/workflow_engine.html">Workflow engine (13)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By content type</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (28)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/blog%20post.html">Blog post (30)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/book.html">Book (21)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/code.html">Code (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/collection.html">Collection (86)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (94)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/data.html">Data (95)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/document.html">Document (8)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/documentation.html">Documentation (19)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/event.html">Event (8)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (70)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/github%20repository.html">Github repository (71)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/notebook.html">Notebook (57)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/online%20tutorial.html">Online tutorial (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/poster.html">Poster (10)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/preprint.html">Preprint (6)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (74)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/publication.html">Publication (76)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/slides.html">Slides (85)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/tutorial.html">Tutorial (48)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/video.html">Video (40)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../content_types/website.html">Website (14)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../content_types/workshop.html">Workshop (14)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By license</span></p>
@@ -251,31 +240,32 @@
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-2-clause.html">Bsd-2-clause (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/bsd-3-clause.html">Bsd-3-clause (37)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-3.0.html">Cc-by-3.0 (5)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (445)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-nc-sa-4.0.html">Cc-by-nc-sa-4.0 (5)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-4.0.html">Cc-by-4.0 (472)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-nc-sa-4.0.html">Cc-by-nc-sa-4.0 (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc-by-sa-4.0.html">Cc-by-sa-4.0 (6)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/cc0-1.0.html">Cc0-1.0 (25)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-2.0.html">Gpl-2.0 (8)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/gpl-3.0.html">Gpl-3.0 (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../licenses/mit.html">Mit (32)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (111)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../licenses/unknown.html">Unknown (112)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../domain/arxiv.org.html">Arxiv.org (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/bbbc.broadinstitute.org.html">Bbbc.broadinstitute.org (12)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/biapol.github.io.html">Biapol.github.io (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/docs.google.com.html">Docs.google.com (6)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (380)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (11)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (14)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (402)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/f1000research.com.html">F1000research.com (12)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/focalplane.biologists.com.html">Focalplane.biologists.com (15)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/git.mpi-cbg.de.html">Git.mpi-cbg.de (7)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (151)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/github.com.html">Github.com (152)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/training.galaxyproject.org.html">Training.galaxyproject.org (5)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.biorxiv.org.html">Www.biorxiv.org (7)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.ebi.ac.uk.html">Www.ebi.ac.uk (18)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.nature.com.html">Www.nature.com (21)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../domain/www.youtube.com.html">Www.youtube.com (29)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (361)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (383)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -292,9 +282,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -424,7 +419,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -438,25 +433,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -469,7 +456,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Jens wendt (10)</h1>
+    <h1>Jens wendt (13)</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -482,12 +469,15 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#excel-template-for-adding-key-value-pairs-to-images">Excel template for adding Key-Value Pairs to images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero">High throughput &amp; automated data analysis and data management workflow with Cellprofiler and OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#memorandum-of-understanding-of-nfdi-consortia-from-earth-chemical-and-life-sciences-to-support-a-network-called-the-geo-chem-life-science-helpdesk-cluster">Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4bioimage-helpdesk-deutschlandkarte">NFDI4BIOIMAGE Helpdesk Deutschlandkarte</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4bioimage-ta3-hackathon-uoc-2023-cologne-hackathon-2023-github-repository">NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-and-research-data-management-workshop-at-the-georg-speyer-haus-in-frankfurt">OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-for-microscopy-research-data-management">OMERO for microscopy research data management</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#presentation-about-an-enriched-omero-at-the-rdm4mic-meeting-in-munster-at-10-2025">Presentation about an “enriched OMERO” at the RDM4Mic meeting in Münster at 10/2025</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data">Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#user-friendly-image-metadata-annotation-tool-workflow-for-omero">User friendly Image metadata annotation tool/workflow for OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-you-gonna-call-data-stewards-to-the-rescue">Who you gonna call? - Data Stewards to the rescue</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-research-data-management-for-microscopy-at-university-munster">Workshop Research Data Management for Microscopy at University Münster</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rdm4mic2025-data-stewardship-for-bio-image-research-data-management-support-and-training-in-nfdi4bioimage">[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE</a></li>
 </ul>
             </nav>
@@ -500,8 +490,8 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="jens-wendt-10">
-<h1>Jens wendt (10)<a class="headerlink" href="#jens-wendt-10" title="Link to this heading">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="jens-wendt-13">
+<h1>Jens wendt (13)<a class="headerlink" href="#jens-wendt-13" title="Link to this heading">#</a></h1>
 <section id="excel-template-for-adding-key-value-pairs-to-images">
 <h2>Excel template for adding Key-Value Pairs to images<a class="headerlink" href="#excel-template-for-adding-key-value-pairs-to-images" title="Link to this heading">#</a></h2>
 <p>Thomas Zobel, Jens Wendt</p>
@@ -535,6 +525,15 @@ Please keep in mind, that the <a class="reference external" href="http://OMERO.w
 <p>Tags: Exclude From Dalia</p>
 <p><a class="reference external" href="https://zenodo.org/records/15065070">https://zenodo.org/records/15065070</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.15065070">https://doi.org/10.5281/zenodo.15065070</a></p>
+</section>
+<hr class="docutils" />
+<section id="nfdi4bioimage-helpdesk-deutschlandkarte">
+<h2>NFDI4BIOIMAGE Helpdesk Deutschlandkarte<a class="headerlink" href="#nfdi4bioimage-helpdesk-deutschlandkarte" title="Link to this heading">#</a></h2>
+<p>Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei</p>
+<p>Published 2026-03-12</p>
+<p>Licensed CC-BY-4.0</p>
+<p><a class="reference external" href="https://zenodo.org/records/18953151">https://zenodo.org/records/18953151</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.18953151">https://doi.org/10.5281/zenodo.18953151</a></p>
 </section>
 <hr class="docutils" />
 <section id="nfdi4bioimage-ta3-hackathon-uoc-2023-cologne-hackathon-2023-github-repository">
@@ -594,6 +593,16 @@ Short break</p>
 <p><a class="reference external" href="https://analyticalscience.wiley.com/do/10.1002/was.0004000267/">https://analyticalscience.wiley.com/do/10.1002/was.0004000267/</a></p>
 </section>
 <hr class="docutils" />
+<section id="presentation-about-an-enriched-omero-at-the-rdm4mic-meeting-in-munster-at-10-2025">
+<h2>Presentation about an “enriched OMERO” at the RDM4Mic meeting in Münster at 10/2025<a class="headerlink" href="#presentation-about-an-enriched-omero-at-the-rdm4mic-meeting-in-munster-at-10-2025" title="Link to this heading">#</a></h2>
+<p>Jens Wendt</p>
+<p>Published 2026-01-13</p>
+<p>Licensed CC-BY-4.0</p>
+<p>We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure – NFDI 46/1 – 501864659.</p>
+<p><a class="reference external" href="https://zenodo.org/records/18230666">https://zenodo.org/records/18230666</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.18230666">https://doi.org/10.5281/zenodo.18230666</a></p>
+</section>
+<hr class="docutils" />
 <section id="structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data">
 <h2>Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data<a class="headerlink" href="#structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data" title="Link to this heading">#</a></h2>
 <p>Sarah Weischer, Jens Wendt, Thomas Zobel</p>
@@ -639,6 +648,39 @@ Smart Data
 <p>Tags: Exclude From Dalia</p>
 <p><a class="reference external" href="https://zenodo.org/records/10730424">https://zenodo.org/records/10730424</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.10730424">https://doi.org/10.5281/zenodo.10730424</a></p>
+</section>
+<hr class="docutils" />
+<section id="workshop-research-data-management-for-microscopy-at-university-munster">
+<h2>Workshop Research Data Management for Microscopy at University Münster<a class="headerlink" href="#workshop-research-data-management-for-microscopy-at-university-munster" title="Link to this heading">#</a></h2>
+<p>Vanessa Fuchs, Thomas Zobel, Marie Baldenius, Jens Wendt</p>
+<p>Published 2025-12-18</p>
+<p>Licensed CC-BY-4.0</p>
+<p>The presentations for the workshop “Research Data Management” at University Münster on 25.11.2025.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure – NFDI 46/1 – 501864659
+Program:</p>
+<p>09:00 - 09:30
+Introduction</p>
+<p>09.30 - 10:30
+RDM basics    &amp;&amp;    RDM with files and folders</p>
+<p>10:30 - 11:00
+Coffee break ☕</p>
+<p>11:00 - 12:00
+OMERO basics    &amp;&amp;    OMERO interfaces</p>
+<p>12:00 - 13:00
+Lunch break 🍕</p>
+<p>13:00 - 13:30
+OMERO repetition and hands-on</p>
+<p>13:30 - 14:20
+REMBI and Ontologies    &amp;&amp;     Metadata in OMERO</p>
+<p>14:20 - 14:35
+Coffee break ☕</p>
+<p>14:35 - 15:15
+OMERO.Figure    &amp;&amp;    Public image repositories</p>
+<p>15:15 - 17:00 
+Individual questions, play with your own data</p>
+<p> </p>
+<p><a class="reference external" href="https://zenodo.org/records/17974214">https://zenodo.org/records/17974214</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.17974214">https://doi.org/10.5281/zenodo.17974214</a></p>
 </section>
 <hr class="docutils" />
 <section id="rdm4mic2025-data-stewardship-for-bio-image-research-data-management-support-and-training-in-nfdi4bioimage">
@@ -690,24 +732,29 @@ Smart Data
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#excel-template-for-adding-key-value-pairs-to-images">Excel template for adding Key-Value Pairs to images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#high-throughput-automated-data-analysis-and-data-management-workflow-with-cellprofiler-and-omero">High throughput &amp; automated data analysis and data management workflow with Cellprofiler and OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#memorandum-of-understanding-of-nfdi-consortia-from-earth-chemical-and-life-sciences-to-support-a-network-called-the-geo-chem-life-science-helpdesk-cluster">Memorandum of Understanding of NFDI consortia from Earth-, Chemical and Life Sciences to support a network called the Geo-Chem-Life Science Helpdesk Cluster</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4bioimage-helpdesk-deutschlandkarte">NFDI4BIOIMAGE Helpdesk Deutschlandkarte</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4bioimage-ta3-hackathon-uoc-2023-cologne-hackathon-2023-github-repository">NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-and-research-data-management-workshop-at-the-georg-speyer-haus-in-frankfurt">OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omero-for-microscopy-research-data-management">OMERO for microscopy research data management</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#presentation-about-an-enriched-omero-at-the-rdm4mic-meeting-in-munster-at-10-2025">Presentation about an “enriched OMERO” at the RDM4Mic meeting in Münster at 10/2025</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structuring-of-data-and-metadata-in-bioimaging-concepts-and-technical-solutions-in-the-context-of-linked-data">Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#user-friendly-image-metadata-annotation-tool-workflow-for-omero">User friendly Image metadata annotation tool/workflow for OMERO</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-you-gonna-call-data-stewards-to-the-rescue">Who you gonna call? - Data Stewards to the rescue</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-research-data-management-for-microscopy-at-university-munster">Workshop Research Data Management for Microscopy at University Münster</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rdm4mic2025-data-stewardship-for-bio-image-research-data-management-support-and-training-in-nfdi4bioimage">[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE</a></li>
 </ul>
   </nav></div>
@@ -735,7 +782,7 @@ By Robert Haase, Clément Caporal,... and the NFDI4BioImage Initiative
   
   <div class="footer-item">
     <p class="last-updated">
-  Last updated on 2025-12-16.
+  Last updated on 2026-04-03.
   <br/>
 </p>
   </div>
@@ -760,8 +807,8 @@ Contributions and feedback are welcome.
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
 
   <footer class="bd-footer">
   </footer>

@@ -1,4 +1,4 @@
-# Research data management (148)
+# Research data management (151)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -1495,6 +1495,27 @@ Content type: Github Repository
 
 ---
 
+## LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources
+
+Rodrigo Escobar Díaz Guerrero, Jamile Mohammad Jafari, Tobias Meyer-Zedler, Michael Schmitt, Juergen Popp, Thomas Bocklitz
+
+Published 2025-08-01
+
+Licensed CC-BY-4.0
+
+
+
+In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.
+
+Tags: Research Data Management, OMERO, Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://arxiv.org/abs/2508.00654](https://arxiv.org/abs/2508.00654)
+
+
+---
+
 ## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
 
 Bea Hiemenz, Monika Kuberek
@@ -1813,7 +1834,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -1866,6 +1887,27 @@ Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+
+
+---
+
+## Open Data Sharing Course Materials provided by the European Union
+
+Publications Office of the European Union
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://data.europa.eu/en/academy](https://data.europa.eu/en/academy)
 
 
 ---
@@ -2300,6 +2342,27 @@ Tags: Sharing, Research Data Management, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/](https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/)
+
+
+---
+
+## Skills4EOSC Training Courses on Open Data Sharing
+
+EOSC
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://www.skills4eosc.eu/participate/skills4eosc-training-courses](https://www.skills4eosc.eu/participate/skills4eosc-training-courses)
 
 
 ---
@@ -3058,7 +3121,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

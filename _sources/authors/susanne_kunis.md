@@ -1,4 +1,4 @@
-# Susanne kunis (19)
+# Susanne kunis (20)
 ## (Meta)data in Action - Developments in NFDI4BIOIMAGE and I3D:bio
 
 Susanne Kunis
@@ -126,6 +126,26 @@ Tags: Nfdi4Bioimage, Exclude From Dalia
 Content type: Publication
 
 [https://ceur-ws.org/Vol-3415/paper-27.pdf](https://ceur-ws.org/Vol-3415/paper-27.pdf)
+
+
+---
+
+## Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+
+Susanne Kunis, Janina Hanne, Cornelia Wetzker, Stefanie Weidtkamp-Peters, Josh Moore
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+The scheme represents figure 1 of the interim report of the consortium NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related metrics accomplished in the past three years linked to the corresponding central objectives listed in the application of the consortium. Key visions and concepts are further emphasized using illustrations and cropped elements thereof of Henning Falk, including 'Monolithic vs. chunked', 'Bea computes' and 'FAIR re-use'&nbsp;&copy;2022 NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page 'It's time to publish - where can bioimage data go? by Henning Falk' used under a CC BY 4.0 license. Modifications to the drawings include cropping.
+NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/18984621](https://zenodo.org/records/18984621)
+
+[https://doi.org/10.5281/zenodo.18984621](https://doi.org/10.5281/zenodo.18984621)
 
 
 ---

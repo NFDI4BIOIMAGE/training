@@ -1,4 +1,26 @@
-# Euro-bioimaging eric (13)
+# Euro-bioimaging eric (14)
+## Crossword puzzle: FAIR BioImage Data
+
+Isabel Kemmer, Euro-BioImaging ERIC
+
+Published 2025-12-09
+
+Licensed CC-BY-4.0
+
+
+
+This FAIR Bioimage Data Crossword Puzzle offers a fun and engaging way to explore key concepts, principles, and resources related to FAIR (Findable, Accessible, Interoperable, Reusable) data in bioimaging. The crossword promotes active learning and discussion around FAIR practices, helping participants to familiarize themselves with essential terminology and tools used across the bioimaging community.
+The puzzle can be used as a gentle introduction to FAIR bioimage data concepts. You can tackle the puzzle independently to discover FAIR bioimaging terms at your own pace or, when you're already well-versed in those topics, use it for casual enjoyment during&nbsp; for example commutes, breaks, or group get-togethers.
+This crossword can also be used in a course-setting where educators might pair each term with a quick explanation, encourage participants to independently research the underlying resources and standards and spark deeper discussions once the puzzle is solved. You have the option between the plain crossword and a version including a solution phrase, especially suited as a playful assessment at the end of a course.&nbsp;
+And if you need a digital version, you can also solve the puzzle on crosswordlabs:&nbsp;https://crosswordlabs.com/embed/fair-bioimage-data
+
+[https://zenodo.org/records/17798356](https://zenodo.org/records/17798356)
+
+[https://doi.org/10.5281/zenodo.17798356](https://doi.org/10.5281/zenodo.17798356)
+
+
+---
+
 ## Euro-BioImaging - EVOLVE Deliverable 6.2 - Landscape analysis of existing training resources for the Nodes
 
 Euro-BioImaging ERIC
@@ -222,7 +244,7 @@ This White Paper focuses on strengthening RI collaboration between European and 
 
 Isabel Kemmer, Feriel Romdhane, Euro-BioImaging ERIC
 
-Published 2025-05-15
+Published 2026-01-28
 
 Licensed CC-BY-4.0
 
@@ -230,14 +252,12 @@ Licensed CC-BY-4.0
 
 Depositing data in quality data repositories is one crucial step towards FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
 To guide you in the selection of appropriate repositories, we have created an overview of available repositories for different types of image data, including their scope and requirements. This decision tree guides you through questions about your data and directs you to the correct repository, and/or provides instructions for further processing to meet the critera of the repositories.&nbsp;
-Three seperate trees are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data. These versions with three trees can be used for web-view. Update: also the editable versions in powerpoint format (.pptx) are now provided. Please be aware that opening the versions with another program might lead to shifted formatting.
-Update: we now also provide ready-to-print versions designed to be printed on A3 format. One page shows the open bioimaging data tree and one page combines the preclinical and human imaging data trees. Also the editable versions of these are provided.
+Three seperate trees (on two A3 pages) are provided for different classes of imaging data: open bioimage data, preclinical data, and human imaging data. Additional to the .pdf format, also the editable version in powerpoint format (.pptx) is now provided. Please be aware that opening the versions with another program might lead to shifted formatting.
+&nbsp;
 
-Tags: Include In Dalia
+[https://zenodo.org/records/18378649](https://zenodo.org/records/18378649)
 
-[https://zenodo.org/records/15425770](https://zenodo.org/records/15425770)
-
-[https://doi.org/10.5281/zenodo.15425770](https://doi.org/10.5281/zenodo.15425770)
+[https://doi.org/10.5281/zenodo.18378649](https://doi.org/10.5281/zenodo.18378649)
 
 
 ---

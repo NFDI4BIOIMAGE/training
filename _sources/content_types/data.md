@@ -1,4 +1,4 @@
-# Data (94)
+# Data (95)
 ## 2018 Data Science Bowl
 
 Booz Allen Hamilton
@@ -143,6 +143,27 @@ Content type: Data
 [https://zenodo.org/records/5942575](https://zenodo.org/records/5942575)
 
 [https://doi.org/10.5281/zenodo.5942575](https://doi.org/10.5281/zenodo.5942575)
+
+
+---
+
+## A dataset for generalized nuclear segmentation for computational pathology
+
+Neeraj Kumar, Ruchika Verma, Sanuj Sharma, Surabhi Bhargava, Abhishek Vahadane, Amit Sethi
+
+Published 2017-03-06
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.
+
+Tags: Ai-Ready, Exclude From Dalia
+
+Content type: Data
+
+[https://huggingface.co/datasets/RationAI/MoNuSeg](https://huggingface.co/datasets/RationAI/MoNuSeg)
 
 
 ---

@@ -1,4 +1,4 @@
-# Carsten fortmann-grote (8)
+# Carsten fortmann-grote (9)
 ## Howto organize your image data in OMERO
 
 Thomas Zobel, Carsten Fortmann-Grote
@@ -117,6 +117,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/11031747](https://zenodo.org/records/11031747)
 
 [https://doi.org/10.5281/zenodo.11031747](https://doi.org/10.5281/zenodo.11031747)
+
+
+---
+
+## SWAT4HCLS Tutorial: KG Construction with ONTOP
+
+Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
+
+Published 2026-03-23
+
+Licensed CC-BY-4.0
+
+
+
+Source files and pdf of the tutorial held at SWAT4HCLS 2026
+
+[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
+
+[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
 
 
 ---

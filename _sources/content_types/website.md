@@ -1,4 +1,4 @@
-# Website (12)
+# Website (14)
 ## Choose an open source license
 
 GitHub
@@ -126,6 +126,27 @@ Content type: Website
 
 ---
 
+## Open Data Sharing Course Materials provided by the European Union
+
+Publications Office of the European Union
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://data.europa.eu/en/academy](https://data.europa.eu/en/academy)
+
+
+---
+
 ## RDM Starter Kit
 
 GO FAIR
@@ -179,6 +200,27 @@ Tags: FAIR-Principles, Research Data Management, Exclude From Dalia
 Content type: Website
 
 [https://www.fabiocrameri.ch/colourmaps/](https://www.fabiocrameri.ch/colourmaps/)
+
+
+---
+
+## Skills4EOSC Training Courses on Open Data Sharing
+
+EOSC
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://www.skills4eosc.eu/participate/skills4eosc-training-courses](https://www.skills4eosc.eu/participate/skills4eosc-training-courses)
 
 
 ---

@@ -1,4 +1,4 @@
-# Blog post (28)
+# Blog post (30)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -10,6 +10,27 @@ Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
+
+
+---
+
+## Autopilot, Copilot, and Software Developers
+
+Rahul Pandita
+
+Published 2025-10-12
+
+Licensed UNKNOWN
+
+
+
+Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.
+
+Tags: Artificial Intelligence, Include In Dalia
+
+Content type: Blog Post
+
+[https://rahulpandita.me/blog/2025-10-12-Copilot](https://rahulpandita.me/blog/2025-10-12-Copilot)
 
 
 ---
@@ -217,6 +238,27 @@ Tags: Data Visualization, Include In Dalia
 Content type: Blog Post
 
 [https://observablehq.com/blog/effective-animation](https://observablehq.com/blog/effective-animation)
+
+
+---
+
+## From Click to Code: Reproducibility in Bio-image Analysis
+
+Mara Lampert
+
+Published 2025-08-05
+
+Licensed CC-BY-4.0
+
+
+
+This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/](https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/)
 
 
 ---

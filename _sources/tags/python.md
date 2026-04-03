@@ -1,4 +1,4 @@
-# Python (71)
+# Python (72)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1169,6 +1169,27 @@ Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 Content type: Collection, Notebook
 
 [https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop](https://github.com/zeissmicroscopy/ZEN_Python_OAD_workshop)
+
+
+---
+
+## embo-lsm-bia-2025
+
+Robert Haase
+
+Published 2025-08-03
+
+Licensed CC-BY-4.0
+
+
+
+BioImage Analysis using Python tutorial at EMBO LSM 2025
+
+Tags: Bioimage Analysis, Python, Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/ScaDS/embo-lsm-bia-2025](https://github.com/ScaDS/embo-lsm-bia-2025)
 
 
 ---

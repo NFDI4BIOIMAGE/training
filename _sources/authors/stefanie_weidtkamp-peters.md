@@ -1,4 +1,4 @@
-# Stefanie weidtkamp-peters (16)
+# Stefanie weidtkamp-peters (19)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -328,6 +328,25 @@ Tags: Exclude From Dalia
 
 ---
 
+## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
+
+Soltwedel, Johannes Richard, Tom Boissonnet, Stefanie Weidtkamp-Peters
+
+Published 2026-03-17
+
+Licensed CC-BY-4.0
+
+
+
+The German BioImaging research software engineering (RSE) unit is active in a wide collection of projects. Here we sketch out how we envision these to function together towards a better research data management environment for our community of researchers, microscopists and bio-image analysts.
+
+[https://zenodo.org/records/19063027](https://zenodo.org/records/19063027)
+
+[https://doi.org/10.5281/zenodo.19063027](https://doi.org/10.5281/zenodo.19063027)
+
+
+---
+
 ## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Carsten Fortmann-Grote, Julia Dohle, Peter Zentis, Niraj Kandpal, Susanne Kunis, Thomas Zobel, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -366,6 +385,26 @@ Tags: Research Data Management, Metadata, Exclude From Dalia
 Content type: Publication
 
 [https://www.nature.com/articles/s41592-021-01288-z](https://www.nature.com/articles/s41592-021-01288-z)
+
+
+---
+
+## Memorandum of Understanding between the NFDI consortia DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+
+Barbara Ebert, Frank Ewert, Förstner, Konrad U., Glöckner, Frank Oliver, McHardy, Alice Carolyn, von Rummel, Philipp, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Mary-Ann Ebeling, Judith Engel, Carsten Hoffmann, Christin Keller, Matthias Lange, Maja Magel, Josh Moore, Timo Mühlhaus, Uwe Scholz, Xenia Specka, thor Straten, Mattis
+
+Published 2026-02-19
+
+Licensed CC-BY-4.0
+
+
+
+The NFDI - German National Research Data Infrastructure - consortia DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE agree on a close cooperation to align their activities and offerings regarding the management of biological data. The Memorandum of Understanding details the foci of the consortia and their areas of cooperation, and forms the foundation of the activities within the Biodata Interest Group.
+The present document is an extended version of the MoU developed by DataPlant, NFDI4Biodiversity and NFDI4Microbiota in 2024 (see F&ouml;rstner, K., Ebert, B., Gl&ouml;ckner, F.-O., von Suchodoletz, D., McHardy, A. C., &amp; M&uuml;hlhaus, T. (2024). Memorandum of Understanding between NFDI4Biodiversity, NFDI4Microbiota and DataPlant. Zenodo. https://doi.org/10.5281/zenodo.13880944).
+
+[https://zenodo.org/records/18694155](https://zenodo.org/records/18694155)
+
+[https://doi.org/10.5281/zenodo.18694155](https://doi.org/10.5281/zenodo.18694155)
 
 
 ---
@@ -430,6 +469,26 @@ Content type: Slides
 [https://doi.org/10.5281/zenodo.8070038](https://doi.org/10.5281/zenodo.8070038)
 
 [https://zenodo.org/records/8070038](https://zenodo.org/records/8070038)
+
+
+---
+
+## Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+
+Susanne Kunis, Janina Hanne, Cornelia Wetzker, Stefanie Weidtkamp-Peters, Josh Moore
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+The scheme represents figure 1 of the interim report of the consortium NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related metrics accomplished in the past three years linked to the corresponding central objectives listed in the application of the consortium. Key visions and concepts are further emphasized using illustrations and cropped elements thereof of Henning Falk, including 'Monolithic vs. chunked', 'Bea computes' and 'FAIR re-use'&nbsp;&copy;2022 NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page 'It's time to publish - where can bioimage data go? by Henning Falk' used under a CC BY 4.0 license. Modifications to the drawings include cropping.
+NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/18984621](https://zenodo.org/records/18984621)
+
+[https://doi.org/10.5281/zenodo.18984621](https://doi.org/10.5281/zenodo.18984621)
 
 
 ---

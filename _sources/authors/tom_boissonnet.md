@@ -1,4 +1,4 @@
-# Tom boissonnet (19)
+# Tom boissonnet (20)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -57,6 +57,25 @@ Content type: Slides
 [https://zenodo.org/records/11548617](https://zenodo.org/records/11548617)
 
 [https://doi.org/10.5281/zenodo.11548617](https://doi.org/10.5281/zenodo.11548617)
+
+
+---
+
+## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
+
+Soltwedel, Johannes Richard, Tom Boissonnet, Stefanie Weidtkamp-Peters
+
+Published 2026-03-17
+
+Licensed CC-BY-4.0
+
+
+
+The German BioImaging research software engineering (RSE) unit is active in a wide collection of projects. Here we sketch out how we envision these to function together towards a better research data management environment for our community of researchers, microscopists and bio-image analysts.
+
+[https://zenodo.org/records/19063027](https://zenodo.org/records/19063027)
+
+[https://doi.org/10.5281/zenodo.19063027](https://doi.org/10.5281/zenodo.19063027)
 
 
 ---
@@ -522,7 +541,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

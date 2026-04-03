@@ -1,4 +1,4 @@
-# Josh moore (43)
+# Josh moore (46)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -136,6 +136,26 @@ Content type: Publication
 
 ---
 
+## Memorandum of Understanding between the NFDI consortia DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+
+Barbara Ebert, Frank Ewert, Förstner, Konrad U., Glöckner, Frank Oliver, McHardy, Alice Carolyn, von Rummel, Philipp, von Suchodoletz, Dirk, Stefanie Weidtkamp-Peters, Mary-Ann Ebeling, Judith Engel, Carsten Hoffmann, Christin Keller, Matthias Lange, Maja Magel, Josh Moore, Timo Mühlhaus, Uwe Scholz, Xenia Specka, thor Straten, Mattis
+
+Published 2026-02-19
+
+Licensed CC-BY-4.0
+
+
+
+The NFDI - German National Research Data Infrastructure - consortia DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE agree on a close cooperation to align their activities and offerings regarding the management of biological data. The Memorandum of Understanding details the foci of the consortia and their areas of cooperation, and forms the foundation of the activities within the Biodata Interest Group.
+The present document is an extended version of the MoU developed by DataPlant, NFDI4Biodiversity and NFDI4Microbiota in 2024 (see F&ouml;rstner, K., Ebert, B., Gl&ouml;ckner, F.-O., von Suchodoletz, D., McHardy, A. C., &amp; M&uuml;hlhaus, T. (2024). Memorandum of Understanding between NFDI4Biodiversity, NFDI4Microbiota and DataPlant. Zenodo. https://doi.org/10.5281/zenodo.13880944).
+
+[https://zenodo.org/records/18694155](https://zenodo.org/records/18694155)
+
+[https://doi.org/10.5281/zenodo.18694155](https://doi.org/10.5281/zenodo.18694155)
+
+
+---
+
 ## Metadata in Bioimaging
 
 Josh Moore, Susanne Kunis
@@ -197,7 +217,7 @@ Content type: Video
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -292,6 +312,26 @@ Tags: Nfdi4Bioimage, Exclude From Dalia
 
 ---
 
+## Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+
+Susanne Kunis, Janina Hanne, Cornelia Wetzker, Stefanie Weidtkamp-Peters, Josh Moore
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+The scheme represents figure 1 of the interim report of the consortium NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related metrics accomplished in the past three years linked to the corresponding central objectives listed in the application of the consortium. Key visions and concepts are further emphasized using illustrations and cropped elements thereof of Henning Falk, including 'Monolithic vs. chunked', 'Bea computes' and 'FAIR re-use'&nbsp;&copy;2022 NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page 'It's time to publish - where can bioimage data go? by Henning Falk' used under a CC BY 4.0 license. Modifications to the drawings include cropping.
+NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/18984621](https://zenodo.org/records/18984621)
+
+[https://doi.org/10.5281/zenodo.18984621](https://doi.org/10.5281/zenodo.18984621)
+
+
+---
+
 ## RDF as a bridge to domain-platforms like OMERO, or There and back again.
 
 Josh Moore, Andra Waagmeester, Kristina Hettne, Katherine Wolstencroft, Susanne Kunis
@@ -365,6 +405,25 @@ https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-works
 [https://zenodo.org/records/17579804](https://zenodo.org/records/17579804)
 
 [https://doi.org/10.5281/zenodo.17579804](https://doi.org/10.5281/zenodo.17579804)
+
+
+---
+
+## SWAT4HCLS Tutorial: KG Construction with ONTOP
+
+Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
+
+Published 2026-03-23
+
+Licensed CC-BY-4.0
+
+
+
+Source files and pdf of the tutorial held at SWAT4HCLS 2026
+
+[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
+
+[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
 
 
 ---
@@ -839,7 +898,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

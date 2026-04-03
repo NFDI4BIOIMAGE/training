@@ -1,4 +1,4 @@
-# Cornelia wetzker (11)
+# Cornelia wetzker (15)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -114,6 +114,23 @@ Tags: Nfdi4Bioimage, Include In Dalia
 
 ---
 
+## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
+
+[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
+
+
+---
+
 ## New Kid on the (NFDI) Block: NFDI4BIOIMAGE  - A National Initiative for FAIR Data Management in Bioimaging and Bioimage Analysis
 
 Cornelia Wetzker
@@ -132,6 +149,26 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14006558](https://zenodo.org/records/14006558)
 
 [https://doi.org/10.5281/zenodo.14006558](https://doi.org/10.5281/zenodo.14006558)
+
+
+---
+
+## Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+
+Susanne Kunis, Janina Hanne, Cornelia Wetzker, Stefanie Weidtkamp-Peters, Josh Moore
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+The scheme represents figure 1 of the interim report of the consortium NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related metrics accomplished in the past three years linked to the corresponding central objectives listed in the application of the consortium. Key visions and concepts are further emphasized using illustrations and cropped elements thereof of Henning Falk, including 'Monolithic vs. chunked', 'Bea computes' and 'FAIR re-use'&nbsp;&copy;2022 NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page 'It's time to publish - where can bioimage data go? by Henning Falk' used under a CC BY 4.0 license. Modifications to the drawings include cropping.
+NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number NFDI 46/1, project number 501864659.
+
+[https://zenodo.org/records/18984621](https://zenodo.org/records/18984621)
+
+[https://doi.org/10.5281/zenodo.18984621](https://doi.org/10.5281/zenodo.18984621)
 
 
 ---
@@ -199,6 +236,31 @@ Tags: Exclude From Dalia
 
 ---
 
+## [2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community Support in Bioimage Research Data Management
+
+Cornelia Wetzker, Müller, Maximilian E., Fuchs, Vanessa Aphaia Fiona
+
+Published 2026-03-19
+
+Licensed CC-BY-4.0
+
+
+
+The poster presents the consortium NFDI4BIOIMAGE with its objectives, key achievements until February 2026 and the support offered by its data stewardship team and help desk service. We recommend strategies to make bioimage data FAIRer along the individual stages of the research data life cycle.&nbsp;&nbsp;
+Version 2 additionally comprises the poster in svg format for more flexible reuse.
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+
+
+[https://zenodo.org/records/19107804](https://zenodo.org/records/19107804)
+
+[https://doi.org/10.5281/zenodo.19107804](https://doi.org/10.5281/zenodo.19107804)
+
+
+---
+
 ## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
 
 Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
@@ -214,6 +276,30 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 [https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
+
+
+---
+
+## [SaxFDM-Beratungsstammtisch] Between CONSORTIUM and CAMPUS: The role(s) of discipline-specific data stewards – an example
+
+Cornelia Wetzker
+
+Published 2026-02-16
+
+Licensed CC-BY-4.0
+
+
+
+The presentation was given at the online format of the SaxFDM Beratungsstammtisch on February 6, 2026, a networking event amongst data stewards in Saxony organized by Pia Voigt and Stephan Janosch.
+
+
+
+The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
+
+
+[https://zenodo.org/records/18659976](https://zenodo.org/records/18659976)
+
+[https://doi.org/10.5281/zenodo.18659976](https://doi.org/10.5281/zenodo.18659976)
 
 
 ---

@@ -1,4 +1,4 @@
-# Include in dalia (338)
+# Include in dalia (344)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -416,6 +416,27 @@ Tags: Artificial Intelligence, Include In Dalia
 Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
+
+
+---
+
+## Autopilot, Copilot, and Software Developers
+
+Rahul Pandita
+
+Published 2025-10-12
+
+Licensed UNKNOWN
+
+
+
+Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.
+
+Tags: Artificial Intelligence, Include In Dalia
+
+Content type: Blog Post
+
+[https://rahulpandita.me/blog/2025-10-12-Copilot](https://rahulpandita.me/blog/2025-10-12-Copilot)
 
 
 ---
@@ -2418,6 +2439,27 @@ Tags: Include In Dalia
 
 ---
 
+## From Click to Code: Reproducibility in Bio-image Analysis
+
+Mara Lampert
+
+Published 2025-08-05
+
+Licensed CC-BY-4.0
+
+
+
+This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/](https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/)
+
+
+---
+
 ## From Paper to Pixels: Navigation through your Research Data - presentations of speakers
 
 Marcelo Zoccoler, Simon Bekemeier, Tom Boissonnet, Simon Parker, Luca Bertinetti, Marc Gentzel, Riccardo Massei, Cornelia Wetzker
@@ -3436,6 +3478,27 @@ Tags: Include In Dalia
 
 ---
 
+## LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources
+
+Rodrigo Escobar Díaz Guerrero, Jamile Mohammad Jafari, Tobias Meyer-Zedler, Michael Schmitt, Juergen Popp, Thomas Bocklitz
+
+Published 2025-08-01
+
+Licensed CC-BY-4.0
+
+
+
+In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.
+
+Tags: Research Data Management, OMERO, Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://arxiv.org/abs/2508.00654](https://arxiv.org/abs/2508.00654)
+
+
+---
+
 ## Large Language Models: An Introduction for Life Scientists
 
 Robert Haase
@@ -4394,6 +4457,27 @@ Content type: Github Repository
 
 ---
 
+## Open Data Sharing Course Materials provided by the European Union
+
+Publications Office of the European Union
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://data.europa.eu/en/academy](https://data.europa.eu/en/academy)
+
+
+---
+
 ## Open Image Data Handbook
 
 Kevin Yamauchi
@@ -5268,6 +5352,27 @@ Tags: Bioimage Analysis, Simpleitk, Include In Dalia
 Content type: Github Repository
 
 [https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks](https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
+
+
+---
+
+## Skills4EOSC Training Courses on Open Data Sharing
+
+EOSC
+
+Published 2024-01-17
+
+Licensed CC-BY-4.0
+
+
+
+All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.
+
+Tags: Research Data Management, Open Data, Include In Dalia
+
+Content type: Website
+
+[https://www.skills4eosc.eu/participate/skills4eosc-training-courses](https://www.skills4eosc.eu/participate/skills4eosc-training-courses)
 
 
 ---
@@ -6521,6 +6626,27 @@ Tags: Data Visualization, Include In Dalia
 Content type: Github Repository
 
 [https://github.com/klauck/data_visualization_tutorial](https://github.com/klauck/data_visualization_tutorial)
+
+
+---
+
+## embo-lsm-bia-2025
+
+Robert Haase
+
+Published 2025-08-03
+
+Licensed CC-BY-4.0
+
+
+
+BioImage Analysis using Python tutorial at EMBO LSM 2025
+
+Tags: Bioimage Analysis, Python, Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/ScaDS/embo-lsm-bia-2025](https://github.com/ScaDS/embo-lsm-bia-2025)
 
 
 ---

@@ -1,4 +1,4 @@
-# Mohsen ahmadi (5)
+# Mohsen ahmadi (6)
 ## Bioimaging workflow based on OMERO, eLabFTW, and Adamant for integrating images with multimodal metadata
 
 Mohsen Ahmadi, Robert Wagner, Sander Bekeschus, Becker, Markus M.
@@ -58,6 +58,23 @@ Tags: Nfdi4Bioimage, Bioimage Analysis, Exclude From Dalia
 [https://zenodo.org/records/17092348](https://zenodo.org/records/17092348)
 
 [https://doi.org/10.5281/zenodo.17092348](https://doi.org/10.5281/zenodo.17092348)
+
+
+---
+
+## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
+
+[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
 
 
 ---

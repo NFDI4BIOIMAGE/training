@@ -1,4 +1,4 @@
-# Omero (42)
+# Omero (43)
 ## Accessible Interactive Spatial-Omics Data Visualizations with Vitessce and OMERO
 
 Bortolomeazzi Michele
@@ -286,6 +286,27 @@ Tags: OMERO, Research Data Management, Electronic Lab Notebooks, Exclude From Da
 Content type: Github Repository
 
 [https://github.com/NFDI4BIOIMAGE/LEO](https://github.com/NFDI4BIOIMAGE/LEO)
+
+
+---
+
+## LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources
+
+Rodrigo Escobar Díaz Guerrero, Jamile Mohammad Jafari, Tobias Meyer-Zedler, Michael Schmitt, Juergen Popp, Thomas Bocklitz
+
+Published 2025-08-01
+
+Licensed CC-BY-4.0
+
+
+
+In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.
+
+Tags: Research Data Management, OMERO, Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://arxiv.org/abs/2508.00654](https://arxiv.org/abs/2508.00654)
 
 
 ---
@@ -583,7 +604,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -604,7 +625,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 

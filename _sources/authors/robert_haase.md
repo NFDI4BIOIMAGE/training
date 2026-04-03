@@ -1,4 +1,4 @@
-# Robert haase (70)
+# Robert haase (74)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -29,6 +29,70 @@ Tags: Imagej, Exclude From Dalia
 Content type: Publication, Poster
 
 [https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525](https://figshare.com/articles/poster/I2K_Poster_Haase_V6_ImageJ_repro_pdf/7409525)
+
+
+---
+
+## AI4Science Training @ UFZ Magdeburg
+
+Höck, Lina Lisa, Robert Haase
+
+Published 2026-03-27
+
+Licensed CC-BY-4.0
+
+
+
+This slide deck accompanies the AI4Science for scientists at UFZ Magdeburg: https://scads.github.io/ai4science-ufz-madgeburg-2026/intro.html
+It outlines the topics:
+
+
+Introduction to Artificial Intelligence, AI systems, and language models
+
+
+Application areas and limitations of AI in text generation
+
+
+AI-assisted literature research
+
+
+Prompt engineering
+
+
+Prompting with large context
+
+
+Knowledge distillation
+
+
+Text Analysis / Information Retrieval
+
+
+Embeddings and retrieval-augmented generation
+
+
+Data analysis
+
+
+Data and code generation
+
+
+Bias
+
+
+Privacy-compliant use
+
+
+Copyright
+
+
+EU AI Act
+
+
+
+[https://zenodo.org/records/19246441](https://zenodo.org/records/19246441)
+
+[https://doi.org/10.5281/zenodo.19246441](https://doi.org/10.5281/zenodo.19246441)
 
 
 ---
@@ -768,6 +832,25 @@ Content type: Slides, Presentation
 
 ---
 
+## How Generative Artificial Intelligence impacts Bio-Image Data Science
+
+Robert Haase
+
+Published 2026-02-22
+
+Licensed CC-BY-4.0
+
+
+
+In&nbsp; this slide deck we dive into generative artificial intelligence in particular used for code generation and see how it impacts Bio-Image Data Science. We learn about benchmarking large language models for data analysis code generation, and how to use them practically in our work.
+
+[https://zenodo.org/records/18735653](https://zenodo.org/records/18735653)
+
+[https://doi.org/10.5281/zenodo.18735653](https://doi.org/10.5281/zenodo.18735653)
+
+
+---
+
 ## How LLMs impact BioImage Data Science
 
 Robert Haase
@@ -1398,6 +1481,25 @@ Content type: Slides
 
 ---
 
+## Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)
+
+Claudia Engelhardt, Robert Haase, Carolin Hundt, Florence Langermann, Pia Voigt
+
+Published 2025-12-18
+
+Licensed CC-BY-4.0
+
+
+
+Im Rahmen einer Kooperation zwischen der s&auml;chsischen FDM-Landesinitiative SaxFDM, dem Datenkompetenzzentrum Come2Data sowie dem Data Science Center ScaDS.AI in Leipzig und NFDI4Bioimage wurde der Train-the-Trainer Workshop f&uuml;r das Forschungsdatenmanagement durchgef&uuml;hrt. Die hier ver&ouml;ffentlichten Folien basieren auf dem Train-the-Trainer Konzept (v05) erarbeitet durch Mitglieder der&nbsp;UAG Schulungen/Fortbildungen der DINI/nestor-AG Forschungsdaten. Die behandelten Themen umfassen sowohl die Aspekte des Forschungsdatenmanagements als auch didaktischen Einheiten zu Lernkonzepten, Workshopgestaltung und Methoden.
+
+[https://zenodo.org/records/17978132](https://zenodo.org/records/17978132)
+
+[https://doi.org/10.5281/zenodo.17978132](https://doi.org/10.5281/zenodo.17978132)
+
+
+---
+
 ## Training Computational Skills in the Age of AI
 
 Robert Haase
@@ -1507,6 +1609,27 @@ Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 Content type: Github Repository, Slides
 
 [https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
+
+
+---
+
+## embo-lsm-bia-2025
+
+Robert Haase
+
+Published 2025-08-03
+
+Licensed CC-BY-4.0
+
+
+
+BioImage Analysis using Python tutorial at EMBO LSM 2025
+
+Tags: Bioimage Analysis, Python, Include In Dalia
+
+Content type: Github Repository
+
+[https://github.com/ScaDS/embo-lsm-bia-2025](https://github.com/ScaDS/embo-lsm-bia-2025)
 
 
 ---

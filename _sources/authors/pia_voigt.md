@@ -1,4 +1,4 @@
-# Pia voigt (6)
+# Pia voigt (7)
 ## Crashkurs Forschungsdatenmanagement
 
 Barbara Weiner, Stephan Wünsche, Stefan Kühne, Pia Voigt, Sebastian Frericks, Clemens Hoffmann, Romy Elze, Ronny Gey
@@ -150,6 +150,25 @@ Content type: Slides
 [https://zenodo.org/records/11396199](https://zenodo.org/records/11396199)
 
 [https://doi.org/10.5281/zenodo.11396199](https://doi.org/10.5281/zenodo.11396199)
+
+
+---
+
+## Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)
+
+Claudia Engelhardt, Robert Haase, Carolin Hundt, Florence Langermann, Pia Voigt
+
+Published 2025-12-18
+
+Licensed CC-BY-4.0
+
+
+
+Im Rahmen einer Kooperation zwischen der s&auml;chsischen FDM-Landesinitiative SaxFDM, dem Datenkompetenzzentrum Come2Data sowie dem Data Science Center ScaDS.AI in Leipzig und NFDI4Bioimage wurde der Train-the-Trainer Workshop f&uuml;r das Forschungsdatenmanagement durchgef&uuml;hrt. Die hier ver&ouml;ffentlichten Folien basieren auf dem Train-the-Trainer Konzept (v05) erarbeitet durch Mitglieder der&nbsp;UAG Schulungen/Fortbildungen der DINI/nestor-AG Forschungsdaten. Die behandelten Themen umfassen sowohl die Aspekte des Forschungsdatenmanagements als auch didaktischen Einheiten zu Lernkonzepten, Workshopgestaltung und Methoden.
+
+[https://zenodo.org/records/17978132](https://zenodo.org/records/17978132)
+
+[https://doi.org/10.5281/zenodo.17978132](https://doi.org/10.5281/zenodo.17978132)
 
 
 ---

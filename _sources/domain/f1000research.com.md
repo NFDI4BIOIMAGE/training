@@ -1,4 +1,4 @@
-# F1000research.com (11)
+# F1000research.com (12)
 ## Challenges and opportunities for bio-image analysis core-facilities
 
 Robert Haase
@@ -202,6 +202,17 @@ Tags: Sharing, Research Data Management, Include In Dalia
 Content type: Slides
 
 [https://f1000research.com/slides/10-519](https://f1000research.com/slides/10-519)
+
+
+---
+
+## Ten recommendations for organising bioimaging data for archival
+
+
+
+Content type: Publication
+
+[https://f1000research.com/articles/12-1391/v2](https://f1000research.com/articles/12-1391/v2)
 
 
 ---

@@ -1,4 +1,4 @@
-# Jens wendt (10)
+# Jens wendt (13)
 ## Excel template for adding Key-Value Pairs to images
 
 Thomas Zobel, Jens Wendt
@@ -59,6 +59,23 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15065070](https://zenodo.org/records/15065070)
 
 [https://doi.org/10.5281/zenodo.15065070](https://doi.org/10.5281/zenodo.15065070)
+
+
+---
+
+## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
+
+Published 2026-03-12
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
+
+[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
 
 
 ---
@@ -145,6 +162,25 @@ Content type: Publication
 
 ---
 
+## Presentation about an "enriched OMERO" at the RDM4Mic meeting in Münster at 10/2025
+
+Jens Wendt
+
+Published 2026-01-13
+
+Licensed CC-BY-4.0
+
+
+
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/18230666](https://zenodo.org/records/18230666)
+
+[https://doi.org/10.5281/zenodo.18230666](https://doi.org/10.5281/zenodo.18230666)
+
+
+---
+
 ## Structuring of Data and Metadata in Bioimaging: Concepts and technical Solutions in the Context of Linked Data
 
 Sarah Weischer, Jens Wendt, Thomas Zobel
@@ -217,6 +253,72 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
+
+
+---
+
+## Workshop Research Data Management for Microscopy at University Münster
+
+Vanessa Fuchs, Thomas Zobel, Marie Baldenius, Jens Wendt
+
+Published 2025-12-18
+
+Licensed CC-BY-4.0
+
+
+
+The presentations for the workshop "Research Data Management" at University M&uuml;nster on 25.11.2025.
+funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+Program:
+
+
+
+09:00 - 09:30
+Introduction
+
+
+09.30 - 10:30
+RDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files and folders
+
+
+10:30 - 11:00
+Coffee break ☕
+
+
+11:00 - 12:00
+OMERO basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces
+
+
+12:00 - 13:00
+Lunch break 🍕
+
+
+13:00 - 13:30
+OMERO repetition and hands-on
+
+
+13:30 - 14:20
+REMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata in OMERO
+
+
+14:20 - 14:35
+Coffee break ☕
+
+
+14:35 - 15:15
+OMERO.Figure&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories
+
+
+15:15 - 17:00&nbsp;
+Individual questions, play with your own data
+
+
+
+&nbsp;
+
+[https://zenodo.org/records/17974214](https://zenodo.org/records/17974214)
+
+[https://doi.org/10.5281/zenodo.17974214](https://doi.org/10.5281/zenodo.17974214)
 
 
 ---

@@ -1,4 +1,4 @@
-# Publication (74)
+# Publication (76)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -603,6 +603,27 @@ Content type: Publication, Documentation
 
 ---
 
+## LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources
+
+Rodrigo Escobar Díaz Guerrero, Jamile Mohammad Jafari, Tobias Meyer-Zedler, Michael Schmitt, Juergen Popp, Thomas Bocklitz
+
+Published 2025-08-01
+
+Licensed CC-BY-4.0
+
+
+
+In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.
+
+Tags: Research Data Management, OMERO, Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://arxiv.org/abs/2508.00654](https://arxiv.org/abs/2508.00654)
+
+
+---
+
 ## Leitlinie? Grundsätze? Policy? Richtlinie? – Forschungsdaten-Policies an deutschen Universitäten
 
 Bea Hiemenz, Monika Kuberek
@@ -882,7 +903,7 @@ Content type: Event, Publication, Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -1150,6 +1171,17 @@ Content type: Publication, Preprint
 
 ---
 
+## Ten recommendations for organising bioimaging data for archival
+
+
+
+Content type: Publication
+
+[https://f1000research.com/articles/12-1391/v2](https://f1000research.com/articles/12-1391/v2)
+
+
+---
+
 ## Ten simple rules for making training materials FAIR
 
 Leyla Garcia, Bérénice Batut, Melissa L. Burke, Mateusz Kuzak, Fotis Psomopoulos, et al.
@@ -1259,7 +1291,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

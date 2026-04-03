@@ -1,271 +1,223 @@
-# Recently added (10)
-## Didaktisches Konzept zur Einführung ins Forschungsdatenmanagement (FDM) am Beispiel von Elektronischen Laborbüchern (ELNs) und OMERO für Bio-Bild-Verwaltung für Studierende der Lebenswissenschaften
+# Recently added (9)
+## AI4Science Training @ UFZ Magdeburg
 
-Cornelia Wetzker, Michael Schlierf
+Höck, Lina Lisa, Robert Haase
 
-Published 2025-12-10
+Published 2026-03-27
 
 Licensed CC-BY-4.0
 
 
 
-Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie. Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements, der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
-&nbsp;
-C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.
+This slide deck accompanies the AI4Science for scientists at UFZ Magdeburg: https://scads.github.io/ai4science-ufz-madgeburg-2026/intro.html
+It outlines the topics:
 
-[https://zenodo.org/records/17876813](https://zenodo.org/records/17876813)
 
-[https://doi.org/10.5281/zenodo.17876813](https://doi.org/10.5281/zenodo.17876813)
+Introduction to Artificial Intelligence, AI systems, and language models
+
+
+Application areas and limitations of AI in text generation
+
+
+AI-assisted literature research
+
+
+Prompt engineering
+
+
+Prompting with large context
+
+
+Knowledge distillation
+
+
+Text Analysis / Information Retrieval
+
+
+Embeddings and retrieval-augmented generation
+
+
+Data analysis
+
+
+Data and code generation
+
+
+Bias
+
+
+Privacy-compliant use
+
+
+Copyright
+
+
+EU AI Act
+
+
+
+[https://zenodo.org/records/19246441](https://zenodo.org/records/19246441)
+
+[https://doi.org/10.5281/zenodo.19246441](https://doi.org/10.5281/zenodo.19246441)
 
 
 ---
 
-## Introduction to OME-ZARR, S3 and transformations
+## Easy creation of your Bioimage Data Management Plan
+
+Müller, Maximilian E.
+
+Published 2026-03-11
+
+Licensed CC-BY-4.0
+
+
+
+This short presentation provides a concise introduction to Data Management Plans (DMPs) in the context of and bioimaging. It explains what DMPs are, why they are important for research projects, and how they contribute to transparent, reproducible, and FAIR research practices.
+The slides outline commonly used templates and tools that support researchers in creating and maintaining DMPs. In addition, the presentation highlights important considerations for bioimaging data, including file formats, metadata annotation, handling of large data sets and open software tools.
+Designed as a brief educational resource, the presentation can be used for introductory teaching, workshops, or self-learning by researchers and students who are new to research data management and data management planning.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/18957947](https://zenodo.org/records/18957947)
+
+[https://doi.org/10.5281/zenodo.18957947](https://doi.org/10.5281/zenodo.18957947)
+
+
+---
+
+## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
 
 Soltwedel, Johannes Richard
 
-Published 2025-12-09
+Published 2026-03-16
 
 Licensed CC-BY-4.0
 
 
 
-Introductory slides for top-level understanding of ome-zarr, cloud storage (S3) of ome-zarr data and usecases and nature of upcaming RFC5-style transformations.
+The German BioImaging research software engineering (RSE) unit is active in a wide collection of projects. Here we sketch out how we envision these to function together towards a better research data management environment for our community of researchers, microscopists and bio-image analysts.
 
-[https://zenodo.org/records/17898202](https://zenodo.org/records/17898202)
+[https://zenodo.org/records/19046270](https://zenodo.org/records/19046270)
 
-[https://doi.org/10.5281/zenodo.17898202](https://doi.org/10.5281/zenodo.17898202)
+[https://doi.org/10.5281/zenodo.19046270](https://doi.org/10.5281/zenodo.19046270)
 
 
 ---
 
-## Life Science Competence Centres: Open by Design
+## How Generative Artificial Intelligence impacts Bio-Image Data Science
 
-Romain David, Nektarios Liaskos, Arina Rybina, Christos Arvanitidis, Anne-Sophie Bage, Carvajal-Vallejos, Patricia K., Sudeep Das, De Pascalis, Francesca, Dorothea Dörr, Katrina Exter, Petr Holub, Gurwitz, Kim Tamara, Fabio Liberante, Philippe Lieutaud, Allyson Lister, Joaquin Lopez, Bénédicte Madon, Marzia Massimi, Rafaele Matteoni, Maria Mîrza, Sarah Morgan, Bugra Oezdemir, Maria Panagiotopoulou, Christina Pavloudi, P. Melo, Ana M., Susanna-Assunta Sansone, Harald Schwalbe, Beatriz Serrano-Solano, Sorzano, Carlos Oscar, Emilio Urbinati, Jing Tang, Jonathan Tedds, Gary Saunders, Jonathan Ewbank
+Robert Haase
 
-Published 2025-12
+Published 2026-02-22
 
 Licensed CC-BY-4.0
 
 
 
-Preprint in submission process to Briefings in Bioinformatics
-Abstract:
-European Life Science Research Infrastructures (LS-RIs), one of the five major RI Science Clusters in Europe, were established to provide access to cutting-edge technologies to the scientific community. Individually, and collectively as the LS-RI cluster, they contribute to the development of the European Open Science Cloud (EOSC), under the aegis of the EOSC Federation. They are actively involved in the design and implementation of Competence Centres (CCs). These aim to increase the accessibility of domain-specific knowledge and tools, enhance interoperability, facilitate sharing and harmonisation of procedures, and promote Open Science and FAIR (Findable, Accessible, Interoperable, Reusable) practices. In this paper, we report a landscape mapping of the existing resources that formed the basis for the construction of CCs. We describe the possible design of CCs and their articulation with the LS-RIs. We focus on community-based ideas and recommendations to increase the potential of CCs to address long-standing challenges in sustainability, governance, scalability, and interoperability of Open Science within EOSC and the European Research Area (ERA) more generally.This paper provides a description of the nascent LS CCs, built following a survey of needs and services of existing LS-RI communities. When fully implemented, the LS CCs will serve as dynamic hubs to foster innovation, contribute to the EOSC&rsquo;s future FAIR web of data, and support ongoing developments of the EOSC Federation. They will act as drivers of collaborative and impactful LS research in Europe and beyond. We explore the underlying challenges, and propose solutions, to ensure that the establishment of CCs will add value to the LS RI community, and to the EOSC, in a sustainable way.
+In&nbsp; this slide deck we dive into generative artificial intelligence in particular used for code generation and see how it impacts Bio-Image Data Science. We learn about benchmarking large language models for data analysis code generation, and how to use them practically in our work.
 
-[https://zenodo.org/records/17672046](https://zenodo.org/records/17672046)
+[https://zenodo.org/records/18735653](https://zenodo.org/records/18735653)
 
-[https://doi.org/10.5281/zenodo.17672046](https://doi.org/10.5281/zenodo.17672046)
+[https://doi.org/10.5281/zenodo.18735653](https://doi.org/10.5281/zenodo.18735653)
 
 
 ---
 
-## OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
 
-Jens Wendt, Michele Bortolomeazzi
+Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
 
-Published 2025-12-11
+Published 2026-03-12
 
 Licensed CC-BY-4.0
 
 
 
-OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt 09-10/12/2025.
-Colllection of slides and materials for the OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt.
-funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
-&nbsp;
-Program
-Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
-10.00 a.m.: Introduction and Welcome
-10.15 a.m.: FAIR data management and OMERO introduction
-11.15 a.m.: Data organization in OMERO using Tags
-12.00 a.m.: Lunch Break
-01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
-02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp; -access through the API&nbsp; Macros and python scripts for data analysis and interrogation&nbsp; AI-models at a glance (e.g., segmentation)
-03.30 p.m.: Break
-04.00 p.m.: OMERO.figure
-04.45 p.m.: A glance at data sharing in public repositories
-05.15 p.m.: Time for questions and individual case discussions
-~ 05.30 /05.45 p.m.: End of Day 1
-&nbsp;
-Dec. 10th 2025 - Day 2 (IT staff and project management)
-09:00 a.m. ~ 10:00 a.m.: OMERO practical
-Short break
-- OMERO technical setup:
-~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
-~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
-12.30 a.m.: Lunch Break
-1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to set up OMERO
+[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
 
-[https://zenodo.org/records/17897525](https://zenodo.org/records/17897525)
-
-[https://doi.org/10.5281/zenodo.17897525](https://doi.org/10.5281/zenodo.17897525)
+[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
 
 
 ---
 
-## Sample image data and annotations associated to Presynaptic Actin Nanostructures: A Reproducibility Case Study
+## SWAT4HCLS Tutorial: KG Construction with ONTOP
 
-Rensu Theart, Florian Levet, Hernandez-Herrera, Christophe Leterrier, de la Ballina, Laura R
+Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
 
-Published 2025-12-02
+Published 2026-03-23
 
 Licensed CC-BY-4.0
 
 
 
-Raw, processed and annotated images associated with the manuscript "Presynaptic Actin Nanostructures: A Reproducibility Case Study".
-This work is part of an initiative of the Global BioImage Analysts' Society (GloBIAS) to assess reproducibility of published bioimage analysis workflows.
-We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses contain distinct actin nanostructures. J Cell Biol&nbsp;2 October 2023; 222 (10): e202208110. doi:&nbsp;https://doi.org/10.1083/jcb.202208110.&nbsp;Original images and annotations were kindly provided by their authors.
+Source files and pdf of the tutorial held at SWAT4HCLS 2026
 
-[https://zenodo.org/records/17792816](https://zenodo.org/records/17792816)
+[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
 
-[https://doi.org/10.5281/zenodo.17792816](https://doi.org/10.5281/zenodo.17792816)
+[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
 
 
 ---
 
-## Test files for Nikon NEF distorted image #4389
+## Transforming ome-zarr: What's (going to be) new in 0.6
 
-Dayer, Andrew J
+Soltwedel, Johannes Richard
 
-Published 2025-12-12
+Published 2026-03-31
 
 Licensed CC-BY-4.0
 
 
 
-[https://zenodo.org/records/17914642](https://zenodo.org/records/17914642)
+Summary of new features and use cases of transformation metadata in the upcoming ome-zarr 0.6 metadata standard
 
-[https://doi.org/10.5281/zenodo.17914642](https://doi.org/10.5281/zenodo.17914642)
+[https://zenodo.org/records/19335305](https://zenodo.org/records/19335305)
+
+[https://doi.org/10.5281/zenodo.19335305](https://doi.org/10.5281/zenodo.19335305)
 
 
 ---
 
-## [SaxFDMTagung2025] Share your Bioimage Data with the World
+## [2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community Support in Bioimage Research Data Management
 
-Cornelia Wetzker, Riccardo Massei, Michael Schlierf
+Cornelia Wetzker, Müller, Maximilian E., Fuchs, Vanessa Aphaia Fiona
 
-Published 2025-11-20
+Published 2026-03-19
 
 Licensed CC-BY-4.0
 
 
 
-This poster presents motivations and strategies to share bioimage data in life science research. It presents NFDI4BIOIMAGE as a consortium in research data management in bioimaging and bioimage analysis and its data stewardship team.
-
+The poster presents the consortium NFDI4BIOIMAGE with its objectives, key achievements until February 2026 and the support offered by its data stewardship team and help desk service. We recommend strategies to make bioimage data FAIRer along the individual stages of the research data life cycle.&nbsp;&nbsp;
+Version 2 additionally comprises the poster in svg format for more flexible reuse.
 
 
 The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
 
 
-&nbsp;
 
-[https://zenodo.org/records/17659149](https://zenodo.org/records/17659149)
+[https://zenodo.org/records/19107804](https://zenodo.org/records/19107804)
 
-[https://doi.org/10.5281/zenodo.17659149](https://doi.org/10.5281/zenodo.17659149)
+[https://doi.org/10.5281/zenodo.19107804](https://doi.org/10.5281/zenodo.19107804)
 
 
 ---
 
-## [Workshop] Image Data Management in the Biological Sciences and Agriculture Research
+## ims file that won't open in FIJI
 
-Lucia Vedder, Paul Peschel, Michele Bortolomeazzi, Christian Schmidt, Katrin Schröder
+ian Hertzler
 
-Published 2025-12-02
+Published 2026-03-03
 
 Licensed CC-BY-4.0
 
 
 
-Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp; Veranstaltungsort:
+imaris file that will not open in fiji. for troubleshooting purposes.
 
-Hybrid event at University of Kassel (FB 10)
+[https://zenodo.org/records/18852087](https://zenodo.org/records/18852087)
 
-Veranstalter:
-
-Universit&auml;tsbibliothek
-Forschungsdaten-Service
-NFDI4BIOIMAGE
-FAIRagro
-RTG Multiscale Clocks
-
-Zielgruppen:
-
-Promovierende/Doktorand:innen
-Absolvent:innen
-Wissenschaftliche Mitarbeitende
-Gruppenleitungen
-Postdoktorand:innen/Postdocs
-Mitarbeitende der Universit&auml;t Kassel
-
-
-
-
-Workshop: Image Data Management in the Biological Sciences and Agriculture Research
-Do you work with image data and want to optimize your data management workflows? This workshop provides an overview of the key challenges associated with managing image data and presents available support services. You will learn about useful tools for image data management and how Bioimaging Research Data Management (RDM) can be integrated into your everyday practice.
-This workshop will not only provide knowledge in imaging data management but also create an opportunity to get to know each other, network, and exchange ideas.
-For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
-Content
-Module 1:&nbsp;
-General Introduction to Imaging Research Data Management
-1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
-Module 2:&nbsp;
-NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
-FAIRagro:&nbsp;Observation data: From ground robots to UAVs
-2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
-Module 3:
-NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
-FAIRagro:&nbsp;Satellite and grid data: the view from above
-3.10 pm - 4.00 pm: for researchers at all career levels
-&nbsp;
-It is possible to attend individual modules, and your choices can be made during the registration process.
-
-
-
-
-[https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
-
-[https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
-
-
----
-
-## de.NBI hackathon 2025 - Project 7 introduction and report presentations
-
-Tom Boissonnet, Riccardo Massei
-
-Published 2025-12-08
-
-Licensed CC-BY-4.0
-
-
-
-This record contains the presentations given at the 4th BioHackathon Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the project on "Integrating Data Science Capabilities within the OMERO Data Management Ecosystem" and summarizing its results.
-We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
-
-[https://zenodo.org/records/17856704](https://zenodo.org/records/17856704)
-
-[https://doi.org/10.5281/zenodo.17856704](https://doi.org/10.5281/zenodo.17856704)
-
-
----
-
-## multi-channel-image
-
-Ellen Geibelt
-
-Published 2025-11-26
-
-Licensed CC-BY-4.0
-
-
-
-a multi-channel-image with a BF and 5 fluorescence channels acquired with a 20x objective and Axioscan.Z1 (Zeiss slide scanner)
-
-[https://zenodo.org/records/17725097](https://zenodo.org/records/17725097)
-
-[https://doi.org/10.5281/zenodo.17725097](https://doi.org/10.5281/zenodo.17725097)
+[https://doi.org/10.5281/zenodo.18852087](https://doi.org/10.5281/zenodo.18852087)
 
 
 ---

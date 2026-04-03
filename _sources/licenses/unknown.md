@@ -1,4 +1,4 @@
-# Unknown (111)
+# Unknown (112)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -107,6 +107,27 @@ Tags: Artificial Intelligence, Include In Dalia
 Content type: Video
 
 [https://www.youtube.com/watch?v=Om9tl4Dh2yw](https://www.youtube.com/watch?v=Om9tl4Dh2yw)
+
+
+---
+
+## Autopilot, Copilot, and Software Developers
+
+Rahul Pandita
+
+Published 2025-10-12
+
+Licensed UNKNOWN
+
+
+
+Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.
+
+Tags: Artificial Intelligence, Include In Dalia
+
+Content type: Blog Post
+
+[https://rahulpandita.me/blog/2025-10-12-Copilot](https://rahulpandita.me/blog/2025-10-12-Copilot)
 
 
 ---

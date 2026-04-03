@@ -1,4 +1,4 @@
-# Christian tischer (16)
+# Christian tischer (17)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -14,6 +14,26 @@ Tags: Bioimage Analysis, Include In Dalia
 Content type: Publication
 
 [https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)
+
+
+---
+
+## Accessible sharing of large correlative image datasets
+
+Christian Tischer
+
+Published 2026-01-08
+
+Licensed CC-BY-4.0
+
+
+
+Presented at the 2025 International OME-NGFF symposium and workshop.
+https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html
+
+[https://zenodo.org/records/18184329](https://zenodo.org/records/18184329)
+
+[https://doi.org/10.5281/zenodo.18184329](https://doi.org/10.5281/zenodo.18184329)
 
 
 ---
@@ -205,7 +225,7 @@ Tags: Exclude From Dalia
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
