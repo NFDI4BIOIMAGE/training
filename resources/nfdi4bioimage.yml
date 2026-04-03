@@ -24442,25 +24442,6 @@ resources:
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
 - authors:
-  - Wetzker, Cornelia
-  - Fuchs, Vanessa
-  - Wendt, Jens
-  - Ahmadi, Mohsen
-  - Müller, Maximilian E.
-  - Massei, Riccardo
-  description: The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1,
-    project number 501864659.
-  license: cc-by-4.0
-  name: '[RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support
-    and Training in NFDI4BIOIMAGE'
-  num_downloads: 52
-  publication_date: '2025-10-29'
-  submission_date: '2025-11-11T11:22:47.679388'
-  url:
-  - https://zenodo.org/records/17472821
-  - https://doi.org/10.5281/zenodo.17472821
-  uuid: e43ef56e-258c-4a6a-af97-f0ccb27461c3
-- authors:
   - Beyer, Frauke
   - Unger, Michaela
   - Gey, Ronny
@@ -25165,12 +25146,260 @@ resources:
   url:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
-
-- name: Ten recommendations for organising bioimaging data for archival
+- authors:
+  - Paul K. Korir
+  - Andrii Iudin
+  - Sriram Somasundharam
+  - Simone Weyand
+  - Osman Salih
+  - Matthew Hartley
+  - Ugis Sarkans
+  name: Ten recommendations for organising bioimaging data for archival
   type:
   - publication
   url: https://f1000research.com/articles/12-1391/v2
   abstract: "Organised data is easy to use but the rapid developments in the field of bioimaging, with improvements in instrumentation, detectors, software and experimental techniques, have resulted in an explosion of the volumes of data being generated, making well-organised data an elusive goal. This guide offers a handful of recommendations for bioimage depositors, analysts and microscope and software developers, whose implementation would contribute towards better organised data in preparation for archival. Based on our experience archiving large image datasets in EMPIAR, the BioImage Archive and BioStudies, we propose a number of strategies that we believe would improve the usability (clarity, orderliness, learnability, navigability, self-documentation, coherence and consistency of identifiers, accessibility, succinctness) of future data depositions more useful to the bioimaging community (data authors and analysts, researchers, clinicians, funders, collaborators, industry partners, hardware/software producers, journals, archive developers as well as interested but non-specialist users of bioimaging data). The recommendations that may also find use in other data-intensive disciplines. To facilitate the process of analysing data organisation, we present bandbox, a Python package that provides users with an assessment of their data by flagging potential issues, such as redundant directories or invalid characters in file or folder names, that should be addressed before archival. We offer these recommendations as a starting point and hope to engender more substantial conversations across and between the various data-rich communities."
+
+- authors: 
+  - Cornelia Wetzker
+  - Vanessa Fuchs
+  - Jens Wendt
+  - Mohsen Ahmadi
+  - Maximilian E. Müller
+  - Riccardo Massei
+  description: 'Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.'
+  license: CC-BY-4.0
+  name: 'Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025'
+  publication_date: '2025-10-29'
+  tags:
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Slides
+  url: https://zenodo.org/records/17472821
+  language: en
+- authors: 
+  - Cornelia Wetzker
+  - Vanessa Fuchs
+  - Jens Wendt
+  - Mohsen Ahmadi
+  - Maximilian E. Müller
+  - Riccardo Massei
+  - David Schwartz
+  - Joost Willemse
+  - Bettina Hagen
+  - Thomas Zobel
+  - Susanne Kunis
+  - Peter Zentis
+  - Niraj Kandpal
+  - Tom Boissonnet
+  description: 'Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.'
+  license: UNKNOWN
+  name: 'RDM4mic Meeting 2025 Talks'
+  publication_date: '2026-01-12'
+  tags:
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI
+  language: en
+- authors: 
+  - Elena Nicolay
+  - Mara Lampert
+  - Frauke Beyer
+  - Ronny Gey
+  - Michaela Unger
+  - Dr. Riccardo Massei
+  description: 'The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.'
+  license: UNKNOWN
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  publication_date: '2026-02-06'
+  tags:
+  - Open Data
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=z8MKF4FOjZ4 
+  language: en
+- authors: 
+  - Michael Färber
+  - Simon Razniewski
+  - Robert Haase
+  description: 'This course provides a practical and in-depth understanding of large language models that power modern natural language processing systems. Students will explore the architecture, training methodologies, capabilities, and ethical implications of LLMs. The course combines theoretical knowledge with hands-on experience to equip students with the skills necessary to develop, analyze, and apply LLMs in various contexts.'
+  license: CC-BY-4.0
+  name: 'Behind the Secrets of Large Language Models'
+  publication_date: '2026-02-01'
+  tags:
+  - Large Language Models
+  - Natural Language Processing
+  - include in DALIA
+  type:
+  - Opal Repository 
+  url: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9
+  language: en
+- authors: 
+  - Hugo Mantion
+  - Zhao Zhang
+  - Diego Serra
+  - Lætitia Lebrun
+  - Maxime Tarabichi
+  - Vincent Detours
+  description: 'An atlas of human histological diversity that transposes to histology the concepts and methods of RNA-seq gene expression analysis, setting histology on an unbiased quantitative ground.'
+  license: CC-BY-NC-4.0 
+  name: 'An atlas of human histological diversity'
+  publication_date: '2026-02-02'
+  tags:
+  - Atlas
+  - exclude from DALIA
+  type:
+  - Preprint 
+  url: 
+  - https://histologyatlas.ulb.be/
+  - https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf
+  language: en
+- authors: 
+  - Bruno C. Vellutini
+  description: 'A minimal set of principles for organizing research papers.'
+  license: CC-BY-SA-4.0 
+  name: 'DAFT: minimal principles for reproducible research papers'
+  publication_date: '2026-01-05'
+  tags:
+  - Reproducibility
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://brunovellutini.com/posts/daft-principles/
+  language: en
+- authors: 
+  - Beth Cimini
+  description: 'Bilayers as a framework to containerize and describe algorithms/software in deep learning to make it more user-friendly.'
+  license: CC-BY-4.0 
+  name: 'Bilayers - an easy way to make your favorite deep learning tool more user-friendly'
+  publication_date: '2025-01-27'
+  tags:
+  - Deep Learning
+  - include in DALIA
+  type:
+  - Slides
+  url: 
+  - https://zenodo.org/records/14751700
+- authors: 
+  - Beth Cimini
+  - Peter Bankhead
+  - Rocco D'Antuono
+  - Fazeleh Elnaz
+  - Julia Fernandez-Rodriguez
+  - Caterina Fuster-Barceló
+  - Robert Haase
+  - Helena Jambor
+  - Martin L Jones
+  - Florian Jug
+  - Anna Klemm
+  - Anna Kreshuk
+  - Stefania Marcotti
+  - Gabriel G Martins
+  - Sara McArdle
+  - Arrate Muñoz Barrutia
+  - Laura Murphy
+  - Michael Nelson
+  - Simon Nørrelykke
+  - Perrine Paul-Gilloteaux
+  - Thomas Pengo
+  - Joanna Pylvänäinen
+  - Lior Pytowski
+  - Arianna Ravera
+  - Annika Reinke
+  - Yousr Rekik
+  - Caterina Strambio-De-Castillia
+  - Daniel Thédié
+  - Virginie Uhlmann
+  - Oliver Umney
+  - Laura Wiggins
+  - Kevin Eliceiri
+  description: 'Bioimage analysis (BIA) is a critical discipline in the field of biological research. It overcomes the limitations of subjective analysis in microscopy through the creation of quantitative and reproducible methods. This paper is the result of a recent meeting of bioimage analysts who aimed to summarize the current state of affairs for BIA including categorizing current obstacles and offering possible solutions to them.'
+  license: CC-BY-4.0 
+  name: 'The Crucial Role of BioImage Analysts in Scientific Research and Publication'
+  publication_date: '2024-06-03'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/11457452
+- authors: 
+  - Beth Cimini
+  description: 'As microscopy diversifies and becomes ever-more complex, the problem of quantification of microscopy images has emerged as a major roadblock for many researchers. All researchers must face certainchallenges in turning microscopy images into answers, independent of their scientific question and the images they have generated. Challenges may arise at many stages throughout the analysis process, including handling of the image files, image pre-processing, object finding, or measurement, and statistical analysis. While the exact solution required for each obstacle will be problem-specific, by understanding tools and tradeoffs, optimizing data quality, breaking workflows and data sets into chunks, talking to experts, and thoroughly documenting what has been done, analysts at any experience level can learn to overcome these challenges and create better and easier image analyses.'
+  license: CC-BY-4.0 
+  name: 'Creating and troubleshooting microscopy analysis workflows: common challenges and common solutions'
+  publication_date: '2024-02-29'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/10734599
+- authors: 
+  - Beth Cimini
+  description: 'Can Jupyter Book help make the friendliest possible resource we can think of, in a way that does not get out of date?'
+  license: CC-BY-4.0 
+  name: 'Jupyter Book as a tool for multi-language teaching and training'
+  publication_date: '2024-02-13'
+  tags:
+  - Jupyter Book
+  - include in DALIA
+  type:
+  - Slides
+  url: 
+  - https://zenodo.org/records/10653464
+- authors: 
+  - Beth Cimini
+  description: 'Blog post from the "Measure Everything... Ask Questions Later" blog of the Broad Institute Imaging Platform. How do I know when my analysis workflow is doing well enough at finding the objects or measuring the things I care about?'
+  license: CC-BY-4.0 
+  name: 'When To Say "Good Enough"'
+  publication_date: '2019-10-21'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://zenodo.org/records/10498985
+- authors: 
+  - Wei Ouyang
+  - Kevin W Eliceiri
+  - Beth Cimini
+  description: 'The rapid advancements in biological imaging and the increasing complexity of image data call for a reevaluation of traditional bioimage analysis methods and how these methods are accessed. In our perspective, we argue that transitioning from desktop-based tools to web-based bioimage analysis offers immense opportunities for enhanced accessibility, improved collaboration, and streamlined workflows. We briefly describe the potential advantages, including lower computational requirements and overcoming challenges such as installation issues and limited reproducibility. Additionally, we discuss the current landscape of web-based tools, the challenges in implementation, and the importance of community involvement in driving this transition. By embracing web-based bioimage analysis, we believe the life sciences community can unlock new possibilities for accelerating biological research.'
+  license: CC-BY-4.0 
+  name: 'Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web'
+  publication_date: '2023-06-02'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/8032892
+- authors: 
+  - Jay Alammar
+  description: 'AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses.'
+  license: CC-BY-NC-SA-4.0 
+  name: 'The Illustrated Stable Diffusion'
+  publication_date: '2022-10-04'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://jalammar.github.io/illustrated-stable-diffusion/
   
 - authors:
   - NFDI4BIOIMAGE
@@ -25657,3 +25886,4 @@ resources:
   url:
   - https://zenodo.org/records/19335305
   - https://doi.org/10.5281/zenodo.19335305
+
