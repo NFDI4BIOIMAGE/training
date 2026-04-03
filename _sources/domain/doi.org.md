@@ -1,4 +1,4 @@
-# Doi.org (402)
+# Doi.org (403)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -5148,7 +5148,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-02-26
 
@@ -5858,6 +5858,39 @@ Content type: Data
 [https://zenodo.org/records/8065174](https://zenodo.org/records/8065174)
 
 [https://doi.org/10.5281/zenodo.8065174](https://doi.org/10.5281/zenodo.8065174)
+
+
+---
+
+## M2EA05 analysis results from spam
+
+Edward Andò
+
+Published 2025-11-21
+
+Licensed CC-BY-4.0
+
+
+
+M2EA05 dataset from Laboratoire 3SR.
+The raw data is a series of x-ray tomography images 4x4x4 downscaled (i.e., "bin 4") acquired while doing an operando triaxial compression test on a granular material.
+It's been roughly analysed with spam 0.8.1.4 (Stamati, O., And&ograve;, E., Roubin, E., Cailletaud, R., Wiebicke, M., Pinzon, G., ... &amp; Birmpilis, G. (2020). Spam: software for practical analysis of materials. Journal of Open Source Software, 5(51), 2286) to measure incremental grain motion (see analysis.zsh which could be significantly improved).
+The principle of the "low effort" analysis is that:
+
+(spam-reg) an overall incremental registration is performed between im_T and im_T+1
+(spam-ddic) a "dicrete DIC" is performed tracking labels from im_T and im_T+1 with an initial guess of the registration
+(spam-moveLabels) an approximate new label image in im_T+1 is computed by displacing the labelled image in im_T with the DDIC results
+
+These data have already been used in:
+
+Kawamoto, R., And&ograve;, E., Viggiani, G., &amp; Andrade, J. E. (2016). Level set discrete element method for three-dimensional computations with triaxial case study. Journal of the Mechanics and Physics of Solids, 91, 1-13
+Nadimi, S., Fonseca, J., And&ograve;, E., &amp; Viggiani, G. (2019). A micro finite-element model for soil behaviour: experimental evaluation for sand under triaxial compression. G&eacute;otechnique, 1-6
+Spam examples on Zenodo: https://zenodo.org/records/3888347
+
+
+[https://zenodo.org/records/17668709](https://zenodo.org/records/17668709)
+
+[https://doi.org/10.5281/zenodo.17668709](https://doi.org/10.5281/zenodo.17668709)
 
 
 ---
@@ -9490,7 +9523,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -9989,7 +10022,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-11-14
 
@@ -11421,7 +11454,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-03-13
 
@@ -11507,7 +11540,7 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
