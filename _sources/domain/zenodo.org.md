@@ -1,4 +1,4 @@
-# Zenodo.org (398)
+# Zenodo.org (399)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -3643,6 +3643,30 @@ Tags: Include In Dalia
 [https://zenodo.org/records/16573999](https://zenodo.org/records/16573999)
 
 [https://doi.org/10.5281/zenodo.16573999](https://doi.org/10.5281/zenodo.16573999)
+
+
+---
+
+## Galaxy Sustainability Report
+
+Smitesh Jain
+
+Published 2025-07-17
+
+Licensed CC-BY-4.0
+
+
+
+Title:Galaxy Sustainability Report 2025
+Description:This report provides an in-depth analysis of the sustainability of the Galaxy platform, a globally recognized open-source system for data analysis, workflow management, and scientific collaboration. Developed under the EuroScienceGateway project and supported by the European Union&rsquo;s Horizon Europe program (Grant Agreement No. 101057388), the report evaluates Galaxy through the lenses of desirability, feasibility, and viability using a robust analytical framework derived from design thinking and open-source community health metrics (CHAOSS).
+The report presents empirical data on Galaxy's rapid growth in user adoption, job execution volume, infrastructure robustness, contributor engagement, community governance, and scientific impact. It highlights Galaxy&rsquo;s ability to democratize access to advanced computational tools, support reproducible science, and maintain long-term sustainability through a distributed community and institutional support.
+This document is a valuable resource for funders, policymakers, and stakeholders in the open science and digital research infrastructure community, illustrating why Galaxy represents a low-risk, high-reward investment in the future of data-driven research.
+Authors:Smitesh Jain (EGI Foundation)on behalf of the EuroScienceGateway Consortium
+Funding Acknowledgement:This project was funded by the European Union&rsquo;s Horizon Europe programme under Grant Agreement No. 101057388.
+
+[https://zenodo.org/records/16030329](https://zenodo.org/records/16030329)
+
+[https://doi.org/10.5281/zenodo.16030329](https://doi.org/10.5281/zenodo.16030329)
 
 
 ---
@@ -9373,7 +9397,7 @@ Tags: Exclude From Dalia
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
