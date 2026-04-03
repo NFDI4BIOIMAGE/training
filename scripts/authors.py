@@ -20,6 +20,8 @@ our_authors = [
   "Boissonnet, Tom",
   "Ferrando-May, Elisa",
   "Moore, Josh",
+  "Tischer, Christian",
+  "Bortolomeazzi, Michele"
 ]
 
 temp = []

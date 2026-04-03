@@ -10,4 +10,4 @@ lxml
 sphinxcontrib-lunrsearch
 beautifulsoup4
 lunr
-
+transformers

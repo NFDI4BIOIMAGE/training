@@ -22,11 +22,30 @@ def main():
     This is done in the github CI before the website is regenerated, after every modification on the main branch.
     """
 
-    latest_file, previous_file = get_latest_two_csv_files(folder)
+    try:
+        latest_file, previous_file = get_latest_two_csv_files(folder)
+    except FileNotFoundError as e:
+        print(f"No valid CSV files found: {e}")
+        return
 
-    # Load the CSV data
-    current_week_data = pd.read_csv(os.path.join(folder, latest_file))
-    previous_week_data = pd.read_csv(os.path.join(folder, previous_file))
+    # Load the CSV data with defensive handling
+    try:
+        current_week_data = pd.read_csv(os.path.join(folder, latest_file))
+    except pd.errors.EmptyDataError:
+        print(f"Latest CSV '{latest_file}' is empty or has no columns. Aborting.")
+        return
+    except Exception as e:
+        print(f"Failed to read latest CSV '{latest_file}': {e}")
+        return
+
+    try:
+        previous_week_data = pd.read_csv(os.path.join(folder, previous_file))
+    except pd.errors.EmptyDataError:
+        print(f"Previous CSV '{previous_file}' is empty or has no columns. Aborting.")
+        return
+    except Exception as e:
+        print(f"Failed to read previous CSV '{previous_file}': {e}")
+        return
 
     # Merge data on the 'url' column to compare downloads
     merged_data = pd.merge(current_week_data, previous_week_data, on='url', suffixes=('_current', '_previous'))
@@ -58,13 +77,44 @@ def get_latest_two_csv_files(folder):
     Get the two most recent CSV files in the specified folder. 
     """
     # Get all CSV files in the folder
-    csv_files = [f for f in os.listdir(folder) if f.endswith('.csv')]
+    csv_candidates = [f for f in os.listdir(folder) if f.endswith('.csv')]
+
+    # Parse dates from filenames and ignore files that don't match the expected format
+    dated_files = []
+    for f in csv_candidates:
+        try:
+            dt = extract_date_from_filename(f)
+            dated_files.append((f, dt))
+        except Exception:
+            continue
 
     # Sort files by date (newest first)
-    csv_files = sorted(csv_files, key=lambda f: extract_date_from_filename(f), reverse=True)
+    dated_files.sort(key=lambda t: t[1], reverse=True)
 
-    # Return the two most recent files
-    return csv_files[0], csv_files[1]
+    # Collect two valid CSV files (non-empty and parseable)
+    valid_files = []
+    for fname, _ in dated_files:
+        fullpath = os.path.join(folder, fname)
+        try:
+            if os.path.getsize(fullpath) == 0:
+                continue
+        except OSError:
+            continue
+
+        # Quick parse test: try to read one row to ensure there are columns
+        try:
+            pd.read_csv(fullpath, nrows=1)
+        except Exception:
+            continue
+
+        valid_files.append(fname)
+        if len(valid_files) >= 2:
+            break
+
+    if len(valid_files) < 2:
+        raise FileNotFoundError(f"Could not find two valid CSV files in '{folder}'. Found: {valid_files}")
+
+    return valid_files[0], valid_files[1]
 
 def download_first_pdf_file_from_zenodo(folder, record_id):
     """
@@ -100,7 +150,7 @@ def download_first_pdf_file_from_zenodo(folder, record_id):
             pdf = pypdfium2.PdfDocument(file_content)
             page = pdf[0]
             pil_image = page.render(
-                scale=2.0,  
+                scale=2,  
                 rotation=0
             ).to_pil()
 
@@ -132,7 +182,16 @@ def resize_image(image, height):
     """
     aspect_ratio = image.width / image.height
     new_width = int(aspect_ratio * height)
-    return image.resize((new_width, height), Image.LANCZOS)
+    # Determine resampling method safely to avoid static type-checker attribute errors
+    resample_method = None
+    # Prefer the Resampling enum when available (Pillow >= 9.1)
+    resampling_enum = getattr(Image, "Resampling", None)
+    if resampling_enum is not None:
+        resample_method = getattr(resampling_enum, "LANCZOS", None)
+    # Fallback to legacy attribute via getattr to avoid Pylance attribute warnings
+    if resample_method is None:
+        resample_method = getattr(Image, "LANCZOS", getattr(Image, "BICUBIC", None))
+    return image.resize((new_width, height), resample_method)
 
 # Define the format of your PNG file
 def get_latest_png_filename(id):
