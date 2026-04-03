@@ -1,4 +1,4 @@
-# Robert haase (77)
+# Robert haase (78)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -887,6 +887,25 @@ In this slide-deck we dive into large language models for bioimage data science,
 [https://zenodo.org/records/17669681](https://zenodo.org/records/17669681)
 
 [https://doi.org/10.5281/zenodo.17669681](https://doi.org/10.5281/zenodo.17669681)
+
+
+---
+
+## How Large Language Models impact Bio-Image Data Science
+
+Robert Haase
+
+Published 2025-09-11
+
+Licensed CC-BY-4.0
+
+
+
+In this slide deck we dive into Large Language Models (LLMs) and Vision Language Models (VLMs) for Bio-image Analysis. We test their capabilities for object counting, pointing at objects and drawing bounding boxes around them. We also dive into VLMs deciding for segmentation algorithms and LLMs for code generation. We see bia-bob, git-bob and [alice] in action, which represent three generations of AI-based coding assistants analysing image data increasingly autonomously.
+
+[https://zenodo.org/records/17102027](https://zenodo.org/records/17102027)
+
+[https://doi.org/10.5281/zenodo.17102027](https://doi.org/10.5281/zenodo.17102027)
 
 
 ---
