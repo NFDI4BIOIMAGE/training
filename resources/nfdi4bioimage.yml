@@ -25179,19 +25179,6 @@ resources:
   url: https://zenodo.org/records/17472821
   language: en
 - authors: 
-  - Jens Wendt
-  description: 'Talk at the RDM4mic Meeting 2025 in Münster, Germany, about enriched OMERO and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.'
-  license: CC-BY-4.0
-  name: 'enriched OMERO at RDM4mic Meeting 2025'
-  publication_date: '2026-01-13'
-  tags:
-  - Research Data Management
-  - include in DALIA
-  type:
-  - Slides
-  url: https://zenodo.org/records/18230666
-  language: en
-- authors: 
   - Cornelia Wetzker
   - Vanessa Fuchs
   - Jens Wendt
