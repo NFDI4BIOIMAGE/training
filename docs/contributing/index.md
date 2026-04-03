@@ -37,7 +37,7 @@ We reserve the right to remove and modify entries of this collection at any poin
 
 ## Step-by-step tutorial
 
-If you want to contribute a new link to some training materials, got to the yml file, e.g. to [events.yml](https://github.com/NFDI4BIOIMAGE/training/blob/main/resources/events.yml) and click the `edit` button.
+If you want to contribute a new link to some training materials, got to the yml file, e.g. to [nfdi4bioimage.yml](https://github.com/NFDI4BIOIMAGE/training/blob/main/resources/nfdi4bioimage.yml) and click the `edit` button.
 
 ![Screenshot showing the events.yml file with an arrow pointing at the edit button](how_to_contribute1.png)
 
