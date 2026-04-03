@@ -1,4 +1,4 @@
-# Doi.org (404)
+# Doi.org (405)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -9599,6 +9599,25 @@ Content type: Data
 [https://zenodo.org/records/8091914](https://zenodo.org/records/8091914)
 
 [https://doi.org/10.5281/zenodo.8091914](https://doi.org/10.5281/zenodo.8091914)
+
+
+---
+
+## Promoting Reproducibility in Biomedical Research
+
+David Barry
+
+Published 2025-10-17
+
+Licensed CC-BY-4.0
+
+
+
+Reproducibility is a cornerstone of robust biomedical research, yet challenges persist, particularly in the complex domains of AI and bioimage informatics/analysis. In this presentation, I discuss the critical need for enhanced reproducibility in image-based biological studies and detail some strategies implemented at the Francis Crick Institute. Our Image Analysis Group aims to empower researchers with the tools and knowledge to independently analyse their data, focusing on key pillars: training, standardization, informed interpretation and self-sufficiency. Through dedicated workshops, we have taught hundreds of researchers fundamental image analysis concepts, emphasizing the impact of image quality and appropriate quantification on data reliability. I will also showcase some practical examples of our work and the challenges associated with ensuring they can be used reproducibly by others. Finally, I will discuss our latest work on common pitfalls in image data interpretation, highlighting the importance of rigorous image quality control.
+
+[https://zenodo.org/records/17377255](https://zenodo.org/records/17377255)
+
+[https://doi.org/10.5281/zenodo.17377255](https://doi.org/10.5281/zenodo.17377255)
 
 
 ---
