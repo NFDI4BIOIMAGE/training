@@ -5133,7 +5133,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-02-26
 
@@ -9974,7 +9974,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-11-14
 
@@ -11406,7 +11406,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-03-13
 
