@@ -1,4 +1,4 @@
-# Cc-by-nc-sa-4.0 (6)
+# Cc-by-nc-sa-4.0 (7)
 ## A dataset for generalized nuclear segmentation for computational pathology
 
 Neeraj Kumar, Ruchika Verma, Sanuj Sharma, Surabhi Bhargava, Abhishek Vahadane, Amit Sethi
@@ -121,6 +121,27 @@ Tags: Bioimage Analysis, OMERO, Exclude From Dalia
 Content type: Online Tutorial
 
 [https://wiki-biop.epfl.ch/en/data-management/omero/qupath](https://wiki-biop.epfl.ch/en/data-management/omero/qupath)
+
+
+---
+
+## The Illustrated Stable Diffusion
+
+Jay Alammar
+
+Published 2022-10-04
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses.
+
+Tags: Artificial Intelligence, Include In Dalia
+
+Content type: Blog Post
+
+[https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 
 ---

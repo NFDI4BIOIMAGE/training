@@ -1,4 +1,4 @@
-# Research data management (151)
+# Research data management (155)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -596,6 +596,27 @@ Content type: Slides
 
 ---
 
+## DAFT: minimal principles for reproducible research papers
+
+Bruno C. Vellutini
+
+Published 2026-01-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+A minimal set of principles for organizing research papers.
+
+Tags: Reproducibility, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Blog Post
+
+[https://brunovellutini.com/posts/daft-principles/](https://brunovellutini.com/posts/daft-principles/)
+
+
+---
+
 ## Data Stewardship Wizard
 
 Licensed UNKOWN
@@ -660,6 +681,27 @@ Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dali
 Content type: Slides, Presentation
 
 [https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
+
+
+---
+
+## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 
 ---
@@ -1834,7 +1876,7 @@ Content type: Collection, Event
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -2050,6 +2092,27 @@ Tags: Research Data Management, OMERO, Exclude From Dalia
 Content type: Collection, Video
 
 [https://www.youtube.com/@RDM4mic](https://www.youtube.com/@RDM4mic)
+
+
+---
+
+## RDM4mic Meeting 2025 Talks
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei, David Schwartz, Joost Willemse, Bettina Hagen, Thomas Zobel, Susanne Kunis, Peter Zentis, Niraj Kandpal, Tom Boissonnet
+
+Published 2026-01-12
+
+Licensed UNKNOWN
+
+
+
+Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI](https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI)
 
 
 ---
@@ -2563,6 +2626,27 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 [https://zenodo.org/records/10805204](https://zenodo.org/records/10805204)
 
 [https://doi.org/10.5281/zenodo.10805204](https://doi.org/10.5281/zenodo.10805204)
+
+
+---
+
+## The Power of Sharing: Open Data in Bio-image Analysis
+
+Elena Nicolay, Mara Lampert, Frauke Beyer, Ronny Gey, Michaela Unger, Dr. Riccardo Massei
+
+Published 2026-02-06
+
+Licensed UNKNOWN
+
+
+
+The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.
+
+Tags: Open Data, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=z8MKF4FOjZ4](https://www.youtube.com/watch?v=z8MKF4FOjZ4)
 
 
 ---
@@ -3121,7 +3205,7 @@ Content type: Github Repository, Software
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

@@ -1,4 +1,4 @@
-# Blog post (30)
+# Blog post (33)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -128,6 +128,27 @@ Tags: Research Data Management, Artificial Intelligence, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/)
+
+
+---
+
+## DAFT: minimal principles for reproducible research papers
+
+Bruno C. Vellutini
+
+Published 2026-01-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+A minimal set of principles for organizing research papers.
+
+Tags: Reproducibility, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Blog Post
+
+[https://brunovellutini.com/posts/daft-principles/](https://brunovellutini.com/posts/daft-principles/)
 
 
 ---
@@ -503,6 +524,27 @@ Content type: Blog Post
 
 ---
 
+## The Illustrated Stable Diffusion
+
+Jay Alammar
+
+Published 2022-10-04
+
+Licensed CC-BY-NC-SA-4.0
+
+
+
+AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses.
+
+Tags: Artificial Intelligence, Include In Dalia
+
+Content type: Blog Post
+
+[https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
+
+
+---
+
 ## Things that shouldn't be in file names for $1000 Alex
 
 Joseph Scott
@@ -535,6 +577,27 @@ Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/06/01/tracking-in-napari/](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+
+
+---
+
+## When To Say "Good Enough"
+
+Beth Cimini
+
+Published 2019-10-21
+
+Licensed CC-BY-4.0
+
+
+
+Blog post from the "Measure Everything... Ask Questions Later" blog of the Broad Institute Imaging Platform. How do I know when my analysis workflow is doing well enough at finding the objects or measuring the things I care about?
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Blog Post
+
+[https://zenodo.org/records/10498985](https://zenodo.org/records/10498985)
 
 
 ---

@@ -1,4 +1,4 @@
-# Matthew hartley (5)
+# Matthew hartley (6)
 ## Community-developed checklists for publishing images and image analyses
 
 Christopher Schmied, Michael S Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana T Carvalho, Catalin Chiritescu, Jana Christopher, Beth A Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel G Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam C Parslow, Alex Payne-Dwyer, Laure Plantard, Rizwan Ali, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved P Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio-De-Castillia, Douglas Taatjes, Christian Tischer, Helena Klara Jambor
@@ -73,6 +73,19 @@ Tags: Bioimage Analysis, Open Science, Microscopy, Include In Dalia
 Content type: Publication
 
 [https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through](https://journals.biologists.com/jcs/article/137/20/jcs262139/362478/Making-the-most-of-bioimaging-data-through)
+
+
+---
+
+## Ten recommendations for organising bioimaging data for archival
+
+Paul K. Korir, Andrii Iudin, Sriram Somasundharam, Simone Weyand, Osman Salih, Matthew Hartley, Ugis Sarkans
+
+
+
+Content type: Publication
+
+[https://f1000research.com/articles/12-1391/v2](https://f1000research.com/articles/12-1391/v2)
 
 
 ---

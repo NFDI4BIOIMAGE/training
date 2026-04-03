@@ -1,4 +1,4 @@
-# Mara lampert (10)
+# Mara lampert (11)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -144,6 +144,27 @@ Tags: Python, Napari, Bioimage Analysis, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
+
+
+---
+
+## The Power of Sharing: Open Data in Bio-image Analysis
+
+Elena Nicolay, Mara Lampert, Frauke Beyer, Ronny Gey, Michaela Unger, Dr. Riccardo Massei
+
+Published 2026-02-06
+
+Licensed UNKNOWN
+
+
+
+The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.
+
+Tags: Open Data, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=z8MKF4FOjZ4](https://www.youtube.com/watch?v=z8MKF4FOjZ4)
 
 
 ---

@@ -1,4 +1,4 @@
-# Reproducibility (5)
+# Reproducibility (6)
 ## 6 Steps Towards Reproducible Research
 
 Heidi Seibold
@@ -37,6 +37,27 @@ Tags: Bioinformatics, Reproducibility, Research Data Management, Sharing, Open S
 Content type: Publication
 
 [https://doi.org/10.12688/f1000research.12344.2](https://doi.org/10.12688/f1000research.12344.2)
+
+
+---
+
+## DAFT: minimal principles for reproducible research papers
+
+Bruno C. Vellutini
+
+Published 2026-01-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+A minimal set of principles for organizing research papers.
+
+Tags: Reproducibility, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Blog Post
+
+[https://brunovellutini.com/posts/daft-principles/](https://brunovellutini.com/posts/daft-principles/)
 
 
 ---

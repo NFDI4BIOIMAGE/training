@@ -1,64 +1,61 @@
-# Stefania marcotti (7)
-## Bridging Imaging Users to Imaging Analysis - A community survey
+# Peter bankhead (5)
+## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
-Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini
-
-Published 2023
+Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
 
 Licensed BSD-3-CLAUSE
 
 
 
-Tags: Bioimage Analysis, Exclude From Dalia
-
-Content type: Publication, Preprint
-
-[https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1](https://www.biorxiv.org/content/10.1101/2023.06.05.543701v1)
-
-[https://github.com/COBA-NIH/2023_ImageAnalysisSurvey](https://github.com/COBA-NIH/2023_ImageAnalysisSurvey)
-
-
----
-
-## Introduction to Image Analysis
-
-Barry, David J, Stefania Marcotti, Salgueiro Torres, Sara, Martin Jones, Alicja Skórkowska
-
-Published 2025-08-19
-
-Licensed CC-BY-SA-4.0
-
-
-
-Presentation slides associated with the Introduction to Image Analysis workshop run at the Francis Crick Institute on 18-19th August 2025:
-https://doi.org/10.5281/zenodo.16949737
-
 Tags: Include In Dalia
 
-[https://zenodo.org/records/16949737](https://zenodo.org/records/16949737)
+Content type: Collection, Publication
 
-[https://doi.org/10.5281/zenodo.16949737](https://doi.org/10.5281/zenodo.16949737)
+[https://doi.org/10.1371/journal.pbio.3002167](https://doi.org/10.1371/journal.pbio.3002167)
+
+[https://www.bioimagingguide.org/](https://www.bioimagingguide.org/)
 
 
 ---
 
-## Modular training resources for bioimage analysis
+## Developing open-source software for bioimage analysis: opportunities and challenges
 
-Christian Tischer, Antonio Politi, Tim-Oliver Buchholz, Elnaz Fazeli, Nicola Gritti, Aliaksandr Halavatyi, Gonzalez Tirado, Sebastian, Julian Hennies, Toby Hodges, Arif Khan, Dominik Kutra, Stefania Marcotti, Bugra Oezdemir, Felix Schneider, Martin Schorb, Anniek Stokkermans, Yi Sun, Nima Vakili
-
-Published 2025-01-21
+Florian Levet, Anne E. Carpenter, Kevin W. Eliceiri, Anna Kreshuk, Peter Bankhead, Robert Haase
 
 Licensed CC-BY-4.0
 
 
 
-The newly developed image data formats course was taught for the first time: https://github.com/NEUBIAS/training-resources/blob/master/courses/2025_01_EMBL_image_data_formats.md
+This article outlines common challenges and practices when developing open-source software for bio-image analysis.
 
-Tags: Exclude From Dalia
+Tags: Neubias, Include In Dalia
 
-[https://zenodo.org/records/14710820](https://zenodo.org/records/14710820)
+Content type: Publication
 
-[https://doi.org/10.5281/zenodo.14710820](https://doi.org/10.5281/zenodo.14710820)
+[https://f1000research.com/articles/10-302](https://f1000research.com/articles/10-302)
+
+
+---
+
+## QuPath: Open source software for analysing (awkward) images
+
+Peter Bankhead
+
+Published 2020-12-16
+
+Licensed CC-BY-4.0
+
+
+
+Slides from the CZI/EOSS online meeting in December 2020.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/4328911](https://zenodo.org/records/4328911)
+
+[https://doi.org/10.5281/zenodo.4328911](https://doi.org/10.5281/zenodo.4328911)
 
 
 ---
@@ -101,48 +98,6 @@ Tags: Bioimage Analysis, Include In Dalia
 Content type: Publication
 
 [https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in](https://journals.biologists.com/jcs/article/137/20/jcs262322/362545/The-crucial-role-of-bioimage-analysts-in)
-
-
----
-
-## introduction-to-image-analysis
-
-Dave Barry, Stefania Marcotti, Sara Salgueiro Torres, Martin Jones, AlicjaSkorkowska
-
-Published 2025-08-26T14:08:22+00:00
-
-Licensed CC-BY-SA-4.0
-
-
-
-
-
-Tags: Include In Dalia
-
-Content type: Github Repository
-
-[https://github.com/FrancisCrickInstitute/introduction-to-image-analysis](https://github.com/FrancisCrickInstitute/introduction-to-image-analysis)
-
-
----
-
-## training-resources
-
-Christian Tischer, Antonio Politi, Toby Hodges, maulakhan, grinic, bugraoezdemir, Tim-Oliver Buchholz, Elnaz Fazeli, Aliaksandr Halavatyi, Dominik Kutra, Stefania Marcotti, AnniekStok, Felix, jhennies, Severina Klaus, Martin Schorb, Nima Vakili, Sebastian Gonzalez Tirado, Stefan Helfrich, Yi Sun, Ziqiang Huang, Jan Eglinger, Constantin Pape, Joel Lüthi, Matt McCormick, Oane Gros
-
-Published 2020-04-23T07:51:38+00:00
-
-Licensed CC-BY-4.0
-
-
-
-Resources for teaching/preparing to teach bioimage analysis
-
-Tags: Bioimageanalysis, Neurobias, Include In Dalia
-
-Content type: Github Repository
-
-[https://github.com/NEUBIAS/training-resources](https://github.com/NEUBIAS/training-resources)
 
 
 ---

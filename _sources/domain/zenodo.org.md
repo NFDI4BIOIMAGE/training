@@ -1,4 +1,4 @@
-# Zenodo.org (383)
+# Zenodo.org (389)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -723,6 +723,27 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15150937](https://zenodo.org/records/15150937)
 
 [https://doi.org/10.5281/zenodo.15150937](https://doi.org/10.5281/zenodo.15150937)
+
+
+---
+
+## Bilayers - an easy way to make your favorite deep learning tool more user-friendly
+
+Beth Cimini
+
+Published 2025-01-27
+
+Licensed CC-BY-4.0
+
+
+
+Bilayers as a framework to containerize and describe algorithms/software in deep learning to make it more user-friendly.
+
+Tags: Deep Learning, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/14751700](https://zenodo.org/records/14751700)
 
 
 ---
@@ -1678,6 +1699,27 @@ Content type: Slides
 
 ---
 
+## Creating and troubleshooting microscopy analysis workflows: common challenges and common solutions
+
+Beth Cimini
+
+Published 2024-02-29
+
+Licensed CC-BY-4.0
+
+
+
+As microscopy diversifies and becomes ever-more complex, the problem of quantification of microscopy images has emerged as a major roadblock for many researchers. All researchers must face certainchallenges in turning microscopy images into answers, independent of their scientific question and the images they have generated. Challenges may arise at many stages throughout the analysis process, including handling of the image files, image pre-processing, object finding, or measurement, and statistical analysis. While the exact solution required for each obstacle will be problem-specific, by understanding tools and tradeoffs, optimizing data quality, breaking workflows and data sets into chunks, talking to experts, and thoroughly documenting what has been done, analysts at any experience level can learn to overcome these challenges and create better and easier image analyses.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/10734599](https://zenodo.org/records/10734599)
+
+
+---
+
 ## Creating open computational curricula
 
 Kari Jordan, Zhian Kamvar, Toby Hodges
@@ -1853,6 +1895,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/10069368](https://zenodo.org/records/10069368)
 
 [https://doi.org/10.5281/zenodo.10069368](https://doi.org/10.5281/zenodo.10069368)
+
+
+---
+
+## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 
 ---
@@ -4927,6 +4990,27 @@ This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf in 
 
 ---
 
+## Jupyter Book as a tool for multi-language teaching and training
+
+Beth Cimini
+
+Published 2024-02-13
+
+Licensed CC-BY-4.0
+
+
+
+Can Jupyter Book help make the friendliest possible resource we can think of, in a way that does not get out of date?
+
+Tags: Jupyter Book, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/10653464](https://zenodo.org/records/10653464)
+
+
+---
+
 ## Key-Value pair template for annotation in OMERO for light microscopy data acquired with AxioScan7 - Core Facility Cellular Imaging (CFCI)
 
 Silke Tulok, Anja Nobst, Anett Jannasch, Tom Boissonnet, Gunar Fabig
@@ -5935,6 +6019,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/6834214](https://zenodo.org/records/6834214)
 
 [https://doi.org/10.5281/zenodo.6834214](https://doi.org/10.5281/zenodo.6834214)
+
+
+---
+
+## Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web
+
+Wei Ouyang, Kevin W Eliceiri, Beth Cimini
+
+Published 2023-06-02
+
+Licensed CC-BY-4.0
+
+
+
+The rapid advancements in biological imaging and the increasing complexity of image data call for a reevaluation of traditional bioimage analysis methods and how these methods are accessed. In our perspective, we argue that transitioning from desktop-based tools to web-based bioimage analysis offers immense opportunities for enhanced accessibility, improved collaboration, and streamlined workflows. We briefly describe the potential advantages, including lower computational requirements and overcoming challenges such as installation issues and limited reproducibility. Additionally, we discuss the current landscape of web-based tools, the challenges in implementation, and the importance of community involvement in driving this transition. By embracing web-based bioimage analysis, we believe the life sciences community can unlock new possibilities for accelerating biological research.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/8032892](https://zenodo.org/records/8032892)
 
 
 ---
@@ -9119,7 +9224,7 @@ Tags: Exclude From Dalia
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -11016,6 +11121,27 @@ This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf in 
 
 ---
 
+## The Crucial Role of BioImage Analysts in Scientific Research and Publication
+
+Beth Cimini, Peter Bankhead, Rocco D'Antuono, Fazeleh Elnaz, Julia Fernandez-Rodriguez, Caterina Fuster-Barceló, Robert Haase, Helena Jambor, Martin L Jones, Florian Jug, Anna Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G Martins, Sara McArdle, Arrate Muñoz Barrutia, Laura Murphy, Michael Nelson, Simon Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin Eliceiri
+
+Published 2024-06-03
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA) is a critical discipline in the field of biological research. It overcomes the limitations of subjective analysis in microscopy through the creation of quantitative and reproducible methods. This paper is the result of a recent meeting of bioimage analysts who aimed to summarize the current state of affairs for BIA including categorizing current obstacles and offering possible solutions to them.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/11457452](https://zenodo.org/records/11457452)
+
+
+---
+
 ## The Information Infrastructure for BioImage Data (I3D:bio) project to advance FAIR microscopy data management for the community
 
 Christian Schmidt, Michele Bortolomeazzi, Tom Boissonnet, Julia Dohle, Tobias Wernet, Janina Hanne, Roland Nitschke, Susanne Kunis, Karen Bernhardt, Stefanie Weidtkamp-Peters, Elisa Ferrando-May
@@ -11415,6 +11541,27 @@ Tags: Include In Dalia
 [https://zenodo.org/records/17087096](https://zenodo.org/records/17087096)
 
 [https://doi.org/10.5281/zenodo.17087096](https://doi.org/10.5281/zenodo.17087096)
+
+
+---
+
+## When To Say "Good Enough"
+
+Beth Cimini
+
+Published 2019-10-21
+
+Licensed CC-BY-4.0
+
+
+
+Blog post from the "Measure Everything... Ask Questions Later" blog of the Broad Institute Imaging Platform. How do I know when my analysis workflow is doing well enough at finding the objects or measuring the things I care about?
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Blog Post
+
+[https://zenodo.org/records/10498985](https://zenodo.org/records/10498985)
 
 
 ---
@@ -12139,25 +12286,6 @@ Tags: Nfdi4Bioimage, Include In Dalia
 [https://zenodo.org/records/15575379](https://zenodo.org/records/15575379)
 
 [https://doi.org/10.5281/zenodo.15575379](https://doi.org/10.5281/zenodo.15575379)
-
-
----
-
-## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
-
-Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
-
-Published 2025-10-29
-
-Licensed CC-BY-4.0
-
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
-
-[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

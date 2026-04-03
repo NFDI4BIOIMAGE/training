@@ -1,4 +1,4 @@
-# Mohsen ahmadi (6)
+# Mohsen ahmadi (7)
 ## Bioimaging workflow based on OMERO, eLabFTW, and Adamant for integrating images with multimodal metadata
 
 Mohsen Ahmadi, Robert Wagner, Sander Bekeschus, Becker, Markus M.
@@ -41,6 +41,27 @@ Tags: Include In Dalia
 
 ---
 
+## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
+
+
+---
+
 ## Linking of Research (Meta-)data in OMERO to Foster FAIR Data in Plasma Science
 
 Robert Wagner, Mohsen Ahmadi, Dagmar Waltemath, Kristina Yordanova, Becker, Markus M.
@@ -79,6 +100,27 @@ Licensed CC-BY-4.0
 
 ---
 
+## RDM4mic Meeting 2025 Talks
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei, David Schwartz, Joost Willemse, Bettina Hagen, Thomas Zobel, Susanne Kunis, Peter Zentis, Niraj Kandpal, Tom Boissonnet
+
+Published 2026-01-12
+
+Licensed UNKNOWN
+
+
+
+Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI](https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI)
+
+
+---
+
 ## Who you gonna call? - Data Stewards to the rescue
 
 Vanessa Aphaia Fiona Fuchs, Jens Wendt, Maximilian Müller, Mohsen Ahmadi, Riccardo Massei, Cornelia Wetzker
@@ -96,25 +138,6 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
-
-
----
-
-## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
-
-Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
-
-Published 2025-10-29
-
-Licensed CC-BY-4.0
-
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
-
-[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

@@ -1,4 +1,4 @@
-# Unknown (112)
+# Unknown (114)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -1597,6 +1597,27 @@ Content type: Collection, Video
 
 ---
 
+## RDM4mic Meeting 2025 Talks
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei, David Schwartz, Joost Willemse, Bettina Hagen, Thomas Zobel, Susanne Kunis, Peter Zentis, Niraj Kandpal, Tom Boissonnet
+
+Published 2026-01-12
+
+Licensed UNKNOWN
+
+
+
+Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI](https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI)
+
+
+---
+
 ## RDMO - Research Data Management Organiser
 
 Licensed UNKNOWN
@@ -1851,6 +1872,27 @@ Content type: Publication
 [https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0022283622000791?via%3Dihub)
 
 [https://doi.org/10.1016/j.jmb.2022.167505](https://doi.org/10.1016/j.jmb.2022.167505)
+
+
+---
+
+## The Power of Sharing: Open Data in Bio-image Analysis
+
+Elena Nicolay, Mara Lampert, Frauke Beyer, Ronny Gey, Michaela Unger, Dr. Riccardo Massei
+
+Published 2026-02-06
+
+Licensed UNKNOWN
+
+
+
+The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.
+
+Tags: Open Data, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/watch?v=z8MKF4FOjZ4](https://www.youtube.com/watch?v=z8MKF4FOjZ4)
 
 
 ---

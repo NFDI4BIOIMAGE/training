@@ -1,4 +1,4 @@
-# Cornelia wetzker (15)
+# Cornelia wetzker (16)
 ## A Glimpse of the Open-Source FLIM Analysis Software Tools FLIMfit, FLUTE and napari-flim-phasor-plotter
 
 Anca Margineanu, Chiara Stringari, Marcelo Zoccoler, Cornelia Wetzker
@@ -39,6 +39,27 @@ Content type: Slides
 [https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 [https://doi.org/10.5281/zenodo.10083555](https://doi.org/10.5281/zenodo.10083555)
+
+
+---
+
+## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 
 ---
@@ -173,6 +194,27 @@ NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number N
 
 ---
 
+## RDM4mic Meeting 2025 Talks
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei, David Schwartz, Joost Willemse, Bettina Hagen, Thomas Zobel, Susanne Kunis, Peter Zentis, Niraj Kandpal, Tom Boissonnet
+
+Published 2026-01-12
+
+Licensed UNKNOWN
+
+
+
+Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Video
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI](https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI)
+
+
+---
+
 ## RESEARCH DATA MANAGEMENT on Campus and in NFDI4BIOIMAGE
 
 Cornelia Wetzker, Michael Schlierf
@@ -257,25 +299,6 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/19107804](https://zenodo.org/records/19107804)
 
 [https://doi.org/10.5281/zenodo.19107804](https://doi.org/10.5281/zenodo.19107804)
-
-
----
-
-## [RDM4Mic2025] Data stewardship for Bio-Image Research Data Management Support and Training in NFDI4BIOIMAGE
-
-Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Müller, Maximilian E., Riccardo Massei
-
-Published 2025-10-29
-
-Licensed CC-BY-4.0
-
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
-
-[https://doi.org/10.5281/zenodo.17472821](https://doi.org/10.5281/zenodo.17472821)
 
 
 ---

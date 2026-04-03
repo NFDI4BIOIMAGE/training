@@ -1,4 +1,4 @@
-# Robert haase (74)
+# Robert haase (76)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -133,6 +133,27 @@ Tags: Bioimage Analysis, Artificial Intelligence, Python, Exclude From Dalia
 Content type: Github Repository
 
 [https://github.com/ScaDS/BIDS-lecture-2024/](https://github.com/ScaDS/BIDS-lecture-2024/)
+
+
+---
+
+## Behind the Secrets of Large Language Models
+
+Michael Färber, Simon Razniewski, Robert Haase
+
+Published 2026-02-01
+
+Licensed CC-BY-4.0
+
+
+
+This course provides a practical and in-depth understanding of large language models that power modern natural language processing systems. Students will explore the architecture, training methodologies, capabilities, and ethical implications of LLMs. The course combines theoretical knowledge with hands-on experience to equip students with the skills necessary to develop, analyze, and apply LLMs in various contexts.
+
+Tags: Large Language Models, Natural Language Processing, Include In Dalia
+
+Content type: Opal Repository
+
+[https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9)
 
 
 ---
@@ -1376,6 +1397,27 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/14030307](https://zenodo.org/records/14030307)
 
 [https://doi.org/10.5281/zenodo.14030307](https://doi.org/10.5281/zenodo.14030307)
+
+
+---
+
+## The Crucial Role of BioImage Analysts in Scientific Research and Publication
+
+Beth Cimini, Peter Bankhead, Rocco D'Antuono, Fazeleh Elnaz, Julia Fernandez-Rodriguez, Caterina Fuster-Barceló, Robert Haase, Helena Jambor, Martin L Jones, Florian Jug, Anna Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G Martins, Sara McArdle, Arrate Muñoz Barrutia, Laura Murphy, Michael Nelson, Simon Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin Eliceiri
+
+Published 2024-06-03
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA) is a critical discipline in the field of biological research. It overcomes the limitations of subjective analysis in microscopy through the creation of quantitative and reproducible methods. This paper is the result of a recent meeting of bioimage analysts who aimed to summarize the current state of affairs for BIA including categorizing current obstacles and offering possible solutions to them.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/11457452](https://zenodo.org/records/11457452)
 
 
 ---

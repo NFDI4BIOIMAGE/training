@@ -1,4 +1,4 @@
-# Wei ouyang (6)
+# Wei ouyang (7)
 ## BioEngine
 
 Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
@@ -92,6 +92,27 @@ Licensed UNKNOWN
 Tags: Exclude From Dalia
 
 [https://github.com/imjoy-team/bioimage-io-resources](https://github.com/imjoy-team/bioimage-io-resources)
+
+
+---
+
+## Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web
+
+Wei Ouyang, Kevin W Eliceiri, Beth Cimini
+
+Published 2023-06-02
+
+Licensed CC-BY-4.0
+
+
+
+The rapid advancements in biological imaging and the increasing complexity of image data call for a reevaluation of traditional bioimage analysis methods and how these methods are accessed. In our perspective, we argue that transitioning from desktop-based tools to web-based bioimage analysis offers immense opportunities for enhanced accessibility, improved collaboration, and streamlined workflows. We briefly describe the potential advantages, including lower computational requirements and overcoming challenges such as installation issues and limited reproducibility. Additionally, we discuss the current landscape of web-based tools, the challenges in implementation, and the importance of community involvement in driving this transition. By embracing web-based bioimage analysis, we believe the life sciences community can unlock new possibilities for accelerating biological research.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/8032892](https://zenodo.org/records/8032892)
 
 
 ---

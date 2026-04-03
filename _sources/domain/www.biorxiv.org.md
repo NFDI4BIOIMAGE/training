@@ -1,4 +1,27 @@
-# Www.biorxiv.org (7)
+# Www.biorxiv.org (8)
+## An atlas of human histological diversity
+
+Hugo Mantion, Zhao Zhang, Diego Serra, Lætitia Lebrun, Maxime Tarabichi, Vincent Detours
+
+Published 2026-02-02
+
+Licensed CC-BY-NC-4.0
+
+
+
+An atlas of human histological diversity that transposes to histology the concepts and methods of RNA-seq gene expression analysis, setting histology on an unbiased quantitative ground.
+
+Tags: Atlas, Exclude From Dalia
+
+Content type: Preprint
+
+[https://histologyatlas.ulb.be/](https://histologyatlas.ulb.be/)
+
+[https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf](https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf)
+
+
+---
+
 ## Bridging Imaging Users to Imaging Analysis - A community survey
 
 Suganya Sivagurunathan, Stefania Marcotti, Carl J Nelson, Martin L Jones, David J Barry, Thomas J A Slater, Kevin W Eliceiri, Beth A Cimini

@@ -208,6 +208,8 @@ Content type: Slides
 
 ## Ten recommendations for organising bioimaging data for archival
 
+Paul K. Korir, Andrii Iudin, Sriram Somasundharam, Simone Weyand, Osman Salih, Matthew Hartley, Ugis Sarkans
+
 
 
 Content type: Publication

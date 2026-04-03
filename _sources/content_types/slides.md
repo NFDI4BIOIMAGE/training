@@ -1,4 +1,4 @@
-# Slides (85)
+# Slides (88)
 ## "ZENODO und Co." Was bringt und wer braucht ein Repositorium?
 
 Elfi Hesse, Jan-Christoph Deinert, Christian Löschen
@@ -100,6 +100,27 @@ Content type: Slides
 [https://zenodo.org/records/11472148](https://zenodo.org/records/11472148)
 
 [https://doi.org/10.5281/zenodo.11472148](https://doi.org/10.5281/zenodo.11472148)
+
+
+---
+
+## Bilayers - an easy way to make your favorite deep learning tool more user-friendly
+
+Beth Cimini
+
+Published 2025-01-27
+
+Licensed CC-BY-4.0
+
+
+
+Bilayers as a framework to containerize and describe algorithms/software in deep learning to make it more user-friendly.
+
+Tags: Deep Learning, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/14751700](https://zenodo.org/records/14751700)
 
 
 ---
@@ -365,6 +386,27 @@ Tags: Research Data Management, Bioimage Analysis, Open Science, Include In Dali
 Content type: Slides, Presentation
 
 [https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf](https://downloads.openmicroscopy.org/presentations/2024/Dundee/Day1/Research%20Data%20Management%20at%20France%20BioImaging.pdf)
+
+
+---
+
+## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
+
+Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
+
+Published 2025-10-29
+
+Licensed CC-BY-4.0
+
+
+
+Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.
+
+Tags: Research Data Management, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/17472821](https://zenodo.org/records/17472821)
 
 
 ---
@@ -833,6 +875,27 @@ Tags: Nfdi4Bioimage, Jipipe, Bioimage Analysis, Include In Dalia
 Content type: Workshop, Video, Tutorial, Slides
 
 [https://doi.org/10.5281/zenodo.15373555](https://doi.org/10.5281/zenodo.15373555)
+
+
+---
+
+## Jupyter Book as a tool for multi-language teaching and training
+
+Beth Cimini
+
+Published 2024-02-13
+
+Licensed CC-BY-4.0
+
+
+
+Can Jupyter Book help make the friendliest possible resource we can think of, in a way that does not get out of date?
+
+Tags: Jupyter Book, Include In Dalia
+
+Content type: Slides
+
+[https://zenodo.org/records/10653464](https://zenodo.org/records/10653464)
 
 
 ---

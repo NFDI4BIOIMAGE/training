@@ -1,4 +1,4 @@
-# Joanna pylvänäinen (12)
+# Joanna pylvänäinen (13)
 ## Image handling using Fiji - training materials
 
 Joanna Pylvänäinen
@@ -865,6 +865,27 @@ Content type: Data
 [https://zenodo.org/records/13442877](https://zenodo.org/records/13442877)
 
 [https://doi.org/10.5281/zenodo.13442877](https://doi.org/10.5281/zenodo.13442877)
+
+
+---
+
+## The Crucial Role of BioImage Analysts in Scientific Research and Publication
+
+Beth Cimini, Peter Bankhead, Rocco D'Antuono, Fazeleh Elnaz, Julia Fernandez-Rodriguez, Caterina Fuster-Barceló, Robert Haase, Helena Jambor, Martin L Jones, Florian Jug, Anna Klemm, Anna Kreshuk, Stefania Marcotti, Gabriel G Martins, Sara McArdle, Arrate Muñoz Barrutia, Laura Murphy, Michael Nelson, Simon Nørrelykke, Perrine Paul-Gilloteaux, Thomas Pengo, Joanna Pylvänäinen, Lior Pytowski, Arianna Ravera, Annika Reinke, Yousr Rekik, Caterina Strambio-De-Castillia, Daniel Thédié, Virginie Uhlmann, Oliver Umney, Laura Wiggins, Kevin Eliceiri
+
+Published 2024-06-03
+
+Licensed CC-BY-4.0
+
+
+
+Bioimage analysis (BIA) is a critical discipline in the field of biological research. It overcomes the limitations of subjective analysis in microscopy through the creation of quantitative and reproducible methods. This paper is the result of a recent meeting of bioimage analysts who aimed to summarize the current state of affairs for BIA including categorizing current obstacles and offering possible solutions to them.
+
+Tags: Bioimage Analysis, Include In Dalia
+
+Content type: Publication
+
+[https://zenodo.org/records/11457452](https://zenodo.org/records/11457452)
 
 
 ---

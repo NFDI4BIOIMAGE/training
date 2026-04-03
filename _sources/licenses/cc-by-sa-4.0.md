@@ -1,4 +1,25 @@
-# Cc-by-sa-4.0 (6)
+# Cc-by-sa-4.0 (7)
+## DAFT: minimal principles for reproducible research papers
+
+Bruno C. Vellutini
+
+Published 2026-01-05
+
+Licensed CC-BY-SA-4.0
+
+
+
+A minimal set of principles for organizing research papers.
+
+Tags: Reproducibility, Fair Principles, Research Data Management, Include In Dalia
+
+Content type: Blog Post
+
+[https://brunovellutini.com/posts/daft-principles/](https://brunovellutini.com/posts/daft-principles/)
+
+
+---
+
 ## DALIA Interchange Format
 
 Jonathan Geiger, Petra Steiner, Abdelmoneim Amer Desouki, Frank Lange
