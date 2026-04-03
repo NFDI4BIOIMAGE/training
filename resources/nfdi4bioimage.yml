@@ -25146,6 +25146,18 @@ resources:
   url:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
+
+- name: "Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed."
+  type:
+  - publication
+  url: 
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC8675413/
+  - https://doi.org/10.1002/hbm.25120
+  authors: 
+  - Tonya White
+  - Elisabet Blok 
+  - Vince D Calhoun
+  publication date: 2020-07-04
 - authors:
   - Paul K. Korir
   - Andrii Iudin
