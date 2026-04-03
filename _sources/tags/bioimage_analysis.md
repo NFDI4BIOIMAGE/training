@@ -2513,7 +2513,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Licensed UNKNOWN
 
@@ -3135,7 +3135,7 @@ Content type: Book
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
