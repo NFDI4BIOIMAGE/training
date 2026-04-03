@@ -1,4 +1,4 @@
-# Cc-by-sa-4.0 (7)
+# Cc-by-sa-4.0 (8)
 ## DAFT: minimal principles for reproducible research papers
 
 Bruno C. Vellutini
@@ -219,6 +219,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/16980386](https://zenodo.org/records/16980386)
 
 [https://doi.org/10.5281/zenodo.16980386](https://doi.org/10.5281/zenodo.16980386)
+
+
+---
+
+## Promoting Reproducibility in Biomedical Research through Image Analysis
+
+David Barry
+
+Published 2025-01-29
+
+Licensed CC-BY-SA-4.0
+
+
+
+Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University on 29th January 2025
+
+[https://zenodo.org/records/14767945](https://zenodo.org/records/14767945)
+
+[https://doi.org/10.5281/zenodo.14767945](https://doi.org/10.5281/zenodo.14767945)
 
 
 ---

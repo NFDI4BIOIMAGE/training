@@ -1,4 +1,4 @@
-# Doi.org (406)
+# Doi.org (408)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -500,6 +500,25 @@ EU AI Act
 [https://zenodo.org/records/19246441](https://zenodo.org/records/19246441)
 
 [https://doi.org/10.5281/zenodo.19246441](https://doi.org/10.5281/zenodo.19246441)
+
+
+---
+
+## ARRIVE 2.0 checklist for "Automated staging of zebrafish embryos using machine learning"
+
+David Barry
+
+Published 2022-10-14
+
+Licensed CC-BY-4.0
+
+
+
+ARRIVE 2.0 checklist for &quot;Automated staging of zebrafish embryos using machine learning&quot;
+
+[https://zenodo.org/records/7198533](https://zenodo.org/records/7198533)
+
+[https://doi.org/10.5281/zenodo.7198533](https://doi.org/10.5281/zenodo.7198533)
 
 
 ---
@@ -5209,7 +5228,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-02-26
 
@@ -6366,6 +6385,23 @@ Tags: Include In Dalia
 [https://zenodo.org/records/6554166](https://zenodo.org/records/6554166)
 
 [https://doi.org/10.5281/zenodo.6554166](https://doi.org/10.5281/zenodo.6554166)
+
+
+---
+
+## Multi-dimensional Imaging and Analysis Workshop
+
+David Barry, Todd Fallesen
+
+Published 2024-09-24
+
+Licensed CC-BY-4.0
+
+
+
+[https://zenodo.org/records/13832613](https://zenodo.org/records/13832613)
+
+[https://doi.org/10.5281/zenodo.13832613](https://doi.org/10.5281/zenodo.13832613)
 
 
 ---
@@ -9670,17 +9706,15 @@ David Barry
 
 Published 2025-01-29
 
-Licensed CC-BY-4.0 INTERNATIONAL
+Licensed CC-BY-SA-4.0
 
 
 
-Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University.
+Slides presented at Empowering Healthcare with Automated Analysis at London Metropolitan University on 29th January 2025
 
-Tags: Reproducibility, Image Analysis, Include In Dalia
+[https://zenodo.org/records/14767945](https://zenodo.org/records/14767945)
 
-Content type: Slides
-
-[https://doi.org/10.5281/zenodo.14767944](https://doi.org/10.5281/zenodo.14767944)
+[https://doi.org/10.5281/zenodo.14767945](https://doi.org/10.5281/zenodo.14767945)
 
 
 ---
@@ -10102,7 +10136,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-11-14
 
@@ -11534,7 +11568,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-03-13
 
