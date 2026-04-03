@@ -1284,7 +1284,7 @@ Tags: Include In Dalia
 
 Robert Haase
 
-Published 2025-09-09
+Published 2025-08-12
 
 Licensed CC-BY-4.0
 
@@ -1292,11 +1292,9 @@ Licensed CC-BY-4.0
 
 In this slide deck we learn how to write reproducible bio-image analysis code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly, but also enabling others to understand workflows to enable them reproducing the analysis also in their mind and potentially other tools. Additionally we cover how to generate Jupyter notebooks from Napari and using artificial intelligence, namely bia-bob.
 
-Tags: Nfdi4Bioimage, Bioimage Analysis, Include In Dalia
+[https://zenodo.org/records/16812312](https://zenodo.org/records/16812312)
 
-[https://zenodo.org/records/17085991](https://zenodo.org/records/17085991)
-
-[https://doi.org/10.5281/zenodo.17085991](https://doi.org/10.5281/zenodo.17085991)
+[https://doi.org/10.5281/zenodo.16812312](https://doi.org/10.5281/zenodo.16812312)
 
 
 ---
