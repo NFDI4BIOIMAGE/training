@@ -24546,7 +24546,8 @@ resources:
   name: deep-learning-with-python-notebooks
   publication_date: '2017-09-05T19:47:56+00:00'
   submission_date: '2025-12-03T15:53:58.326791'
-  tags: TODO
+  tags: 
+  - artificial intelligence
   type: GitHub Repository
   url: https://github.com/fchollet/deep-learning-with-python-notebooks
   
