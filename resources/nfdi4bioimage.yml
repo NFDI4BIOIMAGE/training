@@ -25162,7 +25162,7 @@ resources:
 
 - authors:
   - Lea Kabjesz
-  name: OMERO Outputs: Insights from the 4th BioHackathon 2025
+  name: "OMERO Outputs: Insights from the 4th BioHackathon 2025"
   license: CC-BY-4.0
   proficiency_level: beginner
   tags:
