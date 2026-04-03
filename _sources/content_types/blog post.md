@@ -1,4 +1,4 @@
-# Blog post (33)
+# Blog post (34)
 ## Annotating 3D images in napari
 
 Mara Lampert
@@ -409,6 +409,23 @@ Tags: Open Source, Alphafold, Exclude From Dalia
 Content type: Report, Blog Post
 
 [https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/](https://www.statnews.com/sponsor/2024/11/26/new-report-highlights-the-scientific-impact-of-open-source-software/)
+
+
+---
+
+## OMERO Outputs: Insights from the 4th BioHackathon 2025
+
+Lea Kabjesz
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Microscopy Analysis, Hackathon, Bioimaging, OMERO
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/](https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/)
 
 
 ---

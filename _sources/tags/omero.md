@@ -1,4 +1,4 @@
-# Omero (43)
+# Omero (44)
 ## Accessible Interactive Spatial-Omics Data Visualizations with Vitessce and OMERO
 
 Bortolomeazzi Michele
@@ -428,6 +428,23 @@ Tags: OMERO, Include In Dalia
 Content type: Collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
+
+
+---
+
+## OMERO Outputs: Insights from the 4th BioHackathon 2025
+
+Lea Kabjesz
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Microscopy Analysis, Hackathon, Bioimaging, OMERO
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/](https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/)
 
 
 ---

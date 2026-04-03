@@ -1,4 +1,4 @@
-# Cc-by-4.0 (479)
+# Cc-by-4.0 (480)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -9498,6 +9498,23 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 [https://zenodo.org/records/14234608](https://zenodo.org/records/14234608)
 
 [https://doi.org/10.5281/zenodo.14234608](https://doi.org/10.5281/zenodo.14234608)
+
+
+---
+
+## OMERO Outputs: Insights from the 4th BioHackathon 2025
+
+Lea Kabjesz
+
+Licensed CC-BY-4.0
+
+
+
+Tags: Microscopy Analysis, Hackathon, Bioimaging, OMERO
+
+Content type: Blog Post
+
+[https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/](https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/)
 
 
 ---
