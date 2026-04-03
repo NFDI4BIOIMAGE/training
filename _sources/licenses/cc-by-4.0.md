@@ -1,4 +1,4 @@
-# Cc-by-4.0 (481)
+# Cc-by-4.0 (482)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -3982,6 +3982,25 @@ Tags: Include In Dalia
 
 ---
 
+## FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis - Version 2
+
+Katrin Frisch
+
+Published 2025-10-14
+
+Licensed CC-BY-4.0
+
+
+
+Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen. Die vorliegende Version 2 enth&auml;lt Updates und Erweiterungen der urspr&uuml;nglichen Fassung vom November 2024. Die FAQ beschr&auml;nken sich dabei auf generative KI, insbesondere Large Language Models (LLM), die Forschenden seit der Markteinf&uuml;hrung von ChatGPT im November 2022 in verschiedensten Tools zur Verf&uuml;gung stehen. Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen, ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung des Ombudsgremiums f&uuml;r die wissenschaftliche Integrit&auml;t in Deutschland (OWID) dar, sondern beschreiben den Status Quo und ordnen bereits bestehende Empfehlungen aus Sicht der GWP ein, identifizieren L&uuml;cken und verweisen auf weiterf&uuml;hrende Literatur. Diese FAQ richten sich prim&auml;r an Forschende sowie an Ombudspersonen, die Forschende in Bezug auf Fragen zur KI beraten. F&uuml;r die Nutzung von KI in der Lehre und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re KI-Richtlinien, angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen sowie Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen FAQ nicht besprochen.
+
+[https://zenodo.org/records/17349995](https://zenodo.org/records/17349995)
+
+[https://doi.org/10.5281/zenodo.17349995](https://doi.org/10.5281/zenodo.17349995)
+
+
+---
+
 ## Fiber and vessel dataset for segmentation and characterization
 
 Saqib Qamar, Baba, Abu Imran, Stèphane Verger, Magnus Andersson
@@ -5585,7 +5604,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-02-26
 
@@ -10806,7 +10825,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-11-14
 
@@ -12330,7 +12349,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-03-13
 
