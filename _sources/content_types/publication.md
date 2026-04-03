@@ -1,4 +1,4 @@
-# Publication (79)
+# Publication (80)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -382,6 +382,21 @@ Tags: Bioimage Analysis, Include In Dalia
 Content type: Publication
 
 [https://zenodo.org/records/10734599](https://zenodo.org/records/10734599)
+
+
+---
+
+## Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed.
+
+Tonya White, Elisabet Blok, Vince D Calhoun
+
+
+
+Content type: Publication
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC8675413/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8675413/)
+
+[https://doi.org/10.1002/hbm.25120](https://doi.org/10.1002/hbm.25120)
 
 
 ---
@@ -945,7 +960,7 @@ Content type: Event, Publication, Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -1356,7 +1371,7 @@ Content type: Publication
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
