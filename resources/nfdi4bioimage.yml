@@ -25147,7 +25147,7 @@ resources:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
 
-- name: Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed.
+- name: "Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed."
   type:
   - publication
   url: 
