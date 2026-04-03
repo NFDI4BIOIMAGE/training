@@ -1,4 +1,4 @@
-# Robert haase (78)
+# Robert haase (79)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -1688,6 +1688,27 @@ Tags: Python, Artifical Intelligence, Bioimage Analysis, Include In Dalia
 Content type: Github Repository, Slides
 
 [https://github.com/rmassei/ymia_python_event_series_material](https://github.com/rmassei/ymia_python_event_series_material)
+
+
+---
+
+## ai4medicine-2025
+
+Matthias Täschner, mxsunc, dsinas, Robert Haase, Asier Rabasco, Laura Žigutytė, kepler186f-git, mar-chem
+
+Published 2025-05-13T08:12:43+00:00
+
+Licensed CC-BY-4.0
+
+
+
+Resources and materials for a DataScience / AI training school for the medical domain, conducted as part of the Come2Data (https://come2data.de/) project.
+
+Tags: Todo
+
+Content type: Github Repository
+
+[https://github.com/ScaDS/ai4medicine-2025](https://github.com/ScaDS/ai4medicine-2025)
 
 
 ---
