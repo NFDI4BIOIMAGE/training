@@ -24183,6 +24183,20 @@ resources:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .pdf * .pptx
   uuid: 7d29de53-2fc0-43bc-a1db-e3726e8ab2c7
+
+- authors:
+  - Mona Perbix
+  - "Matthias L\xF6be"
+  description: ''
+  license: Creative Commons Attribution 4.0 International
+  name: MI-Lab-E04-FDM
+  publication_date: '2024-10-25T09:54:29+00:00'
+  submission_date: '2025-10-02T05:53:51.837117'
+  tags: Research Data Management
+  type: GitHub Repository
+  url: https://github.com/IMISE/MI-Lab-E04-FDM
+  
+  
 - authors:
   - Stervbo, Ulrik
   - Brilhaus, Dominik
