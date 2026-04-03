@@ -1744,7 +1744,7 @@ Content type: Slides
 
 ## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Licensed UNKNOWN
 
