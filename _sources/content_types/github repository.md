@@ -1,4 +1,4 @@
-# Github repository (73)
+# Github repository (74)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -344,6 +344,27 @@ Content type: Github Repository, Slides, Notebook
 
 ---
 
+## MI-Lab-E04-FDM
+
+Mona Perbix, Matthias Löbe
+
+Published 2024-10-25T09:54:29+00:00
+
+Licensed CC-BY-4.0
+
+
+
+
+
+Tags: Research Data Management
+
+Content type: Github Repository
+
+[https://github.com/IMISE/MI-Lab-E04-FDM](https://github.com/IMISE/MI-Lab-E04-FDM)
+
+
+---
+
 ## Multiplexed tissue imaging - tools and approaches
 
 Agustín Andrés Corbat, OmFrederic, Jonas Windhager, Kristína Lidayová
@@ -542,7 +563,7 @@ Content type: Github Repository
 
 ## Plugin "omero-cli-transfer"
 
-Erick Martins Ratamero, jean-marie burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
+Erick Martins Ratamero, Jean-Marie Burel, Will Moore, Guillaume Gay, Christoph Moehl, et al.
 
 Published 2024-09-14
 
@@ -563,7 +584,7 @@ Content type: Github Repository
 
 ## Plugin "simple-omero-client"
 
-Pierre Pouchin, Rdornier, kekunn, jean-marie burel
+Pierre Pouchin, Rdornier, kekunn, Jean-Marie Burel
 
 Licensed GPL-2.0
 
@@ -1202,7 +1223,7 @@ Content type: Github Repository, Application
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 
