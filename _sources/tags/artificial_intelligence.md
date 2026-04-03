@@ -1,4 +1,4 @@
-# Artificial intelligence (54)
+# Artificial intelligence (55)
 ## AI ML DL in Bioimage Analysis - Webinar
 
 Yannick KREMPP
@@ -989,6 +989,27 @@ Tags: Artificial Intelligence, Bioimage Analysis, Exclude From Dalia
 Content type: Github Repository
 
 [https://github.com/bioimage-io/bioimageio-chatbot](https://github.com/bioimage-io/bioimageio-chatbot)
+
+
+---
+
+## deep-learning-with-python-notebooks
+
+François Chollet, Matt Watson, Raja Nandhan, Derek Chia, Kuz-man, Aziz Alto, Boutaounte Faissal, Rama Ramakrishnan
+
+Published 2017-09-05T19:47:56+00:00
+
+Licensed MIT
+
+
+
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository
+
+[https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 
 ---

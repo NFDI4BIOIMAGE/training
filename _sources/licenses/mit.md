@@ -1,4 +1,4 @@
-# Mit (32)
+# Mit (33)
 ## 2023_CourseImageAnalysis_NanoCell
 
 Fernanda Fossa
@@ -593,6 +593,27 @@ Tags: Workflow, Research Data Management, Exclude From Dalia
 Content type: Tutorial
 
 [https://git.embl.de/grp-cba/cba-support-template](https://git.embl.de/grp-cba/cba-support-template)
+
+
+---
+
+## deep-learning-with-python-notebooks
+
+François Chollet, Matt Watson, Raja Nandhan, Derek Chia, Kuz-man, Aziz Alto, Boutaounte Faissal, Rama Ramakrishnan
+
+Published 2017-09-05T19:47:56+00:00
+
+Licensed MIT
+
+
+
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository
+
+[https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 
 ---

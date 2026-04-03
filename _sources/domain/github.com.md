@@ -1,4 +1,4 @@
-# Github.com (152)
+# Github.com (153)
 ## 2020 BioImage Analysis Survey: Community experiences and needs for the future
 
 Nasim Jamali, Ellen T. A. Dobson, Kevin W. Eliceiri, Anne E. Carpenter, Beth A. Cimini
@@ -2243,6 +2243,27 @@ Tags: Research Data Management, Exclude From Dalia
 Content type: Github Repository, Software
 
 [https://github.com/tstoeter/datenbiene](https://github.com/tstoeter/datenbiene)
+
+
+---
+
+## deep-learning-with-python-notebooks
+
+François Chollet, Matt Watson, Raja Nandhan, Derek Chia, Kuz-man, Aziz Alto, Boutaounte Faissal, Rama Ramakrishnan
+
+Published 2017-09-05T19:47:56+00:00
+
+Licensed MIT
+
+
+
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
+Tags: Artificial Intelligence
+
+Content type: Github Repository
+
+[https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 
 ---
