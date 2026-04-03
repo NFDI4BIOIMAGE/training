@@ -1,4 +1,4 @@
-# Robert haase (76)
+# Robert haase (77)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -1557,6 +1557,26 @@ Tags: Nfdi4Bioimage, Artificial Intelligence, Include In Dalia
 [https://zenodo.org/records/14043615](https://zenodo.org/records/14043615)
 
 [https://doi.org/10.5281/zenodo.14043615](https://doi.org/10.5281/zenodo.14043615)
+
+
+---
+
+## Using Large Language Models for Bio-image Analysis
+
+Robert Haase
+
+Published 2025-09-04
+
+Licensed CC-BY-4.0
+
+
+
+In this slide-deck we learn how prompt large language models for bio-image analysis code and how to do this in Jupyter notebooks using bia-bob, a tool integrated in jupyter notebooks for AI-assisted code editing and notebook generation.
+&nbsp;
+
+[https://zenodo.org/records/17053832](https://zenodo.org/records/17053832)
+
+[https://doi.org/10.5281/zenodo.17053832](https://doi.org/10.5281/zenodo.17053832)
 
 
 ---

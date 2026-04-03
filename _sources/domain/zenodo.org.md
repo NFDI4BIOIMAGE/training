@@ -1,4 +1,4 @@
-# Zenodo.org (396)
+# Zenodo.org (397)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -5053,7 +5053,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-02-26
 
@@ -9862,7 +9862,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-11-14
 
@@ -11270,7 +11270,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-03-13
 
@@ -11558,6 +11558,26 @@ Summary of new features and use cases of transformation metadata in the upcoming
 [https://zenodo.org/records/19335305](https://zenodo.org/records/19335305)
 
 [https://doi.org/10.5281/zenodo.19335305](https://doi.org/10.5281/zenodo.19335305)
+
+
+---
+
+## Using Large Language Models for Bio-image Analysis
+
+Robert Haase
+
+Published 2025-09-04
+
+Licensed CC-BY-4.0
+
+
+
+In this slide-deck we learn how prompt large language models for bio-image analysis code and how to do this in Jupyter notebooks using bia-bob, a tool integrated in jupyter notebooks for AI-assisted code editing and notebook generation.
+&nbsp;
+
+[https://zenodo.org/records/17053832](https://zenodo.org/records/17053832)
+
+[https://doi.org/10.5281/zenodo.17053832](https://doi.org/10.5281/zenodo.17053832)
 
 
 ---
