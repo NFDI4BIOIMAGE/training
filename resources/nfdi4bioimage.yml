@@ -5981,7 +5981,7 @@ resources:
   - include in DALIA
   type:
   - Publication
-  publication_date: ' 2018-10-22'
+  publication_date: '2018-10-22'
   url:
   - https://bausteine-fdm.de/article/view/7945
   - https://doi.org/10.17192/bfdm.2018.1.7945
@@ -14515,7 +14515,7 @@ resources:
   - Tutorial
   - Slides
   license: cc-by-4.0
-  publication_date: 2025-05-12:T13:37:00+00:00
+  publication_date: '2025-05-12'
   tags:
   - NFDI4Bioimage
   - jipipe
@@ -19998,7 +19998,6 @@ resources:
   name: Expansion and fluctuations-enhanced microscopy for nanoscale molecular profiling
     of cells and tissues - Data processing manual
   num_downloads: 156
-  publication_date: 2023/2024
   submission_date: '2025-07-05T21:50:21.910963'
   url:
   - https://zenodo.org/records/13897937
@@ -23860,7 +23859,8 @@ resources:
   - include in DALIA
   type: GitHub Repository
   url: https://github.com/kaabl/PygamePrompts
-- authors: 
+  uuid: b2c515fb-e34d-4906-b5f8-0fb8ca669763
+- authors:
   - Florian Ingelfinger
   - Nathan Levy
   - Can Ergen
@@ -23876,7 +23876,11 @@ resources:
   - Corinne C. Widmer
   - Ido Amit
   - Nir Yosef
-  description: 'CytoVI is a probabilistic generative model that enables statistically rigorous and integrative analysis of antibody-based single cell technologies, outperforming existing methods and enabling key functionalities like cell embeddings and differential protein expression testing, with applications in B cell maturation, non-Hodgkin lymphoma, and diagnostic flow cytometry.'
+  description: CytoVI is a probabilistic generative model that enables statistically
+    rigorous and integrative analysis of antibody-based single cell technologies,
+    outperforming existing methods and enabling key functionalities like cell embeddings
+    and differential protein expression testing, with applications in B cell maturation,
+    non-Hodgkin lymphoma, and diagnostic flow cytometry.
   license: CC-BY-4.0
   name: CytoVI Deep generative modeling of antibody-based single cell technologies
   publication_date: '2025-09-12'
@@ -23888,9 +23892,11 @@ resources:
   - Preprint
   url: https://www.biorxiv.org/content/10.1101/2025.09.07.674699v1
   language: en
-- authors: 
+  uuid: 78a6739e-5068-4d85-bf7d-c3d79e001c26
+- authors:
   - Alberto Díez
-  description: 'Introduction to basic concepts and tools needed to set up Python for bioimage analysis on Windows. '
+  description: 'Introduction to basic concepts and tools needed to set up Python for
+    bioimage analysis on Windows. '
   license: UNKNOWN
   name: Python for Bioimage Analysis Basic Tools and Setup on Windows
   publication_date: '2025-09-04'
@@ -23901,18 +23907,23 @@ resources:
   - Video
   url: https://youtu.be/tzdFuxF2E3U
   language: en
-- authors: 
+  uuid: ac29d368-d4f0-4b70-b2fd-d65a7b5a025e
+- authors:
   - Riccardo Massei
   - Wibke Busch
   - Beatriz Serrano-Solano
   - Matthias Bernt
   - Stefan Scholz
   - Elena K. Nicolay
-  - Hannes Bohring 
-  - Jan Bumberger 
-  description: 'This study demonstrates the use of Workflow Management Systems (WMS) and the OMERO platform to create reusable semi-automatic workflows for managing high-content screening (HCS) bioimaging data, improving data management efficiency, reducing errors, and providing a blueprint for future HCS data management systems.'
+  - Hannes Bohring
+  - Jan Bumberger
+  description: This study demonstrates the use of Workflow Management Systems (WMS)
+    and the OMERO platform to create reusable semi-automatic workflows for managing
+    high-content screening (HCS) bioimaging data, improving data management efficiency,
+    reducing errors, and providing a blueprint for future HCS data management systems.
   license: CC-BY-4.0
-  name: High-content screening (HCS) workflows for FAIR image data management with OMERO
+  name: High-content screening (HCS) workflows for FAIR image data management with
+    OMERO
   publication_date: '2025-05-09'
   tags:
   - Bioimage Analysis
@@ -23922,12 +23933,15 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41598-025-00720-0
   language: en
-- authors: 
+  uuid: 88fe8efa-7012-4235-bbd0-631cf334043c
+- authors:
   - Niraj Kandpal
   - Peter Zentis
   - Monica Valencia-Schneider
   - Astrid Schauss
-  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange. This describes the relevant metadata to transfer from OMERO to ARC and the other way round. '
+  description: 'A tutorial for OMERO and ARC Interoprability and (meta)data exchange.
+    This describes the relevant metadata to transfer from OMERO to ARC and the other
+    way round. '
   license: CC-BY-4.0
   name: OMERO and ARC Workflow
   publication_date: '2025-04-15'
@@ -23939,10 +23953,20 @@ resources:
   - Slides
   url: https://zenodo.org/records/15225616
   language: en
-- authors: 
+  uuid: 11effefc-ea15-4ff5-b4fe-9760cb90a28b
+  authors_with_orcid:
+  - Niraj Kandpal https://orcid.org/0009-0007-5101-4786
+  - Peter Zentis https://orcid.org/0000-0002-6999-132X
+  - Monica Valencia-Schneider https://orcid.org/0000-0003-3430-2683
+  - Astrid Schauss https://orcid.org/0000-0002-6658-2192
+  file_formats: .pdf
+- authors:
   - Josh Moore
   - Yi Sun
-  description: 'In this talk, we will be discussing OME-ZARR, a cloud-optimized format for scalable bioimage data management, and BARD,  a cloud virtual desktop that provides a seamless way to run resource-intensive applications in the cloud, enabling users to access powerful computing environments from any device with a web browser.'
+  description: In this talk, we will be discussing OME-ZARR, a cloud-optimized format
+    for scalable bioimage data management, and BARD,  a cloud virtual desktop that
+    provides a seamless way to run resource-intensive applications in the cloud, enabling
+    users to access powerful computing environments from any device with a web browser.
   license: UNKNOWN
   name: NFDITalk Cloud based image data science
   publication_date: '2025-06-02'
@@ -23954,7 +23978,8 @@ resources:
   - Video
   url: https://www.youtube.com/watch?v=bzfmE29S270
   language: en
-- authors: 
+  uuid: 28cc634c-f16a-4bc4-b731-eb64e048e60d
+- authors:
   - Jens Dierkes
   - Julia Fürst
   - Tanja Hörner
@@ -23965,9 +23990,15 @@ resources:
   - Carsten Oliver Schmidt
   - Dagmar Waltemath
   - Atinkut Zeleke
-  description: 'This handbook provides an overview of Research Data Management (RDM) and FAIR principles, with a focus on practical implementation and training for master students, doctoral researchers, and professionals in biomedical sciences. The handbook is a living document that will be updated iteratively to address the specific needs and requirements of the target group, with a focus on the NFDI4Health domain.'
+  description: This handbook provides an overview of Research Data Management (RDM)
+    and FAIR principles, with a focus on practical implementation and training for
+    master students, doctoral researchers, and professionals in biomedical sciences.
+    The handbook is a living document that will be updated iteratively to address
+    the specific needs and requirements of the target group, with a focus on the NFDI4Health
+    domain.
   license: CC-BY-4.0
-  name: Training concepts in research data management and data science with the focus on health research
+  name: Training concepts in research data management and data science with the focus
+    on health research
   publication_date: '2023-08-22'
   tags:
   - FAIR-Principles
@@ -23977,9 +24008,11 @@ resources:
   - Publication
   url: https://repository.publisso.de/resource/frl:6453768
   language: en
-- authors: 
+  uuid: fc75b6f0-f29f-40bb-b76d-6c0e0eb738da
+- authors:
   - Fabio Crameri
-  description: 'Scientific, colour-vision deficiency friendly and perceptually-uniform colour maps that include all readers and significantly reduce visual errors.'
+  description: Scientific, colour-vision deficiency friendly and perceptually-uniform
+    colour maps that include all readers and significantly reduce visual errors.
   license: All rights reserved
   name: Scientific colour maps
   publication_date: '2023-10-05'
@@ -23991,9 +24024,14 @@ resources:
   - Website
   url: https://www.fabiocrameri.ch/colourmaps/
   language: en
-- authors: 
-  - Helena Klara Jambor 
-  description: 'Creating clear and engaging scientific figures is crucial to communicate complex data. In this Comment, I condense principles from design, visual perception and data visualization research in a checklist that can help researchers to improve their data visualization, by focusing on clarity, accessibility and design best practices.'
+  uuid: cd1c6e64-73ae-415f-bd3c-a1c407763b46
+- authors:
+  - Helena Klara Jambor
+  description: Creating clear and engaging scientific figures is crucial to communicate
+    complex data. In this Comment, I condense principles from design, visual perception
+    and data visualization research in a checklist that can help researchers to improve
+    their data visualization, by focusing on clarity, accessibility and design best
+    practices.
   license: Copyright
   name: A checklist for designing and improving the visualization of scientific data
   publication_date: '2025-06-13'
@@ -24005,9 +24043,13 @@ resources:
   - Publication
   url: https://www.nature.com/articles/s41556-025-01684-z.pdf
   language: en
-- authors: 
+  uuid: effd10a7-6f1a-4f1e-948c-802bf16e6699
+- authors:
   - Booz Allen Hamilton
-  description: 'This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithms ability to generalize across these variations.'
+  description: This dataset contains a large number of segmented nuclei images. The
+    images were acquired under a variety of conditions and vary in the cell type,
+    magnification, and imaging modality (brightfield vs. fluorescence). The dataset
+    is designed to challenge an algorithms ability to generalize across these variations.
   license: Restrictive license
   name: 2018 Data Science Bowl
   publication_date: '2018-01-16'
@@ -24020,7 +24062,8 @@ resources:
   - Data
   url: https://www.kaggle.com/c/data-science-bowl-2018/data
   language: en
-- authors: 
+  uuid: dfafa540-14b7-4e34-896d-5b19c531a0b5
+- authors:
   - Stephan Wienert
   - Daniel Heim
   - Kai Saeger
@@ -24028,11 +24071,16 @@ resources:
   - Michael Beil
   - Peter Hufnagl
   - Manfred Dietel
-  - Carsten Denkert 
-  - Frederick Klauschen 
-  description: 'A novel contour-based approach to cell detection and segmentation has been developed, which uses minimal prior information and detects contours independently of their shape, avoiding a segmentation bias. This approach has been shown to accurately segment a broad range of normal and disease-related morphological features, with high precision and recall rates.'
+  - Carsten Denkert
+  - Frederick Klauschen
+  description: A novel contour-based approach to cell detection and segmentation has
+    been developed, which uses minimal prior information and detects contours independently
+    of their shape, avoiding a segmentation bias. This approach has been shown to
+    accurately segment a broad range of normal and disease-related morphological features,
+    with high precision and recall rates.
   license: CC-BY-NC-SA-3.0
-  name: Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model Approach
+  name: Detection and Segmentation of Cell Nuclei in Virtual Microscopy Images A Minimum-Model
+    Approach
   publication_date: '2012-07-11'
   tags:
   - Nuclei images
@@ -24042,14 +24090,19 @@ resources:
   - Data
   url: https://www.nature.com/articles/srep00503#Sec16
   language: en
-- authors: 
+  uuid: 712f20ca-21fc-4cf6-8b06-5349006979c1
+- authors:
   - Naylor Peter Jack
   - Walter Thomas
   - Laé Marick
   - Reyal Fabien
-  description: 'This dataset has been annonced in our accepted paper "Segmentation of Nuclei in Histopathology Images by deep regression of the distance map" in Transcation on Medical Imaging on the 13th of August. This dataset consists of 50 annotated images, divided into 11 patients.'
+  description: This dataset has been annonced in our accepted paper "Segmentation
+    of Nuclei in Histopathology Images by deep regression of the distance map" in
+    Transcation on Medical Imaging on the 13th of August. This dataset consists of
+    50 annotated images, divided into 11 patients.
   license: CC-BY-4.0
-  name: Segmentation of Nuclei in Histopathology Images by deep regression of the distance map
+  name: Segmentation of Nuclei in Histopathology Images by deep regression of the
+    distance map
   publication_date: '2018-02-16'
   tags:
   - Nuclei images
@@ -24057,8 +24110,10 @@ resources:
   - exclude from DALIA
   type:
   - Data
-  url: https://zenodo.org/records/1175282#.WyP61xy-l5E 
+  url: https://zenodo.org/records/1175282#.WyP61xy-l5E
   language: en
+  uuid: acee2628-5a74-40fe-98c0-8c3fe3dc73fc
+  file_formats: null
 - authors:
   - Haase, Robert
   description: This slides covers aspects of research data management (RDM) and open
@@ -24072,6 +24127,10 @@ resources:
   url:
   - https://zenodo.org/records/17174207
   - https://doi.org/10.5281/zenodo.17174207
+  uuid: b85a3396-ba20-4e22-b4ef-0cf336ff2c9e
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Alxneit, Ivo
   license: cc-by-4.0
@@ -24082,6 +24141,10 @@ resources:
   url:
   - https://zenodo.org/records/17176730
   - https://doi.org/10.5281/zenodo.17176730
+  uuid: a938b445-43ed-49a5-8c34-d7492a165d43
+  authors_with_orcid:
+  - Ivo Alxneit
+  file_formats: .dm4
 
 - authors:
   - "Matthias T\xE4schner"
@@ -24102,3 +24165,2046 @@ resources:
   type: GitHub Repository
   url: https://github.com/ScaDS/ai4medicine-2025
   
+
+- authors:
+  - Haase, Robert
+  description: This slides covers aspects of research data management (RDM) and open
+    science such as the RDM life cylce, FAIR principles, sharing data on Zenodo, rights
+    and duties of scientists in the RDM context.
+  license: cc-by-4.0
+  name: Research Data Management
+  num_downloads: 120
+  publication_date: '2025-09-23'
+  submission_date: '2025-09-30T11:19:57.375119'
+  url:
+  - https://zenodo.org/records/17186869
+  - https://doi.org/10.5281/zenodo.17186869
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
+  uuid: 7d29de53-2fc0-43bc-a1db-e3726e8ab2c7
+- authors:
+  - Stervbo, Ulrik
+  - Brilhaus, Dominik
+  - Vandendorpe, Justine
+  - Fürst, Julia
+  - Weidtkamp-Peters, Stefanie
+  description: 'Presentation at the HHU Core Facility Day 2025
+
+    18.09.2025, University of D&uuml;sseldorf
+
+    &nbsp;
+
+    NFDI consortia are legally non-independent projects that do not act autonomously
+    towards third parties. The authors of this presentation represent the contributions
+    to these projects as members of their affiliated institutions, which are members
+    of the NFDI e.V.'
+  license: cc-by-4.0
+  name: NFDI Life Science Consortia – Supporting your journey to FAIR research data
+  num_downloads: 16
+  publication_date: '2025-10-02'
+  submission_date: '2025-10-07T11:19:38.502429'
+  url:
+  - https://zenodo.org/records/17251110
+  - https://doi.org/10.5281/zenodo.17251110
+  file_formats: .pdf
+  authors_with_orcid:
+  - Ulrik Stervbo https://orcid.org/0000-0002-2831-8868
+  - Dominik Brilhaus https://orcid.org/0000-0001-9021-3197
+  - Justine Vandendorpe https://orcid.org/0000-0002-9421-8582
+  - Julia Fürst
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  uuid: 65c81b9b-87ab-4040-adec-487f7c4e89af
+- authors:
+  - Instruct-ERIC
+  - Euro-BioImaging ERIC
+  - Institut Pasteur de Montevideo
+  - Institut Pasteur
+  - Universidade de São Paulo
+  - Universidad de la República
+  - Chan Zuckerberg Initiative (United States)
+  - Universidad de la Ciudad de Buenos Aires
+  - Universidade Federal do Rio de Janeiro
+  - Brazilian Center for Research in Energy and Materials
+  description: 'This White Paper outlines a strategic approach to further develop
+    the collaboration among Research Infrastructures (RIs) in the European Union (EU)
+    and the Community of Latin American and Caribbean States (CELAC, for its acronym
+    in Spanish/Portuguese), prioritising long-term planning and commitment, sustainability,
+    open access, and scientific excellence. Building upon existing policy frameworks,
+    particularly the EU-CELAC Working Group on Research Infrastructures, this document
+    proposes concrete mechanisms to strengthen bi-regional cooperation in research
+    and innovation, in the context of shared values and global scientific needs.
+
+    Research Infrastructures (RIs) are key enablers of scientific progress and innovation,
+    especially in advanced domains such as artificial intelligence, big data, and
+    biomedicine. Their value lies not only in the high performance of their sophisticated
+    equipment, but also in the advanced expertise of RI researchers and technical
+    staff. Global challenges&mdash;like pandemics, climate change, and energy transition&mdash;require
+    robust and internationally connected RIs supported by stable, long-term institutional
+    commitments.
+
+    This White Paper focuses on strengthening RI collaboration between European and
+    CELAC countries, particularly in Bioimaging and Structural Biology, which already
+    have established network partnerships through Euro-BioImaging ERIC / Latin America
+    BioImaging, and Instruct-ERIC / Mercosur Structural Biology Center. The document
+    serves as a roadmap for expanding EU&ndash;CELAC cooperation, building upon previous
+    collaborative projects, and proposing new mechanisms for sustainable engagement.'
+  license: cc-by-4.0
+  name: 'Global cooperation in Research Infrastructures: the EU-CELAC case, with focus
+    on bioimaging and structural biology'
+  num_downloads: 197
+  publication_date: '2025-09-18'
+  submission_date: '2025-10-07T11:20:16.047502'
+  url:
+  - https://zenodo.org/records/17152974
+  - https://doi.org/10.5281/zenodo.17152974
+  file_formats: .pdf
+  authors_with_orcid:
+  - Instruct-ERIC
+  - Euro-BioImaging ERIC
+  - Institut Pasteur de Montevideo
+  - Institut Pasteur
+  - Universidade de São Paulo
+  - Universidad de la República
+  - Chan Zuckerberg Initiative (United States)
+  - Universidad de la Ciudad de Buenos Aires
+  - Universidade Federal do Rio de Janeiro
+  - Brazilian Center for Research in Energy and Materials
+  uuid: 8caf58e1-7790-4a8f-8b1a-c87a24573da3
+- authors:
+  - Rappe, Anna
+  description: 'Test data, for reference see link below.
+
+    https://forum.image.sc/t/how-to-open-ims-files-in-fiji-on-mac/116781'
+  license: cc-by-4.0
+  name: 'Test data for Bioformats Issue #116781'
+  num_downloads: 1
+  publication_date: '2025-10-03'
+  submission_date: '2025-10-07T11:20:50.206288'
+  url:
+  - https://zenodo.org/records/17257407
+  - https://doi.org/10.5281/zenodo.17257407
+  file_formats: .ims
+  authors_with_orcid:
+  - Anna Rappe
+  uuid: 124ab0e1-b9fd-4e3f-bfdb-03b24c7946c2
+  
+  
+
+- authors:
+  - Haase, Robert
+  description: In this slide deck we dive into Large Language Models (LLMs) and Vision
+    Language Models (VLMs) for Bio-image Analysis. We test their capabilities for object
+    counting, pointing at objects and drawing bounding boxes around them. We also dive
+    into VLMs deciding for segmentation algorithms and LLMs for code generation. We
+    see bia-bob, git-bob and [alice] in action, which represent three generations of
+    AI-based coding assistants analysing image data increasingly autonomously.
+  license: cc-by-4.0
+  name: How Large Language Models impact Bio-Image Data Science
+  num_downloads: 189
+  publication_date: '2025-09-11'
+  submission_date: '2025-10-14T14:36:08.987371'
+  url:
+  - https://zenodo.org/records/17102027
+  - https://doi.org/10.5281/zenodo.17102027
+  
+
+- authors:
+  - Haase, Robert
+  description: 'In this slide-deck we learn how prompt large language models for bio-image
+    analysis code and how to do this in Jupyter notebooks using bia-bob, a tool integrated
+    in jupyter notebooks for AI-assisted code editing and notebook generation.
+  
+    &nbsp;'
+  license: cc-by-4.0
+  name: Using Large Language Models for Bio-image Analysis
+  num_downloads: 170
+  publication_date: '2025-09-04'
+  submission_date: '2025-10-14T14:34:27.967701'
+  url:
+  - https://zenodo.org/records/17053832
+  - https://doi.org/10.5281/zenodo.17053832
+
+- authors:
+  - Haase, Robert
+  description: In this slide deck we learn how to write reproducible bio-image analysis
+    code in Jupyter notebooks. Goal is not just to have code running elsewhere reproducibly,
+    but also enabling others to understand workflows to enable them reproducing the
+    analysis also in their mind and potentially other tools. Additionally we cover how
+    to generate Jupyter notebooks from Napari and using artificial intelligence, namely
+    bia-bob.
+  license: cc-by-4.0
+  name: Reproducible Bio-Image Analysis using Python, Napari, Jupyter and AI
+  num_downloads: 434
+  publication_date: '2025-08-12'
+  submission_date: '2025-10-14T14:37:31.849023'
+  url:
+  - https://zenodo.org/records/16812312
+  - https://doi.org/10.5281/zenodo.16812312
+  
+- authors:
+  - Zobel, Thomas
+  description: 'MetaFold simplifies laboratory data management through easy-to-use
+    templates that create reproducible metadata.It reduces manual steps by automatically
+    generating folder structures and metadata files at multiple locations simultaneously.Thanks
+    to its integration with OMERO and ELNs, microscopy data can be automatically imported
+    based on the existing metadata &mdash; saving researchers significant time and
+    effort.
+
+    Core functions
+
+
+
+    Template-based creation of project folders and metadata forms
+
+
+
+    Multi-user and group-level configuration
+
+
+
+    Secure credential storage and user authentication
+
+
+
+    Direct integrations with elabFTW (ELN) and OMERO (image data management)
+
+
+
+    Project discovery: recursive scan and visualization of existing data
+
+
+
+    Category system: customizable templates by project type
+
+
+    '
+  license: cc-by-4.0
+  name: MetaFold - Template-Driven Desktop Tool to Sync, Enrich, and Automate Your
+    Research Data
+  num_downloads: 23
+  publication_date: '2025-10-08'
+  submission_date: '2025-10-21T11:20:17.690525'
+  url:
+  - https://zenodo.org/records/17296688
+  - https://doi.org/10.5281/zenodo.17296688
+  uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+
+- authors:
+  - Barry, David
+  description: Slides presented at Empowering Healthcare with Automated Analysis at
+    London Metropolitan University on 29th January 2025
+  license: cc-by-sa-4.0
+  name: Promoting Reproducibility in Biomedical Research through Image Analysis
+  num_downloads: 51
+  publication_date: '2025-01-29'
+  submission_date: '2025-10-29T06:50:37.005703'
+  url:
+  - https://zenodo.org/records/14767945
+  - https://doi.org/10.5281/zenodo.14767945
+  
+- authors:
+  - Barry, David
+  description: ARRIVE 2.0 checklist for &quot;Automated staging of zebrafish embryos
+    using machine learning&quot;
+  license: cc-by-4.0
+  name: ARRIVE 2.0 checklist for "Automated staging of zebrafish embryos using machine
+    learning"
+  num_downloads: 39
+  publication_date: '2022-10-14'
+  submission_date: '2025-10-29T06:50:37.758457'
+  url:
+  - https://zenodo.org/records/7198533
+  - https://doi.org/10.5281/zenodo.7198533
+  
+- authors:
+  - Barry, David
+  - Fallesen, Todd
+  license: cc-by-4.0
+  name: Multi-dimensional Imaging and Analysis Workshop
+  num_downloads: 4
+  publication_date: '2024-09-24'
+  submission_date: '2025-10-29T06:50:38.437827'
+  url:
+  - https://zenodo.org/records/13832613
+  - https://doi.org/10.5281/zenodo.13832613
+
+- authors:
+  - Kather, Jakob Nikolas
+  - Halama, Niels
+  - Marx, Alexander
+  description: "Data Description &quot;NCT-CRC-HE-100K&quot;\n\n\n\tThis is a set of\
+    \ 100,000 non-overlapping image patches from hematoxylin &amp; eosin (H&amp;E) stained\
+    \ histological images of human colorectal cancer (CRC) and normal tissue.\n\tAll\
+    \ images are 224x224 pixels (px) at 0.5 microns per pixel (MPP). All images are\
+    \ color-normalized using Macenko&#39;s method (http://ieeexplore.ieee.org/abstract/document/5193250/,\
+    \ DOI 10.1109/ISBI.2009.5193250).\n\tTissue classes are: Adipose (ADI), background\
+    \ (BACK), debris (DEB), lymphocytes (LYM), mucus (MUC), smooth muscle (MUS), normal\
+    \ colon mucosa (NORM), cancer-associated stroma (STR), colorectal adenocarcinoma\
+    \ epithelium (TUM).\n\tThese images were manually extracted from N=86 H&amp;E stained\
+    \ human cancer tissue slides from formalin-fixed paraffin-embedded (FFPE) samples\
+    \ from the NCT Biobank (National Center for Tumor Diseases, Heidelberg, Germany)\
+    \ and the UMM pathology archive (University Medical Center Mannheim, Mannheim, Germany).\
+    \ Tissue samples contained CRC primary tumor slides and tumor tissue from CRC liver\
+    \ metastases; normal tissue classes were augmented with non-tumorous regions from\
+    \ gastrectomy specimen to increase variability.\n\n\nEthics statement &quot;NCT-CRC-HE-100K&quot;\n\
+    \nAll experiments were conducted in accordance with the Declaration of Helsinki,\
+    \ the International Ethical Guidelines for Biomedical Research Involving Human Subjects\
+    \ (CIOMS), the Belmont Report and the U.S. Common Rule. Anonymized archival tissue\
+    \ samples were retrieved from the tissue bank of the National Center for Tumor diseases\
+    \ (NCT, Heidelberg, Germany) in accordance with the regulations of the tissue bank\
+    \ and the approval of the ethics committee of Heidelberg University (tissue bank\
+    \ decision numbers 2152 and 2154, granted to Niels Halama and Jakob Nikolas Kather;\
+    \ informed consent was obtained from all patients as part of the NCT tissue bank\
+    \ protocol, ethics board approval S-207/2005, renewed on 20 Dec 2017). Another set\
+    \ of tissue samples was provided by the pathology archive at UMM (University Medical\
+    \ Center Mannheim, Heidelberg University, Mannheim, Germany) after approval by the\
+    \ institutional ethics board (Ethics Board II at University Medical Center Mannheim,\
+    \ decision number 2017-806R-MA, granted to Alexander Marx and waiving the need for\
+    \ informed consent for this retrospective and fully anonymized analysis of archival\
+    \ samples).\n\nData set &quot;CRC-VAL-HE-7K&quot;\n\nThis is a set of 7180 image\
+    \ patches from N=50 patients with colorectal adenocarcinoma (no overlap with patients\
+    \ in NCT-CRC-HE-100K). It can be used as a validation set for models trained on\
+    \ the larger data set. Like in the larger data set, images are 224x224 px at 0.5\
+    \ MPP. All tissue samples were provided by the NCT tissue bank, see above for further\
+    \ details and ethics statement.\n\nData set &quot;NCT-CRC-HE-100K-NONORM&quot;\n\
+    \nThis is a slightly different version of the &quot;NCT-CRC-HE-100K&quot; image\
+    \ set: This set contains 100,000 images in 9 tissue classes at 0.5 MPP and was created\
+    \ from the same raw data as &quot;NCT-CRC-HE-100K&quot;. However, no color normalization\
+    \ was applied to these images. Consequently, staining intensity and color slightly\
+    \ varies between the images. Please note that although this image set was created\
+    \ from the same data as &quot;NCT-CRC-HE-100K&quot;, the image regions are not completely\
+    \ identical because the selection of non-overlapping tiles from raw images was a\
+    \ stochastic process.\n\nGeneral comments\n\nPlease note that the classes are only\
+    \ roughly balanced. Classifiers should never be evaluated based on accuracy in the\
+    \ full set alone. Also, if a high risk of training bias is excepted, balancing the\
+    \ number of cases per class is recommended."
+  license: cc-by-4.0
+  name: 100,000 histological images of human colorectal cancer and healthy tissue
+  num_downloads: 77755
+  publication_date: '2018-04-07'
+  submission_date: '2025-10-24T12:55:37.087232'
+  url:
+  - https://zenodo.org/records/1214456
+  - https://doi.org/10.5281/zenodo.1214456
+  
+- authors:
+  - Barry, David
+  description: 'Reproducibility is a cornerstone of robust biomedical research, yet
+    challenges persist, particularly in the complex domains of AI and bioimage informatics/analysis.
+    In this presentation, I discuss the critical need for enhanced reproducibility in
+    image-based biological studies and detail some strategies implemented at the Francis
+    Crick Institute. Our Image Analysis Group aims to empower researchers with the tools
+    and knowledge to independently analyse their data, focusing on key pillars: training,
+    standardization, informed interpretation and self-sufficiency. Through dedicated
+    workshops, we have taught hundreds of researchers fundamental image analysis concepts,
+    emphasizing the impact of image quality and appropriate quantification on data reliability.
+    I will also showcase some practical examples of our work and the challenges associated
+    with ensuring they can be used reproducibly by others. Finally, I will discuss our
+    latest work on common pitfalls in image data interpretation, highlighting the importance
+    of rigorous image quality control.'
+  license: cc-by-4.0
+  name: Promoting Reproducibility in Biomedical Research
+  num_downloads: 18
+  publication_date: '2025-10-17'
+  submission_date: '2025-10-29T06:36:04.564688'
+  url:
+  - https://zenodo.org/records/17377255
+  - https://doi.org/10.5281/zenodo.17377255
+
+- authors:
+  - Frisch, Katrin
+  description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
+    k&uuml;nstlicher Intelligenz (KI) und guter wissenschaftlicher Praxis (GWP) erreichen.
+    Die vorliegende Version 2 enth&auml;lt Updates und Erweiterungen der urspr&uuml;nglichen
+    Fassung vom November 2024. Die FAQ beschr&auml;nken sich dabei auf generative KI,
+    insbesondere Large Language Models (LLM), die Forschenden seit der Markteinf&uuml;hrung
+    von ChatGPT im November 2022 in verschiedensten Tools zur Verf&uuml;gung stehen.
+    Die Antworten sollen bei der Orientierung in einem schnelllebigen Thema helfen,
+    ohne dabei pr&auml;skriptiv zu sein. Sie stellen keine offizielle Positionierung
+    des Ombudsgremiums f&uuml;r die wissenschaftliche Integrit&auml;t in Deutschland
+    (OWID) dar, sondern beschreiben den Status Quo und ordnen bereits bestehende Empfehlungen
+    aus Sicht der GWP ein, identifizieren L&uuml;cken und verweisen auf weiterf&uuml;hrende
+    Literatur. Diese FAQ richten sich prim&auml;r an Forschende sowie an Ombudspersonen,
+    die Forschende in Bezug auf Fragen zur KI beraten. F&uuml;r die Nutzung von KI in
+    der Lehre und in studentischen (Qualifikations-)Arbeiten sind i.d.R. universit&auml;re
+    KI-Richtlinien, angepasste Pr&uuml;fungsordnungen und Selbstst&auml;ndigkeitserkl&auml;rungen
+    sowie Entscheidungen individueller Lehrpersonen ma&szlig;geblich. Daher werden eventuelle
+    Besonderheiten von KI in der Lehre und in Pr&uuml;fungsangelegenheiten in diesen
+    FAQ nicht besprochen.
+  license: cc-by-4.0
+  name: "FAQ K\xFCnstliche Intelligenz und gute wissenschaftliche Praxis - Version 2"
+  num_downloads: 2746
+  publication_date: '2025-10-14'
+  submission_date: '2025-10-30T19:56:37.645387'
+  url:
+  - https://zenodo.org/records/17349995
+  - https://doi.org/10.5281/zenodo.17349995
+  
+- authors:
+  - Robert Haase
+  description: 'BioImage Analysis using Python tutorial at EMBO LSM 2025'
+  license: CC-BY-4.0
+  name: 'embo-lsm-bia-2025'
+  publication_date: '2025-08-03'
+  tags:
+  - Bioimage Analysis
+  - Python
+  - include in DALIA
+  type:
+  - Github Repository
+  url: https://github.com/ScaDS/embo-lsm-bia-2025
+  language: en
+- authors:
+  - Mara Lampert
+  description: 'This blog post revolves around reproducibility in bio-image analysis  across several popular platforms, including Napari, Fiji, QuPath, Galaxy, CellProfiler and JIPipe.'
+  license: CC-BY-4.0
+  name: 'From Click to Code: Reproducibility in Bio-image Analysis'
+  publication_date: '2025-08-05'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/
+  language: en
+- authors:
+  - Rahul Pandita
+  description: 'Language models (LLMs) are rapidly becoming essential developer tools. But the metaphors we use to describe them matter. One often used is: "LLMs are the autopilot of coding." As both a developer and a pilot, that metaphor misses the mark on several levels. This blog post pens down why "Copilot" is a far better analogy than "autopilot" when it comes to LLMs and vibe coding.'
+  license: UNKNOWN
+  name: 'Autopilot, Copilot, and Software Developers'
+  publication_date: '2025-10-12'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: https://rahulpandita.me/blog/2025-10-12-Copilot 
+  language: en
+- authors:
+  - Publications Office of the European Union
+  description: 'Course materials on Open Data Sharing: Introducing and understanding the legal side of open data, Incorporating open data in your applications, Measuring the impact of open data and more.'
+  license: CC-BY-4.0
+  name: 'Open Data Sharing Course Materials provided by the European Union'
+  publication_date: '2024-01-17'
+  tags:
+  - Research Data Management
+  - Open Data
+  - include in DALIA
+  type:
+  - Website
+  url: https://data.europa.eu/en/academy
+  language: en
+- authors:
+  - EOSC
+  description: 'All Skills4EOSC training courses are now available in self-paced mode on the Skills4EOSC Moodle platform and on Zenodo, supporting the reuse of learning materials across communities. This includes the courses that were originally delivered in hybrid mode during the project, as part of the Master Trainers’ programme.'
+  license: CC-BY-4.0
+  name: 'Skills4EOSC Training Courses on Open Data Sharing'
+  publication_date: '2024-01-17'
+  tags:
+  - Research Data Management
+  - Open Data
+  - include in DALIA
+  type:
+  - Website
+  url: https://www.skills4eosc.eu/participate/skills4eosc-training-courses
+  language: en
+- authors:
+  - Rodrigo Escobar Díaz Guerrero
+  - Jamile Mohammad Jafari
+  - Tobias Meyer-Zedler
+  - Michael Schmitt
+  - Juergen Popp
+  - Thomas Bocklitz
+  description: 'In the interdisciplinary field of microscopy research, managing and integrating large volumes of data stored across disparate platforms remains a major challenge. Data types such as bioimages, experimental records, and spectral information are often maintained in separate repositories, each following different management standards. However, linking these data sources across the research lifecycle is essential to align with the FAIR principles of data management: Findability, Accessibility, Interoperability, and Reusability. Despite this need, there is a notable lack of tools capable of effectively integrating and linking data from heterogeneous sources. To address this gap, we present LEO (Linking Electronic Lab Notebooks with OMERO), a web-based platform designed to create and manage links between distributed data systems. LEO was initially developed to link objects between Electronic Lab Notebooks (ELNs) and OMERO, but its functionality has since been extended through a plugin-based architecture, allowing the integration of additional data sources. This extensibility makes LEO a scalable and flexible solution for a wide range of microscopy research workflows.'
+  license: CC-BY-4.0
+  name: 'LEO: An Open-Source Platform for Linking OMERO with Lab Notebooks and Heterogeneous Metadata Sources'
+  publication_date: '2025-08-01'
+  tags:
+  - Research Data Management
+  - OMERO
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: https://arxiv.org/abs/2508.00654
+  language: en
+- authors:
+  - Moore, Josh
+  description: 'Presented at the 2025 International OME-NGFF workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Road to OME-Zarr 1.0
+  num_downloads: 18
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-11T11:22:33.461962'
+  url:
+  - https://zenodo.org/records/17579804
+  - https://doi.org/10.5281/zenodo.17579804
+  uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+- authors:
+  - Kabjesz, Lea
+  - Gihlein, Lea
+  - Lampert, Mara Harriet
+  - Haase, Robert
+  description: 'This record contains the poster "Smart Slide Generation: Re-Using
+    Training Materials Through the Power of LLMs" presented by Lea Kabjesz and Lea
+    Gihlein at the All Hands Meeting of the German AI Centers, held on 5th - 6th November
+    2025 at DFKI Saarbr&uuml;cken, Germany.&nbsp;
+
+    &nbsp;
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: 'Smart Slide Generation: Re-Using Training Materials Through the Power of
+    LLMs'
+  num_downloads: 92
+  publication_date: '2025-11-06'
+  submission_date: '2025-11-11T11:22:39.019204'
+  url:
+  - https://zenodo.org/records/17541532
+  - https://doi.org/10.5281/zenodo.17541532
+  uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+- authors:
+  - Beyer, Frauke
+  - Unger, Michaela
+  - Gey, Ronny
+  - Massei, Riccardo
+  - Wetzker, Cornelia
+  - Nicolay, Elena
+  - Lampert, Mara Harriet
+  description: 'The material supports the panel discussion about open data sharing
+    with stories and info from the panelists.
+
+    &nbsp;
+
+    C.W. and R.M. are funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash;NFDI46/1 &ndash;
+    501864659'
+  license: cc-by-4.0
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  num_downloads: 86
+  publication_date: '2025-10-24'
+  submission_date: '2025-11-11T11:22:49.939572'
+  url:
+  - https://zenodo.org/records/17429285
+  - https://doi.org/10.5281/zenodo.17429285
+  uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+- authors:
+  - Kunis, Susanne
+  description: This presentation gives a short overview of the outcome of the I3D:bio
+    project and the ongoing developments in terms of data and metadata in the NFDI4BIOIMAGE
+    consortium. Presented at the RDM4mic meeting in M&uuml;nster, from Okt. 21-23,
+    2025
+  license: cc-by-4.0
+  name: (Meta)data in Action - Developments in NFDI4BIOIMAGE and I3D:bio
+  num_downloads: 87
+  publication_date: '2025-10-23'
+  submission_date: '2025-11-11T11:23:05.071201'
+  url:
+  - https://zenodo.org/records/17424911
+  - https://doi.org/10.5281/zenodo.17424911
+  uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+- authors:
+  - Zobel, Thomas
+  - Fortmann-Grote, Carsten
+  description: Material for the OMERO Training Workshop at MPI Evolutionary Biology,
+    Dec. 7 &amp; 8 2023
+  license: cc-by-4.0
+  name: Howto organize your image data in OMERO
+  num_downloads: 42
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:23:07.258414'
+  url:
+  - https://zenodo.org/records/17404133
+  - https://doi.org/10.5281/zenodo.17404133
+  uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+- authors:
+  - Fortmann-Grote, Carsten
+  description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
+    October 16 2025This work is funded by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659
+  license: cc-by-4.0
+  name: Knowledge Graphs for NFDI4BIOIMAGE
+  num_downloads: 43
+  publication_date: '2025-10-16'
+  submission_date: '2025-11-11T11:23:08.814837'
+  url:
+  - https://zenodo.org/records/17372593
+  - https://doi.org/10.5281/zenodo.17372593
+  uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+- authors:
+  - Fortmann-Grote, Carsten
+  - Ullrich, Kristian
+  description: 'Presentation given at the openBIS User Group Meeting on September
+    22nd 2025
+
+    &nbsp;
+
+    This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659'
+  license: cc-by-4.0
+  name: openBIS for Evolutionary Biology
+  num_downloads: 42
+  publication_date: '2025-09-24'
+  submission_date: '2025-11-11T11:23:30.585626'
+  url:
+  - https://zenodo.org/records/17191504
+  - https://doi.org/10.5281/zenodo.17191504
+  uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+- authors:
+  - Pais de Azevedo, Tomás
+  description: Unsupported Imaris file. Exported from Imaris 9.9.1.
+  license: cc-by-4.0
+  name: IMS image
+  num_downloads: 2
+  publication_date: '2025-10-21'
+  submission_date: '2025-11-11T11:27:58.639584'
+  url:
+  - https://zenodo.org/records/17406102
+  - https://doi.org/10.5281/zenodo.17406102
+  uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
+    2025
+  license: cc-by-4.0
+  name: '[Halfway-to-I2K 2025]: Introduction to ome-zarr and S3 cloud storage'
+  num_downloads: 0
+  publication_date: '2025-11-18'
+  submission_date: '2025-11-18T11:23:41.172852'
+  url:
+  - https://zenodo.org/records/17639350
+  - https://doi.org/10.5281/zenodo.17639350
+- authors:
+  - Moore, Josh
+  description: Invited talk given to Zeiss
+  license: cc-by-4.0
+  name: OME-Zarr and Next-Generational File Formats (NGFF)
+  num_downloads: 22
+  publication_date: '2025-07-02'
+  submission_date: '2025-11-18T11:23:41.733350'
+  url:
+  - https://zenodo.org/records/17604591
+  - https://doi.org/10.5281/zenodo.17604591
+- authors:
+  - Gros, Aafke
+  license: cc-by-4.0
+  name: CellSens vsi file for testing metadata extraction of timeinterval
+  num_downloads: 18
+  publication_date: '2025-11-12'
+  submission_date: '2025-11-18T11:25:35.234671'
+  url:
+  - https://zenodo.org/records/17590655
+  - https://doi.org/10.5281/zenodo.17590655
+- authors:
+  - Corbat, Agustin Andres
+  description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
+    the Global BioImage Analysts'' Society.'
+  license: cc-by-4.0
+  name: 'GloBIAS: Strengthening the Foundations of Bioimage Analysis'
+  num_downloads: 2
+  publication_date: '2025-11-10'
+  submission_date: '2025-11-18T11:26:19.155859'
+  url:
+  - https://zenodo.org/records/17633744
+  - https://doi.org/10.5281/zenodo.17633744
+- authors:
+  - Corbat, Agustin Andres
+  description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
+    deliver at the LABI Meeting 2025 in Buenos Aires, Argentina.
+  license: cc-by-4.0
+  name: GloBIAS Presentation at Latin America BioImaging Meeting
+  num_downloads: 2
+  publication_date: '2025-11-11'
+  submission_date: '2025-11-18T11:26:20.328938'
+  url:
+  - https://zenodo.org/records/17632823
+  - https://doi.org/10.5281/zenodo.17632823
+
+- authors:
+  - "Fran\xE7ois Chollet"
+  - Matt Watson
+  - Raja Nandhan
+  - Derek Chia
+  - Kuz-man
+  - Aziz Alto
+  - Boutaounte Faissal
+  - Rama Ramakrishnan
+  description: Jupyter notebooks for the code samples of the book "Deep Learning with
+    Python"
+  license: MIT License
+  name: deep-learning-with-python-notebooks
+  publication_date: '2017-09-05T19:47:56+00:00'
+  submission_date: '2025-12-03T15:53:58.326791'
+  tags: 
+  - artificial intelligence
+  type: GitHub Repository
+  url: https://github.com/fchollet/deep-learning-with-python-notebooks
+  
+- authors:
+  - "And\xF2, Edward"
+  description: 'M2EA05 dataset from Laboratoire 3SR.
+  
+    The raw data is a series of x-ray tomography images 4x4x4 downscaled (i.e., "bin
+    4") acquired while doing an operando triaxial compression test on a granular material.
+  
+    It''s been roughly analysed with spam 0.8.1.4 (Stamati, O., And&ograve;, E., Roubin,
+    E., Cailletaud, R., Wiebicke, M., Pinzon, G., ... &amp; Birmpilis, G. (2020). Spam:
+    software for practical analysis of materials. Journal of Open Source Software, 5(51),
+    2286) to measure incremental grain motion (see analysis.zsh which could be significantly
+    improved).
+  
+    The principle of the "low effort" analysis is that:
+  
+  
+    (spam-reg) an overall incremental registration is performed between im_T and im_T+1
+  
+    (spam-ddic) a "dicrete DIC" is performed tracking labels from im_T and im_T+1 with
+    an initial guess of the registration
+  
+    (spam-moveLabels) an approximate new label image in im_T+1 is computed by displacing
+    the labelled image in im_T with the DDIC results
+  
+  
+    These data have already been used in:
+  
+  
+    Kawamoto, R., And&ograve;, E., Viggiani, G., &amp; Andrade, J. E. (2016). Level
+    set discrete element method for three-dimensional computations with triaxial case
+    study. Journal of the Mechanics and Physics of Solids, 91, 1-13
+  
+    Nadimi, S., Fonseca, J., And&ograve;, E., &amp; Viggiani, G. (2019). A micro finite-element
+    model for soil behaviour: experimental evaluation for sand under triaxial compression.
+    G&eacute;otechnique, 1-6
+  
+    Spam examples on Zenodo: https://zenodo.org/records/3888347
+  
+    '
+  license: cc-by-4.0
+  name: M2EA05 analysis results from spam
+  num_downloads: 2
+  publication_date: '2025-11-21'
+  submission_date: '2025-11-25T09:51:54.471733'
+  url:
+  - https://zenodo.org/records/17668709
+  - https://doi.org/10.5281/zenodo.17668709
+  
+- authors:
+  - Nguyen, Khanh Xuan
+  - Bernt, Matthias
+  - Schnicke, Thomas
+  - Haase, Robert
+  - Massei, Riccardo
+  description: KNIME and Galaxy are leading workflow platforms widely used for imaging,
+    data analysis, and automation. However, differences in their architectures make
+    translating imaging workflows between them difficult and time- consuming. The
+    lack of automated conversion workflow reuse. Enabling automatic conversion of
+    KNIME imaging workflows into Galaxy could enhance accessibility, streamline image
+    analysis with further Open Source Tools (i.e. OMERO, INTOB), and accelerate imaging-based
+    scientific discovery. Our goal is to develop generative AI strategies for automated
+    KNIME-to- Galaxy workflow translation using large language models (LLM). By learning
+    from test workflows, the system will adapt to platform changes and improve accuracy
+    over time.
+  license: cc-by-4.0
+  name: Develop an LLM-based framework for translating KNIME workflows into Galaxy
+    Imaging workflows
+  num_downloads: 21
+  publication_date: '2025-12-01'
+  submission_date: '2025-12-09T11:25:03.971364'
+  url:
+  - https://zenodo.org/records/17775761
+  - https://doi.org/10.5281/zenodo.17775761
+- authors:
+  - Cruz C., Arsenio N.
+  - Pham, Thanh Huy
+  - Zimmer, Collin
+  - Massei, Riccardo
+  - Sun, Yi
+  - Czodrowski, Paul
+  description: Galaxy is an online computational platform used by a global community
+    of thousands of scientists for processing of large-scale data.This collective
+    effort includes the development of the Galaxy software framework, the integration
+    of analysis tools and visualizations, and the operation of public servers that
+    provide access to Galaxy through web browsers (usegalaxy.eu). Galaxy increases
+    the FAIRness of data analysis pipelines by&nbsp; providing versioned tools and
+    workflows that can be annotated, shared and published. Furthermore, Galaxy has
+    a dedicated interface for image data analysis&mdash;imaging.usegalaxy.eu&mdash;providing
+    a comprehensive suite of tools and workflows tailored specifically for imaging
+    scientists. Through the implementation of open source CellProfiler tool into the
+    Galaxy framework, we are creating an interactive evaluation environment for the
+    Cell Painting community. This environment can aid the drug discovery process.
+  license: cc-by-4.0
+  name: From Cells to Morphological Profiles A FAIR cloud processing pipeline using
+    Galaxy
+  num_downloads: 39
+  publication_date: '2025-12-01'
+  submission_date: '2025-12-09T11:25:05.103328'
+  url:
+  - https://zenodo.org/records/17775957
+  - https://doi.org/10.5281/zenodo.17775957
+- authors:
+  - Haase, Robert
+  description: In this slide-deck we dive into large language models for bioimage
+    data science, focusing on code generation for bio image analysis. The slides also
+    give an outlook on how AI-systems may change data analysis in the future through
+    data analysis code generation.
+  license: cc-by-4.0
+  name: How LLMs impact BioImage Data Science
+  num_downloads: 57
+  publication_date: '2025-11-21'
+  submission_date: '2025-12-09T11:25:05.799525'
+  url:
+  - https://zenodo.org/records/17669681
+  - https://doi.org/10.5281/zenodo.17669681
+- authors:
+  - Sun, Yi
+  - Tischer, Christian
+  - "H\xE9rich\xE9, Jean-Karim"
+  description: 'The BAND platform offers cloud based desktops accessible with a web
+    browser so that you can work on your data from anywhere with an internet connection.
+
+    This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659'
+  license: cc-by-4.0
+  name: Bioimage ANalysis Desktop Source Code
+  num_downloads: 7
+  publication_date: '2025-11-21'
+  submission_date: '2025-12-09T11:25:06.895146'
+  url:
+  - https://zenodo.org/records/17671971
+  - https://doi.org/10.5281/zenodo.17671971
+- authors:
+  - Wetzker, Cornelia
+  - Massei, Riccardo
+  - Schlierf, Michael
+  description: 'This poster presents motivations and strategies to share bioimage
+    data in life science research. It presents NFDI4BIOIMAGE as a consortium in research
+    data management in bioimaging and bioimage analysis and its data stewardship team.
+
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: '[SaxFDMTagung2025] Share your Bioimage Data with the World'
+  num_downloads: 56
+  publication_date: '2025-11-20'
+  submission_date: '2025-12-09T11:25:07.520753'
+  url:
+  - https://zenodo.org/records/17659149
+  - https://doi.org/10.5281/zenodo.17659149
+- authors:
+  - David, Romain
+  - Liaskos, Nektarios
+  - Rybina, Arina
+  - Arvanitidis, Christos
+  - Bage, Anne-Sophie
+  - Carvajal-Vallejos, Patricia K.
+  - Das, Sudeep
+  - De Pascalis, Francesca
+  - "D\xF6rr, Dorothea"
+  - Exter, Katrina
+  - Holub, Petr
+  - Gurwitz, Kim Tamara
+  - Liberante, Fabio
+  - Lieutaud, Philippe
+  - Lister, Allyson
+  - Lopez, Joaquin
+  - "Madon, B\xE9n\xE9dicte"
+  - Massimi, Marzia
+  - Matteoni, Rafaele
+  - "M\xEErza, Maria"
+  - Morgan, Sarah
+  - Oezdemir, Bugra
+  - Panagiotopoulou, Maria
+  - Pavloudi, Christina
+  - P. Melo, Ana M.
+  - Sansone, Susanna-Assunta
+  - Schwalbe, Harald
+  - Serrano-Solano, Beatriz
+  - Sorzano, Carlos Oscar
+  - Urbinati, Emilio
+  - Tang, Jing
+  - Tedds, Jonathan
+  - Saunders, Gary
+  - Ewbank, Jonathan
+  description: 'Preprint in submission process to Briefings in Bioinformatics
+
+    Abstract:
+
+    European Life Science Research Infrastructures (LS-RIs), one of the five major
+    RI Science Clusters in Europe, were established to provide access to cutting-edge
+    technologies to the scientific community. Individually, and collectively as the
+    LS-RI cluster, they contribute to the development of the European Open Science
+    Cloud (EOSC), under the aegis of the EOSC Federation. They are actively involved
+    in the design and implementation of Competence Centres (CCs). These aim to increase
+    the accessibility of domain-specific knowledge and tools, enhance interoperability,
+    facilitate sharing and harmonisation of procedures, and promote Open Science and
+    FAIR (Findable, Accessible, Interoperable, Reusable) practices. In this paper,
+    we report a landscape mapping of the existing resources that formed the basis
+    for the construction of CCs. We describe the possible design of CCs and their
+    articulation with the LS-RIs. We focus on community-based ideas and recommendations
+    to increase the potential of CCs to address long-standing challenges in sustainability,
+    governance, scalability, and interoperability of Open Science within EOSC and
+    the European Research Area (ERA) more generally.This paper provides a description
+    of the nascent LS CCs, built following a survey of needs and services of existing
+    LS-RI communities. When fully implemented, the LS CCs will serve as dynamic hubs
+    to foster innovation, contribute to the EOSC&rsquo;s future FAIR web of data,
+    and support ongoing developments of the EOSC Federation. They will act as drivers
+    of collaborative and impactful LS research in Europe and beyond. We explore the
+    underlying challenges, and propose solutions, to ensure that the establishment
+    of CCs will add value to the LS RI community, and to the EOSC, in a sustainable
+    way.'
+  license: cc-by-4.0
+  name: 'Life Science Competence Centres: Open by Design'
+  num_downloads: 592
+  publication_date: 2025-12
+  submission_date: '2025-12-09T11:26:03.944893'
+  url:
+  - https://zenodo.org/records/17672046
+  - https://doi.org/10.5281/zenodo.17672046
+- authors:
+  - Geibelt, Ellen
+  description: a multi-channel-image with a BF and 5 fluorescence channels acquired
+    with a 20x objective and Axioscan.Z1 (Zeiss slide scanner)
+  license: cc-by-4.0
+  name: multi-channel-image
+  num_downloads: 6
+  publication_date: '2025-11-26'
+  submission_date: '2025-12-09T11:26:46.115881'
+  url:
+  - https://zenodo.org/records/17725097
+  - https://doi.org/10.5281/zenodo.17725097
+- authors:
+  - Theart, Rensu
+  - Levet, Florian
+  - Hernandez-Herrera
+  - Leterrier, Christophe
+  - de la Ballina, Laura R
+  description: 'Raw, processed and annotated images associated with the manuscript
+    "Presynaptic Actin Nanostructures: A Reproducibility Case Study".
+
+    This work is part of an initiative of the Global BioImage Analysts'' Society (GloBIAS)
+    to assess reproducibility of published bioimage analysis workflows.
+
+    We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses contain
+    distinct actin nanostructures. J Cell Biol&nbsp;2 October 2023; 222 (10): e202208110.
+    doi:&nbsp;https://doi.org/10.1083/jcb.202208110.&nbsp;Original images and annotations
+    were kindly provided by their authors.'
+  license: cc-by-4.0
+  name: 'Sample image data and annotations associated to Presynaptic Actin Nanostructures:
+    A Reproducibility Case Study'
+  num_downloads: 1
+  publication_date: '2025-12-02'
+  submission_date: '2025-12-09T11:27:12.714197'
+  url:
+  - https://zenodo.org/records/17792816
+  - https://doi.org/10.5281/zenodo.17792816
+- authors:
+  - Wendt, Jens
+  - Bortolomeazzi, Michele
+  description: 'OMERO and Research Data Management Workshop at the Georg-Speyer-Haus
+    in Frankfurt 09-10/12/2025.
+
+    Colllection of slides and materials for the OMERO and Research Data Management
+    Workshop at the Georg-Speyer-Haus in Frankfurt.
+
+    funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+    under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+
+    &nbsp;
+
+    Program
+
+    Dec 9th 2025 &ndash; Day 1 (Everyone)&nbsp;
+
+    10.00 a.m.: Introduction and Welcome
+
+    10.15 a.m.: FAIR data management and OMERO introduction
+
+    11.15 a.m.: Data organization in OMERO using Tags
+
+    12.00 a.m.: Lunch Break
+
+    01.00 p.m.: Metadata annotation in OMERO using Key-Value Pairs
+
+    02.00 p.m.: OMERO and image analysis&nbsp; -access through GUI-based plugins&nbsp;
+    -access through the API&nbsp; Macros and python scripts for data analysis and
+    interrogation&nbsp; AI-models at a glance (e.g., segmentation)
+
+    03.30 p.m.: Break
+
+    04.00 p.m.: OMERO.figure
+
+    04.45 p.m.: A glance at data sharing in public repositories
+
+    05.15 p.m.: Time for questions and individual case discussions
+
+    ~ 05.30 /05.45 p.m.: End of Day 1
+
+    &nbsp;
+
+    Dec. 10th 2025 - Day 2 (IT staff and project management)
+
+    09:00 a.m. ~ 10:00 a.m.: OMERO practical
+
+    Short break
+
+    - OMERO technical setup:
+
+    ~ 10:45 a.m. ~ 12:00 a.m.: OMERO and storage
+
+    ~ 12:00 a.m. ~ 12.30 a.m.: OMERO and HPC&nbsp;
+
+    12.30 a.m.: Lunch Break
+
+    1.00 p.m. ~ 1.30 p.m.:&nbsp; User Groups, User handling, pilot user phases to
+    set up OMERO'
+  license: cc-by-4.0
+  name: OMERO and Research Data Management Workshop at the Georg-Speyer-Haus in Frankfurt
+  num_downloads: 5
+  publication_date: '2025-12-11'
+  submission_date: '2025-12-16T11:25:49.303069'
+  url:
+  - https://zenodo.org/records/17897525
+  - https://doi.org/10.5281/zenodo.17897525
+- authors:
+  - Wetzker, Cornelia
+  - Schlierf, Michael
+  description: 'Dieses Dokument beschreibt die Notwendigkeit und einen Entwurf eines
+    didaktischen Lehr-Konzeptes f&uuml;r eine Seminarreihe zum Thema Forschungsdatenmanagement
+    f&uuml;r Studierende der Lebenswissenschaften mit Fokus auf biologischer Mikroskopie.
+    Es beschreibt Lernziele, -inhalte und -methoden, um die Grundlagen des Forschungsdatenmanagements,
+    der Nutzung von elektronischen Laborb&uuml;chern und dem Bio-Bild-Verwaltungs-Werkzeug
+    OMERO theoretisch und praktisch zu vermitteln. Damit sollen Wissenschaftlern im
+    Zuge ihres Studiums parallel zu ersten experimentellen Forschungsarbeiten fr&uuml;hzeitig
+    die Grundlagen der guten wissenschaftlichen Praxis vermittelt werden.
+
+    &nbsp;
+
+    C.W. wird durch die Deutsche Forschungsgemeinschaft (DFG) gef&ouml;rdert, im Rahmen
+    der Nationalen Forschungsdateninfrastruktur &ndash; NFDI 46/1 &ndash; 501864659.'
+  license: cc-by-4.0
+  name: "Didaktisches Konzept zur Einf\xFChrung ins Forschungsdatenmanagement (FDM)\
+    \ am Beispiel von Elektronischen Laborb\xFCchern (ELNs) und OMERO f\xFCr Bio-Bild-Verwaltung\
+    \ f\xFCr Studierende der Lebenswissenschaften"
+  num_downloads: 16
+  publication_date: '2025-12-10'
+  submission_date: '2025-12-16T11:25:50.401687'
+  url:
+  - https://zenodo.org/records/17876813
+  - https://doi.org/10.5281/zenodo.17876813
+- authors:
+  - Vedder, Lucia
+  - Peschel, Paul
+  - Bortolomeazzi, Michele
+  - Schmidt, Christian
+  - "Schr\xF6der, Katrin"
+  description: 'Veranstaltungsformat: Pr&auml;senz- und Online-Veranstaltung&nbsp;
+    Veranstaltungsort:
+
+
+    Hybrid event at University of Kassel (FB 10)
+
+
+    Veranstalter:
+
+
+    Universit&auml;tsbibliothek
+
+    Forschungsdaten-Service
+
+    NFDI4BIOIMAGE
+
+    FAIRagro
+
+    RTG Multiscale Clocks
+
+
+    Zielgruppen:
+
+
+    Promovierende/Doktorand:innen
+
+    Absolvent:innen
+
+    Wissenschaftliche Mitarbeitende
+
+    Gruppenleitungen
+
+    Postdoktorand:innen/Postdocs
+
+    Mitarbeitende der Universit&auml;t Kassel
+
+
+
+
+
+    Workshop: Image Data Management in the Biological Sciences and Agriculture Research
+
+    Do you work with image data and want to optimize your data management workflows?
+    This workshop provides an overview of the key challenges associated with managing
+    image data and presents available support services. You will learn about useful
+    tools for image data management and how Bioimaging Research Data Management (RDM)
+    can be integrated into your everyday practice.
+
+    This workshop will not only provide knowledge in imaging data management but also
+    create an opportunity to get to know each other, network, and exchange ideas.
+
+    For the best learning outcome,&nbsp;we recommend in-person attendance.&nbsp;
+
+    Content
+
+    Module 1:&nbsp;
+
+    General Introduction to Imaging Research Data Management
+
+    1.00 pm - 1.50 pm: for all audiences, incl. non-bioimaging stakeholders
+
+    Module 2:&nbsp;
+
+    NFDI4BIOIMAGE:&nbsp;Tools and Software for Bioimage Data Management
+
+    FAIRagro:&nbsp;Observation data: From ground robots to UAVs
+
+    2.10 pm - 3.00 pm: for researchers at all career levels and tool providers
+
+    Module 3:
+
+    NFDI4BIOIMAGE:&nbsp;Bioimaging RDM in the everyday-practice
+
+    FAIRagro:&nbsp;Satellite and grid data: the view from above
+
+    3.10 pm - 4.00 pm: for researchers at all career levels
+
+    &nbsp;
+
+    It is possible to attend individual modules, and your choices can be made during
+    the registration process.
+
+
+
+    '
+  license: cc-by-4.0
+  name: '[Workshop] Image Data Management in the Biological Sciences and Agriculture
+    Research'
+  num_downloads: 54
+  publication_date: '2025-12-02'
+  submission_date: '2025-12-16T11:25:54.086699'
+  url:
+  - https://zenodo.org/records/17787401
+  - https://doi.org/10.5281/zenodo.17787401
+- authors:
+  - Boissonnet, Tom
+  - Massei, Riccardo
+  description: 'This record contains the presentations given at the 4th BioHackathon
+    Germany (1&ndash;5 Dec 2025, Walsrode) by de.NBI / ELIXIR-DE, introducing the
+    project on "Integrating Data Science Capabilities within the OMERO Data Management
+    Ecosystem" and summarizing its results.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: de.NBI hackathon 2025 - Project 7 introduction and report presentations
+  num_downloads: 31
+  publication_date: '2025-12-08'
+  submission_date: '2025-12-16T11:26:05.625356'
+  url:
+  - https://zenodo.org/records/17856704
+  - https://doi.org/10.5281/zenodo.17856704
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Introductory slides for top-level understanding of ome-zarr, cloud
+    storage (S3) of ome-zarr data and usecases and nature of upcaming RFC5-style transformations.
+  license: cc-by-4.0
+  name: Introduction to OME-ZARR, S3 and transformations
+  num_downloads: 21
+  publication_date: '2025-12-09'
+  submission_date: '2025-12-16T11:29:42.879922'
+  url:
+  - https://zenodo.org/records/17898202
+  - https://doi.org/10.5281/zenodo.17898202
+- authors:
+  - Dayer, Andrew J
+  license: cc-by-4.0
+  name: 'Test files for Nikon NEF distorted image #4389'
+  num_downloads: 1
+  publication_date: '2025-12-12'
+  submission_date: '2025-12-16T11:35:49.229001'
+  url:
+  - https://zenodo.org/records/17914642
+  - https://doi.org/10.5281/zenodo.17914642
+- authors:
+  - Kumar, Neeraj 
+  - Verma, Ruchika 
+  - Sharma, Sanuj 
+  - Bhargava, Surabhi 
+  - Vahadane, Abhishek 
+  - Sethi, Amit
+  description: 'The dataset for this challenge was obtained by carefully annotating tissue images of several patients with tumors of different organs and who were diagnosed at multiple hospitals. This dataset was created by downloading H&E stained tissue images captured at 40x magnification from TCGA archive. H&E staining is a routine protocol to enhance the contrast of a tissue section and is commonly used for tumor assessment (grading, staging, etc.). Given the diversity of nuclei appearances across multiple organs and patients, and the richness of staining protocols adopted at multiple hospitals, the training datatset will enable the development of robust and generalizable nuclei segmentation techniques that will work right out of the box.'
+  license: CC-BY-NC-SA-4.0
+  name: A dataset for generalized nuclear segmentation for computational pathology
+  publication_date: '2017-03-06'
+  tags:
+  - AI-ready
+  - exclude from DALIA
+  type:
+  - Data
+  url: https://huggingface.co/datasets/RationAI/MoNuSeg
+  language: en
+- authors:
+  - Engelhardt, Claudia
+  - Haase, Robert
+  - Hundt, Carolin
+  - Langermann, Florence
+  - Voigt, Pia
+  description: Im Rahmen einer Kooperation zwischen der s&auml;chsischen FDM-Landesinitiative
+    SaxFDM, dem Datenkompetenzzentrum Come2Data sowie dem Data Science Center ScaDS.AI
+    in Leipzig und NFDI4Bioimage wurde der Train-the-Trainer Workshop f&uuml;r das
+    Forschungsdatenmanagement durchgef&uuml;hrt. Die hier ver&ouml;ffentlichten Folien
+    basieren auf dem Train-the-Trainer Konzept (v05) erarbeitet durch Mitglieder der&nbsp;UAG
+    Schulungen/Fortbildungen der DINI/nestor-AG Forschungsdaten. Die behandelten Themen
+    umfassen sowohl die Aspekte des Forschungsdatenmanagements als auch didaktischen
+    Einheiten zu Lernkonzepten, Workshopgestaltung und Methoden.
+  license: cc-by-4.0
+  name: Train-the-Trainer Workshop zum Forschungsdatenmanagement (Sachsen)
+  num_downloads: 505
+  publication_date: '2025-12-18'
+  submission_date: '2026-01-06T11:25:11.334393'
+  url:
+  - https://zenodo.org/records/17978132
+  - https://doi.org/10.5281/zenodo.17978132
+- authors:
+  - Fuchs, Vanessa
+  - Zobel, Thomas
+  - Baldenius, Marie
+  - Wendt, Jens
+  description: "The presentations for the workshop \"Research Data Management\" at\
+    \ University M&uuml;nster on 25.11.2025.\nfunded by the Deutsche Forschungsgemeinschaft\
+    \ (DFG, German Research Foundation) under the National Research Data Infrastructure\
+    \ &ndash; NFDI 46/1 &ndash; 501864659\nProgram:\n\n\n\n09:00 - 09:30\nIntroduction\n\
+    \n\n09.30 - 10:30\nRDM basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; RDM with files\
+    \ and folders\n\n\n10:30 - 11:00\nCoffee break \u2615\n\n\n11:00 - 12:00\nOMERO\
+    \ basics&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; OMERO interfaces\n\n\n12:00 - 13:00\n\
+    Lunch break \U0001F355\n\n\n13:00 - 13:30\nOMERO repetition and hands-on\n\n\n\
+    13:30 - 14:20\nREMBI and Ontologies&nbsp; &nbsp; &amp;&amp;&nbsp; &nbsp; &nbsp;Metadata\
+    \ in OMERO\n\n\n14:20 - 14:35\nCoffee break \u2615\n\n\n14:35 - 15:15\nOMERO.Figure&nbsp;\
+    \ &nbsp; &amp;&amp;&nbsp; &nbsp; Public image repositories\n\n\n15:15 - 17:00&nbsp;\n\
+    Individual questions, play with your own data\n\n\n\n&nbsp;"
+  license: cc-by-4.0
+  name: "Workshop Research Data Management for Microscopy at University M\xFCnster"
+  num_downloads: 77
+  publication_date: '2025-12-18'
+  submission_date: '2026-01-06T11:25:13.245721'
+  url:
+  - https://zenodo.org/records/17974214
+  - https://doi.org/10.5281/zenodo.17974214
+- authors:
+  - Kemmer, Isabel
+  - Euro-BioImaging ERIC
+  description: 'This FAIR Bioimage Data Crossword Puzzle offers a fun and engaging
+    way to explore key concepts, principles, and resources related to FAIR (Findable,
+    Accessible, Interoperable, Reusable) data in bioimaging. The crossword promotes
+    active learning and discussion around FAIR practices, helping participants to
+    familiarize themselves with essential terminology and tools used across the bioimaging
+    community.
+
+    The puzzle can be used as a gentle introduction to FAIR bioimage data concepts.
+    You can tackle the puzzle independently to discover FAIR bioimaging terms at your
+    own pace or, when you''re already well-versed in those topics, use it for casual
+    enjoyment during&nbsp; for example commutes, breaks, or group get-togethers.
+
+    This crossword can also be used in a course-setting where educators might pair
+    each term with a quick explanation, encourage participants to independently research
+    the underlying resources and standards and spark deeper discussions once the puzzle
+    is solved. You have the option between the plain crossword and a version including
+    a solution phrase, especially suited as a playful assessment at the end of a course.&nbsp;
+
+    And if you need a digital version, you can also solve the puzzle on crosswordlabs:&nbsp;https://crosswordlabs.com/embed/fair-bioimage-data'
+  license: cc-by-4.0
+  name: 'Crossword puzzle: FAIR BioImage Data'
+  num_downloads: 58
+  publication_date: '2025-12-09'
+  submission_date: '2026-01-06T11:25:58.550490'
+  url:
+  - https://zenodo.org/records/17798356
+  - https://doi.org/10.5281/zenodo.17798356
+
+- name: "Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles, challenges, and monsters under the bed."
+  type:
+  - publication
+  url: 
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC8675413/
+  - https://doi.org/10.1002/hbm.25120
+  authors: 
+  - Tonya White
+  - Elisabet Blok 
+  - Vince D Calhoun
+  publication date: 2020-07-04
+- authors:
+  - Paul K. Korir
+  - Andrii Iudin
+  - Sriram Somasundharam
+  - Simone Weyand
+  - Osman Salih
+  - Matthew Hartley
+  - Ugis Sarkans
+  name: Ten recommendations for organising bioimaging data for archival
+  type:
+  - publication
+  url: https://f1000research.com/articles/12-1391/v2
+  abstract: "Organised data is easy to use but the rapid developments in the field of bioimaging, with improvements in instrumentation, detectors, software and experimental techniques, have resulted in an explosion of the volumes of data being generated, making well-organised data an elusive goal. This guide offers a handful of recommendations for bioimage depositors, analysts and microscope and software developers, whose implementation would contribute towards better organised data in preparation for archival. Based on our experience archiving large image datasets in EMPIAR, the BioImage Archive and BioStudies, we propose a number of strategies that we believe would improve the usability (clarity, orderliness, learnability, navigability, self-documentation, coherence and consistency of identifiers, accessibility, succinctness) of future data depositions more useful to the bioimaging community (data authors and analysts, researchers, clinicians, funders, collaborators, industry partners, hardware/software producers, journals, archive developers as well as interested but non-specialist users of bioimaging data). The recommendations that may also find use in other data-intensive disciplines. To facilitate the process of analysing data organisation, we present bandbox, a Python package that provides users with an assessment of their data by flagging potential issues, such as redundant directories or invalid characters in file or folder names, that should be addressed before archival. We offer these recommendations as a starting point and hope to engender more substantial conversations across and between the various data-rich communities."
+
+- authors:
+  - Lea Kabjesz
+  name: "OMERO Outputs: Insights from the 4th BioHackathon 2025"
+  license: CC-BY-4.0
+  proficiency_level: beginner
+  tags:
+  - microscopy analysis
+  - hackathon
+  - bioimaging
+  - OMERO
+  type:
+  - Blog Post
+  url: https://focalplane.biologists.com/2025/12/17/omero-outputs-insights-from-the-4th-biohackathon-2025/
+- authors: 
+  - Cornelia Wetzker
+  - Vanessa Fuchs
+  - Jens Wendt
+  - Mohsen Ahmadi
+  - Maximilian E. Müller
+  - Riccardo Massei
+  description: 'Talk at the RDM4mic Meeting 2025 in Münster, Germany, about the importance of Research Data Management (RDM) for microscopy and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.'
+  license: CC-BY-4.0
+  name: 'Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025'
+  publication_date: '2025-10-29'
+  tags:
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Slides
+  url: https://zenodo.org/records/17472821
+  language: en
+- authors: 
+  - Cornelia Wetzker
+  - Vanessa Fuchs
+  - Jens Wendt
+  - Mohsen Ahmadi
+  - Maximilian E. Müller
+  - Riccardo Massei
+  - David Schwartz
+  - Joost Willemse
+  - Bettina Hagen
+  - Thomas Zobel
+  - Susanne Kunis
+  - Peter Zentis
+  - Niraj Kandpal
+  - Tom Boissonnet
+  description: 'Talk Series RDM4mic Meeting 2025 in Münster, Germany about RDM and the role of NFDI4BIOIMAGE in supporting researchers with tools and services for RDM in bioimaging.'
+  license: UNKNOWN
+  name: 'RDM4mic Meeting 2025 Talks'
+  publication_date: '2026-01-12'
+  tags:
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/playlist?list=PL2k-L-zWPoR67_02CuEROsYr1nnCNgMcI
+  language: en
+- authors: 
+  - Elena Nicolay
+  - Mara Lampert
+  - Frauke Beyer
+  - Ronny Gey
+  - Michaela Unger
+  - Dr. Riccardo Massei
+  description: 'The YMIA present a panel discussion on open and FAIR data in the community of bio-image analysis. The event was hosted by Mara Lampert and Elena Nicolay at the UFZ Leipzig on October 24th in 2025. Our panelists were Dr. Frauke Beyer, Ronny Gey, Michaela Unger and Dr. Riccardo Massei (jumped in for Dr. Cornelia Wetzker). Enjoy an interesting conversation of ongoing practices and issues regarding open data in the field of bioimaging.'
+  license: UNKNOWN
+  name: 'The Power of Sharing: Open Data in Bio-image Analysis'
+  publication_date: '2026-02-06'
+  tags:
+  - Open Data
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Video
+  url: https://www.youtube.com/watch?v=z8MKF4FOjZ4 
+  language: en
+- authors: 
+  - Michael Färber
+  - Simon Razniewski
+  - Robert Haase
+  description: 'This course provides a practical and in-depth understanding of large language models that power modern natural language processing systems. Students will explore the architecture, training methodologies, capabilities, and ethical implications of LLMs. The course combines theoretical knowledge with hands-on experience to equip students with the skills necessary to develop, analyze, and apply LLMs in various contexts.'
+  license: CC-BY-4.0
+  name: 'Behind the Secrets of Large Language Models'
+  publication_date: '2026-02-01'
+  tags:
+  - Large Language Models
+  - Natural Language Processing
+  - include in DALIA
+  type:
+  - Opal Repository 
+  url: https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/49022173187?9
+  language: en
+- authors: 
+  - Hugo Mantion
+  - Zhao Zhang
+  - Diego Serra
+  - Lætitia Lebrun
+  - Maxime Tarabichi
+  - Vincent Detours
+  description: 'An atlas of human histological diversity that transposes to histology the concepts and methods of RNA-seq gene expression analysis, setting histology on an unbiased quantitative ground.'
+  license: CC-BY-NC-4.0 
+  name: 'An atlas of human histological diversity'
+  publication_date: '2026-02-02'
+  tags:
+  - Atlas
+  - exclude from DALIA
+  type:
+  - Preprint 
+  url: 
+  - https://histologyatlas.ulb.be/
+  - https://www.biorxiv.org/content/10.64898/2026.01.30.702249v1.full.pdf
+  language: en
+- authors: 
+  - Bruno C. Vellutini
+  description: 'A minimal set of principles for organizing research papers.'
+  license: CC-BY-SA-4.0 
+  name: 'DAFT: minimal principles for reproducible research papers'
+  publication_date: '2026-01-05'
+  tags:
+  - Reproducibility
+  - FAIR Principles
+  - Research Data Management
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://brunovellutini.com/posts/daft-principles/
+  language: en
+- authors: 
+  - Beth Cimini
+  description: 'Bilayers as a framework to containerize and describe algorithms/software in deep learning to make it more user-friendly.'
+  license: CC-BY-4.0 
+  name: 'Bilayers - an easy way to make your favorite deep learning tool more user-friendly'
+  publication_date: '2025-01-27'
+  tags:
+  - Deep Learning
+  - include in DALIA
+  type:
+  - Slides
+  url: 
+  - https://zenodo.org/records/14751700
+- authors: 
+  - Beth Cimini
+  - Peter Bankhead
+  - Rocco D'Antuono
+  - Fazeleh Elnaz
+  - Julia Fernandez-Rodriguez
+  - Caterina Fuster-Barceló
+  - Robert Haase
+  - Helena Jambor
+  - Martin L Jones
+  - Florian Jug
+  - Anna Klemm
+  - Anna Kreshuk
+  - Stefania Marcotti
+  - Gabriel G Martins
+  - Sara McArdle
+  - Arrate Muñoz Barrutia
+  - Laura Murphy
+  - Michael Nelson
+  - Simon Nørrelykke
+  - Perrine Paul-Gilloteaux
+  - Thomas Pengo
+  - Joanna Pylvänäinen
+  - Lior Pytowski
+  - Arianna Ravera
+  - Annika Reinke
+  - Yousr Rekik
+  - Caterina Strambio-De-Castillia
+  - Daniel Thédié
+  - Virginie Uhlmann
+  - Oliver Umney
+  - Laura Wiggins
+  - Kevin Eliceiri
+  description: 'Bioimage analysis (BIA) is a critical discipline in the field of biological research. It overcomes the limitations of subjective analysis in microscopy through the creation of quantitative and reproducible methods. This paper is the result of a recent meeting of bioimage analysts who aimed to summarize the current state of affairs for BIA including categorizing current obstacles and offering possible solutions to them.'
+  license: CC-BY-4.0 
+  name: 'The Crucial Role of BioImage Analysts in Scientific Research and Publication'
+  publication_date: '2024-06-03'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/11457452
+- authors: 
+  - Beth Cimini
+  description: 'As microscopy diversifies and becomes ever-more complex, the problem of quantification of microscopy images has emerged as a major roadblock for many researchers. All researchers must face certainchallenges in turning microscopy images into answers, independent of their scientific question and the images they have generated. Challenges may arise at many stages throughout the analysis process, including handling of the image files, image pre-processing, object finding, or measurement, and statistical analysis. While the exact solution required for each obstacle will be problem-specific, by understanding tools and tradeoffs, optimizing data quality, breaking workflows and data sets into chunks, talking to experts, and thoroughly documenting what has been done, analysts at any experience level can learn to overcome these challenges and create better and easier image analyses.'
+  license: CC-BY-4.0 
+  name: 'Creating and troubleshooting microscopy analysis workflows: common challenges and common solutions'
+  publication_date: '2024-02-29'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/10734599
+- authors: 
+  - Beth Cimini
+  description: 'Can Jupyter Book help make the friendliest possible resource we can think of, in a way that does not get out of date?'
+  license: CC-BY-4.0 
+  name: 'Jupyter Book as a tool for multi-language teaching and training'
+  publication_date: '2024-02-13'
+  tags:
+  - Jupyter Book
+  - include in DALIA
+  type:
+  - Slides
+  url: 
+  - https://zenodo.org/records/10653464
+- authors: 
+  - Beth Cimini
+  description: 'Blog post from the "Measure Everything... Ask Questions Later" blog of the Broad Institute Imaging Platform. How do I know when my analysis workflow is doing well enough at finding the objects or measuring the things I care about?'
+  license: CC-BY-4.0 
+  name: 'When To Say "Good Enough"'
+  publication_date: '2019-10-21'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://zenodo.org/records/10498985
+- authors: 
+  - Wei Ouyang
+  - Kevin W Eliceiri
+  - Beth Cimini
+  description: 'The rapid advancements in biological imaging and the increasing complexity of image data call for a reevaluation of traditional bioimage analysis methods and how these methods are accessed. In our perspective, we argue that transitioning from desktop-based tools to web-based bioimage analysis offers immense opportunities for enhanced accessibility, improved collaboration, and streamlined workflows. We briefly describe the potential advantages, including lower computational requirements and overcoming challenges such as installation issues and limited reproducibility. Additionally, we discuss the current landscape of web-based tools, the challenges in implementation, and the importance of community involvement in driving this transition. By embracing web-based bioimage analysis, we believe the life sciences community can unlock new possibilities for accelerating biological research.'
+  license: CC-BY-4.0 
+  name: 'Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web'
+  publication_date: '2023-06-02'
+  tags:
+  - Bioimage Analysis
+  - include in DALIA
+  type:
+  - Publication
+  url: 
+  - https://zenodo.org/records/8032892
+- authors: 
+  - Jay Alammar
+  description: 'AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses.'
+  license: CC-BY-NC-SA-4.0 
+  name: 'The Illustrated Stable Diffusion'
+  publication_date: '2022-10-04'
+  tags:
+  - Artificial Intelligence
+  - include in DALIA
+  type:
+  - Blog Post
+  url: 
+  - https://jalammar.github.io/illustrated-stable-diffusion/
+  
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license.
+  license: cc-by-4.0
+  name: It's time to publish - where can bioimage data go? by Henning Falk
+  num_downloads: 0
+  publication_date: '2026-02-26'
+  submission_date: '2026-03-03T11:38:49.160123'
+  url:
+  - https://zenodo.org/records/18782352
+  - https://doi.org/10.5281/zenodo.18782352
+- authors:
+  - "M\xFCller, Maximilian E."
+  description: 'This presentation was developed by NFDI4BIOIMAGE and held at the University
+    of Konstanz as part of the Advanced Technologies for the Life Sciences course
+    of the Master''s programme in Biology.
+
+    It provides a general introduction to research data management (RDM) and presents
+    practical, easy-to-implement methods that can be directly integrated into everyday
+    research workflows. The lecture focuses on fundamental RDM principles and simple
+    strategies to improve data organization, documentation, storage, and long-term
+    usability.
+
+    Furthermore, it highlights the specific relevance of RDM in biological imaging
+    and introduces OMERO as a platform for structured data storage, metadata management,
+    and collaborative access.
+
+    The slides are intended for educational use and may serve as a resource for teaching
+    and training in research data management within the life sciences.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: Introduction to research data management in bioimaging
+  num_downloads: 0
+  publication_date: '2026-02-24'
+  submission_date: '2026-03-03T11:38:49.733166'
+  url:
+  - https://zenodo.org/records/18754248
+  - https://doi.org/10.5281/zenodo.18754248
+- authors:
+  - Ebert, Barbara
+  - Ewert, Frank
+  - "F\xF6rstner, Konrad U."
+  - "Gl\xF6ckner, Frank Oliver"
+  - McHardy, Alice Carolyn
+  - von Rummel, Philipp
+  - von Suchodoletz, Dirk
+  - Weidtkamp-Peters, Stefanie
+  - Ebeling, Mary-Ann
+  - Engel, Judith
+  - Hoffmann, Carsten
+  - Keller, Christin
+  - Lange, Matthias
+  - Magel, Maja
+  - Moore, Josh
+  - "M\xFChlhaus, Timo"
+  - Scholz, Uwe
+  - Specka, Xenia
+  - thor Straten, Mattis
+  description: 'The NFDI - German National Research Data Infrastructure - consortia
+    DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+    agree on a close cooperation to align their activities and offerings regarding
+    the management of biological data. The Memorandum of Understanding details the
+    foci of the consortia and their areas of cooperation, and forms the foundation
+    of the activities within the Biodata Interest Group.
+
+    The present document is an extended version of the MoU developed by DataPlant,
+    NFDI4Biodiversity and NFDI4Microbiota in 2024 (see F&ouml;rstner, K., Ebert, B.,
+    Gl&ouml;ckner, F.-O., von Suchodoletz, D., McHardy, A. C., &amp; M&uuml;hlhaus,
+    T. (2024). Memorandum of Understanding between NFDI4Biodiversity, NFDI4Microbiota
+    and DataPlant. Zenodo. https://doi.org/10.5281/zenodo.13880944).'
+  license: cc-by-4.0
+  name: Memorandum of Understanding between the NFDI consortia DataPLANT, NFDI4Microbiota,
+    NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+  num_downloads: 0
+  publication_date: '2026-02-19'
+  submission_date: '2026-03-03T11:38:50.498505'
+  url:
+  - https://zenodo.org/records/18694155
+  - https://doi.org/10.5281/zenodo.18694155
+- authors:
+  - Wetzker, Cornelia
+  description: 'The presentation was given at the online format of the SaxFDM Beratungsstammtisch
+    on February 6, 2026, a networking event amongst data stewards in Saxony organized
+    by Pia Voigt and Stephan Janosch.
+
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+    '
+  license: cc-by-4.0
+  name: "[SaxFDM-Beratungsstammtisch] Between CONSORTIUM and CAMPUS: The role(s) of\
+    \ discipline-specific data stewards \u2013 an example"
+  num_downloads: 16
+  publication_date: '2026-02-16'
+  submission_date: '2026-03-03T11:38:51.729902'
+  url:
+  - https://zenodo.org/records/18659976
+  - https://doi.org/10.5281/zenodo.18659976
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license. Modifications to this illustration include cropping.
+  license: cc-by-4.0
+  name: Santa Cloud's Workshop by Henning Falk
+  num_downloads: 38
+  publication_date: '2026-11-14'
+  submission_date: '2026-03-03T11:38:52.338945'
+  url:
+  - https://zenodo.org/records/17607828
+  - https://doi.org/10.5281/zenodo.17607828
+- authors:
+  - Wendt, Jens
+  description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
+    German Research Foundation) under the National Research Data Infrastructure &ndash;
+    NFDI 46/1 &ndash; 501864659.
+  license: cc-by-4.0
+  name: "Presentation about an \"enriched OMERO\" at the RDM4Mic meeting in M\xFC\
+    nster at 10/2025"
+  num_downloads: 20
+  publication_date: '2026-01-13'
+  submission_date: '2026-03-03T11:38:53.033743'
+  url:
+  - https://zenodo.org/records/18230666
+  - https://doi.org/10.5281/zenodo.18230666
+- authors:
+  - Tischer, Christian
+  description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
+
+    https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html'
+  license: cc-by-4.0
+  name: Accessible sharing of large correlative image datasets
+  num_downloads: 40
+  publication_date: '2026-01-08'
+  submission_date: '2026-03-03T11:38:54.205162'
+  url:
+  - https://zenodo.org/records/18184329
+  - https://doi.org/10.5281/zenodo.18184329
+- authors:
+  - Kemmer, Isabel
+  - Romdhane, Feriel
+  - Euro-BioImaging ERIC
+  description: 'Depositing data in quality data repositories is one crucial step towards
+    FAIR (Findable, Accessible, Interoperable, and Reusable) data. Accordingly, Euro-BioImaging
+    strongly encourages sharing scientific imaging data in established, thematic repositories.&nbsp;
+
+    To guide you in the selection of appropriate repositories, we have created an
+    overview of available repositories for different types of image data, including
+    their scope and requirements. This decision tree guides you through questions
+    about your data and directs you to the correct repository, and/or provides instructions
+    for further processing to meet the critera of the repositories.&nbsp;
+
+    Three seperate trees (on two A3 pages) are provided for different classes of imaging
+    data: open bioimage data, preclinical data, and human imaging data. Additional
+    to the .pdf format, also the editable version in powerpoint format (.pptx) is
+    now provided. Please be aware that opening the versions with another program might
+    lead to shifted formatting.
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Image Repository Decision Tree - Where do I deposit my imaging data
+  num_downloads: 1586
+  publication_date: '2026-01-28'
+  submission_date: '2026-03-03T11:39:39.958738'
+  url:
+  - https://zenodo.org/records/18378649
+  - https://doi.org/10.5281/zenodo.18378649
+- authors:
+  - Fabig, Gunar
+  description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
+    acquired on a 300 kV electron microscope. Sample is C. elegans sperm cell, high-pressure
+    frozen, freeze-substituted and embedded in Epon/Araldite. The resulting MRC-file
+    was imported to Amira and cropped there. The cropped file was saved in the Amira
+    file format (8bit unsigned). Pixel size is 25.72 Angstr&ouml;m.
+  license: cc-by-4.0
+  name: Example Amira file
+  num_downloads: 10
+  publication_date: '2026-01-22'
+  submission_date: '2026-03-03T11:40:22.935239'
+  url:
+  - https://zenodo.org/records/18337391
+  - https://doi.org/10.5281/zenodo.18337391
+- authors:
+  - Wetzker, Cornelia
+  - "M\xFCller, Maximilian E."
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
+    key achievements until February 2026 and the support offered by its data stewardship
+    team and help desk service. We recommend strategies to make bioimage data FAIRer
+    along the individual stages of the research data life cycle.&nbsp;&nbsp;
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+
+    '
+  license: cc-by-4.0
+  name: '[2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community
+    Support in Bioimage Research Data Management'
+  num_downloads: 0
+  publication_date: '2026-03-16'
+  submission_date: '2026-03-17T11:47:49.741540'
+  url:
+  - https://zenodo.org/records/19001717
+  - https://doi.org/10.5281/zenodo.19001717
+- authors:
+  - NFDI4BIOIMAGE
+  description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
+    in the frame of the consortium NFDI4BIOIMAGE from Henning Falk for the purpose
+    to be used in the 2026 NFDI4BIOIMAGE wall calendar. The cartoon is free to use
+    under a CC-BY 4.0 license.
+  license: cc-by-4.0
+  name: The Beauty of Metadata by Henning Falk
+  num_downloads: 0
+  publication_date: '2026-03-13'
+  submission_date: '2026-03-17T11:47:50.899410'
+  url:
+  - https://zenodo.org/records/18998676
+  - https://doi.org/10.5281/zenodo.18998676
+- authors:
+  - Kunis, Susanne
+  - Hanne, Janina
+  - Wetzker, Cornelia
+  - Weidtkamp-Peters, Stefanie
+  - Moore, Josh
+  description: 'The scheme represents figure 1 of the interim report of the consortium
+    NFDI4BIOIMAGE submitted in February 2026. It summarizes key achievements and related
+    metrics accomplished in the past three years linked to the corresponding central
+    objectives listed in the application of the consortium. Key visions and concepts
+    are further emphasized using illustrations and cropped elements thereof of Henning
+    Falk, including ''Monolithic vs. chunked'', ''Bea computes'' and ''FAIR re-use''&nbsp;&copy;2022
+    NumFOCUS, as well as of the NFDI4BIOIMAGE 2026 wall calendar December page ''It''s
+    time to publish - where can bioimage data go? by Henning Falk'' used under a CC
+    BY 4.0 license. Modifications to the drawings include cropping.
+
+    NFDI4BIOIMAGE is funded by Deutsche Forschungsgemeinschaft (DFG), grant number
+    NFDI 46/1, project number 501864659.'
+  license: cc-by-4.0
+  name: Objectives and key achievements of NFDI4BIOIMAGE as of February 2026
+  num_downloads: 0
+  publication_date: '2026-03-12'
+  submission_date: '2026-03-17T11:47:52.227075'
+  url:
+  - https://zenodo.org/records/18984621
+  - https://doi.org/10.5281/zenodo.18984621
+- authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  - Wendt, Jens
+  - "M\xFCller, Maximilian E."
+  - Wetzker, Cornelia
+  - Ahmadi, Mohsen
+  - Massei, Riccardo
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Helpdesk Deutschlandkarte
+  num_downloads: 0
+  publication_date: '2026-03-12'
+  submission_date: '2026-03-17T11:47:53.241653'
+  url:
+  - https://zenodo.org/records/18953151
+  - https://doi.org/10.5281/zenodo.18953151
+- authors:
+  - "M\xFCller, Maximilian E."
+  description: 'This short presentation provides a concise introduction to Data Management
+    Plans (DMPs) in the context of and bioimaging. It explains what DMPs are, why
+    they are important for research projects, and how they contribute to transparent,
+    reproducible, and FAIR research practices.
+
+    The slides outline commonly used templates and tools that support researchers
+    in creating and maintaining DMPs. In addition, the presentation highlights important
+    considerations for bioimaging data, including file formats, metadata annotation,
+    handling of large data sets and open software tools.
+
+    Designed as a brief educational resource, the presentation can be used for introductory
+    teaching, workshops, or self-learning by researchers and students who are new
+    to research data management and data management planning.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: Easy creation of your Bioimage Data Management Plan
+  num_downloads: 9
+  publication_date: '2026-03-11'
+  submission_date: '2026-03-17T11:47:53.960018'
+  url:
+  - https://zenodo.org/records/18957947
+  - https://doi.org/10.5281/zenodo.18957947
+- authors:
+  - Soltwedel, Johannes Richard
+  description: The German BioImaging research software engineering (RSE) unit is active
+    in a wide collection of projects. Here we sketch out how we envision these to
+    function together towards a better research data management environment for our
+    community of researchers, microscopists and bio-image analysts.
+  license: cc-by-4.0
+  name: 'GerBI community meeting 2026: Developing towards the ideal FAIR research
+    data management environment'
+  num_downloads: 0
+  publication_date: '2026-03-16'
+  submission_date: '2026-03-17T11:48:27.588298'
+  url:
+  - https://zenodo.org/records/19046270
+  - https://doi.org/10.5281/zenodo.19046270
+- authors:
+  - Hertzler, ian
+  description: imaris file that will not open in fiji. for troubleshooting purposes.
+  license: cc-by-4.0
+  name: ims file that won't open in FIJI
+  num_downloads: 3
+  publication_date: '2026-03-03'
+  submission_date: '2026-03-17T11:49:41.102734'
+  url:
+  - https://zenodo.org/records/18852087
+  - https://doi.org/10.5281/zenodo.18852087
+- authors:
+  - Fortmann-Grote, Carsten
+  - Goutte-Gattat, Damien
+  - Lubiana Alves, Tiago
+  - Moore, Josh
+  - Olvera Cabrera, Daniel
+  - Waagmeester, Andra
+  description: Source files and pdf of the tutorial held at SWAT4HCLS 2026
+  license: cc-by-4.0
+  name: 'SWAT4HCLS Tutorial: KG Construction with ONTOP'
+  num_downloads: 45
+  publication_date: '2026-03-23'
+  submission_date: '2026-03-24T11:49:35.493509'
+  url:
+  - https://zenodo.org/records/19184109
+  - https://doi.org/10.5281/zenodo.19184109
+- authors:
+  - Wetzker, Cornelia
+  - "M\xFCller, Maximilian E."
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'The poster presents the consortium NFDI4BIOIMAGE with its objectives,
+    key achievements until February 2026 and the support offered by its data stewardship
+    team and help desk service. We recommend strategies to make bioimage data FAIRer
+    along the individual stages of the research data life cycle.&nbsp;&nbsp;
+
+    Version 2 additionally comprises the poster in svg format for more flexible reuse.
+
+
+
+    The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project
+    number 501864659.
+
+
+    '
+  license: cc-by-4.0
+  name: '[2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community
+    Support in Bioimage Research Data Management'
+  num_downloads: 36
+  publication_date: '2026-03-19'
+  submission_date: '2026-03-24T11:49:35.932725'
+  url:
+  - https://zenodo.org/records/19107804
+  - https://doi.org/10.5281/zenodo.19107804
+- authors:
+  - Soltwedel, Johannes Richard
+  - Boissonnet, Tom
+  - Weidtkamp-Peters, Stefanie
+  description: The German BioImaging research software engineering (RSE) unit is active
+    in a wide collection of projects. Here we sketch out how we envision these to
+    function together towards a better research data management environment for our
+    community of researchers, microscopists and bio-image analysts.
+  license: cc-by-4.0
+  name: 'GerBI community meeting 2026: Developing towards the ideal FAIR research
+    data management environment'
+  num_downloads: 85
+  publication_date: '2026-03-17'
+  submission_date: '2026-03-24T11:49:36.398238'
+  url:
+  - https://zenodo.org/records/19063027
+  - https://doi.org/10.5281/zenodo.19063027
+- authors:
+  - Haase, Robert
+  description: In&nbsp; this slide deck we dive into generative artificial intelligence
+    in particular used for code generation and see how it impacts Bio-Image Data Science.
+    We learn about benchmarking large language models for data analysis code generation,
+    and how to use them practically in our work.
+  license: cc-by-4.0
+  name: How Generative Artificial Intelligence impacts Bio-Image Data Science
+  num_downloads: 36
+  publication_date: '2026-02-22'
+  submission_date: '2026-03-24T11:49:40.608039'
+  url:
+  - https://zenodo.org/records/18735653
+  - https://doi.org/10.5281/zenodo.18735653
+- authors:
+  - "H\xF6ck, Lina Lisa"
+  - Haase, Robert
+  description: 'This slide deck accompanies the AI4Science for scientists at UFZ Magdeburg:
+    https://scads.github.io/ai4science-ufz-madgeburg-2026/intro.html
+
+    It outlines the topics:
+
+
+
+    Introduction to Artificial Intelligence, AI systems, and language models
+
+
+
+    Application areas and limitations of AI in text generation
+
+
+
+    AI-assisted literature research
+
+
+
+    Prompt engineering
+
+
+
+    Prompting with large context
+
+
+
+    Knowledge distillation
+
+
+
+    Text Analysis / Information Retrieval
+
+
+
+    Embeddings and retrieval-augmented generation
+
+
+
+    Data analysis
+
+
+
+    Data and code generation
+
+
+
+    Bias
+
+
+
+    Privacy-compliant use
+
+
+
+    Copyright
+
+
+
+    EU AI Act
+
+
+    '
+  license: cc-by-4.0
+  name: AI4Science Training @ UFZ Magdeburg
+  num_downloads: 83
+  publication_date: '2026-03-27'
+  submission_date: '2026-03-31T11:53:52.304811'
+  url:
+  - https://zenodo.org/records/19246441
+  - https://doi.org/10.5281/zenodo.19246441
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Summary of new features and use cases of transformation metadata in
+    the upcoming ome-zarr 0.6 metadata standard
+  license: cc-by-4.0
+  name: 'Transforming ome-zarr: What''s (going to be) new in 0.6'
+  num_downloads: 16
+  publication_date: '2026-03-31'
+  submission_date: '2026-03-31T11:54:14.019344'
+  url:
+  - https://zenodo.org/records/19335305
+  - https://doi.org/10.5281/zenodo.19335305
+
