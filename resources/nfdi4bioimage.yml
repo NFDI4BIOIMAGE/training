@@ -20761,6 +20761,7 @@ resources:
   - https://zenodo.org/records/16030329
   - https://doi.org/10.5281/zenodo.16030329
   uuid: 5da16e43-ad3a-4d3f-bed7-0f30a9116b2d
+  file_formats: .pdf
 - authors:
   - Michael
   license: cc-by-4.0
@@ -24352,6 +24353,7 @@ resources:
   - https://zenodo.org/records/17102027
   - https://doi.org/10.5281/zenodo.17102027
   uuid: 24104763-28b1-4733-b360-82180268a471
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: 'In this slide-deck we learn how prompt large language models for bio-image
@@ -24368,6 +24370,7 @@ resources:
   - https://zenodo.org/records/17053832
   - https://doi.org/10.5281/zenodo.17053832
   uuid: 6b4fa507-f3da-411b-b45c-7bffdede9279
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -24385,6 +24388,7 @@ resources:
   - https://zenodo.org/records/16812312
   - https://doi.org/10.5281/zenodo.16812312
   uuid: 87f91a32-0cff-43d0-a775-845c4c9607e0
+  file_formats: .pdf * .pptx
 - authors:
   - Zobel, Thomas
   description: 'MetaFold simplifies laboratory data management through easy-to-use
@@ -24432,6 +24436,7 @@ resources:
   - https://zenodo.org/records/17296688
   - https://doi.org/10.5281/zenodo.17296688
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
+  file_formats: .pdf
 - authors:
   - Barry, David
   description: Slides presented at Empowering Healthcare with Automated Analysis at
@@ -24445,6 +24450,7 @@ resources:
   - https://zenodo.org/records/14767945
   - https://doi.org/10.5281/zenodo.14767945
   uuid: 8346ae28-e542-42a2-b3c5-d01f4fc3068c
+  file_formats: .pptx
 - authors:
   - Barry, David
   description: ARRIVE 2.0 checklist for &quot;Automated staging of zebrafish embryos
@@ -24459,6 +24465,7 @@ resources:
   - https://zenodo.org/records/7198533
   - https://doi.org/10.5281/zenodo.7198533
   uuid: e7d506b1-022f-48c6-8454-8834602b174c
+  file_formats: .pdf
 - authors:
   - Barry, David
   - Fallesen, Todd
@@ -24471,6 +24478,7 @@ resources:
   - https://zenodo.org/records/13832613
   - https://doi.org/10.5281/zenodo.13832613
   uuid: 2b35727f-569c-4d99-a67c-117cbfba956e
+  file_formats: .zip
 - authors:
   - Kather, Jakob Nikolas
   - Halama, Niels
@@ -24531,6 +24539,7 @@ resources:
   - https://zenodo.org/records/1214456
   - https://doi.org/10.5281/zenodo.1214456
   uuid: 1c5d90f7-1443-46df-acf1-f4126c18b22f
+  file_formats: .zip
 - authors:
   - Barry, David
   description: 'Reproducibility is a cornerstone of robust biomedical research, yet
@@ -24555,6 +24564,7 @@ resources:
   - https://zenodo.org/records/17377255
   - https://doi.org/10.5281/zenodo.17377255
   uuid: 87a5ea7c-7373-47df-bb6c-0ddce77878ab
+  file_formats: .pptx
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -24584,6 +24594,7 @@ resources:
   - https://zenodo.org/records/17349995
   - https://doi.org/10.5281/zenodo.17349995
   uuid: 673929e4-7d63-402d-b5a8-cf9a1ca18bea
+  file_formats: .pdf
 - authors:
   - Robert Haase
   description: BioImage Analysis using Python tutorial at EMBO LSM 2025
@@ -24718,6 +24729,7 @@ resources:
   - https://zenodo.org/records/17579804
   - https://doi.org/10.5281/zenodo.17579804
   uuid: 112c8828-a4ee-46c9-999e-427a8145212d
+  file_formats: .pdf
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24743,6 +24755,7 @@ resources:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
   uuid: 67c2eb01-b8af-4809-89ca-5bcbbba62863
+  file_formats: .pdf
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24768,6 +24781,7 @@ resources:
   - https://zenodo.org/records/17429285
   - https://doi.org/10.5281/zenodo.17429285
   uuid: adaa7404-8885-4cb0-9cbf-2db959e9be65
+  file_formats: .pdf * .pptx
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24783,6 +24797,7 @@ resources:
   - https://zenodo.org/records/17424911
   - https://doi.org/10.5281/zenodo.17424911
   uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
+  file_formats: .pdf
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24797,6 +24812,7 @@ resources:
   - https://zenodo.org/records/17404133
   - https://doi.org/10.5281/zenodo.17404133
   uuid: ae0fc896-d4d9-4262-a89f-fb8354cee5ee
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24812,6 +24828,7 @@ resources:
   - https://zenodo.org/records/17372593
   - https://doi.org/10.5281/zenodo.17372593
   uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24832,6 +24849,7 @@ resources:
   - https://zenodo.org/records/17191504
   - https://doi.org/10.5281/zenodo.17191504
   uuid: 95c37346-5ccc-44c2-b1d4-c78f5372cf1c
+  file_formats: .pdf
 - authors:
   - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
@@ -24844,6 +24862,7 @@ resources:
   - https://zenodo.org/records/17406102
   - https://doi.org/10.5281/zenodo.17406102
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
+  file_formats: .ims
 - authors:
   - Soltwedel, Johannes Richard
   description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
@@ -24857,6 +24876,7 @@ resources:
   - https://zenodo.org/records/17639350
   - https://doi.org/10.5281/zenodo.17639350
   uuid: 2543610e-e760-4150-a77d-01ec803dc87b
+  file_formats: .pptx
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24869,6 +24889,7 @@ resources:
   - https://zenodo.org/records/17604591
   - https://doi.org/10.5281/zenodo.17604591
   uuid: 1de841cf-f656-45ee-8b73-104ca15528d5
+  file_formats: .pdf
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24880,6 +24901,7 @@ resources:
   - https://zenodo.org/records/17590655
   - https://doi.org/10.5281/zenodo.17590655
   uuid: 30a7bb3d-320b-4505-9827-03830e954b2d
+  file_formats: .ets * .vsi
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24893,6 +24915,7 @@ resources:
   - https://zenodo.org/records/17633744
   - https://doi.org/10.5281/zenodo.17633744
   uuid: caf885ad-3b69-4049-979d-d0406d20e212
+  file_formats: .pdf * .svg
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24906,6 +24929,7 @@ resources:
   - https://zenodo.org/records/17632823
   - https://doi.org/10.5281/zenodo.17632823
   uuid: 35fc8451-ba6d-4ef9-b206-d2f26521c9f7
+  file_formats: .pdf * .pptx
 - authors:
   - François Chollet
   - Matt Watson
@@ -24974,6 +24998,7 @@ resources:
   - https://zenodo.org/records/17668709
   - https://doi.org/10.5281/zenodo.17668709
   uuid: 526154c6-4503-42c5-be37-b9f6f7daca73
+  file_formats: .zip * .zsh
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -25000,6 +25025,7 @@ resources:
   - https://zenodo.org/records/17775761
   - https://doi.org/10.5281/zenodo.17775761
   uuid: 66d14b2b-9c10-4219-85cf-09be283fd0a9
+  file_formats: .pdf
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -25029,6 +25055,7 @@ resources:
   - https://zenodo.org/records/17775957
   - https://doi.org/10.5281/zenodo.17775957
   uuid: 0e1df7d4-809e-4c33-82f4-acb47ad4bf39
+  file_formats: .pdf
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -25044,6 +25071,7 @@ resources:
   - https://zenodo.org/records/17669681
   - https://doi.org/10.5281/zenodo.17669681
   uuid: 5f74e226-b90c-4699-aae7-4c0996525615
+  file_formats: .pdf * .pptx
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -25063,6 +25091,7 @@ resources:
   - https://zenodo.org/records/17671971
   - https://doi.org/10.5281/zenodo.17671971
   uuid: e8b3040e-88d9-4ec2-a26b-879d58ad03e5
+  file_formats: .zip
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -25089,6 +25118,7 @@ resources:
   - https://zenodo.org/records/17659149
   - https://doi.org/10.5281/zenodo.17659149
   uuid: 87584195-f0bd-485d-a213-712cf3b4f228
+  file_formats: .pdf * .svg
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -25160,6 +25190,7 @@ resources:
   - https://zenodo.org/records/17672046
   - https://doi.org/10.5281/zenodo.17672046
   uuid: 98ed8315-b4ed-4bb2-ae05-d936612636d7
+  file_formats: .pdf
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -25173,6 +25204,7 @@ resources:
   - https://zenodo.org/records/17725097
   - https://doi.org/10.5281/zenodo.17725097
   uuid: 65cf627a-557b-4bca-85cc-0bbdb2b3a847
+  file_formats: .czi
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -25199,6 +25231,7 @@ resources:
   - https://zenodo.org/records/17792816
   - https://doi.org/10.5281/zenodo.17792816
   uuid: 0d903ed7-40e1-4bec-a69a-44d2b4f82fa3
+  file_formats: .zip
 - authors:
   - Wendt, Jens
   - Bortolomeazzi, Michele
@@ -25268,6 +25301,7 @@ resources:
   - https://zenodo.org/records/17897525
   - https://doi.org/10.5281/zenodo.17897525
   uuid: d210f6a4-bd09-4766-b008-ac715610aa1b
+  file_formats: .ijm * .ipynb * .pdf * .pptx
 - authors:
   - Wetzker, Cornelia
   - Schlierf, Michael
@@ -25295,6 +25329,7 @@ resources:
   - https://zenodo.org/records/17876813
   - https://doi.org/10.5281/zenodo.17876813
   uuid: 95130c26-82b3-4389-b853-eb5684e7336c
+  file_formats: .pdf
 - authors:
   - Vedder, Lucia
   - Peschel, Paul
@@ -25396,6 +25431,7 @@ resources:
   - https://zenodo.org/records/17787401
   - https://doi.org/10.5281/zenodo.17787401
   uuid: 74decbfd-9bff-47b1-b5d4-95f71fa59e51
+  file_formats: .pdf
 - authors:
   - Boissonnet, Tom
   - Massei, Riccardo
@@ -25416,6 +25452,7 @@ resources:
   - https://zenodo.org/records/17856704
   - https://doi.org/10.5281/zenodo.17856704
   uuid: 4cf36546-effb-48cc-b077-355d56d9a511
+  file_formats: .pdf * .pptx
 - authors:
   - Soltwedel, Johannes Richard
   description: Introductory slides for top-level understanding of ome-zarr, cloud
@@ -25429,6 +25466,7 @@ resources:
   - https://zenodo.org/records/17898202
   - https://doi.org/10.5281/zenodo.17898202
   uuid: 68529c58-8da6-4818-8fc9-17980fab84e5
+  file_formats: .pdf * .pptx
 - authors:
   - Dayer, Andrew J
   license: cc-by-4.0
@@ -25440,6 +25478,7 @@ resources:
   - https://zenodo.org/records/17914642
   - https://doi.org/10.5281/zenodo.17914642
   uuid: 1a05e4d8-4d4d-4f58-9fe7-75de68ec7038
+  file_formats: .zip
 - authors:
   - Kumar, Neeraj
   - Verma, Ruchika
@@ -25491,6 +25530,7 @@ resources:
   - https://zenodo.org/records/17978132
   - https://doi.org/10.5281/zenodo.17978132
   uuid: a829c43c-03e7-470f-bfa5-e7b8c70ded0b
+  file_formats: .pdf * .pptx * .xlsx
 - authors:
   - Fuchs, Vanessa
   - Zobel, Thomas
@@ -25578,6 +25618,7 @@ resources:
   - https://zenodo.org/records/17974214
   - https://doi.org/10.5281/zenodo.17974214
   uuid: fc9c6b77-982a-4b01-a02e-b3c656b9ac5a
+  file_formats: .pdf * .pptx
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -25609,6 +25650,7 @@ resources:
   - https://zenodo.org/records/17798356
   - https://doi.org/10.5281/zenodo.17798356
   uuid: f73b6d30-6efb-49f0-95a7-3338e86fda91
+  file_formats: .pdf
 - name: 'Data sharing and privacy issues in neuroimaging research: Opportunities,
     obstacles, challenges, and monsters under the bed.'
   type:
@@ -25691,6 +25733,7 @@ resources:
   url: https://zenodo.org/records/17472821
   language: en
   uuid: 0a408eb2-28ba-4b7d-a6b3-fd60e39b395a
+  file_formats: .pdf * .pptx
 - authors:
   - Cornelia Wetzker
   - Vanessa Fuchs
@@ -25823,6 +25866,7 @@ resources:
   url:
   - https://zenodo.org/records/14751700
   uuid: 0e5cdf4e-9f26-497e-9510-99f9960d72fc
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   - Peter Bankhead
@@ -25873,6 +25917,7 @@ resources:
   url:
   - https://zenodo.org/records/11457452
   uuid: c4139d39-7c3a-44a5-860e-b3b2075b997f
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   description: As microscopy diversifies and becomes ever-more complex, the problem
@@ -25898,6 +25943,7 @@ resources:
   url:
   - https://zenodo.org/records/10734599
   uuid: a4afd548-9417-48a6-bb7f-16aac5698308
+  file_formats: .docx
 - authors:
   - Beth Cimini
   description: Can Jupyter Book help make the friendliest possible resource we can
@@ -25913,6 +25959,7 @@ resources:
   url:
   - https://zenodo.org/records/10653464
   uuid: 2d6553af-86ee-45f9-a487-240d155be278
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   description: Blog post from the "Measure Everything... Ask Questions Later" blog
@@ -25929,6 +25976,7 @@ resources:
   url:
   - https://zenodo.org/records/10498985
   uuid: a791b07c-5bcd-4974-a320-25a28db4917f
+  file_formats: .pdf
 - authors:
   - Wei Ouyang
   - Kevin W Eliceiri
@@ -25956,6 +26004,7 @@ resources:
   url:
   - https://zenodo.org/records/8032892
   uuid: 294e4891-02fc-44e4-b44b-6b0d8b615390
+  file_formats: .pdf
 - authors:
   - Jay Alammar
   description: AI image generation is the most recent AI capability blowing people’s
@@ -25989,6 +26038,7 @@ resources:
   - https://zenodo.org/records/18782352
   - https://doi.org/10.5281/zenodo.18782352
   uuid: c5b75bbe-8e1b-4ebe-9b16-377ab6649a23
+  file_formats: .jpg
 - authors:
   - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held at the University
@@ -26020,6 +26070,7 @@ resources:
   - https://zenodo.org/records/18754248
   - https://doi.org/10.5281/zenodo.18754248
   uuid: 54bfcef8-a243-44ad-a9fc-b75bd1a12225
+  file_formats: .pdf
 - authors:
   - Ebert, Barbara
   - Ewert, Frank
@@ -26062,6 +26113,7 @@ resources:
   - https://zenodo.org/records/18694155
   - https://doi.org/10.5281/zenodo.18694155
   uuid: ad9446ff-3cd3-47fc-ac2d-65a783c70d25
+  file_formats: .pdf
 - authors:
   - Wetzker, Cornelia
   description: 'The presentation was given at the online format of the SaxFDM Beratungsstammtisch
@@ -26085,6 +26137,7 @@ resources:
   - https://zenodo.org/records/18659976
   - https://doi.org/10.5281/zenodo.18659976
   uuid: 1c6cc567-8a1d-402b-bbf2-9bc60acd0f15
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -26100,6 +26153,7 @@ resources:
   - https://zenodo.org/records/17607828
   - https://doi.org/10.5281/zenodo.17607828
   uuid: a0a605bb-d3d3-4fe7-8b55-4064ba2a7f4c
+  file_formats: .jpg * .pdf * .tiff
 - authors:
   - Wendt, Jens
   description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
@@ -26115,6 +26169,7 @@ resources:
   - https://zenodo.org/records/18230666
   - https://doi.org/10.5281/zenodo.18230666
   uuid: 88622080-9d18-445e-8bc8-b88a455f2c9b
+  file_formats: .pdf * .pptx
 - authors:
   - Tischer, Christian
   description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
@@ -26129,6 +26184,7 @@ resources:
   - https://zenodo.org/records/18184329
   - https://doi.org/10.5281/zenodo.18184329
   uuid: 8affc554-9e6f-4d80-b2de-8a4497298968
+  file_formats: .pdf
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -26159,6 +26215,7 @@ resources:
   - https://zenodo.org/records/18378649
   - https://doi.org/10.5281/zenodo.18378649
   uuid: 1af39137-b5e0-4515-b422-5d26c94f9658
+  file_formats: .pdf * .pptx
 - authors:
   - Fabig, Gunar
   description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
@@ -26175,6 +26232,7 @@ resources:
   - https://zenodo.org/records/18337391
   - https://doi.org/10.5281/zenodo.18337391
   uuid: 86828b40-cedf-4e3a-b54c-3eedebd13a7b
+  file_formats: .am
 - authors:
   - Wetzker, Cornelia
   - Müller, Maximilian E.
@@ -26201,6 +26259,7 @@ resources:
   - https://zenodo.org/records/19001717
   - https://doi.org/10.5281/zenodo.19001717
   uuid: 3cbe23d9-3b80-4757-9836-728bda023e61
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -26216,6 +26275,7 @@ resources:
   - https://zenodo.org/records/18998676
   - https://doi.org/10.5281/zenodo.18998676
   uuid: 3d8ea9e7-e054-43ac-ac01-aab7262387f3
+  file_formats: .jpg * .pdf * .tiff
 - authors:
   - Kunis, Susanne
   - Hanne, Janina
@@ -26243,6 +26303,7 @@ resources:
   - https://zenodo.org/records/18984621
   - https://doi.org/10.5281/zenodo.18984621
   uuid: 5a4d5882-f7c2-4743-b889-ba9a4c210019
+  file_formats: .png
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
@@ -26259,6 +26320,7 @@ resources:
   - https://zenodo.org/records/18953151
   - https://doi.org/10.5281/zenodo.18953151
   uuid: 96a329c9-0744-4c5f-9dcb-4acc8ff3a56c
+  file_formats: .png * .svg
 - authors:
   - Müller, Maximilian E.
   description: 'This short presentation provides a concise introduction to Data Management
@@ -26287,6 +26349,7 @@ resources:
   - https://zenodo.org/records/18957947
   - https://doi.org/10.5281/zenodo.18957947
   uuid: 11130733-32d1-4bba-bc5e-1ddc9403d08d
+  file_formats: .pdf
 - authors:
   - Soltwedel, Johannes Richard
   description: The German BioImaging research software engineering (RSE) unit is active
@@ -26303,6 +26366,7 @@ resources:
   - https://zenodo.org/records/19046270
   - https://doi.org/10.5281/zenodo.19046270
   uuid: 74cc5f9e-8621-4645-aad0-805da4be0776
+  file_formats: .pdf * .pptx
 - authors:
   - Hertzler, ian
   description: imaris file that will not open in fiji. for troubleshooting purposes.
@@ -26315,6 +26379,7 @@ resources:
   - https://zenodo.org/records/18852087
   - https://doi.org/10.5281/zenodo.18852087
   uuid: 8aa2a169-24b0-4244-9568-9ed2671f32e6
+  file_formats: .ims
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -26332,6 +26397,7 @@ resources:
   - https://zenodo.org/records/19184109
   - https://doi.org/10.5281/zenodo.19184109
   uuid: f2ed4201-46f4-4694-8d80-8b1bb5b82362
+  file_formats: .org * .pdf * .tex
 - authors:
   - Wetzker, Cornelia
   - Müller, Maximilian E.
@@ -26360,6 +26426,7 @@ resources:
   - https://zenodo.org/records/19107804
   - https://doi.org/10.5281/zenodo.19107804
   uuid: a3fbe9af-de65-40a9-8c7f-acad4ce59aac
+  file_formats: .pdf * .svg
 - authors:
   - Soltwedel, Johannes Richard
   - Boissonnet, Tom
@@ -26378,6 +26445,7 @@ resources:
   - https://zenodo.org/records/19063027
   - https://doi.org/10.5281/zenodo.19063027
   uuid: 90e52b09-33c8-433b-a1ad-8653fcb77c20
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: In&nbsp; this slide deck we dive into generative artificial intelligence
@@ -26393,6 +26461,7 @@ resources:
   - https://zenodo.org/records/18735653
   - https://doi.org/10.5281/zenodo.18735653
   uuid: 9a9d6e49-606c-4db1-8c3c-d51a4e79ec4a
+  file_formats: .pdf * .pptx
 - authors:
   - Höck, Lina Lisa
   - Haase, Robert
@@ -26468,6 +26537,7 @@ resources:
   - https://zenodo.org/records/19246441
   - https://doi.org/10.5281/zenodo.19246441
   uuid: ad3d2935-9033-4ff1-a9ae-cfb0edcb257b
+  file_formats: .pdf * .pptx
 - authors:
   - Soltwedel, Johannes Richard
   description: Summary of new features and use cases of transformation metadata in
@@ -26481,3 +26551,4 @@ resources:
   - https://zenodo.org/records/19335305
   - https://doi.org/10.5281/zenodo.19335305
   uuid: 7cb72475-bd17-45cd-9e58-c806272f6345
+  file_formats: .pdf * .pptx
