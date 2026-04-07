@@ -26481,3 +26481,19 @@ resources:
   - https://zenodo.org/records/19335305
   - https://doi.org/10.5281/zenodo.19335305
   uuid: 7cb72475-bd17-45cd-9e58-c806272f6345
+- authors:
+  - Fortmann-Grote, Carsten
+  - Goutte-Gattat, Damien
+  - Lubiana Alves, Tiago
+  - Moore, Josh
+  - Olvera Cabrera, Daniel
+  - Waagmeester, Andra
+  description: Source files and pdf of the tutorial held at SWAT4HCLS 2026
+  license: cc-by-4.0
+  name: 'SWAT4HCLS Tutorial: KG Construction with ONTOP'
+  num_downloads: 63
+  publication_date: '2026-04-07'
+  submission_date: '2026-04-07T11:56:32.095865'
+  url:
+  - https://zenodo.org/records/19450032
+  - https://doi.org/10.5281/zenodo.19450032
