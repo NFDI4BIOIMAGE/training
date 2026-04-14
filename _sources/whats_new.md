@@ -1,4 +1,4 @@
-# Recently added (9)
+# Recently added (8)
 ## AI4Science Training @ UFZ Magdeburg
 
 Höck, Lina Lisa, Robert Haase
@@ -63,28 +63,6 @@ EU AI Act
 
 ---
 
-## Easy creation of your Bioimage Data Management Plan
-
-Müller, Maximilian E.
-
-Published 2026-03-11
-
-Licensed CC-BY-4.0
-
-
-
-This short presentation provides a concise introduction to Data Management Plans (DMPs) in the context of and bioimaging. It explains what DMPs are, why they are important for research projects, and how they contribute to transparent, reproducible, and FAIR research practices.
-The slides outline commonly used templates and tools that support researchers in creating and maintaining DMPs. In addition, the presentation highlights important considerations for bioimaging data, including file formats, metadata annotation, handling of large data sets and open software tools.
-Designed as a brief educational resource, the presentation can be used for introductory teaching, workshops, or self-learning by researchers and students who are new to research data management and data management planning.
-We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
-
-[https://zenodo.org/records/18957947](https://zenodo.org/records/18957947)
-
-[https://doi.org/10.5281/zenodo.18957947](https://doi.org/10.5281/zenodo.18957947)
-
-
----
-
 ## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
 
 Soltwedel, Johannes Richard
@@ -119,23 +97,6 @@ In&nbsp; this slide deck we dive into generative artificial intelligence in part
 [https://zenodo.org/records/18735653](https://zenodo.org/records/18735653)
 
 [https://doi.org/10.5281/zenodo.18735653](https://doi.org/10.5281/zenodo.18735653)
-
-
----
-
-## NFDI4BIOIMAGE Helpdesk Deutschlandkarte
-
-Fuchs, Vanessa Aphaia Fiona, Jens Wendt, Müller, Maximilian E., Cornelia Wetzker, Mohsen Ahmadi, Riccardo Massei
-
-Published 2026-03-12
-
-Licensed CC-BY-4.0
-
-
-
-[https://zenodo.org/records/18953151](https://zenodo.org/records/18953151)
-
-[https://doi.org/10.5281/zenodo.18953151](https://doi.org/10.5281/zenodo.18953151)
 
 
 ---
@@ -199,6 +160,29 @@ The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project nu
 [https://zenodo.org/records/19107804](https://zenodo.org/records/19107804)
 
 [https://doi.org/10.5281/zenodo.19107804](https://doi.org/10.5281/zenodo.19107804)
+
+
+---
+
+## [Chemnitzer Linux Tage 2026] Open Source VDI: SPICE / QEMU with Video stream support
+
+von Suchodoletz, Dirk, Rafael Gieschke, Michael Scherle
+
+Published 2026-03-28
+
+Licensed CC-BY-4.0
+
+
+
+The poster was presented at the Chemnitzer Linux Tage 2026.
+Additionally, the state of developments in Open Source VDI (OSVDI) was further presented in a talk by Rafael Gieschke, Michael Scherle and Dirk von Suchodoletz.&nbsp;The solution developed in WP2 of NFDI4BIOIMAGE provides a complete remote desktop representation via virtualization or cloud environments, accessible over a network connection. The goal is to implement a typical imaging workstation available remotely using a fully open and freely available software stack. OSVDI aims to complete a free and open IT toolkit in the spirit of digital sovereignty. The talk therefore particularly addresses co-developers as well as IT decision-makers and infrastructure administrators, with the goal of promoting the project beyond NFDI4BIOIMAGE and ensuring its long-term sustainability.
+Link to the recording of the talk (in German): https://media.ccc.de/v/clt26-417-open-source-vdi-hw-beschleunigter-remote-access-zu-libvirt
+Link to the slides of the talk (in German): https://chemnitzer.linux-tage.de/2026/media/programm/folien/417.pdf
+The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure - NFDI 46/1 - 501864659.
+
+[https://zenodo.org/records/19469051](https://zenodo.org/records/19469051)
+
+[https://doi.org/10.5281/zenodo.19469051](https://doi.org/10.5281/zenodo.19469051)
 
 
 ---

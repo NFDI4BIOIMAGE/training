@@ -1,4 +1,4 @@
-# Cc-by-4.0 (491)
+# Cc-by-4.0 (492)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -5708,7 +5708,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-02-26
 
@@ -10907,7 +10907,7 @@ Tags: Exclude From Dalia
 
 Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
 
-Published 2026-03-23
+Published 2026-04-07
 
 Licensed CC-BY-4.0
 
@@ -10915,9 +10915,9 @@ Licensed CC-BY-4.0
 
 Source files and pdf of the tutorial held at SWAT4HCLS 2026
 
-[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
+[https://zenodo.org/records/19450032](https://zenodo.org/records/19450032)
 
-[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
+[https://doi.org/10.5281/zenodo.19450032](https://doi.org/10.5281/zenodo.19450032)
 
 
 ---
@@ -10984,7 +10984,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-11-14
 
@@ -12508,7 +12508,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Published 2026-03-13
 
@@ -13650,6 +13650,29 @@ Tags: Research Data Management, Bioimage Analysis, Data Science, Exclude From Da
 Content type: Poster
 
 [https://zenodo.org/doi/10.5281/zenodo.8340247](https://zenodo.org/doi/10.5281/zenodo.8340247)
+
+
+---
+
+## [Chemnitzer Linux Tage 2026] Open Source VDI: SPICE / QEMU with Video stream support
+
+von Suchodoletz, Dirk, Rafael Gieschke, Michael Scherle
+
+Published 2026-03-28
+
+Licensed CC-BY-4.0
+
+
+
+The poster was presented at the Chemnitzer Linux Tage 2026.
+Additionally, the state of developments in Open Source VDI (OSVDI) was further presented in a talk by Rafael Gieschke, Michael Scherle and Dirk von Suchodoletz.&nbsp;The solution developed in WP2 of NFDI4BIOIMAGE provides a complete remote desktop representation via virtualization or cloud environments, accessible over a network connection. The goal is to implement a typical imaging workstation available remotely using a fully open and freely available software stack. OSVDI aims to complete a free and open IT toolkit in the spirit of digital sovereignty. The talk therefore particularly addresses co-developers as well as IT decision-makers and infrastructure administrators, with the goal of promoting the project beyond NFDI4BIOIMAGE and ensuring its long-term sustainability.
+Link to the recording of the talk (in German): https://media.ccc.de/v/clt26-417-open-source-vdi-hw-beschleunigter-remote-access-zu-libvirt
+Link to the slides of the talk (in German): https://chemnitzer.linux-tage.de/2026/media/programm/folien/417.pdf
+The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure - NFDI 46/1 - 501864659.
+
+[https://zenodo.org/records/19469051](https://zenodo.org/records/19469051)
+
+[https://doi.org/10.5281/zenodo.19469051](https://doi.org/10.5281/zenodo.19469051)
 
 
 ---

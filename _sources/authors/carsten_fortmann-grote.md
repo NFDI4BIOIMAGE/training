@@ -125,7 +125,7 @@ Tags: Exclude From Dalia
 
 Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
 
-Published 2026-03-23
+Published 2026-04-07
 
 Licensed CC-BY-4.0
 
@@ -133,9 +133,9 @@ Licensed CC-BY-4.0
 
 Source files and pdf of the tutorial held at SWAT4HCLS 2026
 
-[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
+[https://zenodo.org/records/19450032](https://zenodo.org/records/19450032)
 
-[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
+[https://doi.org/10.5281/zenodo.19450032](https://doi.org/10.5281/zenodo.19450032)
 
 
 ---
