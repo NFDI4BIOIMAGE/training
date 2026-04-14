@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [Bio-image Data Science Lectures @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/12623730) by "Haase, Robert" (177 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [CZI file examples](https://zenodo.org/records/8305531) by "Nicolas Chiaruttini" (202 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis](https://zenodo.org/records/14045172) by "Frisch, Katrin" (141 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [100,000 histological images of human colorectal cancer and healthy tissue](https://zenodo.org/records/1214456) by "Kather, Jakob Nikolas and Halama, Niels and Marx, Alexander" (195 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Melanoma Histopathology Dataset with Tissue and Nuclei Annotations](https://zenodo.org/records/15050523) by "Schuiveling, Mark" (93 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis](https://zenodo.org/records/14045172) by "Frisch, Katrin" (138 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
