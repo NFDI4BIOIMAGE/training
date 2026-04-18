@@ -26814,6 +26814,7 @@ resources:
   url:
   - https://zenodo.org/records/19469051
   - https://doi.org/10.5281/zenodo.19469051
+  uuid: 302922d1-a4d2-43dc-a8aa-3a2718c35ecc
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -26830,3 +26831,4 @@ resources:
   url:
   - https://zenodo.org/records/19450032
   - https://doi.org/10.5281/zenodo.19450032
+  uuid: d10df922-cc8e-4554-8e7a-293db513328e
