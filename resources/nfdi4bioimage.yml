@@ -26815,6 +26815,10 @@ resources:
   - https://zenodo.org/records/19469051
   - https://doi.org/10.5281/zenodo.19469051
   uuid: 302922d1-a4d2-43dc-a8aa-3a2718c35ecc
+  authors_with_orcid:
+  - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
+  - Rafael Gieschke https://orcid.org/0000-0002-2778-4218
+  - Michael Scherle https://orcid.org/0009-0008-6652-0697
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -26832,3 +26836,10 @@ resources:
   - https://zenodo.org/records/19450032
   - https://doi.org/10.5281/zenodo.19450032
   uuid: d10df922-cc8e-4554-8e7a-293db513328e
+  authors_with_orcid:
+  - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  - Damien Goutte-Gattat https://orcid.org/0000-0002-6095-8718
+  - Tiago Lubiana Alves https://orcid.org/0000-0003-2473-2313
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
+  - Daniel Olvera Cabrera https://orcid.org/0000-0002-7935-9715
+  - Andra Waagmeester https://orcid.org/0000-0001-9773-4008
