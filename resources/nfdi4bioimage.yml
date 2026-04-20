@@ -20763,6 +20763,7 @@ resources:
   uuid: 5da16e43-ad3a-4d3f-bed7-0f30a9116b2d
   authors_with_orcid:
   - Smitesh Jain
+  file_formats: .pdf
 - authors:
   - Michael
   license: cc-by-4.0
@@ -24356,6 +24357,7 @@ resources:
   uuid: 24104763-28b1-4733-b360-82180268a471
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: 'In this slide-deck we learn how prompt large language models for bio-image
@@ -24374,6 +24376,7 @@ resources:
   uuid: 6b4fa507-f3da-411b-b45c-7bffdede9279
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: In this slide deck we learn how to write reproducible bio-image analysis
@@ -24393,6 +24396,7 @@ resources:
   uuid: 87f91a32-0cff-43d0-a775-845c4c9607e0
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Zobel, Thomas
   description: 'MetaFold simplifies laboratory data management through easy-to-use
@@ -24442,6 +24446,7 @@ resources:
   uuid: 1c3d6179-5a27-44f7-adc6-542454c0dd54
   authors_with_orcid:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
+  file_formats: .pdf
 - authors:
   - Barry, David
   description: Slides presented at Empowering Healthcare with Automated Analysis at
@@ -24457,6 +24462,7 @@ resources:
   uuid: 8346ae28-e542-42a2-b3c5-d01f4fc3068c
   authors_with_orcid:
   - David Barry https://orcid.org/0000-0003-2763-5244
+  file_formats: .pptx
 - authors:
   - Barry, David
   description: ARRIVE 2.0 checklist for &quot;Automated staging of zebrafish embryos
@@ -24473,6 +24479,7 @@ resources:
   uuid: e7d506b1-022f-48c6-8454-8834602b174c
   authors_with_orcid:
   - David Barry https://orcid.org/0000-0003-2763-5244
+  file_formats: .pdf
 - authors:
   - Barry, David
   - Fallesen, Todd
@@ -24488,6 +24495,7 @@ resources:
   authors_with_orcid:
   - David Barry https://orcid.org/0000-0003-2763-5244
   - Todd Fallesen https://orcid.org/0000-0002-8700-3700
+  file_formats: .zip
 - authors:
   - Kather, Jakob Nikolas
   - Halama, Niels
@@ -24552,6 +24560,7 @@ resources:
   - Jakob Nikolas Kather https://orcid.org/0000-0002-3730-5348
   - Niels Halama
   - Alexander Marx
+  file_formats: .zip
 - authors:
   - Barry, David
   description: 'Reproducibility is a cornerstone of robust biomedical research, yet
@@ -24578,6 +24587,7 @@ resources:
   uuid: 87a5ea7c-7373-47df-bb6c-0ddce77878ab
   authors_with_orcid:
   - David Barry https://orcid.org/0000-0003-2763-5244
+  file_formats: .pptx
 - authors:
   - Frisch, Katrin
   description: Diese FAQ versammeln Fragen, die uns h&auml;ufig im Zusammenhang mit
@@ -24609,6 +24619,7 @@ resources:
   uuid: 673929e4-7d63-402d-b5a8-cf9a1ca18bea
   authors_with_orcid:
   - Katrin Frisch https://orcid.org/0000-0002-6669-5015
+  file_formats: .pdf
 - authors:
   - Robert Haase
   description: BioImage Analysis using Python tutorial at EMBO LSM 2025
@@ -24745,6 +24756,7 @@ resources:
   uuid: 112c8828-a4ee-46c9-999e-427a8145212d
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Kabjesz, Lea
   - Gihlein, Lea
@@ -24775,6 +24787,7 @@ resources:
   - Lea Gihlein https://orcid.org/0009-0001-0303-9176
   - Mara Harriet Lampert https://orcid.org/0009-0001-6900-5032
   - Robert Haase https://orcid.org/0009-0004-7280-1226
+  file_formats: .pdf
 - authors:
   - Beyer, Frauke
   - Unger, Michaela
@@ -24808,6 +24821,7 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Elena Nicolay
   - Mara Harriet Lampert
+  file_formats: .pdf * .pptx
 - authors:
   - Kunis, Susanne
   description: This presentation gives a short overview of the outcome of the I3D:bio
@@ -24825,6 +24839,7 @@ resources:
   uuid: 51260a5b-e7a3-4198-bd37-daf587e2646b
   authors_with_orcid:
   - Susanne Kunis https://orcid.org/0000-0001-6523-7496
+  file_formats: .pdf
 - authors:
   - Zobel, Thomas
   - Fortmann-Grote, Carsten
@@ -24842,6 +24857,7 @@ resources:
   authors_with_orcid:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   description: Presentation in the FIZ-Karlsruhe "NFDICore Playground" Seminar on
@@ -24859,6 +24875,7 @@ resources:
   uuid: 1f8fb2c8-b4c3-4f64-acc5-eef53562f66d
   authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   - Ullrich, Kristian
@@ -24882,6 +24899,7 @@ resources:
   authors_with_orcid:
   - Carsten Fortmann-Grote https://orcid.org/0000-0002-2579-5546
   - Kristian Ullrich https://orcid.org/0000-0003-4308-9626
+  file_formats: .pdf
 - authors:
   - Pais de Azevedo, Tomás
   description: Unsupported Imaris file. Exported from Imaris 9.9.1.
@@ -24896,6 +24914,7 @@ resources:
   uuid: b1f1ec2a-255d-48b4-bc57-5d63a688e4f7
   authors_with_orcid:
   - Tomás Pais de Azevedo https://orcid.org/0000-0002-3239-2198
+  file_formats: .ims
 - authors:
   - Soltwedel, Johannes Richard
   description: Slides presented by Johannes Soltwedel at Halfway to I2K virtual conference
@@ -24911,6 +24930,7 @@ resources:
   uuid: 2543610e-e760-4150-a77d-01ec803dc87b
   authors_with_orcid:
   - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
+  file_formats: .pptx
 - authors:
   - Moore, Josh
   description: Invited talk given to Zeiss
@@ -24925,6 +24945,7 @@ resources:
   uuid: 1de841cf-f656-45ee-8b73-104ca15528d5
   authors_with_orcid:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .pdf
 - authors:
   - Gros, Aafke
   license: cc-by-4.0
@@ -24938,6 +24959,7 @@ resources:
   uuid: 30a7bb3d-320b-4505-9827-03830e954b2d
   authors_with_orcid:
   - Aafke Gros https://orcid.org/0000-0003-2459-9858
+  file_formats: .ets * .vsi
 - authors:
   - Corbat, Agustin Andres
   description: 'Poster presented at LABI Meeting 2025: From Data to Discovery about
@@ -24953,6 +24975,7 @@ resources:
   uuid: caf885ad-3b69-4049-979d-d0406d20e212
   authors_with_orcid:
   - Agustin Andres Corbat https://orcid.org/0000-0001-8068-3486
+  file_formats: .pdf * .svg
 - authors:
   - Corbat, Agustin Andres
   description: Presentation about the Global BioImage Analysts' Society (GloBIAS)
@@ -24968,6 +24991,7 @@ resources:
   uuid: 35fc8451-ba6d-4ef9-b206-d2f26521c9f7
   authors_with_orcid:
   - Agustin Andres Corbat https://orcid.org/0000-0001-8068-3486
+  file_formats: .pdf * .pptx
 - authors:
   - François Chollet
   - Matt Watson
@@ -25038,6 +25062,7 @@ resources:
   uuid: 526154c6-4503-42c5-be37-b9f6f7daca73
   authors_with_orcid:
   - Edward Andò https://orcid.org/0000-0001-5509-5287
+  file_formats: .zip * .zsh
 - authors:
   - Nguyen, Khanh Xuan
   - Bernt, Matthias
@@ -25070,6 +25095,7 @@ resources:
   - Thomas Schnicke https://orcid.org/0000-0001-9868-4671
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pdf
 - authors:
   - Cruz C., Arsenio N.
   - Pham, Thanh Huy
@@ -25106,6 +25132,7 @@ resources:
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Yi Sun https://orcid.org/0000-0002-7636-0200
   - Paul Czodrowski https://orcid.org/0000-0002-7390-8795
+  file_formats: .pdf
 - authors:
   - Haase, Robert
   description: In this slide-deck we dive into large language models for bioimage
@@ -25123,6 +25150,7 @@ resources:
   uuid: 5f74e226-b90c-4699-aae7-4c0996525615
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Sun, Yi
   - Tischer, Christian
@@ -25146,6 +25174,7 @@ resources:
   - Yi Sun https://orcid.org/0000-0002-7636-0200
   - Christian Tischer https://orcid.org/0000-0003-4105-1990
   - Jean-Karim Hériché https://orcid.org/0000-0001-6867-9425
+  file_formats: .zip
 - authors:
   - Wetzker, Cornelia
   - Massei, Riccardo
@@ -25176,6 +25205,7 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
   - Michael Schlierf https://orcid.org/0000-0002-6209-2364
+  file_formats: .pdf * .svg
 - authors:
   - David, Romain
   - Liaskos, Nektarios
@@ -25282,6 +25312,7 @@ resources:
   - Jonathan Tedds https://orcid.org/0000-0003-2829-4584
   - Gary Saunders https://orcid.org/0000-0002-7468-0008
   - Jonathan Ewbank https://orcid.org/0000-0002-1257-6862
+  file_formats: .pdf
 - authors:
   - Geibelt, Ellen
   description: a multi-channel-image with a BF and 5 fluorescence channels acquired
@@ -25297,6 +25328,7 @@ resources:
   uuid: 65cf627a-557b-4bca-85cc-0bbdb2b3a847
   authors_with_orcid:
   - Ellen Geibelt
+  file_formats: .czi
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -25329,6 +25361,7 @@ resources:
   - Hernandez-Herrera https://orcid.org/0000-0002-2206-3489
   - Christophe Leterrier https://orcid.org/0000-0002-2957-2032
   - Laura R de la Ballina https://orcid.org/0000-0001-5363-7433
+  file_formats: .zip
 - authors:
   - Wendt, Jens
   - Bortolomeazzi, Michele
@@ -25401,6 +25434,7 @@ resources:
   authors_with_orcid:
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  file_formats: .ijm * .ipynb * .pdf * .pptx
 - authors:
   - Wetzker, Cornelia
   - Schlierf, Michael
@@ -25431,6 +25465,7 @@ resources:
   authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Michael Schlierf https://orcid.org/0000-0002-6209-2364
+  file_formats: .pdf
 - authors:
   - Vedder, Lucia
   - Peschel, Paul
@@ -25538,6 +25573,7 @@ resources:
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Katrin Schröder https://orcid.org/0009-0007-8336-7009
+  file_formats: .pdf
 - authors:
   - Boissonnet, Tom
   - Massei, Riccardo
@@ -25561,6 +25597,7 @@ resources:
   authors_with_orcid:
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pdf * .pptx
 - authors:
   - Soltwedel, Johannes Richard
   description: Introductory slides for top-level understanding of ome-zarr, cloud
@@ -25576,6 +25613,7 @@ resources:
   uuid: 68529c58-8da6-4818-8fc9-17980fab84e5
   authors_with_orcid:
   - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
+  file_formats: .pdf * .pptx
 - authors:
   - Dayer, Andrew J
   license: cc-by-4.0
@@ -25589,6 +25627,7 @@ resources:
   uuid: 1a05e4d8-4d4d-4f58-9fe7-75de68ec7038
   authors_with_orcid:
   - Andrew J Dayer
+  file_formats: .zip
 - authors:
   - Kumar, Neeraj
   - Verma, Ruchika
@@ -25646,6 +25685,7 @@ resources:
   - Carolin Hundt https://orcid.org/0000-0002-7237-965X
   - Florence Langermann https://orcid.org/0009-0009-1627-3568
   - Pia Voigt https://orcid.org/0000-0001-9627-6252
+  file_formats: .pdf * .pptx * .xlsx
 - authors:
   - Fuchs, Vanessa
   - Zobel, Thomas
@@ -25738,6 +25778,7 @@ resources:
   - Thomas Zobel https://orcid.org/0000-0002-2101-8416
   - Marie Baldenius https://orcid.org/0009-0002-3765-9813
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  file_formats: .pdf * .pptx
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -25772,6 +25813,7 @@ resources:
   authors_with_orcid:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Euro-BioImaging ERIC
+  file_formats: .pdf
 - name: 'Data sharing and privacy issues in neuroimaging research: Opportunities,
     obstacles, challenges, and monsters under the bed.'
   type:
@@ -25861,6 +25903,7 @@ resources:
   - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
   - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .pdf * .pptx
 - authors:
   - Cornelia Wetzker
   - Vanessa Fuchs
@@ -25995,6 +26038,7 @@ resources:
   uuid: 0e5cdf4e-9f26-497e-9510-99f9960d72fc
   authors_with_orcid:
   - Beth Cimini https://orcid.org/0000-0001-9640-9318
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   - Peter Bankhead
@@ -26078,6 +26122,7 @@ resources:
   - Oliver Umney https://orcid.org/0009-0005-2321-9413
   - Laura Wiggins https://orcid.org/0000-0003-4615-2379
   - Kevin Eliceiri https://orcid.org/0000-0001-8678-670X
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   description: As microscopy diversifies and becomes ever-more complex, the problem
@@ -26105,6 +26150,7 @@ resources:
   uuid: a4afd548-9417-48a6-bb7f-16aac5698308
   authors_with_orcid:
   - Beth A Cimini https://orcid.org/0000-0001-9640-9318
+  file_formats: .docx
 - authors:
   - Beth Cimini
   description: Can Jupyter Book help make the friendliest possible resource we can
@@ -26122,6 +26168,7 @@ resources:
   uuid: 2d6553af-86ee-45f9-a487-240d155be278
   authors_with_orcid:
   - Beth A Cimini https://orcid.org/0000-0001-9640-9318
+  file_formats: .pdf
 - authors:
   - Beth Cimini
   description: Blog post from the "Measure Everything... Ask Questions Later" blog
@@ -26140,6 +26187,7 @@ resources:
   uuid: a791b07c-5bcd-4974-a320-25a28db4917f
   authors_with_orcid:
   - Beth A Cimini https://orcid.org/0000-0001-9640-9318
+  file_formats: .pdf
 - authors:
   - Wei Ouyang
   - Kevin W Eliceiri
@@ -26171,6 +26219,7 @@ resources:
   - Wei Ouyang https://orcid.org/0000-0002-0291-926X
   - Kevin W Eliceiri https://orcid.org/0000-0001-8678-670X
   - Beth A Cimini https://orcid.org/0000-0001-9640-9318
+  file_formats: .pdf
 - authors:
   - Jay Alammar
   description: AI image generation is the most recent AI capability blowing people’s
@@ -26206,6 +26255,7 @@ resources:
   uuid: c5b75bbe-8e1b-4ebe-9b16-377ab6649a23
   authors_with_orcid:
   - NFDI4BIOIMAGE
+  file_formats: .jpg
 - authors:
   - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held at the University
@@ -26239,6 +26289,7 @@ resources:
   uuid: 54bfcef8-a243-44ad-a9fc-b75bd1a12225
   authors_with_orcid:
   - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
+  file_formats: .pdf
 - authors:
   - Ebert, Barbara
   - Ewert, Frank
@@ -26301,6 +26352,7 @@ resources:
   - Uwe Scholz https://orcid.org/0000-0001-6113-3518
   - Xenia Specka https://orcid.org/0000-0002-1890-0192
   - Mattis thor Straten https://orcid.org/0009-0005-1140-3352
+  file_formats: .pdf
 - authors:
   - Wetzker, Cornelia
   description: 'The presentation was given at the online format of the SaxFDM Beratungsstammtisch
@@ -26326,6 +26378,7 @@ resources:
   uuid: 1c6cc567-8a1d-402b-bbf2-9bc60acd0f15
   authors_with_orcid:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -26343,6 +26396,7 @@ resources:
   uuid: a0a605bb-d3d3-4fe7-8b55-4064ba2a7f4c
   authors_with_orcid:
   - NFDI4BIOIMAGE
+  file_formats: .jpg * .pdf * .tiff
 - authors:
   - Wendt, Jens
   description: We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG,
@@ -26360,6 +26414,7 @@ resources:
   uuid: 88622080-9d18-445e-8bc8-b88a455f2c9b
   authors_with_orcid:
   - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  file_formats: .pdf * .pptx
 - authors:
   - Tischer, Christian
   description: 'Presented at the 2025 International OME-NGFF symposium and workshop.
@@ -26376,6 +26431,7 @@ resources:
   uuid: 8affc554-9e6f-4d80-b2de-8a4497298968
   authors_with_orcid:
   - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  file_formats: .pdf
 - authors:
   - Kemmer, Isabel
   - Romdhane, Feriel
@@ -26410,6 +26466,7 @@ resources:
   - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
   - Feriel Romdhane https://orcid.org/0000-0002-5854-9341
   - Euro-BioImaging ERIC
+  file_formats: .pdf * .pptx
 - authors:
   - Fabig, Gunar
   description: File contains a dual-tilt reconstruction from two 121 image-tilt series,
@@ -26428,6 +26485,7 @@ resources:
   uuid: 86828b40-cedf-4e3a-b54c-3eedebd13a7b
   authors_with_orcid:
   - Gunar Fabig https://orcid.org/0000-0003-3017-0978
+  file_formats: .am
 - authors:
   - Wetzker, Cornelia
   - Müller, Maximilian E.
@@ -26458,6 +26516,7 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
+  file_formats: .pdf
 - authors:
   - NFDI4BIOIMAGE
   description: This cartoon was contracted by the Heinrich Heine University D&uuml;sseldorf
@@ -26475,6 +26534,7 @@ resources:
   uuid: 3d8ea9e7-e054-43ac-ac01-aab7262387f3
   authors_with_orcid:
   - NFDI4BIOIMAGE
+  file_formats: .jpg * .pdf * .tiff
 - authors:
   - Kunis, Susanne
   - Hanne, Janina
@@ -26509,6 +26569,7 @@ resources:
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
   - Josh Moore https://orcid.org/0000-0003-4028-811X
+  file_formats: .png
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   - Wendt, Jens
@@ -26532,6 +26593,7 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
   - Riccardo Massei https://orcid.org/0000-0003-2104-9519
+  file_formats: .png * .svg
 - authors:
   - Müller, Maximilian E.
   description: 'This short presentation provides a concise introduction to Data Management
@@ -26562,6 +26624,7 @@ resources:
   uuid: 11130733-32d1-4bba-bc5e-1ddc9403d08d
   authors_with_orcid:
   - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
+  file_formats: .pdf
 - authors:
   - Soltwedel, Johannes Richard
   description: The German BioImaging research software engineering (RSE) unit is active
@@ -26580,6 +26643,7 @@ resources:
   uuid: 74cc5f9e-8621-4645-aad0-805da4be0776
   authors_with_orcid:
   - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
+  file_formats: .pdf * .pptx
 - authors:
   - Hertzler, ian
   description: imaris file that will not open in fiji. for troubleshooting purposes.
@@ -26594,6 +26658,7 @@ resources:
   uuid: 8aa2a169-24b0-4244-9568-9ed2671f32e6
   authors_with_orcid:
   - ian Hertzler
+  file_formats: .ims
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -26618,6 +26683,7 @@ resources:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Daniel Olvera Cabrera https://orcid.org/0000-0002-7935-9715
   - Andra Waagmeester https://orcid.org/0000-0001-9773-4008
+  file_formats: .org * .pdf * .tex
 - authors:
   - Wetzker, Cornelia
   - Müller, Maximilian E.
@@ -26650,6 +26716,7 @@ resources:
   - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
   - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
   - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
+  file_formats: .pdf * .svg
 - authors:
   - Soltwedel, Johannes Richard
   - Boissonnet, Tom
@@ -26672,6 +26739,7 @@ resources:
   - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
   - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
   - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  file_formats: .pdf * .pptx
 - authors:
   - Haase, Robert
   description: In&nbsp; this slide deck we dive into generative artificial intelligence
@@ -26689,6 +26757,7 @@ resources:
   uuid: 9a9d6e49-606c-4db1-8c3c-d51a4e79ec4a
   authors_with_orcid:
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Höck, Lina Lisa
   - Haase, Robert
@@ -26767,6 +26836,7 @@ resources:
   authors_with_orcid:
   - Lina Lisa Höck https://orcid.org/0009-0004-5754-3409
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .pdf * .pptx
 - authors:
   - Soltwedel, Johannes Richard
   description: Summary of new features and use cases of transformation metadata in
@@ -26782,6 +26852,7 @@ resources:
   uuid: 7cb72475-bd17-45cd-9e58-c806272f6345
   authors_with_orcid:
   - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
+  file_formats: .pdf * .pptx
 - authors:
   - von Suchodoletz, Dirk
   - Gieschke, Rafael
@@ -26819,6 +26890,7 @@ resources:
   - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
   - Rafael Gieschke https://orcid.org/0000-0002-2778-4218
   - Michael Scherle https://orcid.org/0009-0008-6652-0697
+  file_formats: .pdf
 - authors:
   - Fortmann-Grote, Carsten
   - Goutte-Gattat, Damien
@@ -26843,3 +26915,4 @@ resources:
   - Josh Moore https://orcid.org/0000-0003-4028-811X
   - Daniel Olvera Cabrera https://orcid.org/0000-0002-7935-9715
   - Andra Waagmeester https://orcid.org/0000-0001-9773-4008
+  file_formats: .org * .pdf * .tex
