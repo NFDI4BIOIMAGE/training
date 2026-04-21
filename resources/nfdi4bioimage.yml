@@ -26916,3 +26916,77 @@ resources:
   - Daniel Olvera Cabrera https://orcid.org/0000-0002-7935-9715
   - Andra Waagmeester https://orcid.org/0000-0001-9773-4008
   file_formats: .org * .pdf * .tex
+- authors:
+  - Dutta, Suchetana Bias
+  - Valerio-Cabrera, Sarai
+  description: A Python-based stitching script for individual tiles obtained with
+    an automated imaging platform that combines the Vertebrate Automated Screening
+    Technology (VAST) BioImager system (Union Biometrica), the Large Particle (LP)
+    Sampler (Union Biometrica), and the Zeiss Cell Observer Spinning Disk Confocal
+    Microscopic System (SDCM) (Early et al., 2018). The Lyons Lab (https://www.lyons-lab.com/)
+    designed the system as a screening tool for automated, high-resolution, in vivo
+    imaging of 2&ndash;5-day-old zebrafish larvae. Two datasets are available to test
+    the script, along with the final stitched files for comparison.&nbsp;
+  license: cc-by-4.0
+  name: Workflow and Example Dataset for Python-Based Stitching of Confocal Zebrafish
+    Images from VAST BioImager-Based Screening
+  num_downloads: 11
+  publication_date: '2026-02-28'
+  submission_date: '2026-04-21T12:03:11.483451'
+  url:
+  - https://zenodo.org/records/18712011
+  - https://doi.org/10.5281/zenodo.18712011
+- authors:
+  - Bortolomeazzi, Michele
+  - Schmidt, Christian
+  description: OMERO has been established as a valuable, community-tested platform
+    to facilitate research data management with bioimaging data. It allows the central,
+    secure storage of original image files, collaborative access and analysis, metadata
+    curation, and figure creation directly from the original data. However, deploying
+    OMERO as a solution for laboratories, departments, or whole institutes requires
+    a coordinated multi-stakeholder process. Consequently, researchers who would like
+    to use OMERO as their RDM solution may be overwhelmed by the effort that an OMERO
+    implementation demands. On the basis of the &bdquo;Information Infrastructure
+    for BioImage Data&ldquo; (I3D:bio) project, and the NFDI4BIOIMAGE consortium,
+    we have developed structured processes and installation management approaches
+    to realize institutional OMERO instances as a resource for all researchers. In
+    this workshop, we share hands-on experience for the initiation and steering the
+    OMERO implementation process. This workshop is directed primarily at research
+    support facility staff and leaders, senior researchers, and project managers in
+    the field of bioimaging-data-driven research fields.
+  license: cc-by-4.0
+  name: Process management for the institutional deployment of OMERO as an image data
+    RDM platform
+  num_downloads: 0
+  publication_date: '2026-04-17'
+  submission_date: '2026-04-21T12:03:12.289383'
+  url:
+  - https://zenodo.org/records/19627003
+  - https://doi.org/10.5281/zenodo.19627003
+- authors:
+  - Corbat, Agustin Andres
+  - Walther, Christa G.
+  - de la Ballina, Laura R.
+  - Condon, Nicholas David
+  - Felder, Alessandro A.
+  - "Sch\xE4tz, Martin"
+  - Schmerl, Bettina
+  - Sugawara, Ko
+  - Prats, Clara
+  - Klemm, Anna
+  - Levet, Florian
+  - Miura, Kota
+  - Sampaio, Paula
+  - Tischer, Christian
+  - D'Antuono, Rocco
+  - Cimini, Beth A.
+  - Haase, Robert
+  description: GloBIAS figure (available in .ai, .pdf and .png formats).
+  license: cc-by-4.0
+  name: GloBIAS mission and working groups figure
+  num_downloads: 0
+  publication_date: '2026-04-17'
+  submission_date: '2026-04-21T12:05:00.806866'
+  url:
+  - https://zenodo.org/records/19631650
+  - https://doi.org/10.5281/zenodo.19631650
