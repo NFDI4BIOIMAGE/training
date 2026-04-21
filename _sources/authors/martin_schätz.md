@@ -1,4 +1,4 @@
-# Martin schätz (11)
+# Martin schätz (12)
 ## BioImage Analysis and Superresolution Microscopy Workshop 2023 (at Dartmouth College)
 
 Zuzana Burdíková, Zdeněk Švindrych, Martin Schätz, Jakub Soukup, Pat Robison
@@ -32,6 +32,25 @@ Tags: Include In Dalia
 [https://zenodo.org/records/8025067](https://zenodo.org/records/8025067)
 
 [https://doi.org/10.5281/zenodo.8025067](https://doi.org/10.5281/zenodo.8025067)
+
+
+---
+
+## GloBIAS mission and working groups figure
+
+Corbat, Agustin Andres, Walther, Christa G., de la Ballina, Laura R., Condon, Nicholas David, Felder, Alessandro A., Martin Schätz, Bettina Schmerl, Ko Sugawara, Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian Tischer, Rocco D'Antuono, Cimini, Beth A., Robert Haase
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS figure (available in .ai, .pdf and .png formats).
+
+[https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
+
+[https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
 
 
 ---

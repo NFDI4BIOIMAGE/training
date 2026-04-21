@@ -1,4 +1,4 @@
-# Cc-by-4.0 (492)
+# Cc-by-4.0 (495)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -4505,6 +4505,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/15168241](https://zenodo.org/records/15168241)
 
 [https://doi.org/10.5281/zenodo.15168241](https://doi.org/10.5281/zenodo.15168241)
+
+
+---
+
+## GloBIAS mission and working groups figure
+
+Corbat, Agustin Andres, Walther, Christa G., de la Ballina, Laura R., Condon, Nicholas David, Felder, Alessandro A., Martin Schätz, Bettina Schmerl, Ko Sugawara, Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian Tischer, Rocco D'Antuono, Cimini, Beth A., Robert Haase
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS figure (available in .ai, .pdf and .png formats).
+
+[https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
+
+[https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
 
 
 ---
@@ -9639,7 +9658,7 @@ Content type: Documentation
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 
@@ -10256,7 +10275,7 @@ Content type: Publication
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -10290,6 +10309,25 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 [https://zenodo.org/records/18230666](https://zenodo.org/records/18230666)
 
 [https://doi.org/10.5281/zenodo.18230666](https://doi.org/10.5281/zenodo.18230666)
+
+
+---
+
+## Process management for the institutional deployment of OMERO as an image data RDM platform
+
+Michele Bortolomeazzi, Christian Schmidt
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+OMERO has been established as a valuable, community-tested platform to facilitate research data management with bioimaging data. It allows the central, secure storage of original image files, collaborative access and analysis, metadata curation, and figure creation directly from the original data. However, deploying OMERO as a solution for laboratories, departments, or whole institutes requires a coordinated multi-stakeholder process. Consequently, researchers who would like to use OMERO as their RDM solution may be overwhelmed by the effort that an OMERO implementation demands. On the basis of the &bdquo;Information Infrastructure for BioImage Data&ldquo; (I3D:bio) project, and the NFDI4BIOIMAGE consortium, we have developed structured processes and installation management approaches to realize institutional OMERO instances as a resource for all researchers. In this workshop, we share hands-on experience for the initiation and steering the OMERO implementation process. This workshop is directed primarily at research support facility staff and leaders, senior researchers, and project managers in the field of bioimaging-data-driven research fields.
+
+[https://zenodo.org/records/19627003](https://zenodo.org/records/19627003)
+
+[https://doi.org/10.5281/zenodo.19627003](https://doi.org/10.5281/zenodo.19627003)
 
 
 ---
@@ -12613,7 +12651,7 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 
@@ -13213,6 +13251,25 @@ Tags: Exclude From Dalia
 [https://zenodo.org/records/10730424](https://zenodo.org/records/10730424)
 
 [https://doi.org/10.5281/zenodo.10730424](https://doi.org/10.5281/zenodo.10730424)
+
+
+---
+
+## Workflow and Example Dataset for Python-Based Stitching of Confocal Zebrafish Images from VAST BioImager-Based Screening
+
+Dutta, Suchetana Bias, Sarai Valerio-Cabrera
+
+Published 2026-02-28
+
+Licensed CC-BY-4.0
+
+
+
+A Python-based stitching script for individual tiles obtained with an automated imaging platform that combines the Vertebrate Automated Screening Technology (VAST) BioImager system (Union Biometrica), the Large Particle (LP) Sampler (Union Biometrica), and the Zeiss Cell Observer Spinning Disk Confocal Microscopic System (SDCM) (Early et al., 2018). The Lyons Lab (https://www.lyons-lab.com/) designed the system as a screening tool for automated, high-resolution, in vivo imaging of 2&ndash;5-day-old zebrafish larvae. Two datasets are available to test the script, along with the final stitched files for comparison.&nbsp;
+
+[https://zenodo.org/records/18712011](https://zenodo.org/records/18712011)
+
+[https://doi.org/10.5281/zenodo.18712011](https://doi.org/10.5281/zenodo.18712011)
 
 
 ---

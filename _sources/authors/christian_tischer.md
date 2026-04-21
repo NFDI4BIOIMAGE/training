@@ -1,4 +1,4 @@
-# Christian tischer (17)
+# Christian tischer (18)
 ## A Hitchhiker's guide through the bio-image analysis software universe
 
 Robert Haase, Elnaz Fazeli, David Legland, Michael Doube, Siân Culley, Ilya Belevich, Eija Jokitalo, Martin Schorb, Anna Klemm, Christian Tischer
@@ -164,6 +164,25 @@ Content type: Publication
 
 ---
 
+## GloBIAS mission and working groups figure
+
+Corbat, Agustin Andres, Walther, Christa G., de la Ballina, Laura R., Condon, Nicholas David, Felder, Alessandro A., Martin Schätz, Bettina Schmerl, Ko Sugawara, Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian Tischer, Rocco D'Antuono, Cimini, Beth A., Robert Haase
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS figure (available in .ai, .pdf and .png formats).
+
+[https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
+
+[https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
+
+
+---
+
 ## Image analysis course material
 
 Christian Tischer
@@ -225,7 +244,7 @@ Tags: Exclude From Dalia
 
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
-Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+Josh Moore, Chris Allan, Sébastien Besson, jean-marie burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
 
 Licensed CC-BY-4.0
 

@@ -1,4 +1,4 @@
-# Kota miura (12)
+# Kota miura (13)
 ## Analysis of High-Throughput Microscopy Image Data
 
 Kota Miura, Christoph Schiklenk, Clemens Lakner, Christian Tischer, Aliaksandr Halavatyi
@@ -99,6 +99,25 @@ Tags: Neubias, Bioimage Analysis, Include In Dalia
 Content type: Tutorial, Book
 
 [https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf](https://github.com/miura/BIAS_Nucleus_Segmentation/blob/master/module9.pdf)
+
+
+---
+
+## GloBIAS mission and working groups figure
+
+Corbat, Agustin Andres, Walther, Christa G., de la Ballina, Laura R., Condon, Nicholas David, Felder, Alessandro A., Martin Schätz, Bettina Schmerl, Ko Sugawara, Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian Tischer, Rocco D'Antuono, Cimini, Beth A., Robert Haase
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS figure (available in .ai, .pdf and .png formats).
+
+[https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
+
+[https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
 
 
 ---

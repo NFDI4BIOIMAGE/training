@@ -1,4 +1,4 @@
-# Recently added (8)
+# Recently added (10)
 ## AI4Science Training @ UFZ Magdeburg
 
 Höck, Lina Lisa, Robert Haase
@@ -65,9 +65,9 @@ EU AI Act
 
 ## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
 
-Soltwedel, Johannes Richard
+Soltwedel, Johannes Richard, Tom Boissonnet, Stefanie Weidtkamp-Peters
 
-Published 2026-03-16
+Published 2026-03-17
 
 Licensed CC-BY-4.0
 
@@ -75,9 +75,28 @@ Licensed CC-BY-4.0
 
 The German BioImaging research software engineering (RSE) unit is active in a wide collection of projects. Here we sketch out how we envision these to function together towards a better research data management environment for our community of researchers, microscopists and bio-image analysts.
 
-[https://zenodo.org/records/19046270](https://zenodo.org/records/19046270)
+[https://zenodo.org/records/19063027](https://zenodo.org/records/19063027)
 
-[https://doi.org/10.5281/zenodo.19046270](https://doi.org/10.5281/zenodo.19046270)
+[https://doi.org/10.5281/zenodo.19063027](https://doi.org/10.5281/zenodo.19063027)
+
+
+---
+
+## GloBIAS mission and working groups figure
+
+Corbat, Agustin Andres, Walther, Christa G., de la Ballina, Laura R., Condon, Nicholas David, Felder, Alessandro A., Martin Schätz, Bettina Schmerl, Ko Sugawara, Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian Tischer, Rocco D'Antuono, Cimini, Beth A., Robert Haase
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+GloBIAS figure (available in .ai, .pdf and .png formats).
+
+[https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
+
+[https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
 
 
 ---
@@ -101,11 +120,30 @@ In&nbsp; this slide deck we dive into generative artificial intelligence in part
 
 ---
 
+## Process management for the institutional deployment of OMERO as an image data RDM platform
+
+Michele Bortolomeazzi, Christian Schmidt
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+OMERO has been established as a valuable, community-tested platform to facilitate research data management with bioimaging data. It allows the central, secure storage of original image files, collaborative access and analysis, metadata curation, and figure creation directly from the original data. However, deploying OMERO as a solution for laboratories, departments, or whole institutes requires a coordinated multi-stakeholder process. Consequently, researchers who would like to use OMERO as their RDM solution may be overwhelmed by the effort that an OMERO implementation demands. On the basis of the &bdquo;Information Infrastructure for BioImage Data&ldquo; (I3D:bio) project, and the NFDI4BIOIMAGE consortium, we have developed structured processes and installation management approaches to realize institutional OMERO instances as a resource for all researchers. In this workshop, we share hands-on experience for the initiation and steering the OMERO implementation process. This workshop is directed primarily at research support facility staff and leaders, senior researchers, and project managers in the field of bioimaging-data-driven research fields.
+
+[https://zenodo.org/records/19627003](https://zenodo.org/records/19627003)
+
+[https://doi.org/10.5281/zenodo.19627003](https://doi.org/10.5281/zenodo.19627003)
+
+
+---
+
 ## SWAT4HCLS Tutorial: KG Construction with ONTOP
 
 Carsten Fortmann-Grote, Damien Goutte-Gattat, Lubiana Alves, Tiago, Josh Moore, Olvera Cabrera, Daniel, Andra Waagmeester
 
-Published 2026-03-23
+Published 2026-04-07
 
 Licensed CC-BY-4.0
 
@@ -113,9 +151,9 @@ Licensed CC-BY-4.0
 
 Source files and pdf of the tutorial held at SWAT4HCLS 2026
 
-[https://zenodo.org/records/19184109](https://zenodo.org/records/19184109)
+[https://zenodo.org/records/19450032](https://zenodo.org/records/19450032)
 
-[https://doi.org/10.5281/zenodo.19184109](https://doi.org/10.5281/zenodo.19184109)
+[https://doi.org/10.5281/zenodo.19450032](https://doi.org/10.5281/zenodo.19450032)
 
 
 ---
@@ -135,6 +173,25 @@ Summary of new features and use cases of transformation metadata in the upcoming
 [https://zenodo.org/records/19335305](https://zenodo.org/records/19335305)
 
 [https://doi.org/10.5281/zenodo.19335305](https://doi.org/10.5281/zenodo.19335305)
+
+
+---
+
+## Workflow and Example Dataset for Python-Based Stitching of Confocal Zebrafish Images from VAST BioImager-Based Screening
+
+Dutta, Suchetana Bias, Sarai Valerio-Cabrera
+
+Published 2026-02-28
+
+Licensed CC-BY-4.0
+
+
+
+A Python-based stitching script for individual tiles obtained with an automated imaging platform that combines the Vertebrate Automated Screening Technology (VAST) BioImager system (Union Biometrica), the Large Particle (LP) Sampler (Union Biometrica), and the Zeiss Cell Observer Spinning Disk Confocal Microscopic System (SDCM) (Early et al., 2018). The Lyons Lab (https://www.lyons-lab.com/) designed the system as a screening tool for automated, high-resolution, in vivo imaging of 2&ndash;5-day-old zebrafish larvae. Two datasets are available to test the script, along with the final stitched files for comparison.&nbsp;
+
+[https://zenodo.org/records/18712011](https://zenodo.org/records/18712011)
+
+[https://doi.org/10.5281/zenodo.18712011](https://doi.org/10.5281/zenodo.18712011)
 
 
 ---
@@ -183,25 +240,6 @@ The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Resear
 [https://zenodo.org/records/19469051](https://zenodo.org/records/19469051)
 
 [https://doi.org/10.5281/zenodo.19469051](https://doi.org/10.5281/zenodo.19469051)
-
-
----
-
-## ims file that won't open in FIJI
-
-ian Hertzler
-
-Published 2026-03-03
-
-Licensed CC-BY-4.0
-
-
-
-imaris file that will not open in fiji. for troubleshooting purposes.
-
-[https://zenodo.org/records/18852087](https://zenodo.org/records/18852087)
-
-[https://doi.org/10.5281/zenodo.18852087](https://doi.org/10.5281/zenodo.18852087)
 
 
 ---

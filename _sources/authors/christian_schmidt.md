@@ -1,4 +1,4 @@
-# Christian schmidt (27)
+# Christian schmidt (28)
 ## A journey to FAIR microscopy data
 
 Stefanie Weidtkamp-Peters, Janina Hanne, Christian Schmidt
@@ -278,6 +278,25 @@ Tags: Nfdi4Bioimage, Exclude From Dalia
 [https://zenodo.org/records/15268798](https://zenodo.org/records/15268798)
 
 [https://doi.org/10.5281/zenodo.15268798](https://doi.org/10.5281/zenodo.15268798)
+
+
+---
+
+## Process management for the institutional deployment of OMERO as an image data RDM platform
+
+Michele Bortolomeazzi, Christian Schmidt
+
+Published 2026-04-17
+
+Licensed CC-BY-4.0
+
+
+
+OMERO has been established as a valuable, community-tested platform to facilitate research data management with bioimaging data. It allows the central, secure storage of original image files, collaborative access and analysis, metadata curation, and figure creation directly from the original data. However, deploying OMERO as a solution for laboratories, departments, or whole institutes requires a coordinated multi-stakeholder process. Consequently, researchers who would like to use OMERO as their RDM solution may be overwhelmed by the effort that an OMERO implementation demands. On the basis of the &bdquo;Information Infrastructure for BioImage Data&ldquo; (I3D:bio) project, and the NFDI4BIOIMAGE consortium, we have developed structured processes and installation management approaches to realize institutional OMERO instances as a resource for all researchers. In this workshop, we share hands-on experience for the initiation and steering the OMERO implementation process. This workshop is directed primarily at research support facility staff and leaders, senior researchers, and project managers in the field of bioimaging-data-driven research fields.
+
+[https://zenodo.org/records/19627003](https://zenodo.org/records/19627003)
+
+[https://doi.org/10.5281/zenodo.19627003](https://doi.org/10.5281/zenodo.19627003)
 
 
 ---
