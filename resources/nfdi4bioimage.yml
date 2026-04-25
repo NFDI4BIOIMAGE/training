@@ -26936,6 +26936,7 @@ resources:
   url:
   - https://zenodo.org/records/18712011
   - https://doi.org/10.5281/zenodo.18712011
+  uuid: b5558920-798f-41bb-a399-9f6c05b023e3
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -26963,13 +26964,14 @@ resources:
   url:
   - https://zenodo.org/records/19627003
   - https://doi.org/10.5281/zenodo.19627003
+  uuid: a38413e1-09f1-49d8-b6b7-d1e48952b84a
 - authors:
   - Corbat, Agustin Andres
   - Walther, Christa G.
   - de la Ballina, Laura R.
   - Condon, Nicholas David
   - Felder, Alessandro A.
-  - "Sch\xE4tz, Martin"
+  - Schätz, Martin
   - Schmerl, Bettina
   - Sugawara, Ko
   - Prats, Clara
@@ -26990,3 +26992,4 @@ resources:
   url:
   - https://zenodo.org/records/19631650
   - https://doi.org/10.5281/zenodo.19631650
+  uuid: 4cd80105-119b-40c6-b43a-5464008b411f
