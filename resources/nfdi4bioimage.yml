@@ -26940,6 +26940,7 @@ resources:
   authors_with_orcid:
   - Suchetana Bias Dutta https://orcid.org/0000-0002-3209-1221
   - Sarai Valerio-Cabrera https://orcid.org/0000-0001-6676-8440
+  file_formats: .pdf * .txt * .xlsx * .zip
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -26971,6 +26972,7 @@ resources:
   authors_with_orcid:
   - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
   - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  file_formats: .pdf
 - authors:
   - Corbat, Agustin Andres
   - Walther, Christa G.
@@ -27017,3 +27019,4 @@ resources:
   - Rocco D'Antuono https://orcid.org/0000-0003-0180-6500
   - Beth A. Cimini https://orcid.org/0000-0001-9640-9318
   - Robert Haase https://orcid.org/0000-0001-5949-2327
+  file_formats: .ai * .pdf * .png
