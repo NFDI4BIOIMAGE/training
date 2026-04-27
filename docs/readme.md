@@ -37,4 +37,4 @@ All contents of this Jupyter book and the corresponding Github repository are li
 
 This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German  Research Foundation) under the National Research Data Infrasstructure – NFDI 46/1 – 501864659.
 
-R.H. acknowledges support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden.
+R.H. acknowledges support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden. We acknowledge the financial support by the Federal Ministry of Education and Research of Germany and by Sächsische Staatsministerium für Wissenschaft, Kultur und Tourismus in the programme Center of Excellence for AI-research “Center for Scalable Data Analytics and Artificial Intelligence Dresden/Leipzig”, project identification number: ScaDS.AI
