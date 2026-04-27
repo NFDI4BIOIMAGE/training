@@ -26937,6 +26937,9 @@ resources:
   - https://zenodo.org/records/18712011
   - https://doi.org/10.5281/zenodo.18712011
   uuid: b5558920-798f-41bb-a399-9f6c05b023e3
+  authors_with_orcid:
+  - Suchetana Bias Dutta https://orcid.org/0000-0002-3209-1221
+  - Sarai Valerio-Cabrera https://orcid.org/0000-0001-6676-8440
 - authors:
   - Bortolomeazzi, Michele
   - Schmidt, Christian
@@ -26965,6 +26968,9 @@ resources:
   - https://zenodo.org/records/19627003
   - https://doi.org/10.5281/zenodo.19627003
   uuid: a38413e1-09f1-49d8-b6b7-d1e48952b84a
+  authors_with_orcid:
+  - Michele Bortolomeazzi https://orcid.org/0000-0001-5805-5774
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
 - authors:
   - Corbat, Agustin Andres
   - Walther, Christa G.
@@ -26993,3 +26999,21 @@ resources:
   - https://zenodo.org/records/19631650
   - https://doi.org/10.5281/zenodo.19631650
   uuid: 4cd80105-119b-40c6-b43a-5464008b411f
+  authors_with_orcid:
+  - Agustin Andres Corbat https://orcid.org/0000-0001-8068-3486
+  - Christa G. Walther https://orcid.org/0000-0002-8962-3102
+  - Laura R. de la Ballina https://orcid.org/0000-0001-5363-7433
+  - Nicholas David Condon https://orcid.org/0000-0002-1833-1129
+  - Alessandro A. Felder https://orcid.org/0000-0003-3510-9906
+  - Martin Schätz https://orcid.org/0000-0003-0931-4017
+  - Bettina Schmerl https://orcid.org/0000-0002-6273-3897
+  - Ko Sugawara https://orcid.org/0000-0002-1392-9340
+  - Clara Prats https://orcid.org/0000-0001-6465-3068
+  - Anna Klemm https://orcid.org/0000-0002-3466-1320
+  - Florian Levet https://orcid.org/0000-0002-4009-6225
+  - Kota Miura https://orcid.org/0000-0001-6926-191X
+  - Paula Sampaio https://orcid.org/0000-0003-1148-2159
+  - Christian Tischer https://orcid.org/0000-0003-4105-1990
+  - Rocco D'Antuono https://orcid.org/0000-0003-0180-6500
+  - Beth A. Cimini https://orcid.org/0000-0001-9640-9318
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
