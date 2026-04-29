@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 923 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2026-04-27.
+This Jupyter Book contains 923 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2026-04-29.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [100,000 histological images of human colorectal cancer and healthy tissue](https://zenodo.org/records/1214456) by "Kather, Jakob Nikolas and Halama, Niels and Marx, Alexander" (73 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (301 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis](https://zenodo.org/records/14045172) by "Frisch, Katrin" (45 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (301 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis - Version 2](https://zenodo.org/records/17349995) by "Frisch, Katrin" (45 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15858127) by "Haase, Robert" (301 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 
