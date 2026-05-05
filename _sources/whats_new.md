@@ -120,6 +120,27 @@ In&nbsp; this slide deck we dive into generative artificial intelligence in part
 
 ---
 
+## Poster and Lightning Talk for "enriched" OMERO from the OME Community Meeting 2026
+
+Jens Wendt
+
+Published 2026-05-04
+
+Licensed CC-BY-4.0
+
+
+
+This publication contains the Poster and accompanying Lightning Talk about the "enriched" OMERO held at the OME Community Meeting 2026 in D&uuml;sseldorf
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20024684](https://zenodo.org/records/20024684)
+
+[https://doi.org/10.5281/zenodo.20024684](https://doi.org/10.5281/zenodo.20024684)
+
+
+---
+
 ## Process management for the institutional deployment of OMERO as an image data RDM platform
 
 Michele Bortolomeazzi, Christian Schmidt
@@ -192,31 +213,6 @@ A Python-based stitching script for individual tiles obtained with an automated 
 [https://zenodo.org/records/18712011](https://zenodo.org/records/18712011)
 
 [https://doi.org/10.5281/zenodo.18712011](https://doi.org/10.5281/zenodo.18712011)
-
-
----
-
-## [2026 GerBI Community Meeting] NFDI4BIOIMAGE and its Help Desk for Community Support in Bioimage Research Data Management
-
-Cornelia Wetzker, Müller, Maximilian E., Fuchs, Vanessa Aphaia Fiona
-
-Published 2026-03-19
-
-Licensed CC-BY-4.0
-
-
-
-The poster presents the consortium NFDI4BIOIMAGE with its objectives, key achievements until February 2026 and the support offered by its data stewardship team and help desk service. We recommend strategies to make bioimage data FAIRer along the individual stages of the research data life cycle.&nbsp;&nbsp;
-Version 2 additionally comprises the poster in svg format for more flexible reuse.
-
-
-The consortium NFDI4BIOIMAGE is funded by DFG grant number NFDI 46/1, project number 501864659.
-
-
-
-[https://zenodo.org/records/19107804](https://zenodo.org/records/19107804)
-
-[https://doi.org/10.5281/zenodo.19107804](https://doi.org/10.5281/zenodo.19107804)
 
 
 ---

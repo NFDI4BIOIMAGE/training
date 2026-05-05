@@ -1,4 +1,4 @@
-# Doi.org (415)
+# Doi.org (416)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -5290,7 +5290,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## It's time to publish - where can bioimage data go? by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-02-26
 
@@ -9663,6 +9663,27 @@ Tags: Exclude From Dalia
 
 ---
 
+## Poster and Lightning Talk for "enriched" OMERO from the OME Community Meeting 2026
+
+Jens Wendt
+
+Published 2026-05-04
+
+Licensed CC-BY-4.0
+
+
+
+This publication contains the Poster and accompanying Lightning Talk about the "enriched" OMERO held at the OME Community Meeting 2026 in D&uuml;sseldorf
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20024684](https://zenodo.org/records/20024684)
+
+[https://doi.org/10.5281/zenodo.20024684](https://doi.org/10.5281/zenodo.20024684)
+
+
+---
+
 ## Practical Guide to the International Alignment of Research Data Management - Extended Edition
 
 Licensed CC-BY-4.0
@@ -9682,7 +9703,7 @@ Content type: Book
 
 ## Preprint: "Be Sustainable", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons
 
-Romain David, Arina Rybina, Jean-Marie Burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
+Romain David, Arina Rybina, jean-marie burel, Jean-Karim Heriche, Pauline Audergon, Jan-Willem Boiten, Frederik Coppens, Sara Crockett, Exter Katrina, Sven Fahrener, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Bjorn Gruning, Kim Tamara Gurwitz, John Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean-Luc Legras, L. Allyson Lister, Dario Livio Longo, Rebecca Ludwig, Benedicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Mayrhofer Michaela Th., Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S. Richard, Paolo Romano, Antonio Rosato, Alex Sanchez-Pla, Susanna-Assunta Sansone, Ugis Sarkans, Beatriz Serrano-Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V. Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon
 
 Published 2023-09-12
 
@@ -10215,7 +10236,7 @@ We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses con
 
 ## Santa Cloud's Workshop by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-11-14
 
@@ -11647,7 +11668,7 @@ Licensed CC-BY-4.0
 
 ## The Beauty of Metadata by Henning Falk
 
-NFDI4BIOIMAGE
+Nfdi4Bioimage
 
 Published 2026-03-13
 
@@ -11733,7 +11754,7 @@ Tags: Nfdi4Bioimage, Research Data Management, Exclude From Dalia
 
 ## The Open Microscopy Environment (OME) Data Model and XML file - open tools for informatics and quantitative analysis in biological imaging
 
-Ilya G. Goldberg, Chris Allan, Jean-Marie Burel, Doug Creager, Andrea Falconi, et. al
+Ilya G. Goldberg, Chris Allan, jean-marie burel, Doug Creager, Andrea Falconi, et. al
 
 Published 2005-05-03
 

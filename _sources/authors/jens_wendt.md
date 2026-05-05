@@ -1,4 +1,4 @@
-# Jens wendt (14)
+# Jens wendt (15)
 ## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
 
 Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei
@@ -179,6 +179,27 @@ Tags: Nfdi4Bioimage, OMERO, Research Data Management, Exclude From Dalia
 Content type: Publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+
+
+---
+
+## Poster and Lightning Talk for "enriched" OMERO from the OME Community Meeting 2026
+
+Jens Wendt
+
+Published 2026-05-04
+
+Licensed CC-BY-4.0
+
+
+
+This publication contains the Poster and accompanying Lightning Talk about the "enriched" OMERO held at the OME Community Meeting 2026 in D&uuml;sseldorf
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20024684](https://zenodo.org/records/20024684)
+
+[https://doi.org/10.5281/zenodo.20024684](https://doi.org/10.5281/zenodo.20024684)
 
 
 ---
