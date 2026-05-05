@@ -27020,3 +27020,22 @@ resources:
   - Beth A. Cimini https://orcid.org/0000-0001-9640-9318
   - Robert Haase https://orcid.org/0000-0001-5949-2327
   file_formats: .ai * .pdf * .png
+- authors:
+  - Wendt, Jens
+  description: 'This publication contains the Poster and accompanying Lightning Talk
+    about the "enriched" OMERO held at the OME Community Meeting 2026 in D&uuml;sseldorf
+
+    &nbsp;
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: Poster and Lightning Talk for "enriched" OMERO from the OME Community Meeting
+    2026
+  num_downloads: 2
+  publication_date: '2026-05-04'
+  submission_date: '2026-05-05T12:07:01.286259'
+  url:
+  - https://zenodo.org/records/20024684
+  - https://doi.org/10.5281/zenodo.20024684
