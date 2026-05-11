@@ -27039,3 +27039,4 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  file_formats: .odp * .pdf * .svg
