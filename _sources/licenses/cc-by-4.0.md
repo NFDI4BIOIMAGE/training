@@ -1,4 +1,4 @@
-# Cc-by-4.0 (496)
+# Cc-by-4.0 (498)
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -1396,6 +1396,26 @@ Tags: Include In Dalia
 [https://zenodo.org/records/14909526](https://zenodo.org/records/14909526)
 
 [https://doi.org/10.5281/zenodo.14909526](https://doi.org/10.5281/zenodo.14909526)
+
+
+---
+
+## Building Research Infrastructure Communities That Last
+
+Carole Goble
+
+Published 2026-05-01
+
+Licensed CC-BY-4.0
+
+
+
+Invited keynote for&nbsp;
+19th OME Community Meeting, D&uuml;sseldorf, Germany, 28-30 April 2026, https://www.openmicroscopy.org/events/ome-community-meeting-2026.html
+
+[https://zenodo.org/records/19949157](https://zenodo.org/records/19949157)
+
+[https://doi.org/10.5281/zenodo.19949157](https://doi.org/10.5281/zenodo.19949157)
 
 
 ---
@@ -4222,6 +4242,29 @@ Tags: Bioimage Analysis, Include In Dalia
 Content type: Blog Post
 
 [https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/](https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/)
+
+
+---
+
+## From Microscope to Repository: Managing Image Data with OMERO
+
+Müller, Maximilian E.
+
+Published 2026-05-05
+
+Licensed CC-BY-4.0
+
+
+
+This presentation was developed by NFDI4BIOIMAGE and held online as part of the CRC 1551 Data Week on 05. May 2026.
+It provides a general introduction to research data management (RDM) and public data deposition and highlights their specific relevance in research.
+Furthermore, it introduces OMERO as a platform for structured data storage, metadata management, and collaborative access and introduces repositories for imaging data.
+The slides are intended for educational use and may serve as a resource for teaching and training in research data management within the life sciences.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20039402](https://zenodo.org/records/20039402)
+
+[https://doi.org/10.5281/zenodo.20039402](https://doi.org/10.5281/zenodo.20039402)
 
 
 ---

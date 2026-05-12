@@ -1,4 +1,4 @@
-# Müller (4)
+# Müller (5)
 ## Easy creation of your Bioimage Data Management Plan
 
 Müller, Maximilian E.
@@ -17,6 +17,29 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 [https://zenodo.org/records/18957947](https://zenodo.org/records/18957947)
 
 [https://doi.org/10.5281/zenodo.18957947](https://doi.org/10.5281/zenodo.18957947)
+
+
+---
+
+## From Microscope to Repository: Managing Image Data with OMERO
+
+Müller, Maximilian E.
+
+Published 2026-05-05
+
+Licensed CC-BY-4.0
+
+
+
+This presentation was developed by NFDI4BIOIMAGE and held online as part of the CRC 1551 Data Week on 05. May 2026.
+It provides a general introduction to research data management (RDM) and public data deposition and highlights their specific relevance in research.
+Furthermore, it introduces OMERO as a platform for structured data storage, metadata management, and collaborative access and introduces repositories for imaging data.
+The slides are intended for educational use and may serve as a resource for teaching and training in research data management within the life sciences.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20039402](https://zenodo.org/records/20039402)
+
+[https://doi.org/10.5281/zenodo.20039402](https://doi.org/10.5281/zenodo.20039402)
 
 
 ---

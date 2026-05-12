@@ -63,21 +63,45 @@ EU AI Act
 
 ---
 
-## GerBI community meeting 2026: Developing towards the ideal FAIR research data management environment
+## Building Research Infrastructure Communities That Last
 
-Soltwedel, Johannes Richard, Tom Boissonnet, Stefanie Weidtkamp-Peters
+Carole Goble
 
-Published 2026-03-17
+Published 2026-05-01
 
 Licensed CC-BY-4.0
 
 
 
-The German BioImaging research software engineering (RSE) unit is active in a wide collection of projects. Here we sketch out how we envision these to function together towards a better research data management environment for our community of researchers, microscopists and bio-image analysts.
+Invited keynote for&nbsp;
+19th OME Community Meeting, D&uuml;sseldorf, Germany, 28-30 April 2026, https://www.openmicroscopy.org/events/ome-community-meeting-2026.html
 
-[https://zenodo.org/records/19063027](https://zenodo.org/records/19063027)
+[https://zenodo.org/records/19949157](https://zenodo.org/records/19949157)
 
-[https://doi.org/10.5281/zenodo.19063027](https://doi.org/10.5281/zenodo.19063027)
+[https://doi.org/10.5281/zenodo.19949157](https://doi.org/10.5281/zenodo.19949157)
+
+
+---
+
+## From Microscope to Repository: Managing Image Data with OMERO
+
+Müller, Maximilian E.
+
+Published 2026-05-05
+
+Licensed CC-BY-4.0
+
+
+
+This presentation was developed by NFDI4BIOIMAGE and held online as part of the CRC 1551 Data Week on 05. May 2026.
+It provides a general introduction to research data management (RDM) and public data deposition and highlights their specific relevance in research.
+Furthermore, it introduces OMERO as a platform for structured data storage, metadata management, and collaborative access and introduces repositories for imaging data.
+The slides are intended for educational use and may serve as a resource for teaching and training in research data management within the life sciences.
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20039402](https://zenodo.org/records/20039402)
+
+[https://doi.org/10.5281/zenodo.20039402](https://doi.org/10.5281/zenodo.20039402)
 
 
 ---
@@ -97,25 +121,6 @@ GloBIAS figure (available in .ai, .pdf and .png formats).
 [https://zenodo.org/records/19631650](https://zenodo.org/records/19631650)
 
 [https://doi.org/10.5281/zenodo.19631650](https://doi.org/10.5281/zenodo.19631650)
-
-
----
-
-## How Generative Artificial Intelligence impacts Bio-Image Data Science
-
-Robert Haase
-
-Published 2026-02-22
-
-Licensed CC-BY-4.0
-
-
-
-In&nbsp; this slide deck we dive into generative artificial intelligence in particular used for code generation and see how it impacts Bio-Image Data Science. We learn about benchmarking large language models for data analysis code generation, and how to use them practically in our work.
-
-[https://zenodo.org/records/18735653](https://zenodo.org/records/18735653)
-
-[https://doi.org/10.5281/zenodo.18735653](https://doi.org/10.5281/zenodo.18735653)
 
 
 ---
