@@ -903,7 +903,7 @@ Content type: Collection, Video
 
 ## NFDI4BIOIMAGE - a consortium of the National Research Data Infrastructure
 
-Nfdi4Bioimage
+NFDI4BIOIMAGE
 
 Licensed UNKNOWN
 
