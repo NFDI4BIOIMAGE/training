@@ -27039,3 +27039,41 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+- authors:
+  - "M\xFCller, Maximilian E."
+  description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
+    part of the CRC 1551 Data Week on 05. May 2026.
+
+    It provides a general introduction to research data management (RDM) and public
+    data deposition and highlights their specific relevance in research.
+
+    Furthermore, it introduces OMERO as a platform for structured data storage, metadata
+    management, and collaborative access and introduces repositories for imaging data.
+
+    The slides are intended for educational use and may serve as a resource for teaching
+    and training in research data management within the life sciences.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: 'From Microscope to Repository: Managing Image Data with OMERO'
+  num_downloads: 21
+  publication_date: '2026-05-05'
+  submission_date: '2026-05-12T13:08:09.807887'
+  url:
+  - https://zenodo.org/records/20039402
+  - https://doi.org/10.5281/zenodo.20039402
+- authors:
+  - Goble, Carole
+  description: 'Invited keynote for&nbsp;
+
+    19th OME Community Meeting, D&uuml;sseldorf, Germany, 28-30 April 2026, https://www.openmicroscopy.org/events/ome-community-meeting-2026.html'
+  license: cc-by-4.0
+  name: Building Research Infrastructure Communities That Last
+  num_downloads: 8
+  publication_date: '2026-05-01'
+  submission_date: '2026-05-12T13:08:11.454733'
+  url:
+  - https://zenodo.org/records/19949157
+  - https://doi.org/10.5281/zenodo.19949157
