@@ -27039,8 +27039,9 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  uuid: b73b2c49-6656-4944-8bb6-a24d857b7795
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27065,7 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  uuid: cb9424e4-5c9a-430e-b64a-0b5011546ffa
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,3 +27079,4 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  uuid: 2ccecdea-c76b-4950-a438-f13eef327a6d
