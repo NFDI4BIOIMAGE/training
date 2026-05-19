@@ -27077,3 +27077,56 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+- authors:
+  - Wendt, Jens
+  description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
+    at EMBL-Heidelberg in May 2026 about the implementation of Data Stewardship at
+    NFDI4BIOIMAGE.
+
+    &nbsp;
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.'
+  license: cc-by-4.0
+  name: '"Data Stewardship at NFDI4BIOIMAGE" presentation at Data Stewardship Knowledge
+    Exchange Event @EMBL-Heidelberg'
+  num_downloads: 0
+  publication_date: '2026-05-18'
+  submission_date: '2026-05-19T13:56:19.700430'
+  url:
+  - https://zenodo.org/records/20271104
+  - https://doi.org/10.5281/zenodo.20271104
+- authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'In this workshop the participants get an introduction to OMERO and
+    its core concepts (projects, datasets, images, metadata, permissions). Additionally
+    they perform a few hands-on tasks: OMERO functionalities, data annotation using
+    a REMBI table, and OMERO.figure.
+
+    This workshop was part of the FDM-Werkstatt 2026 in D&uuml;sseldorf.
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: '[Workshop] Imaging data management with OMERO - Hands-on - by Vanessa Fuchs
+    | NFDI4BIOIMAGE'
+  num_downloads: 20
+  publication_date: '2026-04-01'
+  submission_date: '2026-05-19T13:56:25.275390'
+  url:
+  - https://zenodo.org/records/19366801
+  - https://doi.org/10.5281/zenodo.19366801
+- authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  description: This publication contains the slides from the presentation "NFDI -
+    Nationale Forschungsdaten Infrastruktur - 2 Lifescience consortia - NFDI4BIOIMAGE
+    + DATAPlant" held on the 24th of March 2026 during the FDM Werkstatt 2026 in D&uuml;sseldorf.
+  license: cc-by-4.0
+  name: '[FDM-Werkstatt 2026] [talk] NFDI - Nationale Forschungsdaten Infrastruktur
+    -2 Lifescience consortia - NFDI4BIOIMAGE + DATAPlant'
+  num_downloads: 53
+  publication_date: '2026-03-31'
+  submission_date: '2026-05-19T13:56:25.949033'
+  url:
+  - https://zenodo.org/records/19352622
+  - https://doi.org/10.5281/zenodo.19352622
