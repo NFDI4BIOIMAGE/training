@@ -1,4 +1,25 @@
-# Jens wendt (15)
+# Jens wendt (16)
+## "Data Stewardship at NFDI4BIOIMAGE" presentation at Data Stewardship Knowledge Exchange Event @EMBL-Heidelberg
+
+Jens Wendt
+
+Published 2026-05-18
+
+Licensed CC-BY-4.0
+
+
+
+Presentation held at the Data Stewardship Knowledge Exchange Event at EMBL-Heidelberg in May 2026 about the implementation of Data Stewardship at NFDI4BIOIMAGE.
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20271104](https://zenodo.org/records/20271104)
+
+[https://doi.org/10.5281/zenodo.20271104](https://doi.org/10.5281/zenodo.20271104)
+
+
+---
+
 ## Data stewardship for Bio-Image Research Data Management Support and Training at RDM4mic Meeting 2025
 
 Cornelia Wetzker, Vanessa Fuchs, Jens Wendt, Mohsen Ahmadi, Maximilian E. Müller, Riccardo Massei

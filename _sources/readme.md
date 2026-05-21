@@ -1,6 +1,6 @@
 # NFDI4BioImage Training Materials
 
-This Jupyter Book contains 926 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2026-05-12.
+This Jupyter Book contains 929 links to training materials in the context Research Data Management for Bioimaging / Microscopy Data and Bio-image Analysis and has been updated 2026-05-21.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the search index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for training materials
@@ -15,11 +15,11 @@ Feedback and contributions are very welcome, e.g. as [github issue](https://gith
 We trace download statistics of some Microscopy / Research Data Management / BioImage Analysis records on [zenodo.org](https://zenodo.org). These were the three most downloaded records recently observed.
 
 
-1. [100,000 histological images of human colorectal cancer and healthy tissue](https://zenodo.org/records/1214456) by "Kather, Jakob Nikolas and Halama, Niels and Marx, Alexander" (854 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+1. [HT1080WT cells embedded in 3D collagen type I matrices - manual annotations for cell instance segmentation and tracking](https://zenodo.org/records/5979761) by "Estibaliz Gómez-de-Mariscal and Hasini Jayatilaka and Denis Wirtz and Arrate Muñoz-Barrutia" (2 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-2. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15546497) by "Haase, Robert" (210 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Train-the-Trainer Concept on Research Data Management](https://zenodo.org/record/4071471) by "Biernacka, Katarzyna and Bierwirth, Maik and Buchholz, Petra and Dolzycka, Dominika and Helbig, Kerstin and Neumann, Janna and Odebrecht, Carolin and Wiljes, Cord and Wuttke, Ulrike" (0 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-3. [Bio-image Data Science Lectures 2025 @ Uni Leipzig / ScaDS.AI](https://zenodo.org/records/15793536) by "Haase, Robert" (210 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+3. [Efficiently starting institutional research data management](https://zenodo.org/record/3490058) by "Biernacka, Katarzyna and Cortez, Katrin and Helbig, Kerstin" (0 downloads), licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to use this resource
 

@@ -1,64 +1,21 @@
 # Recently added (10)
-## AI4Science Training @ UFZ Magdeburg
+## "Data Stewardship at NFDI4BIOIMAGE" presentation at Data Stewardship Knowledge Exchange Event @EMBL-Heidelberg
 
-Höck, Lina Lisa, Robert Haase
+Jens Wendt
 
-Published 2026-03-27
+Published 2026-05-18
 
 Licensed CC-BY-4.0
 
 
 
-This slide deck accompanies the AI4Science for scientists at UFZ Magdeburg: https://scads.github.io/ai4science-ufz-madgeburg-2026/intro.html
-It outlines the topics:
+Presentation held at the Data Stewardship Knowledge Exchange Event at EMBL-Heidelberg in May 2026 about the implementation of Data Stewardship at NFDI4BIOIMAGE.
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
 
+[https://zenodo.org/records/20271104](https://zenodo.org/records/20271104)
 
-Introduction to Artificial Intelligence, AI systems, and language models
-
-
-Application areas and limitations of AI in text generation
-
-
-AI-assisted literature research
-
-
-Prompt engineering
-
-
-Prompting with large context
-
-
-Knowledge distillation
-
-
-Text Analysis / Information Retrieval
-
-
-Embeddings and retrieval-augmented generation
-
-
-Data analysis
-
-
-Data and code generation
-
-
-Bias
-
-
-Privacy-compliant use
-
-
-Copyright
-
-
-EU AI Act
-
-
-
-[https://zenodo.org/records/19246441](https://zenodo.org/records/19246441)
-
-[https://doi.org/10.5281/zenodo.19246441](https://doi.org/10.5281/zenodo.19246441)
+[https://doi.org/10.5281/zenodo.20271104](https://doi.org/10.5281/zenodo.20271104)
 
 
 ---
@@ -184,25 +141,6 @@ Source files and pdf of the tutorial held at SWAT4HCLS 2026
 
 ---
 
-## Transforming ome-zarr: What's (going to be) new in 0.6
-
-Soltwedel, Johannes Richard
-
-Published 2026-03-31
-
-Licensed CC-BY-4.0
-
-
-
-Summary of new features and use cases of transformation metadata in the upcoming ome-zarr 0.6 metadata standard
-
-[https://zenodo.org/records/19335305](https://zenodo.org/records/19335305)
-
-[https://doi.org/10.5281/zenodo.19335305](https://doi.org/10.5281/zenodo.19335305)
-
-
----
-
 ## Workflow and Example Dataset for Python-Based Stitching of Confocal Zebrafish Images from VAST BioImager-Based Screening
 
 Dutta, Suchetana Bias, Sarai Valerio-Cabrera
@@ -222,25 +160,42 @@ A Python-based stitching script for individual tiles obtained with an automated 
 
 ---
 
-## [Chemnitzer Linux Tage 2026] Open Source VDI: SPICE / QEMU with Video stream support
+## [FDM-Werkstatt 2026] [talk] NFDI - Nationale Forschungsdaten Infrastruktur -2 Lifescience consortia - NFDI4BIOIMAGE + DATAPlant
 
-von Suchodoletz, Dirk, Rafael Gieschke, Michael Scherle
+Fuchs, Vanessa Aphaia Fiona
 
-Published 2026-03-28
+Published 2026-03-31
 
 Licensed CC-BY-4.0
 
 
 
-The poster was presented at the Chemnitzer Linux Tage 2026.
-Additionally, the state of developments in Open Source VDI (OSVDI) was further presented in a talk by Rafael Gieschke, Michael Scherle and Dirk von Suchodoletz.&nbsp;The solution developed in WP2 of NFDI4BIOIMAGE provides a complete remote desktop representation via virtualization or cloud environments, accessible over a network connection. The goal is to implement a typical imaging workstation available remotely using a fully open and freely available software stack. OSVDI aims to complete a free and open IT toolkit in the spirit of digital sovereignty. The talk therefore particularly addresses co-developers as well as IT decision-makers and infrastructure administrators, with the goal of promoting the project beyond NFDI4BIOIMAGE and ensuring its long-term sustainability.
-Link to the recording of the talk (in German): https://media.ccc.de/v/clt26-417-open-source-vdi-hw-beschleunigter-remote-access-zu-libvirt
-Link to the slides of the talk (in German): https://chemnitzer.linux-tage.de/2026/media/programm/folien/417.pdf
-The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure - NFDI 46/1 - 501864659.
+This publication contains the slides from the presentation "NFDI - Nationale Forschungsdaten Infrastruktur - 2 Lifescience consortia - NFDI4BIOIMAGE + DATAPlant" held on the 24th of March 2026 during the FDM Werkstatt 2026 in D&uuml;sseldorf.
 
-[https://zenodo.org/records/19469051](https://zenodo.org/records/19469051)
+[https://zenodo.org/records/19352622](https://zenodo.org/records/19352622)
 
-[https://doi.org/10.5281/zenodo.19469051](https://doi.org/10.5281/zenodo.19469051)
+[https://doi.org/10.5281/zenodo.19352622](https://doi.org/10.5281/zenodo.19352622)
+
+
+---
+
+## [Workshop] Imaging data management with OMERO - Hands-on - by Vanessa Fuchs | NFDI4BIOIMAGE
+
+Fuchs, Vanessa Aphaia Fiona
+
+Published 2026-04-01
+
+Licensed CC-BY-4.0
+
+
+
+In this workshop the participants get an introduction to OMERO and its core concepts (projects, datasets, images, metadata, permissions). Additionally they perform a few hands-on tasks: OMERO functionalities, data annotation using a REMBI table, and OMERO.figure.
+This workshop was part of the FDM-Werkstatt 2026 in D&uuml;sseldorf.
+&nbsp;
+
+[https://zenodo.org/records/19366801](https://zenodo.org/records/19366801)
+
+[https://doi.org/10.5281/zenodo.19366801](https://doi.org/10.5281/zenodo.19366801)
 
 
 ---

@@ -1,4 +1,25 @@
-# Zenodo.org (406)
+# Zenodo.org (409)
+## "Data Stewardship at NFDI4BIOIMAGE" presentation at Data Stewardship Knowledge Exchange Event @EMBL-Heidelberg
+
+Jens Wendt
+
+Published 2026-05-18
+
+Licensed CC-BY-4.0
+
+
+
+Presentation held at the Data Stewardship Knowledge Exchange Event at EMBL-Heidelberg in May 2026 about the implementation of Data Stewardship at NFDI4BIOIMAGE.
+&nbsp;
+We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659.
+
+[https://zenodo.org/records/20271104](https://zenodo.org/records/20271104)
+
+[https://doi.org/10.5281/zenodo.20271104](https://doi.org/10.5281/zenodo.20271104)
+
+
+---
+
 ## "Management of Microscopy Image Data: An overview of OMERO, BioImage Archive and Image Data Resource"  2025 @ Uni Leipzig
 
 Vellutini, Bruno C., Cuenca, Marina B., Abhijeet Krishna, Alicja Szałapak, Modes, Carl D., Pavel Tomančák
@@ -12535,6 +12556,25 @@ Tags: Include In Dalia
 
 ---
 
+## [FDM-Werkstatt 2026] [talk] NFDI - Nationale Forschungsdaten Infrastruktur -2 Lifescience consortia - NFDI4BIOIMAGE + DATAPlant
+
+Fuchs, Vanessa Aphaia Fiona
+
+Published 2026-03-31
+
+Licensed CC-BY-4.0
+
+
+
+This publication contains the slides from the presentation "NFDI - Nationale Forschungsdaten Infrastruktur - 2 Lifescience consortia - NFDI4BIOIMAGE + DATAPlant" held on the 24th of March 2026 during the FDM Werkstatt 2026 in D&uuml;sseldorf.
+
+[https://zenodo.org/records/19352622](https://zenodo.org/records/19352622)
+
+[https://doi.org/10.5281/zenodo.19352622](https://doi.org/10.5281/zenodo.19352622)
+
+
+---
+
 ## [GBI EOE VII] Five (or ten) must-have items for making IT infrastructure for managing bioimage data
 
 Josh Moore
@@ -13014,6 +13054,27 @@ It is possible to attend individual modules, and your choices can be made during
 [https://zenodo.org/records/17787401](https://zenodo.org/records/17787401)
 
 [https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401)
+
+
+---
+
+## [Workshop] Imaging data management with OMERO - Hands-on - by Vanessa Fuchs | NFDI4BIOIMAGE
+
+Fuchs, Vanessa Aphaia Fiona
+
+Published 2026-04-01
+
+Licensed CC-BY-4.0
+
+
+
+In this workshop the participants get an introduction to OMERO and its core concepts (projects, datasets, images, metadata, permissions). Additionally they perform a few hands-on tasks: OMERO functionalities, data annotation using a REMBI table, and OMERO.figure.
+This workshop was part of the FDM-Werkstatt 2026 in D&uuml;sseldorf.
+&nbsp;
+
+[https://zenodo.org/records/19366801](https://zenodo.org/records/19366801)
+
+[https://doi.org/10.5281/zenodo.19366801](https://doi.org/10.5281/zenodo.19366801)
 
 
 ---
