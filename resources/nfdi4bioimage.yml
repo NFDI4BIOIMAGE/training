@@ -27039,8 +27039,10 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27066,8 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  authors_with_orcid:
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,6 +27081,8 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  authors_with_orcid:
+  - Carole Goble https://orcid.org/0000-0003-1219-2137
 - authors:
   - Wendt, Jens
   description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
@@ -27097,6 +27103,8 @@ resources:
   url:
   - https://zenodo.org/records/20271104
   - https://doi.org/10.5281/zenodo.20271104
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In this workshop the participants get an introduction to OMERO and
@@ -27116,6 +27124,8 @@ resources:
   url:
   - https://zenodo.org/records/19366801
   - https://doi.org/10.5281/zenodo.19366801
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: This publication contains the slides from the presentation "NFDI -
@@ -27130,3 +27140,5 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
