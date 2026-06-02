@@ -27130,3 +27130,42 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+- authors:
+  - Moore, Josh
+  description: '40 Minute talk presented to the BINA Insights and Educational Tools
+    from&nbsp;Industry Series
+
+    https://www.bioimagingnorthamerica.org/events/insights-and-educational-tools-from-industry-series-registration/'
+  license: cc-by-4.0
+  name: '[BINA] Understanding the Standardization Runway of OME-Zarr'
+  num_downloads: 42
+  publication_date: '2026-05-20'
+  submission_date: '2026-06-02T14:57:36.557878'
+  url:
+  - https://zenodo.org/records/20275730
+  - https://doi.org/10.5281/zenodo.20275730
+- authors:
+  - Theart, Rensu
+  - Levet, Florian
+  - Hernandez-Herrera
+  - Leterrier, Christophe
+  - de la Ballina, Laura R
+  description: 'Raw, processed and annotated images associated with the manuscript
+    "Presynaptic Actin Nanostructures: A Reproducibility Case Study".
+
+    This work is part of an initiative of the Global BioImage Analysts'' Society (GloBIAS)
+    to assess reproducibility of published bioimage analysis workflows.
+
+    We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses contain
+    distinct actin nanostructures. J Cell Biol&nbsp;2 October 2023; 222 (10): e202208110.
+    doi:&nbsp;https://doi.org/10.1083/jcb.202208110.&nbsp;Original images and annotations
+    were kindly provided by their authors.'
+  license: cc-by-4.0
+  name: 'Sample image data and annotations associated to Presynaptic Actin Nanostructures:
+    A Reproducibility Case Study'
+  num_downloads: 25
+  publication_date: '2026-05-26'
+  submission_date: '2026-06-02T14:58:55.888605'
+  url:
+  - https://zenodo.org/records/20386408
+  - https://doi.org/10.5281/zenodo.20386408
