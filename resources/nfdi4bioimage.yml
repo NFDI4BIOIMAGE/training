@@ -27039,8 +27039,9 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  uuid: eb405aa8-e78b-49d2-bfc7-81af2837fff9
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27065,7 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  uuid: 3ee32f8a-1e41-4abd-a314-a0597b3f56c7
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,6 +27079,7 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  uuid: b94bea10-a9d5-4971-b430-22df151b34d1
 - authors:
   - Wendt, Jens
   description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
@@ -27097,6 +27100,7 @@ resources:
   url:
   - https://zenodo.org/records/20271104
   - https://doi.org/10.5281/zenodo.20271104
+  uuid: bb4e203e-a8f1-4742-b106-3393da41c150
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In this workshop the participants get an introduction to OMERO and
@@ -27116,6 +27120,7 @@ resources:
   url:
   - https://zenodo.org/records/19366801
   - https://doi.org/10.5281/zenodo.19366801
+  uuid: edb6129d-2564-44b8-8fa3-3a09f6696214
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: This publication contains the slides from the presentation "NFDI -
@@ -27130,3 +27135,4 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+  uuid: 13f77482-637b-4267-9ab8-cd6fe90be041
