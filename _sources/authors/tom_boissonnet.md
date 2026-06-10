@@ -1,4 +1,4 @@
-# Tom boissonnet (21)
+# Tom boissonnet (22)
 ## A practical guide to bioimaging research data management in core facilities
 
 Christian Schmidt, Tom Boissonnet, Julia Dohle, Karen Bernhardt, Elisa Ferrando-May, Tobias Wernet, Roland Nitschke, Susanne Kunis, Stefanie Weidtkamp-Peters
@@ -365,6 +365,31 @@ Tags: Nfdi4Bioimage, Research Data Management, Include In Dalia
 
 ---
 
+## [TiM2025] Hands-on: Creating Bio-image Overviews with OMERO.figure
+
+Cornelia Wetzker, Mohsen Ahmadi, Ksenia Krooß, Jens Wendt, Tom Boissonnet
+
+Published 2026-06-09
+
+Licensed CC-BY-4.0
+
+
+
+The slides are part of a hands-on session that demonstrates the usage of OMERO.figure to create overviews of microscopy images and datasets presented at the Workshop Data Stewardship in Microscopy at the Trends in Microscopy 2025.
+Usage of the material in self learning:
+To be able to follow the hands-on material, find the 3 example datasets of the workshop openly accessible in a public user space of an OMERO instance at the University of M&uuml;nster via this link: https://omero-tim.gerbi-gmb.de/webclient/?show=dataset-25739
+Alternatively, open the tool omero.figure in this instance directly (https://omero-tim.gerbi-gmb.de/figure/) and add one of the datasets by providing its id: 105986. (see the slides for details)
+Origin of the microscopy dataset:
+The datasets originate from a project dealing with fluorescence lifetime imaging microscopy (FLIM) and its possible application to distinguish spectrally overlapping fluorophores based on their lifetimes.&nbsp;The scientific context and further processing of the image datasets are described in the following publication: https://doi.org/10.1111/jmi.70036
+The complete bioimage dataset including experimental, microscopy and image analysis metadata can be found on the BioImage Archive: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1967
+
+[https://zenodo.org/records/20610539](https://zenodo.org/records/20610539)
+
+[https://doi.org/10.5281/zenodo.20610539](https://doi.org/10.5281/zenodo.20610539)
+
+
+---
+
 ## [Webinar] A journey to FAIR bioimage data
 
 Stefanie Weidtkamp-Peters, Tom Boissonnet, Christian Schmidt
@@ -562,7 +587,7 @@ We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Resea
 
 ## ome2024-ngff-challenge
 
-Will Moore, Josh Moore, sherwoodf, jean-marie burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
+Will Moore, Josh Moore, sherwoodf, Jean-Marie Burel, Norman Rzepka, dependabot[bot], JensWendt, Joost de Folter, Torsten St\xF6ter, AybukeKY, Eric Perlman, Tom Boissonnet
 
 Published 2024-08-30T12:00:53+00:00
 

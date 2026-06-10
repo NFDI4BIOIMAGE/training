@@ -75,7 +75,7 @@ Content type: Slides, Tutorial
 
 Rensu Theart, Florian Levet, Hernandez-Herrera, Christophe Leterrier, de la Ballina, Laura R
 
-Published 2025-12-02
+Published 2026-05-26
 
 Licensed CC-BY-4.0
 
@@ -85,9 +85,9 @@ Raw, processed and annotated images associated with the manuscript "Presynaptic 
 This work is part of an initiative of the Global BioImage Analysts' Society (GloBIAS) to assess reproducibility of published bioimage analysis workflows.
 We present our attempt to reproduce Figure 7 of the article&nbsp;Presynapses contain distinct actin nanostructures. J Cell Biol&nbsp;2 October 2023; 222 (10): e202208110. doi:&nbsp;https://doi.org/10.1083/jcb.202208110.&nbsp;Original images and annotations were kindly provided by their authors.
 
-[https://zenodo.org/records/17792816](https://zenodo.org/records/17792816)
+[https://zenodo.org/records/20386408](https://zenodo.org/records/20386408)
 
-[https://doi.org/10.5281/zenodo.17792816](https://doi.org/10.5281/zenodo.17792816)
+[https://doi.org/10.5281/zenodo.20386408](https://doi.org/10.5281/zenodo.20386408)
 
 
 ---

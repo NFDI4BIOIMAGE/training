@@ -1,4 +1,4 @@
-# Isabel kemmer (6)
+# Isabel kemmer (7)
 ## Building a FAIR image data ecosystem for microscopy communities
 
 Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bugra Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
@@ -132,6 +132,26 @@ Tags: Include In Dalia
 [https://zenodo.org/records/15647102](https://zenodo.org/records/15647102)
 
 [https://doi.org/10.5281/zenodo.15647102](https://doi.org/10.5281/zenodo.15647102)
+
+
+---
+
+## [OME2026] Poster:Putting FAIR Principles into Action - Euro-BioImaging's FAIR Data Toolkit
+
+Isabel Kemmer, Euro-BioImaging ERIC
+
+Published 2026-04-28
+
+Licensed CC-BY-4.0
+
+
+
+Abstract: Euro-BioImaging Image Data Services includes the FAIR Data Toolkit to support its network of Nodes and their research communities in implementing robust bioimage data handling. This toolkit includes customizable data management plan templates, metadata &amp; deposition guides, repository decision trees and a collection of training resources and consultation opportunities. All of these are designed to provide guidance around the entire bioimage data lifecycle, from acquisition to reuse. Beneath the surface of these resources, OME standards and tools provide the technical foundations for interoperability. Whether it&rsquo;s OME metadata standards, Bio-Formats, OMERO, OME-Zarr, or the IDR, all of them are woven into the toolkit and shape our trainings and consultations. To enable broad adoption of OME-Zarr, we&rsquo;re also creating open-source tools that streamline conversion and work with it. Through this OME integration, Euro-BioImaging turns FAIR community solutions into everyday practice by equipping Nodes with ready-to-use resources for their staff and researchers. Nodes adapt and distribute the toolkit locally, amplifying standardized, reproducible, and interoperable data handling across Europe&rsquo;s bioimaging community.
+Note: this digital version of the poster was updated on 2026-05-27 with the latest numbers for Euro-BioImaging facilities and Image Data Community Days and is therefore slightly different than the one presented at the meeting.
+
+[https://zenodo.org/records/20152438](https://zenodo.org/records/20152438)
+
+[https://doi.org/10.5281/zenodo.20152438](https://doi.org/10.5281/zenodo.20152438)
 
 
 ---
