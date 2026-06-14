@@ -27039,8 +27039,10 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27066,8 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  authors_with_orcid:
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,6 +27081,8 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  authors_with_orcid:
+  - Carole Goble https://orcid.org/0000-0003-1219-2137
 - authors:
   - Wendt, Jens
   description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
@@ -27097,6 +27103,8 @@ resources:
   url:
   - https://zenodo.org/records/20271104
   - https://doi.org/10.5281/zenodo.20271104
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In this workshop the participants get an introduction to OMERO and
@@ -27116,6 +27124,8 @@ resources:
   url:
   - https://zenodo.org/records/19366801
   - https://doi.org/10.5281/zenodo.19366801
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: This publication contains the slides from the presentation "NFDI -
@@ -27130,10 +27140,12 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
 - authors:
   - Wetzker, Cornelia
   - Ahmadi, Mohsen
-  - "Kroo\xDF, Ksenia"
+  - Krooß, Ksenia
   - Wendt, Jens
   - Boissonnet, Tom
   description: 'The slides are part of a hands-on session that demonstrates the usage
@@ -27166,6 +27178,12 @@ resources:
   url:
   - https://zenodo.org/records/20610539
   - https://doi.org/10.5281/zenodo.20610539
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
 - authors:
   - Moore, Josh
   - Schmidt, Christian
@@ -27177,7 +27195,7 @@ resources:
   - Sun, Yi
   - Zobel, Thomas
   - Wendt, Jens
-  - "Gr\xFCning, Bj\xF6rn"
+  - Grüning, Björn
   - Kunis, Susanne
   - Blank-Burian, Markus
   - Trivedi, Ami
@@ -27186,7 +27204,7 @@ resources:
   - Scherle, Michael
   - Massei, Riccardo
   - Wetzker, Cornelia
-  - "M\xFCller, Maximilian"
+  - Müller, Maximilian
   - Baldenius, Marie
   - Mohr, Inga
   - Fuchs, Vanessa
@@ -27310,6 +27328,38 @@ resources:
   url:
   - https://zenodo.org/records/20509378
   - https://doi.org/10.5281/zenodo.20509378
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Robert Haase
+  - Jan-Philipp Mallm
+  - Carsten Fortmann-Grote
+  - Thilo Figge
+  - Christian Tischer
+  - Yi Sun
+  - Thomas Zobel
+  - Jens Wendt
+  - Björn Grüning
+  - Susanne Kunis
+  - Markus Blank-Burian
+  - Ami Trivedi
+  - Janina Hanne
+  - Dirk von Suchodoletz
+  - Michael Scherle
+  - Riccardo Massei
+  - Cornelia Wetzker
+  - Maximilian Müller
+  - Marie Baldenius
+  - Inga Mohr
+  - Vanessa Fuchs
+  - Tobias Gottschall
+  - Michele Bortolomeazzi
+  - Ruman Gerst
+  - Mohsen Ahmadi
+  - Jianxu Chen
+  - Markus Becker
+  - Elisa Ferrando-May
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Haase, Robert
   description: 'In&nbsp; this presentation we learn&nbsp; about the impact of generative
@@ -27336,6 +27386,8 @@ resources:
   url:
   - https://zenodo.org/records/20512957
   - https://doi.org/10.5281/zenodo.20512957
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Moore, Josh
   description: '40 Minute talk presented to the BINA Insights and Educational Tools
@@ -27350,6 +27402,8 @@ resources:
   url:
   - https://zenodo.org/records/20275730
   - https://doi.org/10.5281/zenodo.20275730
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -27382,6 +27436,9 @@ resources:
   url:
   - https://zenodo.org/records/20152438
   - https://doi.org/10.5281/zenodo.20152438
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Euro-BioImaging ERIC
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -27407,3 +27464,9 @@ resources:
   url:
   - https://zenodo.org/records/20386408
   - https://doi.org/10.5281/zenodo.20386408
+  authors_with_orcid:
+  - Rensu Theart https://orcid.org/0000-0003-0508-1690
+  - Florian Levet https://orcid.org/0000-0002-4009-6225
+  - Hernandez-Herrera https://orcid.org/0000-0002-2206-3489
+  - Christophe Leterrier https://orcid.org/0000-0002-2957-2032
+  - Laura R de la Ballina https://orcid.org/0000-0001-5363-7433
