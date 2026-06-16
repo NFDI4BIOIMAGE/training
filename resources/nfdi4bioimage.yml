@@ -27407,3 +27407,35 @@ resources:
   url:
   - https://zenodo.org/records/20386408
   - https://doi.org/10.5281/zenodo.20386408
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Presentation slides for talk of Johannes Soltwedel at 2026 ELMI conference
+    about FAIR data and its relevance in the context of AI in microscopy.
+  license: cc-by-4.0
+  name: You can't spell AI without FAIR
+  num_downloads: 23
+  publication_date: '2026-06-15'
+  submission_date: '2026-06-16T16:00:33.303466'
+  url:
+  - https://zenodo.org/records/20708139
+  - https://doi.org/10.5281/zenodo.20708139
+- authors:
+  - German BioImaging - Team Training
+  description: 'This video from the German BioImaging Team Training and Knowledge
+    Transfer showcases members'' contributions to the WDR "T&uuml;ren auf mit der
+    Maus" event. This annual initiative gives children the opportunity to look behind
+    doors that are usually closed to the public, with a different theme each year&mdash;for
+    example, the 2026 theme, "Kleine Wunder entdecken" ("Discovering Small Miracles").
+
+    The video aims to provide insight into how microscopy can be presented to children
+    during this event and to encourage more people to contribute to this outreach
+    event.'
+  license: cc-by-4.0
+  name: "GerBI Team Training proudly presents Insights into ,T\xFCren auf mit der\
+    \ Maus'"
+  num_downloads: 159
+  publication_date: '2026-06-09'
+  submission_date: '2026-06-16T16:00:49.964887'
+  url:
+  - https://zenodo.org/records/20614751
+  - https://doi.org/10.5281/zenodo.20614751
