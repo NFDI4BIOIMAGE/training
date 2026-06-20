@@ -6,7 +6,7 @@ https://NFDI4BIOIMAGE.github.io/training
 
 It is maintained using YAML resources and rendered as a static JavaScript search interface.
 
-To edit this book, install dependencies like this:
+To edit the training resources, install dependencies like this:
 
 ```
 pip install jupyterlab jupyter-book jupyterlab-spellchecker
@@ -16,7 +16,7 @@ cd training
 jupyter lab
 ```
 
-To build the website, you can run this from the same folder:
+To build the website from the repository root folder, you can run:
 ```
 python scripts/build_search_site.py
 ```
