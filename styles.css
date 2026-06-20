@@ -370,8 +370,6 @@ ul {
   display: inline-flex;
   width: 24px;
   height: 24px;
-  border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.55);
   align-items: center;
   justify-content: center;
   font-size: 0.73rem;
