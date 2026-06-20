@@ -76,7 +76,11 @@ function applyFilters() {
 function renderResults() {
   results.innerHTML = "";
 
-  if (!searchInput.value.trim()) {
+  const hasInputOrFilter = Boolean(
+    searchInput.value.trim() || state.activeTag || state.activeLicense,
+  );
+
+  if (!hasInputOrFilter) {
     summary.textContent = "Start typing to show matching resources.";
     return;
   }
