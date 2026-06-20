@@ -144,7 +144,7 @@ def build_site():
         shutil.rmtree(output_dir)
     output_dir.mkdir(parents=True)
 
-    for static_file in ("index.html", "app.js", "styles.css", "server.py"):
+    for static_file in ("index.html", "app.js", "styles.css", "server.py", "LinkedIn.png", "Mastodon.png", "Bluesky.png", "nfdi4bioimage-logo.png"):
         shutil.copy2(web_source / static_file, output_dir / static_file)
 
     shutil.copy2(repository_root / "docs" / "logo.png", output_dir / "logo.png")

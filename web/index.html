@@ -7,55 +7,97 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header>
-      <img src="logo.png" alt="NFDI4BIOIMAGE logo" class="logo" />
-      <div>
-        <h1>NFDI4BIOIMAGE Training Materials</h1>
-        <p>Search and explore the resource collection.</p>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="https://nfdi4bioimage.de/en/home/" target="_blank" aria-label="NFDI4BIOIMAGE home">
+          <img src="nfdi4bioimage-logo.png" alt="NFDI4BIOIMAGE logo" style="width: 273px;" />
+        </a>
+        <nav class="top-nav" aria-label="Main navigation">
+          <a href="https://nfdi4bioimage.de/en/about/">About</a>
+          <a href="https://nfdi4bioimage.de/en/services/">Services</a>
+          <a href="https://nfdi4bioimage.de/en/community/">Community</a>
+          <a href="https://nfdi4bioimage.de/en/news/">News</a>
+          <a href="https://nfdi4bioimage.de/en/helpdesk/">Help Desk</a>
+        </nav>
       </div>
     </header>
 
-    <main class="layout">
-      <div class="main-content">
-        <section class="panel">
-          <label for="search">Search all fields</label>
-          <input id="search" type="search" placeholder="Search name, tags, authors, license, URL..." />
-          <p id="summary"></p>
-        </section>
-
-        <section class="panel overview-panel">
-          <h2>Most recent additions</h2>
-          <ul id="recent"></ul>
-        </section>
-
-        <section class="panel overview-panel">
-          <h2>Top weekly downloads</h2>
-          <ul id="downloads"></ul>
-        </section>
-
-        <section class="panel overview-panel">
-          <h2>Descriptive statistics</h2>
-          <ul id="stats"></ul>
-        </section>
-
-        <section class="panel">
-          <h2>Results</h2>
-          <div id="results"></div>
-        </section>
+    <section class="hero-banner" aria-label="Services banner">
+      <div class="container">
+        <h1>Training Material Hub</h1>
       </div>
+    </section>
 
-      <aside class="filters">
-        <section class="panel">
-          <h2>Common tags</h2>
-          <div id="tags" class="chips"></div>
-        </section>
+    <main>
+      <section class="breadcrumb-row">
+        <div class="container">
+          Home » Services » Training Material Hub
+        </div>
+      </section>
 
-        <section class="panel">
-          <h2>Most common licenses</h2>
-          <div id="licenses" class="chips"></div>
-        </section>
-      </aside>
+      <section class="content-section">
+        <div class="container content-grid">
+          <div class="main-column">
+            <section class="panel">
+              <label for="search">Search all fields</label>
+              <input id="search" type="search" placeholder="Search name, tags, authors, license, URL..." />
+              <p id="summary"></p>
+            </section>
+            
+            <section class="panel overview-panel" id="recent-section">
+              <h3>Most recent additions</h3>
+              <ul id="recent"></ul>
+            </section>
+
+            <section class="panel overview-panel" id="downloads-section">
+              <h3>Top weekly downloads</h3>
+              <ul id="downloads"></ul>
+            </section>
+
+            <section class="panel overview-panel" id="stats-section">
+              <h3>Descriptive statistics</h3>
+              <ul id="stats"></ul>
+            </section>
+
+            <section class="panel search-results-panel">
+              <h3>Search results</h3>  
+              <div id="results" class="results-list"></div>
+            </section>
+          </div>
+
+          <aside class="filters-column" aria-label="Filters">
+            <section class="panel filters-panel">
+              <h3>Common tags</h3>
+              <div id="tags" class="chips"></div>
+            </section>
+
+            <section class="panel filters-panel">
+              <h3>Most common licenses</h3>
+              <div id="licenses" class="chips"></div>
+            </section>
+          </aside>
+        </div>
+      </section>
     </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-links">
+          <a href="https://nfdi4bioimage.de/en/privacy-policy/">Privacy Policy</a>
+          <a href="https://nfdi4bioimage.de/en/accessibility-statement/">Accessibility statement</a>
+        </div>
+        <div class="footer-links">
+          <a href="https://nfdi4bioimage.de/en/helpdesk/">HelpDesk</a>
+          <a href="https://nfdi4bioimage.de/wordpress/about/#CoordinationOffice">Contact</a>
+        </div>
+        <div class="footer-social" aria-label="Social links">
+          <a href="https://www.linkedin.com/company/nfdi4bioimage/" aria-label="LinkedIn"><img src="LinkedIn.png" alt="LinkedIn" style="width: 24px; height: 24px;"></a>
+          <a href="https://nfdi.social/@nfdi4bioimage" aria-label="Mastodon"><img src="Mastodon.png" alt="Mastodon" style="width: 24px; height: 24px;"></a>
+          <a href="https://bsky.app/profile/nfdi4bioimage.bsky.social" aria-label="Bluesky"><img src="Bluesky.png" alt="Bluesky" style="width: 24px; height: 24px;"></a>
+        </div>
+        <div class="footer-copy">© NFDI4BIOIMAGE</div>
+      </div>
+    </footer>
 
     <script src="app.js"></script>
   </body>

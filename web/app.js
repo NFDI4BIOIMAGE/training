@@ -95,20 +95,18 @@ function renderResults() {
     const types = joinValues(resource.type);
     const license = resource.license;
     const description = resource.description
-      ? String(resource.description).slice(0, 500)
+      ? String(resource.description).slice(0, 330)
       : "";
+
     const detailsLinks = urls
-      .map((url, index) => `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`)
-      .join(", ");
+      .slice(0, 2)
+      .map((url) => `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`)
+      .join(" · ");
 
-    const details = [
-      authors && `<p><strong>Authors:</strong> ${authors}</p>`,
-      tags && `<p><strong>Tags:</strong> ${tags}</p>`,
-      types && `<p><strong>Type:</strong> ${types}</p>`,
-      license && `<p><strong>License:</strong> ${license}</p>`,
-      description && `<p><strong>Description:</strong> ${description}</p>`,
-
-      detailsLinks && `<p>${detailsLinks}</p>`,
+    const metaItems = [
+      license && `<span>License: ${license}</span>`,
+      types && `<span>Type: ${types}</span>`,
+      tags && `<span>Tags: ${tags}</span>`,
     ].filter(Boolean).join("");
 
     const card = document.createElement("article");
@@ -117,7 +115,10 @@ function renderResults() {
       <h3>${primaryUrl
         ? `<a href="${primaryUrl}" target="_blank" rel="noopener noreferrer">${resource.name || primaryUrl}</a>`
         : `${resource.name || "Untitled resource"}`}</h3>
-      ${details}
+      ${authors ? `<p><strong>Authors:</strong> ${authors}</p>` : ""}
+      ${description ? `<p>${description}</p>` : ""}
+      ${metaItems ? `<div class="result-meta">${metaItems}</div>` : ""}
+      ${detailsLinks ? `<div class="result-links">${detailsLinks}</div>` : ""}
     `;
     results.appendChild(card);
   });
