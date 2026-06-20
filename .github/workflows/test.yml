@@ -1,4 +1,4 @@
-name: test-deploy-book
+name: test-deploy-search-site
 
 # Only run this when a pull-request is sent to main
 on:
@@ -6,9 +6,9 @@ on:
     branches:
     - main
 
-# This job installs dependencies, builds the book
+# This job installs dependencies and builds the search site
 jobs:
-  deploy-book:
+  deploy-search-site:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,23 +27,15 @@ jobs:
         pip install -r requirements.txt
         sudo apt-get install -y poppler-utils
 
-    # Run data normalizer
-    - name: Run data normalizer
+    - name: Build search site
       run: |
-        python scripts/data_normalizer.py
+        python scripts/build_search_site.py
 
-    # Build the book
-    - name: Generate link lists
+    - name: Validate build output
       run: |
-        python scripts/generate_link_lists.py
-    - name: Export CSV
-      run: |
-        python scripts/export_csv.py
-    - name: Top 3 downloads
-      run: |
-        python scripts/highlights-download-statistics.py
-    - name: Build the book
-      run: |
-        jupyter-book build ./docs/
+        test -f dist/index.html
+        test -f dist/app.js
+        test -f dist/styles.css
+        test -f dist/data.json
+        test -f dist/logo.png
         
-

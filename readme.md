@@ -4,9 +4,9 @@ This repository contains a collection of links to training materials and related
 
 https://NFDI4BIOIMAGE.github.io/training
 
-It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and build using [Jupyter book](https://jupyterbook.org/intro.html).
+It is maintained using YAML resources and rendered as a static JavaScript search interface.
 
-To edit this book, install depencencies like this:
+To edit the training resources, install dependencies like this:
 
 ```
 pip install jupyterlab jupyter-book jupyterlab-spellchecker
@@ -16,17 +16,12 @@ cd training
 jupyter lab
 ```
 
-To build the book, you can run this from the same folder (tested on Windows only):
+To build the website from the repository root folder, you can run:
 ```
-python scripts/generate_link_lists.py
-python scripts/export_csv.py
-```
-
-```
-jupyter-book build docs/
+python scripts/build_search_site.py
 ```
 
-Afterwards, there will be a `docs/_build/html/index.html` file which should look like this:
+Afterwards, there will be a `dist/index.html` file which should look like this:
 
 ![](docs/how_to_use.png) 
 
