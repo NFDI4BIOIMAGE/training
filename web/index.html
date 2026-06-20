@@ -15,47 +15,46 @@
       </div>
     </header>
 
-    <main>
-      <section class="panel">
-        <label for="search">Search all fields</label>
-        <input id="search" type="search" placeholder="Search name, tags, authors, license, URL..." />
-        <p id="summary"></p>
-      </section>
+    <main class="layout">
+      <div class="main-content">
+        <section class="panel">
+          <label for="search">Search all fields</label>
+          <input id="search" type="search" placeholder="Search name, tags, authors, license, URL..." />
+          <p id="summary"></p>
+        </section>
 
-      <section class="panel">
-        <h2>Keywords</h2>
-        <div id="keywords" class="chips"></div>
-      </section>
-
-      <section class="panel">
+        <section class="panel overview-panel">
           <h2>Most recent additions</h2>
           <ul id="recent"></ul>
-      </section>
-      
-      <section class="panel">
+        </section>
+
+        <section class="panel overview-panel">
           <h2>Top weekly downloads</h2>
           <ul id="downloads"></ul>
-      </section>
+        </section>
 
-      <section class="panel">
-          <h2>Most common tags</h2>
+        <section class="panel overview-panel">
+          <h2>Descriptive statistics</h2>
+          <ul id="stats"></ul>
+        </section>
+
+        <section class="panel">
+          <h2>Results</h2>
+          <div id="results"></div>
+        </section>
+      </div>
+
+      <aside class="filters">
+        <section class="panel">
+          <h2>Common tags</h2>
           <div id="tags" class="chips"></div>
-      </section>
-      
-      <section class="panel">
+        </section>
+
+        <section class="panel">
           <h2>Most common licenses</h2>
           <div id="licenses" class="chips"></div>
-      </section>
-
-      <section class="panel">
-        <h2>Descriptive statistics</h2>
-        <ul id="stats"></ul>
-      </section>
-
-      <section class="panel">
-        <h2>Results</h2>
-        <div id="results"></div>
-      </section>
+        </section>
+      </aside>
     </main>
 
     <script src="app.js"></script>

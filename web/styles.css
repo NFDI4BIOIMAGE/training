@@ -29,6 +29,22 @@ main {
   padding: 1rem;
 }
 
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 1rem;
+  align-items: start;
+}
+
+.main-content {
+  min-width: 0;
+}
+
+.filters {
+  position: sticky;
+  top: 1rem;
+}
+
 .panel {
   background: white;
   border: 1px solid #d1d5db;
@@ -94,4 +110,14 @@ main {
 ul {
   margin: 0;
   padding-left: 1.25rem;
+}
+
+@media (max-width: 980px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .filters {
+    position: static;
+  }
 }

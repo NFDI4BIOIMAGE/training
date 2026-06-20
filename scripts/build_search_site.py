@@ -8,7 +8,7 @@ from pathlib import Path
 
 import yaml
 
-KEYWORDS = ["Omero", "ome", "zarr", "LLM"]
+FILTER_OUT_TAGS = ["include in DALIA", "exclude from DALIA"]
 RECENT_ADDITIONS_COUNT = 10
 TOP_DOWNLOADS_COUNT = 3
 
@@ -28,6 +28,13 @@ def _normalize_text(value):
 def _load_resources(path: Path):
     with path.open("r", encoding="utf-8") as stream:
         data = yaml.safe_load(stream) or {}
+
+    # filter out the tags "include in DALIA" and "exclude from DALIA" as they are not relevant for the search site
+    for resource in data.get("resources", []):
+        tags = resource.get("tags", [])
+        if isinstance(tags, list):
+            resource["tags"] = [tag for tag in tags if tag not in FILTER_OUT_TAGS]
+
     return data.get("resources", [])
 
 
@@ -113,6 +120,8 @@ def build_site():
 
     resources = _load_resources(resources_path)
 
+    print(_resource_search_text(resources[0]))
+
     tags = _counter(resources, "tags")
     licenses = _counter(resources, "license")
     types = _counter(resources, "type")
@@ -126,10 +135,9 @@ def build_site():
     payload = {
         "totalResources": len(resources),
         "resources": serializable_resources,
-        "mostCommonTags": [{"value": key, "count": value} for key, value in tags.most_common(20)],
-        "mostCommonLicenses": [{"value": key, "count": value} for key, value in licenses.most_common(10)],
-        "mostCommonTypes": [{"value": key, "count": value} for key, value in types.most_common(10)],
-        "keywords": KEYWORDS,
+        "mostCommonTags": [{"value": key, "count": value} for key, value in tags.most_common(1000)],
+        "mostCommonLicenses": [{"value": key, "count": value} for key, value in licenses.most_common(1000)],
+        "mostCommonTypes": [{"value": key, "count": value} for key, value in types.most_common(1000)],
         "recentAdditions": serializable_resources[-RECENT_ADDITIONS_COUNT:][::-1],
         "topDownloads": _top_downloads(download_dir),
     }
@@ -138,7 +146,7 @@ def build_site():
         shutil.rmtree(output_dir)
     output_dir.mkdir(parents=True)
 
-    for static_file in ("index.html", "app.js", "styles.css"):
+    for static_file in ("index.html", "app.js", "styles.css", "server.py"):
         shutil.copy2(web_source / static_file, output_dir / static_file)
 
     shutil.copy2(repository_root / "docs" / "logo.png", output_dir / "logo.png")
