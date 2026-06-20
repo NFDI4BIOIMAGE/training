@@ -6,7 +6,7 @@ https://NFDI4BIOIMAGE.github.io/training
 
 It is maintained using YAML resources and rendered as a static JavaScript search interface.
 
-To edit this book, install depencencies like this:
+To edit this book, install dependencies like this:
 
 ```
 pip install jupyterlab jupyter-book jupyterlab-spellchecker

@@ -1,10 +1,10 @@
 :root {
   color-scheme: light;
-  font-family: Arial, sans-serif;
 }
 
 body {
   margin: 0;
+  font-family: Arial, sans-serif;
   background: #f6f7fb;
   color: #1f2937;
 }
