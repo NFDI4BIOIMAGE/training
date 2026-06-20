@@ -94,6 +94,9 @@ function renderResults() {
     const tags = joinValues(resource.tags);
     const types = joinValues(resource.type);
     const license = resource.license;
+    const description = resource.description
+      ? String(resource.description).slice(0, 500)
+      : "";
     const detailsLinks = urls
       .map((url, index) => `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`)
       .join(", ");
@@ -103,6 +106,8 @@ function renderResults() {
       tags && `<p><strong>Tags:</strong> ${tags}</p>`,
       types && `<p><strong>Type:</strong> ${types}</p>`,
       license && `<p><strong>License:</strong> ${license}</p>`,
+      description && `<p><strong>Description:</strong> ${description}</p>`,
+
       detailsLinks && `<p>${detailsLinks}</p>`,
     ].filter(Boolean).join("");
 

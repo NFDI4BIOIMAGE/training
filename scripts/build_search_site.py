@@ -120,8 +120,6 @@ def build_site():
 
     resources = _load_resources(resources_path)
 
-    print(_resource_search_text(resources[0]))
-
     tags = _counter(resources, "tags")
     licenses = _counter(resources, "license")
     types = _counter(resources, "type")
