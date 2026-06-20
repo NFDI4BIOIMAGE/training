@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NFDI4BIOIMAGE Training Search</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <img src="logo.png" alt="NFDI4BIOIMAGE logo" class="logo" />
+      <div>
+        <h1>NFDI4BIOIMAGE Training Materials</h1>
+        <p>Search and explore the resource collection.</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel">
+        <label for="search">Search all fields</label>
+        <input id="search" type="search" placeholder="Search name, tags, authors, license, URL..." />
+        <p id="summary"></p>
+      </section>
+
+      <section class="panel">
+        <h2>Keywords</h2>
+        <div id="keywords" class="chips"></div>
+      </section>
+
+      <section class="panel split">
+        <div>
+          <h2>Most common tags</h2>
+          <div id="tags" class="chips"></div>
+        </div>
+        <div>
+          <h2>Most common licenses</h2>
+          <div id="licenses" class="chips"></div>
+        </div>
+      </section>
+
+      <section class="panel split">
+        <div>
+          <h2>Most recent additions</h2>
+          <ul id="recent"></ul>
+        </div>
+        <div>
+          <h2>Top weekly downloads</h2>
+          <ul id="downloads"></ul>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Descriptive statistics</h2>
+        <ul id="stats"></ul>
+      </section>
+
+      <section class="panel">
+        <h2>Results</h2>
+        <div id="results"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

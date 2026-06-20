@@ -1,4 +1,4 @@
-name: deploy-book
+name: deploy-search-site
 
 # Only run this when the master branch changes
 on:
@@ -7,9 +7,9 @@ on:
     - master
     - main
 
-# This job installs dependencies, build the book, and pushes it to `gh-pages`
+# This job installs dependencies, builds the search site, and pushes it to `gh-pages`
 jobs:
-  deploy-book:
+  deploy-search-site:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -25,28 +25,13 @@ jobs:
         pip install -r requirements.txt
         #sudo apt-get install -y poppler-utils
 
-    # Run data normalizer
-    - name: Run data normalizer
+    - name: Build search site
       run: |
-        python scripts/data_normalizer.py
+        python scripts/build_search_site.py
 
-    # Build the book
-    - name: Generate link lists
-      run: |
-        python scripts/generate_link_lists.py
-    - name: Export CSV
-      run: |
-        python scripts/export_csv.py
-    - name: Top 3 downloads
-      run: |
-        python scripts/highlights-download-statistics.py
-    - name: Build the book
-      run: |
-        jupyter-book build ./docs/
-
-    # Push the book's HTML to github-pages
+    # Push the site's HTML to github-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.5.9
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs/_build/html
+        publish_dir: ./dist
