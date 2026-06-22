@@ -3,6 +3,7 @@ const state = {
   filtered: [],
   activeTag: null,
   activeLicense: null,
+  activeType: null,
 };
 
 const searchInput = document.querySelector("#search");
@@ -10,6 +11,7 @@ const results = document.querySelector("#results");
 const summary = document.querySelector("#summary");
 const tagsContainer = document.querySelector("#tags");
 const licensesContainer = document.querySelector("#licenses");
+const typesContainer = document.querySelector("#types");
 const searchPanel = searchInput.closest(".panel");
 const resultsPanel = results.closest(".panel");
 const overviewPanels = Array.from(document.querySelectorAll(".overview-panel"));
@@ -35,7 +37,8 @@ function renderChips(data, container, kind) {
   data.forEach(({ value, count }) => {
     if (count > 5) { // only show filters that apply to at least 5 resources
       const isActive = (kind === "tag" && state.activeTag === value)
-        || (kind === "license" && state.activeLicense === value);
+        || (kind === "license" && state.activeLicense === value)
+        || (kind === "type" && state.activeType === value);
 
       container.appendChild(makeChip(value, count, () => {
         if (kind === "tag") {
@@ -43,6 +46,9 @@ function renderChips(data, container, kind) {
         }
         if (kind === "license") {
           state.activeLicense = state.activeLicense === value ? null : value;
+        }
+        if (kind === "type") {
+          state.activeType = state.activeType === value ? null : value;
         }
         applyFilters();
         renderFilters(window.trainingData);
@@ -54,17 +60,19 @@ function renderChips(data, container, kind) {
 function renderFilters(data) {
   renderChips(data.mostCommonTags, tagsContainer, "tag");
   renderChips(data.mostCommonLicenses, licensesContainer, "license");
+  renderChips(data.mostCommonTypes, typesContainer, "type");
 }
 
 function applyFilters() {
   const query = searchInput.value.trim().toLowerCase();
-  const hasQuery = query.length > 0 || state.activeTag || state.activeLicense;
+  const hasQuery = query.length > 0 || state.activeTag || state.activeLicense || state.activeType;
 
   state.filtered = state.resources.filter((resource) => {
     const matchesQuery = !query || (resource.searchText || "").toLowerCase().includes(query);
     const matchesTag = !state.activeTag || asArray(resource.tags).some((tag) => String(tag).toLowerCase() === state.activeTag.toLowerCase());
     const matchesLicense = !state.activeLicense || String(resource.license || "").toLowerCase() === state.activeLicense.toLowerCase();
-    return matchesQuery && matchesTag && matchesLicense;
+    const matchesType = !state.activeType || asArray(resource.type).some((type) => String(type).toLowerCase() === state.activeType.toLowerCase());
+    return matchesQuery && matchesTag && matchesLicense && matchesType;
   });
 
   resultsPanel.classList.toggle("is-hidden", !hasQuery);
@@ -77,7 +85,7 @@ function renderResults() {
   results.innerHTML = "";
 
   const hasInputOrFilter = Boolean(
-    searchInput.value.trim() || state.activeTag || state.activeLicense,
+    searchInput.value.trim() || state.activeTag || state.activeLicense || state.activeType,
   );
 
   if (!hasInputOrFilter) {
