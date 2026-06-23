@@ -27407,3 +27407,84 @@ resources:
   url:
   - https://zenodo.org/records/20386408
   - https://doi.org/10.5281/zenodo.20386408
+- authors:
+  - Lubiana, Tiago
+  description: Presentation at the "Shaping a Distributed Bioimaging Infrastructure
+    in Latin America" workshop in Montevido, Uruguay.Content reused from other presentations
+    is present, with attributions,&nbsp; in different parts of the slide deck.&nbsp;
+  license: cc-by-4.0
+  name: '[UruMex 2026] Open Microscopy Environment: people, software, science and
+    LatAm to benefit'
+  num_downloads: 0
+  publication_date: '2026-06-22'
+  submission_date: '2026-06-23T13:44:26.370537'
+  url:
+  - https://zenodo.org/records/20799310
+  - https://doi.org/10.5281/zenodo.20799310
+- authors:
+  - Soltwedel, Johannes Richard
+  description: Presentation slides for talk of Johannes Soltwedel at 2026 ELMI conference
+    about FAIR data and its relevance in the context of AI in microscopy.
+  license: cc-by-4.0
+  name: You can't spell AI without FAIR
+  num_downloads: 86
+  publication_date: '2026-06-15'
+  submission_date: '2026-06-23T13:44:26.969078'
+  url:
+  - https://zenodo.org/records/20708139
+  - https://doi.org/10.5281/zenodo.20708139
+- authors:
+  - Schaefer, Lisa-Marie
+  description: 'Core facilities rely on user feedback and needs assessments, but how
+    do you ensure your surveys yield meaningful, actionable data?
+
+    This interactive talk bridges psychology and practical survey design, offering
+    strategies tailored to the unique challenges of service evaluation and user needs.
+    We&rsquo;ll explore how question wording, response scales, and tool selection
+    influence data quality, and how backwards design can save time and nerves while
+    balancing scientific rigor with real-world constraints. Through case examples,
+    we will talk about how to align survey complexity with goals, from quick feedback
+    to in-depth analyses. Leave with a sharper eye for effective design and the confidence
+    to ask the right questions.'
+  license: cc-by-4.0
+  name: 'Asking the Right Questions: The Psychology Behind Effective Survey Design
+    for Core Facilities'
+  num_downloads: 20
+  publication_date: '2026-06-16'
+  submission_date: '2026-06-23T13:44:42.949177'
+  url:
+  - https://zenodo.org/records/20721658
+  - https://doi.org/10.5281/zenodo.20721658
+- authors:
+  - German BioImaging - Team Training
+  description: 'This video from the German BioImaging Team Training and Knowledge
+    Transfer showcases members'' contributions to the WDR "T&uuml;ren auf mit der
+    Maus" event. This annual initiative gives children the opportunity to look behind
+    doors that are usually closed to the public, with a different theme each year&mdash;for
+    example, the 2026 theme, "Kleine Wunder entdecken" ("Discovering Small Miracles").
+
+    The video aims to provide insight into how microscopy can be presented to children
+    during this event and to encourage more people to contribute to this outreach
+    event.'
+  license: cc-by-4.0
+  name: "GerBI Team Training proudly presents Insights into ,T\xFCren auf mit der\
+    \ Maus'"
+  num_downloads: 162
+  publication_date: '2026-06-09'
+  submission_date: '2026-06-23T13:44:44.436155'
+  url:
+  - https://zenodo.org/records/20614751
+  - https://doi.org/10.5281/zenodo.20614751
+- authors:
+  - Hamacher, Anna B.
+  description: Minimal dataset to test Brightfield and Digital Phase Contrast images
+    acquired at Revvity Operetta CLS with Harmony version 5.2 (exported as archive).
+  license: cc-by-4.0
+  name: Revvity Operetta CLS Minimal Test Dataset for Brightfield/DPC images (multi-well,
+    multi-field)
+  num_downloads: 1
+  publication_date: '2026-06-22'
+  submission_date: '2026-06-23T13:45:34.035952'
+  url:
+  - https://zenodo.org/records/20799564
+  - https://doi.org/10.5281/zenodo.20799564
