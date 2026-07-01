@@ -27488,3 +27488,32 @@ resources:
   url:
   - https://zenodo.org/records/20799564
   - https://doi.org/10.5281/zenodo.20799564
+- authors:
+  - "M\xFCller, Maximilian E."
+  - Wendt, Jens
+  description: '
+
+    This presentation was developed by NFDI4BIOIMAGE and is part of a 2 day workshop
+    at the Light Microscopy Facility, Faculty of Medicine, RWTH Aachen held on 26.06.2026.
+
+    It provides a general introduction into research data management (RDM) and further
+    insights into metadata and ontologies, data organisation, data management plans
+    and public data deposition and highlights their specific relevance in research.
+
+    The slides are intended for educational use and may serve as a resource for teaching
+    and training in research data management within the life sciences.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.
+
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Basics of RDM in Bioimaging - What is it and why do I need it?
+  num_downloads: 34
+  publication_date: '2026-06-24'
+  submission_date: '2026-06-30T13:10:36.237222'
+  url:
+  - https://zenodo.org/records/20825990
+  - https://doi.org/10.5281/zenodo.20825990
