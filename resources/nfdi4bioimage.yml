@@ -27488,3 +27488,154 @@ resources:
   url:
   - https://zenodo.org/records/20799564
   - https://doi.org/10.5281/zenodo.20799564
+- authors:
+  - "M\xFCller, Maximilian E."
+  - Wendt, Jens
+  description: '
+
+    These presentations were developed by NFDI4BIOIMAGE and are part of a 2 day workshop
+    at the Light Microscopy Facility, Faculty of Medicine, RWTH Aachen held on 26.06.2026
+    and on 03.07.2026.
+
+    Day 1 ("260626_Basics of RDM in Bioimaging - What is it and why do I need it")
+    provides a general introduction into research data management (RDM) and further
+    insights into metadata and ontologies, data organisation, data management plans
+    and public data deposition and highlights their specific relevance in research.
+
+    Day 2 ("260703_Data publication in Bioimaging - Why is it important") provides
+    further insights into the importance of research data publications and its&nbsp;quality
+    criteria, introduces common bioimaging research data repositories and explains
+    how to publish data in them, and presents next-generation file formats (OME Zarr)
+    and standardised research data packages (RO-Crate).
+
+    The slides are intended for educational use and may serve as a resource for teaching
+    and training in research data management within the life sciences.
+
+    We acknowledge funding by the Deutsche Forschungsgemeinschaft (DFG, German Research
+    Foundation) under the National Research Data Infrastructure &ndash; NFDI 46/1
+    &ndash; 501864659.
+
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: Basics of RDM in Bioimaging - What is it and why do I need it?
+  num_downloads: 97
+  publication_date: '2026-07-03'
+  submission_date: '2026-07-07T13:23:23.765598'
+  url:
+  - https://zenodo.org/records/21155175
+  - https://doi.org/10.5281/zenodo.21155175
+- authors:
+  - Euro-BioImaging ERIC
+  description: Horizon Europe-funded EVOLVE Deliverable 8.4 - Report on monitoring
+    existing uptake of green IT practices by our NodesThis document presents the findings
+    from an initial survey assessing the current uptake of Green IT practices across
+    Euro-BioImaging Nodes and facilities. By assessing practices such as server virtualisation,
+    cloud computing, remote access, and digital documentation and workflow approaches,
+    this report provides a data-driven foundation for the development of harmonized
+    sustainability guidelines for Euro-BioImaging. Euro-BioImaging is committed to
+    enhancing sustainability and reducing environmental impact in alignment with the
+    European Green Deal and Digital Transition objectives.
+  license: cc-by-4.0
+  name: Euro-BioImaging - EVOLVE Deliverable 8.4 - Report on monitoring existing uptake
+    of green IT practices by our Nodes
+  num_downloads: 0
+  publication_date: '2025-04-30'
+  submission_date: '2026-07-07T13:23:52.471965'
+  url:
+  - https://zenodo.org/records/21032233
+  - https://doi.org/10.5281/zenodo.21032233
+- authors:
+  - Euro-BioImaging ERIC
+  description: 'Horizon Europe-funded EVOLVE Deliverable 8.1 - Report on monitoring
+    of existing energy saving measures across Euro-BioImaging NodesThis document presents
+    findings from an extensive two-phase survey campaign assessing the current adoption
+    of energy-saving measures across Euro-BioImaging Nodes and facilities. By assessing
+    current operational practices, this report provides a data-driven foundation for
+    the development of harmonized sustainability guidelines for Euro-BioImaging.
+
+    Euro-BioImaging is committed to enhancing sustainability and reducing environmental
+    impact in alignment with the European Green Deal and Digital Transition objectives.'
+  license: cc-by-4.0
+  name: Euro-BioImaging - EVOLVE Deliverable 8.1 - Report on monitoring of existing
+    energy saving measures across Euro-BioImaging Nodes
+  num_downloads: 0
+  publication_date: '2025-02-28'
+  submission_date: '2026-07-07T13:23:52.915170'
+  url:
+  - https://zenodo.org/records/21031163
+  - https://doi.org/10.5281/zenodo.21031163
+- authors:
+  - Euro-BioImaging ERIC
+  description: Horizon Europe-funded EVOLVE Deliverable 5.1 - Gap analysis identifying
+    targets for widening participationThis document presents a detailed gap analysis
+    identifying targets for widening participation in Euro-BioImaging services, assessing
+    both scientific research sectors and geographic representation. By analyzing historical
+    user access proposals mapped against European Research Council panel structures,
+    alongside survey insights from the Nodes, this report provides a foundation for
+    diversifying the infrastructure's user community across underrepresented disciplines,
+    regions, and career stages. Maximizing the impact of open-access imaging technologies
+    relies on equitable uptake, particularly as structural barriers and varying national
+    research capacities reshape the European scientific landscape.
+  license: cc-by-4.0
+  name: Euro-BioImaging - EVOLVE Deliverable 5.1 - Gap analysis identifying targets
+    for widening participation
+  num_downloads: 0
+  publication_date: '2025-01-31'
+  submission_date: '2026-07-07T13:23:53.388714'
+  url:
+  - https://zenodo.org/records/21027072
+  - https://doi.org/10.5281/zenodo.21027072
+- authors:
+  - Euro-BioImaging ERIC
+  description: 'Horizon Europe-funded EVOLVE Deliverable 1.5 - List of socio-economic
+    indicators for Euro-BioImaging ERIC impact assessment
+
+    This document presents the draft plan for assessing the socio-economic impact
+    (SEI) of Euro-BioImaging ERIC. It builds on the infrastructure''s existing scientific
+    performance evaluation and key performance indicators (KPIs), included in Euro-BioImaging''s
+    Scientific Evaluation Policy as approved by the Euro-BioImaging Board. To ensure
+    the long-term sustainability of this distributed research infrastructure and to
+    support evidence-based policymaking, it is increasingly important to demonstrate
+    not only scientific excellence but also the broader socio-economic value that
+    Euro-BioImaging delivers.'
+  license: cc-by-4.0
+  name: Euro-BioImaging - EVOLVE Deliverable 1.5 - List of socio-economic indicators
+    for Euro-BioImaging ERIC impact assessment
+  num_downloads: 0
+  publication_date: '2025-08-31'
+  submission_date: '2026-07-07T13:23:53.785435'
+  url:
+  - https://zenodo.org/records/21025252
+  - https://doi.org/10.5281/zenodo.21025252
+- authors:
+  - Euro-BioImaging Data Steward Expert Group
+  - Euro-BioImaging ERIC
+  description: 'The Euro-BioImaging Data Steward Expert Group developed tipps for
+    organising data in a clear and structured way. It covers tipps in three categories:
+    general considerations, structure &amp; naming and documentation &amp; maintanance.
+    These guidelines help researchers and facility staff to structure, name, and manage
+    their data in compliance with the FAIR principles. Can be also printed and hung
+    up in coffe corners or similar to raise awareness of data management practices.&nbsp;'
+  license: cc-by-4.0
+  name: Tips for Organising (Bioimaging) Research Data
+  num_downloads: 1
+  publication_date: '2026-07-02'
+  submission_date: '2026-07-07T13:23:54.227554'
+  url:
+  - https://zenodo.org/records/21131870
+  - https://doi.org/10.5281/zenodo.21131870
+- authors:
+  - Paul, Maarten W.
+  description: 'Example ND2 files in which well and site names were not properly extracted
+    in BioFormats.Acquisition software: NIS Elements AR 5.42.07 / &nbsp;4.51.01 .&nbsp;
+
+    Related PR with issues described and proposed solution: https://github.com/ome/bioformats/pull/4448'
+  license: cc-by-4.0
+  name: Nikon ND2 files
+  num_downloads: 0
+  publication_date: '2026-07-03'
+  submission_date: '2026-07-07T13:24:26.169153'
+  url:
+  - https://zenodo.org/records/21162526
+  - https://doi.org/10.5281/zenodo.21162526
