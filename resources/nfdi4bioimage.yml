@@ -27488,3 +27488,17 @@ resources:
   url:
   - https://zenodo.org/records/20799564
   - https://doi.org/10.5281/zenodo.20799564
+
+- authors:
+  - Mallory Wittwer
+  - Ella Bahry
+  - Alberto Diez-Sanchez
+  description: Scientific image analysis resources and software tools.
+  license: Creative Commons Zero v1.0 Universal
+  name: awesome-scientific-image-analysis
+  publication_date: '2025-02-03T09:08:15+00:00'
+  submission_date: '2026-07-08T11:43:56.218624'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis
+  
