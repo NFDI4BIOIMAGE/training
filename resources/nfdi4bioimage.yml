@@ -27039,8 +27039,10 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27066,8 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  authors_with_orcid:
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,6 +27081,8 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  authors_with_orcid:
+  - Carole Goble https://orcid.org/0000-0003-1219-2137
 - authors:
   - Wendt, Jens
   description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
@@ -27097,6 +27103,8 @@ resources:
   url:
   - https://zenodo.org/records/20271104
   - https://doi.org/10.5281/zenodo.20271104
+  authors_with_orcid:
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In this workshop the participants get an introduction to OMERO and
@@ -27116,6 +27124,8 @@ resources:
   url:
   - https://zenodo.org/records/19366801
   - https://doi.org/10.5281/zenodo.19366801
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: This publication contains the slides from the presentation "NFDI -
@@ -27130,10 +27140,12 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+  authors_with_orcid:
+  - Vanessa Aphaia Fiona Fuchs https://orcid.org/0000-0002-4101-6987
 - authors:
   - Wetzker, Cornelia
   - Ahmadi, Mohsen
-  - "Kroo\xDF, Ksenia"
+  - Krooß, Ksenia
   - Wendt, Jens
   - Boissonnet, Tom
   description: 'The slides are part of a hands-on session that demonstrates the usage
@@ -27166,6 +27178,12 @@ resources:
   url:
   - https://zenodo.org/records/20610539
   - https://doi.org/10.5281/zenodo.20610539
+  authors_with_orcid:
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
+  - Mohsen Ahmadi https://orcid.org/0000-0002-7018-0460
+  - Ksenia Krooß https://orcid.org/0000-0003-1717-3138
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
+  - Tom Boissonnet https://orcid.org/0000-0002-3328-9467
 - authors:
   - Moore, Josh
   - Schmidt, Christian
@@ -27177,7 +27195,7 @@ resources:
   - Sun, Yi
   - Zobel, Thomas
   - Wendt, Jens
-  - "Gr\xFCning, Bj\xF6rn"
+  - Grüning, Björn
   - Kunis, Susanne
   - Blank-Burian, Markus
   - Trivedi, Ami
@@ -27186,7 +27204,7 @@ resources:
   - Scherle, Michael
   - Massei, Riccardo
   - Wetzker, Cornelia
-  - "M\xFCller, Maximilian"
+  - Müller, Maximilian
   - Baldenius, Marie
   - Mohr, Inga
   - Fuchs, Vanessa
@@ -27310,6 +27328,38 @@ resources:
   url:
   - https://zenodo.org/records/20509378
   - https://doi.org/10.5281/zenodo.20509378
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Robert Haase
+  - Jan-Philipp Mallm
+  - Carsten Fortmann-Grote
+  - Thilo Figge
+  - Christian Tischer
+  - Yi Sun
+  - Thomas Zobel
+  - Jens Wendt
+  - Björn Grüning
+  - Susanne Kunis
+  - Markus Blank-Burian
+  - Ami Trivedi
+  - Janina Hanne
+  - Dirk von Suchodoletz
+  - Michael Scherle
+  - Riccardo Massei
+  - Cornelia Wetzker
+  - Maximilian Müller
+  - Marie Baldenius
+  - Inga Mohr
+  - Vanessa Fuchs
+  - Tobias Gottschall
+  - Michele Bortolomeazzi
+  - Ruman Gerst
+  - Mohsen Ahmadi
+  - Jianxu Chen
+  - Markus Becker
+  - Elisa Ferrando-May
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Haase, Robert
   description: 'In&nbsp; this presentation we learn&nbsp; about the impact of generative
@@ -27336,6 +27386,8 @@ resources:
   url:
   - https://zenodo.org/records/20512957
   - https://doi.org/10.5281/zenodo.20512957
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
 - authors:
   - Moore, Josh
   description: '40 Minute talk presented to the BINA Insights and Educational Tools
@@ -27350,6 +27402,8 @@ resources:
   url:
   - https://zenodo.org/records/20275730
   - https://doi.org/10.5281/zenodo.20275730
+  authors_with_orcid:
+  - Josh Moore https://orcid.org/0000-0003-4028-811X
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -27382,6 +27436,9 @@ resources:
   url:
   - https://zenodo.org/records/20152438
   - https://doi.org/10.5281/zenodo.20152438
+  authors_with_orcid:
+  - Isabel Kemmer https://orcid.org/0000-0002-8799-4671
+  - Euro-BioImaging ERIC
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -27407,6 +27464,12 @@ resources:
   url:
   - https://zenodo.org/records/20386408
   - https://doi.org/10.5281/zenodo.20386408
+  authors_with_orcid:
+  - Rensu Theart https://orcid.org/0000-0003-0508-1690
+  - Florian Levet https://orcid.org/0000-0002-4009-6225
+  - Hernandez-Herrera https://orcid.org/0000-0002-2206-3489
+  - Christophe Leterrier https://orcid.org/0000-0002-2957-2032
+  - Laura R de la Ballina https://orcid.org/0000-0001-5363-7433
 - authors:
   - Lubiana, Tiago
   description: Presentation at the "Shaping a Distributed Bioimaging Infrastructure
@@ -27421,6 +27484,8 @@ resources:
   url:
   - https://zenodo.org/records/20799310
   - https://doi.org/10.5281/zenodo.20799310
+  authors_with_orcid:
+  - Tiago Lubiana https://orcid.org/0000-0003-2473-2313
 - authors:
   - Soltwedel, Johannes Richard
   description: Presentation slides for talk of Johannes Soltwedel at 2026 ELMI conference
@@ -27433,6 +27498,8 @@ resources:
   url:
   - https://zenodo.org/records/20708139
   - https://doi.org/10.5281/zenodo.20708139
+  authors_with_orcid:
+  - Johannes Richard Soltwedel https://orcid.org/0000-0003-1273-2412
 - authors:
   - Schaefer, Lisa-Marie
   description: 'Core facilities rely on user feedback and needs assessments, but how
@@ -27455,6 +27522,8 @@ resources:
   url:
   - https://zenodo.org/records/20721658
   - https://doi.org/10.5281/zenodo.20721658
+  authors_with_orcid:
+  - Lisa-Marie Schaefer
 - authors:
   - German BioImaging - Team Training
   description: 'This video from the German BioImaging Team Training and Knowledge
@@ -27467,14 +27536,15 @@ resources:
     during this event and to encourage more people to contribute to this outreach
     event.'
   license: cc-by-4.0
-  name: "GerBI Team Training proudly presents Insights into ,T\xFCren auf mit der\
-    \ Maus'"
+  name: GerBI Team Training proudly presents Insights into ,Türen auf mit der Maus'
   num_downloads: 162
   publication_date: '2026-06-09'
   submission_date: '2026-06-23T13:44:44.436155'
   url:
   - https://zenodo.org/records/20614751
   - https://doi.org/10.5281/zenodo.20614751
+  authors_with_orcid:
+  - German BioImaging - Team Training
 - authors:
   - Hamacher, Anna B.
   description: Minimal dataset to test Brightfield and Digital Phase Contrast images
@@ -27488,39 +27558,47 @@ resources:
   url:
   - https://zenodo.org/records/20799564
   - https://doi.org/10.5281/zenodo.20799564
+  authors_with_orcid:
+  - Anna B. Hamacher https://orcid.org/0000-0001-7374-8245
 - authors:
   - Busse, Christian
-  - "F\xF6rstner, Konrad U."
+  - Förstner, Konrad U.
   - Pigeot, Iris
   - Stegle, Oliver
   - Weidtkamp-Peters, Stefanie
   license: cc-by-4.0
-  name: "Gemeinsame Erkl\xE4rung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur\
-    \ (NFDI) zur Einrichtung eines Fachbereichs Biomedizin"
+  name: Gemeinsame Erklärung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur
+    (NFDI) zur Einrichtung eines Fachbereichs Biomedizin
   num_downloads: 0
   publication_date: '2026-07-10'
   submission_date: '2026-07-14T12:18:42.867497'
   url:
   - https://zenodo.org/records/21294122
   - https://doi.org/10.5281/zenodo.21294122
+  authors_with_orcid:
+  - Christian Busse https://orcid.org/0000-0001-7553-905X
+  - Konrad U. Förstner https://orcid.org/0000-0002-1481-2996
+  - Iris Pigeot https://orcid.org/0000-0001-7483-0726
+  - Oliver Stegle https://orcid.org/0000-0002-8818-7193
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
 - authors:
   - Ebert, Barbara
   - Ewert, Frank
-  - "F\xF6rstner, Konrad U."
-  - "Gl\xF6ckner, Frank Oliver"
+  - Förstner, Konrad U.
+  - Glöckner, Frank Oliver
   - Keller, Christin
   - McHardy, Alice Carolyn
   - von Suchodoletz, Dirk
   - Weidtkamp-Peters, Stefanie
   - Baldenius, Marie Tovelill
-  - "Bo\xDFe, Sophie"
+  - Boße, Sophie
   - Ebeling, Mary-Ann
   - Engel, Judith
   - Gerber, Anja
   - Gillis, Rosalind
   - Hoffmann, Carsten
-  - "M\xFChlhaus, Timo"
-  - "R\xF6der, Juliane"
+  - Mühlhaus, Timo
+  - Röder, Juliane
   - Schmale Rodrigues, Cristina
   - Schmidt, Christian
   - Scholz, Uwe
@@ -27549,8 +27627,32 @@ resources:
   url:
   - https://zenodo.org/records/21235788
   - https://doi.org/10.5281/zenodo.21235788
+  authors_with_orcid:
+  - Barbara Ebert https://orcid.org/0000-0003-3328-6693
+  - Frank Ewert https://orcid.org/0000-0002-4392-8154
+  - Konrad U. Förstner https://orcid.org/0000-0002-1481-2996
+  - Frank Oliver Glöckner https://orcid.org/0000-0001-8528-9023
+  - Christin Keller https://orcid.org/0000-0002-5727-0226
+  - Alice Carolyn McHardy https://orcid.org/0000-0003-2370-3430
+  - Dirk von Suchodoletz https://orcid.org/0000-0002-4382-5104
+  - Stefanie Weidtkamp-Peters https://orcid.org/0000-0001-7734-3771
+  - Marie Tovelill Baldenius https://orcid.org/0009-0002-3765-9813
+  - Sophie Boße https://orcid.org/0009-0002-6461-8291
+  - Mary-Ann Ebeling https://orcid.org/0000-0002-4790-7377
+  - Judith Engel https://orcid.org/0000-0001-8665-6382
+  - Anja Gerber https://orcid.org/0000-0003-2576-1511
+  - Rosalind Gillis https://orcid.org/0000-0002-2370-7311
+  - Carsten Hoffmann https://orcid.org/0000-0001-6457-4853
+  - Timo Mühlhaus https://orcid.org/0000-0003-3925-6778
+  - Juliane Röder https://orcid.org/0000-0002-4692-2700
+  - Cristina Schmale Rodrigues https://orcid.org/0000-0002-4849-1537
+  - Christian Schmidt https://orcid.org/0000-0001-9568-895X
+  - Uwe Scholz https://orcid.org/0000-0001-6113-3518
+  - Xenia Specka https://orcid.org/0000-0002-1890-0192
+  - Justine Vandendorpe https://orcid.org/0000-0002-9421-8582
+  - Cornelia Wetzker https://orcid.org/0000-0002-8367-5163
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Wendt, Jens
   description: '
 
@@ -27586,6 +27688,9 @@ resources:
   url:
   - https://zenodo.org/records/21155175
   - https://doi.org/10.5281/zenodo.21155175
+  authors_with_orcid:
+  - Maximilian E. Müller https://orcid.org/0000-0003-2237-1147
+  - Jens Wendt https://orcid.org/0009-0002-1826-7099
 - authors:
   - Euro-BioImaging ERIC
   description: Horizon Europe-funded EVOLVE Deliverable 8.4 - Report on monitoring
@@ -27606,6 +27711,8 @@ resources:
   url:
   - https://zenodo.org/records/21032233
   - https://doi.org/10.5281/zenodo.21032233
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe-funded EVOLVE Deliverable 8.1 - Report on monitoring
@@ -27626,6 +27733,8 @@ resources:
   url:
   - https://zenodo.org/records/21031163
   - https://doi.org/10.5281/zenodo.21031163
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: Horizon Europe-funded EVOLVE Deliverable 5.1 - Gap analysis identifying
@@ -27647,6 +27756,8 @@ resources:
   url:
   - https://zenodo.org/records/21027072
   - https://doi.org/10.5281/zenodo.21027072
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe-funded EVOLVE Deliverable 1.5 - List of socio-economic
@@ -27669,6 +27780,8 @@ resources:
   url:
   - https://zenodo.org/records/21025252
   - https://doi.org/10.5281/zenodo.21025252
+  authors_with_orcid:
+  - Euro-BioImaging ERIC
 - authors:
   - Euro-BioImaging Data Steward Expert Group
   - Euro-BioImaging ERIC
@@ -27686,6 +27799,9 @@ resources:
   url:
   - https://zenodo.org/records/21131870
   - https://doi.org/10.5281/zenodo.21131870
+  authors_with_orcid:
+  - Euro-BioImaging Data Steward Expert Group
+  - Euro-BioImaging ERIC
 - authors:
   - Paul, Maarten W.
   description: 'Example ND2 files in which well and site names were not properly extracted
@@ -27700,6 +27816,8 @@ resources:
   url:
   - https://zenodo.org/records/21162526
   - https://doi.org/10.5281/zenodo.21162526
+  authors_with_orcid:
+  - Maarten W. Paul https://orcid.org/0000-0002-7990-6010
 - authors:
   - Haase, Robert
   description: 'In&nbsp; this slide deck we dive into generative artificial intelligence
@@ -27724,3 +27842,5 @@ resources:
   url:
   - https://zenodo.org/records/18879906
   - https://doi.org/10.5281/zenodo.18879906
+  authors_with_orcid:
+  - Robert Haase https://orcid.org/0000-0001-5949-2327
