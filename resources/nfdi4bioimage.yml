@@ -27724,3 +27724,147 @@ resources:
   url:
   - https://zenodo.org/records/18879906
   - https://doi.org/10.5281/zenodo.18879906
+- authors:
+  - Busse, Christian
+  - "F\xF6rstner, Konrad U."
+  - Pigeot, Iris
+  - Stegle, Oliver
+  - Weidtkamp-Peters, Stefanie
+  license: cc-by-4.0
+  name: "Gemeinsame Erkl\xE4rung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur\
+    \ (NFDI) zur Einrichtung eines Fachbereichs Biomedizin"
+  num_downloads: 31
+  publication_date: '2026-07-16'
+  submission_date: '2026-07-21T12:25:47.443868'
+  url:
+  - https://zenodo.org/records/21402213
+  - https://doi.org/10.5281/zenodo.21402213
+- authors:
+  - Schmidt, Christian
+  - Soltwedel, Johannes Richard
+  - Hanne, Janina
+  - Ferrando-May, Elisa
+  - Weidtkamp-Peters, Stefanie
+  description: 'Advancing the capacities and capabilities for handling the data acquired
+    with modern bioimaging technologies in compliance with the FAIR principles (Findable,
+    Accessible, Interoperable, Reusable) is an essential and pressing need for researchers
+    worldwide. Within Germany&rsquo;s National Research Data Infrastructure (Nationale
+    Forschungsdateninfrastruktur, NFDI), the consortium NFDI4BIOIMAGE focuses on establishing
+    a coordinated, community-driven ecosystem for sustainable bioimage data management.
+
+    High complexity, multiple dimensions, and often very large file or dataset sizes
+    are hallmarks of many bioimaging data types, which make bioimage data cumbersome
+    to store and share. The lack of standardized formats, harmonized metadata, and
+    interoperable tools often limits data reuse, reproducibility, and cross-domain
+    integration. NFDI4BIOIMAGE addresses these challenges by developing and integrating
+    services, standards, and training resources that support the full bioimaging data
+    lifecycle&nbsp;from acquisition and annotation to analysis, publication, and long-term
+    accessibility.
+
+    The internationally aligned development of OME-Zarr, the bioimaging-specific implementation
+    of the OME next-generation file format (NGFF) specification, facilitates the cloud-readiness
+    of bioimaging data by enabling chunked data streaming without the need to download
+    entire datasets. Through the provision of scalable infrastructure, NFDI4BIOIMAGE
+    enables access to image analysis tools in remote Bioimage ANalysis Desktops (BAND)
+    where local solutions are not available. In parallel, Galaxy-based environments
+    enable the construction, execution, and sharing of reproducible image analysis
+    workflows. These workflows are fully recorded and can be exported in RO-Crate-compatible
+    formats, ensuring transparency, provenance tracking, and reusability of analysis
+    pipelines. Researchers can seek direct support through the consortium&rsquo;s
+    federated Help Desk, where experts from the bioimaging field aid in FAIR bioimage
+    data management. Through the close-knit collaboration with other stakeholders
+    in Germany, but also partners at the international level, such as Euro-BioImaging
+    and Global BioImaging, NFDI4BIOIMAGE contributes to tangible FAIR bioimage data
+    management practices across scientific domains.'
+  license: cc-by-4.0
+  name: Facilitating FAIR BioImage Data Management through Germany's National Research
+    Data Infrastructure
+  num_downloads: 14
+  publication_date: '2026-07-16'
+  submission_date: '2026-07-21T12:25:48.987708'
+  url:
+  - https://zenodo.org/records/21390101
+  - https://doi.org/10.5281/zenodo.21390101
+- authors:
+  - Schmidt, Christian
+  - Sun, Yi
+  description: 'Modern bioimage analysis requires powerful and often complex software
+    environments, including interactive graphical tools, sufficient CPU, RAM and GPU
+    resources, and the ability to access large datasets. However, for many researchers,
+    practical barriers constrain access to such resources due to insufficient local
+    support for installation, hardware limitations, and heterogeneous computing environments.
+
+    BAND, the Bioimage ANalysis Desktop, addresses these challenges by providing ready-to-use
+    virtual desktops for bioimage analysis through a web browser. Instead of installing
+    software locally, users can launch containerised desktop environments on remote
+    compute infrastructure and work with familiar graphical applications. BAND replicates
+    the experience of a powerful workstation while making cloud and HPC resources
+    accessible to users with standard internet access. The platform builds on earlier
+    work from the Australian MASSIVE facility and contributions to EOSC-Life, and
+    has been further developed and supported by NFDI4BIOIMAGE, a consortium within
+    Germany&rsquo;s National Research Data Infrastructure (NFDI), in collaboration
+    with the German Network for Bioinformatics (de.NBI), Euro-BioImaging ERIC, CESNET,
+    and EGI.
+
+    Technically, BAND is deployed on OpenStack using Infrastructure-as-Code approaches.
+    Desktops run as cluster jobs, allowing users to work with pre-installed software
+    or scripting-based analysis workflows. Data can be hosted within local home directories
+    and scratch spaces, or connected from external data sources such as Nextcloud
+    and S3 buckets, the latter being particularly relevant for large bioimage datasets
+    formatted as OME-Zarr.
+
+    BAND has been used and tested extensively within international training courses,
+    where identical, preconfigured environments reduce setup time and allow participants
+    to focus on image analysis rather than software installation. Hosted by de.NBI
+    T&uuml;bingen, BAND is now broadly available to researchers using LS Login. BAND
+    is also available fully open-source for local installations.
+
+    This talk introduces BAND as a practical infrastructure service for the microscopy
+    community, explaining how it supports NFDI4BIOIMAGE&rsquo;s mission of enabling
+    FAIR and reusable bioimage workflows. The talk will also briefly introduce BARD,
+    the Kubernetes-based successor environment now used at EMBL. BAND demonstrates
+    how virtual desktop approaches on shared cloud infrastructure can make advanced
+    bioimage analysis more accessible, scalable and sustainable.'
+  license: cc-by-4.0
+  name: Browser-based Virtual Desktops for Cloud-enabled Bioimage Analysis
+  num_downloads: 10
+  publication_date: '2026-07-16'
+  submission_date: '2026-07-21T12:25:49.488652'
+  url:
+  - https://zenodo.org/records/21389852
+  - https://doi.org/10.5281/zenodo.21389852
+- authors:
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'In dieser Pr&auml;sentation habe ich f&uuml;r Nikon Mitarbeiter:innen
+    die Top Stichpunkte, denen wir im NFDI4BIOIMAGE Kontext begegnen, vorgestellt.
+
+    Diese beinhalten
+
+
+    FDM -Forschungsdatenmanagement
+
+    FAIR &ndash;Findable, Accessible, Interoperable, Reusable
+
+    NFDI &ndash;Nationale Forschungsdaten Infrastruktur
+
+    NFDI4BIOIMAGE &ndash;NFDI Konsortium f&uuml;r Bilddaten
+
+    OME.ZARR &ndash;ein S3/cloud-kompatibles, gechunktesDateiformat
+
+    OMERO &ndash;Datenbank f&uuml;r Bilder (Verwalten, Annotieren, Teilen, Abbildungen)
+
+    REMBI &ndash;Metadaten-Checkliste (RecommandedMetadata for Biological images)
+
+    BIA = BioImage Archive &ndash;Repositorium f&uuml;r Bio-Bilddaten
+
+    QUAREP-LiMi
+
+    '
+  license: cc-by-4.0
+  name: Was genau ist eigentlich...? - Top Stichpunkte und was sie bedeuten
+  num_downloads: 18
+  publication_date: '2026-07-15'
+  submission_date: '2026-07-21T12:25:49.927261'
+  url:
+  - https://zenodo.org/records/21374467
+  - https://doi.org/10.5281/zenodo.21374467
