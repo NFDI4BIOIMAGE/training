@@ -27868,3 +27868,26 @@ resources:
   url:
   - https://zenodo.org/records/21374467
   - https://doi.org/10.5281/zenodo.21374467
+
+- authors:
+  - Mohammed, Abdurahman Ali
+  - Fonder, Catherine
+  - Wei, Ying
+  - Tavanapong, Wallapak
+  - Sakaguchi, Donald
+  - Li, Qi
+  - Mallapragada, Surya
+  description: CellFMCount is a large-scale fluorescence microscopy dataset designed
+    to support robust and generalizable automated cell counting. It contains 3,023 images
+    from immunocytochemistry experiments involving neural progenitor cells, with over
+    430,000 manually annotated cell locations. Each cell is annotated with a dot marking
+    its approximate center.
+  license: cc-by-sa-4.0
+  name: CellFMCount Dataset
+  num_downloads: 118
+  publication_date: '2025-09-09'
+  submission_date: '2026-07-21T15:25:47.444333'
+  url:
+  - https://zenodo.org/records/17088532
+  - https://doi.org/10.5281/zenodo.17088532
+  
