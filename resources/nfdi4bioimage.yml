@@ -27868,3 +27868,142 @@ resources:
   url:
   - https://zenodo.org/records/21374467
   - https://doi.org/10.5281/zenodo.21374467
+- authors:
+  - Sivagurunathan, Suganya
+  description: The slide deck is about "Reproducible workflows" for bioimage analysis
+    and was prepared to be delivered at "2026 Taller de Fundamentos de An&aacute;lisis
+    de Bioim&aacute;genes (Formaci&oacute;n de Formadores)".&nbsp;
+  license: cc-by-4.0
+  name: Reproducible workflows
+  num_downloads: 0
+  publication_date: '2026-08-04'
+  submission_date: '2026-08-04T13:06:55.815112'
+  url:
+  - https://zenodo.org/records/21782259
+  - https://doi.org/10.5281/zenodo.21782259
+- authors:
+  - Corbat, Agustin Andres
+  description: 'Lecture about deep learning models and AI tools applied to bioimages
+    and microscopy. The lecture was prepared for the 2026 Taller de Fundamentos de
+    An&aacute;lisis de Bioim&aacute;genes (Formaci&oacute;n de Formadores). The lecture
+    was delivered in Spanish although the presenter notes are in English. The lecture
+    lasted approximately 30 minutes. The learning outcomes include:
+
+
+
+    Having a notion of fundamental concepts of deep learning applied to bioimaging.
+
+
+
+    Identify common architectures and their use and output in bioimage segmentation.
+
+
+
+    Understanding limitations and considerations when applying deep learning.
+
+
+    '
+  license: cc-by-4.0
+  name: Deep Learning for Bioimaging
+  num_downloads: 0
+  publication_date: '2026-08-01'
+  submission_date: '2026-08-04T13:07:06.500202'
+  url:
+  - https://zenodo.org/records/21746499
+  - https://doi.org/10.5281/zenodo.21746499
+- authors:
+  - Corbat, Agustin Andres
+  description: 'Lecture about segmentation and quantification of bioimages and microscopy.
+    The lecture was prepared for the 2026 Taller de Fundamentos de An&aacute;lisis
+    de Bioim&aacute;genes (Formaci&oacute;n de Formadores). The lecture was delivered
+    in Spanish although the presenter notes are in English. The lecture lasted approximately
+    40 minutes. The learning outcomes include:
+
+
+
+    Understanding differences between types of masks and segmentation.
+
+
+
+    Listing morphological operations that can be applied to masks.
+
+
+
+    Understanding how to interpret quantification algorithms and their weak spots.
+
+
+    '
+  license: cc-by-4.0
+  name: Segmentation and Quantification
+  num_downloads: 1
+  publication_date: '2026-08-01'
+  submission_date: '2026-08-04T13:07:06.975939'
+  url:
+  - https://zenodo.org/records/21744286
+  - https://doi.org/10.5281/zenodo.21744286
+- authors:
+  - Corbat, Agustin Andres
+  description: '
+
+    Taller de Segmentaci&oacute;n y Cuantificaci&oacute;n de Im&aacute;genes
+
+
+    Este repositorio contiene un taller pr&aacute;ctico para aprender a construir&nbsp;pipelines&nbsp;de
+    segmentaci&oacute;n y cuantificaci&oacute;n de im&aacute;genes de microscop&iacute;a,
+    comparando tres formas de trabajo complementarias.
+
+
+    Estructura del taller
+
+
+    El taller incluye&nbsp;tres ejercicios:
+
+
+
+    Segmentaci&oacute;n y cuantificaci&oacute;n en FijiGu&iacute;a paso a paso en&nbsp;fiji_segmentation.md.
+
+
+
+    Segmentaci&oacute;n y cuantificaci&oacute;n en Jupyter Notebook&nbsp;(an&aacute;logo
+    al ejercicio anterior, pero sobre una imagen diferente)Disponible en&nbsp;segmentation_quantification.ipynb&nbsp;para
+    comparar metodolog&iacute;as y resultados con un flujo reproducible en Python.
+
+
+
+    Segmentaci&oacute;n con Napari Assistant (GUI)Ejercicio guiado con interfaz gr&aacute;fica
+    para dise&ntilde;ar el pipeline y luego&nbsp;exportar un notebook&nbsp;con los
+    pasos aplicados. Ver&nbsp;napari_segmentation.md.
+
+
+
+
+    Tres &ldquo;mapas trazados&rdquo; para ir de una isla a otra
+
+
+    Este taller propone tres caminos para llegar al mismo objetivo: aprender a dise&ntilde;ar
+    flujos de trabajo (de imagen cruda a cuantificaci&oacute;n):
+
+
+    Fiji: un mapa ideal para empezar con herramientas visuales cl&aacute;sicas, r&aacute;pidas
+    de explorar.
+
+    Jupyter: un mapa orientado a reproducibilidad, documentaci&oacute;n y automatizaci&oacute;n
+    con c&oacute;digo.
+
+    Napari Assistant: un mapa intermedio con GUI moderna para prototipar el flujo
+    y traducirlo luego a notebook.
+
+
+    La idea pedag&oacute;gica es que cada estudiante pueda partir desde la &ldquo;isla&rdquo;
+    donde se siente m&aacute;s c&oacute;modo (GUI, scripting, o flujo h&iacute;brido)
+    y navegar hacia las otras formas de trabajo. As&iacute;, no se aprende solo una
+    herramienta, sino la l&oacute;gica general de construcci&oacute;n de pipelines
+    transferibles entre plataformas.'
+  license: cc-by-4.0
+  name: "Taller de Segmentaci\xF3n y Cuantificaci\xF3n de Im\xE1genes"
+  num_downloads: 1
+  publication_date: '2026-07-29'
+  submission_date: '2026-08-04T13:07:07.530322'
+  url:
+  - https://zenodo.org/records/21693542
+  - https://doi.org/10.5281/zenodo.21693542
