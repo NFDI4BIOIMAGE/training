@@ -28007,3 +28007,65 @@ resources:
   url:
   - https://zenodo.org/records/21693542
   - https://doi.org/10.5281/zenodo.21693542
+- authors:
+  - "Sch\xE4tz, Martin"
+  description: 'Transitioning from a specialised bioimage analyst to an effective
+    trainer presents unique pedagogical and operational challenges. This presentation
+    outlines practical strategies, open-access resources, and modern digital workflows
+    designed to help bioimage analysts design, scale, and deliver high-impact training
+    courses, workshops or training.
+
+    Rather than building educational content from scratch, this toolkit emphasises
+    modular reuse, community-driven frameworks, and AI assistance to streamline course
+    development while maintaining high pedagogical standards.
+
+    Key Takeaways &amp; Content Covered
+
+
+
+    Strategic Alignment: Balancing the competing priorities of funders, scientific
+    collaborators, and core software developers to build sustainable training initiatives.
+
+
+
+    Pedagogical Frameworks: Applying the UCL ABC Learning Design method and Laurillard&rsquo;s
+    Conversational Framework to structure active, student-centric learning in short
+    form (15- to 30-minute blocks).
+
+
+
+    Modular Content Reuse: Strategies for leveraging open-access repositories (e.g.,
+    NEUBIAS, BIII.eu) to build domain-specific coding and image analysis workshops
+    efficiently.
+
+
+
+    Community Safety Nets: Utilising collaborative platforms like Image.sc and GloBIAS
+    to distribute technical expertise and support niche tools.
+
+
+
+    AI as a Training Co-Pilot: Practical examples of using LLMs and automated tools
+    (Jupyter Book, automatic translation, code assistance) to reduce content-creation
+    inertia and enhance interactive coding sessions.
+
+
+
+    Implementation Roadmap: A step-by-step model for standardising, scaling, and maintaining
+    educational material.
+
+
+
+    Target Audience
+
+    This resource is tailored for bioimage analysts, core facility staff, scientific
+    educators, and computational life scientists seeking structured methods to transition
+    into community training or improve their current teaching workflows.'
+  license: cc-by-4.0
+  name: From Analyst to Trainer - A Practical Toolkit
+  num_downloads: 12
+  publication_date: '2026-08-06'
+  submission_date: '2026-08-11T11:50:14.001615'
+  url:
+  - https://zenodo.org/records/21827120
+  - https://doi.org/10.5281/zenodo.21827120
