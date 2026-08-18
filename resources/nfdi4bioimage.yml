@@ -28069,3 +28069,17 @@ resources:
   url:
   - https://zenodo.org/records/21827120
   - https://doi.org/10.5281/zenodo.21827120
+- authors:
+  - Haase, Robert
+  description: This slide deck contains a short presentation about responsible use
+    of LLMs for code generation in data analysis, and how self-consistency in multi-agent
+    systems can guide use towards better prompting and more reliable data analysis
+    results.
+  license: cc-by-4.0
+  name: How Generative AI impacts [BioImage] Data Science
+  num_downloads: 3
+  publication_date: '2026-08-17'
+  submission_date: '2026-08-18T11:30:02.902429'
+  url:
+  - https://zenodo.org/records/21977243
+  - https://doi.org/10.5281/zenodo.21977243
