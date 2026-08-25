@@ -28083,3 +28083,38 @@ resources:
   url:
   - https://zenodo.org/records/21977243
   - https://doi.org/10.5281/zenodo.21977243
+- authors:
+  - Sigaut, Lorena
+  - Lecumberry, Federico
+  - Corbat, Agustin Andres
+  description: 'En este m&oacute;dulo basado en ejercicios, explorar&aacute; operaciones
+    fundamentales de procesamiento de im&aacute;genes, incluyendo la comprensi&oacute;n
+    de la profundidad de bits, la creaci&oacute;n de im&aacute;genes, los c&aacute;lculos
+    aritm&eacute;ticos de im&aacute;genes y las t&eacute;cnicas de filtrado espacial
+    (filtros de mediana y gaussianos) entre otros.
+
+    Aqu&iacute; se listan los 5 ejercicios en tabulaciones.
+
+
+    Ejercicio 1: Manejo de brillo, contraste y ecualizaci&oacute;n de histograma
+
+    Ejercicio 2: Operaciones entre im&aacute;genes. Correcci&oacute;n de Ruido de
+    Oscuridad, Fondo y Homogeneidad de Iluminaci&oacute;n
+
+    Ejercicio 3: Simulaci&oacute;n de im&aacute;genes con ruido y t&eacute;cnicas
+    de filtrado digital: filtros de mediana y gaussianos
+
+    Ejercicio 4: Inspecci&oacute;n de Metadatos y Calidad de la Imagen.
+
+    Ejercicio 5: (Opcional) Aplicar filtros que destaquen bordes.
+
+    '
+  license: cc-by-4.0
+  name: "Gu\xEDa Pr\xE1ctica de An\xE1lisis de Bioim\xE1genes: C\xE1lculos de Im\xE1\
+    genes, Filtrado y Profundidad de Bits"
+  num_downloads: 0
+  publication_date: '2026-08-18'
+  submission_date: '2026-08-25T11:35:27.571470'
+  url:
+  - https://zenodo.org/records/22001264
+  - https://doi.org/10.5281/zenodo.22001264
