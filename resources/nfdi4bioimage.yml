@@ -28118,3 +28118,278 @@ resources:
   url:
   - https://zenodo.org/records/22001264
   - https://doi.org/10.5281/zenodo.22001264
+- authors:
+  - Moore, Josh
+  description: '20 Minute talk presented to the NFDI4LifeScience Conference2 &ndash;
+    4 September 2026, Leibniz IPK, Gaterslebenhttps://meetings.ipk-gatersleben.de/nfdi4LS-IB2026/
+
+    &nbsp;'
+  license: cc-by-4.0
+  name: '[NFDI4LS] Understanding the Bioimaging Standardization Runway'
+  num_downloads: 16
+  publication_date: '2026-09-03'
+  submission_date: '2026-09-08T15:01:14.109953'
+  url:
+  - https://zenodo.org/records/22206653
+  - https://doi.org/10.5281/zenodo.22206653
+- authors:
+  - Corbat, Agustin Andres
+  - Sigaut, Lorena
+  - Lecumberry, Federico
+  - PIETRASANTA, LIA
+  description: 'Train-the-Trainer Workshop on Bioimage Analysis Fundamentals
+
+    (English version)
+
+    Overview
+
+    This deposit contains the complete open educational resources, website&nbsp;source
+    code (built with Quarto), and operational management blueprint for the Taller
+    de Fundamentos en An&aacute;lisis de Bioim&aacute;genes (Formaci&oacute;n de&nbsp;Formadores),
+    held on August 3&ndash;7, 2026, at the Facultad de Ciencias&nbsp;Exactas y Naturales,
+    Universidad de Buenos Aires (FCEN-UBA), Argentina.
+
+    In addition to serving as a permanent course archive, this deposit&nbsp;includes
+    the comprehensive operational master plan (COURSE_MASTER_PLAN.md) featuring a
+    Mermaid Gantt chart timeline that&nbsp;details milestones for curriculum co-design,
+    instructor coordination, budget allocation, venue logistics, and participant selection.
+
+    Course Concept &amp; Broad Learning Objectives
+
+    The workshop was designed for 24 researchers, microscopy facility&nbsp;staff,
+    image analysts, and graduate students from across Latin America&nbsp;(LATAM).
+    Structured as a Train-the-Trainer (TtT) initiative, its&nbsp;mission was to strengthen
+    quantitative bioimage analysis capabilities&nbsp;while equipping participants
+    with pedagogical strategies to teach,&nbsp;replicate, and adapt these courses
+    in their home institutions.
+
+    The curriculum is structured around two broad objective tracks:
+
+
+    Fundamentals of Bioimage Analysis:&bull; Image formation, digital representation,
+    filtering, and spatial&nbsp;calibration.&bull; Classical segmentation methods,
+    thresholding, morphology, and&nbsp;quantitative feature extraction.&bull; Reproducible
+    workflows across GUI, macro, and scripting&nbsp;environments (Fiji/ImageJ, Python,
+    napari).&bull; Modern environment management and version control using Pixi and&nbsp;Git.&bull;
+    Machine learning and deep learning foundations (including&nbsp;Cellpose, StarDist,
+    and the BioImage Model Zoo), emphasizing&nbsp;critical validation, failure modes,
+    and&nbsp; responsible AI use.
+
+    Pedagogy &amp; Training Others (Train-the-Trainer):&bull; Applying backward instructional
+    design (setting clear learning&nbsp;outcomes before building exercises).&bull;
+    Creating hands-on, problem-driven exercises and curated datasets&nbsp;for learners
+    with mixed backgrounds.&bull; Identifying and addressing common student misconceptions
+    and&nbsp;technical bottlenecks.&bull; Adapting workshop syllabi and computational
+    setups to local resource constraints and varied institutional realities.
+
+
+    Materials &amp; Language Context
+
+    The course website links to and provides formal citations for all&nbsp;individual
+    lecture slide decks (archived on Zenodo with embedded PDF viewers) and practical
+    workshop repositories (hosted on GitHub with&nbsp;reproducible Pixi environments
+    and Zenodo releases).
+
+    &bull; Language delivery: Organizational, logistical, and budgeting&nbsp;documents
+    are in Spanish, whereas the majority of practical tutorials,&nbsp;code repositories,
+    and exercises are written in English. Live in-person&nbsp;lectures and workshop
+    facilitation were conducted primarily in Spanish&nbsp;to foster regional engagement,
+    complemented by virtual sessionsdelivered in English by international guest experts.
+
+    Contributors &amp; Roles
+
+    Organizing Committee:
+
+    &bull; Dr. Agust&iacute;n A. Corbat (DF - FCEN - UBA / CMA) &ndash; Lead Organizer,
+    Lecturer &amp; Workshop Leader
+
+    &bull; Dr. Federico Lecumberry (Universidad de la Rep&uacute;blica - UdelaR, Uruguay)
+    &ndash; Organizer, Lecturer &amp; Workshop Leader
+
+    &bull; Dra. Lorena Sigaut (DF - FCEN - UBA / CMA) &ndash; Organizer, Lecturer
+    &amp; Workshop Leader
+
+    &bull; Dra. L&iacute;a I. Pietrasanta (DF - FCEN - UBA / CMA) &ndash; Organizer
+    &amp; Institutional Coordination
+
+    Invited Lecturers:
+
+    &bull; Dr. Federico Lecumberry (Universidad de la Rep&uacute;blica - UdelaR, Uruguay)
+    &ndash; Bioimage Analysis Fundamentals &amp; Machine Learning&bull; Dr. Enzo Ferrante
+    (UNL / CONICET, Argentina) &ndash; Deep Learning&nbsp;Theory &amp; Foundations&bull;
+    Dra. Suganya Sivagurunathan (BioImage Informatics Facility - BIIF,&nbsp;SciLifeLab
+    / Uppsala University, Sweden) &ndash; Reproducible Workflows&nbsp;(Virtual)&bull;
+    Dr. Martin Sch&auml;tz (Charles University / UCT Prague, Czech&nbsp;Republic)
+    &ndash; Training Course Design &amp; Pedagogy (Virtual)
+
+    Local Instructors &amp; Facilitators (FCEN - UBA):
+
+    &bull; Dr. Ignacio Sallaberry, Mauro Silberberg, Alejandra Fern&aacute;ndez, Elizabeth
+    Samaniego Onofre, and Gina Ayelen Alongi &ndash; Practical Session Facilitators
+    &amp; Exercise Co-designers&nbsp;
+
+    Funding &amp; Institutional Support:&bull; Funding: Supported by Fundaci&oacute;n
+    Ciencias Exactas y Naturales&nbsp;(FUNDACEN).&bull; Institutional Support &amp;
+    Endorsements: Centro de Microscop&iacute;a&nbsp;Avanzada (CMA - FCEN - UBA), Facultad
+    de Ciencias Exactas y&nbsp;Naturales (FCEN - UBA), Latin America Bioimaging (LABI),
+    and Global&nbsp;BioImaging / GloBIAS.
+
+    &nbsp;
+
+    Train-the-Trainer Course on Bioimage Analysis Fundamentals
+
+    Resumen General
+
+    Este dep&oacute;sito contiene los recursos educativos abiertos completos, el&nbsp;c&oacute;digo
+    fuente del sitio web (desarrollado con Quarto) y el esquema&nbsp;operativo y de
+    gesti&oacute;n para la organizaci&oacute;n del Taller de Fundamentos&nbsp;en An&aacute;lisis
+    de Bioim&aacute;genes (Formaci&oacute;n de Formadores), llevado a cabo&nbsp;del
+    3 al 7 de agosto de 2026 en la Facultad de Ciencias Exactas y&nbsp;Naturales de
+    la Universidad de Buenos Aires (FCEN-UBA), Argentina.
+
+    Adem&aacute;s de servir como un archivo permanente del curso, este dep&oacute;sito&nbsp;incluye
+    el plan maestro operativo (COURSE_MASTER_PLAN.md), el cual&nbsp;presenta un cronograma
+    en diagrama de Gantt (Mermaid) con los hitos de&nbsp;co-dise&ntilde;o del programa,
+    coordinaci&oacute;n de docentes, asignaci&oacute;n&nbsp;presupuestaria, log&iacute;stica
+    del espacio y flujo de trabajo para laselecci&oacute;n de participantes.
+
+    Concepto del Curso y Objetivos Generales de Aprendizaje
+
+    El taller fue dise&ntilde;ado para 24 investigadores/as, personal t&eacute;cnico
+    de&nbsp;centros de microscop&iacute;a y servicios cient&iacute;ficos, analistas
+    de im&aacute;genes y&nbsp;estudiantes de posgrado de Latinoam&eacute;rica (LATAM).
+    Con una estructura&nbsp;orientada a la Formaci&oacute;n de Formadores (Train-the-Trainer,
+    TtT), su&nbsp;prop&oacute;sito principal fue consolidar las capacidades t&eacute;cnicas
+    en el&nbsp;an&aacute;lisis cuantitativo de bioim&aacute;genes y dotar a los participantes
+    de&nbsp;herramientas pedag&oacute;gicas para ense&ntilde;ar, replicar y adaptar
+    estos&nbsp;contenidos en sus instituciones de origen.
+
+    El plan de estudios se estructura en dos ejes principales de objetivos:
+
+
+    Fundamentos de An&aacute;lisis de Bioim&aacute;genes:&bull; Formaci&oacute;n de
+    im&aacute;genes, representaci&oacute;n digital, filtrado y&nbsp;calibraci&oacute;n
+    espacial.&bull; M&eacute;todos cl&aacute;sicos de segmentaci&oacute;n, umbralado,
+    operaciones&nbsp;morfol&oacute;gicas y extracci&oacute;n cuantitativa de m&eacute;tricas.&bull;
+    Flujos de trabajo reproducibles en entornos basados en interfaces&nbsp;gr&aacute;ficas
+    (GUI), macros y programaci&oacute;n (Fiji/ImageJ, Python, napari).&bull; Gesti&oacute;n
+    moderna de entornos y control de versiones mediante Pixi&nbsp;y Git.&bull; Fundamentos
+    de machine learning y deep learning (incluyendo&nbsp;Cellpose, StarDist y BioImage
+    Model Zoo), haciendo hincapi&eacute; en la&nbsp;validaci&oacute;n cr&iacute;tica,
+    modos de falla y el uso responsable de la IA.
+
+    Pedagog&iacute;a y Formaci&oacute;n de Formadores (Train-the-Trainer):&bull; Aplicaci&oacute;n
+    del dise&ntilde;o instruccional inverso (backward design),&nbsp;definiendo objetivos
+    de aprendizaje claros antes de estructurar las&nbsp;actividades.&bull; Dise&ntilde;o
+    de ejercicios pr&aacute;cticos basados en problemas y preparaci&oacute;n&nbsp;de
+    conjuntos de datos representativos para audiencias con&nbsp;formaciones diversas.&bull;
+    Identificaci&oacute;n y abordaje de conceptos err&oacute;neos frecuentes y&nbsp;dificultades
+    t&eacute;cnicas habituales de los estudiantes.&bull; Adaptaci&oacute;n de los
+    programas y requerimientos computacionales a&nbsp;las limitaciones de infraestructura
+    y realidades institucionales&nbsp;locales.
+
+
+    Materiales y Contexto de Idiomas
+
+    El sitio web del curso enlaza y cita formalmente todas las&nbsp;presentaciones
+    te&oacute;ricas (archivadas en Zenodo con visores PDF&nbsp;integrados) y los repositorios
+    de talleres pr&aacute;cticos (alojados en&nbsp;GitHub con entornos reproducibles
+    mediante Pixi y releases en Zenodo).
+
+    &bull; Idiomas de los contenidos: La documentaci&oacute;n organizativa, log&iacute;stica
+    y&nbsp;presupuestaria se encuentra en espa&ntilde;ol, mientras que la mayor&iacute;a
+    de lostutoriales pr&aacute;cticos, repositorios de c&oacute;digo y gu&iacute;as
+    de ejercicios&nbsp;est&aacute;n redactados en ingl&eacute;s. Las clases y sesiones
+    pr&aacute;cticas&nbsp;presenciales se dictaron predominantemente en espa&ntilde;ol
+    para favorecer la&nbsp;interacci&oacute;n regional, complementadas con sesiones
+    virtuales en ingl&eacute;s a&nbsp;cargo de especialistas internacionales invitados.
+
+    Participantes y Roles
+
+    Comit&eacute; Organizador:
+
+    &bull; Dr. Agust&iacute;n A. Corbat (DF - FCEN - UBA / CMA) &ndash; Organizador
+    principal, docente y responsable de talleres
+
+    &bull; Dr. Federico Lecumberry (Universidad de la Rep&uacute;blica - UdelaR, Uruguay)
+    &ndash; Organizador, docente y facilitador
+
+    &bull; Dra. Lorena Sigaut (DF - FCEN - UBA / CMA) &ndash; Organizadora, docente
+    y facilitadora
+
+    &bull; Dra. L&iacute;a I. Pietrasanta (DF - FCEN - UBA / CMA) &ndash; Organizadora
+    y coordinaci&oacute;n institucional
+
+    Profesores Invitados:&bull; Dr. Federico Lecumberry (Universidad de la Rep&uacute;blica
+    - UdelaR,&nbsp;Uruguay) &ndash; Fundamentos de an&aacute;lisis de bioim&aacute;genes
+    y MachineLearning&bull; Dr. Enzo Ferrante (UNL / CONICET, Argentina) &ndash; Teor&iacute;a
+    y&nbsp;fundamentos de Deep Learning&bull; Dra. Suganya Sivagurunathan (BioImage
+    Informatics Facility - BIIF,&nbsp;SciLifeLab / Uppsala University, Suecia) &ndash;
+    Flujos de trabajo&nbsp;reproducibles (Virtual)&bull; Dr. Martin Sch&auml;tz (Charles
+    University / UCT Praga, Rep&uacute;blica&nbsp;Checa) &ndash; Dise&ntilde;o de
+    cursos y pedagog&iacute;a (Virtual)
+
+    Instructores y Facilitadores Locales (FCEN - UBA):&bull; Dr. Ignacio Sallaberry,
+    Mauro Silberberg, Alejandra Fern&aacute;ndez,&nbsp;Elizabeth Samaniego Onofre
+    y Gina Ayelen Alongi &ndash; Facilitadores de&nbsp;sesiones pr&aacute;cticas y
+    co-dise&ntilde;adores de ejercicios
+
+    Financiamiento y Apoyo Institucional:&bull; Financiamiento: Financiado por la
+    Fundaci&oacute;n Ciencias Exactas y&nbsp;Naturales (FUNDACEN).&bull; Apoyo institucional
+    y avales: Centro de Microscop&iacute;a Avanzada (CMA -&nbsp;FCEN - UBA), Facultad
+    de Ciencias Exactas y Naturales (FCEN - UBA),&nbsp;Latin America Bioimaging (LABI)
+    y Global BioImaging / GloBIAS.'
+  license: cc-by-4.0
+  name: "Taller de Fundamentos en An\xE1lisis de Bioim\xE1genes (Formaci\xF3n-de-Formadores)"
+  num_downloads: 0
+  publication_date: '2026-08-07'
+  submission_date: '2026-09-08T15:03:53.096520'
+  url:
+  - https://zenodo.org/records/22647867
+  - https://doi.org/10.5281/zenodo.22647867
+- authors:
+  - Ferrante, Enzo
+  description: 'Fundamentals on deep learning lecture. It was presented during the
+    "Taller de Fundamentos en An&aacute;lisis de Bioim&aacute;genes (Formaci&oacute;n
+    de Formadores)" to grasp the fundamental concepts on how deep neural networks
+    are built, designed and trained for bioimage analysis. The learning outcomes were:
+
+
+
+    Understanding fundamental concepts of deep learning applied to bioimages (Entender
+    los conceptos fundamentales del Deep Learning aplicados a bioim&aacute;genes.)
+
+
+
+    Identify common architectures and theior use in image segmentation (Identificar
+    arquitecturas comunes y su uso en segmentaci&oacute;n de im&aacute;genes).
+
+
+
+    Recognize limitations and caveats in deep learning practical work (Reconocer limitaciones
+    y consideraciones pr&aacute;cticas al aplicar DL).
+
+
+    '
+  license: cc-by-4.0
+  name: "Redes Neuronales para Analisis de Bioim\xE1genes"
+  num_downloads: 0
+  publication_date: '2026-08-05'
+  submission_date: '2026-09-08T15:03:53.950951'
+  url:
+  - https://zenodo.org/records/22647693
+  - https://doi.org/10.5281/zenodo.22647693
+- authors:
+  - Sallaberry, Ignacio
+  - Corbat, Agustin Andres
+  description: This repository contains materials for a workshop on 2D cell segmentation
+    using deep learning tools, specifically&nbsp;Cellpose&nbsp;and&nbsp;StarDist&nbsp;with&nbsp;Napari
+    visualization.
+  license: cc-by-4.0
+  name: Workshop deep learning for bioimage analysis
+  num_downloads: 0
+  publication_date: '2026-08-07'
+  submission_date: '2026-09-08T15:03:54.991982'
+  url:
+  - https://zenodo.org/records/22259997
+  - https://doi.org/10.5281/zenodo.22259997
