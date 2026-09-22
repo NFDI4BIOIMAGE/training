@@ -28393,3 +28393,73 @@ resources:
   url:
   - https://zenodo.org/records/22259997
   - https://doi.org/10.5281/zenodo.22259997
+- authors:
+  - Wendt, Jens
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'These are the presentation slides for the Workshop #6 "Research Data
+    Management for Microscopy &ndash; OMERO" for the conference Boosting Biodata Bootcamp
+    in Aachen 15. - 17.09.2026.
+
+    The aim of the workshop was to familiarize members of adjacent NFDI consortia
+    with the concept and capabilities of the prevalent RDM platform for microscopy
+    image data, OMERO.
+
+    This introductory workshop provides an overview of OMERO, the open-source image
+    data management platform most used in the field of bioimaging. Participants will
+    learn about the origins and structure of OMERO and gain a better understanding
+    how image data is handled, annotated and accessed in OMERO.
+
+    The workshop covers the following topics:
+
+
+
+    Background &amp; Origins: A brief look at the OME project and how OMERO fits into
+    the landscape of research data management for bioimaging.
+
+
+
+    The OMERO Web Interface: A guided tour of OMERO.web, exploring its layout, navigation,
+    and core capabilities.
+
+
+
+    Data Structure in OMERO: Understanding how image data is organized using the Project&ndash;Dataset&ndash;Image
+    hierarchy and how groups and permissions work.
+
+
+
+    Importing &amp; Exporting Data: How to get image data into OMERO and how to retrieve
+    or download data from the platform.
+
+
+
+    Interacting with Image Data: Exploring ways to visualize and utilize images within
+    OMERO. Showcasing the integration with third-party tools such as Fiji/ImageJ,
+    QuPath or Python scripts.
+
+
+
+    Metadata &amp; Annotations: How OMERO captures and preserves metadata, and how
+    users can enrich their data using tags, key-value pairs, file attachments.
+
+
+
+    &nbsp;
+
+    Target Audience: BioData users who are interested in how FAIR RDM can be handled
+    for image data, BioData users who want to learn more about how to interface with
+    image data on OMERO, BioData users who want to learn about metadata (annotation)
+    of microscopy-based image data.
+
+    We acknowledge funding by the&nbsp;Deutsche Forschungsgemeinschaft (DFG, German
+    Research Foundation) under the National Research Data Infrastructure &ndash; NFDI
+    46/1 &ndash; 501864659.'
+  license: cc-by-4.0
+  name: "Boosting Biodata Bootcamp 2026, Workshop #6: Research Data Management for\
+    \ Microscopy \u2013 OMERO"
+  num_downloads: 19
+  publication_date: '2026-09-18'
+  submission_date: '2026-09-22T15:28:33.213700'
+  url:
+  - https://zenodo.org/records/22831731
+  - https://doi.org/10.5281/zenodo.22831731
