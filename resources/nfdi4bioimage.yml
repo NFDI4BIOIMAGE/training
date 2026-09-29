@@ -28463,3 +28463,115 @@ resources:
   url:
   - https://zenodo.org/records/22831731
   - https://doi.org/10.5281/zenodo.22831731
+- authors:
+  - Wetzker, Cornelia
+  - Wendt, Jens
+  - Massei, Riccardo
+  - "M\xFCller, Maximilian E."
+  - Ahmadi, Mohsen
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'The NFDI4BIOIMAGE consortium contributes to the growing landscape
+    of research data management (RDM) in Germany by developing domain-specific yet
+    transferable solutions for bioimaging data. Within this context, it also fosters
+    and supports data stewardship practices across the community.In line with the
+    conference theme &ldquo;from going to growing&rdquo;, our poster highlights how
+    NFDI4BIOIMAGE moves beyond initial service provision towards the implementation
+    of sustainable, community-driven RDM practices. We introduce our data stewardship
+    concept, which supports researchers across the full data lifecycle and aligns
+    with FAIR principles while addressing the specific challenges of bioimaging data.A
+    key component of our approach is our Help Desk, designed as a central, low-threshold
+    entry point for researchers, imaging facility personnel and data stewards. It
+    facilitates access to expertise, connects distributed knowledge within the consortium,
+    and supports practical problem-solving in everyday RDM scenarios. In addition,
+    our Helpdesk is closely connected with other domain and cross-domain helpdesks
+    in continuous exchange, enabling coordinated support structures and knowledge
+    provision across the broader RDM ecosystem.Furthermore, we present the NFDI4BIOIMAGE
+    service portfolio which provides tools and support for FAIR bioimage data handling
+    and analysis, as well as guidance for their practical application.By sharing our
+    experiences, we aim to engage with data stewards from diverse disciplines, exchange
+    best practices, and explore opportunities for cross-domain collaboration within
+    and beyond the NFDI framework. This contribution invites discussion on how domain-specific
+    initiatives can collectively strengthen and scale data stewardship in a growing
+    community.
+
+    This poster is presented at the Data Stewardship Goes Germany Meeting 2026 held
+    in K&ouml;ln by Vanessa Fuchs, Jens Wendt and Cornelia Wetzker.'
+  license: cc-by-4.0
+  name: '[DSgG2026] NFDI4BIOIMAGE and its Help Desk:  Community Support in Bioimage
+    Research Data Management'
+  num_downloads: 14
+  publication_date: '2026-09-24'
+  submission_date: '2026-09-29T16:51:06.820587'
+  url:
+  - https://zenodo.org/records/22870014
+  - https://doi.org/10.5281/zenodo.22870014
+- authors:
+  - "M\xFCller, Maximilian E."
+  - Wetzker, Cornelia
+  description: 'Dieses Poster von NFDI4BIOIMAGE gibt einen &Uuml;berblick &uuml;ber
+    Tools und Services f&uuml;r das Forschungsdatenmanagement (FDM) in der Mikroskopie
+    und biologischen Bildgebung. Ziel ist es, Forschende sowie unterst&uuml;tzende
+    Infrastrukturen entlang des gesamten Forschungsdatenlebenszyklus zu begleiten
+    &ndash; von der Planung &uuml;ber die Datenerhebung und -analyse bis hin zur Publikation
+    und Nachnutzung von Forschungsdaten gem&auml;&szlig; den FAIR-Prinzipien (Findable,
+    Accessible, Interoperable, Reusable).
+
+    Vorgestellt werden ausgew&auml;hlte Softwarel&ouml;sungen, Standards und Infrastrukturservices,
+    die speziell auf die Anforderungen bildgebender Verfahren in den Lebenswissenschaften
+    zugeschnitten sind. Dazu geh&ouml;ren unter anderem Werkzeuge f&uuml;r Datenmanagementpl&auml;ne,
+    Metadatenstandards, Bilddatenformate, Datenorganisation, Annotation, Analyse-Workflows
+    sowie Repositorien f&uuml;r die Ver&ouml;ffentlichung und langfristige Archivierung
+    von Bilddaten.
+
+    Das Poster richtet sich insbesondere an Lehrende, FDM-Berater*innen sowie Betreiber
+    von Forschungsinfrastrukturen, die Forschende an ihren Einrichtungen beim Forschungsdatenmanagement
+    im Bereich Mikroskopie und Bioimaging unterst&uuml;tzen. Ziel ist es, einen strukturierten
+    &Uuml;berblick &uuml;ber vorhandene Ressourcen zu geben und aufzuzeigen, wie diese
+    in Beratung, Lehre und Infrastruktur integriert werden k&ouml;nnen, um Forschende
+    bei einem nachhaltigen und FAIR-konformen Umgang mit Bilddaten zu unterst&uuml;tzen.'
+  license: cc-by-4.0
+  name: "FAIR durch den Forschungsdatenlebenszyklus: FDM-Tools, -Standards und -Services\
+    \ f\xFCr Mikroskopie und Bioimaging"
+  num_downloads: 2
+  publication_date: '2026-09-23'
+  submission_date: '2026-09-29T16:51:07.545299'
+  url:
+  - https://zenodo.org/records/22913386
+  - https://doi.org/10.5281/zenodo.22913386
+- authors:
+  - Carsten Fortmann-Grote
+  - Olvera Cabrera, Daniel
+  - Moore, Josh
+  - Rehwald, Stephanie
+  - Fuchs, Vanessa Aphaia Fiona
+  - Lubiana Alves, Tiago
+  - Waagmeester, Andra
+  - Korte, Lisa
+  - Goman, Helge
+  - Schulze, Nina
+  - Timm, Henning
+  - Wendt, Jens
+  description: Presentation at the "Boosting Biodata Bootcamp 2026"
+  license: cc-by-4.0
+  name: Enabling FAIR Geospatial Metadata in OMERO with Semantic Web Technology
+  num_downloads: 51
+  publication_date: '2026-09-17'
+  submission_date: '2026-09-29T16:51:08.861962'
+  url:
+  - https://zenodo.org/records/22806360
+  - https://doi.org/10.5281/zenodo.22806360
+- authors:
+  - Euro-BioImaging ERIC
+  description: Euro-BioImaging ERIC is the European landmark research infrastructure
+    for biological and biomedical imaging as recognized by the European Strategy Forum
+    on Research Infrastructures (ESFRI). Euro-BioImaging is the gateway to world-class
+    imaging facilities across Europe. This document is the Euro-BioImaging Annual
+    Report for the year 2025.
+  license: cc-by-4.0
+  name: Euro-BioImaging Annual Report 2025
+  num_downloads: 0
+  publication_date: '2026-07-21'
+  submission_date: '2026-09-29T16:51:37.386910'
+  url:
+  - https://zenodo.org/records/21470154
+  - https://doi.org/10.5281/zenodo.21470154
