@@ -28633,3 +28633,49 @@ resources:
   - https://zenodo.org/records/7628604
   - https://doi.org/10.5281/zenodo.7628604
   
+- authors:
+  - Jones, Martin
+  description: '
+  
+  
+    Presentation from IMC21 in Liverpool, given on Thursday 3rd September in the&nbsp;Enabling
+    Technologies - Machine Learning in Biological Imaging&nbsp;session.
+  
+    Title
+  
+    Building Together: Open Tools, AI Segmentation, and Community Infrastructure for
+    Volume EM data analysis
+  
+    Abstract
+  
+    Volume electron microscopy is generating ultrastructural datasets of unprecedented
+    scale and complexity, but the tools and expertise needed to extract biological meaning
+    from these data have struggled to keep pace.&nbsp;
+  
+    I''ll begin by outlining some AI-based tools we have developed for analysing volume
+    EM datasets, highlighting some of the challenges encountered when developing such
+    workflows. Next, I will go on to describe the work of&nbsp;CCP-volumeEM (https://www.ccp-volumeem.ac.uk/),
+    a UKRI funded community project for volume EM data analysis, which brings together
+    developers, facility staff, and life scientists to share best practice and drive
+    sustainable software development. This community effort aims to reduce the entry
+    barrier for the reproducible use and development of the latest data science and
+    AI tools by the volume EM community, and beyond. In addition to a range of software
+    development efforts, I will describe our community consolidation and training initiatives,
+    which are key elements in ensuring the best tools are in the hands of end-users.
+  
+  
+  
+  
+    &nbsp;
+  
+    '
+  license: cc-by-4.0
+  name: 'Building Together: Open Tools, AI Segmentation, and Community Infrastructure
+    for Volume EM data analysis (presented at IMC21 in Liverpool, UK)'
+  num_downloads: 31
+  publication_date: '2026-09-07'
+  submission_date: '2026-10-01T08:10:35.486540'
+  url:
+  - https://zenodo.org/records/22643394
+  - https://doi.org/10.5281/zenodo.22643394
+  
