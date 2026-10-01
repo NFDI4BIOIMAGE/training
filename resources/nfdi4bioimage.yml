@@ -28604,3 +28604,20 @@ resources:
   - https://zenodo.org/records/7296920
   - https://doi.org/10.5281/zenodo.7296920
   
+- authors:
+  - Robert-Wagner-INP
+  - Dr. Mohsen Ahmadi
+  - markus
+  description: The Bioimaging Data Management Workflow for Plasma Medicine supports
+    research data management for bioimaging in plasma medicine research. It is provided
+    as an executable Jupyter notebook including step-by-step instructions.
+  license: MIT License
+  name: Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
+  publication_date: '2026-06-23T07:47:23+00:00'
+  submission_date: '2026-10-01T07:53:48.677714'
+  tags: 
+  - Research Data Management
+  - Notebook
+  type: GitHub Repository
+  url: https://github.com/INP-SDT/Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
+  
