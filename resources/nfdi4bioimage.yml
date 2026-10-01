@@ -28575,3 +28575,32 @@ resources:
   url:
   - https://zenodo.org/records/21470154
   - https://doi.org/10.5281/zenodo.21470154
+
+- authors:
+  - "Hern\xE1ndez Serrano, Pedro V"
+  - Vivas Romero, Maria
+  description: "Original link to the event LCRDM Networking Day 2022\n\nIn this workshop,\
+    \ we will discuss how to deconstruct the FAIR principles into the 6 basic steps\
+    \ of Circular Research Data.&nbsp;\nThis way, teaching RDM becomes more practical,\
+    \ especially with Interoperability and Reusability.&nbsp;\nThe participants will\
+    \ also learn how to create FAIR training materials, i.e. machine and human-readable,\
+    \ complying with the FAIR digital objects specification.\n\nResources used in the\
+    \ workshop\n\n\n\tFAIR Metadata Wizard: maastrichtu-ids.github.io/fair-metadata-wizard/\n\
+    \tMetadata template for FAIR training material: bit.ly/FAIRmetadata\n\tCircular\
+    \ Research Data Coursebook: maastrichtu-library.github.io/circular-research-data-coursebok/\n\
+    \tWeb Slides:&nbsp;Circular Research Data Bootcamp: A use case for FAIR training\
+    \ materials&nbsp;\n\n\nInstructor Bio: Pedro Is the Faculty Data Steward at the\
+    \ Faculty of Science and Engineering, Maastricht University.&nbsp;\nHe centrally\
+    \ supports activities, policy development and technical infrastructure at the University\
+    \ Library for data stewardship professionalisation He recently got awarded the Netherlands\
+    \ eScience Center fellowship to coordinate activities on FAIR Research Software\
+    \ in his institution."
+  license: cc-by-4.0
+  name: 'Circular Research Data Bootcamp: A use case for FAIR training materials'
+  num_downloads: 160
+  publication_date: '2022-11-01'
+  submission_date: '2026-10-01T07:42:47.747548'
+  url:
+  - https://zenodo.org/records/7296920
+  - https://doi.org/10.5281/zenodo.7296920
+  
