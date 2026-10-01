@@ -28623,8 +28623,7 @@ resources:
   
 - authors:
   - Beth Cimini
-  description: A chart describing several options&nbsp;for online deposition of&nbsp;light
-    microscopy data&nbsp;
+  description: A chart describing several options for online deposition of light microscopy data
   license: cc-by-4.0
   name: A comparison of repositories for deposition of light microscopy data
   num_downloads: 110
