@@ -28621,3 +28621,15 @@ resources:
   type: GitHub Repository
   url: https://github.com/INP-SDT/Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
   
+- authors:
+  - Beth Cimini
+  description: A chart describing several options for online deposition of light microscopy data
+  license: cc-by-4.0
+  name: A comparison of repositories for deposition of light microscopy data
+  num_downloads: 110
+  publication_date: '2023-01-20'
+  submission_date: '2026-10-01T08:06:30.406673'
+  url:
+  - https://zenodo.org/records/7628604
+  - https://doi.org/10.5281/zenodo.7628604
+  
