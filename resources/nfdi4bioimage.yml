@@ -28615,7 +28615,9 @@ resources:
   name: Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
   publication_date: '2026-06-23T07:47:23+00:00'
   submission_date: '2026-10-01T07:53:48.677714'
-  tags: TODO
+  tags: 
+  - Research Data Management
+  - Notebook
   type: GitHub Repository
   url: https://github.com/INP-SDT/Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
   
