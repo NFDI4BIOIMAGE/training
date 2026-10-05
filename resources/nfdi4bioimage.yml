@@ -28679,3 +28679,51 @@ resources:
   - https://zenodo.org/records/22643394
   - https://doi.org/10.5281/zenodo.22643394
   
+- authors:
+  - Massei, Riccardo
+  description: '
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    Sub-sample images:&nbsp; Images of cytoplasm to nucleus translocation of the transcription
+    factor NF&kappa;B in MCF7 (human breast adenocarcinoma cell line) and A549 (human
+    alveolar basal epithelial) cells in response to TNF&alpha; concentration. Images
+    are at 10x objective magnification. The plate was acquired at Vitra Bioscience on
+    the CellCard reader. For each well there is one field with two images: a nuclear
+    counterstain (DAPI) image and a signal stain (FITC) image. Image size is 1360 x
+    1024 pixels. Images are in 8-bit BMP format.
+  
+    Source: https://bbbc.broadinstitute.org/BBBC014
+  
+    Citation: Ljosa, Vebjorn, Katherine L. Sokolnicki, and Anne E. Carpenter. "Annotated
+    high-throughput microscopy image sets for validation." Nature methods 9.7 (2012):
+    637-637. https://doi.org/10.1038/nmeth.2083
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    '
+  license: cc-by-4.0
+  name: Galaxy Training Data for "Overview of the Galaxy OMERO-suite"
+  num_downloads: 4716
+  publication_date: '2024-11-22'
+  submission_date: '2026-10-05T15:52:58.493278'
+  url:
+  - https://zenodo.org/records/14205500
+  - https://doi.org/10.5281/zenodo.14205500
+  
