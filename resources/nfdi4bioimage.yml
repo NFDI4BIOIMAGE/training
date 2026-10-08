@@ -28678,4 +28678,78 @@ resources:
   url:
   - https://zenodo.org/records/22643394
   - https://doi.org/10.5281/zenodo.22643394
-  
+- authors:
+  - Knapp, Sarah
+  - Korn, Patricia
+  description: 'January image of the NFDI4BIOIMAGE wall calendar 2026, contributed
+    by Sarah Knapp. The original image can be found in BioImage Archive:&nbsp;https://doi.org/10.6019/S-BIAD1673
+    .
+
+    Image description:
+
+    This image highlights PARP15.1, which forms distinct nuclear foci when its ADP-ribosyltransferase
+    domain is active. It shows the reference state of a cell-based assay designed
+    to monitor mono-ADPribosylation (MARylation)-driven foci. Viral macrodomains,
+    such as those from Chikungunya virus and SARS-CoV-2, antagonize this process by
+    reversing host MARylation resulting in spread nuclear GFP signal. Cells were imaged
+    by live-cell confocal microscopy. Channel 1: GFP from mEGFP-PARP15.1. Channel
+    2: brightfield showing morphology and cell health. Channel 3: nuclear DNA stained
+    with Spy650DNA.'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar January 2026
+  num_downloads: 0
+  publication_date: '2026-10-05'
+  submission_date: '2026-10-06T17:06:37.583555'
+  url:
+  - https://zenodo.org/records/23164624
+  - https://doi.org/10.5281/zenodo.23164624
+- authors:
+  - Sun, Yi
+  - Massei, Riccardo
+  description: This presentation is part of the NFDI4BIOIMAGE project which is funded
+    by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under
+    the National Research Data Infrastructure &ndash; NFDI 46/1 &ndash; 501864659
+  license: cc-by-4.0
+  name: 'Boosting Biodata Bootcamp 2026, Workshop #8: Cloud-based image analysis with
+    BAND and Napari'
+  num_downloads: 3
+  publication_date: '2026-10-05'
+  submission_date: '2026-10-06T17:06:38.087863'
+  url:
+  - https://zenodo.org/records/23157247
+  - https://doi.org/10.5281/zenodo.23157247
+- authors:
+  - Baldenius, Marie Tovelill
+  - Mohr, Inga
+  - Fuchs, Vanessa Aphaia Fiona
+  description: 'In this Roll-up we show how NFDI4BIOIMAGE can support researchers
+    throughout their project.
+
+    It was designed for the ''Tag der Forschungsdaten'' in 2026 at the Heinrich Heine
+    University in D&uuml;sseldorf.
+
+    Dimensions of the printed Roll-up:&nbsp;60 x 200 cm
+
+    The work is funded by the Deutsche Forschungsgemeinschaft (DFG, German&nbsp; Research
+    Foundation) under the National Research Data Infrasstructure &ndash; NFDI 46/1
+    &ndash; 501864659'
+  license: cc-by-4.0
+  name: Roll-up for 'Tag der Forschungsdaten 2026' at HHU by NFDI4BIOIMAGE
+  num_downloads: 6
+  publication_date: '2026-09-18'
+  submission_date: '2026-10-06T17:06:38.656632'
+  url:
+  - https://zenodo.org/records/22773022
+  - https://doi.org/10.5281/zenodo.22773022
+- authors:
+  - Bischof, Johanna
+  description: Workshop material for the SPAOM2026 Community Workshop on Strategic
+    Communication, designed for Imaging Core Facility staff.
+  license: cc-by-4.0
+  name: Community Workshop - Strategic Communication for Imaging Core Facilities
+  num_downloads: 1
+  publication_date: '2026-10-04'
+  submission_date: '2026-10-06T17:07:05.435766'
+  url:
+  - https://zenodo.org/records/23138292
+  - https://doi.org/10.5281/zenodo.23138292
