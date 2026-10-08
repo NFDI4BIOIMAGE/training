@@ -28678,7 +28678,7 @@ resources:
   url:
   - https://zenodo.org/records/22643394
   - https://doi.org/10.5281/zenodo.22643394
-  - authors:
+- authors:
   - Knapp, Sarah
   - Korn, Patricia
   description: 'January image of the NFDI4BIOIMAGE wall calendar 2026, contributed
