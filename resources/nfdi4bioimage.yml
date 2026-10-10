@@ -27039,8 +27039,9 @@ resources:
   url:
   - https://zenodo.org/records/20024684
   - https://doi.org/10.5281/zenodo.20024684
+  uuid: d209b8eb-fe59-46ca-b1e5-1b5da7f92266
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   description: 'This presentation was developed by NFDI4BIOIMAGE and held online as
     part of the CRC 1551 Data Week on 05. May 2026.
 
@@ -27064,6 +27065,7 @@ resources:
   url:
   - https://zenodo.org/records/20039402
   - https://doi.org/10.5281/zenodo.20039402
+  uuid: d5e1b608-26c7-4054-8e9b-38de4e370e52
 - authors:
   - Goble, Carole
   description: 'Invited keynote for&nbsp;
@@ -27077,6 +27079,7 @@ resources:
   url:
   - https://zenodo.org/records/19949157
   - https://doi.org/10.5281/zenodo.19949157
+  uuid: 1088edaa-04d4-434e-bcd9-74227f3801b6
 - authors:
   - Wendt, Jens
   description: 'Presentation held at the Data Stewardship Knowledge Exchange Event
@@ -27097,6 +27100,7 @@ resources:
   url:
   - https://zenodo.org/records/20271104
   - https://doi.org/10.5281/zenodo.20271104
+  uuid: 8f73b1a3-2965-4a1a-a099-b59ee1e5f138
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In this workshop the participants get an introduction to OMERO and
@@ -27116,6 +27120,7 @@ resources:
   url:
   - https://zenodo.org/records/19366801
   - https://doi.org/10.5281/zenodo.19366801
+  uuid: 468c70bd-5517-4661-88bb-bf501b21fcef
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: This publication contains the slides from the presentation "NFDI -
@@ -27130,10 +27135,11 @@ resources:
   url:
   - https://zenodo.org/records/19352622
   - https://doi.org/10.5281/zenodo.19352622
+  uuid: 3d88e119-74ae-4b7e-8755-89e4e5213bc9
 - authors:
   - Wetzker, Cornelia
   - Ahmadi, Mohsen
-  - "Kroo\xDF, Ksenia"
+  - Krooß, Ksenia
   - Wendt, Jens
   - Boissonnet, Tom
   description: 'The slides are part of a hands-on session that demonstrates the usage
@@ -27166,6 +27172,7 @@ resources:
   url:
   - https://zenodo.org/records/20610539
   - https://doi.org/10.5281/zenodo.20610539
+  uuid: 10531791-7e32-4fe3-b2f6-9248b3ad5082
 - authors:
   - Moore, Josh
   - Schmidt, Christian
@@ -27177,7 +27184,7 @@ resources:
   - Sun, Yi
   - Zobel, Thomas
   - Wendt, Jens
-  - "Gr\xFCning, Bj\xF6rn"
+  - Grüning, Björn
   - Kunis, Susanne
   - Blank-Burian, Markus
   - Trivedi, Ami
@@ -27186,7 +27193,7 @@ resources:
   - Scherle, Michael
   - Massei, Riccardo
   - Wetzker, Cornelia
-  - "M\xFCller, Maximilian"
+  - Müller, Maximilian
   - Baldenius, Marie
   - Mohr, Inga
   - Fuchs, Vanessa
@@ -27310,6 +27317,7 @@ resources:
   url:
   - https://zenodo.org/records/20509378
   - https://doi.org/10.5281/zenodo.20509378
+  uuid: 9fde09bd-25cc-4db2-89c8-a7f77f853c60
 - authors:
   - Haase, Robert
   description: 'In&nbsp; this presentation we learn&nbsp; about the impact of generative
@@ -27336,6 +27344,7 @@ resources:
   url:
   - https://zenodo.org/records/20512957
   - https://doi.org/10.5281/zenodo.20512957
+  uuid: 753e313a-8465-4537-a457-5a786b6eb709
 - authors:
   - Moore, Josh
   description: '40 Minute talk presented to the BINA Insights and Educational Tools
@@ -27350,6 +27359,7 @@ resources:
   url:
   - https://zenodo.org/records/20275730
   - https://doi.org/10.5281/zenodo.20275730
+  uuid: 5c7194e1-c9dd-4149-b736-ff8f31fb0a06
 - authors:
   - Kemmer, Isabel
   - Euro-BioImaging ERIC
@@ -27382,6 +27392,7 @@ resources:
   url:
   - https://zenodo.org/records/20152438
   - https://doi.org/10.5281/zenodo.20152438
+  uuid: 4ea054ff-67d8-43cf-89ed-85f6cb9fc252
 - authors:
   - Theart, Rensu
   - Levet, Florian
@@ -27407,6 +27418,7 @@ resources:
   url:
   - https://zenodo.org/records/20386408
   - https://doi.org/10.5281/zenodo.20386408
+  uuid: 55975433-f3dd-4bb0-9ab9-1dac42d714d1
 - authors:
   - Lubiana, Tiago
   description: Presentation at the "Shaping a Distributed Bioimaging Infrastructure
@@ -27421,6 +27433,7 @@ resources:
   url:
   - https://zenodo.org/records/20799310
   - https://doi.org/10.5281/zenodo.20799310
+  uuid: 1452d6d7-e2fe-4a7c-80af-1fda4991b541
 - authors:
   - Soltwedel, Johannes Richard
   description: Presentation slides for talk of Johannes Soltwedel at 2026 ELMI conference
@@ -27433,6 +27446,7 @@ resources:
   url:
   - https://zenodo.org/records/20708139
   - https://doi.org/10.5281/zenodo.20708139
+  uuid: b681a4d1-d304-48c1-a19d-92efff55d81f
 - authors:
   - Schaefer, Lisa-Marie
   description: 'Core facilities rely on user feedback and needs assessments, but how
@@ -27455,6 +27469,7 @@ resources:
   url:
   - https://zenodo.org/records/20721658
   - https://doi.org/10.5281/zenodo.20721658
+  uuid: f6e5b09c-9d37-40a6-ab3f-e6eb0905aa12
 - authors:
   - German BioImaging - Team Training
   description: 'This video from the German BioImaging Team Training and Knowledge
@@ -27467,14 +27482,14 @@ resources:
     during this event and to encourage more people to contribute to this outreach
     event.'
   license: cc-by-4.0
-  name: "GerBI Team Training proudly presents Insights into ,T\xFCren auf mit der\
-    \ Maus'"
+  name: GerBI Team Training proudly presents Insights into ,Türen auf mit der Maus'
   num_downloads: 162
   publication_date: '2026-06-09'
   submission_date: '2026-06-23T13:44:44.436155'
   url:
   - https://zenodo.org/records/20614751
   - https://doi.org/10.5281/zenodo.20614751
+  uuid: 72351eaf-2d33-4836-9a51-e5b3705badb1
 - authors:
   - Hamacher, Anna B.
   description: Minimal dataset to test Brightfield and Digital Phase Contrast images
@@ -27488,39 +27503,41 @@ resources:
   url:
   - https://zenodo.org/records/20799564
   - https://doi.org/10.5281/zenodo.20799564
+  uuid: e16af91a-3100-4b34-b226-a3b793ab6c80
 - authors:
   - Busse, Christian
-  - "F\xF6rstner, Konrad U."
+  - Förstner, Konrad U.
   - Pigeot, Iris
   - Stegle, Oliver
   - Weidtkamp-Peters, Stefanie
   license: cc-by-4.0
-  name: "Gemeinsame Erkl\xE4rung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur\
-    \ (NFDI) zur Einrichtung eines Fachbereichs Biomedizin"
+  name: Gemeinsame Erklärung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur
+    (NFDI) zur Einrichtung eines Fachbereichs Biomedizin
   num_downloads: 0
   publication_date: '2026-07-10'
   submission_date: '2026-07-14T12:18:42.867497'
   url:
   - https://zenodo.org/records/21294122
   - https://doi.org/10.5281/zenodo.21294122
+  uuid: 347ad905-de82-4f90-89cd-b3afe6146d5b
 - authors:
   - Ebert, Barbara
   - Ewert, Frank
-  - "F\xF6rstner, Konrad U."
-  - "Gl\xF6ckner, Frank Oliver"
+  - Förstner, Konrad U.
+  - Glöckner, Frank Oliver
   - Keller, Christin
   - McHardy, Alice Carolyn
   - von Suchodoletz, Dirk
   - Weidtkamp-Peters, Stefanie
   - Baldenius, Marie Tovelill
-  - "Bo\xDFe, Sophie"
+  - Boße, Sophie
   - Ebeling, Mary-Ann
   - Engel, Judith
   - Gerber, Anja
   - Gillis, Rosalind
   - Hoffmann, Carsten
-  - "M\xFChlhaus, Timo"
-  - "R\xF6der, Juliane"
+  - Mühlhaus, Timo
+  - Röder, Juliane
   - Schmale Rodrigues, Cristina
   - Schmidt, Christian
   - Scholz, Uwe
@@ -27549,8 +27566,9 @@ resources:
   url:
   - https://zenodo.org/records/21235788
   - https://doi.org/10.5281/zenodo.21235788
+  uuid: eafbb8e2-0523-4181-a3a0-c8b4af98f899
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Wendt, Jens
   description: '
 
@@ -27586,6 +27604,7 @@ resources:
   url:
   - https://zenodo.org/records/21155175
   - https://doi.org/10.5281/zenodo.21155175
+  uuid: d7cf22d5-1089-40ad-a055-2a70dd7cbeba
 - authors:
   - Euro-BioImaging ERIC
   description: Horizon Europe-funded EVOLVE Deliverable 8.4 - Report on monitoring
@@ -27606,6 +27625,7 @@ resources:
   url:
   - https://zenodo.org/records/21032233
   - https://doi.org/10.5281/zenodo.21032233
+  uuid: 2507d180-c3d9-446e-8a40-a3aa27dd3e6c
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe-funded EVOLVE Deliverable 8.1 - Report on monitoring
@@ -27626,6 +27646,7 @@ resources:
   url:
   - https://zenodo.org/records/21031163
   - https://doi.org/10.5281/zenodo.21031163
+  uuid: 531e0789-858f-478e-8bbe-d6cee2ae981a
 - authors:
   - Euro-BioImaging ERIC
   description: Horizon Europe-funded EVOLVE Deliverable 5.1 - Gap analysis identifying
@@ -27647,6 +27668,7 @@ resources:
   url:
   - https://zenodo.org/records/21027072
   - https://doi.org/10.5281/zenodo.21027072
+  uuid: d1814204-a2f9-4c01-a1bb-1931cefa5bbc
 - authors:
   - Euro-BioImaging ERIC
   description: 'Horizon Europe-funded EVOLVE Deliverable 1.5 - List of socio-economic
@@ -27669,6 +27691,7 @@ resources:
   url:
   - https://zenodo.org/records/21025252
   - https://doi.org/10.5281/zenodo.21025252
+  uuid: 55337006-e6eb-4571-b41a-ca73afd3b9bc
 - authors:
   - Euro-BioImaging Data Steward Expert Group
   - Euro-BioImaging ERIC
@@ -27686,6 +27709,7 @@ resources:
   url:
   - https://zenodo.org/records/21131870
   - https://doi.org/10.5281/zenodo.21131870
+  uuid: e5804851-9a0a-454a-8ae2-0802d01b7806
 - authors:
   - Paul, Maarten W.
   description: 'Example ND2 files in which well and site names were not properly extracted
@@ -27700,6 +27724,7 @@ resources:
   url:
   - https://zenodo.org/records/21162526
   - https://doi.org/10.5281/zenodo.21162526
+  uuid: cc5bfe8c-ad78-4df3-9971-351c76f129d5
 - authors:
   - Haase, Robert
   description: 'In&nbsp; this slide deck we dive into generative artificial intelligence
@@ -27724,21 +27749,23 @@ resources:
   url:
   - https://zenodo.org/records/18879906
   - https://doi.org/10.5281/zenodo.18879906
+  uuid: 8fabb23f-14e9-490f-a2ac-709cd0c66926
 - authors:
   - Busse, Christian
-  - "F\xF6rstner, Konrad U."
+  - Förstner, Konrad U.
   - Pigeot, Iris
   - Stegle, Oliver
   - Weidtkamp-Peters, Stefanie
   license: cc-by-4.0
-  name: "Gemeinsame Erkl\xE4rung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur\
-    \ (NFDI) zur Einrichtung eines Fachbereichs Biomedizin"
+  name: Gemeinsame Erklärung der BioMed-Konsortien der Nationalen Forschungsdateninfrastruktur
+    (NFDI) zur Einrichtung eines Fachbereichs Biomedizin
   num_downloads: 31
   publication_date: '2026-07-16'
   submission_date: '2026-07-21T12:25:47.443868'
   url:
   - https://zenodo.org/records/21402213
   - https://doi.org/10.5281/zenodo.21402213
+  uuid: 57cf8953-d93c-4456-9f12-7e293af0b255
 - authors:
   - Schmidt, Christian
   - Soltwedel, Johannes Richard
@@ -27785,6 +27812,7 @@ resources:
   url:
   - https://zenodo.org/records/21390101
   - https://doi.org/10.5281/zenodo.21390101
+  uuid: 053f0eb9-6e43-43ec-ba8a-b504be2c78c7
 - authors:
   - Schmidt, Christian
   - Sun, Yi
@@ -27833,6 +27861,7 @@ resources:
   url:
   - https://zenodo.org/records/21389852
   - https://doi.org/10.5281/zenodo.21389852
+  uuid: 472b5838-4a71-4f20-822e-d2a80fa15821
 - authors:
   - Fuchs, Vanessa Aphaia Fiona
   description: 'In dieser Pr&auml;sentation habe ich f&uuml;r Nikon Mitarbeiter:innen
@@ -27868,6 +27897,7 @@ resources:
   url:
   - https://zenodo.org/records/21374467
   - https://doi.org/10.5281/zenodo.21374467
+  uuid: b5a91be4-ff98-4232-b988-4fc8fb5703fd
 - authors:
   - Sivagurunathan, Suganya
   description: The slide deck is about "Reproducible workflows" for bioimage analysis
@@ -27881,6 +27911,7 @@ resources:
   url:
   - https://zenodo.org/records/21782259
   - https://doi.org/10.5281/zenodo.21782259
+  uuid: 010d4bad-31d3-43eb-8e45-0fe804683cf7
 - authors:
   - Corbat, Agustin Andres
   description: 'Lecture about deep learning models and AI tools applied to bioimages
@@ -27911,6 +27942,7 @@ resources:
   url:
   - https://zenodo.org/records/21746499
   - https://doi.org/10.5281/zenodo.21746499
+  uuid: 23c04e10-6cd7-4b0d-bc6f-0c8234e7da4c
 - authors:
   - Corbat, Agustin Andres
   description: 'Lecture about segmentation and quantification of bioimages and microscopy.
@@ -27941,6 +27973,7 @@ resources:
   url:
   - https://zenodo.org/records/21744286
   - https://doi.org/10.5281/zenodo.21744286
+  uuid: 7f7797f0-cc1d-4bee-96ad-6edb44796044
 - authors:
   - Corbat, Agustin Andres
   description: '
@@ -28000,15 +28033,16 @@ resources:
     herramienta, sino la l&oacute;gica general de construcci&oacute;n de pipelines
     transferibles entre plataformas.'
   license: cc-by-4.0
-  name: "Taller de Segmentaci\xF3n y Cuantificaci\xF3n de Im\xE1genes"
+  name: Taller de Segmentación y Cuantificación de Imágenes
   num_downloads: 1
   publication_date: '2026-07-29'
   submission_date: '2026-08-04T13:07:07.530322'
   url:
   - https://zenodo.org/records/21693542
   - https://doi.org/10.5281/zenodo.21693542
+  uuid: d5638c80-916f-42b0-bfe3-1d1a71300913
 - authors:
-  - "Sch\xE4tz, Martin"
+  - Schätz, Martin
   description: 'Transitioning from a specialised bioimage analyst to an effective
     trainer presents unique pedagogical and operational challenges. This presentation
     outlines practical strategies, open-access resources, and modern digital workflows
@@ -28069,6 +28103,7 @@ resources:
   url:
   - https://zenodo.org/records/21827120
   - https://doi.org/10.5281/zenodo.21827120
+  uuid: e675d665-a7ff-41de-8525-61df2dcbd95f
 - authors:
   - Haase, Robert
   description: This slide deck contains a short presentation about responsible use
@@ -28083,6 +28118,7 @@ resources:
   url:
   - https://zenodo.org/records/21977243
   - https://doi.org/10.5281/zenodo.21977243
+  uuid: 2cfc2ae4-5a1b-4ef2-80d5-7d9da21f6c58
 - authors:
   - Sigaut, Lorena
   - Lecumberry, Federico
@@ -28110,14 +28146,15 @@ resources:
 
     '
   license: cc-by-4.0
-  name: "Gu\xEDa Pr\xE1ctica de An\xE1lisis de Bioim\xE1genes: C\xE1lculos de Im\xE1\
-    genes, Filtrado y Profundidad de Bits"
+  name: 'Guía Práctica de Análisis de Bioimágenes: Cálculos de Imágenes, Filtrado
+    y Profundidad de Bits'
   num_downloads: 0
   publication_date: '2026-08-18'
   submission_date: '2026-08-25T11:35:27.571470'
   url:
   - https://zenodo.org/records/22001264
   - https://doi.org/10.5281/zenodo.22001264
+  uuid: 9ae8bec7-9dfe-4a39-8f80-840fae84d827
 - authors:
   - Moore, Josh
   description: '20 Minute talk presented to the NFDI4LifeScience Conference2 &ndash;
@@ -28132,6 +28169,7 @@ resources:
   url:
   - https://zenodo.org/records/22206653
   - https://doi.org/10.5281/zenodo.22206653
+  uuid: 125a8c0f-f2a9-4f1e-acde-b78968a7f8a5
 - authors:
   - Corbat, Agustin Andres
   - Sigaut, Lorena
@@ -28340,13 +28378,14 @@ resources:
     de Ciencias Exactas y Naturales (FCEN - UBA),&nbsp;Latin America Bioimaging (LABI)
     y Global BioImaging / GloBIAS.'
   license: cc-by-4.0
-  name: "Taller de Fundamentos en An\xE1lisis de Bioim\xE1genes (Formaci\xF3n-de-Formadores)"
+  name: Taller de Fundamentos en Análisis de Bioimágenes (Formación-de-Formadores)
   num_downloads: 0
   publication_date: '2026-08-07'
   submission_date: '2026-09-08T15:03:53.096520'
   url:
   - https://zenodo.org/records/22647867
   - https://doi.org/10.5281/zenodo.22647867
+  uuid: b50f01c4-6fe4-4c71-b041-7bc3d31133fa
 - authors:
   - Ferrante, Enzo
   description: 'Fundamentals on deep learning lecture. It was presented during the
@@ -28372,13 +28411,14 @@ resources:
 
     '
   license: cc-by-4.0
-  name: "Redes Neuronales para Analisis de Bioim\xE1genes"
+  name: Redes Neuronales para Analisis de Bioimágenes
   num_downloads: 0
   publication_date: '2026-08-05'
   submission_date: '2026-09-08T15:03:53.950951'
   url:
   - https://zenodo.org/records/22647693
   - https://doi.org/10.5281/zenodo.22647693
+  uuid: c56f07a4-8b89-44cb-a6b3-68b472e4e257
 - authors:
   - Sallaberry, Ignacio
   - Corbat, Agustin Andres
@@ -28393,6 +28433,7 @@ resources:
   url:
   - https://zenodo.org/records/22259997
   - https://doi.org/10.5281/zenodo.22259997
+  uuid: a070db20-92e6-46f4-a3ba-64d67ca3bbf7
 - authors:
   - Wendt, Jens
   - Fuchs, Vanessa Aphaia Fiona
@@ -28455,19 +28496,20 @@ resources:
     Research Foundation) under the National Research Data Infrastructure &ndash; NFDI
     46/1 &ndash; 501864659.'
   license: cc-by-4.0
-  name: "Boosting Biodata Bootcamp 2026, Workshop #6: Research Data Management for\
-    \ Microscopy \u2013 OMERO"
+  name: 'Boosting Biodata Bootcamp 2026, Workshop #6: Research Data Management for
+    Microscopy – OMERO'
   num_downloads: 19
   publication_date: '2026-09-18'
   submission_date: '2026-09-22T15:28:33.213700'
   url:
   - https://zenodo.org/records/22831731
   - https://doi.org/10.5281/zenodo.22831731
+  uuid: 6ca8bddf-7590-43d8-9754-9a2356304d36
 - authors:
   - Wetzker, Cornelia
   - Wendt, Jens
   - Massei, Riccardo
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Ahmadi, Mohsen
   - Fuchs, Vanessa Aphaia Fiona
   description: 'The NFDI4BIOIMAGE consortium contributes to the growing landscape
@@ -28505,8 +28547,9 @@ resources:
   url:
   - https://zenodo.org/records/22870014
   - https://doi.org/10.5281/zenodo.22870014
+  uuid: e273f0d6-2c49-4906-ba08-123d2e80ce32
 - authors:
-  - "M\xFCller, Maximilian E."
+  - Müller, Maximilian E.
   - Wetzker, Cornelia
   description: 'Dieses Poster von NFDI4BIOIMAGE gibt einen &Uuml;berblick &uuml;ber
     Tools und Services f&uuml;r das Forschungsdatenmanagement (FDM) in der Mikroskopie
@@ -28530,14 +28573,15 @@ resources:
     in Beratung, Lehre und Infrastruktur integriert werden k&ouml;nnen, um Forschende
     bei einem nachhaltigen und FAIR-konformen Umgang mit Bilddaten zu unterst&uuml;tzen.'
   license: cc-by-4.0
-  name: "FAIR durch den Forschungsdatenlebenszyklus: FDM-Tools, -Standards und -Services\
-    \ f\xFCr Mikroskopie und Bioimaging"
+  name: 'FAIR durch den Forschungsdatenlebenszyklus: FDM-Tools, -Standards und -Services
+    für Mikroskopie und Bioimaging'
   num_downloads: 2
   publication_date: '2026-09-23'
   submission_date: '2026-09-29T16:51:07.545299'
   url:
   - https://zenodo.org/records/22913386
   - https://doi.org/10.5281/zenodo.22913386
+  uuid: d097bde8-ba9a-4afa-b116-ac46f0be3972
 - authors:
   - Carsten Fortmann-Grote
   - Olvera Cabrera, Daniel
@@ -28560,6 +28604,7 @@ resources:
   url:
   - https://zenodo.org/records/22806360
   - https://doi.org/10.5281/zenodo.22806360
+  uuid: 7ba12958-ea7e-45b7-a4b1-d26433cdc4ff
 - authors:
   - Euro-BioImaging ERIC
   description: Euro-BioImaging ERIC is the European landmark research infrastructure
@@ -28575,26 +28620,26 @@ resources:
   url:
   - https://zenodo.org/records/21470154
   - https://doi.org/10.5281/zenodo.21470154
-
+  uuid: c9d59b9b-a592-4405-9839-e89126c3a81b
 - authors:
-  - "Hern\xE1ndez Serrano, Pedro V"
+  - Hernández Serrano, Pedro V
   - Vivas Romero, Maria
   description: "Original link to the event LCRDM Networking Day 2022\n\nIn this workshop,\
     \ we will discuss how to deconstruct the FAIR principles into the 6 basic steps\
     \ of Circular Research Data.&nbsp;\nThis way, teaching RDM becomes more practical,\
     \ especially with Interoperability and Reusability.&nbsp;\nThe participants will\
     \ also learn how to create FAIR training materials, i.e. machine and human-readable,\
-    \ complying with the FAIR digital objects specification.\n\nResources used in the\
-    \ workshop\n\n\n\tFAIR Metadata Wizard: maastrichtu-ids.github.io/fair-metadata-wizard/\n\
+    \ complying with the FAIR digital objects specification.\n\nResources used in\
+    \ the workshop\n\n\n\tFAIR Metadata Wizard: maastrichtu-ids.github.io/fair-metadata-wizard/\n\
     \tMetadata template for FAIR training material: bit.ly/FAIRmetadata\n\tCircular\
     \ Research Data Coursebook: maastrichtu-library.github.io/circular-research-data-coursebok/\n\
     \tWeb Slides:&nbsp;Circular Research Data Bootcamp: A use case for FAIR training\
     \ materials&nbsp;\n\n\nInstructor Bio: Pedro Is the Faculty Data Steward at the\
     \ Faculty of Science and Engineering, Maastricht University.&nbsp;\nHe centrally\
-    \ supports activities, policy development and technical infrastructure at the University\
-    \ Library for data stewardship professionalisation He recently got awarded the Netherlands\
-    \ eScience Center fellowship to coordinate activities on FAIR Research Software\
-    \ in his institution."
+    \ supports activities, policy development and technical infrastructure at the\
+    \ University Library for data stewardship professionalisation He recently got\
+    \ awarded the Netherlands eScience Center fellowship to coordinate activities\
+    \ on FAIR Research Software in his institution."
   license: cc-by-4.0
   name: 'Circular Research Data Bootcamp: A use case for FAIR training materials'
   num_downloads: 160
@@ -28603,7 +28648,7 @@ resources:
   url:
   - https://zenodo.org/records/7296920
   - https://doi.org/10.5281/zenodo.7296920
-  
+  uuid: bf481c37-193a-40a8-8337-7907b9ab956b
 - authors:
   - Robert-Wagner-INP
   - Dr. Mohsen Ahmadi
@@ -28615,15 +28660,16 @@ resources:
   name: Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
   publication_date: '2026-06-23T07:47:23+00:00'
   submission_date: '2026-10-01T07:53:48.677714'
-  tags: 
+  tags:
   - Research Data Management
   - Notebook
   type: GitHub Repository
   url: https://github.com/INP-SDT/Bioimaging-Data-Management-Workflow-for-Plasma-Medicine
-  
+  uuid: 2a6d75c4-33a4-421c-b3a2-2738151758bd
 - authors:
   - Beth Cimini
-  description: A chart describing several options for online deposition of light microscopy data
+  description: A chart describing several options for online deposition of light microscopy
+    data
   license: cc-by-4.0
   name: A comparison of repositories for deposition of light microscopy data
   num_downloads: 110
@@ -28632,26 +28678,26 @@ resources:
   url:
   - https://zenodo.org/records/7628604
   - https://doi.org/10.5281/zenodo.7628604
-  
+  uuid: 2ef87e7d-6588-47b9-a201-47c397ae3f15
 - authors:
   - Jones, Martin
   description: '
-  
-  
+
+
     Presentation from IMC21 in Liverpool, given on Thursday 3rd September in the&nbsp;Enabling
     Technologies - Machine Learning in Biological Imaging&nbsp;session.
-  
+
     Title
-  
+
     Building Together: Open Tools, AI Segmentation, and Community Infrastructure for
     Volume EM data analysis
-  
+
     Abstract
-  
+
     Volume electron microscopy is generating ultrastructural datasets of unprecedented
-    scale and complexity, but the tools and expertise needed to extract biological meaning
-    from these data have struggled to keep pace.&nbsp;
-  
+    scale and complexity, but the tools and expertise needed to extract biological
+    meaning from these data have struggled to keep pace.&nbsp;
+
     I''ll begin by outlining some AI-based tools we have developed for analysing volume
     EM datasets, highlighting some of the challenges encountered when developing such
     workflows. Next, I will go on to describe the work of&nbsp;CCP-volumeEM (https://www.ccp-volumeem.ac.uk/),
@@ -28660,14 +28706,15 @@ resources:
     sustainable software development. This community effort aims to reduce the entry
     barrier for the reproducible use and development of the latest data science and
     AI tools by the volume EM community, and beyond. In addition to a range of software
-    development efforts, I will describe our community consolidation and training initiatives,
-    which are key elements in ensuring the best tools are in the hands of end-users.
-  
-  
-  
-  
+    development efforts, I will describe our community consolidation and training
+    initiatives, which are key elements in ensuring the best tools are in the hands
+    of end-users.
+
+
+
+
     &nbsp;
-  
+
     '
   license: cc-by-4.0
   name: 'Building Together: Open Tools, AI Segmentation, and Community Infrastructure
@@ -28678,6 +28725,7 @@ resources:
   url:
   - https://zenodo.org/records/22643394
   - https://doi.org/10.5281/zenodo.22643394
+  uuid: 61a5b218-90e3-4cc9-9d95-e67f9d1cd007
 - authors:
   - Knapp, Sarah
   - Korn, Patricia
@@ -28703,6 +28751,7 @@ resources:
   url:
   - https://zenodo.org/records/23164624
   - https://doi.org/10.5281/zenodo.23164624
+  uuid: ce57e4cb-7f08-4683-8ab2-c7746aea0f29
 - authors:
   - Sun, Yi
   - Massei, Riccardo
@@ -28718,6 +28767,7 @@ resources:
   url:
   - https://zenodo.org/records/23157247
   - https://doi.org/10.5281/zenodo.23157247
+  uuid: 8d670e59-9adc-40bf-abea-977c843ad1ca
 - authors:
   - Baldenius, Marie Tovelill
   - Mohr, Inga
@@ -28741,6 +28791,7 @@ resources:
   url:
   - https://zenodo.org/records/22773022
   - https://doi.org/10.5281/zenodo.22773022
+  uuid: cca05b1e-8e31-4fff-b837-b1a9381f0d43
 - authors:
   - Bischof, Johanna
   description: Workshop material for the SPAOM2026 Community Workshop on Strategic
@@ -28753,3 +28804,4 @@ resources:
   url:
   - https://zenodo.org/records/23138292
   - https://doi.org/10.5281/zenodo.23138292
+  uuid: d7c6e889-b1b2-4fcd-9e19-2b53dc10d876
