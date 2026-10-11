@@ -28753,3 +28753,22 @@ resources:
   url:
   - https://zenodo.org/records/23138292
   - https://doi.org/10.5281/zenodo.23138292
+
+- authors:
+  - Cuenca, Marina Belen
+  - Corbat, Agustin Andres
+  - Vellutini, Bruno C.
+  description: "This repository contains the materials (program, lectures, tutorials,\
+    \ etc.) of the Light-Sheet Image Analysis Workshop organized by LiSIUM that took\
+    \ place between 5\u20139 January 2026 at the Center for Integrative Biology of Universidad\
+    \ Mayor in Santiago, Chile. All the contents of the workshop are available online\
+    \ at bruvellu.github.io/light-sheet-image-analysis-workshop-2026."
+  license: cc-by-4.0
+  name: Repository for the Light-Sheet Image Analysis Workshop 2026
+  num_downloads: 12
+  publication_date: '2026-01-12'
+  submission_date: '2026-10-11T15:29:48.931213'
+  url:
+  - https://zenodo.org/records/18247227
+  - https://doi.org/10.5281/zenodo.18247227
+  
