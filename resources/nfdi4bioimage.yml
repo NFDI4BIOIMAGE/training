@@ -28768,7 +28768,12 @@ resources:
   num_downloads: 12
   publication_date: '2026-01-12'
   submission_date: '2026-10-11T15:29:48.931213'
+  tags:
+  - Light Sheet Microscopy
   url:
   - https://zenodo.org/records/18247227
   - https://doi.org/10.5281/zenodo.18247227
+  - https://github.com/bruvellu/light-sheet-image-analysis-workshop-2026/
+  - https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/
+  
   
