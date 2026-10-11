@@ -28753,3 +28753,20 @@ resources:
   url:
   - https://zenodo.org/records/23138292
   - https://doi.org/10.5281/zenodo.23138292
+
+- authors:
+  - Bruno C. Vellutini
+  - cuenca-mb
+  - Paperpile Bot (official)
+  - Agustin Andres Corbat
+  - Luz-Fuentealba
+  description: "Materials for the Light-Sheet Image Analysis Workshop organized by LiSIUM\
+    \ in Santiago, Chile from 5\u20139 January 2026."
+  license: Creative Commons Attribution 4.0 International
+  name: light-sheet-image-analysis-workshop-2026
+  publication_date: '2026-01-14T16:42:31+00:00'
+  submission_date: '2026-10-11T15:30:54.972487'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/bruvellu/light-sheet-image-analysis-workshop-2026/
+  
