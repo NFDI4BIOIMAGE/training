@@ -115,7 +115,20 @@ def get_file_in_repository(repository, branch_name, file_path):
     """
     print("loading file content...", file_path)
     repo = get_github_repository(repository)
-    return repo.get_contents(file_path, ref=branch_name)
+    content_file = repo.get_contents(file_path, ref=branch_name)
+    if content_file.encoding == "none":
+        # files larger than 1 MB are not returned inline by the contents API; read them as git blob
+        import base64
+        blob = repo.get_git_blob(content_file.sha)
+        data = base64.b64decode(blob.content) if blob.encoding == "base64" else blob.content.encode()
+
+        class _LargeContentFile:
+            sha = content_file.sha
+            path = content_file.path
+            decoded_content = data
+
+        return _LargeContentFile()
+    return content_file
     
 
 def create_branch(repository, parent_branch="main"):
