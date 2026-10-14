@@ -28802,4 +28802,105 @@ resources:
   - https://github.com/bruvellu/light-sheet-image-analysis-workshop-2026/
   - https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/
   
-  
+  - authors:
+  - Anemone, Annasofia
+  - Capozza, Martina
+  - Arena, Francesca
+  - Zullino, Sara
+  - Bardini, Paola
+  - Terreno, Enzo
+  - Longo, Dario
+  - Aime, Silvio
+  description: 'June image of the NFDI4BIOIMAGE wall calendar 2026 contributed by
+    Dario Longo. The image can be found here:&nbsp;https://eubi-xnat.hpc4ai.unito.it/app/template/XDATScreen_report_xnat_projectData.vm/search_element/xnat:projectData/search_field/xnat:projectData.ID/search_value/glint_glucose-3OMG).
+
+    The metadata to the image is published in PIDAR (https://pidar.hpc4ai.unito.it/Metadatas/Details?id=9)
+    and the original publication can be found here: https://doi.org/10.1002/nbm.4602.
+
+    Image description:
+
+    Using MRI&ndash;CEST with native glucose, researchers visualized and quantified
+    glucose uptake in a breast cancer mouse model without ionizing radiation. The
+    technique highlights tumor metabolism safely, offering an alternative to FDG-PET.
+    Data and metadata are openly shared through the PIDAR (https://pidar.hpc4ai.unito.it/)
+    repository, promoting FAIR and reproducible preclinical imaging studies.'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 June
+  num_downloads: 0
+  publication_date: '2026-10-08'
+  submission_date: '2026-10-13T18:04:30.494739'
+  url:
+  - https://zenodo.org/records/23239344
+  - https://doi.org/10.5281/zenodo.23239344
+- authors:
+  - Strotmann, Vivien
+  - Stahl, Yvonne
+  - "Garc\xEDa-G\xF3mez, Monica L."
+  - "Kroo\xDF, Ksenia"
+  description: 'May image of the NFDI4BIOIMAGE wall calendar 2026, contributed by
+    Vivien Strotmann. The original image can be found in BioImage Archive: https://doi.org/10.6019/S-BIAD1636
+
+    Image description:
+
+    A representative confocal microscope image of Col-0 wild type root meristem after
+    a combined mPSPI and EdU staining. The cell wall and starch granules are represented
+    in white, with the latter allowing for the analysis of the differentiation status
+    of the distal meristem. Furthermore, nuclei that divided within the last 24 h
+    are represented in purple'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 May
+  num_downloads: 0
+  publication_date: '2026-10-08'
+  submission_date: '2026-10-13T18:04:31.118751'
+  url:
+  - https://zenodo.org/records/23239348
+  - https://doi.org/10.5281/zenodo.23239348
+- authors:
+  - "M\xF6ller, Katr\xEDn"
+  - Villani, Ambra
+  - Kemmer, Isabel
+  description: 'April image of the NFDI4BIOIMAGE wall calendar 2026, contributed by
+    Katr&iacute;n M&ouml;ller et al. . The original image can be found in the BioImage
+    Archive: https://doi.org/10.6019/S-BIAD564
+
+    Image description:
+
+    Captured using selective plane illumination microscopy (SPIM), this image shows
+    microglia &ndash; immune cells responsible for clearing dying neurons - in the
+    developing zebrafish brain. Within the same brain, a subset of microglia was modified
+    to contain two centrosomes instead of one. These double-centrosome microglia exhibit
+    increased phagocytic efficiency, linking centrosome organization to the rate of
+    neuronal clearance.&nbsp;'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 April
+  num_downloads: 0
+  publication_date: '2026-10-08'
+  submission_date: '2026-10-13T18:04:31.899426'
+  url:
+  - https://zenodo.org/records/23238751
+  - https://doi.org/10.5281/zenodo.23238751
+- authors:
+  - Rotte, Nadja
+  - Wendt, Jens
+  description: 'February image of the NFDI4BIOIMAGE wall calendar 2026, contributed
+    by Nadja Rotte. The original image can be found in the public OMERO instance hosted
+    in M&uuml;nster:&nbsp;https://doi.org/10.57860/min_prj_000011
+
+    Image description:
+
+    This image shows human testicular tissue from a man with non-obstructive azoospermia,
+    an infertility phenotype in which no spermatozoa are present in the ejaculate.
+    Yet, haploid germ cells may still develop within the testis. Immunohistochemical
+    staining for the transcription factor CREM (brown) enables identification of round
+    spermatids, the first haploid germ cell stage. At the Institute of Reproductive
+    Genetics in M&uuml;nster, we combine this approach with whole-slide microscopy
+    for comprehensive analysis of spermatogenic failure, linking histological findings
+    to genetic causes of infertility.'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 February
+  num_downloads: 0
+  publication_date: '2026-10-05'
+  submission_date: '2026-10-13T18:04:32.978047'
+  url:
+  - https://zenodo.org/records/23164937
+  - https://doi.org/10.5281/zenodo.23164937
