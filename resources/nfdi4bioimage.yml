@@ -28904,3 +28904,184 @@ resources:
   url:
   - https://zenodo.org/records/23164937
   - https://doi.org/10.5281/zenodo.23164937
+- authors:
+  - Wetzker, Cornelia
+  - Leomil Zoccoler, Marcelo
+  - Fabig, Gunar
+  description: 'The August image of the NFDI4BIOIMAGE wall calendar 2026 contributed
+    by Cornelia Wetzker. The image can be found as part of a dataset in the SSBD-repository:&nbsp;https://doi.org/10.24631/ssbd.repos.2025.05.438&nbsp;
+    as well as in the BioImage Archive: &nbsp;https://doi.org/10.6019/S-BIAD1967
+
+
+
+    Once upon a LIFEtime a triple transgenic C. elegans embryo underwent early mitotic
+    divisions to develop into a mature worm. It expressed three fluorophores: One
+    marked its mitotic spindle centrosomes (cyan) while the other two (both magenta)
+    were nearly indistinguishable by conventional fluorescence microscopy due to high
+    spectral overlap (upper part). The latter two marked chromatin and cell membranes,
+    respectively. Researchers came to help and assessed the fluorescence lifetimes
+    using the imaging technique FLIM (lower part). They could then luckily distinguish
+    chromatin (yellow) and membranes (blue). The end.
+
+    This project was partially supported by the German consortium NFDI4BIOIMAGE, funded
+    by the Deutsche Forschungsgemeinschaft (DFG grant number NFDI 46/1, project number
+    501864659).
+
+
+    '
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 August
+  num_downloads: 0
+  publication_date: '2026-10-20'
+  submission_date: '2026-10-20T15:36:04.460895'
+  url:
+  - https://zenodo.org/records/23495828
+  - https://doi.org/10.5281/zenodo.23495828
+- authors:
+  - Kibui, Pauline Wanjiku
+  description: 'July image of the NFDI4BIOIMAGE wall calendar 2026 contributed by
+    Pauline Wanjiku Kibui. The image can be found in Bioimage Archive: https://doi.org/10.6019/S-BIAD1898.
+
+    Image description:
+
+
+    Testicular crimson streams represent the vascular network (red) closely associated
+    with testicular cells (blue) in the adult primate testis. The germ cells, particularly
+    spermatogonia (green), express Melanoma-associated antigen A4 (MAGEA4). Using
+    our new toolbox, PT-CLEAR3D, testicular fragments were immunostained, optically
+    cleared and imaged using a light sheet microscope. This novel approach allowed
+    us to perform 3D analysis of the primate testis for the first time thereby revealing
+    rare occurrences in normal breeding non-human primates and gender dysphoria patients.
+
+    '
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 July
+  num_downloads: 2
+  publication_date: '2026-10-20'
+  submission_date: '2026-10-20T15:36:04.958365'
+  url:
+  - https://zenodo.org/records/23495611
+  - https://doi.org/10.5281/zenodo.23495611
+- authors:
+  - Wendt, Jens
+  description: 'These are the slides for the short workshop "OMERO Plugin/Script Hub"
+    at the RDM4mic meeting in Cologne, GER in October 2026.
+
+    They explore a possible hub infrastructure for plugins, scripts and more from
+    the OMERO ecosystem.
+
+    &nbsp;
+
+    We acknowledge funding by the&nbsp;Deutsche Forschungsgemeinschaft (DFG, German
+    Research Foundation) under the National Research Data Infrastructure &ndash; NFDI
+    46/1 &ndash; 501864659.'
+  license: cc-by-4.0
+  name: Presentation "OMERO Plugin/Script Hub" at the RDM4Mic meeting 2026
+  num_downloads: 13
+  publication_date: '2026-10-16'
+  submission_date: '2026-10-20T15:36:05.441633'
+  url:
+  - https://zenodo.org/records/23417015
+  - https://doi.org/10.5281/zenodo.23417015
+- authors:
+  - Kandpal, Niraj
+  - Zentis, Peter
+  description: 'We present a case study that documents the current state and practical
+    evaluation of Key&ndash;Value Pair (KVP) annotations within an institutional OMERO
+    instance at the University of Cologne. It focuses on the implementation and usage
+    of OMERO.mde metadata forms for electron microscopy (EM) data, developed in alignment
+    with RDM4Mic recommendations and domain-specific requirements.
+
+    We describe the design of controlled metadata fields using predefined values and
+    drop-down lists, the rationale for limiting direct ontology lookups during annotation,
+    and the balance between controlled terms and free-text entries. Quantitative analyses
+    of annotation usage are presented, including the number of annotated images, temporal
+    development of annotations, most frequently used keys and values, and observed
+    patterns in manual metadata entry.
+
+    The presentation outlines workflows for harvesting OMERO annotations using omero-py
+    and ezomero, exporting metadata as RDF via omero-rdf. We discuss practical challenges
+    such as heterogeneous user input, and evolving experimental workflows as well
+    as planned future work, including harmonisation with institute-wide metadata standards
+    and steps towards REMBI compliance.'
+  license: cc-by-4.0
+  name: Update on the usage of Tags and KVP for annotation on our OMERO instance
+  num_downloads: 12
+  publication_date: '2026-01-09'
+  submission_date: '2026-10-20T15:37:35.148354'
+  url:
+  - https://zenodo.org/records/18199881
+  - https://doi.org/10.5281/zenodo.18199881
+- authors:
+  - Kandpal, Niraj
+  - Bortolomeazzi, Michele
+  - Zentis, Peter
+  description: This presentation is a part of the workshop at RDM4Mic 2026. The workshop
+    is about OME-NGFF and file format OME-Zarr. Here we discuss about various methods
+    to import OME-Zarr data into OMERO, challenges and new updates and features of
+    the OME-Zarr file format. We discuss the role of OME-Zarr in context of the imaging
+    facilities and its users.
+  license: cc-by-4.0
+  name: Workshop on OMERO and OME-NGFF
+  num_downloads: 1
+  publication_date: '2026-10-12'
+  submission_date: '2026-10-20T15:37:39.087056'
+  url:
+  - https://zenodo.org/records/23318812
+  - https://doi.org/10.5281/zenodo.23318812
+- authors:
+  - Kandpal, Niraj
+  - Zentis, Peter
+  - Valencia-Schneider, Monica
+  - Schauss, Astrid
+  description: A presentation on workflow to integrate the Coscine S3 storage with
+    OMERO and OME-Zarr. Often imaging facilities and OMERO users need more and more
+    storage space as the image data increases. For this, for various universities,
+    there is a platform called Coscine from RWTH Aachen University. Coscine platform
+    provides storage including S3 storage after application process. In this presentation
+    we talk about how to use OMERO's in-place import to import data automatically
+    from Coscine S3 bucket into OMERO. Besides this we talk on how to make OME-Zarr
+    work with OMERO and Coscine. We here discuss the different workflows to import
+    and visualize OME-Zarr in OMERO.
+  license: cc-by-4.0
+  name: OMERO, Object Storage and OME-Zarr
+  num_downloads: 1
+  publication_date: '2026-10-12'
+  submission_date: '2026-10-20T15:37:39.628959'
+  url:
+  - https://zenodo.org/records/23318297
+  - https://doi.org/10.5281/zenodo.23318297
+- authors:
+  - Kandpal, Niraj
+  description: Presentation slides from RDM4Mic 2025. The pdf slides give an overview
+    of various (meta)data integration activities including OMERO and ARC Interoperability,
+    OMERO and 3D Slicer integration via plugin and OME-Zarr and 3D Slicer plugin to
+    read imaging data from S3 bucket. The presentation is available on RDM4Mic channel
+    on YouTube.
+  license: cc-by-4.0
+  name: Data Integration & Interoperability with ARC, OMERO, 3DSlicer and OME-Zarr
+  num_downloads: 92
+  publication_date: '2025-10-30'
+  submission_date: '2026-10-20T15:37:40.156096'
+  url:
+  - https://zenodo.org/records/17487264
+  - https://doi.org/10.5281/zenodo.17487264
+- authors:
+  - Kandpal, Niraj
+  - Zentis, Peter
+  - Hoevels, Moritz
+  - Valencia-Schneider, Monica
+  - Schauss, Astrid
+  description: Presentation slides from RDM4mic meeting in Muenster from 19-21 September
+    2023. These slides contain data management use case at CECAD Imaging facility.
+    We are using OMERO.mde to annotate EM(Electron Microscopy) data with metadata
+    at the imaging facility. This presentation provide a use case with specific template
+    for Electron&nbsp; Microscopy.
+  license: cc-by-4.0
+  name: 'OMERO.mde : Electron Microscopy Use Case'
+  num_downloads: 67
+  publication_date: '2023-11-20'
+  submission_date: '2026-10-20T15:37:40.802398'
+  url:
+  - https://zenodo.org/records/15033241
+  - https://doi.org/10.5281/zenodo.15033241
