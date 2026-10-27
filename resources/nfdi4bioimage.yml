@@ -29085,3 +29085,184 @@ resources:
   url:
   - https://zenodo.org/records/15033241
   - https://doi.org/10.5281/zenodo.15033241
+- authors:
+  - Schmidt, Christian
+  - Hanne, Janina
+  - Moore, Josh
+  - Weidtkamp-Peters, Stefanie
+  description: 'Modern bioimaging generates increasingly large, complex and heterogeneous
+    datasets. Making these data accessible beyond the laboratory in which they were
+    acquired requires more than storage: it requires common standards, interoperable
+    infrastructure, practical workflows, and communities that adopt them. In Germany,
+    the NFDI4BIOIMAGE consortium (National Research Data Infrastructure for Microscopy
+    and Bioimage Analysis) and the I3D:bio project (Information Infrastructure for
+    BioImage Data) address this challenge from the national infrastructure to the
+    institutional implementation level. Their shared goal is to make FAIR research
+    data management an integral part of everyday bioimaging practice.
+
+    NFDI4BIOIMAGE connects researchers, imaging facilities, bioimage analysts, data
+    stewards, infrastructure providers and international initiatives to develop and
+    establish solutions across the bioimage data lifecycle. Activities range from
+    community-driven standards such as OME-Zarr and interoperable metadata approaches
+    to cloud-based image analysis, data publication, training and dedicated research
+    data management support.
+
+    I3D:bio complements this landscape with a focus on practical institutional workflows,
+    in particular based on the image data management platform OMERO. Through deployment
+    support, best-practice development, training and direct interaction with imaging
+    facilities, I3D:bio has supported institutions in establishing sustainable local
+    bioimage data management infrastructures.
+
+    The close interaction between both projects illustrates how national coordination
+    and local implementation can reinforce each other. Joint activities around OMERO,
+    metadata annotation, training, data stewardship and community events provide feedback
+    from everyday research practice into infrastructure development while making emerging
+    standards and services directly accessible to researchers. Here, we present this
+    collaborative ecosystem and selected examples of how connecting people, standards,
+    services and data can lower barriers to FAIR and open bioimaging. We argue that
+    sustainable access to imaging does not end at access to instruments: enabling
+    researchers to manage, analyse, share and ultimately reuse the resulting data
+    is an equally important component of open imaging infrastructure.'
+  license: cc-by-4.0
+  name: "Connecting communities through FAIR data \u2013 the research data management\
+    \ (RDM) projects NFDI4BIOIMAGE and I3D:bio"
+  num_downloads: 0
+  publication_date: '2026-10-27'
+  submission_date: '2026-10-27T16:19:12.281373'
+  url:
+  - https://zenodo.org/records/23685962
+  - https://doi.org/10.5281/zenodo.23685962
+- authors:
+  - Falk, Henning
+  description: 'December image of the NFDI4BIOIMAGE wall calendar 2026. The cartoon
+    is originally published in Zenodo: https://doi.org/10.5281/zenodo.17607828'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 December
+  num_downloads: 11
+  publication_date: '2026-10-21'
+  submission_date: '2026-10-27T16:19:12.789262'
+  url:
+  - https://zenodo.org/records/23528568
+  - https://doi.org/10.5281/zenodo.23528568
+- authors:
+  - Mohr, Inga
+  description: 'November image of the NFDI4BIOIMAGE wall calendar 2026 contributed
+    by Inga Mohr. The original image can bei found in BioImage Archive: https://doi.org/10.6019/S-BIAD1241
+
+    Image description:
+
+
+    This fluorescent image was created during an intensive localization study of a
+    protein in the model plant Arabidopsis thaliana. Visible are Golgi stacks in magenta
+    and the protein of interest in yellow, expressed in Nicotiana benthamiana leaf
+    epidermal cells near the surface. The original purpose of this experiment was
+    to study colocalization with specific organellar markers in order to identify
+    the protein&rsquo;s localization within cells. As a side effect, the image also
+    sparks creative interpretations of what can be seen inside &mdash; some see a
+    reindeer, others the number three. What do you see?
+
+    '
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 November
+  num_downloads: 15
+  publication_date: '2026-11-01'
+  submission_date: '2026-10-27T16:19:13.318115'
+  url:
+  - https://zenodo.org/records/23528455
+  - https://doi.org/10.5281/zenodo.23528455
+- authors:
+  - Rudlaff, Rachel M
+  - Kraemer, Stephan
+  - Marshman, Jeffrey
+  - Dvorin, Jeffrey D
+  description: 'October image of the NFDI4BIOIMAGE wall calendar 2026. The collage
+    was provided by Isabel Kemmer. The original images can be found in EMPIAR: https://doi.org/10.6019/EMPIAR-10392
+
+    Image description:
+
+
+    EMPIAR (Electron Microscopy Public Image Archive) is a public repository for raw
+    electron microscopy data underpinning cryo-EM maps as well as volume EM and X-ray
+    tomography data. Launched by EMBL-EBI in 2013, it currently holds over 2 petabytes
+    of open data under a CC0 license for scientific reuse, validation, method development
+    and training. This composite from EMPIAR-10392 features FIB-SEM images of the
+    malaria parasite Plasmodium falciparum 3D ultrastructure during different cytokinesis
+    stages: (i) mid-segmentation, (iii) Parasitophorous Vacuole Membrane rupture,
+    (ii+iv) post-PVM rupture.
+
+    '
+  license: cc-zero
+  name: NFDI4BIOIMAGE Calendar 2026 October
+  num_downloads: 13
+  publication_date: '2026-10-21'
+  submission_date: '2026-10-27T16:19:13.964372'
+  url:
+  - https://zenodo.org/records/23527908
+  - https://doi.org/10.5281/zenodo.23527908
+- authors:
+  - Purser, Autun
+  - Boehringer, Lilian
+  - Hehemann, Laura
+  - "Wenzh\xF6fer, Frank"
+  description: 'September image of the NFDI4BIOIMAGE wall calender 2026. The original
+    image can be found in PANGAEA: https://doi.org/10.1594/PANGAEA.932827
+
+    Image description:&nbsp;
+
+
+    Seabed photographs taken along OFOS profile PS124_21-7 during POLARSTERN cruise
+    PS124 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.932826 In: Purser, A
+    et al. (2021): Ocean Floor Observation and Bathymetry System (OFOBS) images of
+    Neopagetopsis ionah ice fish nest arrays in the Filchner Trough, Antarctica collected
+    during the PS124 Polarstern expedition [dataset publication series]. PANGAEA,
+    https://doi.org/10.1594/PANGAEA.932827
+
+    '
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 September
+  num_downloads: 13
+  publication_date: '2026-10-21'
+  submission_date: '2026-10-27T16:19:14.492523'
+  url:
+  - https://zenodo.org/records/23527461
+  - https://doi.org/10.5281/zenodo.23527461
+- authors:
+  - Kuzikov, Maria
+  - Reinshagen, Jeanette
+  - Huchting, Johanna
+  - Wendt, Jens
+  - Gadiya, Yojana
+  - Gribbon, Phil
+  - Zaliani, Andrea
+  description: 'March image of the NFDI4BIOIMAGE wall calendar 2026, contributed by
+    Maria Kuzikov et al. . The original image can be found in BioImageArchive (https://doi.org/10.6019/S-BIAD2282)
+
+    Image description:
+
+    This high-content screening image shows Vero-E6 kidney cells treated with Rebastinib,
+    one of over 5,000 chemical compounds from a drug repurposing collection tested
+    in this phospholipidosis study. Two fluorophores mark cell nuclei and cytoplasm,
+    providing robust signals for modern cell segmentation workflows based on neural
+    networks, while a third channel captured neutral lipid droplets characteristic
+    of phospholipidosis. This standardized screen holds high potential for future
+    re-use in AI driven workflows, supporting the development of predictive models
+    for drug-induced cellular effects.'
+  license: cc-by-4.0
+  name: NFDI4BIOIMAGE Calendar 2026 March
+  num_downloads: 11
+  publication_date: '2026-10-08'
+  submission_date: '2026-10-27T16:19:15.215765'
+  url:
+  - https://zenodo.org/records/23238179
+  - https://doi.org/10.5281/zenodo.23238179
+- authors:
+  - "Rodr\xEDguez de la Ballina, Laura"
+  - Corbat, Agustin Andres
+  license: cc-by-4.0
+  name: Navigating bioimage analysis
+  num_downloads: 22
+  publication_date: '2026-10-20'
+  submission_date: '2026-10-27T16:20:27.411421'
+  url:
+  - https://zenodo.org/records/23504309
+  - https://doi.org/10.5281/zenodo.23504309
