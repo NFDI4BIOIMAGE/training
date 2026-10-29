@@ -29332,3 +29332,19 @@ resources:
   - https://zenodo.org/records/20413892
   - https://doi.org/10.5281/zenodo.20413892
   
+- authors:
+  - ziyan huang
+  - Ming Hu
+  - Jin Ye
+  - Junzhi Ning
+  - Daniel Ji
+  description: 'Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets
+    for Foundation Model Development'
+  license: MIT License
+  name: Project-Imaging-X
+  publication_date: '2025-09-22T02:54:59+00:00'
+  submission_date: '2026-10-29T12:35:53.666581'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/uni-medical/Project-Imaging-X
+  
