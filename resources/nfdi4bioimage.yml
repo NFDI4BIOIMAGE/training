@@ -29266,3 +29266,55 @@ resources:
   url:
   - https://zenodo.org/records/23504309
   - https://doi.org/10.5281/zenodo.23504309
+
+- authors:
+  - Marsh-Wakefield, Felix
+  description: 'There are four zipped files shared here.
+  
+    UnumLocalia
+  
+    This contains the provided data to run UnumLocalia. This includes four cores: core01
+    (tumour HCC liver), core02 (non-tumour HCC liver), core03 (human tonsil), and core04
+    (human hepatocellular adenoma). Each core contains Xenium transcripts (including
+    cell borders), COMET staining (ome.zarr file, marker thresholds), and H&amp;E imaging
+    (ome.zarr file). Alignment matrices are provided for the COMET and H&amp;E images
+    to align with Xenium data (which can be aligned and visualised using UnumLocalia).
+  
+    Cell_quantifications
+  
+    This contains single cells from each of the cores with quantified transcripts (Xenium)
+    and protein (COMET) expression and COMET protein thresholds. These were generated
+    in UnumLocalia, using the default Xenium cell masks. These data were used to generate
+    the figures in the associated paper.
+  
+    COMET_cell_masks
+  
+    This contains cell masks for each of the cores generated using COMET data in QuPath
+    (v0.6.0) using InstaSeg (model fluorescence_nuclei_and_cells-0.1.1). These masks
+    can be read into UnumLocalia as an alternative cell mask.
+  
+    COMET_ome_tiff
+  
+    This contains ome.tiff files for each of the cores. This is an alternative format
+    that can more easily be read into software like QuPath.
+  
+    &nbsp;
+  
+    Citation
+  
+    Please cite the bioRxiv paper associated with these data:
+  
+    Duchini E, Tsao C, Madore J, Ashhurst T, De Almeida Silva J, Shin J, Gupta R, McCaughan
+    G, Palendira U, Liu K, Ferguson A*, Marsh-Wakefield F*. An open multimodal spatial
+    resource integrating same-tissue transcriptomics, proteomics, and histology. *Authors
+    contributed equally. bioRxiv&nbsp;2026.08.17.742355;&nbsp;doi:&nbsp;https://doi.org/10.64898/2026.08.17.742355'
+  license: cc-by-4.0
+  name: An open multimodal spatial resource integrating same-tissue transcriptomics,
+    proteomics, and histology
+  num_downloads: 3857
+  publication_date: '2026-07-31'
+  submission_date: '2026-10-28T16:03:45.821814'
+  url:
+  - https://zenodo.org/records/21713660
+  - https://doi.org/10.5281/zenodo.21713660
+  
