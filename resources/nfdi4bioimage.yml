@@ -29348,3 +29348,17 @@ resources:
   type: GitHub Repository
   url: https://github.com/uni-medical/Project-Imaging-X
   
+- authors:
+  - Reese Richardson
+  - Yagmur Ozturk
+  - Solal Pirelli
+  - Guillaume Cabanac
+  description: The Collection of Open Science Integrity Guides (COSIG)
+  license: Other
+  name: cosig
+  publication_date: '2025-02-05T19:41:48+00:00'
+  submission_date: '2026-11-05T16:49:57.934345'
+  tags: TODO
+  type: GitHub Repository
+  url: https://github.com/cosig-pppr/cosig
+  
