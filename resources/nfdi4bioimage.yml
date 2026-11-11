@@ -29347,4 +29347,16 @@ resources:
   tags: TODO
   type: GitHub Repository
   url: https://github.com/uni-medical/Project-Imaging-X
-  
+  - authors:
+  - Haase, Robert
+  description: 'This slide deck introduces us to the very basics needed to perform
+    image data science using code-generation approaches with large language models.
+    The slides here are associated with the exercise materials provided here: https://scads.github.io/hic-genai-2026'
+  license: cc-by-4.0
+  name: Generative Artificial Intelligence for Image Data Science
+  num_downloads: 25
+  publication_date: '2026-11-09'
+  submission_date: '2026-11-10T18:33:16.244219'
+  url:
+  - https://zenodo.org/records/24082016
+  - https://doi.org/10.5281/zenodo.24082016
