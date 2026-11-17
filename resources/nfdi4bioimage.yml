@@ -29347,7 +29347,7 @@ resources:
   tags: TODO
   type: GitHub Repository
   url: https://github.com/uni-medical/Project-Imaging-X
-  - authors:
+- authors:
   - Haase, Robert
   description: 'This slide deck introduces us to the very basics needed to perform
     image data science using code-generation approaches with large language models.
