@@ -29360,3 +29360,125 @@ resources:
   url:
   - https://zenodo.org/records/24082016
   - https://doi.org/10.5281/zenodo.24082016
+- authors:
+  - Haase, Robert
+  description: 'In this slide deck we dive into AI-assisted Data Analysis, with a
+    soft focus on analysing imaging data and tabular data. So make use of sovereign
+    IT infrastructure, we combine
+
+
+    Blablador LLM server of the Helmholtz Society
+
+    Jupyter Hub server of the National Research Data Management Infrastructure
+
+    Bia-Bob AI-assistant in Jupyter for code generation
+
+
+    These slides are accompanied by exercise materials provided online: https://scads.github.io/ai-da-2026'
+  license: cc-by-4.0
+  name: AI-assisted Data Science on sovereign IT infrastructure
+  num_downloads: 0
+  publication_date: '2026-11-24'
+  submission_date: '2026-11-24T21:03:07.148175'
+  url:
+  - https://zenodo.org/records/24495667
+  - https://doi.org/10.5281/zenodo.24495667
+- authors:
+  - Wendt, Jens
+  - Zobel, Thomas
+  description: 'These are the presentation slides for the online Workshop "Research
+    Data Management for Microscopy" held 10.11. and 12.11.2026
+
+    The aim of the workshop was to familiarize participants with the basics and concepts
+    of RDM for microscopy data, with emphasis on OMERO as a data management platform
+    specifically for bioimaging data.
+
+    Topics:
+
+
+    Introduction to research data management (with a focus on microscopy data)
+
+    Best practices for data organisation &amp; documentation
+
+    FAIR principles and their application in imaging research
+
+    Hands-on session: Getting started with OMERO &ndash; uploading, annotating, and
+    managing imaging data
+
+    What, how, and why to annotate? Introduction to REMBI and ontology-based metadata
+    using OMERO
+
+
+    &nbsp;
+
+    Target Audience:&nbsp;Researchers and persons working with bioimaging data without
+    extensive experience in RDM.
+
+    We acknowledge funding by the&nbsp;Deutsche Forschungsgemeinschaft (DFG, German
+    Research Foundation) under the National Research Data Infrastructure &ndash; NFDI
+    46/1 &ndash; 501864659.'
+  license: cc-by-4.0
+  name: online Workshop "Research Data Management for Microscopy"
+  num_downloads: 100
+  publication_date: '2026-11-18'
+  submission_date: '2026-11-24T21:03:08.004897'
+  url:
+  - https://zenodo.org/records/24343953
+  - https://doi.org/10.5281/zenodo.24343953
+- authors:
+  - Moore, Josh
+  description: '
+
+    Invited talk given to Yokogawa in Kanazawa, Japan
+
+    '
+  license: cc-by-4.0
+  name: Road to OME-Zarr 1.0
+  num_downloads: 25
+  publication_date: '2026-11-17'
+  submission_date: '2026-11-24T21:03:08.704618'
+  url:
+  - https://zenodo.org/records/24299949
+  - https://doi.org/10.5281/zenodo.24299949
+- authors:
+  - BIOP staff
+  description: 'Initial description : https://forum.image.sc/t/qupath-omero-weird-pyramid-levels/65484
+
+    Data on OMERO-public: https://omero-public.epfl.ch/webclient/?show=image-199342'
+  license: cc-by-4.0
+  name: Weird pyramid levels on VSI file
+  num_downloads: 6
+  publication_date: '2026-11-23'
+  submission_date: '2026-11-24T21:04:13.343985'
+  url:
+  - https://zenodo.org/records/24464876
+  - https://doi.org/10.5281/zenodo.24464876
+- authors:
+  - Chiaruttini, Nicolas
+  description: See PR https://github.com/ome/bioformats/pull/4511These 2 files can
+    be uses to reproduce a bug where the physical z-spacing of Nikon nd2 files is
+    not recognized by the Bio-Formats library.
+  license: cc-by-4.0
+  name: nd2 files documenting Bio-Formats PR https://github.com/ome/bioformats/pull/4511
+  num_downloads: 15
+  publication_date: '2026-11-19'
+  submission_date: '2026-11-24T21:04:13.838456'
+  url:
+  - https://zenodo.org/records/24363428
+  - https://doi.org/10.5281/zenodo.24363428
+- authors:
+  - Felder, Alessandro
+  - Cooper, Jonathan
+  - Swann, Donna
+  - Tyson, Adam
+  description: A poster for the GloBIAS 2026 workshop, about career paths for digital
+    research technology professionals.
+  license: cc-by-4.0
+  name: 'Career pathways in a research software development "facility" in the life
+    sciences: a blueprint for bioimage analysts?'
+  num_downloads: 10
+  publication_date: '2026-11-19'
+  submission_date: '2026-11-24T21:04:28.852357'
+  url:
+  - https://zenodo.org/records/24373035
+  - https://doi.org/10.5281/zenodo.24373035
